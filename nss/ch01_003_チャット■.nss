@@ -2461,7 +2461,7 @@ straight on&.
 //裂かれた男の腹。その中に強引に詰め込まれた胎児の遺体。<k>
 //高層ビルからダイブした５人は、地面に叩き付けられてきっと原形をとどめていないくらいぐちゃぐちゃになったはず……。
 A man's torn stomach&. The fetus that was forcibly stuffed
-in the hole&.<k>
+in the hole&.
 
 When the five who dove from that high-rise hit the
 ground&, they must've gotten so badly messed up that

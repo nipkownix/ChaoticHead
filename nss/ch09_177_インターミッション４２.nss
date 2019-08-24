@@ -104,7 +104,7 @@ he was a little bit intimidating&.
 
 She had met people employed as detectives countless times in relation
 to her sister's death&, but they hadn't left a very good impression on
-her&. <k>
+her&. 
 
 That might explain her sense that she would have a hard time dealing
 with Ban&. Such was the result of Yua's self-analysis&.

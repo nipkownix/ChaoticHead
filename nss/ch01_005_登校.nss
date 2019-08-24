@@ -103,7 +103,7 @@ In my heart&, I went on fervently reciting&,
 
 //この学校には、ひとつ年下の妹も実家から通ってる。<k>
 My little sister&, who's one year younger&, goes to this
-school too&, but she lives with my parents&. <k>
+school too&, but she lives with my parents&. 
 
 //あいつと遭遇した日には悲劇だ。
 A day when I run into her is a tragic day indeed&.

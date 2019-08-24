@@ -1019,7 +1019,7 @@ Though I had no recollection of it&, at some point I'd become friends
 with a girl named Rimi&.
 
 I wasn't a somnambulist―<k>
-There was no higher-order existence manipulating me―<k>
+There was no higher-order existence manipulating me―
 
 Maybe "the person behind me"―<k>
 Had literally been inside my heart―

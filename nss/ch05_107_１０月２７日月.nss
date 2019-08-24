@@ -45,7 +45,7 @@ spent a worrisome two days alone&.
 Rimi had bought me fresh supplies of food in advance on Friday&, so
 I'd stayed shut up in my base without taking a single step outside&,
 but even then there were countless times when my anxiety almost drove
-me to email Rimi&, saying "Please come over&."<k>
+me to email Rimi&, saying "Please come over&."
 
 In the end&, I never pressed Send&, but&.&.&.
 

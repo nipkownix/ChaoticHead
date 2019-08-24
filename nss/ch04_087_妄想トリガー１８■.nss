@@ -173,7 +173,7 @@ I listed the possible reasons in my head&.
 ‡@ Because I'm alone in a place like this at night&.<k>
 ‡A Because I seem like a suspicious character&.<k>
 ‡B Because he's questioning everyone he comes across in the line of
-duty&.<k>
+duty&.
 
 ‡C Because the police view me as a suspect in the New-Gen cases&.
 
