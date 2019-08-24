@@ -59,7 +59,7 @@ I'd tried calling her&, but I got her voicemail again&.
 Even so&, up until now&, Rimi had invariably came sailing to
 wherever I was and reassured me&, saying "It'll be okay&."
 
-Why wouldn't she come for me today&.&.&.&.
+Why wouldn't she come for me today&.&.&.
 Hadn't she told me she would always stay with me?
 
 I ground my teeth and immersed myself in redoing my PC settings to
@@ -71,7 +71,7 @@ Since I hadn't touched it since I first tweaked the settings&, I
 didn't remember how I liked to have everything arranged&.
 
 I had to begin by finding the instructions for my email software and
-ISP&. 
+ISP&.
 
 Before I knew it&, I was damp with sweat&, though it didn't involve a
 huge amount of labor&. Many times&, midway through&, I wanted to throw
@@ -100,12 +100,12 @@ I immediately checked my mail&.
 <PRE box00>
 [text002]
 //【星来】
-<voice name="星来" class="星来" src="ch06/12300010se">
+<voice name="星来" class="星来" src="voice/ch06/12300010se">
 "You've got mail~&, dummy ♪"
 
-Ahh&.&.&.&. I'd finally become able to hear her voice&.&.&.&.
+Ahh&.&.&. I'd finally become able to hear her voice&.&.&.
 It was a real relief to listen to her&. I felt like it'd all been
-worthwhile&.&.&.&.
+worthwhile&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -149,8 +149,8 @@ Pretty much all of them were spam&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300020ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300020ta">
+"&.&.&.&.&.&.&."
 
 Mixed in with the spam&,
 
@@ -189,18 +189,18 @@ That caught my attention&.
 [text005]
 //◆うめく
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300030ta">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300030ta">
+"&.&.&.&.&.&.&.&."
 
 I groaned without thinking&.
 
-What was this&.&.&.&.
+What was this&.&.&.
 Was Nanami pulling my leg?
 
 If so&, that'd make her lowest of the low&. I'd gonna beat her to
 death&.
 
-&.&.&.&.No&, wait a sec&.
+&.&.&.No&, wait a sec&.
 
 Nanami couldn't have emailed me here&.
 
@@ -219,7 +219,7 @@ Even the phrase "Whose eyes are those eyes?" was incredibly popular
 now&. You'd see it getting used all over the place&.
 
 There was nothing weird about it getting used as the title of a spam
-email&.&.&.&.
+email&.&.&.
 
 For the time being&, I decided to read the contents&.
 
@@ -231,20 +231,20 @@ For the time being&, I decided to read the contents&.
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300040ta">
-"Err--&, it's pretty big&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300040ta">
+"Err―&, it's pretty big&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300050ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300050ta">
 "'I had fun chatting with you earlier&.'"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300060ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300060ta">
 "'By the way&, the sender's name is an alias&.'"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300070ta">
-"'My name is Shogun'&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300070ta">
+"'My name is Shogun'&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -259,24 +259,24 @@ For the time being&, I decided to read the contents&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300080ta">
-"Eh&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300080ta">
+"Eh&.&.&.?"
 
-"Shogun&," you mean&.&.&.&.
-
-//【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300090ta">
-"Sho&, Sho&, 'Shogun' couldn't possibly know my&.&.&.&."
-
-But&.&.&.&.
-What if "Shogun" were "recording my thoughts"&.&.&.&.?
-
-Extracting my email address&.&.&.&. might be easy as pie for
-him&.&.&.&.
+"Shogun&," you mean&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300100ta">
-"It&, it's&.&.&.&. a lie&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300090ta">
+"Sho&, Sho&, 'Shogun' couldn't possibly know my&.&.&."
+
+But&.&.&.
+What if "Shogun" were "recording my thoughts"&.&.&.?
+
+Extracting my email address&.&.&. might be easy as pie for
+him&.&.&.
+
+//【拓巳】
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300100ta">
+"It&, it's&.&.&. a lie&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -338,31 +338,31 @@ him&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-What&.&.&.&. is this&.&.&.&.
+What&.&.&. is this&.&.&.
 
 {	Move("背景２", 2000, @0, @-200, AxlDxl, true);
 	Wait(1000);}
 As I read the whole message&, its intimate tone became conversely
 terrifying&.
 
-He&.&.&.&. he's&.&.&.&. crazy&.&.&.&.
-Oh&.&.&.&. Oh god&.&.&.&.
+He&.&.&. he's&.&.&. crazy&.&.&.
+Oh&.&.&. Oh god&.&.&.
 
 {	Move("背景２", 2000, @0, @-200, AxlDxl, true);
 	Wait(1000);}
-And when he said things like quest and high score&.&.&.&. he almost
-made it sound like a game&.&.&.&.
+And when he said things like quest and high score&.&.&. he almost
+made it sound like a game&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300110ta">
-"I&, I&, I'm&, I'm not&.&.&.&. a hero&.&.&.&. I'm not&.&.&.&.
-Neidhardt&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300110ta">
+"I&, I&, I'm&, I'm not&.&.&. a hero&.&.&. I'm not&.&.&.
+Neidhardt&.&.&."
 
-I'd get murdered right off the bat&.&.&.&.
+I'd get murdered right off the bat&.&.&.
 
-I wanna run away&.&.&.&.&. I wanna run away&.&.&.&.
+I wanna run away&.&.&.&. I wanna run away&.&.&.
 
-Rimi&.&.&.&. I had to get Rimi to protect me&.&.&.&.
+Rimi&.&.&. I had to get Rimi to protect me&.&.&.
 
 Why wouldn't she contact me?
 
@@ -374,16 +374,16 @@ I took my phone in hand and looked to see if any calls or messages had
 arrived from Rimi&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300120ta">
-"Nothing&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300120ta">
+"Nothing&.&.&."
 
-Where the heck was she&.&.&.&.
+Where the heck was she&.&.&.
 
 I had a start&.
 
 My phone email inbox&.
 At the very top was displayed the mail from Nanami that had reached me
-shortly before&.&.&.&.
+shortly before&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -418,9 +418,9 @@ Subject : Today at school!
 
 Something amazing happened at school today!
 Someone tried to kill herself by jumping off the roof! It freaked me
-out&, and I was really scared&.&.&.&. *sob* （’_’、）
-I wonder if she's okay&.&.&.&.
-Were you at school when it happened? 
+out&, and I was really scared&.&.&. *sob* （’_’、）
+I wonder if she's okay&.&.&.
+Were you at school when it happened?
 Oh&, and that earthquake was unbelievable&, too&. It made my head
 super-double ache&. I wonder what it was? (;_;?)
 
@@ -438,7 +438,7 @@ super-double ache&. I wonder what it was? (;_;?)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-Na&, Nanami&.&.&.&. was she&.&.&.&. okay&.&.&.&.?
+Na&, Nanami&.&.&. was she&.&.&. okay&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -464,10 +464,10 @@ I reread the message from "Shogun" one more time&, from the start&.
 
 "Let's start the Nanami-chan rescue quest&."
 
-Th&, this&.&.&.&.
-What did this mean&.&.&.&.!?
+Th&, this&.&.&.
+What did this mean&.&.&.!?
 
-F&, for now&.&.&.&. better try calling Nanami&.&.&.&.
+F&, for now&.&.&. better try calling Nanami&.&.&.
 
 I opened my phone's address book&.
 There were only three recorded numbers&.
@@ -479,8 +479,8 @@ call her&.
 
 Th&, there was no helping it&, so this time I'd call her for once&.
 
-So&, so be good about it and pick up&.&.&.&.
-If you don't&, I'll never call you again&, okay&.&.&.&.
+So&, so be good about it and pick up&.&.&.
+If you don't&, I'll never call you again&, okay&.&.&.
 
 I won't let you make excuses&, like something about you getting hurt
 and trapped in place during the earthquake&.
@@ -509,15 +509,15 @@ forever&, making me horribly irritated&.
 <PRE box00>
 [text011]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300130ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300130ta">
 "H&, hurry up&."
 
 {	SoundPlay("SE03", 0, 1000, true);
 	Wait(1000);}
 //ＳＥ//電話呼び出し音（ぷるるるるる）
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300140ta">
-"Ye&, yes&, I got through&.&.&.&.!"{	Wait(2000);
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300140ta">
+"Ye&, yes&, I got through&.&.&.!"{	Wait(2000);
 	MusicStart("@CH01",200,0,0,1000,null,false);
 	Wait(1000);
 	SoundPlay("SE04", 0, 500, true);
@@ -527,13 +527,13 @@ forever&, making me horribly irritated&.
 //ＳＥ//七海のケータイの着信音（かわいい着メロ）
 //※↑箱の中に入っているので少しだけくぐもったような音で
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/12300150ta">
-"&.&.&.&.!?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/12300150ta">
+"&.&.&.!?"
 
 Eh?
-Huh&.&.&.&.?
+Huh&.&.&.?
 
-This sound&.&.&.&. what was it&.&.&.&.?
+This sound&.&.&. what was it&.&.&.?
 
 I experimented with taking my cell phone away from my ear&.
 
@@ -559,15 +559,15 @@ I experimented with taking my cell phone away from my ear&.
 [text012]
 An unfamiliar melody resonated through the room&.
 
-This&, could it be&.&.&.&. a phone's ringtone?
+This&, could it be&.&.&. a phone's ringtone?
 
 {	SetTrigger("２７");}
 Whose
 Phone
 Was ringing?
 
-In terms of the timing&.&.&.&. no matter how I thought about
-it&.&.&.&.
+In terms of the timing&.&.&. no matter how I thought about
+it&.&.&.
 
 I shook my head&.
 

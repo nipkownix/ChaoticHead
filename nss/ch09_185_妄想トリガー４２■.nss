@@ -95,38 +95,39 @@ if($–Ï‘zƒgƒŠƒK[‚S‚Q == 2)
 <PRE box00>
 [text001]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500010se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500010se">
 "Whether or not you disappear&, Takkii&, people have had zero
-awareness of you up till now anyway&, right-o?"  
+awareness of you up till now anyway&, right-o?"
 
 The depths of my chest ached with a pang&.
-To think even Seira-tan would say such awful things to me&.&.&.&.
+To think even Seira-tan would say such awful things to me&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500020se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500020se">
 "It's not awful or whatever&, it's the truth&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500030se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500030se">
 "You're saying you want to die&, but you're gonna get depressed just
 cause I've hit the nail on the head?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500040ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500040ta">
+"&.&.&.&.&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500050se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500050se">
 "Takkii&, you got carried away this past month&."
 
 //ŸƒŠƒA[‚è‚ ‚¶‚ã‚¤
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500060se">
-"You began talking to the people around you&, especially girls&, c<pre>u</pre>te
-girls&, like you actually have a life or something&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500060se">
+"You began talking to the people around you&, especially girls&,
+c<pre>u</pre>te girls&, like you actually have a
+life or something&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500070se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500070se">
 "Even though before then&, you shut yourself up and didn't have a
 single friend&."
 
@@ -134,81 +135,81 @@ single friend&."
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500080se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500080se">
 "But if you look at it from the other direction&, all you're doing is
-going back to the same lifestyle as back then&." 
+going back to the same lifestyle as back then&."
 
-Going back&.&.&.&.?
+Going back&.&.&.?
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500090se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500090se">
 "Yeah&. Going back&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500100se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500100se">
 "You mustn't see anyone&. You mustn't believe anyone&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @+100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500110se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500110se">
 "Who cares if you're real or fake? It's not like anyone can prove it
 either way&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500120se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500120se">
 "All you've gotta do is look at me and only me&, Takkii&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500130se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500130se">
 "You used to be plenty happy with that alone&, right-o?"
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","angry", 200, @+100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500140se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500140se">
 "You stopped feeling that way because of the girls who approached
 you&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500150se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500150se">
 "You'd be way better off not meeting those slutty bitches anymore&.
 Definitely!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500160ta">
-"Hehe&, hehehe&.&.&.&. I see&, that's how it is&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500160ta">
+"Hehe&, hehehe&.&.&. I see&, that's how it is&.&.&."
 
 They were the ones in the wrong&, the people who'd tried to associate
-with me&. 
-The ones like Rimi--it was all their fault&. 
-I hadn't done anything wrong&. 
+with me&.
+The ones like Rimi\it was all their fault&.
+I hadn't done anything wrong&.
 
 I'll shut myself up again&. I'll stay here&, an anonymous existence&,
-surrounded by my wives&, Seira-tan foremost among them&. 
+surrounded by my wives&, Seira-tan foremost among them&.
 It'll all be okay like that&, Seira-tan&.
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @+100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500170se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500170se">
 "Yup&, exactly&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @+100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500180se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500180se">
 "I'll make you happy&, Takkii ô"
 
 Seira-tan said merrily as she lay in my hand&.
 I loathed myself for making her say it&.
 
 {	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 500, true);}
---I'm way beyond noxious&.
+\I'm way beyond noxious&.
 
 I wanted to die more and more&.
 
@@ -251,13 +252,13 @@ if($–Ï‘zƒgƒŠƒK[‚S‚Q == 1)
 [text002]
 //‚u‚e//–Ï‘zƒZƒŠƒt
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500190se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500190se">
 "Then all you've gotta do is disappear&, right-o?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500200ta">
-"Hehe&, hehehe&.&.&.&. Yeah&, I'll disappear&.&.&.&. I'll
-disappear&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500200ta">
+"Hehe&, hehehe&.&.&. Yeah&, I'll disappear&.&.&. I'll
+disappear&.&.&."
 
 {	CreateColor("back14", 500, 0, 0, 800, 600, "White");
 	Request("back14", AddRender);
@@ -305,8 +306,8 @@ to the side&.
 All I had to do was put a little more power into my right hand&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500210ta">
-"Haa&, haa&, haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500210ta">
+"Haa&, haa&, haa&.&.&."
 
 My heart was pounding&. My fake heart raced&. Despite my being a
 fake&.
@@ -322,8 +323,8 @@ My shaking wouldn't stop&. In fact&, it was getting worse and worse&.
 Even though I was a fake&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500220ta">
-"Haa&, haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500220ta">
+"Haa&, haa&.&.&."
 
 {	CreateColor("back11", 500, 0, 0, 800, 600, "Black");
 	Fade("back11", 0, 0, null, false);
@@ -336,8 +337,8 @@ C<pre>u</pre>t your wrist&.
 Then you'll be able to vanish&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500230ta">
-"Uuaaaaahh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500230ta">
+"Uuaaaaahh&.&.&."
 
 {	CreateColor("back11", 500, 0, 0, 800, 600, "Black");
 	Fade("back11", 0, 0, null, false);
@@ -364,64 +365,64 @@ it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t 
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500240ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500240ta">
+"&.&.&."
 
 My trembling was so violent&, I dropped the Seira-tan figure I'd been
-holding&. 
+holding&.
 
-I still had the knife pressed to my wrist&. 
+I still had the knife pressed to my wrist&.
 The hand holding it there shook like a leaf&, too&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500250ta">
-"No&.&.&.&. I can't&.&.&.&. I can't do it&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500250ta">
+"No&.&.&. I can't&.&.&. I can't do it&.&.&."
 
 {/*X“‡‚r‚dƒ_ƒ~[*/
 	CreateSE("SE02","SE_ÕŒ‚_Y_—‚¿‚é_•Ç");
 	MusicStart("SE02", 500, 500, 0, 1000, null, false);}
 //‚r‚d//ƒiƒCƒt‚ª•ú‚èÌ‚Ä‚é
 Flinging away the knife&, I hunched over in my chair and cradled my
-head&. 
+head&.
 
-How pathetic&.&.&.&.
+How pathetic&.&.&.
 I didn't even have the courage to commit suicide&.
 
 There was no value to my life&, but I couldn't so much as die&. I
 couldn't so much as tack a period on and put an end to this ugly and
-monstrous self of mine&. 
+monstrous self of mine&.
 
-I was hopelessly useless&. 
-It wasn't that I felt an attachment to being alive&. 
-I was simply scared of dying&, of disappearing&. 
+I was hopelessly useless&.
+It wasn't that I felt an attachment to being alive&.
+I was simply scared of dying&, of disappearing&.
 
-Even though I'm a fake&.&.&.&.!
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500260ta">
-"I'm begging you&.&.&.&."
+Even though I'm a fake&.&.&.!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500270ta">
-"Somebody&, please kill me&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500260ta">
+"I'm begging you&.&.&."
+
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500270ta">
+"Somebody&, please kill me&.&.&."
 
 I ended up hoping that someone else would do me the favor of killing
-me&. 
+me&.
 
-I couldn't do a thing on my own&. 
+I couldn't do a thing on my own&.
 I was degenerate&, reliant on others for everything&.
 
 {	SetVolume("SE01", 500, 0, NULL);
 	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @-200);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 500, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/18500280se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500280se">
 "You're adorable like that&, Takkii ô"
 
-Seira-tan said merrily as she lay in my hand&. 
-I loathed myself for making her say it&. 
+Seira-tan said merrily as she lay in my hand&.
+I loathed myself for making her say it&.
 
---I'm way beyond noxious&.
+\I'm way beyond noxious&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -445,25 +446,25 @@ if($–Ï‘zƒgƒŠƒK[‚S‚Q == 0)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-If I thought so&. 
-Why not put it into action? 
+If I thought so&.
+Why not put it into action?
 
 When you got down to it&, right now I was only setting myself up as
-some kind of tragic hero&. 
-Even if I drowned in grief here&, I wouldn't earn anyone's sympathy&. 
+some kind of tragic hero&.
+Even if I drowned in grief here&, I wouldn't earn anyone's sympathy&.
 
-Everyone refused to look at the likes of me&. 
-Everyone had cast me aside&. 
+Everyone refused to look at the likes of me&.
+Everyone had cast me aside&.
 
-No&, there hadn't been any bond between us from the start&. 
-I didn't have anyone I could call a friend&. 
+No&, there hadn't been any bond between us from the start&.
+I didn't have anyone I could call a friend&.
 I didn't even have a family&.
 
 Because in the end&, I was an impostor&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500290ta">
-"Doing nothing but rambling on and on&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500290ta">
+"Doing nothing but rambling on and on&.&.&."
 
 Come on&, just die already&.
 
@@ -484,19 +485,19 @@ Come on&, just die already&.
 <PRE box00>
 [text200]
 I put Seira-tan down and ponderously rose from my chair&, found a
-vinyl cord under my bed&, and picked it up&.  
+vinyl cord under my bed&, and picked it up&.
 
 I tied a circle about big enough to go around my neck&, and bound the
 other end to one of the pipes in the frame of my loft bed&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500300ta">
-"Hehe&, hehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500300ta">
+"Hehe&, hehehe&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500310ta">
-"I'll die&.&.&.&. I'm gonna die&.&.&.&. I'm definitely gonna
-die&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500310ta">
+"I'll die&.&.&. I'm gonna die&.&.&. I'm definitely gonna
+die&.&.&."
 
 No one was there to stop me&.
 Naturally enough&, since I was the only person in the room&.
@@ -525,8 +526,8 @@ Miserable&. Lonely&.
 The depths of my nose stung&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500320ta">
-"Farewell&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500320ta">
+"Farewell&.&.&."
 
 I flung my legs out to make the cord take on my full body weight&.
 
@@ -553,11 +554,11 @@ I flung my legs out to make the cord take on my full body weight&.
 [text005]
 //Ÿ‹ê‚µ‚­‚Ä‚¤‚ß‚­
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500330ta">
-"Gah&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500330ta">
+"Gah&.&.&."
 
 It tightened around my neck&.
-The cord put pressure on me&. 
+The cord put pressure on me&.
 It dug deep into my flesh&.
 
 It hurt&.&.&.!
@@ -567,8 +568,8 @@ It hurt&.&.&.!
 	Fade("back10", 500, 800, null, true);
 	FadeDelete("back10", 300, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500340ta">
-"Hah&, guh&, giih&, geh&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500340ta">
+"Hah&, guh&, giih&, geh&.&.&.!"
 
 {	Rotate("ƒ‹[ƒ€", 200, 15, -310, 0, Dxl2, true);}
 Before I realized what was happening&, the fingers of both my hands
@@ -583,8 +584,8 @@ strangle me&.
 So I put up with it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500350ta">
-"G&, gya&, gah&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500350ta">
+"G&, gya&, gah&.&.&.!"
 
 {	CreateColor("back10", 500, 0, 0, 800, 600, "Black");
 	Fade("back10", 0, 0, null, false);
@@ -594,8 +595,8 @@ My throat ached&.
 The pain of the noose eating into my neck was much worse than my
 difficulty breathing&.
 
-Hurry&.&.&.&.
-Hurry up and die&, me&.&.&.&.
+Hurry&.&.&.
+Hurry up and die&, me&.&.&.
 
 The agony went on&.
 It was so torturous&, my consciousness wouldn't fade&, not even a tiny
@@ -612,7 +613,7 @@ Which made my legs flap&.
 
 The pipes in the frame of my loft bed creaked noisily&.
 
-That was when my body abruptly lost its support--
+That was when my body abruptly lost its support\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -635,12 +636,12 @@ That was when my body abruptly lost its support--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text006]
-I landed hard on the floor&, ass-first&.  
+I landed hard on the floor&, ass-first&.
 I writhed at the pain of hitting my tailbone&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500360ta">
-"Gahah&, cough&, cough&, ugeh&, higuh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500360ta">
+"Gahah&, cough&, cough&, ugeh&, higuh&.&.&."
 
 {	Delete("ƒ‹[ƒ€");
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg026_02_1_‘ñ–¤•”‰®_a.jpg");
@@ -650,42 +651,42 @@ Tears springing to my eyes&, I looked up at the cord tied to my bed&,
 and it had torn in two partway up&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500370ta">
-"Gafuh&, heguh&, uu&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500370ta">
+"Gafuh&, heguh&, uu&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500380ta">
-"Haa&, haa&.&.&.&. what the fuck&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500380ta">
+"Haa&, haa&.&.&. what the fuck&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500390ta">
-"Seriously&, what the fuck&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500390ta">
+"Seriously&, what the fuck&.&.&."
 
-Why did I fuck up at the last possible moment&.&.&.&. 
+Why did I fuck up at the last possible moment&.&.&.
 
 Yes&, I was undoubtedly an incorrigible human being&, a useless human
 being who'd never succeeded in doing a single thing deserving of
 others' praise&. Not that I was even a human being in the first
-place&. 
+place&.
 
-But it was too much&, to mess up even when it came to dying&.&.&.&.  
-Why couldn't I die? 
+But it was too much&, to mess up even when it came to dying&.&.&.
+Why couldn't I die?
 
-Even though I wanted to die&. 
-Even though I wanted to die&.&.&.&.! 
+Even though I wanted to die&.
+Even though I wanted to die&.&.&.!
 
 Now that I'd experienced the anguish of hanging in midair once&, the
 daring and willpower needed for giving hanging myself another go
 wouldn't rise up in me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18500400ta">
-"Someone&, tell me&.&.&.&. a painless way to die&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500400ta">
+"Someone&, tell me&.&.&. a painless way to die&.&.&."
 
 I came close to retching at myself&, and how I had again exposed my
-total reliance on others&. 
+total reliance on others&.
 
-I truly was&.&.&.&. a hopeless guy&.&.&.&.
+I truly was&.&.&. a hopeless guy&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

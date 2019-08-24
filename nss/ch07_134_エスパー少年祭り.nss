@@ -60,17 +60,17 @@ of the various possibilities that occurred to me&.
 My base had been unlocked ever since yesterday&, so anyone could've
 entered without much difficulty&. In fact&, that was precisely why
 "Shogun" had been able to leave the hand in my room&.
-Or was it ②&.&.&.&.
+Or was it ②&.&.&.
 
 I didn't have clear memories of when I left here to go to O-Front&.
 
 My feeling of "I have to save Nanami&," and the fear of "Shogun" that
-came when I saw the hand&.&.&.&. In any case&, a range of emotions
+came when I saw the hand&.&.&. In any case&, a range of emotions
 spiraled in me&, filling me to the brim&. I hadn't been cool-headed at
 all&.
 
 Maybe I had unconsciously taken the hand with me when I left and had
-thrown it away in a trash can somewhere&.&.&.&.
+thrown it away in a trash can somewhere&.&.&.
 
 Alternatively&, everything about the hand had been a delusion&, and in
 truth&, it had never existed to begin with&.
@@ -79,12 +79,12 @@ But when I opened my email&, yesterday's mail from "Shogun" was still
 there&. All the stuff about his present to me and whatnot was written
 there&, plain as day&.
 
-Besides&, "Shogun" himself had referred to the hand yesterday&.&.&.&. 
+Besides&, "Shogun" himself had referred to the hand yesterday&.&.&.
 I had a real hard time thinking of it as being a delusion of
-mine&.&.&.&.
+mine&.&.&.
 
 What about the possibility that the police or the media had taken
-it&.&.&.&. they look at otaku creeps like me with contempt&, so the
+it&.&.&. they look at otaku creeps like me with contempt&, so the
 chances of that might be unexpectedly strong&.
 
 I was scared to go online after yesterday's events&. Even so&, I
@@ -147,34 +147,34 @@ The disturbance began with a prank email from Boy N&, a Shibuya
 resident and self-proclaimed ESPer&.
 His email&, in which he declared he would use clairvoyance to
 determine the culprit in the brutal series of incidents currently
-taking place in Shibuya--aka the "New Generation Madness"--initially
-garnered skepticism among the broadcast stations he sent it to&. 
+taking place in Shibuya―aka the "New Generation Madness"―initially
+garnered skepticism among the broadcast stations he sent it to&.
 However&, when the American "psychic investigator" Yuri Brightman (43)
 contacted them&, stating that he was Boy N's guardian&, TV Today and
-Mt&. Fuji TV believed him completely&. 
+Mt&. Fuji TV believed him completely&.
 For both TV Today and Mt&. Fuji TV&, the broadcast's ratings peaked at
 over 40%&, a shocking number that surpasses their popular year-end
 programming&. While this must come with the caveat that it is
 ultimately a number derived from a broadcast that aired around the
 same time as programming related to the earthquake&, it cannot be said
 that the decision to go ahead with the broadcast did not lead to
-ratings success&. 
+ratings success&.
 However&, Boy N was not an ESPer or anything of the sort&. He riled up
 viewers by showing signs of being about to jump from the building
 countless times&, but his performance ended there&.
 Dissatisfied reporters charged the roof in an attempt to at least
 obtain some kind of commentary about the New-Gen cases&, but that
-too&, misfired&. 
+too&, misfired&.
 It is said that the boy collapsed on the roof&, holding a cosplay
 costume from a famous Hollywood movie&, as well as a "moe~" anime
-figurine&. 
+figurine&.
 According to Professor Hashiba Yoshirou of Akemasa University&, an
 expert on otaku culture&, "There are an increasing number of youths
 who have heroic dreams without a thought for the trouble they might
 cause those around them&. Influenced by anime and games&, he must have
 lost the ability to distinguish between fantasy and reality&, and
 began to actually put his dreams into action&. He'll need
-psychological care&." 
+psychological care&."
 Whatever else&, this was a case of a most peculiar false alarm&.
 
 【Related Articles】
@@ -223,7 +223,7 @@ I'd never seen Yuri Brightman's TV show&, and naturally I knew not a
 thing about him&.
 
 {	Move("ネット記事２", 20000, @0, @600, null, false);}
-What could it all mean&.&.&.&.
+What could it all mean&.&.&.
 Everything had been arranged by "Shogun" after all?
 
 What for?
@@ -233,7 +233,7 @@ He'd talked about a quest or something&.
 But what was to be gained by pushing me to get a Di-Sword&, to the
 point of making the media feature me in a live broadcast?
 
-&.&.&.&.I didn't understand what "Shogun" wanted to do&.
+&.&.&.I didn't understand what "Shogun" wanted to do&.
 He'd even let Nanami go with her life&.
 
 </PRE>
@@ -257,8 +257,8 @@ and the mass media came rushing in&.
 Even if "Shogun" had used that time to flee&, he would without doubt
 have been spotted by the media&.
 
-It was still more inconceivable for someone in a wheelchair--that is&,
-"Shogun&," who shouldn't have been able to use his legs freely--to
+It was still more inconceivable for someone in a wheelchair―that is&,
+"Shogun&," who shouldn't have been able to use his legs freely―to
 escape the sce<pre>n</pre>e such a short period of time&.
 
 </PRE>
@@ -290,8 +290,8 @@ They repeated my real name over and over&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">【Society】The air
-wave-stealing ESPer is an Akiba-type feral boy!?★２</FONT>
+　　　 <FONT size="26" incolor="#ff0000">【Society】The air wave-stealing ESPer is an Akiba-type
+feral boy!?★２</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TitleBoard("【1:585】");
@@ -316,8 +316,8 @@ Hey&, anyone in this thread a Suimei student?
 <FONT incolor="#0000ff"><U>580</U></FONT>  Name: <FONT
 incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
 01:16:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>XhK8Uj9W0
-Boy N&, too stupid&, lol 
-Die you ass lol 
+Boy N&, too stupid&, lol
+Die you ass lol
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -403,15 +403,15 @@ exposed all his personal information&.
 <PRE box00>
 [text005]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13400010ta">
-"&.&.&.&.So depressing&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/13400010ta">
+"&.&.&.So depressing&."
 
-They were all saying whatever the hell they wanted&.&.&.&.
-Taunting me without any idea of how I felt&.&.&.&.
+They were all saying whatever the hell they wanted&.&.&.
+Taunting me without any idea of how I felt&.&.&.
 
 @channel was scary when it turned against you&.
 
-"Shogun" was to blame for this as well&.&.&.&.
+"Shogun" was to blame for this as well&.&.&.
 
 That aside&, I'd thought underground news that they couldn't show on
 television would get posted on @chan&, but I didn't spot anything of
@@ -420,15 +420,15 @@ the sort&.
 Nothing was going around about how
 There had been one more person on the roof of O-Front besides me&.
 
-Almost as though&.&.&.&.
+Almost as though&.&.&.
 
 Yes&, almost as though the person called "Shogun" hadn't been there
 from the start&.
 
---Maybe the "Shogun" who appeared then had been no more than a phantom
-of the real "Shogun&." Even if his existence were certain&, it was
-also possible that the "Shogun" who'd been at O-Front was a delusion
-I'd created&.
+―Maybe the "Shogun" who appeared then had been no more than a
+phantom of the real "Shogun&." Even if his existence were certain&,
+it was also possible that the "Shogun" who'd been at O-Front was
+a delusion I'd created&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -449,8 +449,8 @@ I'd created&.
 <PRE box00>
 [text805]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13400020ta">
-"I&.&.&.&. might be sick in the head after all&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/13400020ta">
+"I&.&.&. might be sick in the head after all&.&.&."
 
 Only things that should've been impossible&, realistically speaking&,
 kept happening to me&.
@@ -459,7 +459,7 @@ It was like a game&.
 A world where Nanami had died&, and a world where she was alive&.
 
 Like&, the two of them stood side by side&, and I had the option to
-pick either one&. 
+pick either one&.
 
 Similar to the decision points in an eroge&.
 The future branched infinitely&.
@@ -478,7 +478,7 @@ or when I fell from the roof of O-Front and died&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-In short--
+In short―
 
 The "unhappiness" that visited me over and over as though someone had
 planned it out might in fact have been a mental trap I'd laid for
@@ -492,14 +492,14 @@ Impossible&.
 I didn't possess any such desire&.
 
 At least&, I'd say an instant no thanks to any simulation that would
-scare or sadden me&.&.&.&.
+scare or sadden me&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13400030ta">
-"&.&.&.&.Really&, just how overimaginative can I get?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/13400030ta">
+"&.&.&.Really&, just how overimaginative can I get?"
 
 Even all the things I was thinking of now were ultimately no more than
-idiotic&, childish delusions&.&.&.&.
+idiotic&, childish delusions&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -519,10 +519,10 @@ idiotic&, childish delusions&.&.&.&.
 I sighed and leaned against my chair's backrest&, looking distractedly
 up at the ceiling&.
 
---Reality was indeterminate&.
+―Reality was indeterminate&.
 
 Everything began to appear like a lie&.
-The world called "I" was so hollow&.&.&.&.
+The world called "I" was so hollow&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

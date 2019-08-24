@@ -95,7 +95,7 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚V == 2)
 <PRE box00>
 [text001]
 Nanami still didn't pick up&.
-Please&, hurry up and answer&.&.&.&.
+Please&, hurry up and answer&.&.&.
 
 {	CreateSE("SE04","SE_“úí_“d˜b_ƒuƒcƒb‚ÆØ‚ê‚é");
 	SoundPlay("SE03", 200, 0, false);
@@ -107,29 +107,29 @@ Please&, hurry up and answer&.&.&.&.
 Ah&, it connected!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400010ta">
-"Na&, Nanami&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400010ta">
+"Na&, Nanami&.&.&.!?"
 
 //‚u‚e//“d˜b‚Ìº
 //ŸƒuƒŒƒX
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400020na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400020na">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400030ta">
-"Nanami? You're Nanami&, aren't you? An&, answer me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400030ta">
+"Nanami? You're Nanami&, aren't you? An&, answer me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400040ta">
-"Wh&, where are you now&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400040ta">
+"Wh&, where are you now&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400050ta">
-"A&, are you okay? C'mon&, say something&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400050ta">
+"A&, are you okay? C'mon&, say something&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400060ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400060ta">
 "Nanami! Nanami!"
 
 </PRE>
@@ -142,33 +142,33 @@ Ah&, it connected!
 //‚¨‚ª‚İFVEƒ{ƒCƒX‰ÁH•K—v
 //ˆÈ‰º‚ÌƒZƒŠƒtA“d˜b‚Ìº‚ÆƒŠƒAƒ‹‚Ìº‚Æ“¯‚É”­‚µ‚Ä‚éŠ´‚¶‚Å
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400070na">
-"Um&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400070na">
+"Um&.&.&."
 
 //‚¨‚ª‚İFVEƒ{ƒCƒX‰ÁH•K—v
 //ˆÈ‰º‚ÌƒZƒŠƒtA“d˜b‚Ìº‚ÆƒŠƒAƒ‹‚Ìº‚Æ“¯‚É”­‚µ‚Ä‚éŠ´‚¶‚Å
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400080na">
-"The truth is&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400080na">
+"The truth is&.&.&."
 
 Hm? Huh?
 Something about this was strange&.
 
 Like I was hearing Nanami's voice not merely from the phone&, but also
-from close by me&.&.&.&.
+from close by me&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400090ta">
-"Wh&, where&.&.&.&. on earth&.&.&.&. are you&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400090ta">
+"Wh&, where&.&.&. on earth&.&.&. are you&.&.&.?"
 
 //‚¨‚ª‚İFVEƒ{ƒCƒX‰ÁH•K—v
 //ˆÈ‰º‚ÌƒZƒŠƒtA“d˜b‚Ìº‚ÆƒŠƒAƒ‹‚Ìº‚Æ“¯‚É”­‚µ‚Ä‚éŠ´‚¶‚Å
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400100na">
-"Um&.&.&.&. on top&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400100na">
+"Um&.&.&. on top&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400110ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400110ta">
 "On top?"
 
 I looked up without giving much thought to it&.
@@ -176,11 +176,11 @@ I looked up without giving much thought to it&.
 I saw a human figure move atop the bed&. Wriggling in that narrow
 space&, sending my mountains of piled-up eroge boxes tumbling&.
 
-Surely not&.&.&.&.
+Surely not&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400120ta">
-"Are you there&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400120ta">
+"Are you there&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -194,8 +194,8 @@ Surely not&.&.&.&.
 [text003]
 //ˆÈ‰º‚Í“d˜b‚Ìº‚Í–³‚µ‚Å
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400130na">
-"Ahaha&, you found me&.&.&.&. Teheh&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400130na">
+"Ahaha&, you found me&.&.&. Teheh&."
 
 {	CreateSE("SE04","SE_“úí_•¨‰¹");
 	SoundPlay("SE04", 0, 600, false);}
@@ -203,16 +203,16 @@ Just as I'd thought&, the one who poked her head out with an
 apologetic expression on her face was Nanami&.
 
 Could it be that she'd been hiding?
-Since when&.&.&.&.
+Since when&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400140ta">
-"Wh&, wh&, whaddaya mean&, teheh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400140ta">
+"Wh&, wh&, whaddaya mean&, teheh&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400150ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400150ta">
 "M&, more importantly&, d&, did you run into a suspicious guy in a
-wheelchair&.&.&.&.!?"
+wheelchair&.&.&.!?"
 
 {	CreateSE("SE04","SE_l‘Ì_“®ì_è_ƒpƒCƒvƒCƒXˆø‚«‚¸‚é");
 	SoundPlay("SE04", 0, 600, false);
@@ -227,11 +227,11 @@ attempting to determine whether there were any abnormalities with
 her&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400160na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400160na">
 "Err&, um&, Bro&, calm down a little&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400170ta">
 "I'm asking you&, tell me the answer!
 Are you re&, really all right!?"
 
@@ -240,12 +240,12 @@ Are you re&, really all right!?"
 	DeleteStand("stµŠC_§•_’Êí_normal", 300, true);}
 //Ÿ\‚µ–ó‚È‚³‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400180na">
-"Are you talking&.&.&.&. about 'Shogun'?"
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400180na">
+"Are you talking&.&.&. about 'Shogun'?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400190ta">
-"Y&, you can't mean&.&.&.&. you met him!? Where!? What'd he do to
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400190ta">
+"Y&, you can't mean&.&.&. you met him!? Where!? What'd he do to
 you!?"
 
 {	DeleteStand("stµŠC_§•_X‚Ë_sad", 500, true);}
@@ -253,10 +253,10 @@ I grabbed Nanami's shoulders and desperately pressed her for a
 response&.
 
 Dammit&, Nanami was an impudent little sister&, but it'd be my fault
-if "Shogun" had turned her into spoiled goods&.&.&.&.
+if "Shogun" had turned her into spoiled goods&.&.&.
 
 "Shogun" had gotten his hands on Nanami as a way of provoking me&.
-Nanami had been caught up in my mess&.&.&.&.
+Nanami had been caught up in my mess&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -266,8 +266,8 @@ Nanami had been caught up in my mess&.&.&.&.
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400200ta">
-"Sorry&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400200ta">
+"Sorry&.&.&."
 
 I wept at how pathetic I was&.
 I'd caused trouble not merely for myself&, but also for those around
@@ -276,40 +276,40 @@ me&.
 A "harmless otaku&," my ass&.
 
 I was scum&.
-I was garbage as a human being&, not to mention as a brother&.&.&.&.
+I was garbage as a human being&, not to mention as a brother&.&.&.
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @100);
 	FadeStand("buµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400210na">
-"Bro&.&.&.&. are you crying? Could it be that you were worried about
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400210na">
+"Bro&.&.&. are you crying? Could it be that you were worried about
 me?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400220ta">
-"Sob&.&.&.&. I'm sorry&.&.&.&. I'm to blame&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400220ta">
+"Sob&.&.&. I'm sorry&.&.&. I'm to blame&.&.&."
 
 //Ÿ¢˜f
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400230na">
-"D&, don't cry&. Ahaha&, umm&, well&, gee&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400230na">
+"D&, don't cry&. Ahaha&, umm&, well&, gee&.&.&."
 
 {	Stand("buµŠC_§•_X‚Ë","angry", 200, @100);
 	FadeStand("buµŠC_§•_X‚Ë_angry", 300, false);
 	DeleteStand("buµŠC_§•_’Êí_shock", 300, true);}
 //Ÿ\‚µ–ó‚È‚³‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400240na">
-"The&, the truth is&, that email from 'Shogun'&.&.&.&. was a
-joke&.&.&.&. from me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400240na">
+"The&, the truth is&, that email from 'Shogun'&.&.&. was a
+joke&.&.&. from me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400250ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400250ta">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400260ta">
-"&.&.&.&.Haa?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400260ta">
+"&.&.&.Haa?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -328,16 +328,16 @@ I became dazed&.
 	FadeStand("buµŠC_§•_’Êí_normal", 300, false);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400270na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400270na">
 "Basically&, 'Shogun' was me! From the very start&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400280na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400280na">
 "You spend so little time with me&, so I thought I'd tease you a
-bit&.&.&.&. and I just kind of ended up doing it&."
+bit&.&.&. and I just kind of ended up doing it&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400290na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400290na">
 "That's why no one's done anything bad to me&,
 and I'm totally bright-eyed and bushy-tailed!"
 
@@ -345,12 +345,12 @@ and I'm totally bright-eyed and bushy-tailed!"
 	FadeStand("buµŠC_§•_’Êí_smile", 300, false);
 	DeleteStand("buµŠC_§•_’Êí_normal", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400300na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400300na">
 "There's nothing to cry over&. You get it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400310ta">
-"Y&, you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400310ta">
+"Y&, you&.&.&."
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 500, true);}
 I was relieved&.
@@ -367,17 +367,17 @@ come spilling out of me&.
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400320ta">
-"D&, don't&.&.&.&. screw with my head&.&.&.&. sob&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400320ta">
+"D&, don't&.&.&. screw with my head&.&.&. sob&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @100);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400330na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400330na">
 "I'm sorry! I'm really sorry&, Bro&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400340na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400340na">
 "I brought you a treat&, so let me off easy&."
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 500, true);}
@@ -391,12 +391,12 @@ Two Mont Blancs and two cheesecakes&.
 {	Stand("buµŠC_§•_’Êí","normal", 200, @100);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400360na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400360na">
 "How do they look? Tasty&, right? Well&, of course they do&, since I
 made 'em myself&. Cause I made them for you&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400370na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400370na">
 "C'mon&, let's eat together&."
 
 {	DeleteStand("buµŠC_§•_’Êí_normal", 500, true);}
@@ -406,18 +406,18 @@ on two paper plates&, which she had prepared somehow or other&.
 {	Stand("buµŠC_§•_’Êí","normal", 200, @100);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400380na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400380na">
 "Hey&, Bro&. Thanks for worrying about me&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400390na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400390na">
 "I was super happy&. Even you have some good points&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400400na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400400na">
 "Although it's a little lame that you cried&. Aha&."
 
-Shut up&, you little liar&.&.&.&.
+Shut up&, you little liar&.&.&.
 
 My pride had gone to tatters from how I'd been totally fooled and had
 shed tears&, to boot&. What an idiot I was&.
@@ -434,22 +434,22 @@ shed tears&, to boot&. What an idiot I was&.
 <PRE box00>
 [text007]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400410na">
-"But--"
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400410na">
+"But\"
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @100);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, false);
 	DeleteStand("buµŠC_§•_’Êí_shy", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400420na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400420na">
 "I'm glad you're my brother&."
 
 She smiled at me merrily&.
 
 A sce<pre>n</pre>e that was just a wee bit more peaceful than usual&.
 
-How nice it would've been&.&.&.&. if this were the sce<pre>n</pre>e that came
-next&.
+How nice it would've been&.&.&. if this were
+the sce<pre>n</pre>e that came next&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -525,7 +525,7 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚V == 1)
 <PRE box00>
 [text009]
 Nanami still didn't pick up&.
-Please&, hurry up and answer&.&.&.&.
+Please&, hurry up and answer&.&.&.
 
 {	CreateSE("SE04","SE_“úí_“d˜b_ƒuƒcƒb‚ÆØ‚ê‚é");
 	SoundPlay("SE03", 200, 0, false);
@@ -537,31 +537,31 @@ Please&, hurry up and answer&.&.&.&.
 Ah&, it connected!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400430ta">
-"Na&, Nanami&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400430ta">
+"Na&, Nanami&.&.&.!?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch06/12400440jn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch06/12400440jn">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400450ta">
-"Nanami? You're Nanami&, aren't you? An&, answer me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400450ta">
+"Nanami? You're Nanami&, aren't you? An&, answer me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400460ta">
-"Wh&, where are you now&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400460ta">
+"Wh&, where are you now&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400470ta">
-"A&, are you okay? C'mon&, say something&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400470ta">
+"A&, are you okay? C'mon&, say something&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400480ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400480ta">
 "Nanami! Nanami!"
 
 I desperately called into the phone&.
-And the voice that came in return was--
+And the voice that came in return was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -572,27 +572,27 @@ And the voice that came in return was--
 [text010]
 //‚u‚e//“d˜b‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch06/12400490jn">
-"How about--"
+<voice name="«ŒR" class="«ŒR" src="voice/ch06/12400490jn">
+"How about\"
 
 //‚u‚e//“d˜b‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch06/12400500jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch06/12400500jn">
 "Calming down a little?"
 
 {	MusicStart("@CH01",1000,1000,0,1000,null,true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400510ta">
-"&.&.&.&.&.&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400510ta">
+"&.&.&.&.&.&.&.!"
 
-This voice&.&.&.&.
-This voice was&.&.&.&.
+This voice&.&.&.
+This voice was&.&.&.
 
 "Shogun"!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400520ta">
-"H&, how&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400520ta">
+"H&, how&.&.&."
 
 I was stupefied&.
 
@@ -602,12 +602,12 @@ called Nanami's cell phone&.
 It took all I had simply to repeat the same word like a nitwit&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400530ta">
-"How&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400530ta">
+"How&.&.&."
 
 //‚u‚e//“d˜b‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch06/12400540jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch06/12400540jn">
 "Did you not understand the meaning of my email?"
 
 </PRE>
@@ -625,11 +625,11 @@ It took all I had simply to repeat the same word like a nitwit&.
 <PRE box00>
 [text011]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400550ta">
-"I don't believe it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400550ta">
+"I don't believe it&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400560ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400560ta">
 "I don't believe this!"
 
 </PRE>
@@ -701,7 +701,7 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚V == 0)
 <PRE box00>
 [text013]
 Nanami still didn't pick up&.
-Please&, hurry up and answer&.&.&.&.
+Please&, hurry up and answer&.&.&.
 
 With things having come to this&, I should try calling home&. Yeah&,
 that'd be the fastest way&.
@@ -728,10 +728,10 @@ first things first and ended my call to Nanami&.
 <PRE box00>
 [text014]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400570ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400570ta">
+"&.&.&.&.&.&.&."
 
-It got cu<pre>t</pre> off&.&.&.&.
+It got cu<pre>t</pre> off&.&.&.
 The mystery ringtone cu<pre>t</pre> itself off&.
 
 My room suddenly went quiet&.
@@ -743,8 +743,8 @@ When I ended the phone call&.
 At almost exactly the same time&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400580ta">
-"Why&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400580ta">
+"Why&.&.&."
 
 I grew increasingly perturbed&.
 
@@ -793,28 +793,28 @@ fuzzy head&.
 <PRE box00>
 [text015]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400590ta">
-"Uuh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400590ta">
+"Uuh&.&.&."
 
 My expectations were betrayed at once&.
 
 Hardly two seconds after I started hearing the sound of my outgoing
 call&, that carefree melody started to ring again&.
 
-There was no&.&.&.&. mistaking it&.&.&.&.
+There was no&.&.&. mistaking it&.&.&.
 I could no longer continue averting my eyes from reality&.
 
 {	FadeDelete("µŠCŒg‘Ñ”Ô†", 200, 0, null, true);
 	Wait(1000);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400600ta">
-"It's&.&.&.&. in this room&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400600ta">
+"It's&.&.&. in this room&.&.&."
 
 Nanami's cell phone was in this room&.
 
 Why?
 Had Nanami forgotten it here?
-Or--
+Or\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -842,8 +842,8 @@ Or--
 [text016]
 "P&.S&. Have you accepted my present?"
 
-It was a lie&.&.&.&. It was a categorical lie&.&.&.&.
-No matter what&, it was simply&.&.&.&. too ridiculous&.&.&.&.
+It was a lie&.&.&. It was a categorical lie&.&.&.
+No matter what&, it was simply&.&.&. too ridiculous&.&.&.
 
 I lowered the hand holding my phone at a snail's pace&.
 
@@ -870,9 +870,9 @@ I savagely detested myself for having never attempted to tidy up my
 room&.
 
 If I kept it organized&, I'd soon have known where I was hearing it
-from&.&.&.&.
+from&.&.&.
 
-Where the hell was the sound coming from--
+Where the hell was the sound coming from\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -894,9 +894,9 @@ Where the hell was the sound coming from--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text018]
-This box&.&.&.&.
+This box&.&.&.
 
-I heard the melody from inside it&.&.&.&.
+I heard the melody from inside it&.&.&.
 
 It was about the size of two eroge boxes lined up next to one
 another&.
@@ -911,8 +911,8 @@ Had there always been a box this large sitting over here?
 Had it fallen off my bed in the earthquake?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400610ta">
-"&.&.&.&.No&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400610ta">
+"&.&.&.No&.&.&."
 
 I'd never seen this box before&, to begin with&.
 
@@ -926,11 +926,11 @@ It occurred to me that perhaps Nanami had brought something for me in
 it&, but I had no recollection of her carrying a present over in a
 cardboard box like this&.
 
-In short--
+In short\
 
-During the span of the hour when I'd gone to school&.&.&.&.
+During the span of the hour when I'd gone to school&.&.&.
 
-Someone had come here--
+Someone had come here\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -961,23 +961,23 @@ The pulse in my chest grew violent&.
 I hastily double-checked the padlock on the door&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400620ta">
-"Haa&.&.&.&. haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400620ta">
+"Haa&.&.&. haa&.&.&."
 
 A chill ran down my back&.
 
-Earlier&, when I'd staggered out of my base--
+Earlier&, when I'd staggered out of my base\
 I couldn't remember having locked the door behind me&.
 
 Which was natural enough&.
 Because at the time&, I'd been tormented by a stabbing migraine&,
-And my consciousness was hazy&.&.&.&.
+And my consciousness was hazy&.&.&.
 
 When I returned from school an hour later&, the door had been
 unlocked&.
 Anyone would've been free to enter&.
 
-&.&.&.&.Had "Shogun" come?
+&.&.&.Had "Shogun" come?
 Here?
 
 {	Fade("”wŒi‚Q", 500, 0, null, true);}
@@ -1009,37 +1009,37 @@ I gingerly picked up that cardboard box&.
 <PRE box00>
 [text020]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400630ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400630ta">
 "!"
 
-Heavy&.&.&.&.
+Heavy&.&.&.
 Far too heavy for me to think a cell phone was the one thing inside
 it&.
 
 Going by what it felt like&, it was about the same as a 500-ml juice
-container&. 
+container&.
 
 I hesitated to open it&.
-I had&.&.&.&. an incredibly bad feeling&.&.&.&.
+I had&.&.&. an incredibly bad feeling&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400640ta">
-"I&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400640ta">
+"I&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400650ta">
-"Don't want to open something like this&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400650ta">
+"Don't want to open something like this&.&.&."
 
 But I couldn't come up with any way to deal with it other than opening
 it&.
 
 Besides&, I was worried about Nanami&.
-She was an impudent little sister&.&.&.&.
-But she was my little sister all the same&.&.&.&.
+She was an impudent little sister&.&.&.
+But she was my little sister all the same&.&.&.
 
 Nanami's cell phone was inside here&.
 
-Or&, to put it differently--
+Or&, to put it differently\
 Someone had taken Nanami's cell phone away from her&.
 
 </PRE>
@@ -1052,21 +1052,21 @@ Someone had taken Nanami's cell phone away from her&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text021]
-"Let's start the Nanami-chan rescue quest&." 
+"Let's start the Nanami-chan rescue quest&."
 
-So "Shogun" had written in his email&.&.&.&.
+So "Shogun" had written in his email&.&.&.
 
 I looked at the clock&.
 It was half-past seven&. Another hour and a half left until the
 designated time&.
 
-Nanami&.&.&.&.&. might be&.&.&.&. in danger&.&.&.&.
+Nanami&.&.&.&. might be&.&.&. in danger&.&.&.
 
-I had no choice&.&.&.&. but to open it&.
+I had no choice&.&.&. but to open it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400660ta">
-"Haa&.&.&.&. haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400660ta">
+"Haa&.&.&. haa&.&.&."
 
 My pulse wouldn't slow&.
 Sweat poured heavily from my forehead&.
@@ -1075,10 +1075,10 @@ I wiped that sweat with the back of my hand and&, groaning&, began
 peeling off the packing tape stuck to the box&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400670ta">
-"No&.&.&.&. no&.&.&.&. no&.&.&.&. no&.&.&.&. no&.&.&.&.
-no&.&.&.&. no&.&.&.&. no&.&.&.&.&. no&.&.&.&.&. no&.&.&.&.
-no&.&.&.&. no&.&.&.&. no&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400670ta">
+"No&.&.&. no&.&.&. no&.&.&. no&.&.&. no&.&.&.
+no&.&.&. no&.&.&. no&.&.&.&. no&.&.&.&. no&.&.&.
+no&.&.&. no&.&.&. no&.&.&.&."
 
 Muttering to myself as though praying&, I opened the top flaps&.
 
@@ -1111,10 +1111,10 @@ From inside the lump of aluminum foil&.
 Sweat entered my eyes&, making them sting&.
 My whole body had gotten soaked in sweat without my knowing it&.
 
-Urgh&, I'd had enough&.&.&.&.
-Why was I the only one who had to end up like this&.&.&.&.
+Urgh&, I'd had enough&.&.&.
+Why was I the only one who had to end up like this&.&.&.
 
-I was on the verge of voicing my gripes&. 
+I was on the verge of voicing my gripes&.
 
 I sought words of deliverance from Seira-tan&, but she wouldn't say
 anything to me&.
@@ -1124,13 +1124,13 @@ brink of exploding&, to the point that I couldn't have imaginary
 conversations with Seira-tan&.
 
 The heightening of my emotions made my nerve endings seem about to
-burn apart&.&.&.&.
+burn apart&.&.&.
 But the cell phone's carefree melody mercilessly urged me on&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400680ta">
-"Haa&, haa&.&.&.&. I&, I'm&.&.&.&. opening it&.&.&.&. haa&.&.&.&.
-haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400680ta">
+"Haa&, haa&.&.&. I&, I'm&.&.&. opening it&.&.&. haa&.&.&.
+haa&.&.&."
 
 Bracing myself&, I pinched the edges of the aluminum foil in my
 fingers&,
@@ -1164,40 +1164,40 @@ Closed my eyes&, held my breath&,
 	SoundPlay("SE02", 0, 400, false);
 	SoundPlay("SE03", 0, 400, false);
 	Wait(200);}
-And ripped all the aluminum foil off at once--
+And ripped all the aluminum foil off at once\
 
 {	Wait(1000);
 	SoundPlay("SE05", 3000, 600, true);
 	Wait(1500);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400690ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400690ta">
+"&.&.&.&.&.&.&."
 
 I heard the melody more clearly now&.
 
-I was afraid to open my eyes&.&.&.&.
+I was afraid to open my eyes&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400700ta">
-"Uuuhh&.&.&.&. haa haa&.&.&.&.&. haa haa&.&.&.&.&. uuuuh&.&.&.&.
-kuhaah haa&.&.&.&. haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400700ta">
+"Uuuhh&.&.&. haa haa&.&.&.&. haa haa&.&.&.&. uuuuh&.&.&.
+kuhaah haa&.&.&. haa&.&.&."
 
 I strove to collect my breathing&, but it didn't go well at
-all&.&.&.&.
+all&.&.&.
 
 It would be okay&, it was fine&, there wasn't anything bad there&.
 
 It was probably a prank by Nanami&, anyway&.
 
 No doubt Nanami would come in the room sooner or later&, saying
-"Yaaaay&, I got you--" with a smile&.
+"Yaaaay&, I got you\" with a smile&.
 
 Yeah&, that had to be it&. I couldn't consider anything else&.
 
 If so&, I'd scold her with all my might&. And I'd never listen to a
 thing she said again&.
 
-Right&, tell me that's how it is&, Nanami--
+Right&, tell me that's how it is&, Nanami\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1207,8 +1207,8 @@ Right&, tell me that's how it is&, Nanami--
 <PRE box00>
 [text024]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400710ta">
-"Uuuuhhh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400710ta">
+"Uuuuhhh&.&.&."
 
 I couldn't stand to close my eyes and keep on gazing at darkness any
 longer&.
@@ -1216,18 +1216,18 @@ Being unable to see it had the opposite effect of making me envision
 only awful delusions&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400720ta">
-"Haa&.&.&.&. haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400720ta">
+"Haa&.&.&. haa&.&.&."
 
-Which was why I--
+Which was why I\
 
-Softly--
+Softly\
 
-Opened--
+Opened\
 
-My eyelids--
+My eyelids\
 
-I saw it--
+I saw it\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1302,7 +1302,7 @@ On its wrist&, it wore
 [text026]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400730na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400730na">
 "Heehh~ It's a cute bangle&."
 
 {	SoundPlay("SE03", 0, 1000, false);
@@ -1316,7 +1316,7 @@ On its wrist&, it wore
 	Fade("‰ñ‘z–¾“x", 1, 0, null, true);
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 200, 0, null, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400740na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400740na">
 "Then I'll take it!"
 
 {	SoundPlay("SE04", 0, 1000, false);
@@ -1326,7 +1326,7 @@ On its wrist&, it wore
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 500, 0, null, true);
 	Wait(500);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12400750na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12400750na">
 "Heheh~ Bro&, whaddaya think? Does it look good on me?"
 
 {	Wait(500);
@@ -1345,13 +1345,13 @@ On its wrist&, it wore
 	Wait(1000);}
 A bangle whose yellow leather band
 
-Had gone scarlet--
+Had gone scarlet\
 
 {	SoundPlay("SE05", 100, 0, false);
 	SoundPlay("SE06", 100, 0, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12400760ta">
-"Uwaaaaaa----------------------------------!!!!!!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12400760ta">
+"Uwaaaaaa-----------------!!!!!!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

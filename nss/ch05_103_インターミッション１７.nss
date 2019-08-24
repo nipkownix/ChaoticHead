@@ -45,20 +45,20 @@ function ch05_103_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚P‚V()
 <PRE box00>
 [text001]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300010nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300010nr">
 "Are you aware that there exist many nerve channels in our field of
 vision&, called "dead spots&," which normally go unused?"
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch05/10300020kr">
+<voice name="‘q" class="‘q" src="voice/ch05/10300020kr">
 "Is that related to the second generation?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300030nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300030nr">
 "Indeed it is&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300040nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300040nr">
 "Let's attempt a simple experiment&."
 
 </PRE>
@@ -73,84 +73,84 @@ vision&, called "dead spots&," which normally go unused?"
 <PRE box00>
 [text002]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300050nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300050nr">
 "Please take a look at this&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch05/10300060ih">
+<voice name="’–•@" class="’–•@" src="voice/ch05/10300060ih">
 "I don't have the time to go along with child's play&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300070nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300070nr">
 "It's quite important&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300080nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300080nr">
 "The left side of this diagram contains a dot&, whereas the right side
 contains a ring&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300090nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300090nr">
 "Now&, please cover your left eye with your hand&, so you can no
 longer see from it&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300100nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300100nr">
 "Then look at the dot on the left side of the diagram&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300110nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300110nr">
 "What do you think? Is the ring present at the corner of your right
 eye as you regard the dot?"
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch05/10300120ih">
+<voice name="’–•@" class="’–•@" src="voice/ch05/10300120ih">
 "It's only natural to keep seeing the ring next door&, no matter how
 you try to look at the dot alone&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300130nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300130nr">
 "In that case&, sir&, move your face closer to the monitor&,
 continuing to look at the dot&. What happens to the ring adjacent to
 it?"
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch05/10300140ih">
-"Hoh&.&.&.&. what's this?"
+<voice name="’–•@" class="’–•@" src="voice/ch05/10300140ih">
+"Hoh&.&.&. what's this?"
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch05/10300150kr">
+<voice name="‘q" class="‘q" src="voice/ch05/10300150kr">
 "Fascinating&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300160nr">
-"The ring on the right-hand side disappeared&.&.&.&. did it not?"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300160nr">
+"The ring on the right-hand side disappeared&.&.&. did it not?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300170nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300170nr">
 "This is not because your field of vision narrowed&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300180nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300180nr">
 "In proof of that&, the ring will reappear if you move even closer to
 the monitor&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch05/10300190ih">
-"Hm&.&.&.&. what manner of trick does this use?"
+<voice name="’–•@" class="’–•@" src="voice/ch05/10300190ih">
+"Hm&.&.&. what manner of trick does this use?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300200nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300200nr">
 "No&, it's not a trick or anything of the sort&.  It's one of the
 abilities people's eyes have always possessed but that they normally
 make no use of&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300210nr">
-"This is called a 'dead spot'--"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300210nr">
+"This is called a 'dead spot'?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch05/10300220nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300220nr">
 "And it's one of the channels through which Noah will create
 'something' from 'nothing' in people's sight&."
 

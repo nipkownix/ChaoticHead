@@ -39,29 +39,27 @@ function ch02_028_インターミッション０４()
 
 	Wait(2000);
 
-	CreateMovie("章イン", 25000, 0, 0, false, true, "dx/mvA.ngs");
-	Request("章イン", Lock);
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch02.png");
+	Fade("アイキャッチ１", 10, 1000, null, true);
 
-	WaitAction("章イン", 3200);
-
+	WaitKey(3200);
+	IntermissionCard1();
+	
 	Delete("*");
 
-	CreateMovie("回想", 150, Center, Middle, true, true, "dx/mvフリッカー.ngs");
+	MusicStart("@CH16", 5000, 1000, 0, 1000, null, true);
+	CreateMovie("回想", 150, Center, Middle, true, true, "dx/mvFlicker.ngs");
 	Request("回想", AddRender);
 	Zoom("回想", 0, 4000, 4000, null, false);
 	Fade("回想", 0, 200, null, false);
 	CreateTextureEX("背景１", 100, 0, 0, "cg/ev/ev057_01_1_拓巳子供時代_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
 
-	CreateMovie("インターミッションムービー２", 25000, 0, 0, false, true, "dx/mvアイキャッチ02.ngs");
-	Request("章イン", UnLock);
-	Delete("章イン");
-	WaitPlay("インターミッションムービー２", null);
-	Delete("インターミッションムービー２");
+	IntermissionCard2();
 
 	Wait(1500);
 
-	MusicStart("@CH16", 5000, 1000, 0, 1000, null, true);
+	//MusicStart("@CH16", 5000, 1000, 0, 1000, null, true);
 	CreateColor("色１", 200, 0, 0, 800, 600, "Black");
 	Fade("色１", 0, 0, null, true);
 	CreateSE("SE02","SE_人体_動作_手_スケッチブック破る");
@@ -74,7 +72,7 @@ function ch02_028_インターミッション０４()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
---Beeep&, beeep&, please hurry up and board the bus for the field trip&.
+―Beeep&, beeep&, please hurry up and board the bus for the field trip&.
 
 Nishijou Takumi lay sprawled on the tatami-covered floor with a
 colored pencil in his hand&. It was yellow&. The one he held several
@@ -91,11 +89,11 @@ watching it&, was currently playing the morning news&. To Takumi&, who
 was still only in fourth grade&, the news was nothing but "boring
 stuff&," so he didn't look at the screen&.
 
---Beeep&, beeep&, 300 yen for candy&.
+―Beeep&, beeep&, 300 yen for candy&.
 
 He was drawing a yellow bus&. He pretended he was the bus driver&.
 
---The bus is full&, so we're going to take off&, beeep&.
+―The bus is full&, so we're going to take off&, beeep&.
 
 He brought imaginary scenes into reality through his drawings&.
 
@@ -103,7 +101,7 @@ He worked so energetically that there were many times when his lines
 went off the surface of his sketchbook onto tatami&.
 
 Each time&, Nanami&, who was reading manga nearby&, became angry
-and grumbled&, "Jeez--! You mustn't get it dirty&," even though she 
+and grumbled&, "Jeez-! You mustn't get it dirty&," even though she
 was just his little sister&.
 Unconcerned&, Takumi continued immersing himself in his drawing&.
 
@@ -112,12 +110,12 @@ bus&, Takumi's hand stopped&.
 
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/02800010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/02800010ta">
+"&.&.&.&.&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/02800020ta">
-"&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/02800020ta">
+"&.&.&.&.&.&.&.&.&.&.&.&.&.&."
 
 //ＳＥ//スケッチブックを破る
 {	Fade("色１", 200, 1000, null, false);
@@ -137,8 +135,8 @@ And he deliberately tore apart the sketchbook&.
 <PRE box00>
 [text002]
 //ＢＧ//黒
-The day before--
-The day before the fall field trip--
+The day before―
+The day before the fall field trip―
 
 Takumi's parents had suddenly told him&, "You can't go on the field
 trip&."
@@ -168,10 +166,9 @@ for Takumi&, one sufficient to induce this level of passion in him&.
 Though everyone else in the class could go&, he alone could not&.
 From Takumi's point of view&, it was all too unreasonable&.
 
-Takumi's world was lonely one&.
-Their world was full of fun and passion&. 
-He almost had the sense that he was the only one to have been cu<pre>t</pre> off
-from the rest of the world&.
+Takumi's world was lonely one&. Their world was full of fun and passion&.
+He almost had the sense that he was the only one to have been cu<pre>t</pre>
+off from the rest of the world&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -188,7 +185,7 @@ Nor could he forgive his parents for their abrupt and unfair
 "sentence"&.
 
 This began to transform into hatred toward his parents and classmates&.
-Biting his lip hard enough to make it bleed&, he continually repeated 
+Biting his lip hard enough to make it bleed&, he continually repeated
 curse-like words to himself&.
 
 </PRE>
@@ -200,8 +197,8 @@ curse-like words to himself&.
 
 	Wait(500);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 220, center, Middle, Auto, Auto, "--None of you should be able to go&.");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 220, center, Middle, Auto, Auto, "―None of you should be able to go&.");
 	Move("テキスト１", 0, @10, @0, null, true);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -239,19 +236,19 @@ Their father had already gone to work and was nowhere to be seen&.
 Their mother was so busy answering the phone that she didn't have time
 to make breakfast&.
 
-There was no need to go to school today--
+There was no need to go to school today―
 
-Still sulking&, 
+Still sulking&,
 Takumi opened his sketchbook and began drawing to clear away his
 gloom&.
 
 But his irritation wouldn't go away&,
-And right when he tore up and flung his sketchbook away in annoyance--
+And right when he tore up and flung his sketchbook away in annoyance―
 
 //◆ここでの七海は９歳です
 //【七海】
-<voice name="七海" class="七海" src="ch02/02800030na">
-"Huh? That bus&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch02/02800030na">
+"Huh? That bus&.&.&."
 
 Nanami raised her voice in confusion&.
 Takumi thought she was talking about the drawing he'd been working
@@ -259,7 +256,7 @@ on&, but her eyes were glued to the television&.
 
 //◆ここでの七海は９歳です
 //【七海】
-<voice name="七海" class="七海" src="ch02/02800040na">
+<voice name="七海" class="七海" src="voice/ch02/02800040na">
 "Hey&, Mommy!"
 
 Nanami yelled for their mother&, who was even now responding to
@@ -272,7 +269,7 @@ area about 50 meters in size had collapsed&.
 
 Unfortunately&, a single bus that had happened to be passing over that
 one spot become caught up in it and lay toppled over sideways beneath
-the overpass&. 
+the overpass&.
 
 It was indeed the bus that Takumi was supposed to have ridden&.
 The bus all his classmates had been riding&.
@@ -296,31 +293,31 @@ but Takumi didn't really understand what he was saying&.
 <PRE box00>
 [text005]
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800050hy">
-"Taku-chan&, it's awful&.&.&.&.!"
+<voice name="母親" class="母親" src="voice/ch02/02800050hy">
+"Taku-chan&, it's awful&.&.&.!"
 
 His mother stood stock-still at the entrance to the room&, face pale&,
 still gripping the phone&.
 
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800060hy">
-"The bus for the field trip had an accident on the highway&.&.&.&."
+<voice name="母親" class="母親" src="voice/ch02/02800060hy">
+"The bus for the field trip had an accident on the highway&.&.&."
 
 //【七海】
-<voice name="七海" class="七海" src="ch02/02800070na">
-"That's what they're showing on TV right now&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch02/02800070na">
+"That's what they're showing on TV right now&.&.&."
 
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800080hy">
-"And Mr&. Saitou--"
+<voice name="母親" class="母親" src="voice/ch02/02800080hy">
+"And Mr&. Saitou―"
 
---Is dead&.
+―Is dead&.
 
 For some reason&, Takumi was certain of it&.
 
-Everything being shown on the news right now bore a powerful 
+Everything being shown on the news right now bore a powerful
 resemblance to what he had envisioned in frustration and hatred
-last night&. 
+last night&.
 
 One thing alone resided in Takumi's heart&.
 The peculiar conviction that he was the possessor of precognitive
@@ -369,27 +366,27 @@ himself that his foresight had been correct&.
 <PRE box00>
 [text007]
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800090hy">
-"Over half the children in your class are injured&.&.&.&."
+<voice name="母親" class="母親" src="voice/ch02/02800090hy">
+"Over half the children in your class are injured&.&.&."
 
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800100hy">
-"Ahh&, how dreadful&.&.&.&."
+<voice name="母親" class="母親" src="voice/ch02/02800100hy">
+"Ahh&, how dreadful&.&.&."
 
 Takumi's mother began to embrace him&, but he slipped out of her arm
 and crawled to another corner of the room&.
 
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800110hy">
-"But thank goodness&.&.&.&."
+<voice name="母親" class="母親" src="voice/ch02/02800110hy">
+"But thank goodness&.&.&."
 
 His mother murmured emptily&, her gaze swimming through the air&.
 
 {	Wait(500);}
 //【母親】
-<voice name="母親" class="母親" src="ch02/02800120hy">
-"Thank goodness&.&.&.&. Thank God we decided to have you stay home
-today&.&.&.&. Taku-chan&."
+<voice name="母親" class="母親" src="voice/ch02/02800120hy">
+"Thank goodness&.&.&. Thank God we decided to have you stay home
+today&.&.&. Taku-chan&."
 
 {	Fade("色１", 1000, 1000, null, true);
 	Wait(500);}

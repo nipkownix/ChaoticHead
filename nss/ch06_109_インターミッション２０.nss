@@ -34,10 +34,12 @@ function ch06_109_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚Q‚O()
 //\\\\\\\\\\\\\\\\
 //¡‘æ‚UÍyNoahz
 
-	CreateMovie("ÍƒCƒ“", 25000, 0, 0, false, true, "dx/mvE.ngs");
+	CreateTextureEX("ƒAƒCƒLƒƒƒbƒ`‚P", 100, 0, 0, "cg/sys/title/cards/title_ch06.png");
+	Fade("ƒAƒCƒLƒƒƒbƒ`‚P", 10, 1000, null, true);
 
-	Request("ÍƒCƒ“", Lock);
-	WaitAction("ÍƒCƒ“", 3200);
+	WaitKey(3200);
+	IntermissionCard1();
+	
 	Delete("*");
 
 	MusicStart("SE*", 2000, 0, 0, 1000, null, true);
@@ -47,10 +49,7 @@ function ch06_109_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚Q‚O()
 //‚a‚f//a’JŒx@‘å‰ï‹cº//’‹
 	CreateTexture("”wŒi‚P", 100, 0, 0, "cg/bg/bg095_01_1_Œx@‘å‰ï‹cº_a.jpg");
 
-	Request("ÍƒCƒ“", UnLock);
-	WaitAction("ÍƒCƒ“", null);
-
-	Delete("ÍƒCƒ“");
+	IntermissionCard2();
 
 //‚P‚OŒ‚Q‚V“úiŒj//“ú•t‚Í•\¦‚µ‚È‚¢
 //ƒAƒCƒLƒƒƒbƒ`
@@ -101,7 +100,7 @@ Aside from the thing about Suwa&, there was also the fact that when he
 reported about the GE rate in the meeting earlier&, Matsunaga shot him
 down with&, "We don't have the time to deal with idle gossip&."
 
---Please&, don't let things get any more aggravating than this&.
+\Please&, don't let things get any more aggravating than this&.
 
 {	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, true);}
 Ban let out a small sigh as he waved his fan at his face&.
@@ -125,11 +124,11 @@ voice&.
 //¦“d”gó‘Ô‚·‚²‚­ˆ«‚¢BƒZƒJƒ“ƒhƒƒ‹ƒgi’nkj‚Ì‰e‹¿
 //Ÿuæ”yƒbƒX‚©Iv
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900010su">
-"Sem&.&.&.&. you?"
+<voice name="z–K" class="z–K" src="voice/ch06/10900010su">
+"Sem&.&.&. you?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900020bn">
+<voice name="”»" class="”»" src="voice/ch06/10900020bn">
 "You danged fool! Where the hell had you loafed at!?"
 
 The connection was terribly low-quality&. Ban scratched his short
@@ -137,12 +136,12 @@ hair&, wondering where in the boondocks Suwa had gone off to&.
 
 //Ÿu‚·‚ñ‚Ü‚¹‚ñA¡•·‚«‚İ’†‚È‚ñƒX‚æB‚¿‚å‚Á‚Æ©•ª‚È‚è‚Év‚¤‚Æ‚±‚ë‚ª‚ ‚Á‚Äv
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900030su">
-"So&.&.&.&. y&, I'm busy questi&.&.&.&. pects&. &.&.&.&.own
-ideas&.&.&.&. y'know&."
+<voice name="z–K" class="z–K" src="voice/ch06/10900030su">
+"So&.&.&. y&, I'm busy questi&.&.&. pects&. &.&.&.own
+ideas&.&.&. y'know&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900040bn">
+<voice name="”»" class="”»" src="voice/ch06/10900040bn">
 "Huh!? What're you saying!? Where are you!?"
 
 When Ban yelled&, Suwa's voice grew inaudible&, and for some time&,
@@ -157,24 +156,24 @@ rustling noises continued in exchange&.
 [text003]
 //“d”gó‹µ‰ñ•œ
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900050su">
-"&.&.&.&.How is it? Can you hear me now?"
+<voice name="z–K" class="z–K" src="voice/ch06/10900050su">
+"&.&.&.How is it? Can you hear me now?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900060bn">
+<voice name="”»" class="”»" src="voice/ch06/10900060bn">
 "Yeah&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900070bn">
-"So&, where in the bloody name of--"
+<voice name="”»" class="”»" src="voice/ch06/10900070bn">
+"So&, where in the bloody name of\"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900080su">
-"Oh&, well&, I had a few ideas of my own&, see&.&.&.&. I was doing all
+<voice name="z–K" class="z–K" src="voice/ch06/10900080su">
+"Oh&, well&, I had a few ideas of my own&, see&.&.&. I was doing all
 kinds of asking around&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900090bn">
+<voice name="”»" class="”»" src="voice/ch06/10900090bn">
 "Look here&, you&."
 
 He couldn't praise Suwa for taking unauthorized independent action&.
@@ -185,44 +184,44 @@ maybe all their time together had led to him having a bad influence on
 Suwa&, his junior&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900100su">
+<voice name="z–K" class="z–K" src="voice/ch06/10900100su">
 "I think I'm pretty close to hitting on some clues&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900110su">
+<voice name="z–K" class="z–K" src="voice/ch06/10900110su">
 "Decisive evidence with respect to the true New-Gen criminal&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900120bn">
+<voice name="”»" class="”»" src="voice/ch06/10900120bn">
 "The real criminal?"
 
 The color in Ban's eyes shifted&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900130su">
+<voice name="z–K" class="z–K" src="voice/ch06/10900130su">
 "I'm keeping it secret for now&. Since I might be thinking along the
 wrong lines&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900140bn">
+<voice name="”»" class="”»" src="voice/ch06/10900140bn">
 "In any case&, head on back&. You got it?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900150su">
+<voice name="z–K" class="z–K" src="voice/ch06/10900150su">
 "Nah&, I'm gonna investigate a little bit longer!"
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900160bn">
+<voice name="”»" class="”»" src="voice/ch06/10900160bn">
 "Haa!? H&, hey&, wait a sec!"
 
 //Ÿu”C‚¹‚Æ‚¢‚Ä‚­‚¾‚³‚¢v‚ÆŒ¾‚Á‚Ä‚¢‚é“r’†‚Å‚¢‚«‚È‚è‚Ô‚Á‚Â‚è‚Æ“rØ‚ê‚é
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/10900170su">
+<voice name="z–K" class="z–K" src="voice/ch06/10900170su">
 "Don't worry! Leave it to me&."
 
 //‚r‚d//G‰¹BuƒU[Iv
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900180bn">
+<voice name="”»" class="”»" src="voice/ch06/10900180bn">
 "Suwa? Suwa!"
 
 </PRE>
@@ -249,8 +248,8 @@ wrong lines&."
 Right then&, the area at his feet began shaking&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900190bn">
-"&.&.&.&.An earthquake?"
+<voice name="”»" class="”»" src="voice/ch06/10900190bn">
+"&.&.&.An earthquake?"
 
 The shaking gradually grew fiercer and fiercer&.
 To the point that he couldn't stand up straight&.
@@ -258,7 +257,7 @@ To the point that he couldn't stand up straight&.
 Ban crouched in place without a moment's hesitation&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch06/10900200bn">
+<voice name="”»" class="”»" src="voice/ch06/10900200bn">
 "This is a big one!"
 
 The other detectives&, who had at first been unfazed&, finally picked
@@ -286,7 +285,7 @@ the other&, sending up violent crashing noises&.
 The two whiteboards lined up at the head of the conference room also
 collapsed&.
 
---It was almost like being in a plane that had just entered
+\It was almost like being in a plane that had just entered
 turbulence&.
 
 So it seemed to Ban&.
@@ -297,7 +296,7 @@ side&.
 
 This could conceivably be a 5 or 6 magnitude earthquake&.
 
---Had the Great Kantou Earthquake arrived at last?
+\Had the Great Kantou Earthquake arrived at last?
 Now&, of all times&.
 
 </PRE>
@@ -322,7 +321,7 @@ It wasn't that someone had physically struck him&.
 It was an intense headache&.
 
 //yŒY–z
-<voice name="ŒY–" class="ŒY–" src="ch06/10900210kj">
+<voice name="ŒY–" class="ŒY–" src="voice/ch06/10900210kj">
 "Gyaaaaaahh!"
 
 Suddenly&, screams resounded through the conference room&.

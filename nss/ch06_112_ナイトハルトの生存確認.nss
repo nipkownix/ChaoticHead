@@ -62,11 +62,11 @@ Doing these things took considerable effort&, due to how my body
 refused to work up any strength&, but I wouldn't be able to leave the
 room if I didn't clean up&.
 
-It'd be the worst if&, during Shogun's next attack--although I didn't
-know if it were really him or not--I found myself trapped in here and
+It'd be the worst if&, during Shogun's next attack―although I didn't
+know if it were really him or not―I found myself trapped in here and
 couldn't run away&.
 
-I needed to guarantee myself an escape route&.&.&.&.
+I needed to guarantee myself an escape route&.&.&.
 
 In any case&, once I had finished rearranging things and reformatting
 my OS&, I swiftly faced my PC and installed ESO&. I attempted
@@ -94,10 +94,10 @@ logging into Baselard&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200010ta">
-"Y&, yes&.&.&.&. yes&.&.&.&.! Neidhardt's still there&.&.&.&.! All
-my equipment and stuff is safe&, too&. Thank God&.&.&.&. thank
-god&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200010ta">
+"Y&, yes&.&.&. yes&.&.&.! Neidhardt's still there&.&.&.! All
+my equipment and stuff is safe&, too&. Thank God&.&.&. thank
+god&.&.&."
 
 {	CreateSE("SE01","SE_日常_家具_イス_軋");
 	SoundPlay("SE01",0,1000,false);}
@@ -108,7 +108,7 @@ myself halfway&.
 Even so&, I was overjoyed to be able to meet my alter ego again&,
 after thinking he had disappeared forever&.
 
-&.&.&.&.Let's see&.
+&.&.&.Let's see&.
 
 Now that I was relieved&, I started wanting to find out what on earth
 had happened in the first place&. It was enough to give me the urge to
@@ -119,8 +119,8 @@ unexplained&.
 
 I checked to see if Grim were in Baselard&, but I couldn't find him&.
 
-I tried going to our usual chatroom--my bookmark for it had
-disappeared&, so it took a while to find--but Grim wasn't there&,
+I tried going to our usual chatroom―my bookmark for it had
+disappeared&, so it took a while to find―but Grim wasn't there&,
 either&. What was with him&, vanishing on me at such a crucial time?
 
 I had no recourse but to open the Taboo! home page&.
@@ -161,8 +161,8 @@ Videos had been uploaded&, ones that showed film from the traffic
 cameras at the pedestrian scramble&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200020ta">
-"This&.&.&.&. isn't just an earthquake&.&.&.&. is it&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200020ta">
+"This&.&.&. isn't just an earthquake&.&.&. is it&.&.&."
 
 At the time&, I had been attacked by a horrific headache&. It wasn't
 even at the level where you could call it a headache&. It had felt as
@@ -172,12 +172,12 @@ And even now&, two hours later&, it had left a pulsing pain and a limp
 heaviness behind in my body&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200030ta">
-"Maybe you'd end up like that if you got stuck in a microwave&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200030ta">
+"Maybe you'd end up like that if you got stuck in a microwave&.&.&."
 
 When I thought of it that way&, I had the sense that maybe my paranoid
 delusions about it being an electromagnetic attack set of by "Shogun"
-weren't completely mistaken&.&.&.&.
+weren't completely mistaken&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -219,7 +219,7 @@ flicked my eyes toward the chat window&.
 
 	CreateColor("チャット下地色", 1500, 0, 0, 800, 600, "#252525");
 
-	SetFont("ＭＳ ゴシック", 32, #FFFFD3, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 32, #FFFFD3, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1600, 1350, 350, Auto, Auto, "Shogun has entered the room<br>Current members: 2");
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);
@@ -266,8 +266,8 @@ Current members: 2
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200040ta">
-"Hiie&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200040ta">
+"Hiie&.&.&."
 
 An unthinking shriek spilled from my throat when I saw that name&.
 
@@ -281,9 +281,9 @@ An unthinking shriek spilled from my throat when I saw that name&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-Such impeccable timing&.&.&.&.
+Such impeccable timing&.&.&.
 
-Could it be that&.&.&.&. he really was peeping in on my thoughts!?
+Could it be that&.&.&. he really was peeping in on my thoughts!?
 
 The hand gripping my mouse quivered&.
 
@@ -294,19 +294,19 @@ Even though I hated merely looking at the word "Shogun&," I couldn't
 rip my eyes away from the monitor&.
 
 I wanted to leave the chatroom&, but I'd received such a shock that it
-was as though my body had been cu<pre>t</pre> away from my consciousness&, and I
-couldn't control the mouse&.
+was as though my body had been cu<pre>t</pre> away from my consciousness&,
+and I couldn't control the mouse&.
 
 A prickling sensation at the back of my neck&.
 Someone was watching me again&.
-"God's gaze"&.&.&.&.
+"God's gaze"&.&.&.
 
 Or rather than anything resembling God&, might it in fact be "the gaze
-'Shogun' sent down from a satellite's orbit"&.&.&.&.?
+'Shogun' sent down from a satellite's orbit"&.&.&.?
 
-Urgh&.&.&.&. I wanna run away&.&.&.&.
+Urgh&.&.&. I wanna run away&.&.&.
 
-But where to? He'd catch me no matter where I fled in Japan&.&.&.&.
+But where to? He'd catch me no matter where I fled in Japan&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -345,15 +345,15 @@ But the post by "Shogun" galvanized me&, letting my petrified body
 move freely again&, and I soon groped for my cell phone&.
 
 It was a little past three&. Classes might still be going on&. Even
-so&, Rimi&, surely Rimi would do something about it for me&.&.&.&. I
+so&, Rimi&, surely Rimi would do something about it for me&.&.&. I
 had to believe this&.
 
 I picked Rimi's cell phone number out of the short list of items
 recorded in my address book&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200050ta">
-"Haa&, haa&.&.&.&. Sa&, save me&.&.&.&. Rimi&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200050ta">
+"Haa&, haa&.&.&. Sa&, save me&.&.&. Rimi&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -390,8 +390,8 @@ Shogun: Do you hate me?
 <PRE box00>
 [text011]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200060ta">
-"Ri&, Rimi&.&.&.&. Hurry&.&.&.&. kahaah&, haaah&, pick up&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200060ta">
+"Ri&, Rimi&.&.&. Hurry&.&.&. kahaah&, haaah&, pick up&.&.&."
 
 It hurt to breathe&. I couldn't think about anything calmly&.
 
@@ -399,7 +399,7 @@ Rimi wouldn't pick up&. Beyond the phone&, the monotonous sound of my
 call to her went on ringing&.
 
 Why now&, didn't you always come materialize in front of me whenever I
-found myself in trouble&.&.&.&. Why now&, of all times&.&.&.&.
+found myself in trouble&.&.&. Why now&, of all times&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -443,15 +443,15 @@ Present?
 	Wait(500);}
 //ＣＧ//グロ画像
 //フラッシュバックで一瞬表示
-Did he feel like sending me another one of those&.&.&.&.!?
+Did he feel like sending me another one of those&.&.&.!?
 
 And this time&, he'd set me up as the real New-Gen perp for sure!
 
-No&, I don't want that&.&.&.&. I'm not the criminal!
+No&, I don't want that&.&.&. I'm not the criminal!
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200070ta">
-"Haa&, kuhaah&, haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200070ta">
+"Haa&, kuhaah&, haa&.&.&."
 
 It felt like I'd become a fish stranded on land&. I wasn't getting
 enough oxygen&. My head went fuzzy&.
@@ -470,12 +470,12 @@ on the other end of the line&, as though praying&.
 It went through!
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200080ta">
-"H&, he&, help me&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200080ta">
+"H&, he&, help me&.&.&.&."
 
 //【ケータイアナウンス】
-<voice name="ケータイアナウンス" class="ケータイアナウンス" src="ch06/11200090ia">
-"You are being connected to the voice messaging service--"
+<voice name="ケータイアナウンス" class="ケータイアナウンス" src="voice/ch06/11200090ia">
+"You are being connected to the voice messaging service―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -506,8 +506,8 @@ Shogun: I'll be delighted if it pleases you
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text015]
-Her&.&.&.&. voicemail&.&.&.&.?
-No&.&.&.&.
+Her&.&.&. voicemail&.&.&.?
+No&.&.&.
 
 //ＳＥ//ケータイ切る「ピッ」
 {	CreateSE("SE01","SE_日常_携帯ボタン押す");
@@ -518,18 +518,18 @@ I hugged my upper arms&.
 
 At some point&, my body had started trembling&.
 
-I dreaded "Shogun" even more than I'd thought&.&.&.&.
+I dreaded "Shogun" even more than I'd thought&.&.&.
 
 Of course I did!
 
 He was a serial killer who'd caused five incredibly cruel incidents&,
 all while pretending to be disabled!
 
-And I was his next mark&.&.&.&.!
+And I was his next mark&.&.&.!
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11200100ta">
-"Uuh&.&.&.&. Come save me&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11200100ta">
+"Uuh&.&.&. Come save me&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

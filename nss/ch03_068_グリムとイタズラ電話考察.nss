@@ -84,7 +84,7 @@ Because we'd talk it to death afterward&, while we played ESO&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text002]
-Neidhardt: Has there been some kind of weird prank going 
+Neidhardt: Has there been some kind of weird prank going
 around lately?
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
@@ -112,7 +112,7 @@ Neidhardt: Nah&, I just heard about it from someone I know
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text005]
-Neidhardt: But I don't know if it's really going around or 
+Neidhardt: But I don't know if it's really going around or
 not
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
@@ -157,7 +157,7 @@ Neidhardt: Haha&, what eroge are you thinking of?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text010]
-Neidhardt: On the contrary&, wouldn't you want that them to 
+Neidhardt: On the contrary&, wouldn't you want that them to
 hurry up and do that to you? Heh
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
@@ -181,10 +181,10 @@ Grim: Well&, then&, whose eyes are those eyes?
 <PRE box00>
 [text012]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06800010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06800010ta">
+"&.&.&.&.&.&.&."
 
-As usual&, Grim had to go and use those words&.&.&.&.
+As usual&, Grim had to go and use those words&.&.&.
 He'd made my mood go sour in an instant&.
 
 Plus&, his Japanese was strange&. Were those words so fascinating that
@@ -250,7 +250,7 @@ Neidhardt: Yeah&, yeah
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text018]
-Neidhardt: Then in the middle&, it suddenly switches to a 
+Neidhardt: Then in the middle&, it suddenly switches to a
 sound like a buzzer
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
@@ -300,8 +300,8 @@ If it were purely a crank call&, all I'd have to do from here on out
 was ignore it&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06800020ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06800020ta">
+"&.&.&.&.&.&.&."
 
 Huh? Grim wasn't reacting&.
 I wondered why&.
@@ -315,7 +315,7 @@ I wondered why&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text023]
-Neidhardt: O--i&.
+Neidhardt: O―i&.
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,400);
@@ -380,7 +380,7 @@ Grim: For stuff about your prank
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text029]
-Oh&, so that's what it had been&. 
+Oh&, so that's what it had been&.
 
 But in other words&, it meant that even the super-knowledgeable Grim
 hadn't known about this prank&.
@@ -426,7 +426,7 @@ Neidhardt: Hmmmm
 That suggested the prankster had done it
 Because they harbored some kind of personal grudge against me&.
 
-The identity of the caller concerned me&, after all&.&.&.&.
+The identity of the caller concerned me&, after all&.&.&.
 But I wasn't gutsy enough to call back&.
 
 Ah&, but since I knew the phone number&, I could use someone as a

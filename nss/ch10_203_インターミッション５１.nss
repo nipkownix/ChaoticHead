@@ -36,7 +36,7 @@ function ch10_203_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚T‚P()
 
 	DeleteAll();
 
-	CreateMovie("ƒTƒCƒP", 500, Center, Middle, true, false, "dx/mvƒCƒ[ƒW02.ngs");
+	CreateMovie("ƒTƒCƒP", 500, Center, Middle, true, false, "dx/mvImage02.ngs");
 	Fade("ƒTƒCƒP", 0, 0, null, false);
 
 	Request("ƒTƒCƒP", Play);
@@ -55,11 +55,12 @@ function ch10_203_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚T‚P()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
---Her memories were muddled&.
+\Her memories were muddled&.
 
 Nishijou Nanami sensed it&.
 
-Her brother's words served as the trigger&, heralding in Nanami's heart the sensation that she had two brothers&.
+Her brother's words served as the trigger&, heralding in Nanami's heart
+the sensation that she had two brothers&.
 
 Not&, "It seemed like she had two&."
 
@@ -81,10 +82,10 @@ What had been an illusion?
 Unknowing&, she became frightened&,
 And as she tried to make the inside of her head go blank&,
 
-Suddenly&, she heard her own voice&, coming to her like tiny ripples on 
+Suddenly&, she heard her own voice&, coming to her like tiny ripples on
 water&.
 
---Nana&, you've gotta keep yourself together&.
+\Nana&, you've gotta keep yourself together&.
 
 {	SetVolume("SE100", 1000, 0, NULL);
 	CreateBG(100, 0, 0, 0, "cg/bg/bg110_01_2_AH‰B‚µ˜L‰º_a.jpg");
@@ -92,7 +93,7 @@ water&.
 	FadeStand("buµŠC_„•_’Êí_shock", 0, true);
 	Fade("ƒTƒCƒP", 500, 0, null, true);
 	Delete("ƒTƒCƒP");}
-Before she knew it&, Nanami was standing in a hallway that shone with 
+Before she knew it&, Nanami was standing in a hallway that shone with
 the light of sunset&.
 
 The scent of disinfectants pricked at her nose&.
@@ -101,7 +102,7 @@ In front of her was a plain-looking door&.
 Nanami was holding its handle&.
 And without her will having any bearing on it&,
 
-Her hand opened the door&. 
+Her hand opened the door&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -119,7 +120,7 @@ Her hand opened the door&.
 
 	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg108_01_2_«ŒR•aº_a.jpg");
 
-	CreateMovie("‰ñ‘z", 900, Center, Middle, true, false, "dx/mvƒtƒŠƒbƒJ[.ngs");
+	CreateMovie("‰ñ‘z", 900, Center, Middle, true, false, "dx/mvFlicker.ngs");
 	Request("‰ñ‘z", AddRender);
 	Zoom("‰ñ‘z", 0, 4000, 4000, null, false);
 	Fade("‰ñ‘z", 0, 150, null, false);
@@ -144,11 +145,11 @@ Her hand opened the door&.
 //Ÿ¦–{•Ò‚Ì‚P”N”¼‘OB‘ñ–¤‚P‚TÎBµŠC‚P‚SÎ
 //‚u‚e//‰ñ‘z’†‚Í‰ñ‘zƒZƒŠƒt
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300010na">
-"Ah--! Bro&, are you planning on not eating again--?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300010na">
+"Ah-! Bro&, are you planning on not eating again-?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300020na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300020na">
 "I'm always telling you to eat properly&.
 If you don't&, you won't get better&, you know?"
 
@@ -156,7 +157,7 @@ If you don't&, you won't get better&, you know?"
 	DeleteStand("stµŠC_„•_X‚Ë_angry", 500, false);
 	FadeStand("stµŠC_„•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300030na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300030na">
 "Ah&, is it cause there's some green peas in there?"
 
 {	Stand("stµŠC_„•_’Êí","angry", 200, @+150);
@@ -164,28 +165,28 @@ If you don't&, you won't get better&, you know?"
 	DeleteStand("stµŠC_„•_’Êí_shock", 0, true);}
 //Ÿ‚½‚ß‘§¬‚¶‚è‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300040na">
-"You're not a little kid&, so how about you stop being so picky--?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300040na">
+"You're not a little kid&, so how about you stop being so picky-?"
 
 {	Stand("stµŠC_„•_’Êí","shy", 200, @+150);
 	FadeStand("stµŠC_„•_’Êí_shy", 300, true);
 	DeleteStand("stµŠC_„•_’Êí_angry", 0, true);}
 //Ÿ‚¿‚å‚Á‚Æ’p‚¸‚©‚µ‚»‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300050na">
-"We&, well&, I don't like green peas either&, so I can understand why 
-you'd want to leave them&, but&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300050na">
+"We&, well&, I don't like green peas either&, so I can understand why
+you'd want to leave them&, but&.&.&."
 
 {	Stand("stµŠC_„•_X‚Ë","angry", 200, @+150);
 	DeleteStand("stµŠC_„•_’Êí_shy", 500, false);
 	FadeStand("stµŠC_„•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300060na">
-"If you don't eat right&, she's gonna get mad at me&. That scaaary head 
-nurse--"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300060na">
+"If you don't eat right&, she's gonna get mad at me&. That scaaary head
+nurse\"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300070jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300070jn">
 "Nanami&."
 
 {	Stand("stµŠC_„•_’Êí","shock", 200, @+150);
@@ -194,23 +195,23 @@ nurse--"
 	Wait(500);}
 //Ÿ‚¢‚«‚È‚èº‚ğ‚©‚¯‚ç‚ê‚ÄƒrƒbƒNƒŠ
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300080na">
-"Wh&, what&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300080na">
+"Wh&, what&.&.&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300090jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300090jn">
 "I'm sorry for all the times I lashed out at you before now&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300100na">
-"&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300100na">
+"&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300110na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300110na">
 "It's so weird for you to apologize&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300120jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300120jn">
 "You don't need to push yourself for my sake any longer&."
 
 {	Stand("stµŠC_„•_’Êí","angry", 200, @+150);
@@ -218,24 +219,24 @@ nurse--"
 	DeleteStand("stµŠC_„•_’Êí_shock", 0, true);}
 //ŸŒË˜f‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300130na">
-"&.&.&.&.&.&.&.&.&.Er&, uh"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300130na">
+"&.&.&.&.&.&.&.Er&, uh"
 
 //ŸŒË˜f‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300140na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300140na">
 "What're you saying?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300150jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300150jn">
 "I have to go into hiding&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300160jn">
-"So you--"
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300160jn">
+"So you\"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300170jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300170jn">
 "Don't have to come here anymore&."
 
 {	Stand("stµŠC_„•_’Êí","shock", 200, @+150);
@@ -243,17 +244,17 @@ nurse--"
 	DeleteStand("stµŠC_„•_’Êí_angry", 0, true);}
 //ŸƒVƒ‡ƒbƒN
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300180na">
-"&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300180na">
+"&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300190na">
-"What're you--"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300190na">
+"What're you\"
 
 //Ÿi‘O‚ÌƒZƒŠƒt‚ğjÕ‚Á‚Ä”ß‚µ‚»‚¤‚É
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300200jn">
-"Farewell&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300200jn">
+"Farewell&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -288,7 +289,7 @@ older brother for years&. The fact that she'd gone on straining herself&,
 thinking she had to hang in there and be dependable&, to take care of
 him&.
 
-Up until this very moment&, for a whole year and a half&, all those 
+Up until this very moment&, for a whole year and a half&, all those
 things had completely slipped out of her memory&.
 
 Those memories were made to never have been there in the first place&.
@@ -296,22 +297,23 @@ Those memories were made to never have been there in the first place&.
 And in their exchange&.
 Her brother was healthy&. Living on his own in Shibuya&.
 
-Her mother had requested that she go check on how he was doing 
-periodically&, and once in a while&, on the way home from school&, 
-she'd stop by his room--
+Her mother had requested that she go check on how he was doing
+periodically&, and once in a while&, on the way home from school&,
+she'd stop by his room\
 
-She'd made herself think it was a perfectly ordinary custom of theirs&, a continuation of the past&, and that she did it because they were 
-family&.
+She'd made herself think it was a perfectly ordinary custom of theirs&,
+a continuation of the past&, and that she did
+it because they were family&.
 
 She hadn't experienced any doubts whatsoever&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300210na">
-"Why did I&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300210na">
+"Why did I&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300220na">
-"Forget&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300220na">
+"Forget&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -341,25 +343,26 @@ This was the brother Nanami had always known&, from long ago&.
 //Ÿ¦µŠC‚Í˜rØ’f‚ÌƒPƒK‚Ì‚¹‚¢‚Å‚·‚²‚­ã‚Á‚Ä‚¢‚Ü‚·
 //ŸãX‚µ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300230na">
-"This is&, it's too cruel&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300230na">
+"This is&, it's too cruel&.&.&."
 
 //ŸãX‚µ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300240na">
-"I only ever complained to you&.&.&.&. I complained&, but&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300240na">
+"I only ever complained to you&.&.&. I complained&, but&.&.&."
 
 She spilled tears as she clung to her brother's diminuitive&, numb body&.
 
 //Ÿ‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300250na">
-"I never ever&, not even once&, thought I wanted to forget about you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300250na">
+"I never ever&, not even once&, thought I wanted to
+forget about you&.&.&."
 
 //Ÿ‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300260na">
-"You're selfish&.&.&.&. you're too selfish&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300260na">
+"You're selfish&.&.&. you're too selfish&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -379,8 +382,8 @@ A sound like the scraping of metal came from her brother's clothing&.
 Something went slipping out of his breast pocket&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300270na">
-"Ah&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300270na">
+"Ah&.&.&."
 
 {	CreateTextureEX("back05", 100, 0, 0, "cg/bg/bg211_01_5_‰©F‚¢ƒoƒ“ƒOƒ‹_a.jpg");
 	Fade("back05", 500, 1000, null, true);}
@@ -400,7 +403,7 @@ The first present she had ever received from her "brother&."
 It was her treasure&.
 
 {	CreateBG(100, 500, 0, 0, "cg/bg/bg027_03_5_“¹Œºâ_a.jpg");}
-Nanami lifted her gaze&, unconsciously seeking out the figure of her 
+Nanami lifted her gaze&, unconsciously seeking out the figure of her
 other brother&.
 
 
@@ -411,7 +414,8 @@ He was walking away&.
 He was leaving this place&.
 Nanami understood that intuitively&.
 
-She became forlorn at the thought that maybe he meant to leave without saying anything to her&. 
+She became forlorn at the thought that maybe he meant to leave
+without saying anything to her&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -423,19 +427,19 @@ She became forlorn at the thought that maybe he meant to leave without saying an
 //‚u‚e
 //ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300280jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300280jn">
 "Go to him&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300290na">
-"&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300290na">
+"&.&.&.?"
 
 Knitting her eyebrows&, Nanami took a quick glance around&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300300na">
-"Just now&, a voice&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300300na">
+"Just now&, a voice&.&.&."
 
 It was the voice of the brother in her memory&.
 A voice reaching her heart from he who should have been unconscious&.
@@ -443,21 +447,21 @@ A voice reaching her heart from he who should have been unconscious&.
 //‚u‚e
 //ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20300310jn">
-"Because he and I share the same self&, the same heart&. Because he's 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20300310jn">
+"Because he and I share the same self&, the same heart&. Because he's
 your other big brother&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300320na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300320na">
+"&.&.&.&.&.&.&."
 
-Nanami didn't know if it was a voice her brother had emitted&, or else 
+Nanami didn't know if it was a voice her brother had emitted&, or else
 merely an auditory hallucination&.
-But even then--
+But even then\
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300330na">
-"Yeah&, okay&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300330na">
+"Yeah&, okay&.&.&."
 
 She said to her brother&, lying prone&.
 
@@ -468,21 +472,21 @@ Her body couldn't muster any strength&.
 For days&, she'd been pinned up to a eerie objet d'art&,
 in a pitch-black room&, forced to experience horrific suffering&.
 
-She had no idea how many times she'd thought of dying&.  
+She had no idea how many times she'd thought of dying&.
 
-Her right hand especially; the powerful pain in it had continued 
-incessantly&, like there was a huge flea stuffed in her bone&, 
+Her right hand especially; the powerful pain in it had continued
+incessantly&, like there was a huge flea stuffed in her bone&,
 gnawing it down&.
 
-The sensation that she didn't have a hand and the hallucination that 
-she did mixed and collided&, almost driving her crazy&.  
+The sensation that she didn't have a hand and the hallucination that
+she did mixed and collided&, almost driving her crazy&.
 
 She was exhausted both mentally and physically&.
 
-If she let her guard down&, she'd crouch right where she stood and be 
+If she let her guard down&, she'd crouch right where she stood and be
 rendered unable to take another step forward&.
 
-Which was why Nanami had to fight desperately to keep stretching out 
+Which was why Nanami had to fight desperately to keep stretching out
 her hand&.
 
 She wanted to halt her brother so much&, to the point of putting in such
@@ -498,29 +502,29 @@ an effort&.
 <PRE box00>
 [text007]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300340na">
-"&.&.&.&.Wa&.&.&.&. it&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300340na">
+"&.&.&.Wa&.&.&. it&.&.&."
 
 Once she just barely managed to squeeze out her voice&, he noticed&.
 He stopped and turned back in her direction&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300350na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300350na">
+"&.&.&.&.&.&.&."
 
-She'd succeeded in stopping him&, but Nanami was torn about how to 
+She'd succeeded in stopping him&, but Nanami was torn about how to
 address him&.
 
 The reality that this person wasn't her brother&.
 The conviction that this person was her brother&.
 
-Those two feelings became hopelessly entangled&, and she couldn't put 
+Those two feelings became hopelessly entangled&, and she couldn't put
 her emotions in order on a moment's notice&.
 
-Except--
+Except\
 
 The bangle she held in her left hand&.
-Though cold to the touch&, it was a gift from him&, and it warmed her 
+Though cold to the touch&, it was a gift from him&, and it warmed her
 heart&.
 
 She felt like this bangle's existence tied the two of them together&.
@@ -530,35 +534,36 @@ Her confusion soon vanished&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300360na">
-"Bro&.&.&.&. you might not be my real bro&, but&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300360na">
+"Bro&.&.&. you might not be my real bro&, but&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300370na">
-"You're unreliable&.&.&.&. and an otaku&.&.&.&. and all you do is collect 
-little dolls of anime characters&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300370na">
+"You're unreliable&.&.&. and an otaku&.&.&. and all you do is collect
+little dolls of anime characters&.&.&."
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300380na">
-"You've got a bad mouth on you&.&.&.&. and you aren't sociable&.&.&.&. and you only ever say mean things to me&, but--"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300380na">
+"You've got a bad mouth on you&.&.&. and you aren't sociable&.&.&.
+and you only ever say mean things to me&, but\"
 
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev092_03_1_‘ñ–¤U‚è•Ô‚è_a.jpg");}
 //Ÿ‹ƒ‚«Î‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20300390na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/20300390na">
 "You're Nana's bro&, too&."
 
-Struggling to keep herself from crying&, Nanami smiled with all her 
+Struggling to keep herself from crying&, Nanami smiled with all her
 might&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20300400ta">
-"&.&.&.&.Ah&, eh&, thanks&, Nanami&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20300400ta">
+"&.&.&.Ah&, eh&, thanks&, Nanami&."
 
 Her other brother showed her a bashful expression&.
-The instant she felt relief&, Nanami's consciousness began gradually 
-receding into the distance-- 
+The instant she felt relief&, Nanami's consciousness began gradually
+receding into the distance\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

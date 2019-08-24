@@ -53,38 +53,38 @@ function ch07_142_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚R‚O()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-The faint light of dusk filtered through the hospital window&. 
+The faint light of dusk filtered through the hospital window&.
 
 The twilight-colored light sharply divided the middle of the room into
-that which was bright and that which was dark&. 
+that which was bright and that which was dark&.
 
-What it made visible was-- 
+What it made visible was\
 
-Snow-white sheets covering a bed&. 
-A handheld game system laid beside the pillow&. 
+Snow-white sheets covering a bed&.
+A handheld game system laid beside the pillow&.
 
-A number of scholarly books lined up along the shelves&. 
+A number of scholarly books lined up along the shelves&.
 The pale purple petals of the cosmos flowers arranged in a vase&.
 
 //¦‰Â”\‚È‚çƒxƒbƒh‚Ìã‚ÉƒXƒPƒbƒ`ƒuƒbƒN‚ğ’u‚¢‚Ä‚­‚¾‚³‚¢iƒeƒLƒXƒg‚Å‚ÍG‚ê‚Ü‚¹‚ñj«ŒR‚Ì³‘Ì‚É‚Â‚¢‚Ä‚Ìd‘å‚Èƒqƒ“ƒg‚Æ‚È‚è‚Ü‚·B‚QÍƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚O‚SQÆB
-It was an orderly room&. 
-Nothing moved&. 
+It was an orderly room&.
+Nothing moved&.
 A space where time seemed to have stopped&.
 
 A window that cu<pre>t</pre> a piece out of the dusk sky&.
-A small figure sat in a wheelchair by the windowsill&. 
+A small figure sat in a wheelchair by the windowsill&.
 
-His back facing the window&, he remained motionless&. 
+His back facing the window&, he remained motionless&.
 His breaths were so gentle and came so far apart as to make one think
-he might be dead&. 
+he might be dead&.
 
 His skin was covered in wrinkles&.
-His cheeks were gaunt&. 
-His eyes were sunken&. 
-Not a single hair grew on his head&. 
+His cheeks were gaunt&.
+His eyes were sunken&.
+Not a single hair grew on his head&.
 
 An appearance that evoked uncertainty about whether to call him a boy
-or an old man&. 
+or an old man&.
 
 The shadow of he who called himself "Shogun" elongated all the way to
 the door&.
@@ -114,30 +114,30 @@ Her tormented expression&.
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200010ri">
-"Let's stop already&.&.&.&. okay?"
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200010ri">
+"Let's stop already&.&.&. okay?"
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200020ri">
-"It's unfortunate&, but&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200020ri">
+"It's unfortunate&, but&.&.&."
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200030ri">
-"&.&.&.&.He &.&.&.&.Nishijou Takumi needs to be erased&." 
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200030ri">
+"&.&.&.He &.&.&.Nishijou Takumi needs to be erased&."
 
 "Shogun" didn't budge an inch at her words&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200040jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200040jn">
 "Why?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200050ri">
-"Because he's dangerous&." 
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200050ri">
+"Because he's dangerous&."
 
-Grief infused Rimi's voice as she answered&. 
+Grief infused Rimi's voice as she answered&.
 Her eyes&, too&, appeared faintly damp&.
 
 </PRE>
@@ -148,92 +148,92 @@ Her eyes&, too&, appeared faintly damp&.
 <PRE box00>
 [text003]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200060ri">
-"Shall I&.&.&.&. erase him?"
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200060ri">
+"Shall I&.&.&. erase him?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200070jn">
-"You mustn't&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200070jn">
+"You mustn't&."
 
 Ultimately&, even Rimi couldn't discern whether he moved his mouth
 when he spoke&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200080jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200080jn">
 "There's something I need him to do for me&."
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200090ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200090ri">
+"&.&.&.&.&.&.&."
 
 Rimi's hair fell forward as she hung her head&, and she quietly pushed
 it back with her fingers&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200100ri">
-"&.&.&.&.For instance&, do you remember your dreams?"
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200100ri">
+"&.&.&.For instance&, do you remember your dreams?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200110jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200110jn">
 "Yes&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200120ri">
 "I see&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200130ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200130ri">
 "I soon forget them&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200140jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200140jn">
 "Some people can remember&, and some can't&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200150ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200150ri">
 "The people who can must be romantics&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200160jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200160jn">
 "I often have a very long&, long dream&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200170jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200170jn">
 "It seems as though years are passing as I dream it&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200180ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200180ri">
 "I used to be the same&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200190ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200190ri">
 "I feel like I used to be the same&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200200ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200200ri">
 "But that's an illusion&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200210ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200210ri">
 "Dreams actually take place in only two or three seconds as you
 sleep&."
 
 //Ÿ–A–—‚¤‚½‚©‚½
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200220ri">
-"Evanescent bubbles of the heart&.&.&.&. perhaps&."
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200220ri">
+"Evanescent bubbles of the heart&.&.&. perhaps&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200230ri">
-"So&.&.&.&. wake up quickly&."
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200230ri">
+"So&.&.&. wake up quickly&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200240ri">
-"If not&, someday--"
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200240ri">
+"If not&, someday\"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200250ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200250ri">
 "Nishijou Takumi is going to kill you&."
 
 </PRE>
@@ -244,21 +244,21 @@ sleep&."
 <PRE box00>
 [text004]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200260jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200260jn">
 "Even if he did&, I wouldn't mind&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200270jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200270jn">
 "I mustn't waken from my dream&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch07/14200280jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch07/14200280jn">
 "I have to see it through to its conclusion&."
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200290ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200290ri">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -287,8 +287,8 @@ sleep&."
 [text005]
 //Ÿ‚³‚³‚â‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/14200300ri">
-"What's going to remain after the dream concludes&.&.&.&.?"
+<voice name="—œ[" class="—œ[" src="voice/ch07/14200300ri">
+"What's going to remain after the dream concludes&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -91,21 +91,21 @@ if($–Ï‘zƒgƒŠƒK[‚V == 2)
 [text001]
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200010se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200010se">
 "You don't have to go home&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200020ta">
-"&.&.&.&.What do you mean?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200020ta">
+"&.&.&.What do you mean?"
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200030se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200030se">
 "Because I came to get you&."
 
 Her whisper by my ear sounded astoundingly real&.
 
-I had the feeling that she was&.&.&.&. jabbing me in the cheek&.
+I had the feeling that she was&.&.&. jabbing me in the cheek&.
 
 I slowly opened my eyes&.
 
@@ -133,7 +133,7 @@ I slowly opened my eyes&.
 [text002]
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200040se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200040se">
 "Good morning&, dummy ô"
 
 Seira-tan was standing beside the bed&.
@@ -153,11 +153,11 @@ chest&.
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_normal", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200050se">
-"Ah&.&.&.&.mm ô"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200050se">
+"Ah&.&.&.mm ô"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200060ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200060ta">
 "Oh&, Ooohhh!?"
 
 It had bounced back at me&.
@@ -173,7 +173,7 @@ Seira-tan had descended to the third dimension!
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_ero", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200070se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200070se">
 "Non&, non&. This is the second dimension&."
 
 W&, was it really?
@@ -185,14 +185,14 @@ Even though she was so soft and bouncy?
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_happy", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200080se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200080se">
 "It's bouncy in a 2-D sort of way&."
 
 I didn't get her meaning&, but as long as she was bouncy&, I'd be fine
 with anything&.
 
 Speaking of which&, my excessive shock had made me touch her on the
-chest&.&.&.&. I suddenly became abashed&.
+chest&.&.&. I suddenly became abashed&.
 
 The life-sized Seira-tan was amazingly cute&. Fatally moe&. And real&.
 
@@ -208,8 +208,8 @@ might come to dislike me grew stronger&.
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200090ta">
-"I'm sorry&, Seira-tan&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200090ta">
+"I'm sorry&, Seira-tan&.&.&."
 
 {	Stand("st¯—ˆ_ŠoÁ‘O_’Êí","ero", 200, @0);
 	Move("st¯—ˆ_ŠoÁ‘O_’Êí_ero", 0, @0, @100, null, true);
@@ -217,11 +217,11 @@ might come to dislike me grew stronger&.
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_normal", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200100se">
-"&.&.&.&.I'm okay with it as long as it's you&, Takkii&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200100se">
+"&.&.&.I'm okay with it as long as it's you&, Takkii&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200110ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200110ta">
 "S&, seriously?"
 
 {	Stand("st¯—ˆ_ŠoÁ‘O_’Êí","happy", 200, @0);
@@ -230,7 +230,7 @@ might come to dislike me grew stronger&.
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_ero", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200120se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200120se">
 "Yep&. But I'd hate it if someone else did this kind of thing to me&."
 
 {	Stand("st¯—ˆ_ŠoÁ‘O_’Êí","angry", 200, @0);
@@ -240,12 +240,12 @@ might come to dislike me grew stronger&.
 //Ÿ‚³‚³‚â‚«
 //¦ƒXƒXƒ€ƒuƒ‰ƒ`ƒ…[‚ÌålŒöB‘æ‚PÍQÆB
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200130se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200130se">
 "Especially someone like Susumu&. If that guy touched my chest&, I'd
 take a bat and send him flying to the moon&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200140ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200140ta">
 "He&, hehehe&."
 
 {	Stand("st¯—ˆ_ŠoÁ‘O_’Êí","normal", 200, @0);
@@ -254,7 +254,7 @@ take a bat and send him flying to the moon&."
 	DeleteStand("st¯—ˆ_ŠoÁ‘O_’Êí_angry", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200150se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200150se">
 "Shh&, pipe down&. If you make noise&, the nurse'll find me&."
 
 Seira-tan seemed concerned about what lay beyond the curtains&.
@@ -272,40 +272,40 @@ And&, being careful not to make a sound&, she took off her shoes and
 climbed up on the bed&. She straddled my hips&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200160ta">
-"Wai&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200160ta">
+"Wai&.&.&."
 
 On the verge of raising my voice again&, I hastily covered my mouth
 with my hand&.
 
-Se&, Seira-tan was straddling me&.&.&.&.
+Se&, Seira-tan was straddling me&.&.&.
 
-The panties inside her skirt were&.&.&.&. making direct contact with
-my crotch&.&.&.&.
-Shit&, my Johnson was threatening to burst out of control&.&.&.&.
+The panties inside her skirt were&.&.&. making direct contact with
+my crotch&.&.&.
+Shit&, my Johnson was threatening to burst out of control&.&.&.
 
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","ero", 200, @0);
 	Move("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 0, @0, @100, null, true);
 	FadeStand("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 500, true);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200170se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200170se">
 "Ufuu"
 
 Seira-tan brought her face closer&.
-She smelled nice&. This was Seira-tan's scent&.&.&.&.
+She smelled nice&. This was Seira-tan's scent&.&.&.
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200180se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200180se">
 "Hey&, hey&, Takkii&."
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200190se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200190se">
 "Takkii&, you oughta become 2-D&, too&."
 
-Wh&, what was she talking about&.&.&.&.?
+Wh&, what was she talking about&.&.&.?
 
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","normal", 200, @0);
 	Move("bu¯—ˆ_ŠoÁ‘O_’Êí_normal", 0, @0, @100, null, true);
@@ -313,13 +313,13 @@ Wh&, what was she talking about&.&.&.&.?
 	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200200se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200200se">
 "You're still 3-D&, Takkii&."
 
 //Ÿ‚³‚³‚â‚«
 //Ÿ‚µ‚½‚°‚é‚µ‚Ä‚ ‚°‚é
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200210se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200210se">
 "Sooo&, I'm gonna turn you 2-D&."
 
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","happy", 200, @0);
@@ -328,15 +328,15 @@ Wh&, what was she talking about&.&.&.&.?
 	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_normal", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200220se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200220se">
 "No problemo&, right-o?"
 
 Could she really do such a thing?
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200230se">
-"I can do it&. Besides--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200230se">
+"I can do it&. Besides\"
 
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","ero", 200, @0);
 	Move("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 0, @0, @100, null, true);
@@ -344,7 +344,7 @@ Could she really do such a thing?
 	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_happy", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200240se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200240se">
 "It'll feel really good&."
 
 From our surroundings&, I could hear the sounds of nurses busily
@@ -358,7 +358,7 @@ doing something like this in a hospital&.
 
 On top of everything&, my partner in this wanton escapade was
 Seira-tan&, my current number one favorite out of all my wives&.
-Ahh&, I sure was a lucky guy&.&.&.&.
+Ahh&, I sure was a lucky guy&.&.&.
 
 I couldn't think about anything else anymore&,
 And thus I simply nodded in answer to whatever Seira-tan told me&.
@@ -369,7 +369,7 @@ And thus I simply nodded in answer to whatever Seira-tan told me&.
 	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200250se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200250se">
 "That's how it's gotta be ô"
 
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","ero", 200, @0);
@@ -378,8 +378,8 @@ And thus I simply nodded in answer to whatever Seira-tan told me&.
 	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_happy", 200, false);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200260se">
-"I love you like this&, Takkii&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200260se">
+"I love you like this&, Takkii&.&.&."
 
 {	DeleteStand("bu¯—ˆ_ŠoÁ‘O_’Êí_ero", 500, true);}
 And Seira-tan pressed her lips hard against mine&.
@@ -399,14 +399,14 @@ And Seira-tan pressed her lips hard against mine&.
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200270ta">
-"Nn&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200270ta">
+"Nn&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200280se">
-"Nnn&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200280se">
+"Nnn&.&.&."
 
-Ho&, how very soft&.&.&.&.
+Ho&, how very soft&.&.&.
 Was this also an example of 2-D softness? It felt more tender than
 anything in real life&.
 
@@ -417,21 +417,21 @@ As my eyes went wide&, Seira-tan's tongue slipped between my lips and
 invaded my mouth&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200290ta">
-"Nn--!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200290ta">
+"Nn-!?"
 
 It was so pleasurable&, my eyes threatened to go rolling around in
 their sockets&.
 
-I hadn't known that kissing felt this good&. 
+I hadn't known that kissing felt this good&.
 Ahh&, I wanted her seductively stirring tongue to keep assaulting my
 mouth forever&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200300se">
-"Nn&.&.&.&. nn" 
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200300se">
+"Nn&.&.&. nn"
 
-I embraced Seira-tan's waist&. 
+I embraced Seira-tan's waist&.
 
 But her body was flimsy&. Because she was 2-D&. She was bouncy&, but
 also thin and flimsy&.
@@ -440,32 +440,32 @@ Perhaps it was like kissing a piece of paper&.
 But it felt so amazingly good that it didn't bother me&. I didn't have
 the room to let it bother me&.
 
-Seira-tan was ultra hot&.&.&.&.
+Seira-tan was ultra hot&.&.&.
 
 //Ÿ‹z‚¤
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200310se">
-"Nn&.&.&.&. slurp&.&.&.&. nnn&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200310se">
+"Nn&.&.&. slurp&.&.&. nnn&.&.&."
 
 Seira-tan sucked at my tongue&.
 I was all but on the brink of death&. I couldn't endure it&.
 
 //Ÿ‹z‚¤
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200320se">
-"Mmm&.&.&.&. lick&.&.&.&. nn&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200320se">
+"Mmm&.&.&. lick&.&.&. nn&.&.&."
 
-&.&.&.&.It was starting to get more and more painful&.
+&.&.&.It was starting to get more and more painful&.
 
 The strength of Seira-tan's suction was downright ghastly&.
 I tried to pull my tongue back&.
 
-But I couldn't do it&. 
+But I couldn't do it&.
 She sucked at me harder&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200330ta">
-"Nnguh&.&.&.&. geh&.&.&.&. ngh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200330ta">
+"Nnguh&.&.&. geh&.&.&. ngh&.&.&."
 
 She pulled at me&.
 To such an extent that she might tear me apart&.
@@ -493,7 +493,7 @@ My chest ached&.
 
 It felt like the inside of my stomach was being stirred to bits&.
 
-She was sucking me out&.&.&.&.
+She was sucking me out&.&.&.
 
 Seira-tan was sucking out everything&, every little thing inside my
 body&, my innards&, my flesh&, my bones&.
@@ -542,16 +542,16 @@ My intestines&.
 Having Seira-tan violate&, suck up and devour the inside of my body
 made me so happy and gave me such pleasure that I almost passed out&.
 
-I'd die&.&.&.&. I'd die from feeling too good&.&.&.&.!
+I'd die&.&.&. I'd die from feeling too good&.&.&.!
 
 //Ÿ‹z‚¤
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200340se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200340se">
 "Slurp&, mm&, gulp&, ah&, fuu"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200350ta">
-"Cough&, cough&.&.&.&. Geeeeeehhhhhh&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200350ta">
+"Cough&, cough&.&.&. Geeeeeehhhhhh&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -583,8 +583,8 @@ A mixture of blood and spit dripped from her mouth&.
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200360se">
-"You were&.&.&.&. amazingly tasty&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200360se">
+"You were&.&.&. amazingly tasty&."
 
 She smiled bewitchingly&.
 
@@ -597,12 +597,12 @@ and my thoughts grew hazy&.
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200370se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200370se">
 "See&, Takkii&, look at yourself&."
 
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200380se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200380se">
 "Now you live in the 2-D world&, too&."
 
 Swaying&, I tried to slide off the bed and stand up&.
@@ -612,7 +612,7 @@ It was kind of hard to walk&.
 Rather&, I went limp and couldn't even stay standing&.
 
 I collapsed soundlessly&, as though to worm my way across the floor&.
-Seira-tan&, I can't get up&. Lend me a hand&.&.&.&.
+Seira-tan&, I can't get up&. Lend me a hand&.&.&.
 
 Seira-tan's voice reached me from up on the bed&.
 
@@ -621,7 +621,7 @@ Seira-tan's voice reached me from up on the bed&.
 	FadeStand("st¯—ˆ_ŠoÁ‘O_’Êí_happy", 500, true);}
 //Ÿ‚³‚³‚â‚«
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch02/03200390se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch02/03200390se">
 "Welcome to the second dimension ô"
 
 </PRE>
@@ -656,13 +656,13 @@ Seira-tan's voice reached me from up on the bed&.
 <PRE box00>
 [text008]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200400ta">
-"&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200400ta">
+"&.&.&.!"
 
 When I leapt awake&, I was atop the bed&, unchanged&.
 My heart was pounding in alarm&.
 
-&.&.&.&.My heart was still inside my chest&, right where it belonged&.
+&.&.&.My heart was still inside my chest&, right where it belonged&.
 
 I tried touching my body here and there&.
 It wasn't flimsy&.
@@ -670,13 +670,13 @@ It had remained three-dimensional&.
 
 I didn't see Seira-tan anywhere&.
 
-&.&.&.&.Of course she wasn't there&.
+&.&.&.Of course she wasn't there&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200410ta">
-"A&.&.&.&. dream&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200410ta">
+"A&.&.&. dream&.&.&.&."
 
-Had it been a good one or a bad one&.&.&.&.
+Had it been a good one or a bad one&.&.&.
 
 I unconsciously let out a sigh&.
 
@@ -689,11 +689,11 @@ that it was called a dream precisely because one wouldn't notice such
 things in it&, but I couldn't help wondering&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200420hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200420hd">
 "Nishijou-san?"
 
 Someone called me from beyond the curtain&.
-It soon opened&, and the nurse from before--Hazuki-san--stuck her face
+It soon opened&, and the nurse from before\Hazuki-san\stuck her face
 in&.
 
 </PRE>
@@ -716,7 +716,7 @@ in&.
 <PRE box00>
 [text009]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200430hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200430hd">
 "Good morning&."
 
 I lowered my eyes and wordlessly bowed my head to her&.
@@ -725,10 +725,10 @@ I lowered my eyes and wordlessly bowed my head to her&.
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_normal", 300, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200440hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200440hd">
 "In the end&, you slept solidly through all three hours&."
 
-Eh&, it'd already been three hours&.&.&.&.?
+Eh&, it'd already been three hours&.&.&.?
 
 I'd lost my sense of the passage of time&, thanks to having had such a
 richly flavored dream&, but I must have been pretty worn out&.
@@ -737,10 +737,10 @@ richly flavored dream&, but I must have been pretty worn out&.
 	FadeStand("buu”T_”’ˆß_’Êí_worry", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_smile", 300, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200450hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200450hd">
 "You were tossing and turning a bit&, though&. Are you all right?"
 
-&.&.&.&.I couldn't tell her I'd been having a sexy dream&.
+&.&.&.I couldn't tell her I'd been having a sexy dream&.
 
 Speaking of which&, I was embarrassed by my full-blown libido&.
 
@@ -748,7 +748,7 @@ Speaking of which&, I was embarrassed by my full-blown libido&.
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_worry", 300, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200460hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200460hd">
 "But you didn't show any signs of sonambulism&."
 
 Hazuki-san told me in a tone of voice meant to reassure me&.
@@ -806,7 +806,7 @@ welcomed her with a cheerful smile&.
 	Move("stj’j_”’ˆß_’Êí_smile", 0, @0, @100, null, true);
 	FadeStand("stj’j_”’ˆß_’Êí_smile", 500, true);}
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch02/03200470tk">
+<voice name="‚‰È" class="‚‰È" src="voice/ch02/03200470tk">
 "What brings you here today?"
 
 "She" scanned the area&, ignoring his question&.
@@ -835,11 +835,11 @@ After all&, she was a demon&.
 	FadeStand("stj’j_”’ˆß_’Êí_normal", 300, true);
 	DeleteStand("stj’j_”’ˆß_’Êí_smile", 0, false);}
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch02/03200480tk">
+<voice name="‚‰È" class="‚‰È" src="voice/ch02/03200480tk">
 "Is there something bothering you?"
 
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch02/03200490tk">
+<voice name="‚‰È" class="‚‰È" src="voice/ch02/03200490tk">
 "If anything concerns you&, please let me know&. I'll try to do
 something about it&."
 
@@ -847,7 +847,7 @@ As befitted a psychiatrist&, he was very considerate toward his
 patients&.
 
 Amused&, "She" opened the bag she'd brought with her&. What she slowly
-took out from within it was--
+took out from within it was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -866,8 +866,8 @@ took out from within it was--
 A 24-centimeter long sashimi knife&.
 
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch02/03200500tk">
-"Or shall we switch to a larger roo--"
+<voice name="‚‰È" class="‚‰È" src="voice/ch02/03200500tk">
+"Or shall we switch to a larger roo\"
 
 {	DeleteStand("stj’j_”’ˆß_’Êí_normal", 300, false);
 	Wait(200);
@@ -894,8 +894,8 @@ piercing him with her knife&.
 	DrawTransition("”wŒi‚R", 300, 1000, 0, 100, null, "cg/data/effect.png", true);}
 //‚¨‚ª‚İFh‚µ‚½‰¹ƒ_ƒ~[
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch02/03200510tk">
-"Gah&.&.&.&."
+<voice name="‚‰È" class="‚‰È" src="voice/ch02/03200510tk">
+"Gah&.&.&."
 
 The knife penetrating his chest slipped past his breastbone and
 reached his heart&.
@@ -914,7 +914,7 @@ shoved the "object" away with her elbow&.
 	Wait(1000);
 	DeleteStand("stu”T_”’ˆß_’Êí_shock", 500, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200520hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200520hd">
 "Kyaaaaaa!"
 
 The white doctor's coat worn by the "object" lying face-up on the
@@ -928,8 +928,8 @@ knife at the nurse&.
 
 //Ÿº‚É‚È‚ç‚È‚¢”ß–Â
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200530hd">
-"--------!!"
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200530hd">
+"---!!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -951,7 +951,7 @@ It wasn't a fatal&, but a gaping wound had been carved into the
 nurse's meek face&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200540hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200540hd">
 "Aaaaaaah! Gyaaaaaaaahh!"
 
 Letting out a howl&, the nurse curled up in place&, holding her face&.
@@ -982,7 +982,7 @@ The curtain that surrounded an area about one or two tatami mats in
 size&.
 There was most likely a bed inside it&.
 
---You must be there&.
+\You must be there&.
 
 Her heart palpitated with joy&.
 Her lower abdomen went hot at the thought that she would finally be
@@ -995,7 +995,7 @@ apart with her knife&, rather than open it normally&.
 When she peered through the newly opened tear&, "He" was&, as
 expected&, lying there&.
 
---Found you&.
+\Found you&.
 
 She lost all restraint when she saw him&.
 
@@ -1023,13 +1023,13 @@ She raised her arms on high&.
 She was aiming for his heart&.
 
 {	MusicStart("@CH*", 1000, 0, 0, 1000, null, false);}
-With a single blow--
-Just like the doctor--
+With a single blow\
+Just like the doctor\
 
-I'll kill you--
+I'll kill you\
 
 In ecstasy&,
-"She" lowered the knife with all her might--
+"She" lowered the knife with all her might\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1080,8 +1080,8 @@ In ecstasy&,
 <PRE box00>
 [text014]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200550ta">
-"&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200550ta">
+"&.&.&.!"
 
 When I leapt awake&, I was atop the bed&, unchanged&.
 My heart was pounding in alarm&.
@@ -1089,7 +1089,7 @@ My heart was pounding in alarm&.
 I checked my chest&.
 
 There weren't any injuries to speak of&. No blood emerged&.
-I was&.&.&.&. unhurt&. 
+I was&.&.&. unhurt&.
 
 I looked around&.
 The curtain was closed&.
@@ -1097,12 +1097,12 @@ It hadn't been torn apart by her knife&.
 
 I reached stealthily for the curtain&.
 If I opened it&, and Dr&. Takashina and Hazuki-san were lying there&,
-covered in blood&.&.&.&. My body broke out in shivers again as I
+covered in blood&.&.&. My body broke out in shivers again as I
 envisioned it
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200560ta">
-"It's j&, just&.&.&.&. a dream&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200560ta">
+"It's j&, just&.&.&. a dream&.&.&."
 
 But I couldn't muster the courage to open the curtain&.
 
@@ -1111,7 +1111,7 @@ What if that demon girl was standing there&, knife in hand?
 
 These thoughts terrified me into inaction&.
 
-But then--
+But then\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1131,7 +1131,7 @@ But then--
 <PRE box00>
 [text015]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200570ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200570ta">
 "Wah&, Waaaaahhh!"
 
 Right in front of my eyes&, someone opened the curtain from outside&.
@@ -1141,12 +1141,12 @@ Shrieking before I could stop myself&, I tumbled off the bed&.
 	FadeStand("buu”T_”’ˆß_’Êí_worry", 200, false);
 	DeleteStand("buu”T_”’ˆß_’Êí_shock", 200, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200580hd">
-"Are&, are you okay&.&.&.&.?"
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200580hd">
+"Are&, are you okay&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200590ta">
-"Y&.&.&.&. Yes&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200590ta">
+"Y&.&.&. Yes&.&.&.?"
 
 I fearfully raised my face&.
 
@@ -1155,57 +1155,57 @@ traces of red blood on her white uniform&, and her face was completely
 uninjured&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200600hd">
-"I'm sorry&, I must have startled you&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200600hd">
+"I'm sorry&, I must have startled you&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200610hd">
-"I didn't think you were awake&, so&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200610hd">
+"I didn't think you were awake&, so&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200620ta">
-"Ah&, yes&, I mean&, no&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200620ta">
+"Ah&, yes&, I mean&, no&.&.&."
 
-She'd seen me at my most pathetic&.&.&.&.
+She'd seen me at my most pathetic&.&.&.
 
 I turned my face aside and reeled to my feet&.
 
 My heartbeat still wouldn't settle down&.
-But thank God it had been a dream&.&.&.&.
+But thank God it had been a dream&.&.&.
 It was like I'd been watching a horror flick&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200630hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200630hd">
 "Are you really all right?"
 
-Worried&, Hazuki-san looked at me more closely&. 
+Worried&, Hazuki-san looked at me more closely&.
 I was too bashful to lift my face&. It took my greatest effort to nod
 jerkily&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200640hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200640hd">
 "You seemed to be tossing and turning a bit&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200650ta">
-"I&, ha&, had&.&.&.&. a nightmare&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200650ta">
+"I&, ha&, had&.&.&. a nightmare&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200660hd">
-"I see&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200660hd">
+"I see&.&.&."
 
 What time was it?
 How long had I been asleep?
 
 I decided to ask Hazuki-san&.
-Surprisingly enough&, she said it had been three hours&. 
+Surprisingly enough&, she said it had been three hours&.
 It looked like I was more exhausted than I'd thought&.
 
 {	Stand("buu”T_”’ˆß_’Êí","smile", 200, @150);
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 200, false);
 	DeleteStand("buu”T_”’ˆß_’Êí_worry", 200, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200670hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200670hd">
 "But you didn't show any signs of sonambulism&."
 
 Hazuki-san told me in a tone of voice meant to reassure me&.
@@ -1233,25 +1233,25 @@ if($–Ï‘zƒgƒŠƒK[‚V == 0)
 <PRE box00>
 [text016]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200680hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200680hd">
 "Nishijou-san?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200690hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200690hd">
 "Please wake up&. It's time&."
 
 Seira-tan&, one hand placed lightly on my chest&, was shaking me to
 wake me up&.
 
---Ahh&, I'd dreamed this day would come&.
+\Ahh&, I'd dreamed this day would come&.
 
 My life of wedded bliss with Seira-tan&. Every morning&, she would
 come to wake me up&, wearing an naked apron&. And then she'd give me a
-good-morning kiss&.&.&.&.
+good-morning kiss&.&.&.
 
 {	MusicStart("@CH*", 5000, 0, 0, 1000, null, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200700hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200700hd">
 "Nishijou-saaan?"
 
 </PRE>
@@ -1282,30 +1282,30 @@ I slowly opened my eyes&.
 Someone was looking down at me&.
 Our eyes met&.
 
-She was&.&.&.&. Hazuki-san&, the nurse&.
+She was&.&.&. Hazuki-san&, the nurse&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200710ta">
-"&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200710ta">
+"&.&.&.!?"
 
-Flustered&, I looked around&. 
+Flustered&, I looked around&.
 I was still on top of the hospital bed&.
 
-What&, so I'd been dreaming that Seira was talking to me&.&.&.&.
+What&, so I'd been dreaming that Seira was talking to me&.&.&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200720hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200720hd">
 "Good morning&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200730ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200730ta">
+"&.&.&.&.&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200740hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200740hd">
 "In the end&, you slept solidly through all three hours&."
 
-Three hours already&.&.&.&. Despite the fact that I felt like it had
+Three hours already&.&.&. Despite the fact that I felt like it had
 hardly been five minutes&.
 
 I glanced over at Hazuki-san as I blearily rubbed my eyes&, and for
@@ -1316,30 +1316,30 @@ herself from smiling&.
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_normal", 0, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200750hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200750hd">
 "Is Seira-san your girlfriend?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200760ta">
-"Wha&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200760ta">
+"Wha&.&.&.!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200770hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200770hd">
 "You kept talking in your sleep&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200780ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200780ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("buu”T_”’ˆß_’Êí_smile", 500, true);}
 My face became pale&.
 
 I'd made an enormous mistake&.
-Letting a regular person hear me talk in my sleep&.&.&.&.!
+Letting a regular person hear me talk in my sleep&.&.&.!
 
-And of all things&.&.&.&. I'd let Seira-tan's name slip out&.&.&.&.!
+And of all things&.&.&. I'd let Seira-tan's name slip out&.&.&.!
 
-Haaaaaaah&.&.&.&.
+Haaaaaaah&.&.&.
 I wanted to crawl into a hole and die&.
 
 //‚r‚d//ƒJ[ƒeƒ“‚ğŠJ‚¯‚é
@@ -1353,7 +1353,7 @@ I wanted to crawl into a hole and die&.
 	Stand("buu”T_”’ˆß_’Êí","smile", 200, @150);
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 400, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200790hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200790hd">
 "But you didn't show any signs of sonambulism&."
 
 Hazuki-san told me as she opened the curtain&.
@@ -1376,7 +1376,7 @@ Hazuki-san told me as she opened the curtain&.
 <PRE box00>
 [text018]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200800hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200800hd">
 "Well&, we can't state definitively that you aren't a somnambulist&,
 as it's also possible that your symptoms simply happened not to appear
 today&."
@@ -1391,33 +1391,33 @@ When I accepted it absent-mindedly and skimmed it&, it turned out to
 be formatted as a questionnaire&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200810hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200810hd">
 "This is a checklist to give us a better grasp of your mental state&.
 Think of it as a kind of psychological test&. The doctor said you
 could go home once you fill it out&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/03200820ta">
-"Er&, er&.&.&.&. the do&, doctor&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/03200820ta">
+"Er&, er&.&.&. the do&, doctor&.&.&."
 
 {	Stand("buu”T_”’ˆß_’Êí","worry", 200, @150);
 	FadeStand("buu”T_”’ˆß_’Êí_worry", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_smile", 300, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200830hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200830hd">
 "I'm sorry&, he's completely booked with appointments&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200840hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200840hd">
 "He said to wait until next week&, and then come back one more time if
 you don't experience any improvement&."
 
-Well&, it's not like he's my personal doctor&.&.&.&.
+Well&, it's not like he's my personal doctor&.&.&.
 He must have given Hazuki-san various instructions about what to do
 with me&.
 
 This meant there had been no meaning in my coming all the way out to
-the hospital&.&.&.&.
+the hospital&.&.&.
 
 I'd wanted to ask him about my petrifying symptoms&, about how I was
 being manipulated by someone outside myself&.
@@ -1438,26 +1438,26 @@ Helpless&, I ended up filling out the checklist she'd handed me&.
 [text019]
 I'd write about the symptoms that were plaguing me on the back of the
 page&.
-And I'd come to see him again next week&.&.&.&.
+And I'd come to see him again next week&.&.&.
 
 {	Stand("buu”T_”’ˆß_’Êí","normal", 200, @150);
 	FadeStand("buu”T_”’ˆß_’Êí_normal", 300, true);
 	DeleteStand("buu”T_”’ˆß_’Êí_worry", 300, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200850hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200850hd">
 "The checklist is simple&. All you have to do is answer Yes or No to
 the following statements&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200860hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200860hd">
 "If a statement applies to you&, please choose Yes&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200870hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200870hd">
 "It'll help us as we decide how best to treat you in the future&, so
 please think carefully about your answers&."
 
-Hazuki-san went out of her way to explain it to me thoroughly&. 
+Hazuki-san went out of her way to explain it to me thoroughly&.
 
 Among the items on the sheet were ones so strange that they didn't
 seem to belong there in the context of a standard hospital&.
@@ -1467,16 +1467,16 @@ Would they actually be able to understand anything based on my answers
 to questions like this?
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch02/03200880hd">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch02/03200880hd">
+"&.&.&.&.&.&.&."
 
 Hazuki-san watched me unwaveringly&.
 She didn't move to leave&.
 
 It didn't feel like she had too much time to spare&,
-More like she was observing me--no&, watching over me&.
+More like she was observing me\no&, watching over me&.
 
-My nervousness at being watched made it hard for me to think&.&.&.&.
+My nervousness at being watched made it hard for me to think&.&.&.
 Was this also part of her job as a nurse?
 
 For the time being&, I decided to hurry up and get it over with&.

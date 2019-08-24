@@ -27,7 +27,7 @@ function ch01_017_‹A‘î()
 	SystemSet();
 
 
-//™Cut-67-----------------------------
+//™Cut-67\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //‚a‚f//‚j‚t‚q‚d‚m‚`‚h‰ïŠÙ‘O//–é
 	CreateBG(100, 1000, 0, 0, "cg/bg/bg005_01_3_KURENAIŒ©ã‚°_a.jpg");
 
@@ -38,20 +38,20 @@ function ch01_017_‹A‘î()
 <PRE box00>
 [text001]
 Neither Yua nor I spoke until we reached the building where my base
-was located&. 
+was located&.
 
-As if I could ever have a normal conversation with a girl&. 
+As if I could ever have a normal conversation with a girl&.
 
 Obviously&, if I brought up the subject of anime or games or figures&,
 3-D girls would reflexively call me a creep without so much as trying
-to understand me&. 
+to understand me&.
 
 From my perspective&, there was nothing to be gained from talking with
 those bitches&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700010ta">
-"I&, I'm fine here&, so&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700010ta">
+"I&, I'm fine here&, so&.&.&."
 
 Somehow forcing myself to say just that much&, I studied her reaction&.
 Yua gave me a small nod and let me go&.
@@ -61,12 +61,12 @@ Yua gave me a small nod and let me go&.
 I still staggered a little&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700020yu">
-"Should I&, um&.&.&.&. take you to your room&, after all?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700020yu">
+"Should I&, um&.&.&. take you to your room&, after all?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700030ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700030ta">
+"&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -77,7 +77,7 @@ I still staggered a little&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-Ignoring her suggestion&, I headed for the building's entrance&. 
+Ignoring her suggestion&, I headed for the building's entrance&.
 
 This ragged&, twenty-two year old building called Kurenai Hall was
 eight stories high and housed multiple tenants&.
@@ -88,12 +88,12 @@ and the stairs were steep&, and merely three people were enough to
 fill up the elevator&, and its speed of ascent was irritatingly slow&.
 
 
-The container housing on the roof formed my base&. 
+The container housing on the roof formed my base&.
 
 I ended up here thanks purely to my dad's connections&. Apparently he
 was a friend of the building's owner&, and the rent was pretty cheap&.
 The fact that it only took ten minutes to walk to school was also a
-plus&. 
+plus&.
 
 In truth&, I'd wanted to live in Akihabara&, but my parents wouldn't
 let me live by myself anywhere other than here&, so I gave up and
@@ -101,7 +101,7 @@ settled in&.
 
 Well&, just as they say&, the place you live becomes your palace&, and
 I felt fortunate that it wasn't so bad once I actually came to stay
-here&. 
+here&.
 
 There was supposed to be a tenant on the first floor&, but ever since
 I first arrived here&, the shutters had always been closed&.
@@ -122,15 +122,15 @@ pain ran through me&, and I swayed&.
 <PRE box00>
 [text003]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700040yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700040yu">
 "Are&, are you all right?"
 
-Yua leapt forward to hold me up&. 
-Dammit&, so she was still here&.&.&.&.
+Yua leapt forward to hold me up&.
+Dammit&, so she was still here&.&.&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700050yu">
-"I'll take you up to your room&. Wi&, without fail&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700050yu">
+"I'll take you up to your room&. Wi&, without fail&."
 
 Her declaration sounded oddly frantic&.
 
@@ -151,11 +151,11 @@ Her declaration sounded oddly frantic&.
 <PRE box00>
 [text004]
 To be perfectly honest&, it was an enormous help to have Yua come this
-far with me&. 
+far with me&.
 
 After reaching the eighth floor via the elevator&, I'd have to climb a
 set of steep emergency stairs&, and in my current state&, that seemed
-nigh impossible to do alone&. 
+nigh impossible to do alone&.
 
 Yua didn't seem very strong&, at least going by her outward appearance&.
 Despite that&, she did her best to support me&, catching her breath as
@@ -164,14 +164,14 @@ she helped me climb&.
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @+150);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700060yu">
-"You&, you live&.&.&.&. up in a place like this&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700060yu">
+"You&, you live&.&.&. up in a place like this&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700070ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700070ta">
+"&.&.&.&.&."
 
-Yua was rendered speechless upon seeing the container housing&. 
+Yua was rendered speechless upon seeing the container housing&.
 I guess from a normal person's point of view&, living in an industrial
 container would seem downright unbelievable&.
 
@@ -179,21 +179,21 @@ container would seem downright unbelievable&.
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 300, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700080yu">
-"Somehow&.&.&.&. I&, um&, really admire that&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700080yu">
+"Somehow&.&.&. I&, um&, really admire that&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700090ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700090ta">
+"Eh&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700100yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700100yu">
 "It's got a kind of outlaw sensibility to it&. How neat&."
 
 I'd never dreamed someone would say such a thing&.
 Was she trying to butter me up&, or what?
 I won't be fooled&. I definitely won't be fooled by one of you 3-D
-girls&, okay? 
+girls&, okay?
 
 With Yua supporting me&, I opened the padlock on the door and went
 inside&.
@@ -215,46 +215,46 @@ inside&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
-Haa&, I finally made it back&.&.&.&. 
+Haa&, I finally made it back&.&.&.
 Today had been disastrous&. It might be best to become a hikikomori&,
 after all&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700110yu">
-"It's pitch-black&.&.&.&. Um&, where's the light switch&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700110yu">
+"It's pitch-black&.&.&. Um&, where's the light switch&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700120ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700120ta">
+"&.&.&.&.&."
 
-This girl&.&.&.&. she'd brazenly gone ahead to the middle of the room&.
+This girl&.&.&. she'd brazenly gone ahead to the middle of the room&.
 But&, well&, there was also the fact that she'd lent me her shoulder
-on the way here&.&.&.&. 
+on the way here&.&.&.
 
-If possible&, I didn't want her to look around the room&. 
+If possible&, I didn't want her to look around the room&.
 After all&, there were a ton of figures lined up on the shelves&, and
 eroge packages were piled up on the bed&, and the floor was littered
 with trash&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700130ta">
-"Th&, that's enough&.&.&.&. Le&, let me go&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700130ta">
+"Th&, that's enough&.&.&. Le&, let me go&."
 
-Having communicated that&, I waited for Yua's hand to leave me&. 
+Having communicated that&, I waited for Yua's hand to leave me&.
 But she wouldn't release me so easily&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700140yu">
-"The floor is really messy--no&, er&, I mean&, I think it'll be hard
-to walk around like this&.&.&.&. It's clearly dangerous&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700140yu">
+"The floor is really messy\no&, er&, I mean&, I think it'll be hard
+to walk around like this&.&.&. It's clearly dangerous&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700150yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700150yu">
 "Let's head for the sofa&. I'll let go of you once you're there&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700160ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700160ta">
+"&.&.&.&.&."
 
 {	CreateTextureEX("”wŒi‚P", 200, 0, 0, "cg/bg/bg026_03_4_‘ñ–¤•”‰®_a.jpg");
 	Fade("”wŒi‚P", 1000, 1000, null, true);}
@@ -262,7 +262,7 @@ In the end&, I did as she told me&.
 Magazines and CDs were scattered atop the sofa&, too&, but Yua swiftly
 tidied them up while still supporting me&, then helped me sit down&.
 
-She was kind to me&, and so considerate&.&.&.&.
+She was kind to me&, and so considerate&.&.&.
 No&, don't be fooled! I won't let you fool me!
 
 </PRE>
@@ -275,68 +275,68 @@ No&, don't be fooled! I won't let you fool me!
 <PRE box00>
 [text006]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700170yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700170yu">
 "Are you okay?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700180ta">
-"Ye&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700180ta">
+"Ye&, yeah&.&.&."
 
-She and I were alone in my room&. 
+She and I were alone in my room&.
 Since the door was still thrown open&, some faint moonlight came in&,
-but the inside of the room remained mostly dark&. 
+but the inside of the room remained mostly dark&.
 
 Which was why I couldn't tell what kind of expression Yua was making&.
 Conversely&, though&, my being unable to see her well made her
-breathing sound even more sexual&. 
+breathing sound even more sexual&.
 
 Come to think of it&, this was the first time someone other than my
 little sister had visited my room&. And she was a girl I'd only just
-met&.&.&.&. 
+met&.&.&.
 
 If this were a game&, I'd have triggered an event flag&. The sort of
-situation where we'd get cozy and end up kissing&.  
+situation where we'd get cozy and end up kissing&.
 
-But I wasn't expecting that kind of thing&. 
+But I wasn't expecting that kind of thing&.
 Reality was endlessly cruel&. Unlike the second dimension&.
-And this girl wasn't normal&. She was a stalker&. 
+And this girl wasn't normal&. She was a stalker&.
 
 Speaking of which&, how long did Yua plan on standing there in front
-of me? 
-If she'd done what she wanted&, she should hurry up and leave&. 
+of me?
+If she'd done what she wanted&, she should hurry up and leave&.
 
-Having thought that far&, I pulled up short&. 
+Having thought that far&, I pulled up short&.
 Surely she wasn't planning on doing something horrible now that the
-two of us were alone--
+two of us were alone\
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700190yu">
-"Um&, the light switch&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700190yu">
+"Um&, the light switch&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700200ta">
-"Er&, er&, my computer&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700200ta">
+"Er&, er&, my computer&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700210yu">
-"Computer&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700210yu">
+"Computer&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700220ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700220ta">
+"&.&.&.&.&."
 
 The only source of illumination in this room was the desk light set
-next to my PC&. 
+next to my PC&.
 I started to tell her to switch it on&, but I couldn't bring myself to
 finish&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700230yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700230yu">
 "Ah&, I see&. You mean this desk lamp?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700240ta">
-"Eh&, ye&, yeah&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700240ta">
+"Eh&, ye&, yeah&.&.&."
 
 Scrupulously avoiding the garbage at her feet as she walked&, Yua
 wavered her way over to the desk and turned on the light&.
@@ -355,12 +355,12 @@ wavered her way over to the desk and turned on the light&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
-The room was at last released from darkness&. 
+The room was at last released from darkness&.
 
 In the dark&, being unable to see had had the opposite effect of
 driving me to fantasize about all kinds of things&, but now that I
 could see her clearly&, I didn't know where to look and became even
-more embarrassed&. 
+more embarrassed&.
 
 Becoming completely incapable of speech&, I hurriedly hunched over&.
 
@@ -368,11 +368,11 @@ Becoming completely incapable of speech&, I hurriedly hunched over&.
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700250yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700250yu">
 "Ah"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700260ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700260ta">
 "!?"
 
 I shivered convulsively when Yua suddenly raised her voice&. Her line
@@ -383,36 +383,36 @@ monitor in her usual moe pose&.
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700270yu">
-"This is Seira-chan&, from Burachu&.&.&.&. isn't it?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700270yu">
+"This is Seira-chan&, from Burachu&.&.&. isn't it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700280ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700280ta">
+"Eh&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700290ta">
-"&.&.&.&.Yo&, you know&.&.&.&. about it?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700290ta">
+"&.&.&.Yo&, you know&.&.&. about it?"
 
 {	Stand("st—Dˆ¤_§•_’Êí","smile", 200, @+100);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700300yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700300yu">
 "Y&, yes&. I love Burachu&. I watch it every week&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700310ta">
-"Is&, is that so&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700310ta">
+"Is&, is that so&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700320yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700320yu">
 "You must really like Seira-chan&. She's also my favorite of the
-heroines&. Her costume is cute&, too&." 
+heroines&. Her costume is cute&, too&."
 
 Her voice had grown lively&. She wasn't just saying it to flatter me&.
 
-How unexpected&. Could it be that Yua&.&.&.&.
+How unexpected&. Could it be that Yua&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -423,40 +423,40 @@ How unexpected&. Could it be that Yua&.&.&.&.
 <PRE box00>
 [text008]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700330ta">
-"Fu&.&.&.&. joshi?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700330ta">
+"Fu&.&.&. joshi?"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+100);
 	DeleteStand("st—Dˆ¤_§•_’Êí_smile", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700340yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700340yu">
 "???"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700350ta">
-"Ah&, never mind&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700350ta">
+"Ah&, never mind&.&.&."
 
 So she simply liked anime&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700360yu">
-"These are called&.&.&.&. figures&, aren't they? May I take a closer
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700360yu">
+"These are called&.&.&. figures&, aren't they? May I take a closer
 look?"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @+100);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700370yu">
-"Ah&, I'm sorry&. That was too forward of me&.&.&.&. I ought to go
-home already&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700370yu">
+"Ah&, I'm sorry&. That was too forward of me&.&.&. I ought to go
+home already&.&.&."
 
 Flustered&, she bowed her head to me repeatedly&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700380ta">
-"&.&.&.&.It&, it's okay to look&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700380ta">
+"&.&.&.It&, it's okay to look&."
 
 Anyway&, it didn't feel so bad to have someone praise one of my
 wives&. That was why I figured&, why not be a little nicer to her?
@@ -465,14 +465,14 @@ wives&. That was why I figured&, why not be a little nicer to her?
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700390yu">
-"Really? Thank you so much&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700390yu">
+"Really? Thank you so much&."
 
 Yua picked Seira up and studied her seriously&.
 
 //R—z“°‰Ë‹ó‚ÌƒtƒBƒMƒ…ƒAƒ[ƒJ[
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700400ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700400ta">
 "Th&, that's the Sanyoudou-made pre-awakening version&. Lots of
 different Seira figures have come out&, but it was the fi&, first&."
 
@@ -489,14 +489,14 @@ different Seira figures have come out&, but it was the fi&, first&."
 [text009]
 //™™™™071011
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700410yu">
-"Huh&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700410yu">
+"Huh&.&.&."
 
 //y‘ñ–¤z
 {#TIPS_ƒLƒƒƒXƒgƒIƒt=true;}
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700420ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700420ta">
 "It isn't that high-quality&. Her face is subtly off&, for instance&.
-And her pose is too standard to be very sexy&.&.&.&. but it's the only
+And her pose is too standard to be very sexy&.&.&. but it's the only
 figure of her so far where the chest area is <FONT incolor="#88abda"
 outcolor="BLACK">cast-offable</FONT>&."
 
@@ -504,11 +504,11 @@ outcolor="BLACK">cast-offable</FONT>&."
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shy", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700430yu">
-"Ch&, chest area&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700430yu">
+"Ch&, chest area&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700440ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700440ta">
 "Ah&, by the way&, I've collected all four Seira figures&. On the
 shelf&, th&, there's the school uniform version&, and the maid
 version&, and the swimsuit version&."
@@ -517,11 +517,11 @@ version&, and the swimsuit version&."
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_shy", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700450yu">
-"All those different kinds&.&.&.&. how impressive&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700450yu">
+"All those different kinds&.&.&. how impressive&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700460ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700460ta">
 "The maid version is the most expensive&, but personally&, the sw&,
 swimsuit version isn't too bad&, either&."
 
@@ -529,44 +529,44 @@ swimsuit version isn't too bad&, either&."
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700470yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700470yu">
 "I see&. I'd like to take a look at them&. But it's a little
-dim&.&.&.&."
+dim&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700480ta">
-"Soon enough&, Alpha's gonna release the long-awaited post-awakening 
-version&. Seems like it's pretty high-quality&. It's cast-offable&, too&, 
-not just her chest&, but practically her whole body&. There's nothing to 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700480ta">
+"Soon enough&, Alpha's gonna release the long-awaited post-awakening
+version&. Seems like it's pretty high-quality&. It's cast-offable&, too&,
+not just her chest&, but practically her whole body&. There's nothing to
 complain about with her expression or her pose&, either&.
 
 
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700481ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700481ta">
 And the colors are spot on&. She'll be a candidate for MVP when it comes
-to this year's batch of figures&." 
+to this year's batch of figures&."
 
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+100);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700490yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700490yu">
 "Alpha?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700500ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700500ta">
 "A&, a maker&. Of figures&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","normal", 200, @+100);
 	FadeStand("st—Dˆ¤_§•_’Êí_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700510yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700510yu">
 "Ahh&, I get it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700520ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700520ta">
+"&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -580,28 +580,28 @@ to this year's batch of figures&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-Catching myself&, I held my tongue&. 
+Catching myself&, I held my tongue&.
 I'd realized that I'd said too much&.
 
-Furthermore&, going off like that about bishoujo figures&.&.&.&. I had
+Furthermore&, going off like that about bishoujo figures&.&.&. I had
 the feeling that I'd said some pretty dumbass stuff&, like about being
-able to cast-off clothing&, and whether or not poses were sexy&.&.&.&.
+able to cast-off clothing&, and whether or not poses were sexy&.&.&.
 
 
 I wanted to see what kind of face Yua was making&, but I didn't have
-the courage to look&. 
+the courage to look&.
 She'd definitely be looking down at me as if I were something
-dirty&.&.&.&. 
+dirty&.&.&.
 
 So as I desperately forced my face in some other direction&, pulse
 racing&,
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700530yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700530yu">
 "Um&."
 
 Yua called out to me&, and I automatically turned in her direction&.
-Far from wearing the scorn-filled expression I had feared&, she was--
+Far from wearing the scorn-filled expression I had feared&, she was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -615,13 +615,13 @@ Far from wearing the scorn-filled expression I had feared&, she was--
 [text011]
 //ÎŠç
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700540yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700540yu">
 "The ones you mentioned before&, the battle version and the maid
 version and such&, may I see them?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700550ta">
-"Eh&.&.&.&. ye&, yeah&.&.&.&. over on that shelf&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700550ta">
+"Eh&.&.&. ye&, yeah&.&.&. over on that shelf&.&.&."
 
 I was utterly confused&.
 Because Yua was smiling&, as if she were really having fun&.
@@ -630,12 +630,12 @@ Because Yua was smiling&, as if she were really having fun&.
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 300, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700560yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700560yu">
 "Waah&, amazing! You have so many!"
 
 Her eyes sparkled even after she saw the shelf filled with figures&.
 To think that there existed a 3-D girl who could see this kind of
-thing and not be repulsed&.  
+thing and not be repulsed&.
 
 It was a big world out there&, or something along those lines&.
 
@@ -643,19 +643,19 @@ It was a big world out there&, or something along those lines&.
 	DeleteStand("st—Dˆ¤_§•_’Êí_smile", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700570yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700570yu">
 "Ah&, this must be the maid Seira-chan&. Hm&, hm&, she gives off a
 different impression than in the anime&, but it's super cute!"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700580yu">
-"Fufufu&. They even made her underwear accurately&.&.&.&. It's the
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700580yu">
+"Fufufu&. They even made her underwear accurately&.&.&. It's the
 first time I've seen these in person&, but I like them&. Maybe I
 should buy one&, too&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700590ta">
-"I&, in that case&.&.&.&. you sh&, should pre-order the post-awakening
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700590ta">
+"I&, in that case&.&.&. you sh&, should pre-order the post-awakening
 version&. I totally recommend that one&. So&."
 
 </PRE>
@@ -670,7 +670,7 @@ version&. I totally recommend that one&. So&."
 <PRE box00>
 [text012]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700600yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700600yu">
 "I see&. After hearing what you had to say about it&, I really started
 wanting that post-awakening one&."
 
@@ -678,50 +678,51 @@ wanting that post-awakening one&."
 	FadeStand("st—Dˆ¤_§•_’Êí_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_smile", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700610yu">
-"When you say post-awakening&, do you mean that sce<pre>n</pre>e in episode 12?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700610yu">
+"When you say post-awakening&, do you mean that
+sce<pre>n</pre>e in episode 12?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700620ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700620ta">
 "Way to know that&. Art thou perhaps quite the fanatic?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700630yu">
-"Yes&. Since I like the show&. The awakening sce<pre>n</pre>e in particular; I
-rewatch my recording of it every day&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700630yu">
+"Yes&. Since I like the show&. The awakening sce<pre>n</pre>e
+in particular; I rewatch my recording of it every day&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700640ta">
-"Miyaji took care of the direction and artwork in that sce<pre>n</pre>e&. So it's
-natural for the quality to be so impressive&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700640ta">
+"Miyaji took care of the direction and artwork in that sce<pre>n</pre>e&.
+So it's natural for the quality to be so impressive&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+100);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700650yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700650yu">
 "Miyaji?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700660ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700660ta">
 "There's a godly creator out there who gets called that&. His
 direction is seriously god-like&. On @chan's live broadcast discussion
 board&, people say 'Here's God!' when he comes up&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700670yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700670yu">
 "Wow&, really?"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+100);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700680yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700680yu">
 "You know so much about this&. I haven't been paying any attention to
 the staff members&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700690ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700690ta">
 "You ought to check who produced it and directed it and did the
 script&. Especially when it comes to new series&, since you can
 basically predict whether it'll be good or bad based on those factors
@@ -731,8 +732,8 @@ alone&."
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700700yu">
-"Understood&. From now on&, I'll look it up&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700700yu">
+"Understood&. From now on&, I'll look it up&."
 
 Yua faced me again as she answered&, wearing a charming smile&.
 
@@ -745,12 +746,12 @@ Yua faced me again as she answered&, wearing a charming smile&.
 <PRE box00>
 [text013]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700710ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700710ta">
+"&.&.&.&.&."
 
-To think that I'd be on the receiving end of a girl's smile&.&.&.&. to
+To think that I'd be on the receiving end of a girl's smile&.&.&. to
 think that such an eroge-esque conversation could exist in real life!
-And that I myself would be able to experience it! 
+And that I myself would be able to experience it!
 
 3-D girls&, my sister included&, usually smiled at me as if they were
 making fun of me&.
@@ -762,20 +763,20 @@ I shouldn't forget Seira-tan's words to me&.
 	DeleteStand("st—Dˆ¤_§•_’Êí_smile", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shy", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700720yu">
-"Um&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700720yu">
+"Um&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700730ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700730ta">
 "Eh?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700740yu">
-"I&, I don't know if it's okay to ask this&, but&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700740yu">
+"I&, I don't know if it's okay to ask this&, but&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700750ta">
-"Wh&, what&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700750ta">
+"Wh&, what&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -790,19 +791,19 @@ Yua suddenly began fidgeting&. She faced downward and didn't try to
 meet my eyes&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700760yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700760yu">
 "May I ask your name?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700770ta">
-"My name&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700770ta">
+"My name&.&.&."
 
 Now that she mentioned it&, she'd introduced herself to me&, but I
 hadn't reciprocated&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700780ta">
-"Ni&, Nishijou&.&.&.&. Takumi&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700780ta">
+"Ni&, Nishijou&.&.&. Takumi&.&.&."
 
 Becoming oddly embarrassed&, I ended up mumbling it&.
 
@@ -810,30 +811,30 @@ Becoming oddly embarrassed&, I ended up mumbling it&.
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_shy", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700790yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700790yu">
 "Nishijou Takumi-kun&. What grade are you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700800ta">
-"A&, a junior&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700800ta">
+"A&, a junior&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","smile", 200, @+100);
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700810yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700810yu">
 "I'm a senior&. Guess that means I'm older&, hm? ô"
 
 {	SetVolume("@CH11", 1000, 600, NULL);
 	SetTrigger("‚S");
 	SetVolume("SE01", 1000, 0, NULL);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01700820ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01700820ta">
+"&.&.&.&.&."
 
 Oh jeez&, that moe phrasing of hers made me downright dizzy&.
 
-Was Yua the "caring big sister" type? 
+Was Yua the "caring big sister" type?
 She was real dangerous&, luring me in like this&. She had to be
 plotting something!
 
@@ -849,11 +850,11 @@ plotting something!
 <PRE box00>
 [text015]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01700830yu">
-"And so&, Nishijou-kun&, I&, um&, have a favor to ask of you&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01700830yu">
+"And so&, Nishijou-kun&, I&, um&, have a favor to ask of you&.&.&."
 
-A&, a favor&.&.&.&.?
-Surely she didn't mean&.&.&.&.
+A&, a favor&.&.&.?
+Surely she didn't mean&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

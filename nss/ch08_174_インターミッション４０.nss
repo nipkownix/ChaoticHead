@@ -57,7 +57,7 @@ function ch08_174_インターミッション４０()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-A certain experiment took place&. 
+A certain experiment took place&.
 
 But "she" never knew of it&.
 
@@ -83,9 +83,9 @@ But "she" never knew of it&.
 <PRE box00>
 [text002]
 "She" was an ordinary housewife who had been blessed with her second
-child not long before turning forty&. 
+child not long before turning forty&.
 
-No&, perhaps she wasn't utterly ordinary&. 
+No&, perhaps she wasn't utterly ordinary&.
 
 If nothing else&, her eldest daughter was about to enter high school&,
 and so there was a fifteen-year gap between her and the second child&.
@@ -93,30 +93,30 @@ and so there was a fifteen-year gap between her and the second child&.
 
 "She" had been slightly worried that her eldest daughter would feel
 some resistance to this&, as she was going through puberty&, but on
-the contrary&, the daughter rejoiced at her mother's pregnancy&. 
+the contrary&, the daughter rejoiced at her mother's pregnancy&.
 
 Her husband&, a scientist&, rarely came home&, as he immersed himself
 in his religion and his research&, but he was a wonderful husband and
-father when at home&. 
+father when at home&.
 
 That was why&, though "she" had some dissatisfactions&, her love for
-her husband remained unshakable&. 
+her husband remained unshakable&.
 
-Their second child was born safely&. 
-An energetic little girl&, 2579grams&. 
+Their second child was born safely&.
+An energetic little girl&, 2579grams&.
 
-"She" named her Mana&. 
+"She" named her Mana&.
 
 Unfortunately&, her husband had received a job assignment away from
-home immediately afterward&.  
+home immediately afterward&.
 
 Her husband had absolutely nothing in the way of general homemaking
 skills&, so they had to ask their reliable eldest daughter to go with
-him and help take care of him&. 
+him and help take care of him&.
 
 "She&," who would now live out her days with the newborn Mana&, just
 the two of them&, moved into cheap corporate housing at her husband's
-suggestion&. 
+suggestion&.
 
 Originally&, "she" had lived in a suburban condo&, but it was located
 inconveniently with respect to transportation&.
@@ -130,7 +130,7 @@ inconveniently with respect to transportation&.
 [text003]
 But the company housing&, her new residence&, was in the best district
 in Shibuya&, and many of her husband's coworkers' families lived
-nearby&. 
+nearby&.
 
 Childcare was provided as well&. Her husband had taken this
 into consideration so she wouldn't experience any trouble&, just in
@@ -145,40 +145,40 @@ greenery of Yoyogi Park there&.
 
 She soon befriended the lady living next door&, and due to the
 exceptionally special treatment she received from the company&, a
-housekeeper was assigned to her as well&. 
+housekeeper was assigned to her as well&.
 
 "She" was satisfied with this lifestyle&, in which she wanted for
 nothing&, and she took pride in how it indicated the importance of her
-husband's position in the company&. 
+husband's position in the company&.
 
-Two years later&. 
+Two years later&.
 Though her growth was somewhat delayed&, Mana began growing up
 cheerfully&, without contracting any major illnesses&.
 
-She was very spoiled&. 
+She was very spoiled&.
 
 If "she" did not hold her up against her breast&, Mana would start
-crying piercingly&. 
+crying piercingly&.
 
 "She" herself had been in poor condition for about a month&. She had
 an especially terrible ringing in her ears&, and it bothered her
-practically all day long&. 
+practically all day long&.
 
 Even then&, she wouldn't let the housekeeper or her lady neighbor take
-care of Mana&. 
+care of Mana&.
 
 In any case&, "she" and Mana were attached at the hip&, and they never
-parted&. 
+parted&.
 
-Neither when they went to the toilet or took a bath&. 
+Neither when they went to the toilet or took a bath&.
 
 If "she" thought about perhaps having the housekeeper hold Mana for a
 bit&, Mana would sense this with extreme sensitivity and burst out
-crying&. 
+crying&.
 
 On the contrary&, Mana's reliance on her made Mana even more precious
 to her&, but as a result&, "she" continued a lifestyle in which she
-couldn't take so much as a step out of the house&.  
+couldn't take so much as a step out of the house&.
 
 The housekeeper and her neighbor helped support this lifestyle of
 hers&. "She" was truly fortunate to have met them&.
@@ -289,37 +289,37 @@ had deciphered ｆｕｎ＾１０×ｉｎｔ＾４０＝Ｉｒ２&.
 "He" offered up his wife&, then on the verge of childbirth&, as an
 experimental subject&. At the same time that this was an order from
 the revered founding father of his sect&, it was also something he
-himself had suggested&, in order to make the experiment a success&. 
+himself had suggested&, in order to make the experiment a success&.
 
 It was called the Mana Experiment&, based on the codename given to the
-second daughter his wife had delivered&. 
+second daughter his wife had delivered&.
 
 Entrusting his elder daughter&, fifteen years old at the time&, to a
 Church facility&, "he" spend twenty-four hours a day observing his
-confined wife and Mana&. 
+confined wife and Mana&.
 
 The room his wife had made herself think of as company housing was a
 test site prepared by Nozomi Technology&, and the Noah II prototype
-"he" had developed was stationed there&. 
+"he" had developed was stationed there&.
 
 Taking snapshots of people's thoughts&, projecting images into their
 vision&, controlling their five senses&. The effects of all of these
 were being tested out on his wife and Mana&, the human subjects
-confined to the experimental grounds&. 
+confined to the experimental grounds&.
 
 The many ways in which electromagnetic energy affects the human body
 remain unnumbered&, and naturally&, "he" had planned to halt the
 experiment if his wife or Mana experienced any physical
-abnormalities&. 
+abnormalities&.
 
-The experiment met with an accident soon after its commencement&. 
+The experiment met with an accident soon after its commencement&.
 
 But a month after her birth&, Mana died&. The cause of death was
 unknown&.
 
-An accident no one could have prevented&. 
+An accident no one could have prevented&.
 
-Overwhelmed with grief&, "he" sought to stop the experiment&. 
+Overwhelmed with grief&, "he" sought to stop the experiment&.
 But he wasn't permitted to&.
 
 </PRE>
@@ -330,23 +330,23 @@ But he wasn't permitted to&.
 <PRE box00>
 [text007]
 //【野呂瀬】
-<voice name="野呂瀬" class="野呂瀬" src="ch08/17400010nr">
-"Do you not find it fascinating?" 
+<voice name="野呂瀬" class="野呂瀬" src="voice/ch08/17400010nr">
+"Do you not find it fascinating?"
 
 So said "his" employer&.
 
 His employer had been speaking of the grotesque spectacle inside the
-test site&. 
+test site&.
 
 Refusing to acknowledge Mana's death as reality&, his wife held the
 child's dead body and treated it as if it were alive&. And in fact&,
-her eyes reflected a living Mana&.  
+her eyes reflected a living Mana&.
 
 That was due to the influence of the Noah II prototype&, and in a
 certain sense&, it was the ideal situation under which to test its
-performance&. 
+performance&.
 
-They turned a deaf ear to "his" will&. 
+They turned a deaf ear to "his" will&.
 
 At last "he" began to think that perhaps continuing the experiment
 like this would be to his wife's benefit&.
@@ -356,16 +356,16 @@ bliss&, embracing her child's corpse&.
 
 She talked gently to the child while gazing at the greenery of Yoyogi
 Park&, which was a fake projected into her sight from the "wallpaper
-made to resemble a window" that was pasted to the wall&. 
+made to resemble a window" that was pasted to the wall&.
 
 The "lady next door" as well as the "housewife" were research team
 staff members&, who took care of his wife under cover&.
 
 As long as the experiment continued&, his wife's heart would never be
-broken&. 
-He told himself it was for his wife's sake&. 
+broken&.
+He told himself it was for his wife's sake&.
 
-Perhaps "his" heart had broken before hers did&. 
+Perhaps "his" heart had broken before hers did&.
 
 At some point&, "his" goal became not to complete Noah II&, but rather
 to "allow his wife to go on dreaming&."
@@ -383,20 +383,20 @@ And so&, his employer declared a sudden end to the experiment&, which
 had continued for close to two years&.
 
 //【野呂瀬】
-<voice name="野呂瀬" class="野呂瀬" src="ch08/17400020nr">
+<voice name="野呂瀬" class="野呂瀬" src="voice/ch08/17400020nr">
 "We've collected enough data&. The full-scale activation of Noah II is
 close at hand&. There's no longer any meaning in prolonging this
-experiment&." 
+experiment&."
 
-"He" desperately resisted&. 
-But it got him branded a traitor&, and he was taken off the project&. 
+"He" desperately resisted&.
+But it got him branded a traitor&, and he was taken off the project&.
 
 The day of the test site's closure&, as their one kindness to him&,
-they permitted him to be present--albeit tied down--in the
-laboratory&. 
+they permitted him to be present―albeit tied down―in the
+laboratory&.
 
 And his elder daughter&, whom he had not seen in person for two
-years&, was also compelled to attend&. 
+years&, was also compelled to attend&.
 
 His daughter looked confused when she saw him&.
 
@@ -412,13 +412,13 @@ His daughter looked confused when she saw him&.
 	Fade("背景２", 1000, 1000, null, true);}
 //◆戸惑い//◆この頃はまだ女の子らしい口調//◆時期は本編の半年ぐらい前
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400030sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17400030sn">
 "Dad! What's going on? What did you do to Mom?"
 
 //◆戸惑い
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400040sn">
-"What's&.&.&.&. Mom holding&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/17400040sn">
+"What's&.&.&. Mom holding&.&.&."
 
 "He" couldn't answer&.
 
@@ -446,11 +446,11 @@ And his wife {	Wait(1000);} Broke&.
 
 {	MusicStart("@CH10", 0, 1000, 0, 1000, null, true);}
 
-At the sight of her child--
+At the sight of her child―
 {	Wait(1000);}
-Who to her appeared--
+Who to her appeared―
 {	Wait(1000);}
-To have suddenly transformed into a mummy--
+To have suddenly transformed into a mummy―
 {	Wait(1000);}
 She tore at her head&,
 {	Wait(1000);}
@@ -480,16 +480,16 @@ And finally {	Wait(1000);} stabbing a kitchen knife&, {
 
 //◆泣き叫びながら
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400050sn">
-"Mom! Mom!" 
+<voice name="セナ" class="セナ" src="voice/ch08/17400050sn">
+"Mom! Mom!"
 
 His daughter screamed and cried&, viewing the atrocity of her mother's
 last moments through a one-way mirror&.
 
 //◆嘔吐する
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400060sn">
-"Mo&.&.&.&. uu&, oooeeh&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch08/17400060sn">
+"Mo&.&.&. uu&, oooeeh&.&.&.!"
 
 {	CreateSE("SE03","SE_人体_動作_嘔吐");
 	SoundPlay("SE03", 0, 1000, false);
@@ -497,13 +497,13 @@ last moments through a one-way mirror&.
 //ＳＥ//吐瀉物が床にぶちまかれる「ビチャビチャ」
 //◆苦しげ、泣く
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400070sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17400070sn">
 "Uu&, uu&, haa&, haa&, aaaa&, aaaaahhh&, Mom&, Mommy&.&.&."
 
 //◆苦しげ、絶叫
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17400080sn">
-"NOOOOOOOOOOOOOOOO--!"
+<voice name="セナ" class="セナ" src="voice/ch08/17400080sn">
+"NOOOOOOOOOOOOOOOO-!"
 
 Researchers held his daughter up on both sides and hauled her away
 somewhere&. "He" was not allowed to chase after his one remaining
@@ -511,17 +511,17 @@ family member&.
 
 //◆泣きながら
 //【波多野】
-<voice name="波多野" class="波多野" src="ch08/17400090ha">
-"I'm sorry&.&.&.&. I'm sorry&.&.&.&."
+<voice name="波多野" class="波多野" src="voice/ch08/17400090ha">
+"I'm sorry&.&.&. I'm sorry&.&.&."
 
 "He" blamed himself&, believing he had brought all of it upon
 himself&.
 
 Since the time two years ago when he made up his mind to continue the
 experiment&, it should have been obvious to him&, whatever his reasons
-may have been&, that one day things would end up like this&. 
+may have been&, that one day things would end up like this&.
 
-Several days after his wife's death&, "he" vanished&. 
+Several days after his wife's death&, "he" vanished&.
 Now&, no one knows where to find him&.
 
 </PRE>

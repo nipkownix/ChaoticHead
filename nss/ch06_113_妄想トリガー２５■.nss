@@ -88,10 +88,10 @@ if($ñœëzÉgÉäÉKÅ[ÇQÇT == 2)
 <PRE box00>
 [text001]
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300010ri">
-"Taku&.&.&.&.!"
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300010ri">
+"Taku&.&.&.!"
 
-Rimi&.&.&.&.!
+Rimi&.&.&.!
 
 As though she'd weighed the perfect timing&.
 As though my cri de coeur had reached her&.
@@ -102,8 +102,8 @@ Rimi had come running to save me from my quandary&.
 She opened the door and bounded in&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300020ta">
-"Ri&, Rimi&.&.&.&. Save me&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300020ta">
+"Ri&, Rimi&.&.&. Save me&.&.&."
 
 Rimi took a quick look at my face&, then surveyed the area&. Awakening
 to the fact that the PC was the source of my terror&, she put on a
@@ -207,28 +207,28 @@ Taku!!11!!!
 <PRE box00>
 [text004]
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300030ri">
-"At times like this&, you've gotta be harsh&." 
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300030ri">
+"At times like this&, you've gotta be harsh&."
 
 Rimi turned back and gave me a kind smile&.
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300040ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300040ri">
 "Say it that way&, and you'll be surprised by how fast they pull
 back&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300050ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300050ta">
+"&.&.&.&.&.&.&."
 
-Would it really work like that&.&.&.&. 
+Would it really work like that&.&.&.
 
 Rimi could take things nonchalantly because she didn't know much about
-the Net&.  
+the Net&.
 
-But putting it harshly would probably just make him angry&.&.&.&. 
+But putting it harshly would probably just make him angry&.&.&.
 
-To say nothing of the fact that our opponent was "Shogun"&.&.&.&. 
+To say nothing of the fact that our opponent was "Shogun"&.&.&.
 
 I held my breath and watched the monitor&, and after a little while&,
 Shogun posted another statement&.
@@ -260,7 +260,7 @@ Shogun: I'll kill you
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE @box01>
 [text106]
-Shogun-san has left the room 
+Shogun-san has left the room
 Current members: 1
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
@@ -273,18 +273,18 @@ Current members: 1
 <PRE box00>
 [text007]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300060ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300060ta">
+"&.&.&.&.&.&.&."
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300070ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300070ri">
+"&.&.&.&.&.&.&."
 
 {	Fade("îwåiÇQ", 1000, 0, null, false);
 	Fade("box01", 1000, 0, null, true);}
 Silence flowed through the room&.
 
-How could it be&.&.&.&.
+How could it be&.&.&.
 
 Like I thought&, we'd pissed him off&.
 The tone of his last line was all too clearly different&.
@@ -292,27 +292,27 @@ The tone of his last line was all too clearly different&.
 {	Stand("stóúê[_êßïû_í èÌ","smile", 200, @150);
 	FadeStand("stóúê[_êßïû_í èÌ_smile", 500, true);}
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300080ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300080ri">
 "Tahaha&, whatever&, I'm sure he's all talk&."
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300090ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300090ri">
 "He won't come tromping over here in person or anything&."
 
 {	Stand("stóúê[_êßïû_ê≥ñ ","sad", 200, @150);
 	FadeStand("stóúê[_êßïû_ê≥ñ _sad", 500, false);
 	DeleteStand("stóúê[_êßïû_í èÌ_smile", 500, true);}
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300100ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300100ri">
 "More importantly&, are you okay&, Taku?"
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300110ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300110ri">
 "I'm sorry&, you must've been calling me&. I was right on my way
 here&, so I couldn't pick up&."
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300120ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300120ri">
 "I got worried about you after the earthquake&, and I ran here at top
 speed&."
 
@@ -320,40 +320,40 @@ speed&."
 	FadeStand("stóúê[_êßïû_ê≥ñ _normal", 300, true);
 	DeleteStand("stóúê[_êßïû_ê≥ñ _sad", 0, false);}
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300130ri">
-"I'm glad I came&.&.&.&." 
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300130ri">
+"I'm glad I came&.&.&."
 
 Even as I listened to Rimi's voice&, I couldn't remove my eyes from
-the monitor&. 
+the monitor&.
 
 I couldn't help how the words "I'll kill you" made my heart churn&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300140ta">
-"Th&, this is awful&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300140ta">
+"Th&, this is awful&.&.&."
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300150ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300150ri">
 "I'm here&, so it's fine&. You've got nothing to worry about&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300160ta">
-"H&, how could you d&, do it&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300160ta">
+"H&, how could you d&, do it&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300170ta">
-"He&, he's gonna&.&.&.&. he's gonna kill me&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300170ta">
+"He&, he's gonna&.&.&. he's gonna kill me&.&.&.!"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300180ta">
-"I have to hurry up and run&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300180ta">
+"I have to hurry up and run&.&.&.!"
 
 {	Stand("stóúê[_êßïû_ê≥ñ ","hard", 200, @150);
 	FadeStand("stóúê[_êßïû_ê≥ñ _hard", 300, true);
 	DeleteStand("stóúê[_êßïû_ê≥ñ _normal", 0, true);}
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300190ri">
-"Calm down&.&.&.&. No one's going to kill you&, you're thinking too
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300190ri">
+"Calm down&.&.&. No one's going to kill you&, you're thinking too
 hard about it&."
 
 </PRE>
@@ -370,19 +370,19 @@ hard about it&."
 <PRE box00>
 [text008]
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300200ri">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300200ri">
+"&.&.&.&.&.&.&."
 
-Rimi abruptly fell silent&. 
+Rimi abruptly fell silent&.
 Eyebrows knotted&, she looked up at the ceiling&, and
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300210ta">
-"Wh&, what's wrong&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300210ta">
+"Wh&, what's wrong&.&.&.?"
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300220ri">
-"&.&.&.&.Whose eyes&.&.&.&. are those eyes?"
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300220ri">
+"&.&.&.Whose eyes&.&.&. are those eyes?"
 
 {	DeleteStand("stóúê[_êßïû_ê≥ñ _lost", 500, true);}
 She murmured softly&,
@@ -391,29 +391,29 @@ And embraced her head&.
 
 {	MusicStart("@CH06",1000,1000,0,1000,null,true);}
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300230ri">
-"&.&.&.&."
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300230ri">
+"&.&.&."
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300240ri">
-"My head&.&.&.&. suddenly started&.&.&.&. hurting&.&.&.&."
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300240ri">
+"My head&.&.&. suddenly started&.&.&. hurting&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300250ta">
-"Eh? Eh&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300250ta">
+"Eh? Eh&.&.&.?"
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300260ri">
-"Uu&, uuh&.&.&.&. it hurts&.&.&.&. like it's&.&.&.&. gonna split&.&.&.&."
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300260ri">
+"Uu&, uuh&.&.&. it hurts&.&.&. like it's&.&.&. gonna split&.&.&."
 
 Rimi collapsed in place as if she couldn't hold out any longer&. She
 shook her head unwillingly&.
 
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300270ri">
-"Why so suddenly&.&.&.&. uuh&.&.&.&." 
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300270ri">
+"Why so suddenly&.&.&. uuh&.&.&."
 
-It couldn't be&.&.&.&.!
+It couldn't be&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -428,9 +428,9 @@ It couldn't be&.&.&.&.!
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text009]
-I automatically looked up at the ceiling&. 
+I automatically looked up at the ceiling&.
 
-Far above the ceiling&, there might or might not be a satellite&. 
+Far above the ceiling&, there might or might not be a satellite&.
 
 Was "Shogun" attacking!?
 
@@ -440,7 +440,7 @@ Was "Shogun" attacking!?
 	Fade("êFÇP", 500, 0, null, true);}
 //ÅüãÍí…
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300280ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300280ri">
 "Ah&, aaaaahh!"
 
 {	CreateColor("êFÇP", 100, 0, 0, 800, 600, "Red");
@@ -448,23 +448,23 @@ Was "Shogun" attacking!?
 	Fade("êFÇP", 500, 0, null, true);}
 //ÅüãÍí…
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300290ri">
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300290ri">
 "It hurts ithurtsithurtsithurts! It's breaking! It's gonna
-break&.&.&.&.!"
+break&.&.&.!"
 
 {	CreateColor("êFÇP", 100, 0, 0, 800, 600, "Red");
 	Fade("êFÇP", 0, 1000, null, true);
 	Fade("êFÇP", 500, 0, null, true);}
 //ÅüãÍí…
 //Åyóúê[Åz
-<voice name="óúê[" class="óúê[" src="ch06/11300300ri">
-"Gii&, gii&.&.&.&. gii&, guh&, noooooo--!" 
+<voice name="óúê[" class="óúê[" src="voice/ch06/11300300ri">
+"Gii&, gii&.&.&. gii&, guh&, noooooo-!"
 
-Fssh&. 
-Blood poured from Rimi's nose&. 
+Fssh&.
+Blood poured from Rimi's nose&.
 
-Her half-moan&, half-scream abruptly died out&. 
-Her body swayed&, rocking&. 
+Her half-moan&, half-scream abruptly died out&.
+Her body swayed&, rocking&.
 She fell head-first to the floor&.
 
 </PRE>
@@ -485,45 +485,45 @@ She fell head-first to the floor&.
 <PRE box00>
 [text010]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300310ta">
-"Ri&.&.&.&. mi&.&.&.&.?" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300310ta">
+"Ri&.&.&. mi&.&.&.?"
 
-No reply&. 
-She didn't budge&. 
+No reply&.
+She didn't budge&.
 
-"Shogun" had killed her&.&.&.&. 
-The electromagnetic attack from his satellite had killed her&. 
+"Shogun" had killed her&.&.&.
+The electromagnetic attack from his satellite had killed her&.
 
-Such a&.&.&.&. quiet murder&. 
+Such a&.&.&. quiet murder&.
 
 He'd killed Rimi without the slightest sound&, smell&, or hint of his
-presence&. 
+presence&.
 
 The silence made it even more frightening&.
 
-There was nowhere to run-- 
+There was nowhere to runÅ\
 
 I dropped to my knees and shook Rimi's shoulder&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300320ta">
-"Hey&.&.&.&. get up&.&.&.&. Rimi&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300320ta">
+"Hey&.&.&. get up&.&.&. Rimi&.&.&."
 
 There was nowhere to run on the face of the planet&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300330ta">
-"Don't leave me behind&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300330ta">
+"Don't leave me behind&.&.&."
 
-"Shogun" would attack me from the sky no matter where I tried to run--
-
-//ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300340ta">
-"This must&.&.&.&. this must&.&.&.&."
+"Shogun" would attack me from the sky no matter where I tried to runÅ\
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300350ta">
-"This must be a delusion&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300340ta">
+"This must&.&.&. this must&.&.&."
+
+//ÅyëÒñ§Åz
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300350ta">
+"This must be a delusion&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -614,7 +614,7 @@ When I turned back&, I was still in front of my PC monitor&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE @box01>
 [text012]
-Shogun-san has left the room 
+Shogun-san has left the room
 Current members: 1
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
@@ -627,25 +627,25 @@ Current members: 1
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text013]
-The statements Rimi had typed in before were gone&. 
+The statements Rimi had typed in before were gone&.
 
-As was the "I'll kill you" from "Shogun&." 
+As was the "I'll kill you" from "Shogun&."
 
 I looked over my shoulder at the rest of the room&, but Rimi's corpse
 was nowhere to be seen&.
 
 //ÅüÉuÉåÉX
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300360ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300360ta">
+"&.&.&.&.&.&.&."
 
-I was relieved that Rimi hadn't been killed&. 
+I was relieved that Rimi hadn't been killed&.
 
-But I was disappointed that Rimi hadn't come for me&. 
+But I was disappointed that Rimi hadn't come for me&.
 
-Why&.&.&.&. hadn't she come&.&.&.&. 
+Why&.&.&. hadn't she come&.&.&.
 
-Even though I'm so terrified&.&.&.&.
+Even though I'm so terrified&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -682,10 +682,10 @@ The sound of someone banging on the door came just then&, as if they'd
 waited for the right timing&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300370ta">
-"Rimi&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300370ta">
+"Rimi&.&.&."
 
-It was Rimi! Rimi had come for me after all! 
+It was Rimi! Rimi had come for me after all!
 
 Feeling as though my salvation had arrived&, I headed for the door&.
 
@@ -703,37 +703,37 @@ Feeling as though my salvation had arrived&, I headed for the door&.
 But I stopped partway there&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300380ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300380ta">
+"&.&.&.&.&.&.&."
 
 //ÇrÇd//ÉRÉìÉeÉiÉnÉEÉXÇÃÉhÉAÇí@Ç≠âπÅiÇ©Ç»ÇËåÉÇµÇ≠Åj
-"Why was she pounding so hard&.&.&.&.?"
+"Why was she pounding so hard&.&.&.?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300390ta">
-"Ri&.&.&.&. mi&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300390ta">
+"Ri&.&.&. mi&.&.&.?"
 
 {	SoundPlay("SE01", 200, 0, false);}
 I tried calling out to the person behind the door&.
 The knocking sound stopped at once&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300400ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300400ta">
+"&.&.&.&.&.&.&."
 
-Silence&. 
+Silence&.
 
-No reply&. 
-Give me some kind of answer&. 
+No reply&.
+Give me some kind of answer&.
 Why won't you say anything?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300410ta">
-"You're Rimi&.&.&.&. aren't you&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300410ta">
+"You're Rimi&.&.&. aren't you&.&.&.?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300420ta">
-"Answer me&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300420ta">
+"Answer me&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -757,8 +757,8 @@ Why won't you say anything?
 <PRE box00>
 [text016]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300430ta">
-"&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300430ta">
+"&.&.&.!"
 
 {	MusicStart("@CH06",1000,1000,0,1000,null,true);}
 Without offering a reply&, they started hammering at the door again&.
@@ -766,10 +766,10 @@ Without offering a reply&, they started hammering at the door again&.
 It wasn't Rimi?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300440ta">
-"Who&.&.&.&. who&.&.&.&. are you&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300440ta">
+"Who&.&.&. who&.&.&. are you&.&.&.?"
 
-Surely not "Shogun"&.&.&.&.?
+Surely not "Shogun"&.&.&.?
 
 Once I started harboring suspicions&, I lost the courage to open the
 door and determine who stood beyond it&.
@@ -779,7 +779,7 @@ I retreated slowly until at last I hit the backrest of my chair&.
 The knocking went on and on all the while&.
 Somebody kept on knocking&.
 
-No&, it wasn't just that--
+No&, it wasn't just thatÅ\
 
 {	CreateSE("SE03","SE_êlëÃ_ìÆçÏ_éË_î‡í@Ç≠02_Loop");
 	SoundPlay("SE03", 0, 1000, true);}
@@ -787,11 +787,11 @@ The sound of knocking began reverberating from the side walls and the
 ceiling as well&.
 
 The person outside
-Wasn't alone&.&.&.&.!
+Wasn't alone&.&.&.!
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300450ta">
-"Wh&, wh&, who are you&.&.&.&.!?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300450ta">
+"Wh&, wh&, who are you&.&.&.!?"
 
 Unable to tamp down my fear&, I shouted&.
 
@@ -811,15 +811,15 @@ Unable to tamp down my fear&, I shouted&.
 And as if in reaction to my voice&, the sound stopped at once&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300460ta">
-"Haa&, haa&, haa&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300460ta">
+"Haa&, haa&, haa&.&.&."
 
 I wanted to flee&. I wanted to run away&. I wanted to go far away from
-this place immediately&. 
+this place immediately&.
 
-But how?  
+But how?
 Surely there was some mystery group surrounding the container housing
-from outside&.&.&.&.!
+from outside&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -844,32 +844,32 @@ from outside&.&.&.&.!
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text018]
-Noises began to resonate again&. 
+Noises began to resonate again&.
 
 This time&, rather than a knocking sound&, it was the unpleasant sound
-of fingernails scratching&. 
+of fingernails scratching&.
 
-Being unable to see my opponents' forms only strengthened my fear&. 
+Being unable to see my opponents' forms only strengthened my fear&.
 
 I knew "Shogun" had instigated them&, but I couldn't imagine what
 these people&, who were harassing me from a single wall's-width away&,
 possibly looked like&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300470ta">
-"Uu&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300470ta">
+"Uu&.&.&."
 
 Goosebumps stood up all over me&, and revulsion heightened my nausea&.
 
 I covered my eyes hard&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300480ta">
-"Stop&.&.&.&. stop it&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300480ta">
+"Stop&.&.&. stop it&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300490ta">
-"Let me go&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300490ta">
+"Let me go&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -959,7 +959,7 @@ When I turned back&, I was still in front of my PC monitor&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE @box01>
 [text020]
-Shogun-san has left the room 
+Shogun-san has left the room
 Current members: 1
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
@@ -971,26 +971,26 @@ Current members: 1
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text021]
-I looked around at the center of the room with a gasp&. 
+I looked around at the center of the room with a gasp&.
 
-Still in that position&, I listened stealthily&. 
+Still in that position&, I listened stealthily&.
 
-&.&.&.&.No sound&. 
+&.&.&.No sound&.
 
-Had I imagined it&.&.&.&.?
+Had I imagined it&.&.&.?
 
 For five minutes&, I went on paying close heed to conditions outside
-the container house&, too terrified to move a finger&. 
+the container house&, too terrified to move a finger&.
 
 In the end&, I didn't sense anybody's presence&, and I opened the door
-a crack to look outside&, just in case&. 
+a crack to look outside&, just in case&.
 
-No one was there&. 
+No one was there&.
 
-Had it been&.&.&.&. a delusion&.&.&.&.? 
+Had it been&.&.&. a delusion&.&.&.?
 
 But even now&, my heart seemed as though it were about to be crushed
-by anxiety&. 
+by anxiety&.
 
 I sent my eyes back to the monitor&.
 
@@ -1021,45 +1021,45 @@ if($ñœëzÉgÉäÉKÅ[ÇQÇT == 0)
 <PRE box00>
 [text022]
 Up until now&, Rimi would emerge with ideal timing if I murmured
-that&. But my call didn't go through&.&.&.&.
+that&. But my call didn't go through&.&.&.
 
 The fake Di-Sword&, which lay tumbled in a corner of the room&, caught
-my eye&. 
+my eye&.
 
-I took it in hand to cling to the faintest of hopes&. 
+I took it in hand to cling to the faintest of hopes&.
 
-This was a toy&.&.&.&. 
-Ayase&, too&, had declared it one&. 
+This was a toy&.&.&.
+Ayase&, too&, had declared it one&.
 
-But I wanted to think 
-Maybe&, just maybe&. 
+But I wanted to think
+Maybe&, just maybe&.
 
-If I had a Di-Sword&, I would be saved&. 
-I'd be able to defeat "Shogun" even if he attacked me again&. 
+If I had a Di-Sword&, I would be saved&.
+I'd be able to defeat "Shogun" even if he attacked me again&.
 
-So&, please&.&.&.&. 
+So&, please&.&.&.
 
-I brandished the Di-Sword&. 
-I focused on the very tip of its blade&. 
+I brandished the Di-Sword&.
+I focused on the very tip of its blade&.
 
-Please be the real thing&.&.&.&.! 
-Please save me&.&.&.&.!
+Please be the real thing&.&.&.!
+Please save me&.&.&.!
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300500ta">
-"Di-Sword&.&.&.&. Show me your true form&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300500ta">
+"Di-Sword&.&.&. Show me your true form&.&.&.!"
 
 {	CreateColor("êFÇP", 100, 0, 0, 800, 600, "Black");
 	DrawTransition("êFÇP", 400, 0, 1000, 100, null, "cg/data/lcenter2.png", true);}
 I squeezed my eyes shut and gripped the hilt harder&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300510ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300510ta">
+"&.&.&.&.&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300520ta">
-"&.&.&.&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300520ta">
+"&.&.&.&.&.&.&.&.&."
 
 No sound&.
 
@@ -1070,7 +1070,7 @@ Nothing had changed&.
 This was a toy&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300530ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300530ta">
 "Shit! Shit shit shit! You useless piece of crap!"
 
 </PRE>
@@ -1090,9 +1090,9 @@ This was a toy&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text023]
-I flung the toy sword at the floor 
+I flung the toy sword at the floor
 
-And wandered around and around the room&. 
+And wandered around and around the room&.
 
 I bit my nails and considered what to do&.
 
@@ -1187,44 +1187,44 @@ Current members: 1
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text025]
-"Shogun" had already departed from the chat&. 
-The traces he'd left behind him consisted of only four lines&. 
+"Shogun" had already departed from the chat&.
+The traces he'd left behind him consisted of only four lines&.
 
 Not wanting to see even those words&, I hurriedly got myself out of
-the chatroom now that "Shogun" had vanished&. 
+the chatroom now that "Shogun" had vanished&.
 
-My trembling still wouldn't stop&. 
+My trembling still wouldn't stop&.
 
-"Shogun" was challenging me&. 
+"Shogun" was challenging me&.
 
-What could be so enjoyable about dogging me? 
+What could be so enjoyable about dogging me?
 
 Had Shogun finally resumed his activity&, having selected me as his
-new victim? 
+new victim?
 
 Or was I the most convenient person for him to pin his crimes on?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300540ta">
-"Somebody&.&.&.&. save me&.&.&.&. come save me&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300540ta">
+"Somebody&.&.&. save me&.&.&. come save me&.&.&."
 
 I gazed desperately at the post-awakening Seira-tan&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300550ta">
-"I'm scared&.&.&.&. of being alone&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300550ta">
+"I'm scared&.&.&. of being alone&.&.&."
 
-I didn't want to be alone&. 
-I wanted to have someone by my side&. 
+I didn't want to be alone&.
+I wanted to have someone by my side&.
 I wanted someone to protect me&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300560ta">
-"R&, right&.&.&.&. school&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300560ta">
+"R&, right&.&.&. school&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch06/11300570ta">
-"If I go to school&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11300570ta">
+"If I go to school&.&.&."
 
 If I went to school&, Rimi would be there&.
 

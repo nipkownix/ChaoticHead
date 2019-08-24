@@ -63,8 +63,8 @@ function ch03_065_無人の屋上にて()
 <PRE box00>
 [text001]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06500010ta">
-"Haa&, haa&, haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06500010ta">
+"Haa&, haa&, haa&.&.&."
 
 I ran up the stairs without looking to either side and came out on the
 empty roof&.
@@ -99,41 +99,41 @@ in this condition&. It showed how desperate I'd been&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-I was sick of this reality&.&.&.&. 
+I was sick of this reality&.&.&.
 
 The Di-Sword I'd gone out of my way to buy hadn't been useful in any
 capacity&. I certainly couldn't bring it to school&, not with how much
-it'd stand out here&. 
+it'd stand out here&.
 
-She'd caught me off-guard&. 
+She'd caught me off-guard&.
 
 Two days ago&, when I heard from Misumi-kun that Rimi was our
 classmate&, I'd figured that he'd either been making it up on the spot
-or had merely been imagining things&. 
+or had merely been imagining things&.
 
-But she had really "become" my classmate&.&.&.&. 
+But she had really "become" my classmate&.&.&.
 
 It would almost definitely prove useless to ponder how she had managed
 to slip in&.
 
-Because she was a demon&. 
-She could easily do things of which humans were incapable&. 
+Because she was a demon&.
+She could easily do things of which humans were incapable&.
 
-Maybe she had brainwashed my whole class--no&, maybe even all the
-teachers at school&. 
+Maybe she had brainwashed my whole class―no&, maybe even all the
+teachers at school&.
 
 I couldn't go to the hospital anymore&, and now I couldn't go to
-school&. Yua was at @Cafe&, and "Shogun" appeared online&. 
+school&. Yua was at @Cafe&, and "Shogun" appeared online&.
 
 She and her underlings were clearly venturing closer and closer to
-me&. 
+me&.
 And they were constantly launching psychological attacks at me&.
 
-Maybe it would be better to stop leaving my base&. 
-Reality was too full of danger and enemies&.&.&.&. 
+Maybe it would be better to stop leaving my base&.
+Reality was too full of danger and enemies&.&.&.
 
 They stirred me up and threatened my peaceful lifestyle&, when all I
-wanted to do was live quietly&. 
+wanted to do was live quietly&.
 
 I gazed up at the blue sky&, which floated there carelessly as the
 wind blew white clouds across it&. It would be so wonderful if I could
@@ -187,7 +187,7 @@ classroom&.
 
 Whatever the case&, all I had in there were textbooks&. My wallet&, my
 key and anything else important would be in my uniform's
-pockets&.&.&.&. probably&.
+pockets&.&.&. probably&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -197,8 +197,8 @@ pockets&.&.&.&. probably&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-Growing uneasy&, I searched through my pockets&. 
-Wallet&, key&, cell phone&.&.&.&. they were all where they should be&.
+Growing uneasy&, I searched through my pockets&.
+Wallet&, key&, cell phone&.&.&. they were all where they should be&.
 
 
 That was when I remembered that someone had called me&. I'd been
@@ -206,17 +206,17 @@ pretty frantic at the time&, though not as much as when Rimi talked to
 me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06500020ta">
-"Who on earth&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch03/06500020ta">
+"Who on earth&.&.&.?"
 
-I couldn't think of anyone who would call me besides my family&. 
+I couldn't think of anyone who would call me besides my family&.
 
 Nanami seemed like the most probable&.
-She didn't think about whether she might end up causing me trouble&. 
+She didn't think about whether she might end up causing me trouble&.
 
-The other people who knew this number were&.&.&.&. 
-Ah&, come to think of it&, I'd told it to those detectives&. 
-If it had been one of them&, I should probably have answered&. 
+The other people who knew this number were&.&.&.
+Ah&, come to think of it&, I'd told it to those detectives&.
+If it had been one of them&, I should probably have answered&.
 
 And anyway&, all that talk about sending officers to my base had ended
 up going unsettled&.

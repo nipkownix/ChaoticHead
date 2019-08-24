@@ -37,6 +37,17 @@ function SystemSet()
 	Request("box00", Lock);
 }
 
+function hidebox()
+{
+	Fade("@box11",0,0,null,false);
+	Fade("@box12",0,0,null,true);
+}
+
+function showbox()
+{
+	Fade("@box11",0,1000,null,false);
+	Fade("@box12",0,1000,null,true);
+}
 
 //■テキストボックス・フォント、スクリプト中よく定義するものをマクロにてまとめて定義。
 //=============================================================================//
@@ -54,14 +65,62 @@ function LoadBox()
 	Fade("box12",0,0,null,true);
 	Request("box11", Lock);
 	Request("box12", Lock);
-	Request("box11", Hideable);
-	Request("box12", Hideable);
-	
-	LoadFont("フォント１Ａ", "ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LEFTDOWN, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？");
+
+	LoadMainFont("フォント１Ａ", "DroidMSGothic", 20, #FFFFFF, #000000, 500, LEFTDOWN, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？");
 	Request("フォント１Ａ", Lock);
 }
 
+function LoadMainFont("objname", "crapfont", "$size", "color1", "color2", "number", "pos", "abcd")
+{
+	if(#SYSTEM_font_family==MSGothic){
+		$FamName = "DroidMSGothic";
+		$nsize = $size+6;
+	}else if(#SYSTEM_font_family==Ubuntu){
+		$FamName = "DroidUbuntu";
+		$nsize = $size+8;
+	}else if(#SYSTEM_font_family==RodinBokutoh){
+		$FamName = "DroidRodinBokutohPro-DB";
+		$nsize = $size+4;
+	}else if(#SYSTEM_font_family==Tahoma){
+		$FamName = "DroidTahoma";
+		$nsize = $size+6;
+	}
+	$abcd = "QWERTYUIOPASDFGHJKLCZXCVBNMqwertyuiopasdfghjklczxcvbnm1234567890?!,.-_"
+	
+    LoadFont(objname, $FamName, $nsize, color1, color2, number, pos, $abcd);
+}
 
+function SetMainFont("crapfont", "$size", "color1", "color2", "number", "type")
+{
+	if(#SYSTEM_font_family==MSGothic){
+		$FamName = "DroidMSGothic";
+		$nsize = $size+6;
+	}else if(#SYSTEM_font_family==Ubuntu){
+		$FamName = "DroidUbuntu";
+		$nsize = $size+8;
+	}else if(#SYSTEM_font_family==RodinBokutoh){
+		$FamName = "DroidRodinBokutohPro-DB";
+		$nsize = $size+4;
+	}else if(#SYSTEM_font_family==Tahoma){
+		$FamName = "DroidTahoma";
+		$nsize = $size+6;
+	}
+    SetFont($FamName, $nsize, color1, color2, number, type);
+}
+
+function LoadMainText("synname", "bname", "tname", "$tframe", "num1", "cspace", "lheight")
+{
+	if(#SYSTEM_font_family==MSGothic){
+		$ntframe = $tframe;
+	}else if(#SYSTEM_font_family==Ubuntu){
+		$ntframe = $tframe;
+	}else if(#SYSTEM_font_family==RodinBokutoh){
+		$ntframe = $tframe;
+	}else if(#SYSTEM_font_family==Tahoma){
+		$ntframe = $tframe;
+	}
+	LoadText(synname, bname, tname, $ntframe, num1, cspace, lheight);
+}
 
 //■スクリプトにおいてテキストを定義するマクロコマンド
 //=============================================================================//
@@ -71,8 +130,8 @@ function LoadBox()
 ..SetText
 function SetText("ボックス名","$テキスト名")
 {
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LEFTDOWN);
-	LoadText("$構文名","ボックス名","$テキスト名",720,130,0,29);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LEFTDOWN);
+	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);
 	Request("$テキスト名", Lock);
@@ -522,7 +581,7 @@ function IntermissionIn()
 	Fade("インターミッション色", 0, 0, null, false);
 	Request("インターミッション色", Lock);
 
-	CreateMovie("インターミッションムービー１", 25000, 0, 0, false, true, "dx/mvアイキャッチ01.ngs");
+	CreateMovie("インターミッションムービー１", 25000, 0, 0, false, true, "dx/mvEyecatch01.ngs");
 	Request("インターミッションムービー１", Lock);
 	WaitPlay("インターミッションムービー１", null);
 
@@ -535,7 +594,7 @@ function IntermissionIn2()
 
 	Wait(500);
 
-	CreateMovie("インターミッションムービー２", 25002, 0, 0, false, true, "dx/mvアイキャッチ02.ngs");
+	CreateMovie("インターミッションムービー２", 25002, 0, 0, false, true, "dx/mvEyecatch02.ngs");
 
 	Wait(400);
 
@@ -553,9 +612,30 @@ function IntermissionIn2()
 
 
 
+..IntermissionCard
+function IntermissionCard1()
+{
+	CreateColor("インターミッション色", 25001, 0, 0, 800, 600, "black");
+	Fade("インターミッション色", 0, 0, null, false);
+	Request("インターミッション色", Lock);
+	
+	CreateMovie("インターミッションムービー１", 25000, 0, 0, false, true, "dx/mvEyecatch01.ngs");
+	Request("インターミッションムービー１", Lock);
+	WaitPlay("インターミッションムービー１", null);
 
+	Request("インターミッション色", UnLock);
+	Request("インターミッションムービー１", UnLock);
+}
 
+function IntermissionCard2()
+{
+	CreateMovie("インターミッションムービー２", 25002, 0, 0, false, true, "dx/mvEyecatch02.ngs");
+	Request("インターミッションムービー２", Lock);
+	WaitPlay("インターミッションムービー２", null);
 
+	Request("インターミッションムービー２", UnLock);
+	Delete("インターミッションムービー２");
+}
 
 
 

@@ -87,8 +87,8 @@ if($GameDebugSelect == 1)
 <PRE box00>
 [text001]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900010ta">
-"Haa&.&.&.&. shit&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900010ta">
+"Haa&.&.&. shit&.&.&."
 
 {	MusicStart("SE03", 0, 800, 0, 1000, null, false);
 	MusicStart("SE03", 800, 0, 0, 1000, null, false);}
@@ -99,46 +99,46 @@ The skies of Shibuya were drab&, and it would be hard to call them
 clear&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900020ta">
-"It'd be better not to go to the hospital anymore&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900020ta">
+"It'd be better not to go to the hospital anymore&.&.&."
 
-The demon girl's dragnet was tightening&. 
-Maybe I had nowhere left to run&. 
+The demon girl's dragnet was tightening&.
+Maybe I had nowhere left to run&.
 
 Maybe even the detectives I'd met yesterday had in truth been fakes&,
 the demon girl's cronies&. And they'd been testing me&.
 
 Because the timing had been way too good&. Come on&, the demon girl
 had pushed her way into my room right after I'd met with the
-detectives&. 
+detectives&.
 
-She was a demon&, after all&. She wasn't human&. 
-It'd hardly take any effort for her to manipulate human hearts&. 
+She was a demon&, after all&. She wasn't human&.
+It'd hardly take any effort for her to manipulate human hearts&.
 
-I had no evidence to back that up&. 
+I had no evidence to back that up&.
 But&, conversely&, there was no evidence that she wasn't a demon&.
 
 In that case&, the only way to survive was by presupposing the worst&.
 
 
-Was there no one who would be my ally&.&.&.&.? 
+Was there no one who would be my ally&.&.&.?
 
 All of them seemed like my enemies&. Everyone looked like one of the
 demon girl's underlings&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900030ta">
-"Save me&.&.&.&. Somebody&, save me&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900030ta">
+"Save me&.&.&. Somebody&, save me&.&.&."
 
-Why don't I have even a single ally? 
+Why don't I have even a single ally?
 Why wouldn't anyone come save me?
-Why did I have to end up like this? 
+Why did I have to end up like this?
 
-I felt terribly forlorn&, and I wanted some source of support&. 
+I felt terribly forlorn&, and I wanted some source of support&.
 Someone who would protect me&. Something that would protect me&.
 
 I'd be fine with anyone&, so someone&, please&, extend a saving hand
-toward me--
+toward me―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -172,11 +172,11 @@ if($３章あやせ妄想しない分岐 == true)
 <PRE box00>
 [text002]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05900040ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05900040ay">
 "Hurry&. Find Your Sword&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05900050ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05900050ay">
 "If you find your sword you will be saved&."
 
 {	MusicStart("SE02", 2000, 200, 0, 1000, null, true);
@@ -207,14 +207,14 @@ else
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-Suddenly&, I thought of FES's--Kishimoto Ayase's--face&. 
+Suddenly&, I thought of FES's―Kishimoto Ayase's―face&.
 
-And the words she had given voice to when we met at school&. 
+And the words she had given voice to when we met at school&.
 
 I'd been lost in my delusions and hadn't heard them&, but Misumi-kun
-had said the following&. 
+had said the following&.
 
---Find your sword&. Finding your sword will save you&.
+―Find your sword&. Finding your sword will save you&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -236,33 +236,33 @@ had said the following&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900060ta">
-"A sword&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900060ta">
+"A sword&.&.&."
 
 If this were a game&, I'd be a hero&, and we'd reach the usual cliche
 development about my having to get my hands on a legendary sword to
-defeat the demon&. 
+defeat the demon&.
 
 Without my seeking it out&, I'd recently heard the keyword "sword"
-from two different 3-D girls&. 
+from two different 3-D girls&.
 
 And there remained a chance that FES was my ally&. Although&, going by
-her attitude&, Girl B--had she been called Sena?--was most likely
-affiliated with the demon girl&. 
+her attitude&, Girl B―had she been called Sena?―was most likely
+affiliated with the demon girl&.
 
-A sword&, huh&.&.&.&.
+A sword&, huh&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900070ta">
-"A sword&.&.&.&. If I get my hands on a sword&.&.&.&. If I
-just&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900070ta">
+"A sword&.&.&. If I get my hands on a sword&.&.&. If I
+just&.&.&."
 
-I muttered to myself as though I'd gone off my rocker&. 
+I muttered to myself as though I'd gone off my rocker&.
 
-For me&, it was the equivalent of clutching at straws&. 
+For me&, it was the equivalent of clutching at straws&.
 
-If I got a sword&, I might be released from this nightmare&.&.&.&. I
-couldn't help having such expectations&. 
+If I got a sword&, I might be released from this nightmare&.&.&. I
+couldn't help having such expectations&.
 
 It wasn't that I believed what FES had said about it granting me
 salvation&. But I lacked anything else to cling to&. If nothing else&,
@@ -352,7 +352,7 @@ And no such sword had appeared in any of the shows I'd checked&.
 It was that distinctive-looking&. If it showed up&, it ought to have
 caught my eye&, but I had no memory of seeing one&.
 
-&.&.&.&.Although I couldn't do anything about it if I'd seen it when I
+&.&.&.Although I couldn't do anything about it if I'd seen it when I
 was being controlled by someone outside myself&.
 
 {	CreateSE("SE01","SE_日常_PC_キー叩く_中");
@@ -384,19 +384,19 @@ anime series&.
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900080ta">
-"Dammit&, they're almost all game walkthrough sites&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900080ta">
+"Dammit&, they're almost all game walkthrough sites&."
 
 Terms I was closely familiar with&, such as ESO's Shangri-La Edge&,
-kept popping up&. 
+kept popping up&.
 At this rate&, I wouldn't make any progress&.
 
-Even though I had to hurry up and find it! 
+Even though I had to hurry up and find it!
 
 I had the sense that Sena had used a more concrete name when speaking
-of it&, but what could it have been&.&.&.&. 
+of it&, but what could it have been&.&.&.
 
-Remember&.&.&.&. Your nightmare won't end unless you remember&.&.&.&.!
+Remember&.&.&. Your nightmare won't end unless you remember&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -431,8 +431,8 @@ Remember&.&.&.&. Your nightmare won't end unless you remember&.&.&.&.!
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900090ta">
-"Di&.&.&.&. Sword&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900090ta">
+"Di&.&.&. Sword&.&.&."
 
 Right&, Di-Sword!
 I quickly stuck it in the input field and ran a search&.
@@ -473,14 +473,14 @@ I quickly stuck it in the input field and ran a search&.
 //以下、検索結果につき一時的にコメントアウト致します。
 //※以下、検索結果
 /*
-【Di-Sword】Fantasy Terminology Wiki－Amnesia By&.&.&. 
+【Di-Sword】Fantasy Terminology Wiki－Amnesia By&.&.&.
 A sword of light unleashed upon the world and called "Di-Sword&." A
 fictional sword first birthed in ancient Europe&, by the hand of the
 legendary evil king Gladioul&. It is said that&, as it was created to
 use humans' negative emotions as its nourishment&, the black knights
 who bore it and battled with it all had their hearts eaten away by it
 in the end&. It is distinguished from other holy swords and magical
-swords by the fact that it cannot be seen with one's eyes&.&.&. 
+swords by the fact that it cannot be seen with one's eyes&.&.&.
 www&.5lobe&.ne&.jp/fantasy_moto/rev_ta/di_sword&.html
 
 
@@ -500,11 +500,11 @@ http://blog89.himagine.fg2.ne.jp/blog-entry-9.html
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-I got hits! 
+I got hits!
 
-Only two of them&, though&. 
+Only two of them&, though&.
 Even so&, I was gradually starting to think of these two links as my
-road to salvation&. 
+road to salvation&.
 
 Holding down my excitement&, I investigated them in order from the top
 down&.
@@ -528,9 +528,9 @@ down&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
-Geh&, the page's dead&. Shit&, what the hell! 
+Geh&, the page's dead&. Shit&, what the hell!
 
-No&, calm down&.&.&.&. Go back one more time and take a look at the
+No&, calm down&.&.&. Go back one more time and take a look at the
 cache&.
 
 </PRE>
@@ -561,7 +561,7 @@ cache&.
 //以下、イメージBGにつき一時的にコメントアウトさせていただきます。
 //イメージＢＧ//ＰＣ画面（ファンタジー用語Ｗｉｋｉ－アムネジア・バイブル）
 /*
-D 
+D
 【Di-Sword】　Pronunciation: dee SOHD
 A sword of darkness unleashed upon the world and called "Di-Sword&." A
 fictional sword first birthed in ancient Europe&, by the hand of the
@@ -595,20 +595,20 @@ cuts one's skin&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-The page included an illustration&. 
+The page included an illustration&.
 A recreation based on how the sword was described in works of
 literature&.
 
 {	Move("背景２", 12000, @0, @-300, AxlDxl, false);
 	Wait(300);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900100ta">
-"It's from folklore&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900100ta">
+"It's from folklore&.&.&.?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900110ta">
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900110ta">
 "But this is pretty plain compared to the one that Sena girl
-had&.&.&.&."
+had&.&.&."
 
 In the first place&, why was it such a minor sword?
 Why not go with Excalibur or Kusanagi&,
@@ -651,29 +651,29 @@ Was a Di-Sword something you could purchase?
 Bought a Di-Sword 2007&.2&.10
 
 I bought a sword ♪　Seems like it's called Di-Sword&.
-It's so sketchy&, it's awesome&. 
+It's so sketchy&, it's awesome&.
 There aren't any other stores this weird and suspicious left in the
 capital metropolitan area&, except in Akiba&.
 But Akiba's underground stores don't really suit my interests&.
 Because there's not really anything there except PC stuff and ero
-books&. 
+books&.
 That's not what I'm looking for&.
 Shibuya used to have lots of underground stores&, too (saying this
 might give away my age!)&, but they disappeared with the flow of
 time&.
-Maaan&, that period was amazing&, seriously (lol)&. 
+Maaan&, that period was amazing&, seriously (lol)&.
 If you were to ask what was so amazing&, well&, it makes Town Vanguard
-look like something for beginners (rofl)&. 
-Anyhoo&, I'll let the nostalgia stop here&. 
+look like something for beginners (rofl)&.
+Anyhoo&, I'll let the nostalgia stop here&.
 Even so&, I'm curious about who christened it Di-Sword (lol)&. I'll
 admit that it's pretty big&, and it's a well-made toy&, but I can't
 think of why it came in stock at Town Vanguard&, except maybe that it
 matches the tastes of the storekeeper (Yocchan)&. Lately he's turned
 part of the store into a corner for fantasy-related weapons (*laughs
-ruefully*)&. 
+ruefully*)&.
 Plus&, the ones on display are light sabers and light shuriken (!)&,
 obvious fakes&, so it's kind of disappointing&. Although the light
-shuriken were so ridiculous that I bought them on impulse&. 
+shuriken were so ridiculous that I bought them on impulse&.
 
 Comments(2) Trackback(0)　2005-5-13
 */
@@ -695,7 +695,7 @@ That said&, his level of energy was far too different from that of
 "Shogun&."
 
 Was he a completely unrelated third party&, or had "the person behind"
-the blog deliberately changed the particulars of how he wrote&.&.&.&.
+the blog deliberately changed the particulars of how he wrote&.&.&.
 
 I understood that no answer would come no matter how much I thought
 about it&, so I stopped looking at the blog&.
@@ -729,7 +729,7 @@ likely-looking&.
 Which meant that my only option was to go to the store in person&.
 
 I didn't want to go outside very much&.
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -741,22 +741,22 @@ But--
 <PRE box00>
 [text012]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05900120ta">
-"I have to get my hands on a sword&.&.&.&. I've got no choice but to
-get one&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05900120ta">
+"I have to get my hands on a sword&.&.&. I've got no choice but to
+get one&.&.&."
 
 Now&, I had come to think of it as my sole&, absolute means of
-fighting back against the demon girl&.  
+fighting back against the demon girl&.
 
 I didn't know what I would do&, in concrete terms&, after obtaining
 the sword&. I wasn't brave enough to use it to kill her&, or anything
-of the sort&. 
+of the sort&.
 
 Even so&, I harbored the hope that if I got a sword&, I would be
-somewhat freed from the terror that tortured me&. 
+somewhat freed from the terror that tortured me&.
 
-Yeah&, a Di-Sword was like a protective charm&. 
-It would surely strengthen my heart&. 
+Yeah&, a Di-Sword was like a protective charm&.
+It would surely strengthen my heart&.
 
 Something about that sword strangely attracted me&.
 

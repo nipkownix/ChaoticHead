@@ -44,7 +44,7 @@ function ch09_198_インターミッション４９()
 <PRE box00>
 [text001]
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800010hd">
+<voice name="葉月" class="葉月" src="voice/ch09/19800010hd">
 "May the Divine Light save us&."
 
 {	Wait(500);
@@ -57,14 +57,14 @@ function ch09_198_インターミッション４９()
 Hazuki Shino stood in the one of the operating rooms in her
 workplace&, AH Tokyo General Hospital&.
 Late at night&. An operating room belonging to the surgical
-department&. 
+department&.
 
-Atop the bed was the form of a young man--Konoe Chizuo&. 
+Atop the bed was the form of a young man―Konoe Chizuo&.
 Fed sleeping pills&, he was in a state of clouded consciousness&.
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800020hd">
-"May the Divine Light save us&.&.&.&."
+<voice name="葉月" class="葉月" src="voice/ch09/19800020hd">
+"May the Divine Light save us&.&.&."
 
 Repeating the same words over and over like a Buddhist chant&, Hazuki
 rubbed her enormously swollen stomach&.
@@ -129,6 +129,12 @@ holding the fetus&, stood beside the man lying in bed&.
 She looked down at the unconscious man's face with bloodshot eyes&.
 She deliberately stuck a scalpel into his stomach&.
 
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+
+<PRE box00>
+[text002b]
 With a violence far separate from the delicacy and accuracy with which
 she had slit her own stomach&.
 
@@ -144,7 +150,7 @@ Blood sprayed out&, landing on her face&.
 //◆恍惚
 //【葉月】
 <voice name="葉月" class="葉月" src="ch09/19800040hd">
-"Fufu&.&.&.&. May the Divine Light save you&.&.&.&." 
+"Fufu&.&.&.&. May the light of God save you&.&.&.&." 
 
 She put both hands to her victim's wound&. 
 
@@ -189,7 +195,7 @@ And shoved it inside&.
 <PRE box00>
 [text003]
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800050hd">
+<voice name="葉月" class="葉月" src="voice/ch09/19800050hd">
 "May the Divine Light save us&."
 
 {	Wait(500);
@@ -202,78 +208,77 @@ And shoved it inside&.
 Hazuki Shino stood in the one of the operating rooms in her
 workplace&, AH Tokyo General Hospital&.
 Late at night&. An operating room belonging to the surgical
-department&. 
+department&.
 
-Atop the bed was the form of her colleague&, a psychiatrist--Takashina
-Fumio&. 
+Atop the bed was the form of her colleague&, a psychiatrist―Takashina
+Fumio&.
 
-He was strapped down to the bed&. 
-But he wasn't merely bound there&. 
+He was strapped down to the bed&.
+But he wasn't merely bound there&.
 
-His brain lay exposed in his head&. 
+His brain lay exposed in his head&.
 His cranium had been cleanly c<pre>u</pre>t away from above his eyes&.
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800060hd">
-"May the Divine Light save you&, Dr&. Takashina&.&.&.&."
+<voice name="葉月" class="葉月" src="voice/ch09/19800060hd">
+"May the Divine Light save you&, Dr&. Takashina&.&.&."
 
 //【高科】
-<voice name="高科" class="高科" src="ch09/19800070tk">
-"Ha&, Hazuki-kun&.&.&.&. St&, stop&.&.&.&. this&.&.&.&." 
+<voice name="高科" class="高科" src="voice/ch09/19800070tk">
+"Ha&, Hazuki-kun&.&.&. St&, stop&.&.&. this&.&.&."
 
-Takashina was conscious&. 
+Takashina was conscious&.
 As there was anesthesia at work in him&, he appeared not to feel any
-pain in his head&. 
+pain in his head&.
 
 His eyes were wide with fear&, and cold sweat ran down his whole
 body&.
-
-//◆恍惚
-//【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800070hd">
-"Haa&, haa&.&.&.&. salvation&.&.&.&."
-
-Ignoring Takashina while he pleaded for his life&, Hazuki slowly
-removed a silver&, shining instrument from the pocket of her white
-uniform&. 
-
-To be more accurate&, it wasn't a surgical instrument&. 
-
-It was a spoon&.  
-A regular utensil&, the sort one might see around a dining table&.
-
-//【高科】
-<voice name="高科" class="高科" src="ch09/19800090tk">
-"What're you&.&.&.&. going to do&.&.&.&."
-
-//【高科】
-<voice name="高科" class="高科" src="ch09/19800100tk">
-"Stop it&, stop it&.&.&.&." 
-
-Wearing an expression of ecstasy&, 
-Hazuki scraped out part of Takashina's brain as if she were scooping
-up curry&.
-
-//【高科】
-<voice name="高科" class="高科" src="ch09/19800110tk">
-"Ah&.&.&.&. ah&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//ＳＥ//ベチャッ！
-	CreateSE("SE02","SE_擬音_脳みそ");
-	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
-
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-She shook it off the spoon and onto a stainless steel tray as though
-to hurl it down&. 
-His pink brain tissue pulverized atop the tray like jelly&. 
+//◆恍惚
+//【葉月】
+<voice name="葉月" class="葉月" src="voice/ch09/19800070hd">
+"Haa&, haa&.&.&. salvation&.&.&."
 
-Hazuki jabbed the spoon into his brain for a second time&. 
+Ignoring Takashina while he pleaded for his life&, Hazuki slowly
+removed a silver&, shining instrument from the pocket of her white
+uniform&.
+
+To be more accurate&, it wasn't a surgical instrument&.
+
+It was a spoon&.
+A regular utensil&, the sort one might see around a dining table&.
+
+//【高科】
+<voice name="高科" class="高科" src="voice/ch09/19800090tk">
+"What're you&.&.&. going to do&.&.&."
+
+//【高科】
+<voice name="高科" class="高科" src="voice/ch09/19800100tk">
+"Stop it&, stop it&.&.&."
+
+Wearing an expression of ecstasy&,
+Hazuki scraped out part of Takashina's brain as if she were scooping
+up curry&.
+
+//【高科】
+<voice name="高科" class="高科" src="voice/ch09/19800110tk">
+"Ah&.&.&. ah&.&.&."
+
+//ＳＥ//ベチャッ！
+{	CreateSE("SE02","SE_擬音_脳みそ");
+	MusicStart("SE02", 0, 1000, 0, 1000, null, false);}
+She shook it off the spoon and onto a stainless steel tray as though
+to hurl it down&.
+His pink brain tissue pulverized atop the tray like jelly&.
+
+Hazuki jabbed the spoon into his brain for a second time&.
 This time&, she shaved off a more heaping pile of brain matter&.
 
 </PRE>
@@ -319,80 +324,80 @@ and the only thing left to him was to shiver in terror&.
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800120ta">
-"These are your memories&.&.&.&. aren't they&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800120ta">
+"These are your memories&.&.&. aren't they&."
 
 {	CreateBG(100, 500, 0, 0, "cg/bg/bg165_03_3_O-FRONT見上げ_a.jpg");
 	Stand("st志乃_白衣_通常","cool", 200, @0);
 	FadeStand("st志乃_白衣_通常_cool", 500, true);}
 //ＢＧ//スクランブル交差点//夜
-Hazuki Shino looked up at those images in shock&.  
+Hazuki Shino looked up at those images in shock&.
 
-The four jumbotrons set around the pedestrian scramble&. 
+The four jumbotrons set around the pedestrian scramble&.
 
-Her own memories were playing out there as a film&. 
+Her own memories were playing out there as a film&.
 She didn't understand how it had been done&.
 It was probably due to Nishijou Takumi's power as a Gigalomaniac&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800130ta">
-"Your&.&.&.&. memories&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800130ta">
+"Your&.&.&. memories&.&.&."
 
-Nishijou Takumi murmured&, head hanging&, holding his Di-Sword&. 
+Nishijou Takumi murmured&, head hanging&, holding his Di-Sword&.
 
-The riot had concluded almost instantaneously&. 
-Now silence reigned&. 
+The riot had concluded almost instantaneously&.
+Now silence reigned&.
 
 Several thousand people&, who moments before had been striking out at
 each other&, not caring who they hit&, all looked up at the jumbotrons
-in unison&. 
+in unison&.
 
-Those who went pale and averted their eyes&. 
-Those who vomited in revulsion&. 
+Those who went pale and averted their eyes&.
+Those who vomited in revulsion&.
 
-The members of the media attempted to fix their cameras on Hazuki&. 
+The members of the media attempted to fix their cameras on Hazuki&.
 Their brilliant flashes burned over and over&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800140ta">
-"You were the true perpetrator behind the New-Gen cases&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800140ta">
+"You were the true perpetrator behind the New-Gen cases&.&.&."
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800150hd">
-"&.&.&.&.You projected my memories into video&, didn't you&."
+<voice name="葉月" class="葉月" src="voice/ch09/19800150hd">
+"&.&.&.You projected my memories into video&, didn't you&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800160ta">
-"You can't make any more excuses&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800160ta">
+"You can't make any more excuses&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800170ta">
-"They'll know once they analyze your DNA and the baby's&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800170ta">
+"They'll know once they analyze your DNA and the baby's&.&.&."
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800180hd">
-"&.&.&.&.&.&.&.&.&."
+<voice name="葉月" class="葉月" src="voice/ch09/19800180hd">
+"&.&.&.&.&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800190ta">
-"Why would you do such things&.&.&.&.? Hey&, Grim&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800190ta">
+"Why would you do such things&.&.&.? Hey&, Grim&.&.&.!"
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800200hd">
-"&.&.&.&.Neidhardt&.&.&.&."
+<voice name="葉月" class="葉月" src="voice/ch09/19800200hd">
+"&.&.&.Neidhardt&.&.&."
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800210hd">
-"I followed the words of our revered founder in everything&." 
+<voice name="葉月" class="葉月" src="voice/ch09/19800210hd">
+"I followed the words of our revered founder in everything&."
 
 Hazuki slowly plunged a hand into the handbag hanging from her
-shoulder&. 
+shoulder&.
 
-Therein lay a Noah II terminal port&, 
-And a surgical scalpel&. 
+Therein lay a Noah II terminal port&,
+And a surgical scalpel&.
 
 Grabbing the scalpel&, she laid the tip of its blade against her own
-neck&. 
+neck&.
 As she was a nurse&, her line of work meant she was well familiar with
 the location of the carotid artery&.
 
@@ -400,17 +405,17 @@ the location of the carotid artery&.
 	Stand("bu志乃_白衣_通常","cool2", 200, @0);
 	FadeStand("bu志乃_白衣_通常_cool2", 500, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19800220ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch09/19800220ta">
+"&.&.&.!"
 
-Hazuki smiled at Nishijou Takumi&. 
-Her kindly smile&, akin to the one she gave her patients--
+Hazuki smiled at Nishijou Takumi&.
+Her kindly smile&, akin to the one she gave her patients―
 
 {	CreateTexture("back11", 500, 0, 0, "cg/bg/bg206_01_3_夜空_a.jpg");
 	DrawTransition("back11", 500, 0, 1000, 500, null, "cg/data/up2.png", true);
 	DeleteStand("bu志乃_白衣_通常_cool2", 0, true);}
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800230hd">
+<voice name="葉月" class="葉月" src="voice/ch09/19800230hd">
 "May the Divine Light save us!"
 
 </PRE>

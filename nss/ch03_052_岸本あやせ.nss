@@ -47,12 +47,12 @@ function ch03_052_Šİ–{‚ ‚â‚¹()
 <PRE box00>
 [text001]
 I ignored Nanami until we got to school&, then went down the
-still-boisterous hallway to my classroom&. 
+still-boisterous hallway to my classroom&.
 
 When walking down a hall&, stick to one side or the other&. Go neither
 too quickly nor too slowly&. Lower your eyes and walk without meeting
 anyone's gaze&. Those were the three items I paid careful attention
-to&. 
+to&.
 
 Don't stand out at school; be the same as air&. That was how I got
 around safely&.
@@ -67,11 +67,11 @@ around safely&.
 <PRE box00>
 [text002]
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200010mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200010mi">
 "Yo&, Taku!"
 
 Yet today&, the same person appeared again and interfered with my
-attempts to blend in&. 
+attempts to blend in&.
 Catching up with me from behind&, Misumi-kun gave me his usual
 friendly pat on the shoulder&.
 
@@ -83,34 +83,34 @@ friendly pat on the shoulder&.
 	Stand("bu‘å•ã_§•_’Êí","normal", 200,@+100);
 	FadeStand("bu‘å•ã_§•_’Êí_normal", 300, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200020mi">
-"Hey&, dawg--"
+<voice name="OZ" class="OZ" src="voice/ch03/05200020mi">
+"Hey&, dawg\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05200030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05200030ta">
+"&.&.&.&.&.&.&."
 
 //Ÿ‹êÎ
 {	Stand("bu‘å•ã_§•_’Êí","smile", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 300, false);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 500, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200040mi">
-"At least return my greeting&. 
+<voice name="OZ" class="OZ" src="voice/ch03/05200040mi">
+"At least return my greeting&.
 Well&, but I know you're not that kinda guy&."
 
 //Ÿ˜b‚µ‚½‚æ‚È‚Í‚È‚µ‚µ‚½‚æ‚È
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200050mi">
-"Hey&, remember how I talked about that girl from Class D before? 
+<voice name="OZ" class="OZ" src="voice/ch03/05200050mi">
+"Hey&, remember how I talked about that girl from Class D before?
 The super cute one who doesn't come to school often&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05200060ta">
-"&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05200060ta">
+"&.&.&.?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200070mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200070mi">
 "She's called Kishimoto Ayase&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+100);
@@ -118,16 +118,16 @@ The super cute one who doesn't come to school often&."
 	DeleteStand("bu‘å•ã_§•_’Êí_smile", 500, false);}
 //¬º
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200080mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200080mi">
 "Truth is&, I just discovered something totally wild about her&."
 
 Misumi-kun suddenly lowered his voice and checked out our
-surroundings&. 
-It was probably something vulgar again&.&.&.&. Wearying of him&, I
+surroundings&.
+It was probably something vulgar again&.&.&. Wearying of him&, I
 almost let out a sigh&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200090mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200090mi">
 "So FES&, you know FES&, right?"
 
 {	SoundPlay("SE01", 1000, 1, true);}
@@ -142,7 +142,7 @@ But his words made me catch my breath&.
 <PRE box00>
 [text003]
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200100mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200100mi">
 "That Kishimoto is FES!"
 
 {	SoundPlay("SE01", 2000, 300, true);
@@ -150,12 +150,12 @@ But his words made me catch my breath&.
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 300, false);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 500, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200110mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200110mi">
 "It seriously freaked me out&. Who knew FES was a student at our
 school!"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200120mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200120mi">
 "And she's in the same year as us&, dude&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_shock", 500, true);}
@@ -163,24 +163,24 @@ For some reason&, Misumi-kun stuck the upper half of his body out a
 nearby window and gazed rapturously up at the sky&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200130mi">
-"This is what they mean when they talk about fate&." 
+<voice name="OZ" class="OZ" src="voice/ch03/05200130mi">
+"This is what they mean when they talk about fate&."
 
 We were on the third floor&. If he slipped even a tiny bit&, he'd fall
-down&, break his neck&, and lose his life&. 
-I was on pins and needles as I watched him&. 
+down&, break his neck&, and lose his life&.
+I was on pins and needles as I watched him&.
 
 Misumi-kun gradually leaned out further&, looking at down at the
 entranceway below the window&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200140mi">
-"Oh&, speak of the devil&. 
+<voice name="OZ" class="OZ" src="voice/ch03/05200140mi">
+"Oh&, speak of the devil&.
 Taku! I found Kishimoto! She'll be here soon&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05200150ta">
-"Eh&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05200150ta">
+"Eh&.&.&."
 
 With so many coincidences piling up&, maybe he had been correct in
 saying it was fated&.
@@ -189,11 +189,11 @@ Not that I had any interest&.
 {	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200160mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200160mi">
 "'Kay&, I'm gonna lie in wait for her&. Take a look&, Taku&, I'll show
-you what it means to have mad skillz at picking up girls&." 
+you what it means to have mad skillz at picking up girls&."
 
-He was overflowing with self-confidence as he spoke&. 
+He was overflowing with self-confidence as he spoke&.
 Hoo boy&, it must be nice to have a face like his&. Pick-up lines and
 the like existed in a completely different world from me&.
 I didn't want to try using them&, either&.
@@ -235,16 +235,16 @@ I didn't want to try using them&, either&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-After some time&, FES--no&, her real name was Kishimoto Ayase--came
-into view&. 
+After some time&, FES\no&, her real name was Kishimoto Ayase\came
+into view&.
 
 Just as Misumi-kun had said&, it was the real FES&.
-I made certain of it myself&, watching secretly from a slight distance&. 
-Even now&, I was surprised she had turned out to be the same 
-age as us&. 
+I made certain of it myself&, watching secretly from a slight distance&.
+Even now&, I was surprised she had turned out to be the same
+age as us&.
 
 FES walked along slowly&, wearing her Suimei uniform and giving off an
-air of ennui&. 
+air of ennui&.
 
 It created a remarkably different impression from how she had looked
 while singing on stage&. At the time&, though she spoke
@@ -260,57 +260,57 @@ with the same friendly intimacy he always showed me&.
 {	Stand("st‘å•ã_§•_’Êí","smile", 200, @150);
 	FadeStand("st‘å•ã_§•_’Êí_smile", 600, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200170mi">
-"Yo&, Kishimoto-san&, g'morning&." 
+<voice name="OZ" class="OZ" src="voice/ch03/05200170mi">
+"Yo&, Kishimoto-san&, g'morning&."
 
-Uwah&.&.&.&. 
-What a refreshing&, yet false-seeming&, smile&.&.&.&.
+Uwah&.&.&.
+What a refreshing&, yet false-seeming&, smile&.&.&.
 
 To think he could take that attitude with someone he'd practically
-never met before&. 
+never met before&.
 
 It made me shiver with awe&. I idolized him&. But I didn't want to
 imitate him&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200180mi">
-"Ah&, I'm Misumi Daisuke&. Nice to meet you--ô"
+<voice name="OZ" class="OZ" src="voice/ch03/05200180mi">
+"Ah&, I'm Misumi Daisuke&. Nice to meet you\ô"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200190mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200190mi">
 "Whoops&, you think we've never met before? But that's not quite
 true&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200200mi">
-"I went to a Phantasm concert a little while ago&. 
+<voice name="OZ" class="OZ" src="voice/ch03/05200200mi">
+"I went to a Phantasm concert a little while ago&.
 So this is the second time I've seen you&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200210mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200210mi">
 "And&, your singing voice from back then was&, hmm&, how do I say it?
 It gave me the chills&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200220mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200220mi">
 "I'm not a slave to trends&, you know? Sure&, I was drawn in by your
 lyrics and how cute you are and stuff&, but what I found really
 amazing&, more than anything else&, was how perfect the band seemed as
 a whole&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200230mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200230mi">
 "I guess I mean how your voice combined with their music?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200240mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200240mi">
 "By the way&, the truth is&, I want to start a band&, and if you're
 okay with it&, would you mind telling me how to find good members&,
 and any other hints you could give me as my sempai in being part of a
 band?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200250mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200250mi">
 "Ah&, but it'd be a hassle for you to do it right away&, so hey&, are
 you free after school? How about the two of us go somewhere and take
 our time talking it over?"
@@ -335,7 +335,7 @@ a band&. No matter how I thought about it&, it had to be a lie&. He'd
 go that far to score some points&, to "make" an event flag stand up
 with her&.
 
-But--
+But\
 
 {	SetTrigger("‚P‚P");
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_normal", 500, true);}
@@ -348,16 +348,16 @@ the hallway&.
 	FadeStand("st‘å•ã_§•_’Êí_shock", 600, true);
 	DeleteStand("st‘å•ã_§•_’Êí_smile", 200, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch03/05200260mi">
+<voice name="OZ" class="OZ" src="voice/ch03/05200260mi">
 "S&, so? You listening?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch03/05200270ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch03/05200270ay">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("st‘å•ã_§•_’Êí_shock", 500, true);}
 FES came to a halt&.
-Her faintly lowered gaze slowly rose&.&.&.&.
+Her faintly lowered gaze slowly rose&.&.&.
 
 {	SoundPlay("SE01", 0, 0, false);
 	MusicStart("@CH*",1000,0,0,1000,null,false);

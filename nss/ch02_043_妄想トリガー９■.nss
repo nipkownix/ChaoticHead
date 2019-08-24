@@ -89,7 +89,7 @@ if($妄想トリガー９ == 2)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-All of a sudden--
+All of a sudden―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -126,13 +126,13 @@ Neidhardt>Come to the 2-D world
 <PRE box00>
 [text003]
 Neidhardt issued forth words&, even though I hadn't typed anything
-in&. 
+in&.
 
 {#TIPS_目の錯覚 = true;}Thinking it must be a <FONT incolor="#88abda"
-outcolor="BLACK">hallucination</FONT>&, I rubbed my eyes&. 
-But his utterance still showed up in the chat window&. 
+outcolor="BLACK">hallucination</FONT>&, I rubbed my eyes&.
+But his utterance still showed up in the chat window&.
 
-The 2-D world&.&.&.&.?
+The 2-D world&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -155,8 +155,8 @@ Neidhardt>You can become a hero&, too&. Let's fight together
 <PRE box00>
 [text005]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300010ta">
-"Are you&.&.&.&. talking to me?"
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300010ta">
+"Are you&.&.&. talking to me?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -178,15 +178,15 @@ Neidhardt>You're not interested in the third dimension&, are you?
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300020ta">
-"Wait&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300020ta">
+"Wait&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300030ta">
-"No&, that's true&, but&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300030ta">
+"No&, that's true&, but&.&.&."
 
 To think that he would start talking to me&, the person behind
-him&.&.&.&. 
+him&.&.&.
 
 Did Neidhardt have a will of his own&, after all?
 
@@ -255,19 +255,19 @@ Neidhardt>"Whose eyes are those eyes?"
 <PRE box00>
 [text013]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300040ta">
-"&.&.&.&.But I refuse&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300040ta">
+"&.&.&.But I refuse&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300050ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300050ta">
 "If I'm gonna go to a 2-D world&, I might as well pick the world of
 eroge!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300060ta">
-"I leave Baselard in your hands&, Neidhardt&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300060ta">
+"I leave Baselard in your hands&, Neidhardt&."
 
-I cu<pre>t</pre> the power to my PC as I answered him&. 
+I cu<pre>t</pre> the power to my PC as I answered him&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -340,9 +340,9 @@ Struck dumb by this abrupt development&, I closed my eyes&.
 //【ナイトハルト】
 //"Did you think I wouldn't notice?"
 	Wait(1000);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300070kh">
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300070kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Did you think I wouldn't notice?");
 
 	Request("テキスト１", NoLog);
@@ -374,9 +374,9 @@ I heard a voice&.
 //おがみ：台本用
 //【ナイトハルト】
 //"I always&, always obeyed your orders&."
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300080kh">
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300080kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I always&, always obeyed your orders&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300080kh");
@@ -410,9 +410,9 @@ The voice was coming from the direction of the monitor&.
 //おがみ：台本用
 //【ナイトハルト】
 //I hadn't thought the person behind me was such a moron&.
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300090kh">
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300090kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I hadn't thought the person behind me was such a moron&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300090kh");
@@ -450,8 +450,8 @@ I couldn't see a thing&.
 //【ナイトハルト】
 //I've had enough&. I'm leaving you behind&.
 	Wait(300);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300100kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300100kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I've had enough&. I'm leaving you behind&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300100kh");
@@ -475,8 +475,8 @@ I couldn't see a thing&.
 //【ナイトハルト】
 //From now on&, I'll live as I please&.
 	Wait(800);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300110kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300110kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "From now on&, I'll live as I please&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300110kh");
@@ -500,7 +500,7 @@ I couldn't see a thing&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text903]
-Could it really be Neidhardt&.&.&.&.? 
+Could it really be Neidhardt&.&.&.?
 Wh&, what do you mean&, you're leaving me!?
 
 </PRE>
@@ -512,8 +512,8 @@ Wh&, what do you mean&, you're leaving me!?
 //【ナイトハルト】
 //Just what it sounds like&. This is why you're an idiot&.
 	Wait(300);
-<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300120kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300120kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Just what it sounds like&. This is why you're an idiot&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300120kh");
@@ -548,8 +548,8 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //That's right&. I'm sick and tired of you&.
 	Wait(300);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300130kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300130kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "That's right&. I'm sick and tired of you&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300130kh");
@@ -573,8 +573,8 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //'Der Blitzschnelle'? What the hell? There's a limit to being full of yourself&, you know&.
 	Wait(300);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300140kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300140kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "'Der Blitzschnelle'? What the hell? <BR> There's a limit to being full of yourself&, you know&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300140kh");
@@ -598,8 +598,8 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //Do you have any idea what it felt like when people called me that?
 	Wait(500);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300150kh">
-	SetFont("ＭＳ ゴシック", 18, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300150kh">
+	SetMainFont("DroidMSGothic", 18, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Do you have any idea what it felt like when people called me that?");
 
 	CreateVOICE("ナイトハルト","ch02/04300150kh");
@@ -623,9 +623,9 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //Maybe you thought it was cool or something&.
 	Wait(500);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300160kh">
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300160kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Maybe you thought it was cool or something&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300160kh");
@@ -649,8 +649,8 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //But I only found it humiliating&.
 	Wait(500);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300170kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300170kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But I only found it humiliating&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300170kh");
@@ -674,8 +674,8 @@ Are you trying to mutiny!?
 //【ナイトハルト】
 //But I couldn't say anything&, so my only choice was to sit tight and put up with it&.
 	Wait(500);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300180kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300180kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But I couldn't say anything&,　<BR>　so my only choice was to sit tight and put up with it&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300180kh");
@@ -700,7 +700,7 @@ Are you trying to mutiny!?
 <PRE box00>
 [text905]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300190ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300190ta">
 "Sh&, sh&, shut up! H&, how insolent!
 If you keep saying stuff like that&, I'll&, I'll delete you!"
 
@@ -710,16 +710,16 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 
 //おがみ：台本用
 //【ナイトハルト】
-//Do as you like&.&.&.&.
+//Do as you like&.&.&.
 	Wait(300);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300200kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Do as you like&.&.&.&.");
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300200kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Do as you like&.&.&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300200kh");
 	SoundPlay("ナイトハルト", 0, 1000, false);
 
-	SetBacklog("Do as you like....", "voice/ch02/04300200kh", ナイトハルト);
+	SetBacklog("Do as you like...", "voice/ch02/04300200kh", ナイトハルト);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -737,8 +737,8 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //【ナイトハルト】
 //But remember this&.
 	Wait(600);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300210kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300210kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But remember this&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300210kh");
@@ -760,16 +760,16 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 
 //おがみ：台本用
 //【ナイトハルト】
-//Just as you can delete me with the click of a button--
+//Just as you can delete me with the click of a button―
 	Wait(800);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300220kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Just as you can delete me with the click of a button--");
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300220kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Just as you can delete me with the click of a button―");
 
 	CreateVOICE("ナイトハルト","ch02/04300220kh");
 	SoundPlay("ナイトハルト", 0, 1000, false);
 
-	SetBacklog("Just as you can delete me with the click of a button--", "voice/ch02/04300220kh", ナイトハルト);
+	SetBacklog("Just as you can delete me with the click of a button―", "voice/ch02/04300220kh", ナイトハルト);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -787,8 +787,8 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //【ナイトハルト】
 //You yourself are nothing more than an existence that can be deleted with the click of a button by the person behind you&.
 	Wait(800);
-//<voice name="ナイトハルト" class="ナイトハルト" src="ch02/04300230kh">
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+//<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300230kh">
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "You yourself are nothing more than <BR> an existence that can be deleted with the click of a button <BR> by the person behind you&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300230kh");
@@ -847,15 +847,15 @@ Wh&, what're you sa
 <PRE box00>
 [text016]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300240ta">
-"&.&.&.&.But it would never happen for real&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300240ta">
+"&.&.&.But it would never happen for real&."
 
 Smiling ruefully at my delusions&, I went on regarding Neidhardt&,
 who stood in the world of Baselard&, as stock-still as usual and not
-saying a word&. 
+saying a word&.
 
-&.&.&.&.Maybe I should make an effort not to push him quite so hard
-today&. 
+&.&.&.Maybe I should make an effort not to push him quite so hard
+today&.
 
 As that thought ran through my head&, I resumed playing&.
 
@@ -888,7 +888,7 @@ if($妄想トリガー９ == 0)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-And&, at this moment--
+And&, at this moment―
 
 {	MusicStart("@CH13", 3000, 1000, 0, 1000, null, true);
 	CreateMovie("ナイトハルト", 100, 0, 0, true, false, "dx/mvNH01.ngs");	
@@ -902,7 +902,7 @@ till then been standing bolt upright with his back to me&,
 	Fade("色１", 0, 1000, null, true);
 	Wait(500);}
 Abruptly&,
-Turned just his face to look at me--
+Turned just his face to look at me―
 
 {	Wait(1000);
 	MusicStart("@CH*", 100, 0, 0, 0, null, false);
@@ -910,8 +910,8 @@ Turned just his face to look at me--
 Or so I fancied&. lol
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300250ta">
-"JK&, JK&. Hehehe&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300250ta">
+"JK&, JK&. Hehehe&."
 
 I ended up zoning out and staring at my monitor for over an hour&, but
 Neidhardt only went on standing endlessly in the same place&.
@@ -961,25 +961,25 @@ Neidhardt only went on standing endlessly in the same place&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text018]
-&.&.&.&.L&, let me describe events exactly as they occurred!
+&.&.&.L&, let me describe events exactly as they occurred!
 
 "Today&, I grudgingly went to school&, then when classes finished&,
 I somehow found myself going to buy a cell phone with my
 little sister&."
 
 Y&, you probably don't have any idea what I'm saying&, but I don't get
-how it happened&, either&.&.&.&.
+how it happened&, either&.&.&.
 
 {	MusicStart("@SE*", 500, 0, 0, 0, null, false);
 	Wait(500);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300260na">
+<voice name="七海" class="七海" src="voice/ch02/04300260na">
 "Bro? What're you mumbling about?"
 
 {	Wait(500);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300270ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300270ta">
+"&.&.&.&.&.&.&."
 
 {	MusicStart("@CH08", 0, 1000, 0, 1000, null, true);
 	Wait(1000);
@@ -987,17 +987,17 @@ how it happened&, either&.&.&.&.
 	FadeStand("bu七海_制服_通常_normal", 500, true);
 	Wait(500);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300280na">
+<voice name="七海" class="七海" src="voice/ch02/04300280na">
 "C'mon&, more importantly&, I'm asking you what you think of this
 model&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300290ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300290ta">
+"&.&.&.&.&.&.&."
 
-I wanna hurry up and go home&.&.&.&. 
+I wanna hurry up and go home&.&.&.
 How many times would it take before my stupid sister finally got the
-fact that I didn't even need a cell phone in the first place? 
+fact that I didn't even need a cell phone in the first place?
 
 When I got to school today&, Nanami came all the way to my classroom
 to ambush me&. After insulting me with&, "It's so rare for you to be
@@ -1005,15 +1005,15 @@ at school!" she ordered me to come buy a cell phone for sure this
 time&.
 
 Once the school day ended&, I made an attempt to run away before she
-found me&, but I'd forgotten how fast she was&. 
+found me&, but I'd forgotten how fast she was&.
 
 And so&, our game of tag came to a swift end when she caught me and
-took me with her to the plaza by the train station&. 
+took me with her to the plaza by the train station&.
 
 I didn't really want to come to the plaza&. I never did&.
-Even now&, nausea had already begun to surge up inside me&. 
+Even now&, nausea had already begun to surge up inside me&.
 
-Without any idea of how I felt&, Nanami picked up a bunch of sample 
+Without any idea of how I felt&, Nanami picked up a bunch of sample
 models from the display at the front of the store and grunted to
 herself as she looked at them&.
 
@@ -1024,29 +1024,29 @@ thought to the matter of buying a phone for me&.
 	FadeStand("bu七海_制服_通常_smile", 300, true);
 	DeleteStand("bu七海_制服_通常_normal", 0, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300300na">
-"This is a pretty cute color&, huh? I think it's nice&." 
+<voice name="七海" class="七海" src="voice/ch02/04300300na">
+"This is a pretty cute color&, huh? I think it's nice&."
 
 Naturally&, because she was seeking my opinion&, I answered her&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300310ta">
-"I'm fine&.&.&.&. with it&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300310ta">
+"I'm fine&.&.&. with it&.&.&."
 
 {	Stand("bu七海_制服_通常","pride", 200, @100);
 	FadeStand("bu七海_制服_通常_pride", 300, true);
 	DeleteStand("bu七海_制服_通常_smile", 0, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300320na">
+<voice name="七海" class="七海" src="voice/ch02/04300320na">
 "Hmm&, but you know&, it might be a tad too cute for you&. It wouldn't
 suit you&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300330ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300330ta">
+"&.&.&.&.&.&.&."
 
-Nevermind the fact that I'd said I was okay with it&. 
-I no longer had any idea how many times I'd told her "That's fine&." 
+Nevermind the fact that I'd said I was okay with it&.
+I no longer had any idea how many times I'd told her "That's fine&."
 
 Despite the fact that she asked my opinion&, she had no intention of
 actually listening to me&. This is why 3-D girls are the absolute
@@ -1065,25 +1065,25 @@ worst&.
 [text019]
 //◆心配そう
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300340na">
-"You okay? Is the number of people getting to you&.&.&.&.?"
+<voice name="七海" class="七海" src="voice/ch02/04300340na">
+"You okay? Is the number of people getting to you&.&.&.?"
 
 //◆心配そう
 //◆マクディ＝マクドナルド
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300350na">
-"Wanna take a break at McD's?" 
+<voice name="七海" class="七海" src="voice/ch02/04300350na">
+"Wanna take a break at McD's?"
 
 McD's&, you say!?
 You're telling me to enter that delinquent-salon fast food shop!? That
-itself would be hell! 
+itself would be hell!
 I shook my head fiercely&.
 
 {	Stand("bu七海_制服_通常","smile", 200, @100);
 	FadeStand("bu七海_制服_通常_smile", 300, true);
 	DeleteStand("bu七海_制服_通常_shock", 0, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300360na">
+<voice name="七海" class="七海" src="voice/ch02/04300360na">
 "Got it&. Then let's pick one as fast as possible&. But I'm still a
 little torn&, see&."
 
@@ -1112,41 +1112,41 @@ secretly snuck away&.
 <PRE box00>
 [text020]
 As I started to head for the Shibuya 107 building&, I caught sight of
-a bizarre spectacle and unthinkingly stopped moving&. 
+a bizarre spectacle and unthinkingly stopped moving&.
 
-What's that&.&.&.&.?
+What's that&.&.&.?
 
 //ＣＧ//ディソードを持って人混みの中にたたずむセナ
 //おがみ：画像ないのでそのまま
 {	Move("背景２", 2000, @0, @-300, AxlDxl, true);
 	Wait(500);}
-Beyond the waves of people&. 
+Beyond the waves of people&.
 A remarkably conspicuous girl was standing on the steps up to 107&.
 
 {	Fade("１０７追加", 1000, 1000, null, true);}
 //※剣は青く発光しています
 //※リアルブート前（ギガロマニアックスにしか見えない状態）→青く発光、リアルブート後（一般人にも見える状態）→赤く発光
-The thing she held in her hand&.&.&.&.&. was&.&.&.&. a sword? 
+The thing she held in her hand&.&.&.&. was&.&.&. a sword?
 Somehow&, in both its color scheme and atmosphere&, it resembled the
-mic stand FES had used during her performance&. 
+mic stand FES had used during her performance&.
 
 In fact&, it'd be appropriate to think of them as being part of the
-same series&. 
+same series&.
 
 At any rate&, it was a humongous sword&.
-It might have been even longer than the one FES had&. 
+It might have been even longer than the one FES had&.
 
-Surprisingly&, the girl with the sword was wearing a Suimei uniform&. 
+Surprisingly&, the girl with the sword was wearing a Suimei uniform&.
 
 From this distance&, I couldn't tell what her face was like or
 anything&, but even though she stood out so much&, she watched the
-people walking along the road below with an air of composure&. 
+people walking along the road below with an air of composure&.
 
-That must've taken a hell of a lot of courage&. 
-I seriously had to give her mad props&. 
+That must've taken a hell of a lot of courage&.
+I seriously had to give her mad props&.
 
 Walking around the middle of Shibuya&, carrying a toy sword&. What was
-this&, some kind of BDSM play? 
+this&, some kind of BDSM play?
 
 I wondered if that sword was a cosplay prop from some new anime or
 whatever&. Although I'd technically taken a look at all the recently
@@ -1155,15 +1155,15 @@ showed up? Was there a show I'd forgotten to watch?
 
 I certainly would've found it impossible to make myself carry that
 sword while walking around Shibuya&, but it was a damn cool model&. I
-kind of wanted one for myself&. 
+kind of wanted one for myself&.
 
-Maybe I'd find it being sold in Akiba&. 
+Maybe I'd find it being sold in Akiba&.
 Or would it be available online?
 
 {	SoundPlay("SE*", 200, 0, false);
 	MusicStart("@CH*", 200, 0, 0, 0, null, false);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300370na">
+<voice name="七海" class="七海" src="voice/ch02/04300370na">
 "Bro!"
 
 {	Delete("背景２");
@@ -1199,30 +1199,30 @@ When I turned around&, Nanami stood there imposingly with a furious
 look on her face&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300380na">
+<voice name="七海" class="七海" src="voice/ch02/04300380na">
 "Were you trying to escape?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300390ta">
-"Uh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300390ta">
+"Uh&.&.&."
 
 {	Stand("bu七海_制服_拗ね","angry", 200, @100);
 	FadeStand("bu七海_制服_拗ね_angry", 500, false);
 	DeleteStand("bu七海_制服_通常_angry", 500, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300400na">
-"Well&, it really took me so long to pick one&, but&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch02/04300400na">
+"Well&, it really took me so long to pick one&, but&.&.&."
 
 {	Stand("bu七海_制服_拗ね","sad", 200, @100);
 	FadeStand("bu七海_制服_拗ね_sad", 300, true);
 	DeleteStand("bu七海_制服_拗ね_angry", 0, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300410na">
+<voice name="七海" class="七海" src="voice/ch02/04300410na">
 "It's still awful of you to leave me behind and run away!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300420ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300420ta">
+"&.&.&.&.&.&.&."
 
 For the time being&, I shook my head&.
 
@@ -1230,28 +1230,28 @@ For the time being&, I shook my head&.
 	FadeStand("bu七海_制服_キレ_mad", 500, false);
 	DeleteStand("bu七海_制服_拗ね_sad", 500, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300430na">
-{#TIPS_電磁波 = true;}"You dummy! Get overexposed to <FONTincolor="#88abda" outcolor="BLACK">electromagnetic waves</FONT> 
+<voice name="七海" class="七海" src="voice/ch02/04300430na">
+{#TIPS_電磁波 = true;}"You dummy! Get overexposed to <FONTincolor="#88abda" outcolor="BLACK">electromagnetic waves</FONT>
 from your cell phone and ruin your kidneys and die!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300440ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300440ta">
+"&.&.&.&.&.&.&."
 
-I don't get what you mean&.&.&.&.
+I don't get what you mean&.&.&.
 
 {	Stand("bu七海_制服_拗ね","sad", 200, @100);
 	FadeStand("bu七海_制服_拗ね_sad", 500, false);
 	DeleteStand("bu七海_制服_キレ_mad", 500, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300450na">
+<voice name="七海" class="七海" src="voice/ch02/04300450na">
 "I'm the idiot for trying my hardest to pick one out for you&."
 
 {	Stand("bu七海_制服_通常","angry", 200, @100);
 	FadeStand("bu七海_制服_通常_angry", 500, false);
 	DeleteStand("bu七海_制服_拗ね_sad", 500, true);}
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300460na">
+<voice name="七海" class="七海" src="voice/ch02/04300460na">
 "If it's gonna be like this&, I'll just pick whatever! The same model
 as me ought to be plenty for you!"
 
@@ -1261,20 +1261,20 @@ as me ought to be plenty for you!"
 Nanami grabbed my arm forcibly&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300470na">
+<voice name="七海" class="七海" src="voice/ch02/04300470na">
 "We're seriously gonna get you on a plan today&, okay! I'm
 deeeefinitely not gonna let you run away till then!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04300480ta">
-"I&, I know&.&.&.&. Let go&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04300480ta">
+"I&, I know&.&.&. Let go&.&.&."
 
 //【七海】
-<voice name="七海" class="七海" src="ch02/04300490na">
+<voice name="七海" class="七海" src="voice/ch02/04300490na">
 "If you get it&, then chop to it&. Come with me&."
 
 I was completely clueless as to why Nanami had gotten so angry&. God&,
-what an aggravating sister&.&.&.&.
+what an aggravating sister&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

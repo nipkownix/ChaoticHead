@@ -109,13 +109,13 @@ She looked intimidating&, but in much the same way as many tsundere
 characters&,
 Perhaps she was actually a decent person on the inside&.
 
-That seemed like an overly convenient train of thought&.&.&.&.
+That seemed like an overly convenient train of thought&.&.&.
 
 But she wouldn't kill me out of the blue just for going on inside&.
 That&, at least&, was certain&.
 
 Because this was smack dab in the middle of Shibuya&. The statue of
-Hachiko was right in front of us&. 
+Hachiko was right in front of us&.
 
 There were a lot of people all around us&.
 It'd be downright suicidal of Sena to kill me in broad daylight&.
@@ -167,7 +167,7 @@ I was doing exactly as she wanted&.
 Like a moth to the flame&.
 Like a fly tangled in a spider's web&.
 
-This was no good&.&.&.&.
+This was no good&.&.&.
 What did I mean to do by going to my death of my own accord?
 I should run away&. It would be best to run away&.
 
@@ -188,7 +188,7 @@ instantaneously&.
 She had been lying in wait for me here&.
 She was scheming something&.
 
-Run away&, run right now&.&.&.&.!
+Run away&, run right now&.&.&.!
 
 I spun on my heel to go back outside&.
 
@@ -203,8 +203,8 @@ I spun on my heel to go back outside&.
 <PRE box00>
 [text003]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100010ta">
-"Wha&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100010ta">
+"Wha&.&.&."
 
 At some point&, the door at the entrance had "closed"&.&.&.
 
@@ -212,7 +212,7 @@ I'd come in through it a few moments ago&.
 Only a few seconds had passed since then&.
 Yet&.&.&.
 
-Soundlessly&, 
+Soundlessly&,
 Undetectably&,
 Even pitilessly&, the door had shut&.
 
@@ -259,28 +259,28 @@ A whole range of negative fantasies swirled around in my head&, until
 I was on the brink of screaming&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100020sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100020sn">
 "How long&.&.&."
 
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev036_01_2_セナ白い鎖_a.jpg");}
 Still glaring at me&, Sena spoke again&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100030sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100030sn">
 "&.&.&. do you plan on standing there?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100040ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100040ta">
+"&.&.&.&.&.&.&."
 
 I had nowhere to run&.
 My legs were shaking&.
 
-If I made a scen<pre>e</pre>&, the people outside might notice&, but Sena would
-surely beat me to a pulp before I got away&.
+If I made a scen<pre>e</pre>&, the people outside might notice&, but
+Sena would surely beat me to a pulp before I got away&.
 
 For the time being&, it would be best to do as she said without
-resisting&.&.&.&.
+resisting&.&.&.
 
 I resigned myself and went to stand before her&.
 
@@ -322,7 +322,7 @@ a struggle for me to talk one-on-one with a 3-D girl&.
 I didn't want to get involved with her&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100050sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100050sn">
 "I'm telling you to enter&."
 
 Sena's attitude brooked no room for disagreement&.
@@ -334,7 +334,7 @@ Maybe she was actually quite the delinquent&.
 She seemed like she wouldn't have any problem using violence against a
 guy&.
 
-She freaked me out&.&.&.&.
+She freaked me out&.&.&.
 
 But if I showed her even the littlest hint of docility&, she'd keep
 pushing the envelope&.
@@ -347,7 +347,7 @@ In such situations&, the best thing to do is to run away&.
 Whether you try to fight back against them or go along with them&,
 they'll end up doing horrible things to you eventually&, and if that's
 going to be the case no matter what&, the best strategy is to flee&.
-I'd have to find some kind of gap--
+I'd have to find some kind of gap―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -363,7 +363,7 @@ I'd have to find some kind of gap--
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100060ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100060ta">
 "!?"
 
 Suddenly&, something from behind sent me flying&.
@@ -383,7 +383,7 @@ Maybe they're already gotten away&.
 Why'd they have to shove me down?
 
 //↓セナに妄想をハックされた通行人の仕業です
-Who would do something so awful&.&.&.&.?
+Who would do something so awful&.&.&.?
 
 I must've hit my knee when I tumbled over; it hurt a bit&.
 
@@ -410,8 +410,8 @@ Careful not to meet Sena's gaze&, I swayed to my feet&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100070ta">
-"Hu&.&.&.&. h&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100070ta">
+"Hu&.&.&. h&.&.&.?"
 
 I suddenly noticed&.
 
@@ -426,14 +426,14 @@ For starters&, where would she able to move it?
 I didn't spot the chain anywhere in the compartment&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100080sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100080sn">
 "Where was the error?"
 
 Utterly disregarding my confusion&, Sena asked me another
 incomprehensible question&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100090sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100090sn">
 "Isn't that why you tailed me?"
 
 {	Stand("buセナ_制服_食事","sigh", 200, @+200);
@@ -468,25 +468,25 @@ found myself unable to act on what I wanted&.
 <PRE box00>
 [text008]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100100sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100100sn">
 "Who are you?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100110sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100110sn">
 "It seems like 'you can see&.'"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100120ta">
-"Hah&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100120ta">
+"Hah&.&.&.?"
 
 Sena cast a brief look at me before jerking her chin at the view
 beyond the window&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100130sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100130sn">
 "What do you see outside this window?"
 
-Outside the window&.&.&.&.
+Outside the window&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -512,9 +512,9 @@ Merely looking at them made my head threaten to start aching&.
 
 People hunched over&, fiddling with their cell phones; people wearing
 smiles as they talked on the phone; people gazing blankly at the flow
-of the crowd&.&.&.&. 
+of the crowd&.&.&.
 
-Most of the those I could see from the window were standing still&, 
+Most of the those I could see from the window were standing still&,
 since they were waiting to meet with someone or other&.
 
 </PRE>
@@ -580,16 +580,16 @@ were coming in this streetcar?
 <PRE box00>
 [text012]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100140sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100140sn">
 "Do you think a perfect world lies out there?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100150sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100150sn">
 "Of course not&. Errors definitely exist&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100160sn">
-"Because all things&.&.&.&. people included&, are electronic
+<voice name="セナ" class="セナ" src="voice/ch04/08100160sn">
+"Because all things&.&.&. people included&, are electronic
 devices&."
 
 </PRE>
@@ -633,9 +633,9 @@ That's why you shouldn't make fools out of those kinds of absurdly
 big-thinking people&.
 All the powers that be have followed that same path&.
 
-Except&.&.&.&. The problem was&, why had this girl abruptly started
+Except&.&.&. The problem was&, why had this girl abruptly started
 revealing her sweeping&, philosophical and ever so typically teenage
-thoughts to me&.&.&.&.
+thoughts to me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -652,17 +652,17 @@ thoughts to me&.&.&.&.
 <PRE box00>
 [text014]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100170sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100170sn">
 "It's not a question of what you see&. It's what you're being shown&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100180sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100180sn">
 "People's bodies obtain information from outside via their five
 senses&, but about 80% of the information they receive comes in
 through their vision&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100190sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100190sn">
 "And the images they acquire via their sight become electrical action
 potentials&, travel through their nerves and are sent to their
 brain&."
@@ -673,12 +673,12 @@ Telephones convert one's voice to electric signals and carry that
 information to distant places&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100200sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100200sn">
 "Phone? I can't say they aren't similar&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100210ta">
-"&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100210ta">
+"&.&.&."
 
 She'd read my mind!?
 
@@ -694,38 +694,38 @@ Had I once again been muttering to myself without knowing it?
 [text015]
 //◆「ブイアール」
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100220sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100220sn">
 "Are you familiar with VR technology?"
 
-Virtual Reality&.&.&.&.?
+Virtual Reality&.&.&.?
 
 Of course&, I didn't actually put my answer into words&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100230sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100230sn">
 "Visual Rebuilding&."
 
-Huh&, I'd been wrong&.&.&.&.
+Huh&, I'd been wrong&.&.&.
 I'd never heard of that before&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100240sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100240sn">
 "It's a type of technology being researched by American physiological
 psychologists&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100250sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100250sn">
 "People who have been blind since birth can be made capable of
-properly seeing the scen<pre>e</pre>ry before them&. With the intervention of a
-filming device similar to a video camera&."
+properly seeing the scen<pre>e</pre>ry before them&. With the intervention
+of a filming device similar to a video camera&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100260sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100260sn">
 "You look as though you're wondering how&. But the mechanism is
 simple&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100270sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100270sn">
 {#TIPS_神経パルス = true;}"What it boils down to is that the film
 captured by a video camera&, as well as the pulses of <FONT
 incolor="#88abda" outcolor="BLACK">action potential</FONT>
@@ -733,16 +733,16 @@ that flow
 through your brain&, are both composed of electrical signals&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100280sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100280sn">
 "In short&, all you need is a technology capable of converting it into
 neural action potentials&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100290sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100290sn">
 "It's already succeeded in actual tests&. A certain team of
 researchers has finished obtaining a patent for it&."
 
-A patent&.&.&.&.
+A patent&.&.&.
 Are you serious?
 
 I thought her fantasy was rather well developed&, right down to the
@@ -757,7 +757,7 @@ introduce some impossibilities?
 <PRE box00>
 [text016]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100300sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100300sn">
 "There is something one can infer from that patent&."
 
 {	Stand("buセナ_制服_通常","hard", 200, @+200);
@@ -769,38 +769,38 @@ back in my direction&.
 She slowly re-crossed her legs&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100310sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100310sn">
 "If it's possible to deliberately convert certain information to
-neural pulses--"
+neural pulses―"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100320sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100320sn">
 "Would not it also be possible to control all of people's five
 senses&, as well as&, their free will itself?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08100330ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08100330ta">
+"&.&.&.&.&.&.&."
 
 Though Shibuya Station was right there before my eyes&, the inside of
 the streetcar was peculiarly quiet&. It felt as if all sound were
 being blocked out&.
 
-It was an illusion&, of course&.&.&.&. But I couldn't help remembering
+It was an illusion&, of course&.&.&. But I couldn't help remembering
 my delusion of "an empty Shibuya" from several days earlier&, and I
 couldn't take my eyes off the crowd moving outside the window&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100340sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100340sn">
 "As I said before&, human beings are electronic devices&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100350sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100350sn">
 "Electricity travels not merely through their brains&, but also
 through all the nerves stretching throughout their bodies&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100360sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100360sn">
 "In other words&, one could even manipulate their physical movements&.
 Theoretically&, that is&."
 
@@ -811,7 +811,7 @@ Theoretically&, that is&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-This girl&.&.&.&.
+This girl&.&.&.
 
 She dumbfounded me&.
 
@@ -821,22 +821,22 @@ What she said sounded kind of logical&, but wasn't it obviously made
 up?
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100370sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100370sn">
 "In reality&, the team of researchers that obtained the patent are
 shifting the contents of their research in that very direction&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100380sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100380sn">
 "Said contents were perceived as being too dangerous&, so much so that
 the American president sent down a governmental order to halt them&."
 
 How much of what she was saying was real?
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100390sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100390sn">
 "It forbade them to carry out secret research on human subjects
 without the consent of the government&. The same goes for supporting
-their efforts&.&.&.&. so it said&."
+their efforts&.&.&. so it said&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -857,16 +857,16 @@ their efforts&.&.&.&. so it said&."
 Looking down&, Sena clenched the hand she left resting upon her knee&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100400sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100400sn">
 "But the world is full with corrupted bastards&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100410sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100410sn">
 "The kind who can ignore morality&, sacrificing other people for the
 sake of their own gain&, all without batting an eyelash&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100420sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100420sn">
 "It makes me sick&."
 
 {	Stand("buセナ_制服_食事棒","sigh", 200, @+150);
@@ -877,16 +877,16 @@ melting Crunchy-kun in her mouth and abruptly rose to her feet&.
 I unthinkingly scooted back&, but the wall was close behind me&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100430sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100430sn">
 "Ignorance is a sin&. There are people who say&, 'There are some
 things you'll be happier not knowing&,' but that's simply naive&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100440sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100440sn">
 "Doubt the world&. Know how it operates&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100450sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08100450sn">
 "This world is not perfect&."
 
 She turned in my direction&.
@@ -896,11 +896,11 @@ I started to cover my face with my arms&, thinking she'd hit me&, but
 Sena slipped past my side without doing anything&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08100460sn">
-"--Is the view you see the real thing?"
+<voice name="セナ" class="セナ" src="voice/ch04/08100460sn">
+"―Is the view you see the real thing?"
 
 Muttering that without looking at me&, right as she was on the verge
-of passing me--
+of passing me―
 
 She vanished from the train on her own&.
 

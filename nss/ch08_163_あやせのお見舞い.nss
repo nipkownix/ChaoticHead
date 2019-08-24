@@ -50,8 +50,8 @@ function ch08_163_‚ ‚â‚¹‚Ì‚¨Œ©•‘‚¢()
 <PRE box00>
 [text001]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16300010ta">
-"Haa&.&.&.&. haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16300010ta">
+"Haa&.&.&. haa&.&.&."
 
 The inside of my head clouded with fog&, interrupting my thoughts&,
 I left the nurses' station and wandered the hospital interior&.
@@ -63,7 +63,7 @@ standing in front of the window there&, looking outside&.
 {	Stand("st‘å•ã_§•_’Êí","shock", 250, @210);
 	FadeStand("st‘å•ã_§•_’Êí_shock", 200, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300020mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300020mi">
 "What's up&, Taku? You're soaked in sweat&. And you're white as a
 sheet&."
 
@@ -71,17 +71,17 @@ sheet&."
 	FadeStand("st‘å•ã_§•_’Êí_normal", 200, true);
 	DeleteStand("st‘å•ã_§•_’Êí_shock", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300030mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300030mi">
 "Ah&, I guess you're always pretty pale&, though&. Haha&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300040mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300040mi">
 "Were you running around looking for Rimi?
 Well&, that'll do ya in&. Don't you go overboard&, now&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16300050ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16300050ta">
+"&.&.&.&.&.&.&."
 
 Wiping my sweat with my hand&, I made a frenetic effort to appear
 calm&.
@@ -90,14 +90,14 @@ calm&.
 	FadeStand("st‘å•ã_§•_’Êí_pride", 200, true);
 	DeleteStand("st‘å•ã_§•_’Êí_normal", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300060mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300060mi">
 "I found Rimi and Kishimoto&, dude&."
 
-So he said&, but I didn't see them anywhere around here&. 
+So he said&, but I didn't see them anywhere around here&.
 As I looked&, he inexplicably pointed outside the window&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300070mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300070mi">
 "There&."
 
 </PRE>
@@ -126,17 +126,17 @@ Rimi and a pajama-clad Ayase stood facing each other in the very
 center of the garden&. It seemed as if they were talking about
 something&.
 
-The two of them&.&.&.&. weren't supposed to have been acquainted&.
+The two of them&.&.&. weren't supposed to have been acquainted&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300080mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300080mi">
 "Don't they look weirdly serious&, somehow?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16300090ta">
-"Ye&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16300090ta">
+"Ye&, yeah&.&.&."
 
-Almost as if they were glaring at one another--
+Almost as if they were glaring at one another\
 
 Ayase took one step closer to Rimi&,
 {	Wait(500);
@@ -156,12 +156,12 @@ room&.
 	FadeStand("st‘å•ã_§•_’Êí_shock", 500, true);}
 //Ÿ•ğ‘R
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300100mi">
-"&.&.&.&.&.&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch08/16300100mi">
+"&.&.&.&.&.&.&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300110mi">
-"Was that&.&.&.&. a bitch-slap?" 
+<voice name="OZ" class="OZ" src="voice/ch08/16300110mi">
+"Was that&.&.&. a bitch-slap?"
 
 I nodded jerkily&.
 Rimi&, left alone there&, stood in place without moving&.
@@ -170,10 +170,10 @@ Rimi&, left alone there&, stood in place without moving&.
 	FadeStand("st‘å•ã_§•_’Êí_sigh", 200, true);
 	DeleteStand("st‘å•ã_§•_’Êí_shock", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300120mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300120mi">
 "Is there some kinda grudge between them?"
 
-I hadn't heard about anything of the sort&.&.&.&.
+I hadn't heard about anything of the sort&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -200,8 +200,8 @@ The presence of "God's gaze&," too&, had vanished&.
 That sickly feeling of mine began to seem like it hadn't been true&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300130mi">
-"Oh&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch08/16300130mi">
+"Oh&.&.&."
 
 Misumi-kun&, walking ahead of me&, let out a small sound&.
 
@@ -215,13 +215,13 @@ she wore a bleak expression&.
 Ayase ended up bumping heads with us right in front of her room&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300140mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300140mi">
 "Yo&, Kishimoto-san&."
 
 {	Stand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","shock", 250, @-200);
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shock", 300, true);}
 Ayase lifted her face with a gasp at Misumi-kun's greeting&, with his
-breeziness turned on full blast--
+breeziness turned on full blast\
 
 {	Stand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","smile", 250, @-200);
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_smile", 300, true);
@@ -235,7 +235,7 @@ Why was she smiling now?
 Because she'd heard about the disturbance at O-Front and knew of how
 I'd shamed myself? Or because she had simply taken a liking to me?
 
-The former would be devastatingly depressing&.&.&.&.
+The former would be devastatingly depressing&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -248,12 +248,12 @@ The former would be devastatingly depressing&.&.&.&.
 <PRE box00>
 [text004]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300150mi">
-"We've come to visit you--"
+<voice name="OZ" class="OZ" src="voice/ch08/16300150mi">
+"We've come to visit you\"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300160mi">
-"--Rather&, Kishimoto-san&, you're c<pre>u</pre>te even in pajamas&."
+<voice name="OZ" class="OZ" src="voice/ch08/16300160mi">
+"\Rather&, Kishimoto-san&, you're c<pre>u</pre>te even in pajamas&."
 
 He'd already activated his verbal playboy skills&.
 What a fast reaction&.
@@ -262,7 +262,7 @@ What a fast reaction&.
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 300, true);}
 //Ÿ—D‚µ‚­
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300170ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300170ay">
 "Come in&."
 
 {	DeleteStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 500, true);}
@@ -281,14 +281,14 @@ As usual&, I couldn't read what she was thinking&.
 	DeleteStand("st‘å•ã_§•_’Êí_smile", 0, false);}
 //Ÿ¬º
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300180mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300180mi">
 "Taku&, we sure were right to visit her at the hospital&. I'm feeling
 pretty good about my chances today!"
 
 Misumi-kun struck a small victory pose out of Ayase's sight&.
 Breathing violently through his nose&, he charged into the hospital
 room&. I reluctantly trailed after&. Truthfully&, I wanted to hurry up
-and go home with Rimi&, but&.&.&.&.
+and go home with Rimi&, but&.&.&.
 
 Then again&, I wasn't brave enough to call out to Rimi now&.
 
@@ -341,32 +341,32 @@ face to make in response&. In the end&, I hung my head&.
 {	Stand("bu‘å•ã_§•_’Êí","smile", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 200, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300190mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300190mi">
 "How're your injuries? Looks like you've mostly gotten better&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300200mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300200mi">
 "If you need anything&, don't hesitate to ask&. I'll go running to buy
 it for you&."
 
 He focused intently on Ayase's hand&.
 It seemed like he was scheming to hold her lithe and slender hand&.
 
-Ummm&, would it be okay for me to leave&, I wonder&.&.&.&.
+Ummm&, would it be okay for me to leave&, I wonder&.&.&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300210mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300210mi">
 "Ah&, do you read novels and stuff? Personally&, I love the Gladioul
 Saga&. Have you heard of it&, Kishimoto-san?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300220ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300220ay">
 "Takumi&."
 
 Without answering Misumi-kun's inquiry&, Ayase called my name&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300230ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300230ay">
 "You are one of the seven knights of Gladioul&."
 
 </PRE>
@@ -384,20 +384,20 @@ Without answering Misumi-kun's inquiry&, Ayase called my name&.
 <PRE box00>
 [text006]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300240mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16300240mi">
 "Ha?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16300250ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16300250ta">
+"Eh&.&.&."
 
-Sh&, she'd gone occult on me all of a sudden&.&.&.&.
+Sh&, she'd gone occult on me all of a sudden&.&.&.
 I guess even the ruckus over her failed suicide attempt wasn't enough
 to change her fundamental nature&.
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300260ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300260ay">
 "We were indeed meant to meet&."
 
 Quietly&.
@@ -411,79 +411,79 @@ student's rebellious fantasy&.
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300270ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300270ay">
 "The wickedness in you is tremendously powerful&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300280ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300280ay">
 "Which is precisely why you have the makings of an ideal black
 knight&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300290ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300290ay">
 "All the suffering you are now experiencing is a divine punishment&.
 A trial sent down by the Great Will&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300300ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300300ay">
 "When you overcome it&, your Di-Sword will be summoned to your hand&.
 Without fail&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300310ay">
-"And it shall appear--"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300310ay">
+"And it shall appear\"
 
 //‘åÖ‚¾‚¢‚¶‚á
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300320ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300320ay">
 "The evil-hearted black serpent&. The same as us&, yet different&, it
 swallows all manner of destruction and can smite the body of the evil
 king&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300330ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300330ay">
 "They're real&. Both Gladioul and Di-Swords&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300340ay">
-"'Kamaitachi'--the Japanese word for razor-sharp wind spirits--stands
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300340ay">
+"'Kamaitachi'\the Japanese word for razor-sharp wind spirits\stands
 as proof&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300350ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300350ay">
 "Nonexistent phenomena don't remain as words in posterity&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300360ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300360ay">
 "Do you know its etymology?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300370ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300370ay">
 "'Kamaetachi&.' A brandished sword&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300380ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300380ay">
 "It means our Di-Swords&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300390ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300390ay">
 "Believe me&. Takumi&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16300400ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16300400ay">
 "We'll defeat Gladioul&. Together&."
 
 {	SetTrigger("‚R‚V");}
-Gladioul&.&.&.&.
+Gladioul&.&.&.
 I remember now&.
 
 I'd seen it when I first looked up Di-Swords&. It had said the
 Di-Sword was a sword that originally appeared in pseudepigrapha and
-other forms of literature discussing the legend of Gladioul&.&.&.&.
+other forms of literature discussing the legend of Gladioul&.&.&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16300410mi">
-"&.&.&.&.&.&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch08/16300410mi">
+"&.&.&.&.&.&.&."
 
 Misumi-kun quietly stood up and walked over in my direction&.
 

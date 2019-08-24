@@ -40,19 +40,23 @@ function ch05_094_１０月２２日水()
 //↑第２章で使ったものを流用
 //１０月２２日（水）//日付は表示しない
 
-	CreateMovie("章イン", 25000, 0, 0, false, true, "dx/mvD.ngs");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch05.png");
+	Fade("アイキャッチ１", 10, 1000, null, true);
 
-	Request("章イン", Lock);
-	WaitAction("章イン", 3200);
+	WaitKey(3200);
+	IntermissionCard1();
+	
 	Delete("*");
 
-	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
-	Fade("back04", 1000, 1000, null, true);
-	
-	Request("章イン", UnLock);
-	WaitAction("章イン", null);
+	CreateMovie("インターミッションムービー２", 25002, 0, 0, false, true, "dx/mvEyecatch02.ngs");
+	Request("インターミッションムービー２", Lock);
 
-	Delete("章イン");
+	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
+	Fade("back04", 1900, 1000, null, true);
+
+	WaitPlay("インターミッションムービー２", null);
+	Request("インターミッションムービー２", UnLock);
+	Delete("インターミッションムービー２");
 
 	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	MusicStart("SE01", 500, 1000, 0, 1000, null, true);
@@ -94,7 +98,7 @@ committed by the same murderer&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42 
+<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42
 <FONT incolor="#0000ff"><U>ID:</U></FONT>WbOw0ibQ0
 The guy who put it on MewTube has to be the perp
 Awesome stuff&, whose eyes are (etc)
@@ -107,7 +111,7 @@ Awesome stuff&, whose eyes are (etc)
 <PRE @box03>
 [text903]
 <FONT incolor="#0000ff"><U>125</U></FONT> Name: <FONT incolor="#228b22">Night Guard （Hyogo）</FONT>［age］：200X/10/22(W) 20:39:47 <FONT incolor="#0000ff"><U>ID:</U></FONT>HHn4LeUp0
-Alrighty&, I'll report it to--uwah&, whose eyes are asdfadsghsfhhjk
+Alrighty&, I'll report it to―uwah&, whose eyes are asdfadsghsfhhjk
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -121,7 +125,7 @@ Alrighty&, I'll report it to--uwah&, whose eyes are asdfadsghsfhhjk
 The message of Vampire was "Whose eyes are (etc)&."
 That makes a connection between the first and last New-Gen cases&.
 Even though everyone used to say they weren't related&.
-So we can add in the pregnant man and the staking&, too&.&.&.&.
+So we can add in the pregnant man and the staking&, too&.&.&.
 　
 Crap&, getting way too excited about this
 　
@@ -132,7 +136,7 @@ Crap&, getting way too excited about this
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22 
+<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22
 <FONT incolor="#0000ff"><U>ID:</U></FONT>/pkGqtA8
 <PRE>|д<◎>)&.｡oO</PRE>(Whose eyes are those eyes?)
 　
@@ -251,7 +255,7 @@ Get a hold of yourselves&. It's not that funny anymore
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text914]
-<FONT incolor="#0000ff"><U>136</U></FONT> Name: <FONT incolor="#228b22">Film festival participant （Inland Sea）</FONT>［age］：200X/10/22(W) 20:55:29 
+<FONT incolor="#0000ff"><U>136</U></FONT> Name: <FONT incolor="#228b22">Film festival participant （Inland Sea）</FONT>［age］：200X/10/22(W) 20:55:29
 <FONT incolor="#0000ff"><U>ID:</U></FONT>ecZZ4Itq0
 I live in Shibuya<FONT incolor="#0000ff"><U><PRE>>></PRE>131</U></FONT>*sob* haha
 <FONT incolor="#0000ff"><U><PRE>>></PRE>133</U></FONT>
@@ -288,9 +292,9 @@ Here it is!! The top story on MHK News!!!111!!
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text917]
-<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24 
+<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24
 <FONT incolor="#0000ff"><U>ID:</U></FONT>t11D9z5a0
-No declaration of responsibility from whose eyes (etc) yet--? 
+No declaration of responsibility from whose eyes (etc) yet-?
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -319,14 +323,14 @@ The TV reports were getting overheated as well&.
 //※東テレ＝テレビ東京のこと
 Like >>140 had mentioned&, all the big channels except Tokyo TV were
 broadcasting special programs&, and they aired the aforementioned
-video over and over&. 
+video over and over&.
 
 The special programming itself ended in about an hour&, but it was a
 minor shock for the country when that video got broadcast nationwide&.
 
-Although all of the stations voluntarily censored themselves&, c<pre>u</pre>tting
-off the last sce<pre>n</pre>e&, where the actual jumping took place&, it still
-had an astoundingly powerful impact&.
+Although all of the stations voluntarily censored themselves&,
+c<pre>u</pre>tting off the last sce<pre>n</pre>e&, where the actual jumping
+took place&, it still had an astoundingly powerful impact&.
 
 The drift of the debate on TV was by and large the same as online&,
 and people seem to have all but decided that the four New-Gen cases
@@ -351,7 +355,7 @@ incidents&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box10>
 [text004]
---Whose eyes are those eyes?
+―Whose eyes are those eyes?
 　
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -381,7 +385,7 @@ place over a month earlier&, had let the same words slip&.
 At present&, these words were known to have been used in the first and
 last of the four New-Gen incidents&.
 
-What that pointed to was&.&.&.&. as everyone thought&, the possibility
+What that pointed to was&.&.&. as everyone thought&, the possibility
 that the four incidents had been triggered by the same perpetrator&.
 
 The police held an emergency press conference&, where they announced
@@ -442,7 +446,7 @@ announcement&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
---The video of the "group diving" incident had been uploaded from the
+―The video of the "group diving" incident had been uploaded from the
 PC in Room 37 of a certain manga cafe&, which was located in the
 Shibuya area&.
 

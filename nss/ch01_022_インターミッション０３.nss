@@ -26,7 +26,7 @@ function ch01_022_インターミッション０３()
 	SystemInit();
 	SystemSet();
 
-//☆Cut-92-----------------------------
+//☆Cut-92――――――――――――――――――――――――――――――
 //■インターミッション０３
 
 //■アイキャッチIN
@@ -52,7 +52,7 @@ function ch01_022_インターミッション０３()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-It was going up in flames--
+It was going up in flames―
 
 Red tongues of flame danced inside the incinerator&.
 They were burning a sailor uniform and a number of textbooks&.
@@ -74,7 +74,7 @@ They were burning a sailor uniform and a number of textbooks&.
 	Move("梢", 10000, @-500, @0, null, false);
 	Fade("梢", 1000, 1000, null, true);}
 The house was located at the foot of the mountains&. From its garden&,
-one could look out across the inland sea&. 
+one could look out across the inland sea&.
 
 The sound of boats' steam whistles came faintly from afar&, and a
 refreshing&, salty breeze softly shook the trees just beyond the
@@ -82,7 +82,7 @@ house's eaves&.
 
 //おがみ：ルビ入力
 In the midst of that tranquil airflow&, only a small-statured young
-girl--only Orihara Kozue&, standing motionless in front of the 
+girl―only Orihara Kozue&, standing motionless in front of the
 incinerator&, bore about her a heavier atmosphere&.
 
 Fixed incessantly on the sailor uniform and textbooks transforming to
@@ -92,7 +92,7 @@ until just yesterday&.
 
 She made no effort to move from the spot&, as though she were
 reluctant to part with them&, despite the fact that she herself had
-set them on fire&.  
+set them on fire&.
 
 She abruptly knitted her eyebrows in anguish and covered her ears
 hard&.
@@ -111,22 +111,22 @@ hard&.
 [text003]
 //苦しげなブレス
 //【梢】
-<voice name="梢" class="梢" src="ch01/02200010ko">
-"&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch01/02200010ko">
+"&.&.&."
 
-Her mouth opened with difficulty&. 
+Her mouth opened with difficulty&.
 But nothing more happened&.
 
-Neither groaning nor complaining&, she simply breathed raggedly&. 
+Neither groaning nor complaining&, she simply breathed raggedly&.
 
-She shook her head over and over&, as if to push something away&. 
+She shook her head over and over&, as if to push something away&.
 
 Still covering her ears&, she gradually crumbled in place&. When her
 bottom hit the ground&, she moved her chin just a little&, as though
-exhausted&, and gazed expressionlessly up at the sky&. 
+exhausted&, and gazed expressionlessly up at the sky&.
 
 She remained in that position for several minutes without so much as
-twitching&. 
+twitching&.
 
 But with equal suddenness&, she turned about confidently&, as though
 she had heard someone's voice&.
@@ -144,46 +144,46 @@ she had heard someone's voice&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text503]
-Before her lay the house's veranda&. 
+Before her lay the house's veranda&.
 Though it was the middle of the day&, it was dim within the
 wood-constructed house&, over fifty-year-old house&, and she couldn't
-see much beyond the veranda&.  
+see much beyond the veranda&.
 
 Kozue shakily rose to her feet and walked up to the veranda&. Her
 mother appeared right then&, as though she had calculated the timing&.
 
 //【梢の母】
-<voice name="梢の母" class="梢の母" src="ch01/02200020km">
+<voice name="梢の母" class="梢の母" src="voice/ch01/02200020km">
 "Oh my&, Kozue-chan&. I was looking for you&. Is your luggage ready?"
 
 Kozue nodded and sat down lightly on the edge of the veranda&.
 
 //【梢の母】
-<voice name="梢の母" class="梢の母" src="ch01/02200030km">
-"The day after tomorrow&, we'll be saying goodbye to this house&." 
+<voice name="梢の母" class="梢の母" src="voice/ch01/02200030km">
+"The day after tomorrow&, we'll be saying goodbye to this house&."
 
 Standing next to her&, her mother cast a look at the serene inland
 sea&.
 
 //【梢の母】
-<voice name="梢の母" class="梢の母" src="ch01/02200040km">
+<voice name="梢の母" class="梢の母" src="voice/ch01/02200040km">
 "It's your first time going to a place like Tokyo&."
 
 //気遣うように
 //【梢の母】
-<voice name="梢の母" class="梢の母" src="ch01/02200050km">
-"&.&.&.&.It'll be wonderful if you make some nice friends&."
+<voice name="梢の母" class="梢の母" src="voice/ch01/02200050km">
+"&.&.&.It'll be wonderful if you make some nice friends&."
 
 //【梢】
-<voice name="梢" class="梢" src="ch01/02200060ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch01/02200060ko">
+"&.&.&.&.&.&.&."
 
 Kozue neither nodded nor shook her head in response to her mother's
-considerate words&. 
+considerate words&.
 
 Holding her silence&, she continued gazing desolately at the
 incinerator over in a corner of the garden&, which even now went on
-harboring its flames--
+harboring its flames―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

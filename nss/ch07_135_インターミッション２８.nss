@@ -34,7 +34,7 @@ function ch07_135_インターミッション２８()
 	Delete("*");
 //アイキャッチで読みづらいようであればアイキャッチ中ポーズします
 //イメージＭＶ//渋谷の街頭電光掲示板
-	CreateMovie("電光掲示板", 200, 0, 0, false, false, "dx/mv掲示板.ngs");
+	CreateMovie("電光掲示板", 200, 0, 0, false, false, "dx/mvBBS.ngs");
 //アイキャッチOUT
 
 	CreateSE("SE02","SE_日常_雑踏02");
@@ -68,28 +68,28 @@ function ch07_135_インターミッション２８()
 <PRE box00>
 [text001]
 //【キャスターＡ】
-<voice name="キャスターＡ" class="キャスターＡ" src="ch07/13500010ka">
+<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch07/13500010ka">
 "A bizarre female corpse was discovered by Shibuya River at 8 PM
 today&."
 
 //【キャスターＡ】
-<voice name="キャスターＡ" class="キャスターＡ" src="ch07/13500020ka">
+<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch07/13500020ka">
 "The victim is twenty-seven year old Tokachi Asami of the Edogawa
 district&, and the cause of death appears to be suffocation via
 blockage of the throat&."
 
 //【キャスターＡ】
-<voice name="キャスターＡ" class="キャスターＡ" src="ch07/13500030ka">
+<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch07/13500030ka">
 "According to the police investigation&, the muscles of the victim's
 right hand had been torn off&, exposing her bones&, and human flesh
 has been found among the contents of her stomach&."
 
 //【キャスターＡ】
-<voice name="キャスターＡ" class="キャスターＡ" src="ch07/13500040ka">
+<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch07/13500040ka">
 "This is seen as being indicative of the victim having bitten and
 devoured her own hand; additionally&, her ankles were bound with a
 cord&. The police are considering both the possibilities of suicide
-and homicide--"
+and homicide―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -151,7 +151,7 @@ explosive surge in theft&.
 
 The mass media frequently used the words "New Generation" to fan the
 flames of people's sense of danger and enclosure&, which in response
-led to phenomena like certain stores suddenly calling off business&. 
+led to phenomena like certain stores suddenly calling off business&.
 
 Additionally&, the demonstrators who had been marching under the
 banner of "Anti New-Gen" once per week suddenly caused a riot and
@@ -170,7 +170,7 @@ giving the police greater freedom to act&.
 
 The sixth New-Gen incident occurred as though to mock this chain of
 disturbances&.
-Naturally&, the culprit remained at large--
+Naturally&, the culprit remained at large―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

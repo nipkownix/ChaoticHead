@@ -51,33 +51,33 @@ function ch03_058_１０月１６日木()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-The next day&, I headed to the hospital first thing in the morning&. 
+The next day&, I headed to the hospital first thing in the morning&.
 
 I hadn't been able to confirm it the last time I came here&, but
-today&, I would definitely get them to tell me I was normal&. 
+today&, I would definitely get them to tell me I was normal&.
 
-Dr&. Takashina would remember me&. 
+Dr&. Takashina would remember me&.
 I'd reveal that I was "Nishijou&, your patient up until four years
-go&." 
-And I'd get to hear all kinds of things from him&. 
+go&."
+And I'd get to hear all kinds of things from him&.
 
-I wasn't the crazy one&. 
+I wasn't the crazy one&.
 The demon girl and Misumi-kun were&. The doctor would surely tell me
-so&. 
+so&.
 
 This hospital opened at eight in the morning&, somewhat earlier than
-regular hospitals&. 
+regular hospitals&.
 Which was why I had come exactly in time for opening hours&,
-but&.&.&.&. 
+but&.&.&.
 
-The sofas in the lobby were already filled with seated old people&. 
+The sofas in the lobby were already filled with seated old people&.
 
 Why!?
 
 Even though the hospital had barely opened for the day&, why were
 there so many people here!?
 It's unfair to get a head start! Come on time&, like you're supposed
-to! 
+to!
 
 Inwardly insulting them&, I had no option left but to wait&.
 
@@ -97,7 +97,7 @@ Inwardly insulting them&, I had no option left but to wait&.
 <PRE box00>
 [text002]
 After a hour of waiting&, I found myself regretting that I didn't made
-an appointment&. 
+an appointment&.
 
 But immediately afterward&, they called my name&, and I was relieved
 at the fact that I hadn't been forced to wait as long as last week&.
@@ -133,42 +133,42 @@ me to wasn't Dr&. Takashina&, but instead an unfamiliar&, white-haired
 old man&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05800010ta">
-"Um&.&.&.&. Ta&, Ta&.&.&.&. Where's Dr&. Takashina&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05800010ta">
+"Um&.&.&. Ta&, Ta&.&.&. Where's Dr&. Takashina&.&.&.?"
 
 Upon my growing perplexed&, the nurse standing in attendance behind
-him--what was her name again&.&.&.&. Hazuki-san--answered with an
+him―what was her name again&.&.&. Hazuki-san―answered with an
 apologetic expression&.
 
 {	Stand("st志乃_白衣_通常","worry", 200, @150);
 	FadeStand("st志乃_白衣_通常_worry", 500, true);}
 //【葉月】
-<voice name="葉月" class="葉月" src="ch03/05800020hd">
-"Dr&. Takashina isn't here anymore&.&.&.&." 
+<voice name="葉月" class="葉月" src="voice/ch03/05800020hd">
+"Dr&. Takashina isn't here anymore&.&.&."
 
-Not here anymore&.&.&.&.?
+Not here anymore&.&.&.?
 
 //◆精神科医＝５０代ぐらいの男性
 //【精神科医】
-<voice name="精神科医" class="精神科医" src="ch03/05800030ph">
-"Or rather&, last weekend&, he collapsed from fatigue&. 
+<voice name="精神科医" class="精神科医" src="voice/ch03/05800030ph">
+"Or rather&, last weekend&, he collapsed from fatigue&.
 As a result&, he's taking this week off&."
 
-What a nightmare&.&.&.&. My one and only ally&.&.&.&. 
+What a nightmare&.&.&. My one and only ally&.&.&.
 
-&.&.&.&.Wait&, had Dr&. Takashina really collapsed from fatigue?
+&.&.&.Wait&, had Dr&. Takashina really collapsed from fatigue?
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05800040ta">
-"It&, it's a conspiracy&.&.&.&. the demon girl's&.&.&.&.
-conspiracy&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05800040ta">
+"It&, it's a conspiracy&.&.&. the demon girl's&.&.&.
+conspiracy&.&.&."
 
 {	Stand("st志乃_白衣_通常","shock", 200, @150);
 	FadeStand("st志乃_白衣_通常_shock", 200, false);
 	DeleteStand("st志乃_白衣_通常_worry", 300, true);}
 //【葉月】
-<voice name="葉月" class="葉月" src="ch03/05800050hd">
-"Ni&, Nishijou-san&.&.&.&.?"
+<voice name="葉月" class="葉月" src="voice/ch03/05800050hd">
+"Ni&, Nishijou-san&.&.&.?"
 
 {	CreateColor("色１", 500, 0, 0, 800, 600, "Black");
 	DrawTransition("色１", 1000, 0, 1000, 100, null, "cg/data/right3.png", true);}

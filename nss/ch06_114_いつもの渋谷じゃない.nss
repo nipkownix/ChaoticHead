@@ -45,7 +45,7 @@ function ch06_114_‚¢‚Â‚à‚Ìa’J‚¶‚á‚È‚¢()
 Going into the cold outdoor air made my headache somewhat milder&.
 
 A more restless atmosphere than usual hung about the city&. Perhaps it
-was due to the earthquake&.&.&.&.
+was due to the earthquake&.&.&.
 
 Sirens rang out unceasingly far off in the distance&. I couldn't tell
 whether they were from fire trucks or ambulances&. Most likely both&.
@@ -59,8 +59,8 @@ in the middle of the road&. I didn't see their drivers anywhere&.
 The traffic was the fault of those abandoned cars&, and the other
 drivers all honked on and on as if they were going insane&.
 
-As I stumbled my way toward school&, a lone dog cu<pre>t</pre> in front of me&,
-howling as it crossed my path&.
+As I stumbled my way toward school&, a lone dog cu<pre>t</pre> in
+front of me&, howling as it crossed my path&.
 
 It was a Chihuahua with bloodshot eyes&, dragging its leash behind its
 short body as it sprinted with all its might&.
@@ -88,7 +88,7 @@ that anywhere&.
 
 {	MusicStart("@CH01",1000,1000,0,1000,null,true);
 	Fade("”wŒi‚Q", 1000, 0, null, true);}
---This wasn't the usual Shibuya&.
+\This wasn't the usual Shibuya&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -99,15 +99,15 @@ that anywhere&.
 [text002]
 I simply couldn't calm down&.
 
-It wasn't merely&.&.&.&. because of the earthquake's influence&. 
-It wasn't merely&.&.&.&. because of my migraine&.
+It wasn't merely&.&.&. because of the earthquake's influence&.
+It wasn't merely&.&.&. because of my migraine&.
 
 Not only that&,
-A certain urge threatened to wrack me&. 
+A certain urge threatened to wrack me&.
 
 Though I was only walking around&, for some reason&, I really
 
-Felt like I might want to kill someone--
+Felt like I might want to kill someone\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -131,16 +131,16 @@ Felt like I might want to kill someone--
 <PRE box00>
 [text003]
 By the time I reached the school gates&, my anxiety and terror had
-grown stronger and stronger&. 
+grown stronger and stronger&.
 
-I had chills&. 
-I wouldn't stop shaking&. 
-My headache resurged&. 
+I had chills&.
+I wouldn't stop shaking&.
+My headache resurged&.
 
 When I looked more closely&, there were people packed around the
-seniors' building&. 
+seniors' building&.
 
-I tried to spot Rimi there&. 
+I tried to spot Rimi there&.
 
 Mysteriously&, every single one of them was alike in how they looked
 up at the top of the school building&.
@@ -151,7 +151,7 @@ up at the top of the school building&.
 	Stand("st‘å•ã_§•_’Êí","sigh", 200, @+100);
 	FadeStand("st‘å•ã_§•_’Êí_sigh", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch06/11400010mi">
+<voice name="OZ" class="OZ" src="voice/ch06/11400010mi">
 "Oh&, Taku!"
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_‘«_‘–‚é_Loop");
@@ -161,28 +161,28 @@ up at the top of the school building&.
 	SoundPlay("SE01", 500, 0, true);}
 Misumi-kun came running up to me&.
 
-Excellent&, if I asked him where Rimi was&.&.&.&.
+Excellent&, if I asked him where Rimi was&.&.&.
 
 {	Stand("bu‘å•ã_§•_’Êí","sigh", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 400, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch06/11400020mi">
+<voice name="OZ" class="OZ" src="voice/ch06/11400020mi">
 "So you were at school today&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch06/11400030mi">
-"No&, that doesn't matter now&.&.&.&." 
+<voice name="OZ" class="OZ" src="voice/ch06/11400030mi">
+"No&, that doesn't matter now&.&.&."
 
-He spoke with a terrible sobriety&, and his expression was pale&. 
-One rarely saw him so shaken&. 
+He spoke with a terrible sobriety&, and his expression was pale&.
+One rarely saw him so shaken&.
 
 What on earth could have happened?
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch06/11400040mi">
-"It's&.&.&.&. seriously bad&.&.&.&." 
+<voice name="OZ" class="OZ" src="voice/ch06/11400040mi">
+"It's&.&.&. seriously bad&.&.&."
 
-Bad? 
+Bad?
 What was?
 
 </PRE>
@@ -203,36 +203,36 @@ What was?
 [text004]
 //ŸˆÈ‰º‚Ì‰ï˜b‚Í¬º‚Å
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch06/11400050ea">
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch06/11400050ea">
 "She was sick&, wasn't she?"
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch06/11400060eb">
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch06/11400060eb">
 "Looks like she went even crazier when people found out about her
 mental illness&."
 
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch06/11400070ea">
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch06/11400070ea">
 "She was saying before that she could fly&. Oh man&, this is bad&,
-real bad&.&.&.&. heheheh&."
+real bad&.&.&. heheheh&."
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch06/11400080eb">
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch06/11400080eb">
 "Although I totally wanna see someone die&."
 
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch06/11400090ea">
-"It must be awesomely guro&.&.&.&."
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch06/11400090ea">
+"It must be awesomely guro&.&.&."
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch06/11400100eb">
-"Won't she hurry up and fall&.&.&.&." 
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch06/11400100eb">
+"Won't she hurry up and fall&.&.&."
 
-Such conversations entered my ears from around us&. 
+Such conversations entered my ears from around us&.
 
-Maybe&.&.&.&. 
+Maybe&.&.&.
 
-I had an unpleasant premonition&. 
+I had an unpleasant premonition&.
 
 Following the other students' gazes&, I tentatively looked up at the
 school building&.
@@ -253,11 +253,11 @@ school building&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
-At the edge of the roof-- 
+At the edge of the roof\
 
-Stood a single girl&. 
+Stood a single girl&.
 
-She held her Di-Sword&, the same one as from her concert&. 
+She held her Di-Sword&, the same one as from her concert&.
 Her pose was that of one lifting a prayer to God in the heavens&.
 
 Kishimoto Ayase stood there&.

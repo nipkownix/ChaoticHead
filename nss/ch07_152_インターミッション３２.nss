@@ -46,10 +46,10 @@ function ch07_152_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚R‚Q()
 <PRE box00>
 [text001]
 Standing at the windowsill of the presidential office located on the
-very top floor of the Nozomi Group Company's headquarters&, 
-Norose Genichi lit a cigarette&. 
+very top floor of the Nozomi Group Company's headquarters&,
+Norose Genichi lit a cigarette&.
 
-The Nozomi Group&. 
+The Nozomi Group&.
 
 A large enterprise&, with numerous subsidiaries&, which carried out
 its business with ministerial authority from the government&.
@@ -57,12 +57,13 @@ its business with ministerial authority from the government&.
 Its subsidiaries had started up business in a variety of fields&, from
 the sale of clothing and groceries to trading in the capacity of a
 distributor of imports&, and they had accomplished measurable
-achievements&. 
+achievements&.
 
 Norose&, who stood at the top of the group and reigned over it&, gazed
-down at the view he could see from his personal castle&.  
+down at the view he could see from his personal castle&.
 
-His consciousness&, however&, was not turned toward the sce<pre>n</pre>ery&. 
+His consciousness&, however&, was not turned toward
+the sce<pre>n</pre>ery&.
 
 While wearing a mocking smile on his mouth&, he tapped the floor
 irritatedly with his toes countless times&.
@@ -80,49 +81,49 @@ irritatedly with his toes countless times&.
 [text002]
 //Ÿ¦’N‚©‚Æ‰ï˜b‚µ‚Ä‚¢‚é‚Á‚Û‚­
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200010nr">
-"Good lord&.&.&.&. it's a hassle to deal with old men&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200010nr">
+"Good lord&.&.&. it's a hassle to deal with old men&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200020nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200020nr">
 "Don't you think?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200030nr">
-"&.&.&.&.They're too cowardly&. Although you could also say&, that
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200030nr">
+"&.&.&.They're too cowardly&. Although you could also say&, that
 it's what has enabled me to climb this far&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200040nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200040nr">
 "I'm bored to death of both using them and underc<pre>u</pre>tting them&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200050nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200050nr">
 "Reality is a sad thing indeed&. We can't afford to underestimate the
 influence of the Committee of 300&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200060nr">
-"&.&.&.&.Yet someday&, someday soon&.&.&.&. that system&, too&, will
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200060nr">
+"&.&.&.Yet someday&, someday soon&.&.&. that system&, too&, will
 collapse&. The structures controlling the world will be recombined&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200070nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200070nr">
 "Are you looking forward to it? Kuku&, I am as well&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200080nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200080nr">
 "It took quite some time to come this far&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200090nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200090nr">
 "Already five years&, since we launched 'Project Noah&.'"
 
-Norose walked up to his desk&. 
+Norose walked up to his desk&.
 
 The top of his solid-looking desk&, carved from natural oak&, had
 little of the decorative about it and was burdened only with
-office-like items&. 
+office-like items&.
 
 Except&, there was one thing that gave off a different color from the
 others&, and it had tumbled carelessly toward the edge&.
@@ -138,86 +139,86 @@ gave it a bored glance&, and tossed it in the wastebasket&.
 <PRE box00>
 [text003]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200100nr">
-"Now&, then&." 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200100nr">
+"Now&, then&."
 
-His narrowed eyes swung toward the room's dim interior&. 
+His narrowed eyes swung toward the room's dim interior&.
 
 The moonlight from the window didn't reach the depths of the room&. A
 faint human presence could be found there&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200110nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200110nr">
 "I would never have dreamed you were a Gigalomaniac&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200120nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200120nr">
 "It would seem that even God has allied Himself with me&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200130nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200130nr">
 "You'll permit me to take a sample from you&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200140nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200140nr">
 "Kuku&, what&, there's no need to be afraid&."
 
 //Ÿu«¿v‚Íu‚½‚¿v‚Æ“Ç‚ñ‚Å‚­‚¾‚³‚¢
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200150nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200150nr">
 "I'm a former doctor&. I'm the sort who simply can't bring himself to
 proceed without informed consent&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200160nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200160nr">
 "Beside&, the hardware for Noah II has already been completed&. All
 that remains is the software&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200170nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200170nr">
 "And for that&, we need many samples from you Gigalomaniacs&."
 
 //Ÿ‚b‚n‚c‚dƒR[ƒh
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200180nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200180nr">
 "To put it more accurately&, it's a CODE sample related to your NA
 synapses&. An active sample of the portion&, with a role to give
 orders to your brain&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200190nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200190nr">
 "There are individual discrepancies when it comes to taking CODE
 samples&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200200nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200200nr">
 {#TIPS_ƒVƒiƒvƒX = true;}"In powerful Gigalomaniacs&, it causes the NA <FONT incolor="#88abda" outcolor="BLACK">synapses</FONT>
 to become even more active&, increasing their range in the brain&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200210nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200210nr">
 "Generally speaking&, only one-tenth of the human brain gets put to
 use&. But Gigalomaniacs are different&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200220nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200220nr">
 "We know that they also make use of the remaining nine-tenths&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200230nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200230nr">
 "The inside of a Gigalomaniac's head is truly fascinating&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200240nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200240nr">
 "Samples of them serve the function of a kind of CPU for Noah II&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200250nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200250nr">
 "The more samples&, the more Noah II's capabilities will approach
 those of the real Gigalomaniacs&, before at last surpassing them&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200260nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200260nr">
 "Will you offer your consent?"
 
 </PRE>
@@ -231,7 +232,7 @@ those of the real Gigalomaniacs&, before at last surpassing them&."
 [text004]
 //Ÿ–‘«‚°‚É
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200270nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200270nr">
 "Very well&."
 
 //Ÿ¦µŠC‚ÍˆÓ¯‚ª‚È‚¢‚Ì‚Å“š‚¦‚ç‚ê‚È‚¢B–ì˜C£‚ªŸè‚É˜b‚ği‚ß‚Ä‚¢‚é
@@ -255,7 +256,7 @@ see again&. As a result of the final experiment performed in his
 Project Noah&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch07/15200280nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200280nr">
 "The day of the world's rebirth draws near&."
 
 </PRE>

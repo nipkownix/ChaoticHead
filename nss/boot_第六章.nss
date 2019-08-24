@@ -3,6 +3,7 @@
 #include "nss/function_select.nss"
 #include "nss/function_chat.nss"
 #include "nss/function_mmo.nss"
+#include "nss/function_karte.nss"
 #include "nss/function_board.nss"
 
 #include "nss/ch06_109_インターミッション２０.nss"
@@ -56,135 +57,135 @@ chapter main
 ..//■ゲーム開始■
 //============================================================================//
 
-// ---------- 頭から ---------- //
+// ―――――――――― 頭から ―――――――――― //
 //本番用初期化用フラグ
 scene SelectStoryMode06
 {
 
 	if($GameName == "boot_第六章")
 	{
-		$GameName = 0;
+		$GameName = "";
 	}
 
 
-	if($GameName == "ch06_109_インターミッション２０" || $GameName == 0)
+	if($GameName == "ch06_109_インターミッション２０" || $GameName == "")
 	{
 		$ChapterName = "ch06_109_インターミッション２０";
-		$GameName = 0;
+		$GameName = "";
 		ch06_109_インターミッション２０();
 	}
-	if($GameName == "ch06_110_地震でＨＤＤ破損" || $GameName == 0)
+	if($GameName == "ch06_110_地震でＨＤＤ破損" || $GameName == "")
 	{
 		$ChapterName = "ch06_110_地震でＨＤＤ破損";
-		$GameName = 0;
+		$GameName = "";
 		ch06_110_地震でＨＤＤ破損();
 	}
-	if($GameName == "ch06_111_インターミッション２１" || $GameName == 0)
+	if($GameName == "ch06_111_インターミッション２１" || $GameName == "")
 	{
 		$ChapterName = "ch06_111_インターミッション２１";
-		$GameName = 0;
+		$GameName = "";
 		ch06_111_インターミッション２１();
 	}
-	if($GameName == "ch06_112_ナイトハルトの生存確認" || $GameName == 0)
+	if($GameName == "ch06_112_ナイトハルトの生存確認" || $GameName == "")
 	{
 		$ChapterName = "ch06_112_ナイトハルトの生存確認";
-		$GameName = 0;
+		$GameName = "";
 		ch06_112_ナイトハルトの生存確認();
 	}
-	if($GameName == "ch06_113_妄想トリガー２５■" || $GameName == 0)
+	if($GameName == "ch06_113_妄想トリガー２５■" || $GameName == "")
 	{
 		$ChapterName = "ch06_113_妄想トリガー２５■";
-		$GameName = 0;
+		$GameName = "";
 		ch06_113_妄想トリガー２５■();
 	}
-	if($GameName == "ch06_114_いつもの渋谷じゃない" || $GameName == 0)
+	if($GameName == "ch06_114_いつもの渋谷じゃない" || $GameName == "")
 	{
 		$ChapterName = "ch06_114_いつもの渋谷じゃない";
-		$GameName = 0;
+		$GameName = "";
 		ch06_114_いつもの渋谷じゃない();
 	}
-	if($GameName == "ch06_115_インターミッション２２" || $GameName == 0)
+	if($GameName == "ch06_115_インターミッション２２" || $GameName == "")
 	{
 		$ChapterName = "ch06_115_インターミッション２２";
-		$GameName = 0;
+		$GameName = "";
 		ch06_115_インターミッション２２();
 	}
-	if($GameName == "ch06_116_飛び降りるあやせ" || $GameName == 0)
+	if($GameName == "ch06_116_飛び降りるあやせ" || $GameName == "")
 	{
 		$ChapterName = "ch06_116_飛び降りるあやせ";
-		$GameName = 0;
+		$GameName = "";
 		ch06_116_飛び降りるあやせ();
 	}
-	if($GameName == "ch06_117_インターミッション２３" || $GameName == 0)
+	if($GameName == "ch06_117_インターミッション２３" || $GameName == "")
 	{
 		$ChapterName = "ch06_117_インターミッション２３";
-		$GameName = 0;
+		$GameName = "";
 		ch06_117_インターミッション２３();
 	}
-	if($GameName == "ch06_118_花壇の出現" || $GameName == 0)
+	if($GameName == "ch06_118_花壇の出現" || $GameName == "")
 	{
 		$ChapterName = "ch06_118_花壇の出現";
-		$GameName = 0;
+		$GameName = "";
 		ch06_118_花壇の出現();
 	}	
-	if($GameName == "ch06_119_妄想トリガー２６■" || $GameName == 0)
+	if($GameName == "ch06_119_妄想トリガー２６■" || $GameName == "")
 	{
 		$ChapterName = "ch06_119_妄想トリガー２６■";
-		$GameName = 0;
+		$GameName = "";
 		ch06_119_妄想トリガー２６■();
 	}
-	if($GameName == "ch06_120_インターミッション２４" || $GameName == 0)
+	if($GameName == "ch06_120_インターミッション２４" || $GameName == "")
 	{
 		$ChapterName = "ch06_120_インターミッション２４";
-		$GameName = 0;
+		$GameName = "";
 		ch06_120_インターミッション２４();
 	}
-	if($GameName == "ch06_121_マグネタイトヴァレイ" || $GameName == 0)
+	if($GameName == "ch06_121_マグネタイトヴァレイ" || $GameName == "")
 	{
 		$ChapterName = "ch06_121_マグネタイトヴァレイ";
-		$GameName = 0;
+		$GameName = "";
 		ch06_121_マグネタイトヴァレイ();
 	}
-	if($GameName == "ch06_122_インターミッション２５" || $GameName == 0)
+	if($GameName == "ch06_122_インターミッション２５" || $GameName == "")
 	{
-		$ChapterName = "cch06_122_インターミッション２５";
-		$GameName = 0;
+		$ChapterName = "ch06_122_インターミッション２５";
+		$GameName = "";
 		ch06_122_インターミッション２５();
 	}
-	if($GameName == "ch06_123_将軍からのメール" || $GameName == 0)
+	if($GameName == "ch06_123_将軍からのメール" || $GameName == "")
 	{
 		$ChapterName = "ch06_123_将軍からのメール";
-		$GameName = 0;
+		$GameName = "";
 		ch06_123_将軍からのメール();
 	}
-	if($GameName == "ch06_124_妄想トリガー２７■" || $GameName == 0)
+	if($GameName == "ch06_124_妄想トリガー２７■" || $GameName == "")
 	{
 		$ChapterName = "ch06_124_妄想トリガー２７■";
-		$GameName = 0;
+		$GameName = "";
 		ch06_124_妄想トリガー２７■();
 	}
-	if($GameName == "ch06_125_インターミッション２６" || $GameName == 0)
+	if($GameName == "ch06_125_インターミッション２６" || $GameName == "")
 	{
 		$ChapterName = "ch06_125_インターミッション２６";
-		$GameName = 0;
+		$GameName = "";
 		ch06_125_インターミッション２６();
 	}
-	if($GameName == "ch06_126_Ｏ－ＦＲＯＮＴ屋上" || $GameName == 0)
+	if($GameName == "ch06_126_Ｏ－ＦＲＯＮＴ屋上" || $GameName == "")
 	{
 		$ChapterName = "ch06_126_Ｏ－ＦＲＯＮＴ屋上";
-		$GameName = 0;
+		$GameName = "";
 		ch06_126_Ｏ－ＦＲＯＮＴ屋上();
 	}
-	if($GameName == "ch06_127_妄想トリガー２８■" || $GameName == 0)
+	if($GameName == "ch06_127_妄想トリガー２８■" || $GameName == "")
 	{
 		$ChapterName = "ch06_127_妄想トリガー２８■";
-		$GameName = 0;
+		$GameName = "";
 		ch06_127_妄想トリガー２８■();
 	}
-	if($GameName == "ch06_128_妄想トリガー２９■" || $GameName == 0)
+	if($GameName == "ch06_128_妄想トリガー２９■" || $GameName == "")
 	{
 		$ChapterName = "ch06_128_妄想トリガー２９■";
-		$GameName = 0;
+		$GameName = "";
 		ch06_128_妄想トリガー２９■();
 	}
 

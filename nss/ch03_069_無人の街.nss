@@ -51,8 +51,8 @@ Like thinking it was 7 PM&, when in actuality it was around 2 AM&.
 Okay&, maybe not&. Hehehe&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06900010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06900010ta">
+"&.&.&.&.&.&.&."
 
 Even so&, it was far too quiet&.
 For the most part&, I couldn't hear any miscellaneous city noises&.
@@ -85,7 +85,7 @@ talking to people&, but right now I just wanted to see someone's
 face&.
 
 I ran inside the convenience store&.
-There absolutely had to be a clerk in here--
+There absolutely had to be a clerk in here―
 So I thought as I surveyed the store's interior&.
 
 </PRE>
@@ -111,13 +111,13 @@ So I thought as I surveyed the store's interior&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
---No one was there&.
+―No one was there&.
 
 No customers&, not even a cashier&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06900020ta">
-"Ha&, haha&.&.&.&. You're kidding&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06900020ta">
+"Ha&, haha&.&.&. You're kidding&."
 
 This wasn't possible&. The cashier had to be doing something in the
 back of the store&.
@@ -131,8 +131,8 @@ While pretending to check out some manga magazines&, I set my boxed
 lunch down by the register&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06900030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06900030ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

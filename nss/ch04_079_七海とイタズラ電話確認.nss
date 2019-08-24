@@ -73,7 +73,7 @@ done nothing but hold my tongue&.
 Perhaps it had been bad to act like that&.
 At this rate&, it'd be even harder to talk the next time we meet&.
 
-When it came to making contact with Rimi&, It's as if I was 
+When it came to making contact with Rimi&, It's as if I was
 sinking into quicksand&.
 
 </PRE>
@@ -100,7 +100,7 @@ sinking into quicksand&.
 <PRE box00>
 [text002]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900010na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900010na">
 "B&, bro!"
 
 When I was about to leave the school building&, a most unpleasant
@@ -124,29 +124,29 @@ She pulled at the hem of my uniform from behind&.
 
 {	SoundPlay("@CH14", 2000, 1000, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900020na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900020na">
 "How many times do I have to tell you to stop running away when
 you see your little sister!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900030ta">
-"Wh&, what&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900030ta">
+"Wh&, what&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900040na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900040na">
 "Don't 'what' me!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900050na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900050na">
 "I ended up chasing after you just because you're running away!"
 
-Don't chase me if you don't have any real business with me&.&.&.&.
+Don't chase me if you don't have any real business with me&.&.&.
 
 {	DeleteStand("buµŠC_§•_’Êí_angry", 500, true);
 	Stand("stµŠC_§•_’Êí","angry", 200, @+100);
 	FadeStand("stµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900060na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900060na">
 "And you still don't call home&, same as usual&. Meh&, I've already
 given up on getting you to do it&. Whatever happens&, I don't think
 you'll act serious about trying to contact us&."
@@ -159,7 +159,7 @@ Not that I had any need whatsoever for a 3-D sister&.
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_angry", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900070na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900070na">
 "Which is why I'm gonna keep coming to your room periodically&, to see
 how things are doing&."
 
@@ -167,7 +167,7 @@ how things are doing&."
 	FadeStand("stµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900080na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900080na">
 "You'd best be grateful&."
 
 </PRE>
@@ -185,7 +185,7 @@ depression-inducing sister of mine&.
 No&, even knowing it was impossible&, I'd at least like a little
 repayment for putting up with her&.
 
-I thought that all the time&. 
+I thought that all the time&.
 
 Ah&, I know!
 Here was my chance to spring into action with a plan I'd previously
@@ -207,15 +207,15 @@ walking toward the courtyard&.
 <PRE box00>
 [text004]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900090na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900090na">
 "Hm? What is it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900100ta">
-"C&, come with me&.&.&.&. for a sec&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900100ta">
+"C&, come with me&.&.&. for a sec&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900110na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900110na">
 "Why? Is something up?"
 
 She was the type to get obnoxious over every little detail&.
@@ -224,28 +224,28 @@ Stupid sis&, incapable of coming along after me in a nice&,
 straightforward way&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900120ta">
-"I&, I have&.&.&.&. a&, an important favor to ask of you&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900120ta">
+"I&, I have&.&.&. a&, an important favor to ask of you&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @+100);
 	FadeStand("stµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900130na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900130na">
 "Eh&, a favor? You do? For me?"
 
 Nanami's eyes went round&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900140na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900140na">
 "It's so rare for you to ask me to do something&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900150ta">
-"A&, anyway&, shut up and come with me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900150ta">
+"A&, anyway&, shut up and come with me&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900160na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900160na">
 "Ah&, wait a tick!"
 
 </PRE>
@@ -278,7 +278,7 @@ those in the gardening club&.
 	FadeStand("stµŠC_§•_’Êí_shy", 500, true);}
 //Ÿ‚¿‚å‚Á‚ÆŠğ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900170na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900170na">
 "So&, what's your favor?"
 
 Nanami put the waste basket she was holding down on the ground&, then
@@ -288,26 +288,26 @@ puffed out her chest&, grinning&.
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_shy", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900180na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900180na">
 "Ah&, my condition is that you've gotta treat me to McD's&. Accept
 it&, and I'll listen to whatever you want from me&, even though I'd
 really rather not&."
 
-Kuh&, she was constantly finding ways to piss me off&.&.&.&.
+Kuh&, she was constantly finding ways to piss me off&.&.&.
 To think that she'd demand some kind of payback&.
 
 On top of that&, I'd treated her the last time we were at McD's&.
-&.&.&.&.Meh&, whatever&.
+&.&.&.Meh&, whatever&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900190ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900190ta">
 "G&, got it&. I'll pay&."
 
 {	Stand("stµŠC_§•_’Êí","smile", 200, @-100);
 	FadeStand("stµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900200na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900200na">
 "Eh&, seriously!? You're way different from usual today!"
 
 {#TIPS_ƒT[ƒZƒ“ = true;}
@@ -331,30 +331,30 @@ received calls history that had sent me that prank call&.
 <PRE box00>
 [text006]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900210na">
-"Call a number from your history&.&.&.&.? Who is it?"
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900210na">
+"Call a number from your history&.&.&.? Who is it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900220ta">
-"Some&, someone I know from online&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900220ta">
+"Some&, someone I know from online&.&.&."
 
 Seeing Nanami cock her head dubiously to one side&, I swiftly told an
 appropriate-sounding lie&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900230na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900230na">
 "Why should I call him?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900240ta">
-"You'll know once you call&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900240ta">
+"You'll know once you call&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","pride", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900250na">
-"You aren't plotting anything&, are you&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900250na">
+"You aren't plotting anything&, are you&.&.&.?"
 
 Ahh&, jeez&, so obnoxious!
 
@@ -363,8 +363,8 @@ All you've gotta do is shut up and do as I say!
 If you can't&, go home! I've got no need for you!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900260ta">
-"Th&, then&, I&.&.&.&. won't ask you to do&, do it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900260ta">
+"Th&, then&, I&.&.&. won't ask you to do&, do it&.&.&."
 
 I made as if to swipe back my cell phone&.
 But Nanami yanked her hand away&, dodging me&.
@@ -373,14 +373,14 @@ But Nanami yanked her hand away&, dodging me&.
 	FadeStand("buµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_pride", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900270na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900270na">
 "G&, gotcha&. I'll call&, all I have to do is make the call&, right?"
 
 {	Stand("buµŠC_§•_’Êí","pride", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900280na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900280na">
 "Really&, you're so selfish&, Bro&."
 
 </PRE>
@@ -419,7 +419,7 @@ Well&, not that I had any right to talk&.
 
 Wait&, none of that mattered now&.
 
-Now then&, who was going to answer the phone&.&.&.&.
+Now then&, who was going to answer the phone&.&.&.
 Will it be some scary&, juvie-type asshole?
 
 I hoped it was a mere prank and had absolutely nothing to do with
@@ -434,8 +434,8 @@ either "Shogun" or Yua&.
 [text008]
 //Ÿ“d˜b‚ÉŒü‚©‚Á‚Ä˜b‚µ‚Ä‚¢‚é
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900290na">
-"Ah&, hello&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900290na">
+"Ah&, hello&.&.&.?"
 
 It seemed that the call had gone through&.
 Nanami cupped her hand around the receiver as she spoke into it&.
@@ -447,29 +447,29 @@ And stuck the cell phone out in my direction&.
 	FadeStand("buµŠC_§•_’Êí_angry", 500, true);}
 //Ÿ•¶‹å‚ğŒ¾‚¤‚æ‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900300na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900300na">
 "Bro~~~!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900310ta">
-"Wh&, wh&, wha&, what&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900310ta">
+"Wh&, wh&, wha&, what&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900320na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900320na">
 "Forget your 'what&.' It said the number isn't in use!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900330ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900330ta">
+"Eh&.&.&."
 
 {	DeleteStand("buµŠC_§•_’Êí_angry", 300, true);}
 I snatched the phone back from Nanami and put it up against my ear&.
-What I heard was--
+What I heard was\
 
 //‚u‚e//ƒP[ƒ^ƒC‚ÌƒAƒiƒEƒ“ƒXƒƒbƒZ[ƒW
 //«u‚ ‚È‚½‚ª‚¨‚©‚¯‚É‚È‚Á‚½“d˜b”Ô†‚ÍAŒ»İg‚í‚ê‚Ä‚¨‚è‚Ü‚¹‚ñB”Ô†‚ğ‚²Šm”F‚ÌãA‚à‚¤ˆê“x‚¨Š|‚¯’¼‚µ‚­‚¾‚³‚¢v//“r’†‚©‚ç•·‚¢‚Ä“r’†‚ÅØ‚Á‚½
 //yƒP[ƒ^ƒCƒAƒiƒEƒ“ƒXz
-<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="ch04/07900340ia">
+<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="voice/ch04/07900340ia">
 "&.&.&.number you have called is currently out of use&. Please check
 the number before attempting to redial-&.&.&."
 
@@ -486,12 +486,12 @@ the number before attempting to redial-&.&.&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text009]
-She was right&.&.&.&.
+She was right&.&.&.
 Which might mean that it had been a plain old prank&, after all&.
 
-Get a prepaid phone meant to last a couple of days&, 
+Get a prepaid phone meant to last a couple of days&,
 Randomly call bunch of numbers&, then toss the phone when the prank
-was over&.&.&.&. that was how it might've worked&.
+was over&.&.&. that was how it might've worked&.
 
 Even so&, it was an awfully large-scale prank&.
 
@@ -513,18 +513,18 @@ been a prank&.
 <PRE box00>
 [text010]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900350na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900350na">
 "Hey&, what's going on?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900360ta">
-"I&, I'm done with you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900360ta">
+"I&, I'm done with you&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @-100);
 	DeleteStand("stµŠC_§•_X‚Ë_angry", 500, false);
 	FadeStand("stµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900370na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900370na">
 "Ehh?"
 
 {	DeleteStand("stµŠC_§•_’Êí_shock", 300, true);}
@@ -534,35 +534,35 @@ But she soon caught up with me&.
 {	Stand("stµŠC_§•_’Êí","angry", 200, @-100);
 	FadeStand("stµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900380na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900380na">
 "Explain it to me&."
 
 You're such a bother&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900390ta">
-"Y&, you're in the middle of cleaning&, aren't you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900390ta">
+"Y&, you're in the middle of cleaning&, aren't you&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900400ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900400ta">
 "You left your waste basket back there&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @-100);
 	FadeStand("stµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_angry", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900410na">
-"Ah&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900410na">
+"Ah&.&.&."
 
 {	Stand("stµŠC_§•_X‚Ë","angry", 200, @-100);
 	DeleteStand("stµŠC_§•_’Êí_shock", 500, false);
 	FadeStand("stµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900420na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900420na">
 "Bu&, but I haven't heard your explanation&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900430ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900430ta">
 "I'm go&, going home&."
 
 Refusing to engage with Nanami as she hounded me&, I hastened toward
@@ -595,31 +595,31 @@ the school gates&.
 <PRE box00>
 [text011]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900440na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900440na">
 "Then you've gotta treat me at McD's&. It's a promise! You'd better
 not forget!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900450ta">
-"Whatever&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900450ta">
+"Whatever&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @+100);
 	DeleteStand("stµŠC_§•_X‚Ë_angry", 500, false);
 	FadeStand("stµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900460na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900460na">
 "Wait! Did you lie to me!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch04/07900470ta">
-"More or less&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07900470ta">
+"More or less&.&.&."
 
 {	Stand("stµŠC_§•_X‚Ë","angry", 200, @+100);
 	DeleteStand("stµŠC_§•_’Êí_shock", 500, false);
 	FadeStand("stµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900480na">
-"Uuhh&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900480na">
+"Uuhh&.&.&."
 
 Infuriated&, Nanami stopped in place&.
 
@@ -628,7 +628,7 @@ Infuriated&, Nanami stopped in place&.
 But I kept going&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900490na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900490na">
 "You stupidhead!"
 
 She yelled in a voice loud enough to resound through the whole area&.
@@ -642,7 +642,7 @@ shoulders tense&.
 	DeleteStand("stµŠC_§•_’Êí_angry", 500, false);
 	FadeStand("stµŠC_§•_ƒLƒŒ_mad", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900500na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900500na">
 "Someone like you should get your brain dried up by cell phone radio
 waves and die!"
 
@@ -679,7 +679,7 @@ At times like this&, running away was the best alternative&.
 <PRE box00>
 [text012]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch04/07900510na">
+<voice name="µŠC" class="µŠC" src="voice/ch04/07900510na">
 "Idiot~~~~~!"
 
 I became exhausted&, hearing Nanami's voice even after I'd passed

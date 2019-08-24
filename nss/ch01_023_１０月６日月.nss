@@ -28,7 +28,7 @@ function ch01_023_‚P‚OŒ‚U“úŒ()
 	CreateColor("F‚P", 100, 0, 0, 800, 600, "Black");
 	Fade("F‚P", 0, 1000, null, true);
 
-//™Cut-93-----------------------------
+//™Cut-93\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //¦‘ñ–¤‹“_‚É–ß‚é
 //‚a‚f//Z–å‘O//’©
 	CreateBG(100, 500, 0, 0, "cg/bg/bg016_01_0_ŠwZZ–å_a.jpg");
@@ -43,39 +43,39 @@ function ch01_023_‚P‚OŒ‚U“úŒ()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-The following week's "school-going day&." 
+The following week's "school-going day&."
 As melancholy as usual&, I stared down at my feet on the way to
 school&.
 
 It was about time for the season to start changing to autumn in
-earnest&. 
+earnest&.
 
 The trees in Shoutou Park were gradually becoming more colorful&, and
 short sleeves were starting to get a little chilly&.
 Since I typically stayed indoors all the time&, the changing of the
-seasons only perplexed me&. 
+seasons only perplexed me&.
 
-I still felt like it was supposed to be summer&. 
+I still felt like it was supposed to be summer&.
 
-I'd played ESO all weekend&. 
+I'd played ESO all weekend&.
 Grim kept asking me about Yua&, but I ignored him from start to
-finish&. 
+finish&.
 
 Yua hadn't mailed me once since then&.
-She might have finally given up&, since I didn't send a reply&. 
-That'd be a huge relief&. 
+She might have finally given up&, since I didn't send a reply&.
+That'd be a huge relief&.
 
 I got all mixed up when I talked to Yua&.
-I seemed to be on the verge of discovering some hope for myself&. 
+I seemed to be on the verge of discovering some hope for myself&.
 
 But there was no point in a creepy otaku like me embracing hope&. I'd
 lived all this time without ever once getting rewarded for anything&,
-and so I'd lost interest in the third dimension&. 
+and so I'd lost interest in the third dimension&.
 
 Please don't make me expect anything&.
 Please don't expect anything of me&.
 
-Someone tapped me on the shoulder from behind&. 
+Someone tapped me on the shoulder from behind&.
 Thinking it would be Nanami or Misumi-kun&, I turned around and was
 surprised&.
 
@@ -94,23 +94,23 @@ surprised&.
 <PRE box00>
 [text002]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300010yu">
-"Nishijou-kun&.&.&.&. Fuu&, haa&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300010yu">
+"Nishijou-kun&.&.&. Fuu&, haa&.&.&."
 
-Yua smiled at me&, her cheeks slightly flushed&. 
+Yua smiled at me&, her cheeks slightly flushed&.
 For some reason&, she was out of breath&.
 
 //­‚µ‘§Ø‚ê‹C–¡
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300020yu">
-"I saw you from way back there&.&.&.&. I thought it might be
-you&.&.&.&. And so I ran to catch up&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300020yu">
+"I saw you from way back there&.&.&. I thought it might be
+you&.&.&. And so I ran to catch up&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200030ta">
+"&.&.&.&.&.&.&."
 
-Could this possibly mean she hadn't given up yet&.&.&.&.?
+Could this possibly mean she hadn't given up yet&.&.&.?
 She still had expectations for me?
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+150);
@@ -118,15 +118,15 @@ She still had expectations for me?
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);}
 //Šğ‚µ‚»‚¤
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300040yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300040yu">
 "Good morning&, Nishijou-jun&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200050ta">
-"Ah&, ye&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200050ta">
+"Ah&, ye&, yeah&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300060yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300060yu">
 "Haa&, I finally got to say it&. Although it took four days&,
 including Saturday&."
 
@@ -134,12 +134,12 @@ including Saturday&."
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 500, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300070yu">
-"Ah&, I sent you an email last week&. Di&, did you&.&.&.&. read it?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300070yu">
+"Ah&, I sent you an email last week&. Di&, did you&.&.&. read it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200080ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200080ta">
+"&.&.&.&.&.&.&."
 
 Without meaning to&, I nodded reflexively&.
 
@@ -147,26 +147,26 @@ Without meaning to&, I nodded reflexively&.
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_smile", 500, false);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300090yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300090yu">
 "Thank goodness&. Since there was no reply&, I was convinced it hadn't
 reached you&, and there were so many times when I was about to re-send
-it&, but I guess I was right to hold back&." 
+it&, but I guess I was right to hold back&."
 
 What on earth did Yua expect from me?
 
-Should I fall in love with you? 
-Should I become your boyfriend? 
-And should we then live out our lovey-dovey lives as a couple? 
+Should I fall in love with you?
+Should I become your boyfriend?
+And should we then live out our lovey-dovey lives as a couple?
 
-&.&.&.&.&.&.No way&.
-I couldn't act so wholesome&. 
-I wanted to&, but it would never happen&. 
+&.&.&.&.&.No way&.
+I couldn't act so wholesome&.
+I wanted to&, but it would never happen&.
 
 Besides&, I didn't understand how Yua had come to think so well of
-me&. 
-I couldn't have faith in her&. 
+me&.
+I couldn't have faith in her&.
 
-That's what made it impossible&.&.&.&.
+That's what made it impossible&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -180,20 +180,20 @@ That's what made it impossible&.&.&.&.
 <PRE box00>
 [text003]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300100yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300100yu">
 "Um&, Nishijou-kun&, is something wrong?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200110ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200110ta">
+"Eh&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300120yu">
-"Er&, you've been standing there all this time&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300120yu">
+"Er&, you've been standing there all this time&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200130ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200130ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);}
 I hastily walked off&, leaving Yua behind&.
@@ -210,43 +210,43 @@ But she caught up by trotting&.
 <PRE box00>
 [text004]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300140yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300140yu">
 "I went to your classroom yesterday&, but you weren't there&, were
 you? I thought maybe you weren't at school because you'd caught a cold
 or something&, and I got worried&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300150yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300150yu">
 "But I'm glad you seem fine&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200160ta">
-"I&, I don't&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200160ta">
+"I&, I don't&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 0, false);}
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300170yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300170yu">
 "Yes?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200180ta">
-"I don't often&.&.&.&. come to school&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200180ta">
+"I don't often&.&.&. come to school&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200190ta">
-"Everyone thinks&.&.&.&. I'm a hikikomori&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200190ta">
+"Everyone thinks&.&.&. I'm a hikikomori&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300200yu">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300200yu">
+"&.&.&.&.&.&.&."
 
 Surely I'd disillusioned her&. Surely&, knowing what I was really
-like&, she'd have lost all friendly thoughts toward me&. 
+like&, she'd have lost all friendly thoughts toward me&.
 
-I didn't mind&. Because I hadn't expected anything from the start&. 
+I didn't mind&. Because I hadn't expected anything from the start&.
 
 Go on&, think of me as being creepy and gross&. And from now on&,
 please stay away from me&.
@@ -256,19 +256,19 @@ please stay away from me&.
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, false);}
 //ÎŠç
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300210yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300210yu">
 "I see&. But I'm glad I got to see you today&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200220ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200220ta">
+"&.&.&."
 
 I was floored&.
 
 Without thinking&, I scrutinized Yua's smile intently&. Our eyes met&,
-and I was forced to hastily turn my face away&. 
+and I was forced to hastily turn my face away&.
 
-Why is it that I don't weird you out&.&.&.&.
+Why is it that I don't weird you out&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -282,40 +282,40 @@ Why is it that I don't weird you out&.&.&.&.
 <PRE box00>
 [text005]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300230yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300230yu">
 "Rather&, since you do come to school&, even if it's only once in a
-while&, I don't think you're a hikikomori&.&.&.&."
+while&, I don't think you're a hikikomori&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300240yu">
-"I&, I'm sorry&, acting like I know what I'm talking about&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300240yu">
+"I&, I'm sorry&, acting like I know what I'm talking about&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200250ta">
-"B&, but&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200250ta">
+"B&, but&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200260ta">
-"&.&.&.&.It's&.&.&.&. re&, really tough&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200260ta">
+"&.&.&.It's&.&.&. re&, really tough&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","smile", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí_smile", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 0, false);}
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300270yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300270yu">
 "That's what makes you admirable&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200280ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200280ta">
+"Eh&.&.&.?"
 
 I couldn't have so much as imagined that she would reply with such
 words&. What could possibly be admirable about a useless human being
 like me?
 
-Yua smiled tenderly&. 
-I honestly thought&, 
+Yua smiled tenderly&.
+I honestly thought&,
 It was a smile that could heal people&.
 
 </PRE>
@@ -327,30 +327,30 @@ It was a smile that could heal people&.
 <PRE box00>
 [text006]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300290yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300290yu">
 "Because&, even though it's hard for you&, you try your best to come
 to school&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300300yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300300yu">
 "Normally&, if it were that painful&, you wouldn't be able to come at
 all&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200310ta">
-"Bu&, but&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200310ta">
+"Bu&, but&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200320ta">
-"I'm an otaku&, and I'm disgusting&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200320ta">
+"I'm an otaku&, and I'm disgusting&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300330yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300330yu">
 "I like listening to what you have to say&."
 
-What&.&.&.&.?
-What on earth was it&, this affirmation of my whole being&.&.&.&.
-Why did it feel so comforting&.&.&.&.
+What&.&.&.?
+What on earth was it&, this affirmation of my whole being&.&.&.
+Why did it feel so comforting&.&.&.
 
 I had the feeling that Yua would be able to embrace everything about
 me&.
@@ -379,27 +379,27 @@ person&.
 <PRE box00>
 [text007]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300340yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300340yu">
 "Ah&, oh no! It's the warning bell&."
 
 Without my noticing it&, our surroundings had become empty of
-students&. 
+students&.
 Everyone was already inside the school building&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300350yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300350yu">
 "Well then&, Nishijou-kun&, I have to go&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","normal", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300360yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300360yu">
 "Ah&, are you free after school today?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200370ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200370ta">
+"Eh&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -413,23 +413,23 @@ Everyone was already inside the school building&.
 <PRE box00>
 [text008]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300380yu">
-"I&, if you're okay with it&, er&, um&.&.&.&. Le&, let's leave school
-together&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300380yu">
+"I&, if you're okay with it&, er&, um&.&.&. Le&, let's leave school
+together&.&.&."
 
 She murmured shyly&, blushing a bit&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300390yu">
-"I&, I'll wait for you in the courtyard after school&.&.&.&. If you
-feel like it&.&.&.&. please come&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300390yu">
+"I&, I'll wait for you in the courtyard after school&.&.&. If you
+feel like it&.&.&. please come&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300400yu">
-"Ah&, but you don't have to push yourself&, I'll be fine&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300400yu">
+"Ah&, but you don't have to push yourself&, I'll be fine&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02300410yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300410yu">
 "Excuse me&."
 
 </PRE>
@@ -444,11 +444,11 @@ feel like it&.&.&.&. please come&."
 <PRE box00>
 [text009]
 Yua gave me a courteous bow and ran off toward the building where the
-seniors' classrooms were located&.  
+seniors' classrooms were located&.
 
-Watching her go&, I pinched my cheek again&. 
+Watching her go&, I pinched my cheek again&.
 
-It really wasn't a dream or a delusion&.&.&.&.
+It really wasn't a dream or a delusion&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -470,17 +470,17 @@ It really wasn't a dream or a delusion&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-I stayed in a daze during all of my classes that day&. 
+I stayed in a daze during all of my classes that day&.
 
 Or rather&, I didn't pay the least attention to what was going on in
 my classes&.
 Propping my chin up with one hand&, I gazed on and on at the autumn
-sky beyond the window&. 
+sky beyond the window&.
 
-Neither my classmates nor my teachers took any heed of me&. 
+Neither my classmates nor my teachers took any heed of me&.
 
-But Yua looked at me&. 
-Yua was different from the rest of those assholes&. 
+But Yua looked at me&.
+Yua was different from the rest of those assholes&.
 
 As I went on thinking along those lines and having all sorts of
 daydreams&, classes suddenly came to an end&.
@@ -496,28 +496,28 @@ daydreams&, classes suddenly came to an end&.
 <PRE box00>
 [text011]
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/02300420mi">
+<voice name="OZ" class="OZ" src="voice/ch01/02300420mi">
 "Yo&, Taku&, going on another date today?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/02300430mi">
+<voice name="OZ" class="OZ" src="voice/ch01/02300430mi">
 "You're going with the four-eyes from before&, right?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200440ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200440ta">
+"&.&.&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","smile", 200, @+150);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/02300450mi">
+<voice name="OZ" class="OZ" src="voice/ch01/02300450mi">
 "Hey&, hey&, don't hesitate cause you're a slacker&. Setting aside
 going out with her or not going out with her&, if she likes you&, it's
-only proper to do her--"
+only proper to do her\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200460ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200460ta">
 "I&, I won't&."
 
 </PRE>
@@ -532,26 +532,26 @@ only proper to do her--"
 <PRE box00>
 [text012]
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/02300470mi">
-"H&, hey&, don't shout all of a sudden&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch01/02300470mi">
+"H&, hey&, don't shout all of a sudden&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200480ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200480ta">
 "I won't do stuff like that with Yua&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/02300490mi">
+<voice name="OZ" class="OZ" src="voice/ch01/02300490mi">
 "Haa? What're you saying? Why give up from the very beginning? It's
 about time to graduate from being a hikikomori&, man&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02200500ta">
-"I&, I'm not a hiki&, hikikomori&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200500ta">
+"I&, I'm not a hiki&, hikikomori&.&.&."
 
-He shouldn't have said that kind of thing in the first place&. 
+He shouldn't have said that kind of thing in the first place&.
 
 I didn't understand Misumi-kun&, who lived through his nether
-regions&. 
+regions&.
 
 Misumi-kun looked puzzled&, but I ignored him and hurried out of the
 classroom&.

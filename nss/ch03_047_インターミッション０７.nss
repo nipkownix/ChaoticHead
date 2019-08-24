@@ -40,11 +40,12 @@ function ch03_047_インターミッション０７()
 //１０月１３日（月）//日付は表示しない
 //■インターミッション０７開始
 
-	CreateMovie("章イン", 25000, 0, 0, false, true, "dx/mvB.ngs");
-	Request("章イン", Lock);
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch03.png");
+	Fade("アイキャッチ１", 10, 1000, null, true);
 
-	WaitAction("章イン", 3200);
-
+	WaitKey(3200);
+	IntermissionCard1();
+	
 	Delete("*");
 
 //ＢＧ//スクランブル交差点//夜
@@ -53,11 +54,7 @@ function ch03_047_インターミッション０７()
 	Zoom("背景１", 0, 2000, 2000, null, true);
 	Fade("背景１", 0, 1000, null, true);
 
-	CreateMovie("インターミッションムービー２", 25000, 0, 0, false, true, "dx/mvアイキャッチ02.ngs");
-	Request("章イン", UnLock);
-	Delete("章イン");
-	WaitPlay("インターミッションムービー２", null);
-	Delete("インターミッションムービー２");
+	IntermissionCard2();
 
 	CreateSE("SE01","SE_日常_雑踏02");
 	SoundPlay("SE01", 0, 500, true);
@@ -68,34 +65,34 @@ function ch03_047_インターミッション０７()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-4 AM&. 
+4 AM&.
 Shibuya is said to be a city that doesn't sleep&, but few people could
-be seen in the pedestrian scramble in front of the station&. 
+be seen in the pedestrian scramble in front of the station&.
 
-In their place were numerous parked taxis&, 
+In their place were numerous parked taxis&,
 Standing by for a chance to carry away the drunks unwilling to wait
 for the first train of the day&.
 
-Most of the taxi drivers had reclined their seats and were napping&. 
+Most of the taxi drivers had reclined their seats and were napping&.
 
 Yet there were also more hardworking drivers among them&, who rested
 against their steering wheels and gazed blearily in the direction of
-the 107 building and the shopping district&. 
+the 107 building and the shopping district&.
 
-But they weren't trying to ascertain 
-Whether any potential customers were walking about&. 
+But they weren't trying to ascertain
+Whether any potential customers were walking about&.
 
 They watched&, with deep interest&, the movements of the street
-cleaners who had arrived about 30 minutes earlier&. 
+cleaners who had arrived about 30 minutes earlier&.
 
 At least&, those five to six men were presumably street cleaners
 because of their yellow arm badges&, with "Sanitary Worker&."
-characters inscribed on them&. 
+characters inscribed on them&.
 
 Without the badges&, chances were that 10 out of 10 people would have
-failed to recognize them as street cleaners&. 
+failed to recognize them as street cleaners&.
 
-For some reason&, they all wore black suits&. 
+For some reason&, they all wore black suits&.
 Furthermore&, ever since arriving&, they had blatantly evinced no
 signs of starting to clean&.
 
@@ -105,10 +102,10 @@ measuring something&.
 
 Moreover&, this did not happen in merely one place&. Everywhere from
 the center to the edges of the scramble crossing&, they took
-measurements and wrote things down on pieces of paper&.  
+measurements and wrote things down on pieces of paper&.
 
 Now&, too&, they gathered directly below the traffic lights and
-silently paid close heed to the movements of the pendulum device&. 
+silently paid close heed to the movements of the pendulum device&.
 At last the instrument let out a small noise&.
 
 </PRE>
@@ -129,25 +126,25 @@ At last the instrument let out a small noise&.
 [text002]
 //◆ちてんえるにのはち、れいてんろくにーめがじーいー
 //【清掃員Ａ】
-<voice name="清掃員Ａ" class="清掃員Ａ" src="ch03/04700010sa">
+<voice name="清掃員Ａ" class="清掃員Ａ" src="voice/ch03/04700010sa">
 "0&.62 mega GE at Location L2-8&. It's the top score thus far&."
 
 //【清掃員Ｂ】
-<voice name="清掃員Ｂ" class="清掃員Ｂ" src="ch03/04700020sb">
-"38 points higher than last month&.&.&.&. Just as we thought&." 
+<voice name="清掃員Ｂ" class="清掃員Ｂ" src="voice/ch03/04700020sb">
+"38 points higher than last month&.&.&. Just as we thought&."
 
 But no one in early-morning Shibuya was there to take heed of their
-curious actions and murmuring&. 
+curious actions and murmuring&.
 
 As soon as customers climbed into their cars&, the taxi drivers took
-off and quickly forgot about the mysterious street cleaners&. 
+off and quickly forgot about the mysterious street cleaners&.
 
 The drunks were less than fully conscious and could hardly see their
-surroundings in the first place&. 
+surroundings in the first place&.
 
 Female entertainers and nightlife workers&, released from the stress
 of having to keep smiling at repulsive drunkards&, got into taxis to
-return home as fast as possible&. 
+return home as fast as possible&.
 
 Because of this&, not a single person noticed that the government had
 not formed any plans whatsoever for the streets to be cleaned in the

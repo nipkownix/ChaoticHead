@@ -44,60 +44,60 @@ function ch09_192_è¡Ç¶ÇÈéµäC()
 <PRE box00>
 [text001]
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200010na">
-"Just for today&, let me have my way&.&.&.&."
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200010na">
+"Just for today&, let me have my way&.&.&."
 
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200020na">
-"Uuu&.&.&.&. sob&.&.&.&."
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200020na">
+"Uuu&.&.&. sob&.&.&."
 
-Nanami was crying&. 
-Even while she hung her head and fought to withstand it&. 
-Tears kept falling from her bitterly&. 
+Nanami was crying&.
+Even while she hung her head and fought to withstand it&.
+Tears kept falling from her bitterly&.
 
-I took a single glance at her&. 
+I took a single glance at her&.
 Then soon returned my line of sight to the ceiling&, resuming the task
 of counting up the rusty spots&.
 
 //Åüñ≥ãCóÕ
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200030ta">
-"Whether or not you cry at me&.&.&.&. I can't do anything&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200030ta">
+"Whether or not you cry at me&.&.&. I can't do anything&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200040ta">
-"Because I'm a delusionary existence&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200040ta">
+"Because I'm a delusionary existence&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200050ta">
-"A delusionary&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200050ta">
+"A delusionary&.&.&."
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200060na">
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200060na">
 "Don't say that kind of thing!"
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200070na">
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200070na">
 "You can't be a delusion! Cause I knew you when you were
-little&.&.&.&.!"
+little&.&.&.!"
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200080na">
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200080na">
 "I always had to take care of you&, and you weren't even a tiny bit
-dependable&, but&.&.&.&."
+dependable&, but&.&.&."
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200090na">
-"But you were always together with me&, since a long time ago&.&.&.&."
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200090na">
+"But you were always together with me&, since a long time ago&.&.&."
 
 //ÅüÉnÉbÇ∆Ç∑ÇÈ
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200100ta">
-"&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200100ta">
+"&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -106,58 +106,58 @@ dependable&, but&.&.&.&."
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text002]
-I see&.&.&.&. 
-It was as Nanami said&. 
+I see&.&.&.
+It was as Nanami said&.
 
-I remembered the time when Nanami was still small&. 
-I had memories of my childhood&. 
+I remembered the time when Nanami was still small&.
+I had memories of my childhood&.
 
 I remembered being unable to go on a field trip in elementary school&,
 and watching stuff on TV about the accident my classmates' bus had
 gotten into&. I remembered Mr&. Saitou&, my homeroom teacher who had
-died then&, too&.  
+died then&, too&.
 
-The words of Rimi&, someone totally unrelated to me&. 
+The words of Rimi&, someone totally unrelated to me&.
 Or the words of my sister&, who had been raised with me since we were
-little&. 
+little&.
 
-Wasn't it beyond obvious which I ought to believe in? 
+Wasn't it beyond obvious which I ought to believe in?
 
-Rimi wasn't the one in the right&. 
-Nanami was the one in the right&. 
+Rimi wasn't the one in the right&.
+Nanami was the one in the right&.
 
 If Nanami were the real thing&, then so was I&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200110ta">
-"Nana&, mi&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200110ta">
+"Nana&, mi&.&.&."
 
-I extended my hands toward Nanami&. 
-Nanami's existence was now my sole hope&. 
+I extended my hands toward Nanami&.
+Nanami's existence was now my sole hope&.
 Hers was the only existence that could deliver me&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200120ta">
-"Save me&.&.&.&. Nanami&.&.&.&. Save me&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200120ta">
+"Save me&.&.&. Nanami&.&.&. Save me&.&.&."
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200130na">
-"Bro&.&.&.&. sob&.&.&.&." 
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200130na">
+"Bro&.&.&. sob&.&.&."
 
-If Nanami's warmth were real&. 
-I could prove I was myself&. 
+If Nanami's warmth were real&.
+I could prove I was myself&.
 
-The forlornly weeping Nanami 
-Wiped her tears&, 
+The forlornly weeping Nanami
+Wiped her tears&,
 
-Looked at me with reddened eyes&, 
+Looked at me with reddened eyes&,
 Put on a tearful smile&,
 
 //Åüó‹ê∫
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200140na">
-"You'll&.&.&.&. hold me&.&.&.&.?"
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200140na">
+"You'll&.&.&. hold me&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -166,36 +166,36 @@ Put on a tearful smile&,
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text003]
-I nodded&. 
-Over&. And over&. 
+I nodded&.
+Over&. And over&.
 
 If it would bring Nanami salvation&.
-If it would bring me salvation&. 
+If it would bring me salvation&.
 
 I would embrace this cheeky little sister of mine happily&, anytime&.
 I would embrace her&, the only one in this world&, my sister who
 shared the same blood as me&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200150ta">
-"Nanami&.&.&.&. save me&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200150ta">
+"Nanami&.&.&. save me&.&.&."
 
-Wanting to feel her warmth as soon as possible&. 
+Wanting to feel her warmth as soon as possible&.
 I slowly circled my arms around the body that came leaping toward my
-chest&.  
+chest&.
 
-Tighter&, 
-Tigher-- 
+Tighter&,
+TigherÅ\
 
-I was about to hold her--
+I was about to hold herÅ\
 
 {	DeleteStand("buéµäC_êßïû_ùXÇÀ_cry", 500, true);
 	Stand("buéµäC_êßïû_í èÌ","normal", 200, @+0);
 	FadeStand("buéµäC_êßïû_í èÌ_normal", 500, true);}
 //ÅüÇ≥Ç≥Ç‚Ç´
 //ÅyéµäCÅz
-<voice name="éµäC" class="éµäC" src="ch09/19200160na">
-"Bro&.&.&.&."
+<voice name="éµäC" class="éµäC" src="voice/ch09/19200160na">
+"Bro&.&.&."
 
 Just before then&,
 
@@ -208,7 +208,7 @@ Just before then&,
 
 //ÇrÇd//éµäCè¡ñ≈
 
-	CreateMovie("è¡ñ≈", 5000, 0, 0, false, false, "dx/mvè¡Ç¶ÇÈ01.ngs");
+	CreateMovie("è¡ñ≈", 5000, 0, 0, false, false, "dx/mvDisappear01.ngs");
 	Fade("è¡ñ≈", 0, 0, null, false);
 	Request("è¡ñ≈", Play);
 	Wait(1000);
@@ -226,14 +226,14 @@ Just before then&,
 <PRE box00>
 [text004]
 Nanami's body became enveloped in pale light&, broke down into an
-infinite number of tiny blue particles&, 
+infinite number of tiny blue particles&,
 
-And the particles burst in the air one after another&, like bubbles&, 
+And the particles burst in the air one after another&, like bubbles&,
 
-And my outstretched hands embraced nothing&. 
-There was no warmth against my chest&. 
+And my outstretched hands embraced nothing&.
+There was no warmth against my chest&.
 
-Before my eyes&, Nanami 
+Before my eyes&, Nanami
 
 Was annihilated&.
 
@@ -243,8 +243,8 @@ Was annihilated&.
 	Fade("back11", 200, 1000, null, true);}
 //Åüê‚ã©
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch09/19200170ta">
-"UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA----"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19200170ta">
+"UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAÅ\Å\"
 
 
 </PRE>

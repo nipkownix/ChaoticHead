@@ -47,24 +47,24 @@ function ch01_011_¼ŠµŠC()
 	Delete("”wŒi‚P");
 
 
-//™Cut-64-----------------------------
+//™Cut-64\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100010na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100010na">
 "Ah&, you finally came out&."
 
 {	SoundPlay("@CH08", 2000, 1000, true);
 	Move("”wŒi‚Q", 1000, @0, @+600, null, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100020na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100020na">
 "I'm here to confirm your survival`™"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100030ta">
+"&.&.&.&.&.&.&."
 
 This loli-bodied runt is my little sister&. One year younger&.
 
@@ -77,27 +77,27 @@ This loli-bodied runt is my little sister&. One year younger&.
 <PRE box00>
 [text002]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100040na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100040na">
 "At least give an answer when I call out to you&. I started to think
-you might've dropped dead&." 
+you might've dropped dead&."
 
 Every time we see each other&, she starts complaining&.
 
 As could be seen from how she stood with her hands on her hips and her
-head thrown back&, she was a cheeky little brat&. 
+head thrown back&, she was a cheeky little brat&.
 
 Her existence brought me a hundred disadvantages and not one bit of
 benefit&.
 
 //‚«‚½‚È‚Á‰˜‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100050na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100050na">
 "Uwah&, your room's as dirty as usual&. Clean it up a little&, will
 ya?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100060ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100060ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -114,23 +114,23 @@ ya?"
 <PRE box00>
 [text003]
 
-Nanami hopped on inside without obtaining my consent&. 
+Nanami hopped on inside without obtaining my consent&.
 
 It's because she's my little sister that she gets ahead of herself
-like this&.&.&.&.
+like this&.&.&.
 
 When I see those guys who moe over little sister types&, I want to
-tell them at the top of my lungs: 
+tell them at the top of my lungs:
 
 "You've gotta battle with the reality of it&."
 
 Well&, sister or not&, I didn't think she had a bad face&. Her kind of
 childish-looking face might be smack in the strike zone for loli
-lovers&. 
+lovers&.
 
 As her blood-related brother&, though&, none of that mattered&.
 Rather&, it made me think of her as being babyish&. No way would I fap
-to her&. 
+to her&.
 
 Ah&, by the way&, I don't mind loli types&. As long as they're 2-D&.
 Hehehe&.
@@ -147,53 +147,53 @@ Hehehe&.
 <PRE box00>
 [text004]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100070na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100070na">
 "It stinks of mold`&. Your room's still filthy&. I'm always telling
 you to tidy up&. Why don't you listen?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100080ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100080ta">
+"&.&.&.&.&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100090na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100090na">
 "Well&, it's not like you have a girlfriend to help you clean up&, and
 you're the sloppy sort&, so it was obvious things would end up like
 this`"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100100ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100100ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","smile", 200, @-150);
 	FadeStand("stµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_pride", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100110na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100110na">
 "At this rate&, maybe it would be better if I came and cleaned for
 you&, after all&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100120ta">
-"Bu&, but I refuse&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100120ta">
+"Bu&, but I refuse&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @-150);
 	DeleteStand("stµŠC_§•_’Êí_smile", 300, false);
 	FadeStand("stµŠC_§•_’Êí_shock", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100130na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100130na">
 "But why!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100140ta">
-"I&, I don't&.&.&.&. want to let you&.&.&.&. mess up my room&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100140ta">
+"I&, I don't&.&.&. want to let you&.&.&. mess up my room&.&.&."
 
 //u‚Ğ‚Á‚Çvu‚Ğ‚Ç‚¢v
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100150na">
-"How mean&.&.&.&. Is that the kind of thing you say to the little
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100150na">
+"How mean&.&.&. Is that the kind of thing you say to the little
 sister who came all the way out here to make sure you were still
-alive?" 
+alive?"
 
 You yourself don't show your brother an ounce of respect&. Besides&,
 no one asked you to come check on my survival&.
@@ -211,15 +211,15 @@ no one asked you to come check on my survival&.
 <PRE box00>
 [text005]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100160na">
-"Geez&.&.&.&. Why do I have to be siblings with someone who causes
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100160na">
+"Geez&.&.&. Why do I have to be siblings with someone who causes
 nothing but trouble? Sometimes I hate it&."
 
 {	Stand("stµŠC_§•_’Êí","normal", 200, @-150);
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_angry", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100170na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100170na">
 "Haa&, my throat's kind of dry&. I'm taking a drink&."
 
 {	DeleteStand("stµŠC_§•_’Êí_normal", 200, false);
@@ -228,8 +228,8 @@ nothing but trouble? Sometimes I hate it&."
 	Delete("”wŒi‚P");}
 //uŒZ’ív•šü‚Å‚·
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100180ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100180ta">
+"&.&.&.&.&.&.&."
 
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_è_—â‘ ŒÉ‚ğŠJ‚¯‚é");
@@ -242,25 +242,25 @@ without asking permission&.
 	Stand("buµŠC_§•_’Êí","pride", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_pride", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100190na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100190na">
 "Nothing but Coke? You should keep milk tea or something in here&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01100200ta">
-"I&, I don't care&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01100200ta">
+"I&, I don't care&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_pride", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01100210na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01100210na">
 "Whatever&. Then I'll have the Coke&."
 
 As usual&, it looked like she had no intention of getting my approval
-first&. 
+first&.
 
-Taking a plastic bottle of Coke--one that&, by the way&, I'd drunk
-from earlier--out of the fridge&, she opened the lid&, hesitated for a
+Taking a plastic bottle of Coke\one that&, by the way&, I'd drunk
+from earlier\out of the fridge&, she opened the lid&, hesitated for a
 second&, then gulped it straight down&.
 
 </PRE>

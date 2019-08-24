@@ -69,7 +69,7 @@ if($GameDebugSelect == 1)
 	Request("背景０", Smoothing);
 	Zoom("背景０", 1000, 1500, 1500, null, true);
 
-	CreateMovie("雨１", 100, 0, 0, true, false, "dx/mv雨01.ngs");
+	CreateMovie("雨１", 100, 0, 0, true, false, "dx/mvRain01.ngs");
 	Request("雨１", AddRender);
 
 	FadeDelete("色１", 3000, true);
@@ -102,10 +102,10 @@ Since when did it start raining?
 A violent explosion had taken place&. <?>
 {WaitKey(3000);}
 //その爆風で。
-The blast from it 
+The blast from it
 {WaitKey(2500);}
 //僕の身体はボロ切れみたいに軽々と飛ばされ。
-had sent me flying away as easily as some old rag&. 
+had sent me flying away as easily as some old rag&.
 {WaitKey(3500);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -131,10 +131,10 @@ Before I knew it&, I was here――
 Those eyes are always watching me&.
 {WaitKey(2500);}
 //眼差しは、厚くて真っ黒な雨雲を突き抜けて。
-The stare pierces through the rain clouds coated in pitch black&. 
+The stare pierces through the rain clouds coated in pitch black&.
 {WaitKey(2500);}
 //雨のように僕へと降り注ぐ。
-It pours down on me like the rain&. 
+It pours down on me like the rain&.
 {WaitKey(2500);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -161,7 +161,7 @@ It pours down on me like the rain&.
 <PRE box10>
 [text005]
 //雨の冷たさより、背中を預けている瓦礫の冷たさのせいで、
-My body won't stop trembling&. 
+My body won't stop trembling&.
 {WaitKey(2500);}
 //さっきから身体の震えが止まらない。
 But, it's more the cold rubble I'm sitting on than the chill
@@ -175,7 +175,7 @@ of the rain&.
 <PRE box10>
 [text006]
 //ひどく、寒い……。
-It's horribly cold&.&.&.&.&.&.
+It's horribly cold&.&.&.&.&.
 {WaitKey(2500);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -194,7 +194,7 @@ An anonymous gaze from the heavens pierces me&.
 //ＢＧ//崩壊渋谷//雨
 	CreateTextureEX("背景１", 100, @0, @0, "cg/bg/bg001_01_1_崩壊渋谷_a.jpg");
 
-	CreateMovie("雨２", 500, 0, 0, true, false, "dx/mv雨02.ngs");	
+	CreateMovie("雨２", 500, 0, 0, true, false, "dx/mvRain02.ngs");	
 	Request("雨２", AddRender);
 	Fade("雨２", 0, 0, null, true);
 
@@ -298,10 +298,10 @@ a delusion&, but it seems that's not the case――
 My body won't move&. <?>
 {WaitKey(2000);}
 //動かせるのはかろうじて、首と瞳だけ。
-I can barely move my neck and eyes&. 
+I can barely move my neck and eyes&.
 {WaitKey(2500);}
 //もう、さっきみたいな化け物じみた力も使えない。
-I can no longer use such monstrous power&, as I did before&. 
+I can no longer use such monstrous power&, as I did before&.
 {WaitKey(2000);}
 //身体が震えているけど、そんなのただの生理現象でしかない。
 I'm trembling&, but that's no more than a physiological
@@ -318,7 +318,7 @@ phenomenon&.
 The action is involuntary&. <?>
 {WaitKey(2500);}
 //僕は身を震わせたいなんて思ってない。
-I don't want to shiver like this&. 
+I don't want to shiver like this&.
 {WaitKey(2500);}
 //僕の自由にならないなら、こんなの僕の身体じゃない。
 If I can't move it freely&, then it isn't my body&.
@@ -386,7 +386,7 @@ Am I nowhere?
 	Move("背景１", 4000, @0, @200, Dxl1, false);
 
 //	SoundPlay("@CH00",0,1000,true);
-//----------------------------------------------------------------------------//
+//――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――//
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box10>
@@ -394,8 +394,8 @@ Am I nowhere?
 //すべてが静止している、コワレてしまった世界に、
 //ふと死の雨以外の音が響く。
 Suddenly&, a sound that isn't the rain of death resounds&,
-throughout this broken world&, where everything remains 
-at a standstill&. 
+throughout this broken world&, where everything remains
+at a standstill&.
 {WaitKey(4000);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -447,7 +447,7 @@ The reason your skin appears so pale&,
 <PRE box10>
 [text021]
 //雨の冷たさに凍えているから？
-Is it because you're frozen from the coldness of the rain? 
+Is it because you're frozen from the coldness of the rain?
 {WaitKey(2000);}
 //それとも、君がもう死んでいるから？
 Or because you're already dead?
@@ -460,7 +460,7 @@ Or because you're already dead?
 <PRE box10>
 [text022]
 //でも、彼女は震えていなかった。
-But&, she isn't trembling&. 
+But&, she isn't trembling&.
 {WaitKey(2000);}
 //そして、前髪で隠れそうになっているその瞳は――
 And those eyes&, almost hidden by her bangs――
@@ -499,10 +499,10 @@ And those eyes&, almost hidden by her bangs――
 <PRE box10>
 [text023]
 //ひどく悲しそうにも見える。
-They seem terribly sad&. 
+They seem terribly sad&.
 {WaitKey(1500);}
 //狂気じみているようにも見える。
-They seem infused with madness&. 
+They seem infused with madness&.
 {WaitKey(1500);}
 //なにも映していないようにも見える。
 They seem to reflect nothing&.
@@ -540,7 +540,7 @@ like this for the rest of eternity――
 <PRE box10>
 [text026]
 //僕の世界は、彼女の瞳に映るものだけになるのかな？
-Would my world be reduced to what her eyes reflect? 
+Would my world be reduced to what her eyes reflect?
 {WaitKey(2500);}
 //彼女の世界は、僕の瞳に映るものだけになるのかな？
 Would her world be reduced to what my eyes reflect?
@@ -555,9 +555,9 @@ Would her world be reduced to what my eyes reflect?
 //彼女の瞳に映るものは、僕。
 //僕の瞳に映るものは、彼女。
 //そう考えると、世界は途端に矮小化する。
-I am what's reflected in her eyes&. 
-She is what's reflected in mine&. 
-When I think about it that way&, the world instantly 
+I am what's reflected in her eyes&.
+She is what's reflected in mine&.
+When I think about it that way&, the world instantly
 becomes much smaller&.
 {WaitKey(5000);}
 </PRE>
@@ -579,8 +579,8 @@ becomes much smaller&.
 <PRE box10>
 [text028]
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch10/21400010ri">
-<voice name="梨深" class="梨深" src="ch01/00100010ri">
+//<voice name="梨深" class="梨深" src="voice/ch10/21400010ri">
+<voice name="梨深" class="梨深" src="voice/ch01/00100010ri">
 //「ねえ――」
 "Hey――"
 {WaitKey(500);}
@@ -623,7 +623,7 @@ and spreads her arms apart――
 <PRE box10>
 [text031]
 //まるで、あの雨雲の上へ向けて飛び立とうとするかのように。
-It's like she is trying to take off and fly away&, 
+It's like she is trying to take off and fly away&,
 taking aim above the clouds&.
 {WaitKey(4000);}
 </PRE>
@@ -662,8 +662,8 @@ Or it's as if she were to catch all of the rain&.
 <PRE box10>
 [text033]
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch10/21400020ri">
-<voice name="梨深" class="梨深" src="ch01/00100020ri">
+//<voice name="梨深" class="梨深" src="voice/ch10/21400020ri">
+<voice name="梨深" class="梨深" src="voice/ch01/00100020ri">
 //「あなたを見つめる――」
 "I'm watching you――"
 {WaitKey(500);}
@@ -689,8 +689,8 @@ Or it's as if she were to catch all of the rain&.
 <PRE box10>
 [text034]
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch10/21400030ri">
-<voice name="梨深" class="梨深" src="ch01/00100030ri">
+//<voice name="梨深" class="梨深" src="voice/ch10/21400030ri">
+<voice name="梨深" class="梨深" src="voice/ch01/00100030ri">
 //「妄想――」
 "A delusion――"
 {WaitKey(500);}
@@ -723,14 +723,14 @@ there's no way I can tell the expression on her face&.
 [text036]
 //雨の薄膜の向こうで、君は、どんな顔をしている……？
 What kind of face are you making
-beyond that thin film of rain&.&.&.&.&.&.?
+beyond that thin film of rain&.&.&.&.&.?
 {WaitKey(2500);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin3(200);//―――――――――――――――――――――――――――――
 
 
-	CreateMovie("ムービー", 1000, Center, Middle, false, false, "dx/mvソード03.ngs");
+	CreateMovie("ムービー", 1000, Center, Middle, false, false, "dx/mvSword03.ngs");
 
 	Fade("ムービー", 0, 0, null, false);
 
@@ -769,8 +769,8 @@ beyond that thin film of rain&.&.&.&.&.&.?
 <PRE box10>
 [text037]
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch10/21400040ri">
-<voice name="梨深" class="梨深" src="ch01/00100040ri">
+//<voice name="梨深" class="梨深" src="voice/ch10/21400040ri">
+<voice name="梨深" class="梨深" src="voice/ch01/00100040ri">
 //「殺してあげる――」
 "I'll kill you――"
 {WaitKey(500);}
@@ -819,7 +819,7 @@ beyond that thin film of rain&.&.&.&.&.&.?
 //それとも……
 Those feathers of light that dance wildly&.&.&.
 are they giving me a blessing?
-Or maybe&.&.&.&.&.&.
+Or maybe&.&.&.&.&.
 {WaitKey(4000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -848,7 +848,7 @@ Or maybe&.&.&.&.&.&.
 <PRE box10>
 [text040]
 //ああ……そうか。理解したよ。
-Ahh&.&.&.&.&.&. I see&. I understand&.
+Ahh&.&.&.&.&. I see&. I understand&.
 {WaitKey(2000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -871,7 +871,7 @@ She'll use "that" to kill me――
 	Fade("WhiteAll", 0, 0, null, false);
 	Fade("WhiteAll", 500, 300, null, false);
 
-	CreateMovie("雨２", 500, 0, 0, true, false, "dx/mv雨02.ngs");	
+	CreateMovie("雨２", 500, 0, 0, true, false, "dx/mvRain02.ngs");	
 	Request("雨２", AddRender);
 	Fade("雨２", 0, 1000, null, true);
 	CreateTextureEX("タクミ", 200, InLeft, InBottom, "cg/ev/ev003_01_1_INT01横顔_b.png");
@@ -946,9 +946,9 @@ I simply surrender my body to her&.
 <PRE box10>
 [text044]
 //【梨深】
-<voice name="梨深" class="梨深" src="ch10/21400050ri">
+<voice name="梨深" class="梨深" src="voice/ch10/21400050ri">
 //「……殺さなくちゃ……いけないの」
-"&.&.&.&.&.&. I have to&.&.&.&.&.&. kill you&.&.&."
+"&.&.&.&.&. I have to&.&.&.&.&. kill you&.&.&."
 {WaitKey(5000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -969,9 +969,9 @@ A whisper near my ear&. A beautiful noise&.
 <PRE box10>
 [text046]
 //【梨深】
-<voice name="梨深" class="梨深" src="ch10/21400060ri">
+<voice name="梨深" class="梨深" src="voice/ch10/21400060ri">
 //「ごめん……ごめんね……」
-"I'm sorry&.&.&.&.&.&. I'm so sorry&.&.&.&.&.&."
+"I'm sorry&.&.&.&.&. I'm so sorry&.&.&.&.&."
 {WaitKey(5000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -981,7 +981,7 @@ A whisper near my ear&. A beautiful noise&.
 <PRE box10>
 [text047]
 //謝ること、ないよ。
-There's nothing to apologize for&. 
+There's nothing to apologize for&.
 {WaitKey(2000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -993,7 +993,7 @@ There's nothing to apologize for&.
 [text048]
 //僕が消えなくちゃ、もうひとりの僕――本物の僕が、死んじゃうんだ。
 If I don't disappear&, the other me――
-the real me――will die&. 
+the real me――will die&.
 {WaitKey(3500);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1003,7 +1003,7 @@ the real me――will die&.
 <PRE box10>
 [text049]
 //だから、これでいい。
-So I'm fine with this&. 
+So I'm fine with this&.
 {WaitKey(2000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1016,9 +1016,9 @@ So I'm fine with this&.
 //君に消されるなら、よかった。
 //化け物としては、幸せな終わり方。
 //もう、なにも悔いはない。
-I'm glad you're going to erase me&. 
-It's a happy ending for a monster&. 
-I no longer have any regrets&. 
+I'm glad you're going to erase me&.
+It's a happy ending for a monster&.
+I no longer have any regrets&.
 {WaitKey(4000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1059,9 +1059,9 @@ I no longer have any regrets&.
 <PRE box10>
 [text051]
 //【梨深】
-<voice name="梨深" class="梨深" src="ch10/21400070ri">
+<voice name="梨深" class="梨深" src="voice/ch10/21400070ri">
 //「ん……っ」
-"Mm&.&.&.&.&.&." 
+"Mm&.&.&.&.&."
 {WaitKey(3000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1082,7 +1082,7 @@ A warm&, soft&, tender&, and sweet sensation&.
 <PRE box10>
 [text053]
 //それは麻酔のようで――
-Much like anesthesia--
+Much like anesthesia―
 {WaitKey(1500);}
 //不思議なことに、身体の震えが、ゆっくりと治まっていく。
 //彼女のかすかな鼻息が、僕の頬をくすぐる。とても甘い匂い。
@@ -1204,8 +1204,8 @@ at the dark gray sky that continues to pour rain on us&.
 
 function SetText2("ボックス名","$テキスト名")
 {
-	SetFont("ＭＳ ゴシック", 20, #000000, #CCCCCC, HEAVY, LEFTDOWN);
-	LoadText("$構文名","ボックス名","$テキスト名",720,130,0,29);
+	SetMainFont("DroidMSGothic", 20, #000000, #CCCCCC, HEAVY, LEFTDOWN);
+	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);
 	Request("$テキスト名", Lock);

@@ -32,8 +32,8 @@ function ch02_046_ヴァンパイ屋事件()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-That night&, another grotesque incident took place&. 
-The fourth New Gen case&. 
+That night&, another grotesque incident took place&.
+The fourth New Gen case&.
 
 As usual&, Grim had been stocking up on the latest news while I played
 ESO&.
@@ -111,13 +111,13 @@ Grim>Whose eyes are those eyes?
 <PRE box00>
 [text005]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600010ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600010ta">
+"&.&.&.!"
 
-For a second&, I doubted my own sight&. 
+For a second&, I doubted my own sight&.
 
-How&.&.&.&. did Grim know that phrase&.&.&.&. 
-In my bewilderment&, my fingers trembled against the keyboard&. 
+How&.&.&. did Grim know that phrase&.&.&.
+In my bewilderment&, my fingers trembled against the keyboard&.
 I didn't know what kind of answer to give Grim&, and it was all I
 could do to follow his words with my eyes&.
 
@@ -266,12 +266,12 @@ Grim>A human being couldn't pull off this kind of crime!
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-Sitting in front of my PC&, I bit my lip&. 
+Sitting in front of my PC&, I bit my lip&.
 
 My head was threatening to start imagining it&. I somehow managed to
 shake off the visions&.
 For the time being&, I'd better have a mouthful of Coke and regain my
-composure&. 
+composure&.
 
 Dammit&, that ass Grim definitely raised the subject that way on
 purpose&, as if to ambush me&.
@@ -478,7 +478,7 @@ Grim>Whaddaya think?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box02>
 [text034]
-Neidhardt>I get the sense that&.&.&.&. you're baiting me&.&.&.&.
+Neidhardt>I get the sense that&.&.&. you're baiting me&.&.&.
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(1,1,1100);
@@ -495,7 +495,7 @@ Neidhardt>I get the sense that&.&.&.&. you're baiting me&.&.&.&.
 <PRE box00>
 [text035]
 Last time this happened&, he'd gotten me all worked up by acting like
-it was a guro pic&, and then it turned out to be some stupid doodle&. 
+it was a guro pic&, and then it turned out to be some stupid doodle&.
 
 The opposite was more than possible&.
 
@@ -580,11 +580,11 @@ Grim>What if I said it had to do with your precious Seira-tan?
 <PRE box00>
 [text042]
 For real!?
-Then I had no choice but to look at it! 
+Then I had no choice but to look at it!
 
 Well&, going by the URL&, the link appeared to lead to an online
 auction&, so it couldn't be anything so bad as to make my mental
-browser crash&. 
+browser crash&.
 
 Getting a little excited&, I opened the link&.
 
@@ -615,12 +615,12 @@ Getting a little excited&, I opened the link&.
 <PRE box00>
 [text043]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600020ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600020ta">
 "Hm?"
 
-"Supplies of Type B blood are currently inadequate"&.&.&.&.? 
+"Supplies of Type B blood are currently inadequate"&.&.&.?
 
-It felt kind of like&.&.&.&. I'd seen this headline somewhere before&.
+It felt kind of like&.&.&. I'd seen this headline somewhere before&.
 
 Deja vu again&, huh?
 
@@ -642,25 +642,25 @@ Rolling the wheel of my mouse&, I made the page scroll down&.
 	CreateSE("SE03","SE_人体_心臓_鼓動_loop");
 	SoundPlay("SE03", 0, 1000, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600030ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600030ta">
+"&.&.&.!"
 
 {	MusicStart("@CH01", 2000, 1000, 0, 1000, null, false);
 	Fade("背景１", 0, 0, null, true);}
 //イメージＢＧ//ＰＣ画面（エンスープレイ中）
-What showed up on the monitor without any warning 
-Was instantly recognizable as a guro image&, 
+What showed up on the monitor without any warning
+Was instantly recognizable as a guro image&,
 
 And I hastily returned my gaze to my left-hand monitor and closed the
 browser window&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600040ta">
-"Haa&.&.&.&. Haa&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600040ta">
+"Haa&.&.&. Haa&.&.&."
 
 The guro image had been displayed on the monitor for less than three
 seconds&. The amount of time I had seen it squarely with my own eyes
-was hardly a full second&. Yet despite that--
+was hardly a full second&. Yet despite that―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -814,8 +814,8 @@ Grim>They're{#TIPS_職人 = true;} hard at work&, lol
 <PRE box00>
 [text056]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600050ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600050ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -854,7 +854,7 @@ Grim>In the middle of that pic
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text059]
-The dying&.&.&.&. message&.&.&.&.
+The dying&.&.&. message&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -927,34 +927,34 @@ Grim>Your screen frozen?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text065]
-The dying&.&.&.&. message&.&.&.&. 
+The dying&.&.&. message&.&.&.
 
-I'd only seen the picture for an instant&. 
+I'd only seen the picture for an instant&.
 Yet despite that&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600060ta">
-"It's a game&.&.&.&. A world like this&, it's fictional&.&.&.&. It has
-to be the world of a game&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600060ta">
+"It's a game&.&.&. A world like this&, it's fictional&.&.&. It has
+to be the world of a game&.&.&."
 
 The message like a dying scream&, drawn on the wall in misshapen red
-letters&, had seared itself onto my brain&.&.&.&. 
+letters&, had seared itself onto my brain&.&.&.
 
 Regardless of how I tried not to think about it&, the individual
 letters came floating up on the backs of my eyelids one by one&,
 calling out to me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04600070ta">
-"Why did those words&.&.&.&. Why did those words show up here&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04600070ta">
+"Why did those words&.&.&. Why did those words show up here&.&.&."
 
 
 I was familiar with these words&.
-I often muttered them&. 
+I often muttered them&.
 
-A question aimed at no one&. 
+A question aimed at no one&.
 A little while ago&, it had been the very first thing Grim said to me
-when he entered ESO&. 
+when he entered ESO&.
 
 Words that seemed utterly common&.&.&.
 Yet you would never have the chance to use them in the course of your

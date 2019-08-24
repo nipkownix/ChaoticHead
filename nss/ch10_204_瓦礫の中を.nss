@@ -95,76 +95,76 @@ if($GameDebugSelect == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-As Nanami staggered and seemed about to topple over&, I hastily caught 
-her&. 
+As Nanami staggered and seemed about to topple over&, I hastily caught
+her&.
 
 //Ÿó‚­‹ê‚µ‚»‚¤‚ÈŒÄ‹z
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20400010na">
-"&.&.&.&.&.ah&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/20400010na">
+"&.&.&.&.ah&.&.&."
 
-She'd gone unconscious&. 
-Her face was as white as a sheet&. Her breathing&, too&, sounded painful&. 
+She'd gone unconscious&.
+Her face was as white as a sheet&. Her breathing&, too&, sounded painful&.
 
 {	Stand("stq_ƒX[ƒc_’Êí","angry", 200, @+200);
 	FadeStand("stq_ƒX[ƒc_’Êí_angry", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400020mm">
-"We have to bring her to a hospital&, quickly&. At this rate&, she'll be 
+<voice name="•S£" class="•S£" src="voice/ch10/20400020mm">
+"We have to bring her to a hospital&, quickly&. At this rate&, she'll be
 in danger&."
 
 Said the plump woman who had introduced herself as Momose&, looking over
-into Nanami's face and speaking gravely&. 
-Next&, she turned her eyes on "Shogun&." 
+into Nanami's face and speaking gravely&.
+Next&, she turned her eyes on "Shogun&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400030mm">
-"Same goes for the boy sleeping over there&." 
+<voice name="•S£" class="•S£" src="voice/ch10/20400030mm">
+"Same goes for the boy sleeping over there&."
 
 {	CreateTextureEX("back10", 500, 0, 0, "cg/bg/bg027_03_5_“¹Œºâ_a.jpg");
 	Fade("back10", 500, 1000, null, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_angry", 0, false);
 	Fade("back10", 300, 0, null, true);}
-I entrusted Nanami to Momose-san&.  
+I entrusted Nanami to Momose-san&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400040ta">
-"Take care of the two of them&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400040ta">
+"Take care of the two of them&.&.&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","hard", 200, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_hard", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400050mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400050mm">
 "What are you going to do?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400060ta">
-"There's someone I have to look for&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400060ta">
+"There's someone I have to look for&.&.&."
 
-Noah II's location&. 
+Noah II's location&.
 
-I'd tried asking Nanami&, but she told me she wasn't sure where she'd 
-been held captive&. 
+I'd tried asking Nanami&, but she told me she wasn't sure where she'd
+been held captive&.
 
-The only thing I could do was search for the person called Hatano&, 
-after all&. 
+The only thing I could do was search for the person called Hatano&,
+after all&.
 
 {	DeleteStand("stq_ƒX[ƒc_’Êí_hard", 500, true);
 	Stand("st‚ ‚â‚¹_§•_’Êí","normal", 200, @+150);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_normal", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20400070ay">
-"Is it necessary? For defeating Gladioul&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20400070ay">
+"Is it necessary? For defeating Gladioul&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400080ta">
-"Gladioul&, huh&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400080ta">
+"Gladioul&, huh&.&.&."
 
-If you were to rephrase it as Noah II-- 
+If you were to rephrase it as Noah II\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400090ta">
-"Yeah&. That's right&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400090ta">
+"Yeah&. That's right&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -186,21 +186,21 @@ She took a step closer to me&. Dragging one of her legs slightly&.
 It seemed as though she really were wounded&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20400100ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20400100ay">
 "I'll go with you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400110ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400110ta">
 "You don't need to&."
 
 Even after I told her so&, Ayase shook her head in refusal&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20400120ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20400120ay">
 "All seven must gather&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400130ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400130ta">
 "Ayase&, and Yua&, I'd like you to look for someone called Hatano&."
 
 {	Fade("back10", 500, 1000, null, true);
@@ -215,18 +215,19 @@ shrinking back behind Momose-san&, jump a little&, her shoulders
 trembling&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400140ta">
-"Because he knows&.&.&.&. where Noah II is&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400140ta">
+"Because he knows&.&.&. where Noah II is&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400150ta">
-"Even if we're not acting in tandem&, I know everything that all of you observe&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400150ta">
+"Even if we're not acting in tandem&, I know everything that
+all of you observe&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400160ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400160ta">
 "So for now&, let's split up and look for him&."
 
-For the moment&, I thought it was the best possible strategy&. 
+For the moment&, I thought it was the best possible strategy&.
 We had to hurry&.
 
 There was no guaranteeing our safety if another earthquake took place&.
@@ -249,8 +250,8 @@ There was no guaranteeing our safety if another earthquake took place&.
 [text003]
 //ŸaX
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20400170ay">
-"&.&.&.&.Understood&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20400170ay">
+"&.&.&.Understood&."
 
 Ayase said&, though she lowered her eyes regrettably&.
 
@@ -258,30 +259,30 @@ Ayase said&, though she lowered her eyes regrettably&.
 	Stand("stq_ƒX[ƒc_’Êí","sigh", 250, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_sigh", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400180mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400180mm">
 "I can't say I quite get it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400190ta">
-"Norose Genichi is the one who's been controlling everything from 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400190ta">
+"Norose Genichi is the one who's been controlling everything from
 behind the sce<pre>n</pre>es&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","hard", 250, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_sigh", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400200mm">
-"&.&.&.&.!"
+<voice name="•S£" class="•S£" src="voice/ch10/20400200mm">
+"&.&.&.!"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400210mm">
-"So that's how it is&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20400210mm">
+"So that's how it is&.&.&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","normal", 250, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_hard", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400220mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400220mm">
 "Then leave your sister and the others to me&."
 
 Momose-san thrust out her chest&.
@@ -291,19 +292,21 @@ And nodded as though to encourage me&.
 	FadeStand("stq_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_normal", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400230mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400230mm">
 "However&, don't go overboard&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400240mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400240mm">
 "And I have a single request to make of you&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","normal", 250, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_hard", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400250mm">
-"Ban-chan&.&.&.&. ummm&, if you see a stupidly grinning&, suspicious-looking&, middle-aged detective&, would you tell him to contact me?"
+<voice name="•S£" class="•S£" src="voice/ch10/20400250mm">
+"Ban-chan&.&.&. ummm&, if you see a stupidly grinning&,
+suspicious-looking&, middle-aged detective&, would
+you tell him to contact me?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -336,22 +339,22 @@ Shot to death by his partner&.
 Because I'd unconsciously witnessed the moment when it happened&.
 
 I was about to convey this to Momose-san&.
-But--
+But\
 
 {	Stand("stq_ƒX[ƒc_’Êí","sigh", 250, @+100);
 	FadeStand("stq_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_normal", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400260mm">
-"Good grief&. I wonder where he's loitering around at a time like this&." 
+<voice name="•S£" class="•S£" src="voice/ch10/20400260mm">
+"Good grief&. I wonder where he's loitering around at a time like this&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400270mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400270mm">
 "Well&, maybe&, unexpectedly enough&, he's helping out the wounded&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400280ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400280ta">
+"&.&.&.&.&.&.&."
 
 Since Momose-san said such things&.
 I found myself unable to tell her&.
@@ -360,12 +363,12 @@ I found myself unable to tell her&.
 	FadeStand("stq_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_sigh", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20400290mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20400290mm">
 "Anyway&, thanks in advance&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400300ta">
-"Yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400300ta">
+"Yeah&.&.&."
 
 I nodded without meaning to&.
 At a promise that was 100% impossible to fulfill&.
@@ -385,8 +388,8 @@ But I couldn't think of how else to answer her&.
 <PRE box00>
 [text005]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400310yu">
-"Um&.&.&.&. Ni&, Nishijou-kun&.&.&.&.!"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400310yu">
+"Um&.&.&. Ni&, Nishijou-kun&.&.&.!"
 
 Yua&, head lowered&, spoke in a voice as weak as a fly's rasping&.
 
@@ -397,46 +400,46 @@ looking as if she were about to say something&.
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400320yu">
-"&.&.&.&.I'm sorry I suspected you&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400320yu">
+"&.&.&.I'm sorry I suspected you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400330ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400330ta">
+"&.&.&.&.&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400340yu">
-"The things I said must've hurt you&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400340yu">
+"The things I said must've hurt you&.&.&."
 
 The lenses of her glasses&, considerably soiled with dust&.
 Behind them&, her eyes were surely wet with tears&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400350yu">
-"I don't think you'll forgive me even if I apologize&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400350yu">
+"I don't think you'll forgive me even if I apologize&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400360yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400360yu">
 "But please let me apologize anyway&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400370yu">
-"I'm sorry&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400370yu">
+"I'm sorry&.&.&."
 
 She bowed deeply to me&.
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 500, true);
 	Stand("st—Dˆ¤_§•_’Êí¶è‰º","sad", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_sad", 500, true);}
-I turned my back on her without saying anything&. 
+I turned my back on her without saying anything&.
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400380yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400380yu">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400390ta">
-"The Seira-tan figures in my base&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400390ta">
+"The Seira-tan figures in my base&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -447,19 +450,19 @@ I turned my back on her without saying anything&.
 <PRE box00>
 [text006]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400400yu">
-"Yes&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400400yu">
+"Yes&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400410ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400410ta">
 "If you'd like to&, will you take them for me?"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_sad", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400420yu">
-"&.&.&.&.Ah"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400420yu">
+"&.&.&.Ah"
 
 It had been a shock when she deceived me&, but now I understood her
 circumstances&.
@@ -475,27 +478,27 @@ forgive her&.
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400430yu">
-"Um&, is it really okay&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400430yu">
+"Um&, is it really okay&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20400440ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20400440ta">
 "I want you to have them&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400450yu">
-"Ye&, yes&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400450yu">
+"Ye&, yes&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400460yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400460yu">
 "Yes&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20400470yu">
-"Let's go&.&.&.&. to buy figures again&, together&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20400470yu">
+"Let's go&.&.&. to buy figures again&, together&."
 
 At last it returned to Yua&, a gentle smile like the one she'd worn when
 we met for the first time&.
@@ -516,7 +519,7 @@ I seared the image of Nanami and "Shogun" into my eyes one last time&.
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_angry", 0, false);
 	DeleteStand("stq_ƒX[ƒc_’Êí_normal", 0, true);
 	Fade("back10", 500, 0, null, true);}
-I began walking alone through the mountain of rubble&. 
+I began walking alone through the mountain of rubble&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -56,82 +56,82 @@ function ch03_062_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚O‚X()
 <PRE box00>
 [text001]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200010nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200010nr">
 "The First Melt has ended with results that surpass our
 expectations&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200020nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200020nr">
 //Ÿ‚f‚dƒŒ[ƒg‚¶[‚¢[‚ê[‚Æ
 "There are only slight discrepancies between the GE rate's rise and
 our initial calculations&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch03/06200030ih">
+<voice name="’–•@" class="’–•@" src="voice/ch03/06200030ih">
 "Are our attempts at {#TIPS_ƒoƒCƒIƒŠƒYƒ€ = true;}<FONT
 incolor="#88abda" outcolor="BLACK">biorhythm</FONT> control also
 proceeding smoothly?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200040nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200040nr">
 "Shibuya's GE rate&, while simultaneously much higher than those found
 in other areas&, is also particularly stable&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch03/06200050kr">
+<voice name="‘q" class="‘q" src="voice/ch03/06200050kr">
 "As a result&, deliberately manipulating it is a simple matter&.
 Similarly&, forcing a marked heightening in the biorhythms of
-Shibuya's inhabitants would also be&.&.&.&."
+Shibuya's inhabitants would also be&.&.&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200060nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200060nr">
 "Please refer to the report on our experimental results&. I believe
 you will find the fruit of our efforts to be more than acceptable&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch03/06200070ih">
+<voice name="’–•@" class="’–•@" src="voice/ch03/06200070ih">
 "Hmph&, it's only natural that you produce the desired results&.
 That's why we're spending a great deal of money and human resources to
 accomodate you&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch03/06200080kr">
+<voice name="‘q" class="‘q" src="voice/ch03/06200080kr">
 "I understand how effective it is&. These past few months&, the ranks
 of our church's followers have multiplied several times over&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200090nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200090nr">
 "Well&, then&, 'Project Noah' will proceed to its next stage&. Do you
 agree&, gentlemen?"
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch03/06200100ih">
+<voice name="’–•@" class="’–•@" src="voice/ch03/06200100ih">
 "What of the CODE samples? Though you've secured three people's worth
 of samples&, you have yet to reach our target numbers&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch03/06200110kr">
+<voice name="‘q" class="‘q" src="voice/ch03/06200110kr">
 "Indeed&. It will be difficult to achieve those numerical values
 without samples from at least five subjects&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200120nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200120nr">
 "We are currently in the process of gathering sample carriers&. All
 that remains is extraction&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch03/06200130ih">
+<voice name="’–•@" class="’–•@" src="voice/ch03/06200130ih">
 "Then I leave it in your hands&."
 
 //¦u_Œõ‚Ì‹~‚¢‚ ‚êv“V¬_Œõ‰ï‚Ì‹³‹`‚Ì‚æ‚¤‚È‚à‚ÌBÅI“I‚É•šü‚Æ‚µ‚Äg‚¢‚Ü‚·
 //y‘qz
-<voice name="‘q" class="‘q" src="ch03/06200140kr">
+<voice name="‘q" class="‘q" src="voice/ch03/06200140kr">
 "May the divine light save you&. Henceforth&, carry on with
 precaution&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch03/06200150nr">
-"Yes&, very well&, sir&.&.&.&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200150nr">
+"Yes&, very well&, sir&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -91,52 +91,52 @@ if($妄想トリガー３３ == 2)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-What part of that delicate body of hers contained such strength? 
+What part of that delicate body of hers contained such strength?
 
 As far as I could tell by looking&, its size made it seem certain to
-be at least over five kilograms&. 
+be at least over five kilograms&.
 
 Kozu-pii&, literally "reading" my internal doubts&, turned back toward
 me and smiled shyly&.
 
 {	MusicStart("SE01", 500, 0, 0, 0, null, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500010ko">
-"Kozu-pii is an android 
+<voice name="梢" class="こずえ" src="voice/ch07/14500010ko">
+"Kozu-pii is an android
 created juuuust to protect you&, Takumi-shan&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500020ta">
-"&.&.&.&.Huh?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500020ta">
+"&.&.&.Huh?"
 
 {	MusicStart("@CH05", 0, 1000, 0, 1000, null, true);}
-Did she just say&.&.&.&. android?
-What kinda anime premise is this&.&.&.&.
+Did she just say&.&.&. android?
+What kinda anime premise is this&.&.&.
 
-Ignoring my stupefication&, Kozu-pii clenched one hand into a c<pre>u</pre>te
-fist&.
+Ignoring my stupefication&, Kozu-pii clenched one hand
+into a c<pre>u</pre>te fist&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500030ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500030ko">
 "No need to worry anymore&, Takumi-shan&."
 
 //◆ヤーツ＝奴
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500040ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500040ko">
 "Kozu-pii is gonna blast away all the baaaaaad guys coming after
 you&."
 
 //◆ちーなみに＝ちなみに
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500050ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500050ko">
 "Byyyy the way&, Kozu-pii also functions as a maid&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500060ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500060ko">
 "So&, sooo&, from now on I want to live with you&, Takumi-shan&, and
-take care of you&." 
+take care of you&."
 
-I&, I see&, how convenient&.&.&.&. 
+I&, I see&, how convenient&.&.&.
 
 Well&, there might not be anything wrong with accepting Kozu-pii as an
 android&.
@@ -154,11 +154,11 @@ But there was a single condition I simply wouldn't back down on&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500070ta">
-"&.&.&.&.Might&, might you by any chance be equipped to do ecchi
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500070ta">
+"&.&.&.Might&, might you by any chance be equipped to do ecchi
 things?"
 
-For some reason I'd slipped into formal language&.&.&.&.
+For some reason I'd slipped into formal language&.&.&.
 
 No&, hold up&, I'd just asked something totally unbelievable&.
 
@@ -170,31 +170,31 @@ As I waffled over whether or not to apologize&,<?>
 Kozu-pii blushed and lowered her eyes&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500080ko">
-"&.&.&.&.Yeah&."
+<voice name="梢" class="こずえ" src="voice/ch07/14500080ko">
+"&.&.&.Yeah&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500090ta">
-"Eh&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500090ta">
+"Eh&.&.&.?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500100ko">
-"I can do&.&.&.&. ecchi things&, too&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch07/14500100ko">
+"I can do&.&.&. ecchi things&, too&.&.&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500110ko">
-"I'll do my best to service you at night&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch07/14500110ko">
+"I'll do my best to service you at night&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500120ta">
-"&.&.&.&.&.&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500120ta">
+"&.&.&.&.&.&.&.!"
 
-OHSHI--!!!11!!!1! 
+OHSHI-!!!11!!!1!
 
 A battle-capable maid android who's also designed for nighttime
-service! 
+service!
 
-That's straight out of an eroge! 
+That's straight out of an eroge!
 
 Her optional functions are complete across the board&, heh&.
 
@@ -227,17 +227,17 @@ Japanese technology is NUMBER ONE IN THE WORLD!
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-&.&.&.&.Sword in hand&, Kozu-pii strode lightly around the store even
-while I went on having such a moronic delusion&. 
+&.&.&.Sword in hand&, Kozu-pii strode lightly around the store even
+while I went on having such a moronic delusion&.
 
 Kozu-pii made no attempt to conceal her sword from those around us&,
-as if it were perfectly natural for her not to do so&. 
+as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
 Shibuya&, carrying her ginormous sword&, without a thought to spare
-for how it might inconvenience others&. 
+for how it might inconvenience others&.
 
-They were far too composed about it&. 
+They were far too composed about it&.
 Sena and Kozu-pii were both abnormal&, after all&.
 
 </PRE>
@@ -272,18 +272,18 @@ if($妄想トリガー３３ == 1)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-Why did Kozu-pii have a Di-Sword&.&.&.&.
+Why did Kozu-pii have a Di-Sword&.&.&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500130ko">
-"Becaaaause&, Kozu-pii is--"
+<voice name="梢" class="こずえ" src="voice/ch07/14500130ko">
+"Becaaaause&, Kozu-pii is―"
 
-Smiling innocently&, Kozu-pii turned back toward me--
+Smiling innocently&, Kozu-pii turned back toward me―
 
 {	Delete("SE01");}
 //◆「しょーぐんしゃん」＝「将軍しゃん」
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500140ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500140ko">
 "Shooogun-shan's henchman ♪"
 
 That vast&, snowboard-esque plank
@@ -298,7 +298,7 @@ Flashed as though to slice the air&.
 	CreateSE("SE02","SE_擬音_ディソード_空を切る2");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
-	CreateMovie("剣１", 1000, 0, 0, false, false, "dx/mv軌跡02.ngs");
+	CreateMovie("剣１", 1000, 0, 0, false, false, "dx/mvTrack02.ngs");
 	Fade("剣１", 0, 0, null, true);
 	Fade("剣１", 50, 1000, null, true);
 	Wait(500);
@@ -320,18 +320,18 @@ Flashed as though to slice the air&.
 [text005]
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500150ta">
-"&.&.&.&.Eh?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500150ta">
+"&.&.&.Eh?"
 
-I couldn't quite comprehend what had happened&. 
+I couldn't quite comprehend what had happened&.
 Everything ended before I had time to react&.
 
-Kozu-pii embraced her Di-Sword with her petite body&. 
+Kozu-pii embraced her Di-Sword with her petite body&.
 
-Plastered to it wetly--was blood&.
+Plastered to it wetly―was blood&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500160ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500160ko">
 "Bye-byeee&, Takumi-shan ♪"
 
 My body
@@ -354,8 +354,8 @@ I'd lost all sensation in the lower half of my body&.
 There was a scorching heat in the area around my waist&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500170ta">
-"Hu&.&.&.&.h&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500170ta">
+"Hu&.&.&.h&.&.&.?"
 
 {	DeleteStand("bu梢_制服_武器構え青_smile", 300, true);
 	CreateSE("SE03","SE_人体_動作_嘔吐");
@@ -381,23 +381,23 @@ confusion&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-Blood gouted out of my side&. 
-My intestines&, spilling forth&, glistened wetly&. 
-Pink meat clung to my exposed white bones&. 
+Blood gouted out of my side&.
+My intestines&, spilling forth&, glistened wetly&.
+Pink meat clung to my exposed white bones&.
 
-A gouged body&. 
+A gouged body&.
 It didn't seem like my own&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500180ta">
-"It's&.&.&.&. a lie&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500180ta">
+"It's&.&.&. a lie&.&.&."
 
 {	Stand("bu梢_制服_武器構え青","smile", 500, @+150);
 	FadeStand("bu梢_制服_武器構え青_smile", 500, true);}
 Unable to believe what I was seeing&, I looked up at Kozu-pii&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500190ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500190ko">
 "Upyuu~"
 
 Gazing at me with contemptuous eyes&,
@@ -413,7 +413,7 @@ Slowly
 
 As if she were putting on a display for me
 
---Licked my blood off it&.
+―Licked my blood off it&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -443,27 +443,27 @@ As if she were putting on a display for me
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500200ta">
-"Uughee&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500200ta">
+"Uughee&.&.&."
 
 My delusion made me feel sick&.
 
-But there was no guarantee that it wouldn't become reality&. 
+But there was no guarantee that it wouldn't become reality&.
 
 Assuming the worst&, I opened some distance between me and Kozu-pii&.
-I braced myself to be ready to flee at any moment&. 
+I braced myself to be ready to flee at any moment&.
 
-&.&.&.&.As though she hadn't noticed how I felt&, Kozu-pii strode
-lightly around the store&, sword in hand&. 
+&.&.&.As though she hadn't noticed how I felt&, Kozu-pii strode
+lightly around the store&, sword in hand&.
 
 Kozu-pii made no attempt to conceal her sword from those around us&,
-as if it were perfectly natural for her not to do so&. 
+as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
 Shibuya&, carrying her ginormous sword&, without a thought to spare
-for how it might inconvenience others&. 
+for how it might inconvenience others&.
 
-They were far too composed about it&. 
+They were far too composed about it&.
 Sena and Kozu-pii were both abnormal&, after all&.
 
 </PRE>
@@ -513,16 +513,16 @@ Whether or not she knew of my worry&, Kozu-pii lowered her sword
 recklessly and whirled around in place&. Like she was having fun&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500210ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500210ko">
 "This is Kozu-pii's sword&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500220ko">
-"It does away with bad guys&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500220ko">
+"It does away with bad guys&."
 
-Does away with&.&.&.&. bad guys? 
+Does away with&.&.&. bad guys?
 
-Her words unsettled me&. 
+Her words unsettled me&.
 Something about them nagged at me&.
 
 </PRE>
@@ -558,68 +558,68 @@ Something about them nagged at me&.
 <PRE box00>
 [text009]
 What I then recalled was a smell&.
-The smell of blood&. 
+The smell of blood&.
 
 I recalled the spectacle of those fallen&, blood-drenched
-thugs&.&.&.&.
+thugs&.&.&.
 
 {	DeleteStand("st梢_制服_武器構え青_normal", 500, true);
 	Stand("bu梢_制服_武器構え青","angry", 500, @+150);
 	FadeStand("bu梢_制服_武器構え青_angry", 500, true);}
 //◆とーうぜん＝当然
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500230ko">
-"It's tooootally natural for such awful people to die&, pun-pun&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500230ko">
+"It's tooootally natural for such awful people to die&, pun-pun&."
 
-Ha&, had they really died&.&.&.&.?
+Ha&, had they really died&.&.&.?
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500240ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500240ko">
 "Nope&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500250ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500250ko">
 "Not that there's aaaany reason for them to live&. They're so
 roachy-roachy&."
 
 Roachy-roachy?
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500260ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500260ko">
 "They're cockroaches ♪"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500270ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500270ko">
 "Haaaah&, I wanted to kill them&."
 
 //※梢はＤＱＮ３人組に対してなにもしていない。梢があの場に来たときにはすでに拓巳によって３人組はボコボコにされた後だった。
-I distinctly picked up on what lay in her heart as she said this&. 
+I distinctly picked up on what lay in her heart as she said this&.
 
-There was not a single scrap of malice within her&. 
+There was not a single scrap of malice within her&.
 She simply wanted to retaliate against bad people&, and she didn't see
 anything wrong with it&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500280ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500280ko">
 "Shibuya has gotten more and moooore dangerous lately&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500290ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500290ko">
 "Yesterday I almost got kidnapped by some scary roachy-roachy guys&,
 but I ba-bang-boom-bashed them up&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500300ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500300ta">
+"&.&.&.&.&.&.&."
 
-She&, too&, might be twisted&. 
+She&, too&, might be twisted&.
 In a different way from me&.
 
 {	Stand("st梢_制服_武器構え青","smile", 500, @+150);
 	DeleteStand("bu梢_制服_武器構え青_angry", 500, true);
 	FadeStand("st梢_制服_武器構え青_smile", 500, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500310ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500310ko">
 "Nishijou-kun&, thiiiiis way&."
 
 </PRE>
@@ -629,11 +629,11 @@ In a different way from me&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-Still carrying her colossal Di-Sword&, Kozu-pii started walking off&. 
+Still carrying her colossal Di-Sword&, Kozu-pii started walking off&.
 
 She was short and slender-armed and didn't look strong at all&, but
 she proceeded with light footsteps&, showing no particular signs of
-feeling the sword's weight&. 
+feeling the sword's weight&.
 
 She frequently seemed about to bump into passing customers or
 displayed goods with the tip of her sword&, and I covered my eyes each
@@ -661,10 +661,10 @@ time&. Miraculously&, however&, she got by without hitting anyone&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-Our destination turned out to be a staircase&. 
+Our destination turned out to be a staircase&.
 
 It was dim&, and unlike the rest of the floor&, empty of a human
-presence&. No one had come here&. 
+presence&. No one had come here&.
 
 How unexpected&, for such a desolate space to exist in the famous Roft
 store&, hardly a five minute-walk away from Shibuya Station&.
@@ -672,25 +672,25 @@ store&, hardly a five minute-walk away from Shibuya Station&.
 {	Stand("st梢_制服_武器構え青","normal", 500, @-150);
 	FadeStand("st梢_制服_武器構え青_normal", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500320ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500320ko">
 "It's not only in Roft&."
 
 //◆ぜんぜーん＝全然
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500330ko">
-"People are never&, neeever in department store stairwells&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500330ko">
+"People are never&, neeever in department store stairwells&."
 
 How could she know something like this that I didn't&, when she'd
 moved here only a few weeks ago&, and I'd been living in Shibuya for
-almost two years&.&.&.&.
+almost two years&.&.&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500340ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500340ko">
 "Every since I got to Tokyo&, I've walked around Shibuya every single
 day&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500350ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500350ko">
 "And so I foooound it&. A place of rest&."
 
 Evidently in a positive mood&, Kozu-pii sat down on the stairs&.
@@ -703,22 +703,22 @@ Since I'd also lost the ability to put up with the ache in my sides&,
 I decided to take a short breather as well&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500360ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500360ko">
 "And so&, and sooo&, when you look at the sce<pre>n</pre>ery or patterns or
 such&, doesn't it seem like something different to you?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500370ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500370ko">
 "Like elephants&, or bunnies&, or lions&."
 
 {	Stand("bu梢_制服_通常","normal", 500, @-150);
 	FadeStand("bu梢_制服_通常_normal", 300, true);
 	DeleteStand("bu梢_制服_通常_smile", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500380ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500380ko">
 "The moooost common one is when it looks like a giant salamandarrr&."
 
-&.&.&.&.What're you talking about?
+&.&.&.What're you talking about?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -732,19 +732,19 @@ such&, doesn't it seem like something different to you?"
 <PRE box00>
 [text012]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500390ko">
-"About Di-Swords&, upuu--"
+<voice name="梢" class="こずえ" src="voice/ch07/14500390ko">
+"About Di-Swords&, upuu―"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500400ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500400ko">
 "When I see a pattern&, or the view outside&, it looks like all kinds
-of shapes to me&, like animals and stuff&." 
+of shapes to me&, like animals and stuff&."
 
-Ahh&, so that's what you mean&. 
-Yeah&, I've experienced the same thing&. 
+Ahh&, so that's what you mean&.
+Yeah&, I've experienced the same thing&.
 
 And on the O-Front roof as well&, when I tried viewing things from
-that perspective&, it was there&. 
+that perspective&, it was there&.
 
 A Di-Sword blending into the sce<pre>n</pre>ery&.
 
@@ -752,52 +752,52 @@ A Di-Sword blending into the sce<pre>n</pre>ery&.
 	FadeStand("bu梢_制服_通常_smile", 300, true);
 	DeleteStand("bu梢_制服_通常_angry", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500410ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500410ko">
 "Yeeep&, ding-dong&, right answer ♪"
 
 {	Stand("bu梢_制服_通常","normal", 500, @-150);
 	FadeStand("bu梢_制服_通常_normal", 300, true);
 	DeleteStand("bu梢_制服_通常_smile", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500420ko">
-"The first time Kozu-pii saw it was when Ham-Pon-Pon died&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500420ko">
+"The first time Kozu-pii saw it was when Ham-Pon-Pon died&."
 
 Ham-Pon-Pon?
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500430ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500430ko">
 "The hamster I had in elementary school&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500440ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500440ko">
 "Anyhoo&, I went to the riverbank to dig a grave for Ham-Pon-Pon&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500450ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500450ko">
 "But I forgot a shovel&, and I couldn't make his grave&, and I cried
 all fumyuuuu-like&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500460ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500460ko">
 "Then I saw the shape of this sword in the sky&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500470ko">
-"After that I started to see it in all different places&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500470ko">
+"After that I started to see it in all different places&."
 
-How did you get your hands on it? 
+How did you get your hands on it?
 
 I'd found my Di-Sword&, but in the end I hadn't been able to get a
 hold of it&. No matter how much I stretched my hand out&, I didn't
-feel anything&, and I couldn't grasp it&.&.&.&.
+feel anything&, and I couldn't grasp it&.&.&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500480ko">
-"All I did was wish&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500480ko">
+"All I did was wish&."
 
-You wished? 
-To obtain it? 
-But then&, even I-- 
+You wished?
+To obtain it?
+But then&, even I―
 
 Kozu-pii peeked up at me and shook her head slightly&.
 
@@ -809,23 +809,23 @@ Kozu-pii peeked up at me and shook her head slightly&.
 <PRE box00>
 [text013]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500490ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500490ko">
 "Wroooong&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500500ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500500ko">
 "What I wished for"
 
 {	Stand("bu梢_制服_通常","shy2", 500, @-150);
 	FadeStand("bu梢_制服_通常_shy2", 300, true);
 	DeleteStand("bu梢_制服_通常_normal", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500510ko">
-"&.&.&.&.Was to kill&."
+<voice name="梢" class="こずえ" src="voice/ch07/14500510ko">
+"&.&.&.Was to kill&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14500520ta">
-"&.&.&.&.Eh?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14500520ta">
+"&.&.&.Eh?"
 
 {	Stand("bu梢_制服_通常","normal", 500, @-150);
 	FadeStand("bu梢_制服_通常_normal", 300, true);
@@ -856,28 +856,28 @@ pocket&.
 I swallowed to moisten my parched throat&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500530ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500530ko">
 "As I wished&, I looked myuuuu up at the sky&, and I saw the sword
 again&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500540ko">
-"But&, buuut&, I still didn't think it was a sword then&. 
+<voice name="梢" class="こずえ" src="voice/ch07/14500540ko">
+"But&, buuut&, I still didn't think it was a sword then&.
 I figured it was some kinda biiiig clashy-crashy thing&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500550ko">
-"When I thought I could use it to kill&, boooom! 
-I stretched out my hand without knowing it&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch07/14500550ko">
+"When I thought I could use it to kill&, boooom!
+I stretched out my hand without knowing it&.&.&."
 
 {	Stand("bu梢_制服_通常","smile", 500, @-150);
 	FadeStand("bu梢_制服_通常_smile", 300, true);
 	DeleteStand("bu梢_制服_通常_normal", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500560ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500560ko">
 "And I really grasped it&."
 
-And then&.&.&.&. what happened? 
+And then&.&.&. what happened?
 What did you do with it?
 
 </PRE>
@@ -893,34 +893,34 @@ What did you do with it?
 [text014]
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14500570ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14500570ko">
+"&.&.&.&.&.&.&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500580ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14500580ko">
 "I tried to kill&, but I couldn't do it&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500590ko">
-"It took all Kozu-pii's strength to kill 'em halfway&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500590ko">
+"It took all Kozu-pii's strength to kill 'em halfway&."
 
-This girl was&.&.&.&. broken&.&.&.&.
+This girl was&.&.&. broken&.&.&.
 
 {	Stand("bu梢_制服_通常","angry", 500, @-150);
 	DeleteStand("bu梢_制服_正面_sad", 500, false);
 	FadeStand("bu梢_制服_通常_angry", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14500600ko">
-"I'm noooot broken&, pun-pun&. I have my sword riiiight here&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14500600ko">
+"I'm noooot broken&, pun-pun&. I have my sword riiiight here&."
 
 I could see from the way she gazed lovingly at the Di-Sword by her
 side that she placed absolute faith in it&. Her heart&, too&, conveyed
-the same thing to me&. 
+the same thing to me&.
 
 Would I be incapable of attaining a Di-Sword unless I became as broken
-as her? 
+as her?
 
-&.&.&.&.Was I still unbroken in the first place?
+&.&.&.Was I still unbroken in the first place?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

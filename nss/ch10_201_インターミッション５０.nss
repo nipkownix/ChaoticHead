@@ -45,7 +45,7 @@ function ch10_201_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚T‚O()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-The grave voice of a newscaster reading out the news could be heard 
+The grave voice of a newscaster reading out the news could be heard
 through the radio&.
 
 </PRE>
@@ -55,33 +55,34 @@ through the radio&.
 	CreateVOICE("ƒLƒƒƒXƒ^[‚`","ch10/20100010ka");
 	SoundPlay("ƒLƒƒƒXƒ^[‚`",0,1000,false);
 
-	SetBacklog("233 casualties have been confirmed at present&, but the final count is expected to surpass 30&,000--", "voice/ch10/20100010ka", ƒLƒƒƒXƒ^[‚`);
+	SetBacklog("233 casualties have been confirmed at present&, but the final count is expected to surpass 30&,000\", "voice/ch10/20100010ka", ƒLƒƒƒXƒ^[‚`);
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text200]
 //‚u‚e//ƒ‰ƒWƒI‚©‚ç‚Ì‰¹º
 //yƒLƒƒƒXƒ^[‚`z
-//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch10/20100010ka">
-"233 casualties have been confirmed at present&, but the final count is expected to surpass 30&,000--"
+//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch10/20100010ka">
+"233 casualties have been confirmed at present&, but the final count is
+expected to surpass 30&,000\"
 
 {	SoundStop2("ƒLƒƒƒXƒ^[‚`");
 	CreateVOICE("ƒLƒƒƒXƒ^[‚`‚Q","ch10/20100020ka");
 	SoundPlay("ƒLƒƒƒXƒ^[‚`‚Q",0,1000,false);
-	SetBacklog("According to an announcement by the Meteorological Agency&, this latest earthquake was a 7 on the Japanese earthquake scale--the highest level possible--and magnitude 7&.8&, which puts it on par with the Great Kantou Earthquake of 1923&.", "voice/ch10/20100020ka", ƒLƒƒƒXƒ^[‚`);}
+	SetBacklog("According to an announcement by the Meteorological Agency&, this latest earthquake was a 7 on the Japanese earthquake scale\the highest level possible\and magnitude 7&.8&, which puts it on par with the Great Kantou Earthquake of 1923&.", "voice/ch10/20100020ka", ƒLƒƒƒXƒ^[‚`);}
 //yƒLƒƒƒXƒ^[‚`z
-//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch10/20100020ka">
+//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch10/20100020ka">
 "According to an announcement by the Meteorological Agency&, this latest
-earthquake was a 7 on the Japanese earthquake scale--the highest level
-possible--and magnitude 7&.8&, which puts it on par with the Great
-Kantou Earthquake of 1923&."  
+earthquake was a 7 on the Japanese earthquake scale\the highest level
+possible\and magnitude 7&.8&, which puts it on par with the Great
+Kantou Earthquake of 1923&."
 
 {	SoundStop2("ƒLƒƒƒXƒ^[‚`‚Q");
 	CreateVOICE("ƒLƒƒƒXƒ^[‚`‚R","ch10/20100030ka");
 	SoundPlay("ƒLƒƒƒXƒ^[‚`‚R",0,1000,false);
 	SetBacklog("Some of the buildings in Shibuya have been destroyed&, and there is also an emerging pattern of large-scale cave-ins&.", "voice/ch10/20100030ka", ƒLƒƒƒXƒ^[‚`);}
 //yƒLƒƒƒXƒ^[‚`z
-//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch10/20100030ka">
-"Some of the buildings in Shibuya have been destroyed&, and there is 
+//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch10/20100030ka">
+"Some of the buildings in Shibuya have been destroyed&, and there is
 also an emerging pattern of large-scale cave-ins&."
 
 {	SoundStop2("ƒLƒƒƒXƒ^[‚`‚R");
@@ -89,16 +90,18 @@ also an emerging pattern of large-scale cave-ins&."
 	SoundPlay("ƒLƒƒƒXƒ^[‚`‚S",0,1000,false);
 	SetBacklog("The Shibuya portion of the Shuto Expressway has been completely closed down due to the collapse of overhead structures&.", "voice/ch10/20100040ka", ƒLƒƒƒXƒ^[‚`);}
 //yƒLƒƒƒXƒ^[‚`z
-//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch10/20100040ka">
-"The Shibuya portion of the Shuto Expressway has been completely closed down due to the collapse of overhead structures&."
+//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch10/20100040ka">
+"The Shibuya portion of the Shuto Expressway has been completely closed
+down due to the collapse of overhead structures&."
 
 {	SoundStop2("ƒLƒƒƒXƒ^[‚`‚S");
 	CreateVOICE("ƒLƒƒƒXƒ^[‚`‚T","ch10/20100050ka");
 	SoundPlay("ƒLƒƒƒXƒ^[‚`‚T",0,1000,false);
-	SetBacklog("As for public transportation&, all railways&, such as the Yamanote Line&, have been--", "voice/ch10/20100050ka", ƒLƒƒƒXƒ^[‚`);}
+	SetBacklog("As for public transportation&, all railways&, such as the Yamanote Line&, have been\", "voice/ch10/20100050ka", ƒLƒƒƒXƒ^[‚`);}
 //yƒLƒƒƒXƒ^[‚`z
-//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch10/20100050ka">
-"As for public transportation&, all railways&, such as the Yamanote Line&, have been--" 
+//<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch10/20100050ka">
+"As for public transportation&, all railways&, such as the Yamanote Line&,
+have been\"
 {	$‘Ò‚¿ŠÔ = RemainTime ("ƒLƒƒƒXƒ^[‚`‚T");
 	$‘Ò‚¿ŠÔ -= 1800;
 	WaitKey($‘Ò‚¿ŠÔ);}
@@ -114,13 +117,13 @@ also an emerging pattern of large-scale cave-ins&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-Radio noise began to mingle with the newscaster's voice&, 
+Radio noise began to mingle with the newscaster's voice&,
 and at last she stopped saying anything&.
 
 {	Stand("buq_ƒX[ƒc_’Êí","angry", 200, @+150);
 	FadeStand("buq_ƒX[ƒc_’Êí_angry", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100060mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100060mm">
 "That's no good&, we've stopped hearing them again&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","sigh", 200, @+150);
@@ -130,8 +133,8 @@ After taking the musty old portable radio in her hand and clenching it&,
 tapping it&, and so forth&, Momose let out an enormous sigh&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100070mm">
-"It's too old to be of much use&."  
+<voice name="•S£" class="•S£" src="voice/ch10/20100070mm">
+"It's too old to be of much use&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -149,18 +152,20 @@ tapping it&, and so forth&, Momose let out an enormous sigh&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text100]
-Forcing a rueful smile&, she looked to one side&. There walked Kishimoto Ayase and Kusunoki Yua&, both wearing expressions of exhaustion&.
+Forcing a rueful smile&, she looked to one side&. There walked
+Kishimoto Ayase and Kusunoki Yua&, both wearing expressions of exhaustion&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100080yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100080yu">
+"&.&.&.&.&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100090ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100090ay">
+"&.&.&.&.&.&.&."
 
-Both Ayase and Yua's school uniforms were completely soiled with dirt&, making it readily apparent how much they had struggled to walk this 
-far&.
+Both Ayase and Yua's school uniforms were completely soiled with dirt&,
+making it readily apparent how much they had
+struggled to walk this far&.
 
 {	Fade("back03", 300, 1000, null, true);
 	DeleteStand("bu—Dˆ¤_§•_•Ší\‚¦_sad", 1, false);
@@ -170,11 +175,12 @@ far&.
 	FadeStand("st—Dˆ¤_§•_•Ší\‚¦_sad", 0, false);
 	FadeStand("st‚ ‚â‚¹_§•_•Ší\‚¦_hard", 0, true);
 	Fade("back03", 300, 0, null, true);}
-However&, the giant swords--Di-Swords--each of them held contained not a
-speck of dust&, and their grim glow remained completely unclouded&.  
+However&, the giant swords\Di-Swords\each of them held contained not a
+speck of dust&, and their grim glow remained completely unclouded&.
 
-After the earthquake took place&, Yua and Ayase had returned to Shibuya from Roppongi on foot&, and by going even further&, to the Freesia 
-office&, they were able to join up with Momose&. 
+After the earthquake took place&, Yua and Ayase had returned to
+Shibuya from Roppongi on foot&, and by going even further&,
+to the Freesia office&, they were able to join up with Momose&.
 
 Expecting the missing Ban to come back&,
 The three of them spent the night near the office&,
@@ -186,10 +192,12 @@ But in the end&, Ban hadn't shown himself&.
 Momose proposed leaving Shibuya&, but Ayase disagreed&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100100ay">
-"Gladioul has awakened&. We must hasten to combine forces with the other black knights&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100100ay">
+"Gladioul has awakened&. We must hasten to combine forces with
+the other black knights&.&.&."
 
-She asserted&, tugging forcefully at Yua's hand&, and heading off toward the wreckage-swamped central district of Shibuya&.
+She asserted&, tugging forcefully at Yua's hand&, and heading off
+toward the wreckage-swamped central district of Shibuya&.
 Yua and Momose were left with no other option but to go along with her&.
 
 </PRE>
@@ -207,15 +215,15 @@ Yua and Momose were left with no other option but to go along with her&.
 <PRE box00>
 [text003]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100110mm">
-"&.&.&.&.&.&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100110mm">
+"&.&.&.&.&.&.&."
 
 Seven in the morning&.
 Less than an hour had passed since the brightening of the sky&.
 
 There was absolutely nothing in the way of refreshing morning air&.
-The wretched state that had been hidden by the darkness of night grew 
-gradually more and more visible together with the arrival of the sun&. 
+The wretched state that had been hidden by the darkness of night grew
+gradually more and more visible together with the arrival of the sun&.
 Now they were right in the thick of it&.
 
 The neighborhood of Shibuya had transformed into a vision of Hell&.
@@ -223,19 +231,19 @@ The neighborhood of Shibuya had transformed into a vision of Hell&.
 The roadways were broken to pieces&, with their asphalt projecting up&.
 
 A number of buildings had collapsed&, and the sides of the streets were
-buried in fallen wreckage&. Most everything made of glass had cracked&, 
+buried in fallen wreckage&. Most everything made of glass had cracked&,
 and even a huge sign originally found on the roof of a building had
 fallen and was lying down there&.
 
 Walk forward a little&, and they would come across corpses left strewn
 about every which way&.
 
-It pained Momose every time she saw those bodies&, and she would 
-mentally press her hands together in their name&. But there were 
-so many of them that&, midway through&, she made up her mind not 
+It pained Momose every time she saw those bodies&, and she would
+mentally press her hands together in their name&. But there were
+so many of them that&, midway through&, she made up her mind not
 to think about it&. Otherwise&, her own heart wouldn't last much longer&.
 
-The people they occasionally passed were expressionless&, and appeared 
+The people they occasionally passed were expressionless&, and appeared
 to be wandering around on heavy feet without a destination&.
 
 Several men cooperated in an effort to rescue those buried alive in the
@@ -250,7 +258,7 @@ A sword one could draw&, as if by magic&, out of nothingness&.
 Ban had been telling the truth&.
 
 Yua seemed startled and bewildered by the fact that she'd obtained one
-of those swords&. 
+of those swords&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -263,7 +271,7 @@ of those swords&.
 <PRE box00>
 [text004]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100120mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100120mm">
 "Say&, Kishimoto-san&."
 
 Ayase&, walking ahead&, didn't look back when Momose called to her&.
@@ -273,34 +281,35 @@ Her expression was tinged with impatience&.
 	FadeStand("stq_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_sigh", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100130mm">
-"You said there are seven people in total&, the two of you included&, who have these Di-Swords&, right?"
+<voice name="•S£" class="•S£" src="voice/ch10/20100130mm">
+"You said there are seven people in total&, the two of you included&,
+who have these Di-Swords&, right?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100140ay">
-"&.&.&.&.Yes&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100140ay">
+"&.&.&.Yes&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100150mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100150mm">
 "Do you know where the others are?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100160ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100160ay">
 "I don't&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","sigh", 200, @+200);
 	FadeStand("stq_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("stq_ƒX[ƒc_’Êí_hard", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100170mm">
-"Then&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100170mm">
+"Then&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100180ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100180ay">
 "I sense it&. The Will&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100190ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100190ay">
 "They're definitely in this direction&."
 
 Ayase was an impenetrable fortress&.
@@ -319,18 +328,19 @@ Helpless&, Momose repeated the same words for the nth time&.
 <PRE box00>
 [text005]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100200mm">
-"It's dangerous to walk around rashly right now&. Before anything else&, we should retreat to a secure location&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100200mm">
+"It's dangerous to walk around rashly right now&. Before anything else&,
+we should retreat to a secure location&."
 
 {	Stand("st‚ ‚â‚¹_§•_•Ší\‚¦","angry", 200, @-150);
 	FadeStand("st‚ ‚â‚¹_§•_•Ší\‚¦_angry", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_•Ší\‚¦_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100210ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100210ay">
 "No&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100220ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100220ay">
 "There's no time&."
 
 {	Fade("back03", 500, 1000, null, true);
@@ -340,15 +350,16 @@ Helpless&, Momose repeated the same words for the nth time&.
 	FadeStand("buq_ƒX[ƒc_’Êí_normal", 0, true);
 	Fade("back03", 500, 0, null, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100230mm">
-"What if the other&, errr&, black knights&, is that it? What if they're in an evacuation shelter?"
+<voice name="•S£" class="•S£" src="voice/ch10/20100230mm">
+"What if the other&, errr&, black knights&, is that it? What if they're
+in an evacuation shelter?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-230);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100240yu">
-"Sh&, she's right&, Kishimoto-san&, um&, I also think we should 
-evacuate&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100240yu">
+"Sh&, she's right&, Kishimoto-san&, um&, I also think we should
+evacuate&.&.&."
 
 {	Fade("back03", 500, 1000, null, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_normal", 0, false);
@@ -360,18 +371,18 @@ Ayase came to an abrupt halt&, as if Yua's argument in support of it
 had taken effect&.
 She narrowed her eyes&.
 
-The ravaged street of Dougen Hill&, which cars could no longer drive 
+The ravaged street of Dougen Hill&, which cars could no longer drive
 along&. She cast her eyes beyond it&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100250ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100250ay">
 "There&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","sigh", 200, @+150);
 	FadeStand("stq_ƒX[ƒc_’Êí_sigh", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100260mm">
-"Ehh? What's there&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100260mm">
+"Ehh? What's there&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -393,22 +404,22 @@ along&. She cast her eyes beyond it&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text006]
-At the end of Ayase's line of sight was the figure of a lone girl&, 
+At the end of Ayase's line of sight was the figure of a lone girl&,
 walking toward them from the station&.
 
-She wore a Suimei Academy uniform&, but it was even more tattered than 
+She wore a Suimei Academy uniform&, but it was even more tattered than
 Ayase and Yua's&.
 
-And she embraced a massive&, cross-shaped sword to her chest with her 
-left hand alone&. Her footsteps were uncertain&, and she seemed about 
+And she embraced a massive&, cross-shaped sword to her chest with her
+left hand alone&. Her footsteps were uncertain&, and she seemed about
 to collapse at any moment&.
 
 {	DeleteStand("stµŠC_§•ƒ_ƒ[ƒW_•Ší\‚¦_lost", 500, true);
 	Stand("stq_ƒX[ƒc_’Êí","angry", 200, @+150);
 	FadeStand("stq_ƒX[ƒc_’Êí_angry", 300, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100270mm">
-"Oh&, no&.&.&.&." 
+<voice name="•S£" class="•S£" src="voice/ch10/20100270mm">
+"Oh&, no&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -419,10 +430,11 @@ to collapse at any moment&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
-Her body jiggling as she went&, Momose ran up to that girl--to Nishijou Nanami&.
+Her body jiggling as she went&, Momose ran up to that
+girl\to Nishijou Nanami&.
 
-She was concerned about the Di-Sword Nanami bore up&, but for now she 
-set aside the prospect of inquiring after it&, and instead supported 
+She was concerned about the Di-Sword Nanami bore up&, but for now she
+set aside the prospect of inquiring after it&, and instead supported
 Nanami's small-statured form&.
 
 {	Fade("back03", 500, 1000, null, true);
@@ -432,27 +444,27 @@ Nanami's small-statured form&.
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 0, true);
 	Fade("back03", 500, 0, null, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100280mm">
-"You okay? You've done so well&, getting all the way here&. We'll take 
+<voice name="•S£" class="•S£" src="voice/ch10/20100280mm">
+"You okay? You've done so well&, getting all the way here&. We'll take
 you to the hospital now&. So you've got to keep a hold of yourself&."
 
-As Momose spoke encouragingly&, Nanami turned vague eyes in her 
+As Momose spoke encouragingly&, Nanami turned vague eyes in her
 direction&.
 
 //Ÿ‘§‚àâ‚¦â‚¦
 //Ÿuƒoƒ“ƒOƒ‹v‚ÆŒ¾‚¨‚¤‚Æ‚µ‚Ä‚¢‚é
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100290na">
-"Ba&.&.&.&. gle&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100290na">
+"Ba&.&.&. gle&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100300mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100300mm">
 "Eh? Did you say something?"
 
 //Ÿ‘§‚àâ‚¦â‚¦
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100310na">
-"Where is&.&.&.&. Nana's bangle?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100310na">
+"Where is&.&.&. Nana's bangle?"
 
 {	Fade("back03", 500, 1000, null, true);
 	DeleteStand("buµŠC_§•ƒ_ƒ[ƒW_•Ší\‚¦_lost", 0, false);
@@ -465,17 +477,18 @@ direction&.
 Yua and Ayase came dashing up to Nanami a little after Momose&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100320yu">
-"This girl&.&.&.&. she's Nishijou-kun's little sister&.&.&.&.!"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100320yu">
+"This girl&.&.&. she's Nishijou-kun's little sister&.&.&.!"
 
 //Ÿu‚È‚é‚Ù‚ÇA‚»‚¤‚È‚Ì‚Ëv‚ÌˆÓ–¡‚Ìu‚»‚¤v
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100330ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100330ay">
 "I see&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100340ay">
-"It makes sense&, for her&, to qualify as a black knight&. If she's Takumi's sister&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100340ay">
+"It makes sense&, for her&, to qualify as a black knight&.
+If she's Takumi's sister&."
 
 {	Fade("back03", 500, 1000, null, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 0, false);
@@ -486,30 +499,30 @@ Yua and Ayase came dashing up to Nanami a little after Momose&.
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 0, true);
 	Fade("back03", 500, 0, null, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100350mm">
-"You two&, help me carry her&. We have to get her to the hospital 
+<voice name="•S£" class="•S£" src="voice/ch10/20100350mm">
+"You two&, help me carry her&. We have to get her to the hospital
 somehow&."
 
 //Ÿ‹ê‚µ‚°
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100360na">
-"It hurts&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100360na">
+"It hurts&.&.&."
 
 Nanami moaned in pain&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100370na">
-"My right hand&.&.&.&. uu&.&.&.&.&. uuu&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100370na">
+"My right hand&.&.&. uu&.&.&.&. uuu&.&.&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","sigh", 200, @+150);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_hard", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100380mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100380mm">
 "Your right hand?"
 
-Momose&, taking an offhand glance at Nanami's right hand&, sucked in a 
-breath&. 
+Momose&, taking an offhand glance at Nanami's right hand&, sucked in a
+breath&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -521,15 +534,15 @@ breath&.
 [text008]
 //Ÿ‘§‚ğ“Û‚Ş
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100390mm">
-"&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100390mm">
+"&.&.&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","angry", 200, @+150);
 	FadeStand("buq_ƒX[ƒc_’Êí_angry", 300, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_sigh", 0, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100400mm">
-"How awful&.&.&.&. it can't be&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100400mm">
+"How awful&.&.&. it can't be&.&.&."
 
 {	Fade("back03", 500, 1000, null, true);
 	DeleteStand("buµŠC_§•ƒ_ƒ[ƒW_•Ší\‚¦_lost", 0, false);
@@ -540,28 +553,29 @@ breath&.
 	FadeStand("bu‚ ‚â‚¹_§•_•Ší\‚¦_hard", 0, true);
 	Fade("back03", 500, 0, null, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100410yu">
-"Eh&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100410yu">
+"Eh&.&.&.?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100420ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100420ay">
+"&.&.&.&.&.&.&."
 
 Yua and Ayase couldn't comprehend why Momose was so shaken up&.
 There was a bloodstained bandage around Nanami's right hand&,
 but it didn't seem to be such a dreadful injury&.
 
-But in Momose's eyes&, Nanami's arm appeared as having been hacked in 
-two at her bandaged wrist&.  
+But in Momose's eyes&, Nanami's arm appeared as having been hacked in
+two at her bandaged wrist&.
 
 She had undergone some treatment&, but the wound was still open&.
 
 Ayase&, blank-faced&, tried to grasp the fingers of Nanami's right hand&.
-But her extended hand slipped clean through it without holding onto anything&.
+But her extended hand slipped clean through it without holding
+onto anything&.
 
 Like a hologram&, Nanami's fingers had no actual substance&.
-A single drop of blood dripped from the crimson-stained bandage into 
-Ayase's hand&. 
+A single drop of blood dripped from the crimson-stained bandage into
+Ayase's hand&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -575,34 +589,34 @@ Ayase's hand&.
 [text009]
 //ŸƒrƒbƒNƒŠ‚µ‚ÄƒuƒŒƒX
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100430yu">
-"&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100430yu">
+"&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100440ay">
-"A delusion&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100440ay">
+"A delusion&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100450na">
-"Rimi-san&.&.&.&. saved&.&.&.&. me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100450na">
+"Rimi-san&.&.&. saved&.&.&. me&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100460yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100460yu">
 "Rimi-san&, you mean Sakihata Rimi-san?"
 
 {	DeleteStand("bu‚ ‚â‚¹_§•_•Ší\‚¦_hard", 500, true);
 	Stand("buq_ƒX[ƒc_’Êí","hard", 200, @-250);
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100470mm">
+<voice name="•S£" class="•S£" src="voice/ch10/20100470mm">
 "Do you know her?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @+250);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100480yu">
-"Ye&, yeah&.&.&.&. She's Nishijou-kun's friend&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100480yu">
+"Ye&, yeah&.&.&. She's Nishijou-kun's friend&.&.&."
 
 As she had always thought of Takumi himself as being the true
 perpetrator behind the New-Gen incidents&, Yua had
@@ -615,24 +629,24 @@ with him&.
 {	DeleteStand("buq_ƒX[ƒc_’Êí_hard", 500, true);
 	Stand("bu‚ ‚â‚¹_§•_•Ší\‚¦","angry", 200, @-250);
 	FadeStand("bu‚ ‚â‚¹_§•_•Ší\‚¦_angry", 500, true);}
-On the other hand&, Ayase's usual cool expression grew minutely more 
+On the other hand&, Ayase's usual cool expression grew minutely more
 severe when she heard Rimi's name&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100490ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100490ay">
+"&.&.&.&.&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100500ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100500ay">
 "Sakihata Rimi is also one of the seven black knights&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20100510yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20100510yu">
 "Eh? Sh&, she is?"
 
 Ayase recollected what had happened at the hospital yesterday&.
-The apologetic voice with which Rimi had addressed her came back to 
-life&. 
+The apologetic voice with which Rimi had addressed her came back to
+life&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -670,27 +684,27 @@ life&.
 [text010]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100520ri">
-"Kishimoto-san&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100520ri">
+"Kishimoto-san&.&.&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100530ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100530ri">
 "Please don't get any closer to Taku&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100540ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100540ri">
 "I don't want him to be forced to awaken&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100550ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100550ay">
 "Have you no sense of responsibility? As one of the black knights&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100560ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100560ri">
 "I'll do something about it on my own&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 250, @-240);
@@ -699,8 +713,8 @@ life&.
 //ŸƒJƒb‚Æ‚È‚Á‚½ƒuƒŒƒX
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100570ay">
-"&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100570ay">
+"&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -726,22 +740,22 @@ life&.
 //Ÿ’É‚­‚ÄƒuƒŒƒX
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100580ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100580ri">
+"&.&.&.&.&.&.&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100590ay">
-"It's very beautiful&, that emotion of yours&. But it isn't what the 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100590ay">
+"It's very beautiful&, that emotion of yours&. But it isn't what the
 'Great Will' desires&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20100600ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20100600ay">
 "Nor do I wish to make you shoulder everything by yourself&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20100610ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20100610ri">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -772,31 +786,32 @@ life&.
 <PRE box00>
 [text012]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100620mm">
-"Let's set aside all the talk about black knights and so forth for the time being&."
+<voice name="•S£" class="•S£" src="voice/ch10/20100620mm">
+"Let's set aside all the talk about black knights and so forth for
+the time being&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100630mm">
-"For now&, we have to hurry up and take her to a hospital&. The blood 
+<voice name="•S£" class="•S£" src="voice/ch10/20100630mm">
+"For now&, we have to hurry up and take her to a hospital&. The blood
 isn't stopping&."
 
-Momose gently laid the handkerchief she carried with her against 
+Momose gently laid the handkerchief she carried with her against
 Nanami's wound&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch10/20100640mm">
-"She has a terrible fever&, and she looks pale&. We've got to be quick 
+<voice name="•S£" class="•S£" src="voice/ch10/20100640mm">
+"She has a terrible fever&, and she looks pale&. We've got to be quick
 about it&."
 
 //Ÿ‹ê‚µ‚°A‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20100650na">
-"Bro&.&.&.&. I wanna see my bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20100650na">
+"Bro&.&.&. I wanna see my bro&.&.&."
 
 A single tear streamed from Nanami's empty eyes&.
 
 A second later&.
-It happened without warning&. 
+It happened without warning&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -851,7 +866,7 @@ It happened without warning&.
 [text013]
 Suddenly&, the street where Momose was standing caved in with a roar&.
 
-As they lost a place to stand&, Momose and the four others began 
+As they lost a place to stand&, Momose and the four others began
 free-falling&, pulled down by gravity&.
 
 As though they were plummeting toward the darkness of a bottomless

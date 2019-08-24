@@ -59,7 +59,7 @@ function ch05_108_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚P‚X()
 <PRE box00>
 [text001]
 When Kusunoki Yua slowly opened her eyes&, she saw that her
-class--Year 3&, Class B--was in an uproar&.
+class\Year 3&, Class B\was in an uproar&.
 
 Countless students had collapsed&.
 Their eyes rolled back&, and they foamed at the mouth&, and their
@@ -115,50 +115,50 @@ button to take the call and put her phone to her ear&.
 [text002]
 //Ÿ‹ê‚µ‚»‚¤‚É
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800010yu">
-"Yes&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800010yu">
+"Yes&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800020yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800020yu">
 "Y&, yes&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800030yu">
-"Haa&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800030yu">
+"Haa&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800040yu">
-"Um&.&.&.&. yes?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800040yu">
+"Um&.&.&. yes?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800050yu">
-"Ah&, er&, I'm okay&.&.&.&. tentatively speaking&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800050yu">
+"Ah&, er&, I'm okay&.&.&. tentatively speaking&."
 
-Yua made a grimace and pressed at her forehead as she answered&. 
+Yua made a grimace and pressed at her forehead as she answered&.
 
 Both the commotion of her classmates in the hallway&, and her
 teacher's voice as he called "Hey&, hold on!" to his prostrate
 students&, sounded to her like something taking place very far away&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800060yu">
-"Y&.&.&.&. yes? Ye&, yeah&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800060yu">
+"Y&.&.&. yes? Ye&, yeah&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800070yu">
-"Um&.&.&.&. You are&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800070yu">
+"Um&.&.&. You are&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800080yu">
-"Yes&.&.&.&. yes&.&.&.&. I see&.&.&.&. and so&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800080yu">
+"Yes&.&.&. yes&.&.&. I see&.&.&. and so&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800090yu">
-"Eh&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800090yu">
+"Eh&.&.&."
 
-Blanching&, Yua gulped&.  
+Blanching&, Yua gulped&.
 
-She covered the phone with her hands and dropped her voice&. 
+She covered the phone with her hands and dropped her voice&.
 Her tone was clearly unsettled&.
 
 </PRE>
@@ -172,23 +172,23 @@ Her tone was clearly unsettled&.
 [text003]
 //Ÿ¬ºB‹»•±
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800100yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800100yu">
 "Th&, that's impossible!"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800110yu">
-"But&, but&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800110yu">
+"But&, but&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800120yu">
-"In truth&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800120yu">
+"In truth&.&.&."
 
 Having said that much&, Yua fumbled with her words and hung her head&.
 
 //Ÿk‚¦‚éº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800130yu">
-"Even though&, in truth&.&.&.&. it was me&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800130yu">
+"Even though&, in truth&.&.&. it was me&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -203,7 +203,7 @@ Having said that much&, Yua fumbled with her words and hung her head&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-The racket from the corridor grew louder still&. 
+The racket from the corridor grew louder still&.
 
 Everyone was looking in the same direction and pointing and wearing
 anxious expressions&.
@@ -226,20 +226,20 @@ them&.
 
 //Ÿ—Ü~‚Ü‚é
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800140yu">
-"Yeah&, yes&.&.&.&. sob"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800140yu">
+"Yeah&, yes&.&.&. sob"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800150yu">
-"Right&. My&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800150yu">
+"Right&. My&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800160yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800160yu">
 "Little sister&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800170yu">
-"Yes&.&.&.&. I understand&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800170yu">
+"Yes&.&.&. I understand&."
 
 Feebly bowing her head at the end&, as though the person she was
 speaking to were right in front of her&, Yua c<pre>u</pre>t the connection&.
@@ -262,8 +262,8 @@ And she raised her head&, casting a glance at the windows beyond which
 everyone was pointing&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800180yu">
-"The sky--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800180yu">
+"The sky\"
 
 {	CreateTextureEX("back05", 100, 0, -100, "cg/bg/bg002_01_1_Â‹ó_a.jpg");
 	CreateTextureEX("back04", 200, 0, -100, "cg/bg/bg154_01_1_a’J‚Ì”’‚¢‹ó_a.jpg");
@@ -277,16 +277,16 @@ everyone was pointing&.
 	Fade("back04", 3000, 1000, null, false);
 	Delete("back03");}
 //ƒCƒ[ƒW‚a‚f//a’J‚Ì”’‚¢‹ó
-It was almost as if someone had dropped white paint into water&. 
+It was almost as if someone had dropped white paint into water&.
 
-The sky that had been a dirty blue was fading to white&. 
+The sky that had been a dirty blue was fading to white&.
 
 That white spread at considerable speed&. Blurring&, it invaded its
 way through the sky&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch05/10800190yu">
-"It's going white&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800190yu">
+"It's going white&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

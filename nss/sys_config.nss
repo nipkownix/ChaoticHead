@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■コンフィグ■
 //=============================================================================//
@@ -7,8 +9,9 @@ chapter main
 
 	$cfgtab=1;
 	
-	SetFont("ＭＳ ゴシック",21,#00000,#FFFFFF,500,NONE);
-	
+	//SetFont("DroidMSGothic",21,#00000,#FFFFFF,500,NONE);
+	SetFont("DroidMSGothic",27,#00000,#FFFFFF,500,NONE);
+
 	if(!$PLACE_title&&!$SYSTEM_menu_enable&&!$SYSTEM_menu_lock){
 		CreateTexture("video",101000,center,middle,"VIDEO");
 	}else{
@@ -84,77 +87,98 @@ chapter main
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseUsual/img",0,643,240,"IMG_check_hit");
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseOver/img",0,643,240,"IMG_check_hit");
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseClick/img",0,643,240,"IMG_check_hit");
-	
+
+	CreateChoice("TAB1_select_Font1");
+	CreateTexture("TAB1_check_Font1",10100,332,331,"IMG_check");
+	CreateTexture("TAB1_select_Font1/MouseUsual/img",0,323,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font1/MouseOver/img",0,323,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font1/MouseClick/img",0,323,331,"IMG_check_hit");
+	CreateChoice("TAB1_select_Font2");
+	CreateTexture("TAB1_check_Font2",10100,418,331,"IMG_check");
+	CreateTexture("TAB1_select_Font2/MouseUsual/img",0,409,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font2/MouseOver/img",0,409,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font2/MouseClick/img",0,409,331,"IMG_check_hit");
+	CreateChoice("TAB1_select_Font3");
+	CreateTexture("TAB1_check_Font3",10100,489,331,"IMG_check");
+	CreateTexture("TAB1_select_Font3/MouseUsual/img",0,480,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font3/MouseOver/img",0,480,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font3/MouseClick/img",0,480,331,"IMG_check_hit");
+	CreateChoice("TAB1_select_Font4");
+	CreateTexture("TAB1_check_Font4",10100,612,331,"IMG_check");
+	CreateTexture("TAB1_select_Font4/MouseUsual/img",0,603,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font4/MouseOver/img",0,603,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font4/MouseClick/img",0,603,331,"IMG_check_hit");
+
 	CreateChoice("TAB1_select_GameSpeed1");
-	CreateTexture("TAB1_check_GameSpeed1",10100,348,330,"IMG_check");
-	CreateTexture("TAB1_select_GameSpeed1/MouseUsual/img",0,339,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed1/MouseOver/img",0,339,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed1/MouseClick/img",0,339,330,"IMG_check_hit");
+	CreateTexture("TAB1_check_GameSpeed1",10100,390,355,"IMG_check");
+	CreateTexture("TAB1_select_GameSpeed1/MouseUsual/img",0,381,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed1/MouseOver/img",0,381,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed1/MouseClick/img",0,381,355,"IMG_check_hit");
 	CreateChoice("TAB1_select_GameSpeed2");
-	CreateTexture("TAB1_check_GameSpeed2",10100,436,330,"IMG_check");
-	CreateTexture("TAB1_select_GameSpeed2/MouseUsual/img",0,427,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed2/MouseOver/img",0,427,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed2/MouseClick/img",0,427,330,"IMG_check_hit");
+	CreateTexture("TAB1_check_GameSpeed2",10100,461,355,"IMG_check");
+	CreateTexture("TAB1_select_GameSpeed2/MouseUsual/img",0,452,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed2/MouseOver/img",0,452,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed2/MouseClick/img",0,452,355,"IMG_check_hit");
 	CreateChoice("TAB1_select_GameSpeed3");
-	CreateTexture("TAB1_check_GameSpeed3",10100,524,330,"IMG_check");
-	CreateTexture("TAB1_select_GameSpeed3/MouseUsual/img",0,515,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed3/MouseOver/img",0,515,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed3/MouseClick/img",0,515,330,"IMG_check_hit");
+	CreateTexture("TAB1_check_GameSpeed3",10100,537,355,"IMG_check");
+	CreateTexture("TAB1_select_GameSpeed3/MouseUsual/img",0,528,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed3/MouseOver/img",0,528,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed3/MouseClick/img",0,528,355,"IMG_check_hit");
 	CreateChoice("TAB1_select_GameSpeed4");
-	CreateTexture("TAB1_check_GameSpeed4",10100,612,330,"IMG_check");
-	CreateTexture("TAB1_select_GameSpeed4/MouseUsual/img",0,603,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed4/MouseOver/img",0,603,330,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed4/MouseClick/img",0,603,330,"IMG_check_hit");
+	CreateTexture("TAB1_check_GameSpeed4",10100,613,355,"IMG_check");
+	CreateTexture("TAB1_select_GameSpeed4/MouseUsual/img",0,604,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed4/MouseOver/img",0,604,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed4/MouseClick/img",0,604,355,"IMG_check_hit");
 	
 	$pos=1000*(1-(#SYSTEM_text_speed/1000));
-	CreateScrollbar("TAB1_select_MessageSpeed",10100,505,356,646,356,$pos,HORIZON,"IMG_csr");
+	CreateScrollbar("TAB1_select_MessageSpeed",10100,505,380,646,380,$pos,HORIZON,"IMG_csr");
 	
 	CreateChoice("TAB1_select_CancelAutoAndSkipON");
-	CreateTexture("TAB1_check_CancelAutoAndSkipON",10100,604,378,"IMG_check");
-	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseUsual/img",0,595,378,"IMG_check_hit");
-	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseOver/img",0,595,378,"IMG_check_hit");
-	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseClick/img",0,595,378,"IMG_check_hit");
+	CreateTexture("TAB1_check_CancelAutoAndSkipON",10100,604,403,"IMG_check");
+	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseUsual/img",0,595,403,"IMG_check_hit");
+	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseOver/img",0,595,403,"IMG_check_hit");
+	CreateTexture("TAB1_select_CancelAutoAndSkipON/MouseClick/img",0,595,403,"IMG_check_hit");
 	CreateChoice("TAB1_select_CancelAutoAndSkipOFF");
-	CreateTexture("TAB1_check_CancelAutoAndSkipOFF",10100,652,378,"IMG_check");
-	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseUsual/img",0,643,378,"IMG_check_hit");
-	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseOver/img",0,643,378,"IMG_check_hit");
-	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseClick/img",0,643,378,"IMG_check_hit");
+	CreateTexture("TAB1_check_CancelAutoAndSkipOFF",10100,652,403,"IMG_check");
+	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseUsual/img",0,643,403,"IMG_check_hit");
+	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseOver/img",0,643,403,"IMG_check_hit");
+	CreateTexture("TAB1_select_CancelAutoAndSkipOFF/MouseClick/img",0,643,403,"IMG_check_hit");
 	
 	CreateChoice("TAB1_select_AbsoluteSkipON");
-	CreateTexture("TAB1_check_AbsoluteSkipON",10100,604,402,"IMG_check");
-	CreateTexture("TAB1_select_AbsoluteSkipON/MouseUsual/img",0,595,402,"IMG_check_hit");
-	CreateTexture("TAB1_select_AbsoluteSkipON/MouseOver/img",0,595,402,"IMG_check_hit");
-	CreateTexture("TAB1_select_AbsoluteSkipON/MouseClick/img",0,595,402,"IMG_check_hit");
+	CreateTexture("TAB1_check_AbsoluteSkipON",10100,604,427,"IMG_check");
+	CreateTexture("TAB1_select_AbsoluteSkipON/MouseUsual/img",0,595,427,"IMG_check_hit");
+	CreateTexture("TAB1_select_AbsoluteSkipON/MouseOver/img",0,595,427,"IMG_check_hit");
+	CreateTexture("TAB1_select_AbsoluteSkipON/MouseClick/img",0,595,427,"IMG_check_hit");
 	CreateChoice("TAB1_select_AbsoluteSkipOFF");
-	CreateTexture("TAB1_check_AbsoluteSkipOFF",10100,652,402,"IMG_check");
-	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseUsual/img",0,643,402,"IMG_check_hit");
-	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseOver/img",0,643,402,"IMG_check_hit");
-	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseClick/img",0,643,402,"IMG_check_hit");
+	CreateTexture("TAB1_check_AbsoluteSkipOFF",10100,652,427,"IMG_check");
+	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseUsual/img",0,643,427,"IMG_check_hit");
+	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseOver/img",0,643,427,"IMG_check_hit");
+	CreateTexture("TAB1_select_AbsoluteSkipOFF/MouseClick/img",0,643,427,"IMG_check_hit");
 	
 	CreateChoice("TAB1_select_StopVoiceInClickON");
-	CreateTexture("TAB1_check_StopVoiceInClickON",10100,584,426,"IMG_check");
-	CreateTexture("TAB1_select_StopVoiceInClickON/MouseUsual/img",0,575,426,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInClickON/MouseOver/img",0,575,426,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInClickON/MouseClick/img",0,575,426,"IMG_check_hit");
+	CreateTexture("TAB1_check_StopVoiceInClickON",10100,584,451,"IMG_check");
+	CreateTexture("TAB1_select_StopVoiceInClickON/MouseUsual/img",0,575,451,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInClickON/MouseOver/img",0,575,451,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInClickON/MouseClick/img",0,575,451,"IMG_check_hit");
 	CreateChoice("TAB1_select_StopVoiceInClickOFF");
-	CreateTexture("TAB1_check_StopVoiceInClickOFF",10100,502,426,"IMG_check");
-	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseUsual/img",0,493,426,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseOver/img",0,493,426,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseClick/img",0,493,426,"IMG_check_hit");
+	CreateTexture("TAB1_check_StopVoiceInClickOFF",10100,502,451,"IMG_check");
+	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseUsual/img",0,493,451,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseOver/img",0,493,451,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInClickOFF/MouseClick/img",0,493,451,"IMG_check_hit");
 	
 	$pos=1000*(1-(#SYSTEM_auto_wait_per_character/200));
-	CreateScrollbar("TAB1_select_WaitAtOneWord",10100,505,452,646,452,$pos,HORIZON,"IMG_csr");
+	CreateScrollbar("TAB1_select_WaitAtOneWord",10100,505,476,646,476,$pos,HORIZON,"IMG_csr");
 	
 	CreateChoice("TAB1_select_StopVoiceInAutoON");
 	CreateTexture("TAB1_check_StopVoiceInAutoON",10100,584,474,"IMG_check");
-	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseUsual/img",0,575,474,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseOver/img",0,575,474,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseClick/img",0,575,474,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseUsual/img",0,575,499,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseOver/img",0,575,499,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseClick/img",0,575,499,"IMG_check_hit");
 	CreateChoice("TAB1_select_StopVoiceInAutoOFF");
-	CreateTexture("TAB1_check_StopVoiceInAutoOFF",10100,474,474,"IMG_check");
-	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseUsual/img",0,465,474,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseOver/img",0,465,474,"IMG_check_hit");
-	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseClick/img",0,465,474,"IMG_check_hit");
+	CreateTexture("TAB1_check_StopVoiceInAutoOFF",10100,474,499,"IMG_check");
+	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseUsual/img",0,465,499,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseOver/img",0,465,499,"IMG_check_hit");
+	CreateTexture("TAB1_select_StopVoiceInAutoOFF/MouseClick/img",0,465,499,"IMG_check_hit");
 	
 	CreateChoice("TAB2_select_BGMON");
 	CreateTexture("TAB2_check_BGMON",10100,604,169,"IMG_check");
@@ -333,30 +357,31 @@ chapter main
 		CreateTexture("TAB3_select_UserEntry/MouseClick/img",10100,160,382,"cg/sys/config/ユーザー登録-03.png");
 	}
 	
-
-
-
-
-
-
-
-
-
-
-
-
-	$str="<FONT size=14 incolor=#443322><PRE>SYSTEM VERSION              "+#SYSTEM_version+"</PRE></FONT>";
+	CreateTexture("TAB3_LCS",10100,100,415,"ex/sys/config/config-LCS.png");
+	CreateChoice("TAB3_select_LCS_OFF");
+	CreateTexture("TAB3_check_LCS_OFF",10100,113,445,"IMG_check");
+	CreateTexture("TAB3_select_LCS_OFF/MouseUsual/img",0,103,445,"IMG_check_hit");
+	CreateTexture("TAB3_select_LCS_OFF/MouseOver/img",0,103,445,"IMG_check_hit");
+	CreateTexture("TAB3_select_LCS_OFF/MouseClick/img",0,103,445,"IMG_check_hit");
+	CreateChoice("TAB3_select_LCS_ON");
+	CreateTexture("TAB3_check_LCS_ON",10100,229,445,"IMG_check");
+	CreateTexture("TAB3_select_LCS_ON/MouseUsual/img",0,220,445,"IMG_check_hit");
+	CreateTexture("TAB3_select_LCS_ON/MouseOver/img",0,220,445,"IMG_check_hit");
+	CreateTexture("TAB3_select_LCS_ON/MouseClick/img",0,220,445,"IMG_check_hit");
+	
+	//origsize=14
+	$str="<FONT size=18 incolor=#443322><PRE>SYSTEM VERSION              "+#SYSTEM_version+"</PRE></FONT>";
 	CreateText("TAB3_ver_SYSTEM", 10010,475,335,auto,auto,$str);
-	$str="<FONT size=14 incolor=#443322><PRE>SCRIPT VERSION              "+#SCRIPT_VERSION+"</PRE></FONT>";
+	$str="<FONT size=18 incolor=#443322><PRE>SCRIPT VERSION              "+#SCRIPT_VERSION+"</PRE></FONT>";
 	CreateText("TAB3_ver_SCRIPT", 10010,475,352,auto,auto,$str);
 	Request("TAB3_ver_*",NoLog);
 	Request("TAB3_ver_*",PushText);
 	
 	CreateChoice("EXIT");
-	CreateTexture("EXIT_img",10100,599,522,"IMG_exit");
-	CreateTexture("EXIT/MouseUsual/img",0,599,522,"IMG_exit");
-	CreateTexture("EXIT/MouseOver/img",10100,599,522,"cg/sys/config/exit-02.png");
-	CreateTexture("EXIT/MouseClick/img",10100,599,522,"cg/sys/config/exit-03.png");
+	CreateTexture("EXIT_img",10100,599,532,"IMG_exit");
+	CreateTexture("EXIT/MouseUsual/img",0,599,532,"IMG_exit");
+	CreateTexture("EXIT/MouseOver/img",10100,599,532,"cg/sys/config/exit-02.png");
+	CreateTexture("EXIT/MouseClick/img",10100,599,532,"cg/sys/config/exit-03.png");
 	
 	
 	Fade("*/*/*",0,0,null,true);
@@ -404,6 +429,30 @@ chapter main
 					#SYSTEM_break_play_movie=false;
 					Fade("TAB1_check_SkipMovieON",200,0,null,false);
 					Fade("TAB1_check_SkipMovieOFF",200,1000,null,false);
+				}case TAB1_select_Font1{
+					#SYSTEM_font_family=MSGothic;
+					Fade("TAB1_check_Font2",200,0,null,false);
+					Fade("TAB1_check_Font3",200,0,null,false);
+					Fade("TAB1_check_Font4",200,0,null,false);
+					Fade("TAB1_check_Font1",200,1000,null,false);
+				}case TAB1_select_Font2{
+					#SYSTEM_font_family=Ubuntu;
+					Fade("TAB1_check_Font1",200,0,null,false);
+					Fade("TAB1_check_Font3",200,0,null,false);
+					Fade("TAB1_check_Font4",200,0,null,false);
+					Fade("TAB1_check_Font2",200,1000,null,false);
+				}case TAB1_select_Font3{
+					#SYSTEM_font_family=RodinBokutoh;
+					Fade("TAB1_check_Font1",200,0,null,false);
+					Fade("TAB1_check_Font2",200,0,null,false);
+					Fade("TAB1_check_Font4",200,0,null,false);
+					Fade("TAB1_check_Font3",200,1000,null,false);
+				}case TAB1_select_Font4{
+					#SYSTEM_font_family=Tahoma;
+					Fade("TAB1_check_Font1",200,0,null,false);
+					Fade("TAB1_check_Font2",200,0,null,false);
+					Fade("TAB1_check_Font3",200,0,null,false);
+					Fade("TAB1_check_Font4",200,1000,null,false);
 				}case TAB1_select_GameSpeed1{
 					if(!$PLACE_title){#SYSTEM_play_speed=3;}else{#play_speed_plus=3;}
 					Fade("TAB1_check_GameSpeed2",200,0,null,false);
@@ -431,11 +480,11 @@ chapter main
 				}case TAB1_select_MessageSpeed{
 					#SYSTEM_text_speed=(1-ScrollbarValue("TAB1_select_MessageSpeed"))*1000;
 				}case TAB1_select_CancelAutoAndSkipON{
-					#keep_auto_and_skip=false;
+					#StopAutoAndSkip=true;
 					Fade("TAB1_check_CancelAutoAndSkipOFF",200,0,null,false);
 					Fade("TAB1_check_CancelAutoAndSkipON",200,1000,null,false);
 				}case TAB1_select_CancelAutoAndSkipOFF{
-					#keep_auto_and_skip=true;
+					#StopAutoAndSkip=false;
 					Fade("TAB1_check_CancelAutoAndSkipON",200,0,null,false);
 					Fade("TAB1_check_CancelAutoAndSkipOFF",200,1000,null,false);
 				}case TAB1_select_AbsoluteSkipON{
@@ -468,9 +517,21 @@ chapter main
 					$SYSTEM_menu_config_enable=false;
 				}
 				if(!$SYSTEM_menu_config_enable){break;}
-				if($SYSTEM_menu_close_enable){
+				//★キーダウン系
+				if($SYSTEM_keydown_f){
+					if(!#SYSTEM_window_full_lock){
+						#SYSTEM_window_full=!#SYSTEM_window_full;
+						#SYSTEM_window_full_lock=false;
+						Wait(300);
+						$SYSTEM_keydown_f=false;
+					}
+				}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					call_chapter nss/sys_close.nss;
+					if(!$PLACE_title){
+						call_chapter nss/sys_close.nss;
+					}
+					$SYSTEM_buttondown_close=false;
+					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else if($cfgtab==2){
@@ -642,9 +703,13 @@ chapter main
 					$SYSTEM_menu_config_enable=FALSE;
 				}
 				if(!$SYSTEM_menu_config_enable){break;}
-				if($SYSTEM_menu_close_enable){
+				if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					call_chapter nss/sys_close.nss;
+					if(!$PLACE_title){
+						call_chapter nss/sys_close.nss;
+					}
+					$SYSTEM_buttondown_close=false;
+					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else if($cfgtab==3){
@@ -720,21 +785,25 @@ chapter main
 				}case TAB3_select_UserEntry{
 					#SYSTEM_window_full=false;
 					System("OPEN:https://www.nitroplus.co.jp/userentry/1401/", "", "");
-
-
-
-
-
-
-
-
+				}case TAB3_select_LCS_ON{
+					#下着パッチ=true;
+					Fade("TAB3_check_LCS_OFF",200,0,null,false);
+					Fade("TAB3_check_LCS_ON",200,1000,null,false);
+				}case TAB3_select_LCS_OFF{
+					#下着パッチ=false;
+					Fade("TAB3_check_LCS_ON",200,0,null,false);
+					Fade("TAB3_check_LCS_OFF",200,1000,null,false);
 				}case EXIT{
 					$SYSTEM_menu_config_enable=false;
 				}
 				if(!$SYSTEM_menu_config_enable){break;}
-				if($SYSTEM_menu_close_enable){
+				if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					call_chapter nss/sys_close.nss;
+					if(!$PLACE_title){
+						call_chapter nss/sys_close.nss;
+					}
+					$SYSTEM_buttondown_close=false;
+					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else{
@@ -836,6 +905,15 @@ function cfgHighlight()
 		}else{
 			Fade("TAB1_check_SkipMovieOFF",0,1000,null,false);
 		}
+		if(#SYSTEM_font_family==MSGothic){
+			Fade("TAB1_check_Font1",0,1000,null,false);
+		}else if(#SYSTEM_font_family==Ubuntu){
+			Fade("TAB1_check_Font2",0,1000,null,false);
+		}else if(#SYSTEM_font_family==RodinBokutoh){
+			Fade("TAB1_check_Font3",0,1000,null,false);
+		}else if(#SYSTEM_font_family==Tahoma){
+			Fade("TAB1_check_Font4",0,1000,null,false);
+		}
 		if(!$PLACE_title){
 			if(#SYSTEM_play_speed==3){
 				Fade("TAB1_check_GameSpeed1",0,1000,null,false);
@@ -859,11 +937,11 @@ function cfgHighlight()
 			}
 		}
 		$pos=1000*(1-(#SYSTEM_text_speed/1000));
-		CreateScrollbar("TAB1_select_MessageSpeed",10100,505,356,646,356,$pos,HORIZON,"IMG_csr");
-		if(#keep_auto_and_skip){
-			Fade("TAB1_check_CancelAutoAndSkipOFF",0,1000,null,false);
-		}else{
+		CreateScrollbar("TAB1_select_MessageSpeed",10100,505,380,646,380,$pos,HORIZON,"IMG_csr");
+		if(#StopAutoAndSkip){
 			Fade("TAB1_check_CancelAutoAndSkipON",0,1000,null,false);
+		}else{
+			Fade("TAB1_check_CancelAutoAndSkipOFF",0,1000,null,false);
 		}
 		if(#SYSTEM_skip_absolute){
 			Fade("TAB1_check_AbsoluteSkipON",0,1000,null,false);
@@ -876,7 +954,7 @@ function cfgHighlight()
 			Fade("TAB1_check_StopVoiceInClickOFF",0,1000,null,false);
 		}
 		$pos=1000*(1-(#SYSTEM_auto_wait_per_character/200));
-		CreateScrollbar("TAB1_select_WaitAtOneWord",10100,505,452,646,452,$pos,HORIZON,"IMG_csr");
+		CreateScrollbar("TAB1_select_WaitAtOneWord",10100,505,476,646,476,$pos,HORIZON,"IMG_csr");
 		if(#SYSTEM_auto_text_break_voice){
 			Fade("TAB1_check_StopVoiceInAutoON",0,1000,null,false);
 		}else{
@@ -975,13 +1053,13 @@ function cfgHighlight()
 		Fade("TAB3_ver_*",0,1000,null,false);
 		Fade("TAB3_hit_UserEntry",0,1000,null,false);
 		Fade("TAB3_select_UserEntry/MouseUsual/*",0,1000,null,false);
-
-
-
-
-
-
-
+		
+		if(#下着パッチ){
+			Fade("TAB3_check_LCS_ON",0,1000,null,false);
+		}else{
+			Fade("TAB3_check_LCS_OFF",0,1000,null,false);
+		}
+		Fade("TAB3_LCS",0,1000,null,false);
 	}
 	cfgFocus();
 	$nut=$nut+"/MouseUsual/*";
@@ -1012,9 +1090,12 @@ function cfgCharacterVoice()
 function cfgDefault()
 {
 	#SYSTEM_play_speed=3;
+	#SYSTEM_font_family=RodinBokutoh;
 	#SYSTEM_text_speed=500;
-	#SYSTEM_break_play_movie=false;
-	#keep_auto_and_skip=false;
+	#SYSTEM_break_play_movie=true;
+	#下着パッチ=false;
+	#StopAutoAndSkip=true;
+	#keep_auto_and_skip=true;
 	#SYSTEM_skip_absolute=false;
 	#SYSTEM_click_break_voice=false;
 	#SYSTEM_sound_bgm=true;
@@ -1045,7 +1126,7 @@ function cfgDefault()
 	#voice_skip_野呂瀬=false;
 	cfgCharacterVoice();
 	#SYSTEM_voice_enable_another=true;
-	#SYSTEM_video_aspect_fixed=0;
+	#SYSTEM_video_aspect_fixed=1;
 	
 	Save(0);
 	cfgHighlight();
@@ -1067,8 +1148,12 @@ function cfgFocus()
 		cfgSetFocus("TAB1_select_AskSaveOverWriteOFF","TAB1_select_AskDoLoadOFF",DOWN);
 		cfgSetFocus("TAB1_select_AskDoLoadON","TAB1_select_SkipMovieON",DOWN);
 		cfgSetFocus("TAB1_select_AskDoLoadOFF","TAB1_select_SkipMovieOFF",DOWN);
-		cfgSetFocus("TAB1_select_SkipMovieON","TAB1_select_GameSpeed4",DOWN);
-		cfgSetFocus("TAB1_select_SkipMovieOFF","TAB1_select_GameSpeed4",DOWN);
+		cfgSetFocus("TAB1_select_SkipMovieON","TAB1_select_Font1",DOWN);
+		cfgSetFocus("TAB1_select_SkipMovieOFF","TAB1_select_Font1",DOWN);
+		cfgSetFocus("TAB1_select_Font1","TAB1_select_GameSpeed1",DOWN);
+		cfgSetFocus("TAB1_select_Font2","TAB1_select_GameSpeed2",DOWN);
+		cfgSetFocus("TAB1_select_Font3","TAB1_select_GameSpeed3",DOWN);
+		cfgSetFocus("TAB1_select_Font4","TAB1_select_GameSpeed4",DOWN);
 		cfgSetFocus("TAB1_select_GameSpeed1","TAB1_select_MessageSpeed",DOWN);
 		cfgSetFocus("TAB1_select_GameSpeed2","TAB1_select_MessageSpeed",DOWN);
 		cfgSetFocus("TAB1_select_GameSpeed3","TAB1_select_MessageSpeed",DOWN);
@@ -1093,10 +1178,14 @@ function cfgFocus()
 		cfgSetFocus("TAB1_select_AskDoLoadOFF","TAB1_select_AskSaveOverWriteOFF",UP);
 		cfgSetFocus("TAB1_select_SkipMovieON","TAB1_select_AskDoLoadON",UP);
 		cfgSetFocus("TAB1_select_SkipMovieOFF","TAB1_select_AskDoLoadOFF",UP);
-		cfgSetFocus("TAB1_select_GameSpeed1","TAB1_select_SkipMovieON",UP);
-		cfgSetFocus("TAB1_select_GameSpeed2","TAB1_select_SkipMovieON",UP);
-		cfgSetFocus("TAB1_select_GameSpeed3","TAB1_select_SkipMovieON",UP);
-		cfgSetFocus("TAB1_select_GameSpeed4","TAB1_select_SkipMovieON",UP);
+		cfgSetFocus("TAB1_select_Font1","TAB1_select_SkipMovieON",UP);
+		cfgSetFocus("TAB1_select_Font2","TAB1_select_SkipMovieON",UP);
+		cfgSetFocus("TAB1_select_Font3","TAB1_select_SkipMovieON",UP);
+		cfgSetFocus("TAB1_select_Font4","TAB1_select_SkipMovieON",UP);
+		cfgSetFocus("TAB1_select_GameSpeed1","TAB1_select_Font1",UP);
+		cfgSetFocus("TAB1_select_GameSpeed2","TAB1_select_Font2",UP);
+		cfgSetFocus("TAB1_select_GameSpeed3","TAB1_select_Font3",UP);
+		cfgSetFocus("TAB1_select_GameSpeed4","TAB1_select_Font4",UP);
 		cfgSetFocus("TAB1_select_MessageSpeed","TAB1_select_GameSpeed1",UP);
 		cfgSetFocus("TAB1_select_CancelAutoAndSkipON","TAB1_select_MessageSpeed",UP);
 		cfgSetFocus("TAB1_select_CancelAutoAndSkipOFF","TAB1_select_MessageSpeed",UP);
@@ -1117,6 +1206,10 @@ function cfgFocus()
 		cfgSetFocus("TAB1_select_AskDoLoadOFF","TAB1_select_AskDoLoadON",LEFT);
 		cfgSetFocus("TAB1_select_SkipMovieON","TAB1_select_SkipMovieOFF",LEFT);
 		cfgSetFocus("TAB1_select_SkipMovieOFF","TAB1_select_SkipMovieON",LEFT);
+		cfgSetFocus("TAB1_select_Font1","TAB1_select_Font4",LEFT);
+		cfgSetFocus("TAB1_select_Font2","TAB1_select_Font1",LEFT);
+		cfgSetFocus("TAB1_select_Font3","TAB1_select_Font2",LEFT);
+		cfgSetFocus("TAB1_select_Font4","TAB1_select_Font3",LEFT);
 		cfgSetFocus("TAB1_select_GameSpeed1","TAB1_select_GameSpeed4",LEFT);
 		cfgSetFocus("TAB1_select_GameSpeed2","TAB1_select_GameSpeed1",LEFT);
 		cfgSetFocus("TAB1_select_GameSpeed3","TAB1_select_GameSpeed2",LEFT);
@@ -1139,6 +1232,10 @@ function cfgFocus()
 		cfgSetFocus("TAB1_select_AskDoLoadOFF","TAB1_select_AskDoLoadON",RIGHT);
 		cfgSetFocus("TAB1_select_SkipMovieON","TAB1_select_SkipMovieOFF",RIGHT);
 		cfgSetFocus("TAB1_select_SkipMovieOFF","TAB1_select_SkipMovieON",RIGHT);
+		cfgSetFocus("TAB1_select_Font1","TAB1_select_Font2",RIGHT);
+		cfgSetFocus("TAB1_select_Font2","TAB1_select_Font3",RIGHT);
+		cfgSetFocus("TAB1_select_Font3","TAB1_select_Font4",RIGHT);
+		cfgSetFocus("TAB1_select_Font4","TAB1_select_Font1",RIGHT);
 		cfgSetFocus("TAB1_select_GameSpeed1","TAB1_select_GameSpeed2",RIGHT);
 		cfgSetFocus("TAB1_select_GameSpeed2","TAB1_select_GameSpeed3",RIGHT);
 		cfgSetFocus("TAB1_select_GameSpeed3","TAB1_select_GameSpeed4",RIGHT);
@@ -1278,9 +1375,9 @@ function cfgFocus()
 		if(#SCRIPT_VERSION!="Trial"){
 			cfgSetFocus("TAB3_select_url","TAB3_select_UserEntry",DOWN);
 			cfgSetFocus("TAB3_select_qr","TAB3_select_UserEntry",DOWN);
-			cfgSetFocus("TAB3_select_UserEntry","EXIT",DOWN);
-
-
+			cfgSetFocus("TAB3_select_UserEntry","TAB3_select_LCS_ON",DOWN);
+			cfgSetFocus("TAB3_select_LCS_ON","EXIT",DOWN);
+			cfgSetFocus("TAB3_select_LCS_OFF","EXIT",DOWN);
 		}else{
 			cfgSetFocus("TAB3_select_url","EXIT",DOWN);
 			cfgSetFocus("TAB3_select_qr","EXIT",DOWN);
@@ -1297,9 +1394,9 @@ function cfgFocus()
 		cfgSetFocus("TAB3_select_qr","TAB3_select_FixedAspect3",UP);
 		if(#SCRIPT_VERSION!="Trial"){
 			cfgSetFocus("TAB3_select_UserEntry","TAB3_select_url",UP);
-
-
-			cfgSetFocus("EXIT","TAB3_select_UserEntry",UP);
+			cfgSetFocus("TAB3_select_LCS_ON","TAB3_select_UserEntry",UP);
+			cfgSetFocus("TAB3_select_LCS_OFF","TAB3_select_UserEntry",UP);
+			cfgSetFocus("EXIT","TAB3_select_LCS_ON",UP);
 		}else{
 			cfgSetFocus("EXIT","TAB3_select_url",UP);
 		}
@@ -1313,9 +1410,9 @@ function cfgFocus()
 		if(#SCRIPT_VERSION!="Trial"){
 			cfgSetFocus("TAB3_select_url","TAB3_select_UserEntry",RIGHT);
 			cfgSetFocus("TAB3_select_qr","TAB3_select_UserEntry",RIGHT);
-			cfgSetFocus("TAB3_select_UserEntry","EXIT",RIGHT);
-
-
+			cfgSetFocus("TAB3_select_UserEntry","TAB3_select_LCS_ON",RIGHT);
+			cfgSetFocus("TAB3_select_LCS_ON","TAB3_select_LCS_OFF",RIGHT);
+			cfgSetFocus("TAB3_select_LCS_OFF","TAB3_select_LCS_ON",RIGHT);
 		}else{
 			cfgSetFocus("TAB3_select_url","EXIT",RIGHT);
 			cfgSetFocus("TAB3_select_qr","EXIT",RIGHT);
@@ -1332,9 +1429,9 @@ function cfgFocus()
 		cfgSetFocus("TAB3_select_qr","TAB3_select_FixedAspect3",LEFT);
 		if(#SCRIPT_VERSION!="Trial"){
 			cfgSetFocus("TAB3_select_UserEntry","TAB3_select_url",LEFT);
-
-
-			cfgSetFocus("EXIT","TAB3_select_UserEntry",LEFT);
+			cfgSetFocus("TAB3_select_LCS_ON","TAB3_select_LCS_OFF",LEFT);
+			cfgSetFocus("TAB3_select_LCS_OFF","TAB3_select_LCS_ON",LEFT);
+			cfgSetFocus("EXIT","TAB3_select_LCS_ON",LEFT);
 		}else{
 			cfgSetFocus("EXIT","TAB3_select_url",LEFT);
 		}

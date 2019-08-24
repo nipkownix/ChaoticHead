@@ -101,29 +101,29 @@ if($–Ï‘zƒgƒŠƒK[‚R‚W == 2)
 <PRE box00>
 [text001]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600010ri">
 "I asked her what she was to Taku&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600020ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600020ta">
+"Eh&.&.&."
 
-Wh&, what could that mean&.&.&.&.
+Wh&, what could that mean&.&.&.
 
 {	MusicStart("@CH05",1000,1000,0,0,null,true);
 	Stand("bu‘å•ã_§•_’Êí","shock", 200, @230);
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600030mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600030mi">
 "Uooh&, seriously!?@Like a declaration of war?"
 
 {	Stand("bu—œ[_§•_’Êí","smile", 250, @-230);
 	FadeStand("bu—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600040ri">
-"Tahaha&, well&, something along those lines&.&.&.&. I guess&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600040ri">
+"Tahaha&, well&, something along those lines&.&.&. I guess&."
 
 Rimi squirmed shyly&.
 She took little glances in my direction&.
@@ -132,21 +132,21 @@ She took little glances in my direction&.
 	FadeStand("bu—œ[_§•_’Êí_hard", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_smile", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600050ri">
-"I told her I wasn't going to let her have him&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600050ri">
+"I told her I wasn't going to let her have him&.&.&."
 
 {	Stand("bu—œ[_§•_’Êí","happy", 250, @-230);
 	FadeStand("bu—œ[_§•_’Êí_happy", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_hard", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600060ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600060ri">
 "And then she totally hit me&."
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 200, @230);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_shock", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600070mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600070mi">
 "Wild&. A catfight&, huh&."
 
 Misumi-kun mussed my hair&.
@@ -156,12 +156,12 @@ Misumi-kun mussed my hair&.
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_worry", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600080mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600080mi">
 "Hey&, Taku&. Whatcha gonna do? Whatcha gonna do&, eh?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600090ta">
-"Uh&, um&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600090ta">
+"Uh&, um&.&.&."
 
 So what was actually happening?
 I didn't really understand everything at the moment&, or maybe it was
@@ -169,11 +169,11 @@ only that my head had gone blank&.
 
 //ŸŠy‚µ‚»‚¤‚É
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600100mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600100mi">
 "She just confessed to you!"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600110mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600110mi">
 "Go out already&, guys&."
 
 {	CreateSE("SE03","SE_ÕŒ‚_”w’†‚ğ‰Ÿ‚³‚ê‚é");
@@ -197,11 +197,11 @@ Ahead of me was Rimi&.
 <PRE box00>
 [text002]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600120ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600120ta">
 "Uwah"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600130ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600130ri">
 "Kyaa!?"
 
 {	SoundPlay("SE03", 0, 1000, false);
@@ -214,20 +214,20 @@ embracing me&.
 
 {	MusicStart("@CH11",2000,1000,0,0,null,true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600140ta">
-"S&, sorr&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600140ta">
+"S&, sorr&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600150ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600150ri">
 "Ah&, 'sokay&."
 
 My heart pounded hard&.
-Rimi's body was ever so soft and warm&.&.&.&.
+Rimi's body was ever so soft and warm&.&.&.
 
 //Ÿ‚³‚³‚â‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600160ri">
-"Taku&.&.&.&. I&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600160ri">
+"Taku&.&.&. I&.&.&."
 
 Flustered&, I tried to pull away&, but Rimi's hands circled around my
 back&.
@@ -260,7 +260,7 @@ I went cold&.
 
 What a set-up for carnage&.
 There would definitely be blood spilt here&.
-The moment it occurred to me&, I wanted to run away posthaste--
+The moment it occurred to me&, I wanted to run away posthaste\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -291,7 +291,7 @@ The moment it occurred to me&, I wanted to run away posthaste--
 [text003]
 //‚P‚Oƒ[ƒgƒ‹‚­‚ç‚¢—£‚ê‚½‚Æ‚±‚ë‚©‚çŒÄ‚Ñ‚©‚¯‚Ä‚¢‚é
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600170mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600170mi">
 "Oiii&, Taku&, what're you zoning out for? Let's get a move on&."
 
 Misumi-kun was calling me&.
@@ -302,8 +302,8 @@ Rimi and I weren't hugging&.
 I didn't spot Ayase&, either&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600180ta">
-"Haa&, that gave me a scare&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600180ta">
+"Haa&, that gave me a scare&.&.&."
 
 {#TIPS_ƒ„ƒ“ƒfƒŒ = true;}
 I have a hard time with carnage&, emotional or otherwise&.
@@ -311,7 +311,7 @@ I have a hard time with carnage&, emotional or otherwise&.
 I definitely didn't want to become involved with one&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600190mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600190mi">
 "Taku! Hurry up&, come on&."
 
 I hastened to chase after the other two&.
@@ -362,26 +362,26 @@ if($–Ï‘zƒgƒŠƒK[‚R‚W == 1)
 <PRE box00>
 [text004]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600200ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600200ri">
 "I asked her about how she must've been hospitalized there the whole
 time&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600210ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600210ta">
+"Eh&.&.&.?"
 
 {	Stand("bu‘å•ã_§•_’Êí","shock", 200, @230);
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600220mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600220mi">
 "What's that supposed to mean?"
 
 {	Stand("bu—œ[_§•_’Êí","hard", 250, @-230);
 	FadeStand("bu—œ[_§•_’Êí_hard", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600230ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600230ri">
 "Um&, the truth is&, Kishimoto-san was never discharged&."
 
 {	MusicStart("@CH15",2000,1000,0,0,null,true);
@@ -393,23 +393,23 @@ news about Ayase&.
 	Stand("bu—œ[_§•_’Êí","hard", 250, @-50);
 	FadeStand("bu—œ[_§•_’Êí_hard", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600240ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600240ri">
 "The reason she only came to school once in a while was cause she'd
 been attending from the hospital&, without permission&. The same goes
 for her concerts&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600250ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600250ri">
 "And as for the New-Gen murders&, they're delusions she produced&,
 which she enacted with her own hands&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600260ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600260ri">
 "She made each incident happen the same way it was described in
 Phantasm's lyrics&. In order to bathe in the resulting attention&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600270ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600270ri">
 "According to my deductions&, that's the true nature of the New-Gen
 cases&. Back there&, I took the plunge and tried confronting
 Kishimoto-san herself about it&."
@@ -418,30 +418,30 @@ Kishimoto-san herself about it&."
 	FadeStand("bu—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_hard", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600280ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600280ri">
 "And then she hit me&. Tahaha&."
 
-This isn't the time for tahaha&.&.&.&.
+This isn't the time for tahaha&.&.&.
 
 Anyone would get pissed if you treated them like a murderer without
 any evidence&.
 
 Ah&, but Rimi hadn't gotten mad when I treated her like a murderer&,
-had she&.&.&.&.
+had she&.&.&.
 
 {	Stand("bu—œ[_§•_³–Ê","normal", 250, @-50);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, false);
 	DeleteStand("bu—œ[_§•_’Êí_smile", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600290ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600290ri">
 "But my reasoning can't possibly be wrong&.
-Taku&, be careful&. Kishimoto-san is--"
+Taku&, be careful&. Kishimoto-san is\"
 
 {	Stand("bu—œ[_§•_³–Ê","hard", 250, @-50);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 300, true);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600300ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600300ri">
 "Insane&."
 
 I couldn't believe Rimi would say such a thing&.
@@ -464,12 +464,12 @@ I thought I'd misheard her or something&.
 <PRE box00>
 [text005]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16600310ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16600310ay">
 "I'm sane!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600320ta">
-"Eh&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600320ta">
+"Eh&.&.&.!?"
 
 A voice with strong projection resounded around us&.
 
@@ -494,7 +494,7 @@ hospital building&, her Di-Sword in hand&.
 
 {	MusicStart("@CH13",2000,1000,0,0,null,true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16600330ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16600330ay">
 "Everything springs from the guidance of the Great Will!"
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_‘«_‘–‚é_Loop");
@@ -503,26 +503,26 @@ hospital building&, her Di-Sword in hand&.
 She shouted&, brandished her sword&, and lunged toward us&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600340mi">
-"O&, oi&, time to run&.&.&.&.!"
+<voice name="OZ" class="OZ" src="voice/ch08/16600340mi">
+"O&, oi&, time to run&.&.&.!"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600350ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600350ri">
 "Taku&, what should we do!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600360ta">
-"A&, asking me what to do&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600360ta">
+"A&, asking me what to do&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16600370ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16600370ay">
 "Glory be to Glajioouuuul!"
 
 Ayase was clearly off her rocker&.
 
 She steadily barreled toward us&.
 Shit&. Better run&.
-She'd kill us if we didn't run&.&.&.&.!
+She'd kill us if we didn't run&.&.&.!
 
 {	CreateSE("SE03","SE_l‘Ì_“®ì_ŠŠ‚Á‚Ä“]‚Ô");
 	SoundPlay("SE03", 0, 1000, false);
@@ -533,11 +533,11 @@ My excessive panic made me trip&.
 I fell over ostentatiously&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600380ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600380ri">
 "Taku!"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600390mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600390mi">
 "Leave him&, Rimi!"
 
 Rimi and Misumi-kun abandoned me as they escaped&.
@@ -547,12 +547,12 @@ I stretched out a hand toward their diminishing backs&.
 	Fade("”wŒi‚P", 0, 1000, null, true);
 	DrawTransition("F‚P", 100, 1000, 0, 100, null, "cg/data/lcenter2.png", true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600400ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600400ta">
 "Wait! Don't leave me behind!"
 
 {	MusicStart("@CH*",200,0,0,0,null,false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16600410ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16600410ay">
 "Diiieee!"
 
 {	SoundPlay("SE02", 200, 0, false);
@@ -621,7 +621,7 @@ raised high overhead&.
 [text006]
 //Ÿ‚P‚Oƒ[ƒgƒ‹‚­‚ç‚¢—£‚ê‚½‚Æ‚±‚ë‚©‚çŒÄ‚Ñ‚©‚¯‚Ä‚¢‚é
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600420mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600420mi">
 "Oiii&, Taku&, what're you zoning out for? Let's get a move on&."
 
 Misumi-kun was calling me&.
@@ -632,14 +632,14 @@ I didn't spot Ayase anywhere&.
 I didn't have any wounds whatsoever&. She hadn't c<pre>u</pre>t me down&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600430ta">
-"Haa&, a&, a delusion&.&.&.&. huh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600430ta">
+"Haa&, a&, a delusion&.&.&. huh&.&.&."
 
-I'd thought she'd killed me&.&.&.&.
+I'd thought she'd killed me&.&.&.
 Such a scary Ayase belonged only in my delusions&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600440mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600440mi">
 "Taku! Hurry up&, come on!"
 
 I hastened to chase after the other two&.
@@ -668,14 +668,14 @@ if($–Ï‘zƒgƒŠƒK[‚R‚W == 0)
 [text007]
 //Ÿ¦À‚ÍƒEƒ\B–{“–‚Íg‘ñ–¤‚ğŠoÁ‚³‚¹‚½‚­‚È‚¢‚©‚ç‹ß‚Ã‚©‚È‚¢‚Åh‚Æ‚ ‚â‚¹‚É‘i‚¦‚½B‚ ‚â‚¹‚Í‚»‚ê‚Å—œ[‚à‚Ü‚½gµ‹Rm‚Ì‚Ğ‚Æ‚è‚¾h‚Æ‹C•t‚«A—œ[‚É¸–]‚µ‚Ä’@‚¢‚½B
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600450ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600450ri">
 "I asked her to show me her sword&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600460ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600460ta">
+"Eh&.&.&."
 
-It couldn't be&. Rimi&, too&.&.&.&. could see Di-Swords?
+It couldn't be&. Rimi&, too&.&.&. could see Di-Swords?
 
 Was what I'd thought for a second&, but I was wrong&.
 
@@ -683,29 +683,29 @@ Was what I'd thought for a second&, but I was wrong&.
 	FadeStand("bu—œ[_§•_³–Ê_normal", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600470ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600470ri">
 "See&, you talked about her sword before&, Taku&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600480ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600480ri">
 "So I kind of wanted to see it&, too&."
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 200, @250);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600490mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600490mi">
 "And then she slapped you? I don't get it&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600500mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600500mi">
 "Considering how all she ever talks about is swords&."
 
 {	Stand("bu‘å•ã_§•_’Êí","sigh", 200, @250);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_worry", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600510mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600510mi">
 "The second we went in her hospital room&, she started going off about
 Gladiator or something&, totally freaked me out&."
 
@@ -753,27 +753,27 @@ set up in one of the lobby's corners&.
 {	Stand("bu—œ[_§•_³–Ê","normal", 250, @-250);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600520ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600520ri">
 "I wonder what it is?"
 
 {	Stand("bu‘å•ã_§•_’Êí","smile", 200, @250);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 500, true);}
 //ŸÎ‚¢‚È‚ª‚ç
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600530mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600530mi">
 "Another New-Gen&, ya think?"
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_smile", 500, true);}
 I went rigid at Misumi-kun's carelessly tossed-off words&.
-But soon Rimi--
+But soon Rimi\
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 250, @-250);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 200, true);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //Ÿ—D‚µ‚­ƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600540ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600540ri">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("bu—œ[_§•_³–Ê_sad", 500, true);}
 Casually held my hand&.
@@ -790,7 +790,7 @@ Parts of her were overly optimistic&, but as long as she was by my
 side&, I could just barely hold up under the terror that assaulted
 me&.
 
-I was so glad Rimi was there for me&.&.&.&.
+I was so glad Rimi was there for me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -800,21 +800,21 @@ I was so glad Rimi was there for me&.&.&.&.
 <PRE box00>
 [text009]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16600550mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16600550mi">
 "Hey&, you guys&, come take a look!"
 
 Misumi-kun&, who had gone up in front of the television at some
 point&, beckoned to me and Rimi&.
 
-All the other people gathered there--elderly patients and young
-patients&, and even nurses--had their eyes glued to the TV screen&.
+All the other people gathered there\elderly patients and young
+patients&, and even nurses\had their eyes glued to the TV screen&.
 
 What on earth was there?
 
 {	Stand("bu—œ[_§•_³–Ê","normal", 250, @-250);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600560ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600560ri">
 "Wanna see?"
 
 {	DeleteStand("bu—œ[_§•_³–Ê_normal", 500, false);}
@@ -849,64 +849,64 @@ I was stunned&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-It was--
+It was\
 
 News about the arrest of the New-Gen perpetrator&.
 
 {	Move("”wŒi‚P", 1000, @0, @100, AxlDxl, false);}
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600570ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600570ka">
 "I repeat"
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600580ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600580ka">
 "At approximately 3:00 this afternoon&, the Shibuya Police Department
 arrested a suspect in the September 29th homicide commonly known as
 the 'staking&,'"
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600590ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600590ka">
 "One of an outbreak of murder cases in Shibuya called the 'New
 Generation Madness&.'"
 
 //Ÿ‚±‚Ü‚¦‚¾E‚µ‚ñ‚²
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600600ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600600ka">
 "The murder suspect under detainment is Komaeda Shingo&, twenty-five
 years old and unemployed&."
 
 //‚¨‚¨‚½E‚Ğ‚³‚µ
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600610ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600610ka">
 "As was stated in the Shibuya Police Department press conference held
 a short while ago&, he is at present only considered a suspect in the
 murder of Outa Hisashi&."
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600620ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600620ka">
 "Their current stance is that hereafter&, they plan to explore
 possible charges related to the other cases as well&."
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600630ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600630ka">
 "Komaeda has acknowledged his homicide charges with respect to Outa&."
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600640ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600640ka">
 {#TIPS_ƒ]ƒ“ƒr = true;}"'Outa-san was real persistent about chasing after the woman I've been
 going out with&, and I finally snapped and strangled him&. But he was
 a <FONT incolor="#88abda" outcolor="BLACK">zombie</FONT> and wouldn't die&, so I stopped his movements by pinning him
 in place&.'"
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600650ka">
-"--Such were the incomprehensible contents of his testimony&."
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600650ka">
+"\Such were the incomprehensible contents of his testimony&."
 
 //yƒLƒƒƒXƒ^[‚`z
-<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="ch08/16600660ka">
+<voice name="ƒLƒƒƒXƒ^[‚`" class="ƒLƒƒƒXƒ^[‚`" src="voice/ch08/16600660ka">
 "The police investigation revealed that Komaeda is not currently in a
 relationship with any woman&, and they also suspect him of potentially
-being on drugs--"
+being on drugs\"
 
 I couldn't believe it&.
 
@@ -914,7 +914,7 @@ As it all unfolded&, the TV screen showed a live broadcast of the
 suspect about to be transported by car&.
 
 The screen blinked violently with the flashes of the lit-up cameras
-belonging to the reporters thronging all around&. 
+belonging to the reporters thronging all around&.
 
 The suspect had a jacket covering his head&, preventing me from making
 out anything whatsoever about his appearance&.
@@ -927,30 +927,30 @@ out anything whatsoever about his appearance&.
 <PRE box00>
 [text011]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600670ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600670ri">
 "Taku&."
 
 Rimi's hand squeezed mine harder&.
 Still gazing at the TV screen&, she murmured to me&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600680ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600680ri">
 "You weren't the culprit or anything&, after all&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600690ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600690ri">
 "The guy called 'Shogun' was only playing a prank on you&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600700ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600700ri">
 "Even Kusunoki-san was simply mistaken in her reasoning&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600710ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600710ri">
 "See? This resolves everything&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16600720ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16600720ri">
 "You don't have to be afraid of invisible shadows anymore&."
 
 {	SoundPlay("SE01", 5000, 0, false);
@@ -986,7 +986,7 @@ It didn't ring true that "Shogun" would stalk me for the sake of a
 mere hoax&.
 
 But maybe I found myself thinking about it that way because my "sense
-of what was regular" had gone numb over this past month--
+of what was regular" had gone numb over this past month\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1021,21 +1021,21 @@ entrance&,{	SoundPlay("SE03"&, 200&, 0&, false);} and took up my cellphone&.
 
 {	Wait(1000);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600730ta">
-"Ye&, yes&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600730ta">
+"Ye&, yes&.&.&."
 
 {	Wait(1000);}
 //ˆÈ‰ºAµŠC‚Ìº‚Í“d˜b‚Ìº
 //‚u‚e//“d˜b‚Ìº
 //Ÿ‹ê‚µ‚»‚¤‚ÈƒuƒŒƒX
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch08/16600740na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch08/16600740na">
+"&.&.&.&.&.&.&."
 
 {	Wait(500);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600750ta">
-"Wh&, who&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600750ta">
+"Wh&, who&.&.&.?"
 
 I braced myself&.
 Maybe I would hear "Let Me Pass" again&.
@@ -1063,12 +1063,12 @@ I quickly checked the caller's name&.
 [text013]
 But it was from an unknown number&.
 I had a bad premonition&, and I was about to hurry up and end the
-call&, when--
+call&, when\
 
 //‹ê‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch08/16600760na">
-"Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch08/16600760na">
+"Bro&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1105,7 +1105,7 @@ call&, when--
 <PRE box00>
 [text014]
 What I heard through the phone was horribly anguished&, and
-undeniably--
+undeniably\
 
 Nanami's voice&..
 
@@ -1143,20 +1143,20 @@ Nanami's voice&..
 <PRE box00>
 [text015]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16600770ta">
-"Na&.&.&.&. nami&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16600770ta">
+"Na&.&.&. nami&.&.&.?"
 
 {	Wait(1000);}
 //Ÿ‹ê‚µ‚°
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch08/16600780na">
-"Give back Nana's--"
+<voice name="µŠC" class="µŠC" src="voice/ch08/16600780na">
+"Give back Nana's\"
 
 {	MusicStart("@CH06",100,0,0,0,null,true);
 	Wait(1000);}
 //Ÿ‹ê‚µ‚°
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch08/16600790na">
+<voice name="µŠC" class="µŠC" src="voice/ch08/16600790na">
 "Right hand&."
 
 </PRE>

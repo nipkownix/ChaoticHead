@@ -28,7 +28,7 @@ function ch01_015_楠優愛()
 	CreateColor("背景１", 100, 0, 0, 800, 600, "Black");
 	Fade("背景１", 0, 1000, null, true);
 
-//☆Cut-66-----------------------------
+//☆Cut-66――――――――――――――――――――――――――――――
 //ＢＧ//１０９前//夜
 	CreateBG(100, 1000, 0, 0, "cg/bg/bg009_02_3_107_a.jpg");
 
@@ -49,7 +49,7 @@ were surging with people&, and I couldn't progress as quickly as I'd
 have liked&.
 
 I was starting to feel worse and worse&.
-I hate crowds&.&.&.&. They give me the sense that everyone's looking
+I hate crowds&.&.&. They give me the sense that everyone's looking
 at me and snickering&.
 
 When the light turned red&, my only option was to stop&. I swiftly
@@ -67,9 +67,9 @@ Girl A was nowhere to be seen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-When I climbed up Dougen Hill&, walking became considerably easier&. 
+When I climbed up Dougen Hill&, walking became considerably easier&.
 Normally I would do my best to go back by choosing the kinds of back
-roads where other people are scarce&, but--
+roads where other people are scarce&, but―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -101,7 +101,7 @@ The person I'd seen at @Cafe might've been someone different&, after
 all&.
 
 Mildly relieved&, I relaxed my shoulders a little&, since they'd been
-frozen in place this whole time&, and faced forward--
+frozen in place this whole time&, and faced forward―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -132,20 +132,20 @@ frozen in place this whole time&, and faced forward--
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01500010ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch01/01500010ta">
+"&.&.&.!"
 
 Stunned&, I took a single step back&.
 
 On the other side of the crosswalk&.
 That girl was there&, in the midst of the people waiting for the light
-to change&. 
+to change&.
 
 And the gaze coming from the depths of her glasses was blatantly
 pointed at me&. She didn't try to look away&.
 
 Her eyes brimmed with a solemn color&, demanding something from
-me&.&.&.&.
+me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

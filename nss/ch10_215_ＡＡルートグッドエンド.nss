@@ -21,7 +21,7 @@ chapter main
 }
 
 
-function 215_‚`‚`ƒ‹[ƒgƒOƒbƒhƒGƒ“ƒh()
+function ch10_215_‚`‚`ƒ‹[ƒgƒOƒbƒhƒGƒ“ƒh()
 {
 
 	$SYSTEM_last_text="ƒGƒsƒ[ƒO";
@@ -38,7 +38,7 @@ function 215_‚`‚`ƒ‹[ƒgƒOƒbƒhƒGƒ“ƒh()
 	CreateTextureEX("”wŒi‚O", 100, @0, @-600, "cg/bg/bg001_01_1_•ö‰óa’J_a.jpg");
 
 
-	CreateMovie("‰J‚P", 500, 0, 0, true, false, "dx/mv‰J02.ngs");	
+	CreateMovie("‰J‚P", 500, 0, 0, true, false, "dx/mvRain02.ngs");	
 	Request("‰J‚P", AddRender);
 	Fade("‰J‚P", 0, 0, null, true);
 
@@ -54,38 +54,38 @@ function 215_‚`‚`ƒ‹[ƒgƒOƒbƒhƒGƒ“ƒh()
 <PRE box00>
 [text001]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500010ri">
-"I can't kill you&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500010ri">
+"I can't kill you&.&.&."
 
-Removing her lips from mine&, 
-Rimi spoke painfully&. 
+Removing her lips from mine&,
+Rimi spoke painfully&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500020ri">
-"I can't kill you after all&, Taku&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500020ri">
+"I can't kill you after all&, Taku&.&.&."
 
-The reason I didn't feel any pain-- 
-Was because her sword hadn't been real-booted&. 
-My body wasn't injured anywhere&. 
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500030ta">
-"But if you don't erase me&.&.&.&." 
+The reason I didn't feel any pain\
+Was because her sword hadn't been real-booted&.
+My body wasn't injured anywhere&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500040ta">
-"The real me will&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500030ta">
+"But if you don't erase me&.&.&."
 
-He would die&. 
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500040ta">
+"The real me will&.&.&."
+
+He would die&.
 I was the one who should die&.
 
-And thus we needed to prolong his life&, even if only by a little&. 
+And thus we needed to prolong his life&, even if only by a little&.
 
 That ought to have been Rimi's goal as well&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500050ta">
-"Erase me&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500050ta">
+"Erase me&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -97,51 +97,51 @@ That ought to have been Rimi's goal as well&.
 [text002]
 //ŸØ‚È‚¢ƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500060ri">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500060ri">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500070ta">
-"You have to&.&.&.&. erase me&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500070ta">
+"You have to&.&.&. erase me&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500080ri">
-"I can't&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500080ri">
+"I can't&.&.&."
 
-Rimi gave a small shake of her head&. 
-She watched me with wavering eyes&. 
-
-//y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500090ri">
-"I love you&.&.&.&." 
+Rimi gave a small shake of her head&.
+She watched me with wavering eyes&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500100ri">
-"I love&.&.&.&. your weakness&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500090ri">
+"I love you&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500110ri">
-"Even though you're weak&, even though you're a coward&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500100ri">
+"I love&.&.&. your weakness&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500120ri">
-"You went to tatters&, coming to save the likes of me&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500110ri">
+"Even though you're weak&, even though you're a coward&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500130ri">
-"I love&.&.&.&. that strength of yours&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500120ri">
+"You went to tatters&, coming to save the likes of me&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500140ri">
-"I want to share more time with you&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500130ri">
+"I love&.&.&. that strength of yours&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500150ri">
-"I don't want to lose you&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500140ri">
+"I want to share more time with you&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500160ri">
-"I want you to live&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500150ri">
+"I don't want to lose you&.&.&."
+
+//y—œ[z
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500160ri">
+"I want you to live&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -151,34 +151,34 @@ She watched me with wavering eyes&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-You'll look at me&.&.&.&.? 
+You'll look at me&.&.&.?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500170ta">
-"I'm a monster&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500170ta">
+"I'm a monster&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500180ri">
-"So am I&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500180ri">
+"So am I&.&.&."
 
-Is it okay for me to live&.&.&.&.? 
+Is it okay for me to live&.&.&.?
 
 //‚u‚e
 //ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21500190jn">
-"If you choose to do so" 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21500190jn">
+"If you choose to do so"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21500200jn">
-"There's nothing wrong with living&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21500200jn">
+"There's nothing wrong with living&."
 
-I heard a voice from the sky&. 
+I heard a voice from the sky&.
 
 And then I knew&.
-Because our hearts were directly connected&, I sensed it&. 
+Because our hearts were directly connected&, I sensed it&.
 
-The fact that his life had disappeared now&, in this very instant&. 
+The fact that his life had disappeared now&, in this very instant&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -189,46 +189,46 @@ The fact that his life had disappeared now&, in this very instant&.
 <PRE box00>
 [text004]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500210ri">
-"Takumi&.&.&.&. has died&, hasn't he&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500210ri">
+"Takumi&.&.&. has died&, hasn't he&.&.&."
 
-Rimi was quick to pick up on 
-The emotion that had emerged in my expression&. 
+Rimi was quick to pick up on
+The emotion that had emerged in my expression&.
 
-After some brief hesitation&, I nodded a tiny bit&. 
+After some brief hesitation&, I nodded a tiny bit&.
 
 {	DeleteStand("bu—œ[_§•_³–Ê_sad", 500, true);}
 //Ÿ‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500220ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500220ri">
+"&.&.&.&.&.&.&."
 
-Don't cry&. 
-I don't want you to cry&. 
+Don't cry&.
+I don't want you to cry&.
 
-Feeling returned to my body&. 
+Feeling returned to my body&.
 
-Warmth returned to me&. 
+Warmth returned to me&.
 
-I was still clumsy&. 
+I was still clumsy&.
 
-I was still trembling&. 
+I was still trembling&.
 
 But I reached toward my heart with my hand&,
 which was now capable of moving&,
 and took out the vermilion handkerchief&.
 
-The tears running down your cheeks&. 
+The tears running down your cheeks&.
 
 Those drops&, so lovely and so clear&.
 
-I wiped them softly with the memory you gave me&. 
+I wiped them softly with the memory you gave me&.
 
 {	SetVolume("SE01", 500, 0, NULL);
 	SoundPlay("@CH_ED_A", 1000, 1000, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500230ta">
-"I&.&.&.&. love you&, too&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500230ta">
+"I&.&.&. love you&, too&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -237,17 +237,17 @@ I wiped them softly with the memory you gave me&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
-Rimi held onto my hand for dear life&. 
+Rimi held onto my hand for dear life&.
 
 As though to ascertain that we were here&.
 
-Our warmth was contagious&. 
-Our separate temperatures melted together&. 
+Our warmth was contagious&.
+Our separate temperatures melted together&.
 
 {	Move("”wŒi‚O", 3000, 0, 0, AxlAuto, false);
 	WaitAction("”wŒi‚O", 1000);
 	CreateTextureEX("”wŒi‚P", 100, @0, @0, "cg/bg/bg001_01_1_•ö‰óa’J_a.jpg");
-	CreateMovie("‰J‚Q", 100, 0, 0, true, false, "dx/mv‰J01.ngs");
+	CreateMovie("‰J‚Q", 100, 0, 0, true, false, "dx/mvRain01.ngs");
 	Fade("‰J‚Q", 0, 0, null, true);
 	Request("‰J‚Q", AddRender);
 	Fade("‰J‚P", 1000, 0, null, false);
@@ -255,35 +255,35 @@ Our separate temperatures melted together&.
 	Fade("‰J‚Q", 1000, 1000, null, true);
 	Delete("‰J‚P");
 	Delete("”wŒi‚O");}
-The two of us looked up at the sky&. 
-As expected&, it was covered in rain clouds&. 
+The two of us looked up at the sky&.
+As expected&, it was covered in rain clouds&.
 
-But--
+But\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500240ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500240ta">
 "Light is made up of waves in an electromagnetic field&.
-Human sight detects its oscillations as color&.&.&.&."
+Human sight detects its oscillations as color&.&.&."
 
 //Ÿ•ğ‘R
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21500250ri">
-"Taku&.&.&.&. those words&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21500250ri">
+"Taku&.&.&. those words&.&.&."
 
 
-Words only he and Rimi knew&. 
-The words with which he had given Rimi hope&. 
+Words only he and Rimi knew&.
+The words with which he had given Rimi hope&.
 
-But I knew them&, too&. 
-Because I'd seen all his memories&. 
+But I knew them&, too&.
+Because I'd seen all his memories&.
 
-He and I shared the same soul&, the same heart&. 
-Our memories belonged to the both of us&. 
+He and I shared the same soul&, the same heart&.
+Our memories belonged to the both of us&.
 
-I had inherited the memories of his seventeen years of life until now&. 
+I had inherited the memories of his seventeen years of life until now&.
 
 And he had vicariously experienced the memories of my year and a half
-of life until now&. 
+of life until now&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -293,16 +293,16 @@ of life until now&.
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500260ta">
-"If we apply the color we desire to our own dead spots--" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500260ta">
+"If we apply the color we desire to our own dead spots\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21500270ta">
-"We can take back the color of our sky&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21500270ta">
+"We can take back the color of our sky&.&.&."
 
-We knew that color&. 
+We knew that color&.
 Because&, in an imagined world containing only the sea and the sky&,
-we had looked up at it&, and burned it into our memories&.  
+we had looked up at it&, and burned it into our memories&.
 
 {	WaitAction("”wŒi‚P", null);
 	FadeDelete("‰J‚Q", 500, true);
@@ -310,16 +310,16 @@ we had looked up at it&, and burned it into our memories&.
 	CreateTextureEX("Â‹ó", 100, 0, 0, "cg/bg/bg002_01_1_Â‹ó_a.jpg");
 	FadeDelete("”wŒi‚P", 3000, false);
 	Fade("Â‹ó", 3000, 1000, null, true);}
-The rain abruptly stopped&. 
-The clouds vanished instantaneously&. 
+The rain abruptly stopped&.
+The clouds vanished instantaneously&.
 
-It was clearing up&. 
-It was coming back&. 
+It was clearing up&.
+It was coming back&.
 
-Seeming as though it would draw us in endlessly&. 
-Covering this world so gently&. 
+Seeming as though it would draw us in endlessly&.
+Covering this world so gently&.
 
-A blue sky-- 
+A blue sky\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

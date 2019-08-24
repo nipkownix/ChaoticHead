@@ -43,27 +43,27 @@ function ch06_116_飛び降りるあやせ()
 <PRE box00>
 [text001]
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600010aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600010aa">
 //"Aah!"
 
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600020aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600020aa">
 //"Uooh!?"
 
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600030aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600030aa">
 //"Uwah!"
 
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600040aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600040aa">
 //"Kyaa!"
 
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600050aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600050aa">
 //"Nooo!"
 
 //【ガヤ】
-//<voice name="ガヤ" class="ガヤ" src="ch06/11600060aa">
+//<voice name="ガヤ" class="ガヤ" src="voice/ch06/11600060aa">
 //"Stop!"
 
 </PRE>
@@ -86,7 +86,7 @@ Helpless&, all I could do was watch&.
 	Fade("色１", 0, 0, null, true);
 	Fade("色１", 1000, 1000, null, false);
 	Wait(1000);}
-When Ayase spread her arms out on both sides--
+When Ayase spread her arms out on both sides―
 
 She slowly stepped into thin air as though an invisible stairway lay
 there&.
@@ -107,9 +107,9 @@ Her rate of descend was horribly slow&.
 
 But she was definitely falling&.
 
-Dying--
+Dying―
 
-She would die--
+She would die―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -118,26 +118,26 @@ She would die--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-I couldn't save her&. 
-It would be impossible to save her&, falling from that height&. 
+I couldn't save her&.
+It would be impossible to save her&, falling from that height&.
 
-Moreover&, below her was concrete&. 
+Moreover&, below her was concrete&.
 
 Her bones would shatter&, her innards would be crushed&, her spinal
 fluid would come bursting out&, and blackish blood would spray every
-which way&. 
+which way&.
 
-If only a flowerbed or something were there&. 
+If only a flowerbed or something were there&.
 
 If only it were soft soil&.
 
-Then maybe she would survive&.&.&.&. 
+Then maybe she would survive&.&.&.
 
-I didn't want to see the moment of anyone's death! 
+I didn't want to see the moment of anyone's death!
 
-I was about to close my eyes-- 
+I was about to close my eyes―
 
-That instant&. I felt it&. 
+That instant&. I felt it&.
 
 A tingling at the nape of my neck&.
 
@@ -156,11 +156,11 @@ A tingling at the nape of my neck&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-I turned around&. No one was watching me&. 
+I turned around&. No one was watching me&.
 
-Everyone was either facing down or looking up&. 
+Everyone was either facing down or looking up&.
 
---Whose eyes are those eyes?
+―Whose eyes are those eyes?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -189,35 +189,35 @@ Everyone was either facing down or looking up&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-A sound resounded&. 
+A sound resounded&.
 
-Sound of falling&. 
+Sound of falling&.
 
-It was the first time I'd heard it&. 
+It was the first time I'd heard it&.
 
-That sound&.&.&.&. was unexpectedly soft&.
+That sound&.&.&. was unexpectedly soft&.
 
 //◆呆然
 //【三住】
-<voice name="三住" class="三住" src="ch06/11600070mi">
-"No way&.&.&.&." 
+<voice name="三住" class="三住" src="voice/ch06/11600070mi">
+"No way&.&.&."
 
-Beside me&, Misumi-kun widened his eyes&, stunned&. 
+Beside me&, Misumi-kun widened his eyes&, stunned&.
 
 Though his line of sight ought to have been pointing toward the place
 where Ayase landed&, his gaze was filled more with a powerful surprise
-than with horror or sorrow&. 
+than with horror or sorrow&.
 
-Not only Misumi-kun&. 
+Not only Misumi-kun&.
 
-All of the spectators&, wearing expressions of incomprehension&, 
+All of the spectators&, wearing expressions of incomprehension&,
 went speechless&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch06/11600080mi">
-"&.&.&.&.She's&.&.&.&. alive&.&.&.&." 
+<voice name="三住" class="三住" src="voice/ch06/11600080mi">
+"&.&.&.She's&.&.&. alive&.&.&."
 
-&.&.&.&.&.&.&.&.&.Eh!? 
+&.&.&.&.&.&.&.Eh!?
 
 Alive?
 
@@ -242,40 +242,40 @@ Alive?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-Ayase lay fallen&. 
+Ayase lay fallen&.
 
-I couldn't tell&.&.&.&. whether or not her bones had shattered&. 
-I couldn't tell&.&.&.&. whether or not her innards had turned to
-pulp&. 
+I couldn't tell&.&.&. whether or not her bones had shattered&.
+I couldn't tell&.&.&. whether or not her innards had turned to
+pulp&.
 
-Her spinal fluid&.&.&.&. hadn't come lashing out&. 
-Blackish blood&.&.&.&. hadn't flown everywhere&.
+Her spinal fluid&.&.&. hadn't come lashing out&.
+Blackish blood&.&.&. hadn't flown everywhere&.
 
 //◆かすかにうめき声
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch06/11600090ay">
-"Uu&.&.&.&." 
+<voice name="あやせ" class="あやせ" src="voice/ch06/11600090ay">
+"Uu&.&.&."
 
 A frail but certain groan spilled from Ayase's mouth&.
 
-She was alive&.&.&.&. 
+She was alive&.&.&.
 
 She appeared to have lost consciousness and didn't budge an inch&. But
 she had almost no visible injuries&. Only minor trace of blood on her
-forehead&. 
+forehead&.
 
-Even though she had fallen from the roof&. 
+Even though she had fallen from the roof&.
 
-She lay collapsed there&, all but unhurt&. 
+She lay collapsed there&, all but unhurt&.
 On a flowerbed&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11600100ta">
-"&.&.&.&.&.&.&.&.&.A&.&.&.&. flowerbed?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11600100ta">
+"&.&.&.&.&.&.&.A&.&.&. flowerbed?"
 
 Had there been
 
-A flowerbed there&.&.&.&.?
+A flowerbed there&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

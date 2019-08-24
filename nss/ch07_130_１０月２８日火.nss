@@ -39,7 +39,7 @@ function ch07_130_１０月２８日火()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-In the midst of a perfect whiteness--
+In the midst of a perfect whiteness―
 
 I lay down&.
 
@@ -71,14 +71,14 @@ Empty
 
 And peaceful&.
 
-Maybe this was what it felt like inside the mind of a Buddha who had 
-achieved enlightenment&. It was vastly different from being in my 
+Maybe this was what it felt like inside the mind of a Buddha who had
+achieved enlightenment&. It was vastly different from being in my
 head&.
 
 I wanted to stay here forever&.
 
 The aggravation&,　bitterness&, and hollowness of reality&. I didn't want
-to taste such things--
+to taste such things―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -91,12 +91,12 @@ to taste such things--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Just as I thought this to myself&, noise started flying into the white 
+Just as I thought this to myself&, noise started flying into the white
 and previously soundless world&.
 
 It was the sound of a door opening&.
 And someone's footsteps&.
-They were drawing closer--
+They were drawing closer―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -108,12 +108,12 @@ They were drawing closer--
 //◆以下の七海は９歳の七海です。幼い感じで
 //ＶＦ//回想セリフ
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000010na">
-"Bro&, I'm here--"
+<voice name="七海" class="七海" src="voice/ch07/13000010na">
+"Bro&, I'm here―"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000020na">
-"Heigh-ho&, heigh-ho&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch07/13000020na">
+"Heigh-ho&, heigh-ho&.&.&."
 
 //あやべ：パイプ椅子音調整
 //ＳＥ//パイプイスをベッドの横にセッティングする七海
@@ -124,55 +124,55 @@ They were drawing closer--
 {	CreateSE("SE03","SE_人体_動作_座る七海");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);}
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000030na">
-"Bro&, bro&. Today&, Nana brought you something nice--"
+<voice name="七海" class="七海" src="voice/ch07/13000030na">
+"Bro&, bro&. Today&, Nana brought you something nice―"
 
 //ＳＥ//ランドセルを開いて中を漁る音
 {	CreateSE("SE04","SE_人体_動作_手_ランドセル漁る");
 	MusicStart("SE04", 0, 800, 0, 1000, null, false);}
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000040na">
+<voice name="七海" class="七海" src="voice/ch07/13000040na">
 "Here you go&. A present!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000050na">
+<voice name="七海" class="七海" src="voice/ch07/13000050na">
 "It's a hand-knitted cap&. Isn't it wonderful? Isn't it wonderful?"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000060na">
+<voice name="七海" class="七海" src="voice/ch07/13000060na">
 "It's already winter&, and I like hats&, so I knitted it!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000070na">
+<voice name="七海" class="七海" src="voice/ch07/13000070na">
 "Wear it!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000080na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch07/13000080na">
+"&.&.&.&.&.&.&."
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000090na">
+<voice name="七海" class="七海" src="voice/ch07/13000090na">
 "Bro! Don't ignore me!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000100na">
+<voice name="七海" class="七海" src="voice/ch07/13000100na">
 "Ahh! You haven't finished your dinner! Even though it's curry&."
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000110na">
-"You've got to eat properly--"
+<voice name="七海" class="七海" src="voice/ch07/13000110na">
+"You've got to eat properly―"
 
 //◆小声
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000120na">
+<voice name="七海" class="七海" src="voice/ch07/13000120na">
 "Hey&, hey&, is it true that hospital food isn't very yummy?"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000130na">
-"But you still have to eat it--"
+<voice name="七海" class="七海" src="voice/ch07/13000130na">
+"But you still have to eat it―"
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000140na">
+<voice name="七海" class="七海" src="voice/ch07/13000140na">
 "Wait up&, Bro! If you sleep without eating&,
 your tummy's going to get hungry at night!"
 
@@ -180,7 +180,7 @@ Someone's hand slid around behind my back&.
 And they forced my body up&.
 
 There&, for the first time&,
-I noticed that my eyes were closed&. 
+I noticed that my eyes were closed&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -214,13 +214,14 @@ How long ago was this?
 At least&, it must have been around when we were in elementary school&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000150na">
+<voice name="七海" class="七海" src="voice/ch07/13000150na">
 "Ok&, go Ahhh&."
 
-The young Nanami dipped a plastic spoon into the curry and held it out toward me&.
+The young Nanami dipped a plastic spoon into the curry and held
+it out toward me&.
 
-I--
-Hit her spoon-holding hand&, 
+I―
+Hit her spoon-holding hand&,
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -238,41 +239,41 @@ Hit her spoon-holding hand&,
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-And went on to inexplicably
-Fling away the tray the curry rested on&, slamming it to the floor with my arm&.
+And went on to inexplicably fling away the tray the curry rested on&,
+slamming it to the floor with my arm&.
 
 //◆泣きそう
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000160na">
-"&.&.&.&.&.&.&.&.&.Ah"
+<voice name="七海" class="七海" src="voice/ch07/13000160na">
+"&.&.&.&.&.&.&.Ah"
 
 //◆ブレス
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000170na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="七海" class="七海" src="voice/ch07/13000170na">
+"&.&.&.&.&.&.&."
 
 //◆ため息
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000180na">
+<voice name="七海" class="七海" src="voice/ch07/13000180na">
 "Haa"
 
 //◆わざと明るく
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000190na">
+<voice name="七海" class="七海" src="voice/ch07/13000190na">
 "Bro&, that's so rude&. I'm gonna tell Mommy&."
 
-Nanami crouched to pick the hurled tray off the floor&, then brought a 
+Nanami crouched to pick the hurled tray off the floor&, then brought a
 dishrag from the sink in the corner of the room and began cleaning&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000200na">
+<voice name="七海" class="七海" src="voice/ch07/13000200na">
 "You really have to be coddled&, huh&."
 
 //【七海】
-<voice name="七海" class="七海" src="ch07/13000210na">
+<voice name="七海" class="七海" src="voice/ch07/13000210na">
 "Cause you couldn't do a thing if Nana weren't here&."
 
---Stop it already&.
+―Stop it already&.
 
 I covered my face with both my hands and slowly closed my eyes&.
 
@@ -296,7 +297,7 @@ I covered my face with both my hands and slowly closed my eyes&.
 //◆ささやき
 //◆申し訳なさそう
 //【梨深】
-<voice name="梨深" class="梨深" src="ch07/13000220ri">
+<voice name="梨深" class="梨深" src="voice/ch07/13000220ri">
 "I'm sorry I can't protect you&."
 
 </PRE>
@@ -341,15 +342,15 @@ pronounced&.
 Unlike my parents&, who simply became overprotective&, she took care
 of all kinds of things for me even while being verbally hard on me&.
 
-But that dream--
+But that dream―
 
 Had I ever been hospitalized?
-I'd commuted there for check-ups&, but&.&.&.&.
+I'd commuted there for check-ups&, but&.&.&.
 Well&, it was a dream&, so there wasn't much meaning in seriously
 pondering minor discrepancies&.
 
 {	CreateBG(100, 1000, 0, 0, "cg/bg/bg103_01_1_白い病室_a.jpg");}
-I lay back on the bed&. 
+I lay back on the bed&.
 
 It was a white pipe-frame bed&. White sheets&. White pillow&.
 A white linoleum floor&. White walls&. White fluorescent lights in the
@@ -395,58 +396,58 @@ throat&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-As I took a breather after my drink&, the door opened&, and a 
-white-garbed nurse came in&. I then understood that this was 
+As I took a breather after my drink&, the door opened&, and a
+white-garbed nurse came in&. I then understood that this was
 a hospital&, after all&.
 
 {	Stand("st志乃_白衣_通常","shock", 200, @+150);
 	FadeStand("st志乃_白衣_通常_shock", 300, false);
 	DeleteStand("st志乃_白衣_通常_cool", 300, true);}
-Her eyes went a bit round when she saw me&. Apparently she'd thought I 
-would be sleeping&. 
+Her eyes went a bit round when she saw me&. Apparently she'd thought I
+would be sleeping&.
 
 //◆ビックリ
 //【葉月】
-<voice name="葉月" class="葉月" src="ch07/13000230hd">
-"Oh my&.&.&.&."
+<voice name="葉月" class="葉月" src="voice/ch07/13000230hd">
+"Oh my&.&.&."
 
 {	Stand("st志乃_白衣_通常","smile", 200, @+150);
 	FadeStand("st志乃_白衣_通常_smile", 300, false);
 	DeleteStand("st志乃_白衣_通常_shock", 300, true);}
 //◆優しく
 //【葉月】
-<voice name="葉月" class="葉月" src="ch07/13000240hd">
+<voice name="葉月" class="葉月" src="voice/ch07/13000240hd">
 "You're awake&, Nishijou-san&."
 
 She soon gave me a gentle smile&.
 She was a model nurse&.
 
-Speaking of which&, I had a hunch that I'd seen her somewhere before&.&.&.&.
+Speaking of which&, I had a hunch that I'd seen her somewhere before&.&.&.
 
 //◆※わざと「おねいさん」です
 Ah&, right&. She was the lady who'd been in the hospital when
 Dr&. Takashina examined me&.
 
-What had been her name again&.&.&.&.
+What had been her name again&.&.&.
 
-I couldn't remember&, so I took a furtive look at the nametag on her 
+I couldn't remember&, so I took a furtive look at the nametag on her
 chest&. It said "Hazuki&."
 
 Yeah&, yeah&, Hazuki-san&.
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch07/13000250hd">
+<voice name="葉月" class="葉月" src="voice/ch07/13000250hd">
 "How are you feeling?"
 
 Hazuki-san held a thermometer out to me; the gesture came naturally to
 her&. I just sort of ended up taking it&.
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch07/13000260hd">
+<voice name="葉月" class="葉月" src="voice/ch07/13000260hd">
 "Please measure your temperature&, okay?"
 
-If you speak to me that kindly&, I'm not gonna be able to do anything 
-but meekly obey&.&.&.&. My head was full of question marks&, but for 
+If you speak to me that kindly&, I'm not gonna be able to do anything
+but meekly obey&.&.&. My head was full of question marks&, but for
 the time being&, I stuck the thermometer in my armpit&.
 
 Immediately after&, memories erupted inside my head&.
@@ -480,7 +481,7 @@ Those events&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
---At the time&.
+―At the time&.
 
 I'd given up on saving Nanami&.
 And I'd seized at the wheelchair-riding "Shogun&."
@@ -495,7 +496,7 @@ But I had such a hard time thinking of "Shogun" as being a Darth Spider
 cosplayer that it sent my wrath flying away&, leaving me totally at sea&.
 
 I got up and looked at the wheelchair&.
-&.&.&.&.No one was sitting in it&.
+&.&.&.No one was sitting in it&.
 
 A black hood was draped across the backrest&.
 
@@ -528,7 +529,7 @@ I was the only person who had been up on that pitch-black roof&.
 [text010]
 The press corps came dashing up there simultaneously&.
 
-They packed in around me without leaving a single gap&, pointing 
+They packed in around me without leaving a single gap&, pointing
 microphones and spotlights at me&.
 Well over ten lights and microphones&.
 
@@ -546,57 +547,57 @@ They mobbed me&.
 //◆芸能レポーターＢのみ女性。ＡとＢは中年のおっさん。
 //◆↓６章に出てきたキャスターとは別人
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch07/13000270ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch07/13000270ga">
 "Nishijou-kun! Nishijou-kun! What happened to your clairvoyance?"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch07/13000280gb">
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch07/13000280gb">
 "Does this mean we still don't know who the New-Gen criminal is?"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch07/13000290ga">
-"Does that Darth Spider helmet have something to do with one of your 
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch07/13000290ga">
+"Does that Darth Spider helmet have something to do with one of your
 supernatural talents?"
 
 //【芸能レポーターＣ】
-<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="ch07/13000300gc">
+<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="voice/ch07/13000300gc">
 "Nishijou-kun! Won't you answer? You'll have been stealing the airwaves
 if you let things end like this&, you know!?"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch07/13000310gb">
-"Ultimately&, what was it that you wanted to accomplish? To gain 
-notoriety&, by riding the New-Gen wave? Don't you think that's 
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch07/13000310gb">
+"Ultimately&, what was it that you wanted to accomplish? To gain
+notoriety&, by riding the New-Gen wave? Don't you think that's
 inappropriate!?"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch07/13000320ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch07/13000320ga">
 "Have you spoken with Yuri Brightman lately? What did you talk about?"
 
 //【芸能レポーターＣ】
-<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="ch07/13000330gc">
+<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="voice/ch07/13000330gc">
 "Do you think the earthquake and New-Gen are somehow related?"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch07/13000340gb">
-"Would it be safe to think of that bishoujo figure you're holding as 
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch07/13000340gb">
+"Would it be safe to think of that bishoujo figure you're holding as
 being some kind of ceremonial item?"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch07/13000350ga">
-"Did you act like this because you've been influenced by anime and 
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch07/13000350ga">
+"Did you act like this because you've been influenced by anime and
 games?"
 
 //【芸能レポーターＣ】
-<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="ch07/13000360gc">
+<voice name="芸能レポーターＣ" class="芸能レポーターＣ" src="voice/ch07/13000360gc">
 "Nishijou-san!"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch07/13000370gb">
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch07/13000370gb">
 "Nishijou-san!"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch07/13000380ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch07/13000380ga">
 "Nishijou-san!"
 
 The lights aimed at me were incredibly hot&.
@@ -617,11 +618,11 @@ I couldn't hear anything&. I didn't want to hear anything&.
 I didn't feel anything&. I didn't want to feel anything&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13000390ta">
-"Stop&.&.&.&. it&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/13000390ta">
+"Stop&.&.&. it&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13000400ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13000400ta">
 "Please stop it!!"
 
 //ＢＧ//白
@@ -630,7 +631,7 @@ I didn't feel anything&. I didn't want to feel anything&.
 	Fade("背景１", 0, 0, null, true);
 	Fade("背景１", 1000, 1000, null, true);
 	Delete("報道キャスター");}
-At the same time that I shouted&, my consciousness cu<pre>t</pre> off as though it had been short-circuited--
+At the same time that I shouted&, my consciousness cu<pre>t</pre> off as though it had been short-circuited―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -677,21 +678,22 @@ At the same time that I shouted&, my consciousness cu<pre>t</pre> off as though 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text012]
-Yes&.&.&.&.
-I'd lost consciousness--
+Yes&.&.&.
+I'd lost consciousness―
 
-And then&.&.&.&.
+And then&.&.&.
 Afterward&, how did I end up in this hospital?
 
 I couldn't remember&.
 
-At least&, I didn't think I'd come here on my own two feet&. Maybe I'd 
+At least&, I didn't think I'd come here on my own two feet&. Maybe I'd
 been carried over by an ambulance&.
 
-Hazuki-san was writing something down on the clipboard she carried&. It must have been holding paper or something&. Was she writing about my 
-condition&.&.&.&.?
+Hazuki-san was writing something down on the clipboard she carried&.
+It must have been holding paper or something&. Was she writing about
+my condition&.&.&.?
 
-I confirmed the time by peering at the plain-looking watch on her 
+I confirmed the time by peering at the plain-looking watch on her
 wrist&.
 
 After 6 AM&.
@@ -702,16 +704,16 @@ Even so&, why had I been taken to this hospital?
 
 Hazuki-san being here meant this was the hospital I usually went to&.
 
-There certainly wasn't anything strange about them bearing me to a 
+There certainly wasn't anything strange about them bearing me to a
 general hospital&.
 
 But something about it didn't quite fit together&.
 
 The question of "Why has Hazuki-san come to check on me?" nagged at me&.
 
-After all&, Hazuki-san was a psychiatric nurse&.&.&.&.
+After all&, Hazuki-san was a psychiatric nurse&.&.&.
 
-If she had come to look in on me&, didn't it mean this room was part of the psychiatric ward as well? 
+If she had come to look in on me&, didn't it mean this room was part of the psychiatric ward as well?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

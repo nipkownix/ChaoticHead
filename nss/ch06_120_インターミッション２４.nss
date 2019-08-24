@@ -80,8 +80,8 @@ The nurse Hazuki Shino realized that she had been working here since
 the previous day's night shift&, with hardly a break&. She was hungry
 as well&.
 
-The psychiatric ward had lost one of its doctors the other day--he had
-been ruthlessly killed in a New-Gen incident--and no substitute had
+The psychiatric ward had lost one of its doctors the other day\he had
+been ruthlessly killed in a New-Gen incident\and no substitute had
 arrived yet&, so they were constantly understaffed&.
 
 But all that remained for today's work were minor miscellaneous
@@ -89,10 +89,10 @@ tasks&, and if she passed them on to the nurse responsible for the
 next night shift&, she could finally take some time off&.
 
 Patting her cheeks with both hands&, as though telling herself to keep
-it up for just a little longer&, she was about to swiftly cu<pre>t</pre> through
-the empty lobby&.
+it up for just a little longer&, she was about to
+swiftly cu<pre>t</pre> through the empty lobby&.
 
-She sensed a gaze coming from behind her&. 
+She sensed a gaze coming from behind her&.
 A prickling sensation at the back of her neck&. Gooseflesh rose on her
 arms with a shiver&.
 
@@ -110,11 +110,11 @@ was there&.
 <PRE box00>
 [text002]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000010hd">
-"&.&.&.&.?"
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000010hd">
+"&.&.&.?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000020su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000020su">
 "Miss Nurse!"
 
 {	Stand("buu”T_”’ˆß_’Êí","shock", 200, @150);
@@ -123,8 +123,8 @@ was there&.
 	Move("buu”T_”’ˆß_’Êí_shock", 50, @0, @-5, Dxl1, true);
 	Move("buu”T_”’ˆß_’Êí_shock", 50, @0, @5, Dxl1, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000030hd">
-"Kyaa&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000030hd">
+"Kyaa&.&.&."
 
 {	DeleteStand("buu”T_”’ˆß_’Êí_shock", 300, false);}
 Hazuki jerked at the voice that came flying toward her from a
@@ -142,19 +142,19 @@ ill&.
 
 //ŸŒË˜f‚¢‹C–¡
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000040hd">
-"You are&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000040hd">
+"You are&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000050su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000050su">
 "Could I have a bit of your time?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000060hd">
-"Sure&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000060hd">
+"Sure&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000070su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000070su">
 "Thanks!"
 
 </PRE>
@@ -184,8 +184,8 @@ Suwa stopped at a stairway landing and looked around with the
 appearance of one being doubly careful&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000080hd">
-"And so&, um&, what you wanted to discuss&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000080hd">
+"And so&, um&, what you wanted to discuss&.&.&."
 
 Hazuki&, who still had work left to do&, looked a bit restless&.
 
@@ -195,7 +195,7 @@ pocket without any preamble&.
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @-100);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000090su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000090su">
 "Do you recall seeing this boy before?"
 
 Pictured there was Nishijou Takumi's listless-looking face&. Hazuki&,
@@ -203,12 +203,12 @@ who had confidence in her ability to remember faces as part of her
 work&, had already nodded unthinkingly&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000100su">
-"Nishijou Takumi&.&.&.&. it's definitely him?"
+<voice name="z–K" class="z–K" src="voice/ch06/12000100su">
+"Nishijou Takumi&.&.&. it's definitely him?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000110hd">
-"Ye&, yes&.&.&.&. but&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000110hd">
+"Ye&, yes&.&.&. but&.&.&."
 
 Hazuki's hesitation was only natural&.
 
@@ -228,51 +228,51 @@ attitude&. And&, lowering his voice&, he plunged on ahead&.
 [text004]
 //Ÿ¬º
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000120su">
-"I have a favor to ask you&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch06/12000120su">
+"I have a favor to ask you&.&.&."
 
 //Ÿ¬º
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000130su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000130su">
 "Could I take a secret peek at Nishijou Takumi's file?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000140hd">
-"Eh&, that's&.&.&.&. impossible&.&.&.&. I can't let you&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000140hd">
+"Eh&, that's&.&.&. impossible&.&.&. I can't let you&.&.&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","hard", 200, @-100);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 300, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000150su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000150su">
 "It's crucially connected to a certain case!"
 
 At her wit's end&, Hazuki tried to leave the spot immediately&, but
 Suwa circled around and blocked her path&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000160hd">
-"Th&, this is a real problem for me&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000160hd">
+"Th&, this is a real problem for me&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000170su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000170su">
 "I won't cause you any trouble! Please!"
 
 Suwa fell to his knees then and there and began prostrating himself&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000180hd">
-"P&, please stop&. It truly&.&.&.&. can't be done&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000180hd">
+"P&, please stop&. It truly&.&.&. can't be done&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12000190su">
+<voice name="z–K" class="z–K" src="voice/ch06/12000190su">
 "For the sake of keeping there from being future victims&.&.&.!"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch06/12000200hd">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch06/12000200hd">
+"&.&.&.&.&.&.&."
 
-What on earth could she do to make him give up--
+What on earth could she do to make him give up\
 
 Unable to think of a suitable way to refuse him&, Hazuki could only
 keep going in circles&.

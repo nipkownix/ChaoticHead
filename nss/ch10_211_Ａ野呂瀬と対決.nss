@@ -47,7 +47,7 @@ Almost all the other buildings had collapsed partially or fully&,
 yet it alone remained unscarred&.
 
 On its roof was the dome of a planetarium that had closed down several
-years previously&. 
+years previously&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -81,13 +81,13 @@ and caught my breath at the giant device that flew into my sight&.
 Noah II rose in state&.
 A chill in the air stole away my body heat&.
 
-And then there was the objet d'art that had been made to stand beside 
+And then there was the objet d'art that had been made to stand beside
 Noah II&.
 
 //Ÿ‹ê‚µ‚°
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100010ta">
-"Ri&.&.&.&. mi&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100010ta">
+"Ri&.&.&. mi&.&.&."
 
 {	CreateTextureEX("back05", 200, 0, 0, "cg/ev/ev097_01_1_—œ[‚Í‚è‚Â‚¯_a.jpg");
 	Request("back05", Smoothing);
@@ -118,50 +118,50 @@ Her eyes went wide&.
 [text003]
 //Ÿ‹Á‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100020ri">
-"Wh&.&.&.&. y&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100020ri">
+"Wh&.&.&. y&.&.&."
 
 //Ÿ‹Á‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100030ri">
-"Why&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100030ri">
+"Why&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100040ta">
-"I came&.&.&.&. to save you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100040ta">
+"I came&.&.&. to save you&.&.&."
 
 The light in her eyes flickered&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100050ri">
-"&.&.&.&.You idiot&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100050ri">
+"&.&.&.You idiot&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100060ri">
-"Idiot&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100060ri">
+"Idiot&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100070ri">
-"You're&.&.&.&. an idiot&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100070ri">
+"You're&.&.&. an idiot&.&.&."
 
 She shook her head sadly&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100080ri">
-"Becoming&.&.&.&. so covered in wounds&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100080ri">
+"Becoming&.&.&. so covered in wounds&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100090ri">
-"Overdoing it&.&.&.&. so much&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100090ri">
+"Overdoing it&.&.&. so much&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100100ri">
-"Even though I told you&.&.&.&. to wait&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100100ri">
+"Even though I told you&.&.&. to wait&.&.&."
 
 //Ÿ‹ƒ‚«‚»‚¤
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100110ri">
-"Why&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100110ri">
+"Why&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -189,7 +189,7 @@ I looked nothing like a prince on a white horse&.
 And she'd definitely find it to be nasty and creepy&.
 It would pretty much make me the equivalent of a stalker&.
 
-If I conveyed my feelings to her one-sidedly&,  
+If I conveyed my feelings to her one-sidedly&,
 It would only bother her&.
 
 From here on out&, she would go on living&.
@@ -201,7 +201,7 @@ feelings&, it would just leave you with a bad aftertaste&.
 Which was why I didn't speak of how I felt&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100120ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100120ta">
 "I wanted to give this back to you&."
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_ƒXƒJ[ƒg‚Ü‚­‚è");
@@ -209,7 +209,8 @@ Which was why I didn't speak of how I felt&.
 //éF‚Ìƒnƒ“ƒJƒ`‚TÍQÆ
 My weak right hand&.
 The hand still holding my Di-Sword&.
-Desperately using those fingers&, I pulled a handkerchief out from near my heart&.
+Desperately using those fingers&, I pulled a handkerchief out
+from near my heart&.
 
 A soft vermilion&.
 I couldn't tell if that were its original color or if my blood
@@ -233,16 +234,16 @@ One of the irreplaceable memories I'd received from her&.
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100130ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100130ta">
 "I'm going to rescue you from here&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100140ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100140ta">
 "And break Noah II&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100150ta">
-"And give back this handkerchief&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100150ta">
+"And give back this handkerchief&.&.&."
 
 It was all I could do&.
 If I saw those things through to completion&, I could vanish without
@@ -264,13 +265,13 @@ If I weren't careful&, I'd probably pass out&.
 
 //ŸŠğ‚µ‚­‚Ä‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100160ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100160ri">
+"Taku&.&.&."
 
 //ŸŠğ‚µ‚­‚Äi‚èo‚·‚æ‚¤‚É‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100170ri">
-"Taku&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100170ri">
+"Taku&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -296,30 +297,30 @@ If I weren't careful&, I'd probably pass out&.
 <PRE box00>
 [text006]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100180nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100180nr">
 "You truly are a hero&."
 
-A tall man--Norose Genichi--emerged from Noah II's shadow&.
+A tall man\Norose Genichi\emerged from Noah II's shadow&.
 Expressionless&, he faced me and clapped with feigned innocence&.
 
 {	SetVolume("SE02", 0, 0, NULL);}
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100190nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100190nr">
 "However&, you have one fatal flaw&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100200nr">
-"To wit: you're acting on your emotions&. That is how barbarians 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100200nr">
+"To wit: you're acting on your emotions&. That is how barbarians
 behave&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100210ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100210ta">
+"&.&.&.&.&.&.&."
 
 I didn't really understand what this man was saying&.
 
-I was frantically working to take in and deal with my pain&, and I 
-didn't have the spare room to comprehend other people's words--Rimi 
+I was frantically working to take in and deal with my pain&, and I
+didn't have the spare room to comprehend other people's words\Rimi
 excepted&.
 
 </PRE>
@@ -330,60 +331,60 @@ excepted&.
 <PRE box00>
 [text007]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100220ri">
-"Taku&, run away&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100220ri">
+"Taku&, run away&.&.&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100230nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100230nr">
 "Making small sacrifices for the sake of the greater good&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100240nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100240nr">
 "Do you consider that evil?"
 
 {	Stand("stŒºˆê_ƒX[ƒc_’Êí","hard", 400, @+200);
 	FadeStand("stŒºˆê_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stŒºˆê_ƒX[ƒc_’Êí_normal", 0, true);}
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100250nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100250nr">
 "I certainly don't&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100260nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100260nr">
 "At this rate&, humanity will eventually destroy itself&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100270nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100270nr">
 "By means of human avarice&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100280nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100280nr">
 "Such ugly hearts&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100290nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100290nr">
 "Such a deluge of self-interested greed&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100300nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100300nr">
 "Human society is already beginning to fail and decay&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100310nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100310nr">
 "Everyone thinks only of themselves&, and as a result&, they kill and
 steal from one another&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100320nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100320nr">
 "If you too have awakened as a Gigalomaniac&, you must have seen it&.
 The essence of the human heart&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100330nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100330nr">
 "I awoke at a very young age&, so I've witnessed it for decades&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100340nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100340nr">
 "In the name of preventing humanity's self-destruction&, a most noble
 goal&, the Committee of 300 has been moving forward with the worldwide
 Human Domestication Project&."
@@ -396,44 +397,44 @@ Human Domestication Project&."
 <PRE box00>
 [text008]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100350nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100350nr">
 "However&, that too is ultimately nothing more than a way for them to
 stroke their egos&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100360nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100360nr">
 "I aim for something different&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100370nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100370nr">
 "I came to a revelation&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100380nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100380nr">
 "In order to regenerate this rotting world&, rather than changing
-societal systems--"
+societal systems\"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100390nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100390nr">
 "One must change the 'hearts' of every single human being in the
 world&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100400nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100400nr">
 "Hence Project Noah&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100410nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100410nr">
 "With Noah II&, it's possible to cleanse all human beings in the world
 of their negative delusions&, leaving them purified and with more
 upright hearts&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100420nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100420nr">
 "War will vanish&, and we can grant the world eternal peace&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100430nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100430nr">
 "And as for you&, no one will hold you in contempt anymore&."
 
 His lengthy speech came to an end at last&.
@@ -449,8 +450,8 @@ I'd managed to get a little rest&. It had saved me&.
 [text009]
 //Ÿ‘§‚àâ‚¦â‚¦
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100440ta">
-"Maybe&.&.&.&. what you're saying&.&.&.&. is the right&.&.&.&. thing&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100440ta">
+"Maybe&.&.&. what you're saying&.&.&. is the right&.&.&. thing&."
 
 Not that I'd been listening closely&.
 If you were to take the future of humanity into consideration&, his way
@@ -466,28 +467,28 @@ Under normal circumstances&, I'd totally play the villain&.
 Justice would defeat the monster and come out victorious&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100450ta">
-"But--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100450ta">
+"But\"
 
 //Ÿ‘§‚àâ‚¦â‚¦
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100460ta">
-"I can't&.&.&.&. let myself lose to you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100460ta">
+"I can't&.&.&. let myself lose to you&.&.&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100470nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100470nr">
 "Why do you deny what I've said?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100480ta">
-"Purely for my own self-satisfaction&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100480ta">
+"Purely for my own self-satisfaction&.&.&.!"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100490nr">
-"What a shame--"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100490nr">
+"What a shame\"
 
 {	DeleteStand("stŒºˆê_ƒX[ƒc_’Êí_hard", 400, true);}
-His gaze fixed on me&, Norose seized Rimi's shirtfront and dragged her 
+His gaze fixed on me&, Norose seized Rimi's shirtfront and dragged her
 down from the "objet d'art&."
 
 </PRE>
@@ -509,8 +510,8 @@ down from the "objet d'art&."
 [text010]
 //Ÿ’É‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100500ri">
-"Auu&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100500ri">
+"Auu&.&.&."
 
 And in front of that sculpture&, he extended his right hand to the side&.
 
@@ -542,7 +543,7 @@ And in front of that sculpture&, he extended his right hand to the side&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text800]
-At the same instant--
+At the same instant\
 
 The work of art&, which should've been standing vertically&,
 appeared to have installed itself in Norose's hand&.
@@ -576,8 +577,8 @@ Its shape blended everything negative in the world into one whole&,
 embodying all of it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100510ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100510ta">
+"&.&.&.&.&.&.&."
 
 I gulped down a single breath&.
 Even so&, I had made up my mind&.
@@ -593,12 +594,12 @@ When it came to the range of our weapons&, his was overwhelmingly
 superior&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100520nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100520nr">
 "I'm not particularly skilled at such savage activities as slashing at
 people with a sword&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100530nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100530nr">
 "However&, I need to obtain your CODE sample&. For that&, I must render
 you powerless&."
 
@@ -608,7 +609,7 @@ The tall Norose swung his even taller Di-Sword&, one-handed&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mvTrack01.ngs");
 	Rotate("ƒ€[ƒr[", 0, @180, @180, @0, null, true);
 
 //‚r‚d//ƒfƒBƒ\[ƒh‚ğU‚é
@@ -657,7 +658,8 @@ Even then&, I forced myself to raise my arm&.
 [text012]
 I stopped his Di-Sword&.
 
-If I had a normal sword&, there was no doubt that it'd have split clean in two&.
+If I had a normal sword&, there was no doubt that it'd have
+split clean in two&.
 
 Not to mention that my Di-Sword was terribly thin&.
 It contrasted too sharply with Norose's&.
@@ -677,7 +679,7 @@ My posture crumbled&.
 {	CreateSE("SE07","SE_‹[‰¹_ƒfƒBƒ\[ƒh\‚¦‚é");
 	MusicStart("SE07", 0, 1000, 0, 1000, null, false);}
 It seemed as if he were about to send me hurtling back&.
-I withstood it--
+I withstood it\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -686,7 +688,7 @@ I withstood it--
 
 	DeleteStand("buŒºˆê_ƒX[ƒc_•Ší\‚¦_pride", 300, true);
 
-	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mvTrack01.ngs");
 	Rotate("ƒ€[ƒr[", 0, @0, @0, @0, null, true);
 
 //‚r‚d//Œ•Œ
@@ -724,7 +726,7 @@ I warned myself&.
 
 	DeleteStand("buŒºˆê_ƒX[ƒc_•Ší\‚¦_pride", 300, true);
 
-	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mvTrack01.ngs");
 	Rotate("ƒ€[ƒr[", 0, @0, @0, @180, null, true);
 
 //‚r‚d//Œ•Œ
@@ -762,8 +764,8 @@ But that was very much just for now&.
 	FadeStand("buŒºˆê_ƒX[ƒc_•Ší\‚¦_hard", 200, true);}
 //Ÿ‹C‡
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100540nr">
-"--ngh!"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100540nr">
+"\ngh!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -781,7 +783,7 @@ But that was very much just for now&.
 	WaitAction("blur", null);
 
 //‚r‚d//Œ•Œ
-	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mvTrack01.ngs");
 
 //‚r‚d//Œ•Œ
 	CreateSE("SE02","SE_‹[‰¹_ƒfƒBƒ\[ƒh1");
@@ -825,10 +827,10 @@ The tip of its blade opened like a pair of scissors&.
 Thrusting up toward my chest&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100550ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100550ta">
+"&.&.&."
 
-That transformation--
+That transformation\
 I realized it would be fatal to me&.
 
 {	CreateColor("back11", 200, 0, 0, 800, 600, "WHITE");
@@ -850,7 +852,7 @@ But it was too late&.
 
 //‚r‚d//“÷‚ğP‚é
 //‚r‚d//ŒŒ‚ª•¬‚«o‚·
-	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mv‚â‚ç‚ê01.ngs");
+	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mvDone01.ngs");
 
 //‚r‚d//ƒfƒBƒ\[ƒh‚ğU‚é
 	CreateSE("SE02","SE_‹[‰¹_ƒfƒBƒ\[ƒh1");
@@ -884,8 +886,8 @@ The two-pronged point of his sword pierced my chest&.
 	DeleteStand("stŒºˆê_ƒX[ƒc_•Ší\‚¦_hard", 0, true);}
 //Ÿƒjƒ„ƒŠ‚Æ‚µ‚ÄƒuƒŒƒX
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100560nr">
-"&.&.&.&.&.&.&.&.&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100560nr">
+"&.&.&.&.&.&.&."
 
 A brutal smile played about Norose's mouth&.
 His grip loosened&.
@@ -914,8 +916,8 @@ The colossal scissors closed&.
 [text017]
 //Ÿ‹ê’É‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100570ta">
-"Gah&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100570ta">
+"Gah&.&.&.!"
 
 My chest&.
 Together with my ribs&.
@@ -932,8 +934,8 @@ I retreated a step in desperation&.
 	DeleteStand("stŒºˆê_ƒX[ƒc_•Ší\‚¦_pride", 0, true);}
 //Ÿ‹C‡‚¢
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100580nr">
-"--"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100580nr">
+"\"
 
 Norose swept his arm further toward the side&.
 
@@ -957,18 +959,18 @@ If I hadn't backed up&, he'd have gotten to my heart&.
 Huge amounts of blood came spraying out&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100590ta">
-"Guh&.&.&.&. giiih--!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100590ta">
+"Guh&.&.&. giiih-!"
 
 I started to topple&.
 I caught myself&.
 
---I couldn't die&.
+\I couldn't die&.
 
-Like I'd let myself die after coming so far&.&.&.&.!
+Like I'd let myself die after coming so far&.&.&.!
 
 I ignored Norose&.
-I frantically advanced toward Noah II--and the fallen Rimi&.
+I frantically advanced toward Noah II\and the fallen Rimi&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -978,8 +980,8 @@ I frantically advanced toward Noah II--and the fallen Rimi&.
 <PRE box00>
 [text018]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100600ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100600ri">
+"Taku&.&.&."
 
 Lying there&, Rimi raised her head a little bit without moving anything
 else&, and looked up at me&.
@@ -987,7 +989,7 @@ else&, and looked up at me&.
 She was probably weakened&, wasn't she&.
 Her body must be insisting on limpness&.
 
-Weariness--or else my injuries--made my vision fuzzy&. I didn't know
+Weariness\or else my injuries\made my vision fuzzy&. I didn't know
 what kind of face Rimi was looking at me with&.
 
 I couldn't bring myself to meet her gaze&.
@@ -1016,7 +1018,8 @@ Strangely&, Norose didn't come chasing me from behind&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text019]
-Then&, all of a sudden&, an airy melody started playing through the dome interior&.
+Then&, all of a sudden&, an airy melody started playing through
+the dome interior&.
 
 "Let Me Pass"
 
@@ -1030,13 +1033,13 @@ For a second&, I quailed&.
 But I gradually lowered my center of gravity&, readying myself&.
 I faced Noah II's tube-ridden&, almost organic-looking surface&.
 
-And mowed it down with my Di-Sword--
+And mowed it down with my Di-Sword\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mvTrack01.ngs");
 
 //‚r‚d//ƒfƒBƒ\[ƒh‚ğU‚é
 	CreateSE("SE03","SE_‹[‰¹_ƒfƒBƒ\[ƒh_‹ó‚ğØ‚é1");
@@ -1067,7 +1070,7 @@ Norose&, rather than Noah II&, appeared in the center of my vague sight&,
 standing in front of me&.
 
 {	DeleteStand("stŒºˆê_ƒX[ƒc_•Ší\‚¦_pride", 300, true);
-	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, false, false, "dx/mvTrack01.ngs");
 //‚r‚d//ƒfƒBƒ\[ƒh‚ğU‚é
 	CreateSE("SE03","SE_‹[‰¹_ƒfƒBƒ\[ƒh_‹ó‚ğØ‚é1");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);
@@ -1087,19 +1090,19 @@ But the final result was that I hadn't&.
 I grew befuddled&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100610nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100610nr">
 "You might call it Noah II's self-defense mechanism&."
 
 Norose's quiet voice echoed through the dome&.
 Mingling with the melody of "Let Me Pass&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100620nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100620nr">
 "It interferes with the hearts of those who approach it&,
 bending their will&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100630nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100630nr">
 "No one can draw close to Noah II&. Other than myself&, that is&."
 
 As he finished speaking&,
@@ -1176,7 +1179,7 @@ As though it were giving me some kind of warning&.
 As though to urge me toward something&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100640nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100640nr">
 "Let me now deny your existence&."
 
 </PRE>
@@ -1213,7 +1216,7 @@ I became petrified&.
 	MusicStart("SE02", 0, 700, 0, 1000, null, false);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 300, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100650ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100650ri">
 "No!"
 
 Rimi threw herself between me and Norose&.
@@ -1223,16 +1226,16 @@ Something soft-feeling covered my face&.
 	FadeStand("bu—œ[_§•_³–Ê_sad", 300, true);
 	DeleteStand("bu—œ[_§•_³–Ê_hard", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100660ri">
-"Please don't kill Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100660ri">
+"Please don't kill Taku&.&.&."
 
 Rimi's chest&.
 Rimi was embracing me as though to wrap herself around me&.
 Shielding me from Norose&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100670nr">
-"&.&.&.&.&.&.&.&.&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100670nr">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("stŒºˆê_ƒX[ƒc_•Ší\‚¦_hard", 300, true);}
 Norose let out a small breath and lowered his sword&.
@@ -1256,8 +1259,8 @@ I slipped my right hand inside it&.
 [text024]
 //ŸŒË˜f‚¢
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100680ri">
-"&.&.&.&.Taku?"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100680ri">
+"&.&.&.Taku?"
 
 {	CreateSE("SE03","SE_l‘Ì_“®ì_ƒXƒJ[ƒg‚Ü‚­‚è");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);}
@@ -1276,12 +1279,12 @@ Rimi's bare skin&.
 
 //ŸŒË˜f‚¢
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100690ri">
-"What&.&.&.&. are you&.&.&.&.?"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100690ri">
+"What&.&.&. are you&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100700ta">
-"Haa&, haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100700ta">
+"Haa&, haa&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1308,8 +1311,8 @@ I ripped apart the clothing concealing her body&.
 Exposing her bra&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100710ri">
-"Taku&, sto&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100710ri">
+"Taku&, sto&.&.&."
 
 {	CreateSE("SE02","SE_l‘Ì_’Í‚Ş");
 	MusicStart("SE02", 0, 600, 0, 1000, null, false);}
@@ -1319,19 +1322,19 @@ Her ample breasts&.
 
 //Ÿu‚¢‚½‚Áv
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100720ri">
-"Ow&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100720ri">
+"Ow&.&.&."
 
 I pressed my bloody right hand
 To her bra&. To her naked skin&. As though rubbing the red blood up
 against her&.
 
 I felt her suppleness&, her elasticity&.
-So very soft&.&.&.&.
+So very soft&.&.&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100730ri">
-"No&.&.&.&.!"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100730ri">
+"No&.&.&.!"
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_‚Ì‚¼‚­");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);}
@@ -1349,13 +1352,13 @@ I went further&, using my freed right hand to grope inside her skirt&.
 
 //Ÿ”ß‚µ‚­‚Ä‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100740ri">
-"Stop it&.&.&.&. Stop it&.&.&.&. Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100740ri">
+"Stop it&.&.&. Stop it&.&.&. Taku&.&.&."
 
 //Ÿ”ß‚µ‚­‚Ä‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100750ri">
-"I don't&.&.&.&. want this&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100750ri">
+"I don't&.&.&. want this&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1371,24 +1374,24 @@ I was stunned&, realizing what I'd been trying to do&.
 
 //Ÿ”ß‚µ‚­‚Ä‹ƒ‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100760ri">
-"Uu&.&.&.&. sob&.&.&.&. uuu&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100760ri">
+"Uu&.&.&. sob&.&.&. uuu&.&.&."
 
 Even after I moved away from her&, Rimi hid her chest with her hands and
 wept heartbrokenly&.
 
 Despite her protecting me&.
-Why had I done such a thing&.&.&.&.
+Why had I done such a thing&.&.&.
 
-What the hell was I doing at a time like this&.&.&.&.
-Why was I making Rimi cry&.&.&.&.
+What the hell was I doing at a time like this&.&.&.
+Why was I making Rimi cry&.&.&.
 
 {	CreateTextureEX("ŒûŒ³‚P", 600, 0, 0, "cg/ev/ev013_01_1_‘ñ–¤Î‚¢ŒûUP_a.jpg");
 	Fade("ŒûŒ³‚P", 0, 300, null, true);}
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100770ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100770ta">
 "The truth is&, you want to fuck Sakihata Rimi&, don't you?"
 
 {	Fade("ŒûŒ³‚P", 300, 0, null, true);
@@ -1403,7 +1406,7 @@ Who had?
 
 My voice&.
 The voice in my heart&.
-My&.&.&.&. true self?
+My&.&.&. true self?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1418,20 +1421,20 @@ My&.&.&.&. true self?
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100780ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100780ta">
 "If you don't make her your property now&, Shogun's going to steal her
 from you&."
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100790ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100790ta">
 "That wrinkly little asshole is gonna be doing Rimi&, you know?"
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100800ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100800ta">
 "You don't want to be cuckolded&, do you?"
 
 {	CreateTextureEX("ŒûŒ³‚Q", 600, 0, 0, "cg/ev/ev013_03_1_‘ñ–¤Î‚¢ŒûUP_a.jpg");
@@ -1441,7 +1444,7 @@ from you&."
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100810ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100810ta">
 "Well&, it's also possible that he's already done her&."
 
 {	Fade("ŒûŒ³‚Q", 300, 0, null, true);
@@ -1460,7 +1463,7 @@ of hers pained me so much&, it felt like my heart would be crushed&.
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100820ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100820ta">
 "Don't say lovely-sounding things like how you're fine with having
 one-sided feelings&."
 
@@ -1471,25 +1474,25 @@ one-sided feelings&."
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100830ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100830ta">
 "Go on&, fuck her&."
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100840ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100840ta">
 "Norose's nice enough to give you some time for getting it done with&."
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100850ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100850ta">
 "I'm going to die soon anyway&. Who cares if she holds a grudge?"
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100860ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100860ta">
 "Let's do what we want before we die&. They'll say&, 'It couldn't be
 helped&,' and let it slide if I do something a tad horrible here&,
 given how it's poor little me&, with my pitiable background&."
@@ -1511,7 +1514,7 @@ So it'd be real bad if I didn't work on not listening to him&.
 I wouldn't be able to avoid getting swept away by the flow&.
 
 My weak heart was guiding me in the wrong direction&, in an easier
-direction&. But I couldn't let myself get swept away now&.&.&.&.
+direction&. But I couldn't let myself get swept away now&.&.&.
 
 {	CreateTextureEX("ŒûŒ³‚P", 600, 0, 0, "cg/ev/ev013_01_1_‘ñ–¤Î‚¢ŒûUP_a.jpg");
 	Request("ŒûŒ³‚P", Smoothing);
@@ -1520,14 +1523,14 @@ direction&. But I couldn't let myself get swept away now&.&.&.&.
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100870ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100870ta">
 "Besides&, Rimi sympathized with me&. At that point&, in fact&,
 we're practically obligated to do her&."
 
 //‚u‚e
 //ŸS‚Ìº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100880ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100880ta">
 "Fuck her&. Get rid of your virginity before you die&."
 
 {	Zoom("ŒûŒ³‚P", 300, 2000, 2000, null, false);
@@ -1535,8 +1538,8 @@ we're practically obligated to do her&."
 //ŸˆÈ‰º‚ÍŒ»À‚Ì‘ñ–¤‚Ìº
 {	SetVolume("@CH06", 2000, 0, NULL);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100890ta">
-"No&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100890ta">
+"No&.&.&.!"
 
 I yelled&.
 As though to break through my inner weakness&.
@@ -1552,17 +1555,17 @@ She gave me a cold&, brief glance&.
 	FadeStand("bu—œ[_§•_³–Ê_lost", 500, true);}
 //Ÿ—â‚½‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21100900ri">
-"You're such a bore&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21100900ri">
+"You're such a bore&.&.&."
 
 That single sentence filled the inside of my head with tar-black
 emotion&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100910ta">
-"Ah&, aaaaaahh--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100910ta">
+"Ah&, aaaaaahh\"
 
-When I launched myself at her--
+When I launched myself at her\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1593,8 +1596,8 @@ When I launched myself at her--
 <PRE box00>
 [text029]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100920ta">
-"Haguh&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100920ta">
+"Haguh&.&.&.!?"
 
 With mind-blowing momentum&, a colossal stake burst up through the
 concrete floor&.
@@ -1606,8 +1609,8 @@ Impaled me in the crotch&.
 	CreateProcess("ƒvƒƒZƒX‚P", 1000, 0, 0, "Fader1");
 	Request("ƒvƒƒZƒX‚P", Start);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100930ta">
-"Ah&.&.&.&. guh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100930ta">
+"Ah&.&.&. guh&.&.&.?"
 
 I couldn't swallow what was happening&.
 My legs hovered in the air&.
@@ -1626,8 +1629,8 @@ If I stirred&, pain shot through my crotch&.
 I became incapable of movement&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21100940ta">
-"Ah&, ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21100940ta">
+"Ah&, ah&.&.&."
 
 I wanted help&.
 I sent pleading eyes down at Rimi below me&.
@@ -1650,48 +1653,48 @@ They didn't attempt to help me&.
 <PRE box00>
 [text030]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100950nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100950nr">
 "Did you know?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100960nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100960nr">
 "In the past&, impalement was used worldwide as a form of punishment by
 torture&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100970nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100970nr">
 "The unique feature of this type of torture"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100980nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100980nr">
 "Is the fact that it can take up to three days for you to die&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21100990nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21100990nr">
 "Your own body weight gradually makes you sink deeper and deeper down
 the stake&. The key point is to avoid making the end of the stake overly
 sharp&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101000nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101000nr">
 "This helps prevent injuries to your internal organs&, thereby
 increasing the period of time before you die&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101010nr">
-"At the very end&, your exec<pre>u</pre>tion concludes once the end of the stake
-breaks through your mouth or shoulder&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101010nr">
+"At the very end&, your exec<pre>u</pre>tion concludes once the end of
+the stake breaks through your mouth or shoulder&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101020nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101020nr">
 "I'll keep watch over you for the next three days&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101030nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101030nr">
 "Until you die&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101040nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101040nr">
 "She appears to be thinking along the same lines&."
 
 Rimi gave a little nod&.
@@ -1704,12 +1707,13 @@ Rimi gave a little nod&.
 <PRE box00>
 [text031]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101050nr">
-"Then again&, the wounds on your chest and arm may mean that you'll die of blood loss first&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101050nr">
+"Then again&, the wounds on your chest and arm may mean that you'll
+die of blood loss first&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101060ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101060ta">
+"&.&.&.&.&.&.&."
 
 This was a delusion&, I told myself&.
 A delusionary attack&.
@@ -1737,10 +1741,10 @@ The pain wouldn't let me&.
 That was precisely what made it torture&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101070ta">
-"Ah&, higuh&.&.&.&. uu&, uuu&, guh&.&.&.&. hah&, ah&, haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101070ta">
+"Ah&, higuh&.&.&. uu&, uuu&, guh&.&.&. hah&, ah&, haa&.&.&."
 
-I'd go crazy if this continued--
+I'd go crazy if this continued\
 
 Even though&, a second ago&, I'd thought about enduring it&.
 Now&, in a shift&, I lapsed into despair&.
@@ -1748,7 +1752,7 @@ Now&, in a shift&, I lapsed into despair&.
 When I considered the vast quantity of time left before I died&, every
 emotion other than despair went rushing out of me&.
 
-Just kill me&.&.&.&.
+Just kill me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1801,8 +1805,8 @@ It would go further&, skewering itself up my neck&.
 And it'd break out through my mouth&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101080ta">
-"Ah&, giih&, gii&, ah&, ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101080ta">
+"Ah&, giih&, gii&, ah&, ah&.&.&."
 
 I was going out of my mind with pain and fear&.
 
@@ -1920,7 +1924,7 @@ Bubububu&, bupeh&. Bupepepeh&. Boh&.
 
 Bybyabyabyabya&.
 
-Buhehehehehehehehe--
+Buhehehehehehehehe\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1982,9 +1986,9 @@ Bite your tongue off&.
 
 Do it&, and things will become easier for you right off the bat&.
 
-Let me go already&.&.&.&.
+Let me go already&.&.&.
 
-&.&.&.&.This is a delusion&, isn't it?
+&.&.&.This is a delusion&, isn't it?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2013,10 +2017,10 @@ Let me go already&.&.&.&.
 <PRE box00>
 [text037]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101090ta">
-"Die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. it hurts&.&.&.&.
-die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&. die&.&.&.&.
-it hurts&.&.&.&. die&.&.&.&. die&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101090ta">
+"Die&.&.&. die&.&.&. die&.&.&. die&.&.&. die&.&.&. die&.&.&. it hurts&.&.&.
+die&.&.&. die&.&.&. die&.&.&. die&.&.&. die&.&.&. die&.&.&. die&.&.&.
+it hurts&.&.&. die&.&.&. die&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2056,7 +2060,7 @@ I violently vomited blood&.
 My mouth flapped open like a goldfish all the while&, as I sought
 oxygen&.
 
-I was relieved at the prospect of dying soon&. 
+I was relieved at the prospect of dying soon&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2079,7 +2083,7 @@ I was relieved at the prospect of dying soon&.
 <PRE box00>
 [text039]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101100nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101100nr">
 "It's about time&."
 
 Norose's voice&.
@@ -2100,27 +2104,27 @@ For some time now&, I'd been spending all the strength in my body&, and
 every one of my nerves&, on that labor&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101110nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101110nr">
 "Before you safely reach death&, I'll dispose of her&."
 
 I didn't quite get what he was saying&.
 I couldn't afford to think about it&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21101120ri">
-"You're going&.&.&.&. to kill me?"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21101120ri">
+"You're going&.&.&. to kill me?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101130nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101130nr">
 "Yes&. That's what it comes down to&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101140nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101140nr">
 "Go on&, say your last words&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21101150ri">
-"&.&.&.&.I'm sorry&, Taku&. I'm sorry I couldn't save you&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/21101150ri">
+"&.&.&.I'm sorry&, Taku&. I'm sorry I couldn't save you&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2135,8 +2139,8 @@ I couldn't afford to think about it&.
 <PRE box00>
 [text040]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21101160ri">
-"Uu--"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21101160ri">
+"Uu\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2190,11 +2194,11 @@ The speed at which I sank lower&, propelled by my weight&, increased&.
 The sensation of a foreign object in my throat&.
 It was utterly impossible to breathe&.
 
-Something was pushing up through me--
+Something was pushing up through me\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101170ta">
-"Ogogoh&, gaah&, gagagaaaaahhh--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101170ta">
+"Ogogoh&, gaah&, gagagaaaaahhh\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2235,8 +2239,8 @@ Something was pushing up through me--
 <PRE box00>
 [text042]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101180ta">
-"--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101180ta">
+"\"
 
 I came back to myself&.
 The feeling of something foreign inside me had vanished&.
@@ -2252,16 +2256,16 @@ I couldn't grasp my situation&.
 Before me was Norose&, and his raised Di-Sword&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101190nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101190nr">
 "Have you come back to us?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101200nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101200nr">
 "The three days you experienced occupied only a second in reality&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101210ta">
-"It was a delusion after all--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101210ta">
+"It was a delusion after all\"
 
 When I muttered to myself in relief&,
 
@@ -2273,7 +2277,7 @@ When I muttered to myself in relief&,
 //‚r‚d//“·‘Ì‚ğ—¼’f‚³‚ê‚é
 //‚r‚d//ŒŒ‚ª•¬‚«o‚·
 
-	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mv‹OÕ02.ngs");
+	CreateMovie("ƒ€[ƒr[", 1000, Center, Middle, false, false, "dx/mvTrack02.ngs");
 
 //‚r‚d//ƒfƒBƒ\[ƒh‚ğU‚é
 	CreateSE("SE03","SE_‹[‰¹_ƒfƒBƒ\[ƒh1");
@@ -2310,8 +2314,8 @@ I'd been cloven in two at the torso&.
 The cross-section where he'd c<pre>u</pre>t me was all too clean&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21101220ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21101220ta">
+"Ah&.&.&."
 
 I stared blankly at the lower half of my body&.
 
@@ -2319,17 +2323,17 @@ A reality I didn't want to acknowledge&.
 Was this a delusion&, too?
 
 It'd be nice if it were&.
-Please be a delusion&.&.&.&.
+Please be a delusion&.&.&.
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @0);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 300, true);}
 //Ÿ‹ƒ‚«‹©‚Ô
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21101230ri">
-"Taku&.&.&.&.! Taku! Taku--!"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21101230ri">
+"Taku&.&.&.! Taku! Taku-!"
 
-Rimi was calling me&.&.&.&.
-In a grief-striken voice&, calling me&.&.&.&.
+Rimi was calling me&.&.&.
+In a grief-striken voice&, calling me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2355,26 +2359,26 @@ In a grief-striken voice&, calling me&.&.&.&.
 <PRE box00>
 [text044]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101240nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101240nr">
 "In this condition&, you'll last for a few minutes before dying&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101250nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101250nr">
 "I say this as a former doctor&, so it's quite certain&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101260nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101260nr">
 "In the meantime&, shall I harvest your CODE sample?"
 
 {	CreateSE("SE15","SE_l‘Ì_“®ì_‘«_ˆø‚«‚¸‚é_ƒoƒCƒm[ƒ‰ƒ‹_Loop");
 	MusicStart("SE15", 0, 1000, 0, 1000, null, true);}
-I crawled&. 
+I crawled&.
 Using only my right hand&, I pulled myself forward&.
 In the direction of Rimi's voice&.
 
 I wanted to touch Rimi&.
 I had to save Rimi&.
-Rimi--
+Rimi\
 
 My right hand&.
 Forward&.
@@ -2386,10 +2390,10 @@ But&.
 I didn't know where Rimi was&.
 I didn't reach her&.
 
-I didn't reach anywhere--
+I didn't reach anywhere\
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101270nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101270nr">
 "So obstinate&."
 
 </PRE>
@@ -2424,7 +2428,7 @@ Norose's leather shoe had stepped on the back of my outstretched right
 hand&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21101280nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21101280nr">
 "Just what one would expect from an abomination&, I suppose&."
 
 </PRE>
@@ -2460,11 +2464,11 @@ hand&.
 <PRE box00>
 [text046]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000010ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000010ta">
 Norose's foot wavered like a mirage&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000020ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000020ta">
 The floor tiles began to look fuzzy&.
 
 {	CreateColor("Black01", 2000, 0, 0, 800, 600, "Black");
@@ -2478,15 +2482,15 @@ The floor tiles began to look fuzzy&.
 	Fade("Black01", 500, 0, null, true);
 	Delete("Black01");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000030ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000030ta">
 Up and down revolved&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000040ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000040ta">
 The floor and the ceiling reversed&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000050ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000050ta">
 I was crawling on the ceiling on all fours&.
 
 {	CreateSE("SE02","SE_l‘Ì_ŒŒ_•¬‚«o‚é");
@@ -2495,7 +2499,7 @@ I was crawling on the ceiling on all fours&.
 	CreateSE("SE03","SE_l‘Ì_“®ì_“fŒŒ");
 	MusicStart("SE03", 0, 600, 0, 1000, null, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000060ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000060ta">
 Blood spilled from my severed waist with incredible force&.
 
 {	CreateSE("SE04","SE_l‘Ì_èñ_‚½‚ê‚éŒŒ");
@@ -2503,15 +2507,15 @@ Blood spilled from my severed waist with incredible force&.
 	CreateSE("SE02","SE_l‘Ì_ŒŒ_•¬‚«o‚é");
 	MusicStart("SE02", 0, 800, 0, 1000, null, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000070ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000070ta">
 Like a faucet turned up all the way&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000080ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000080ta">
 My blood was leaving my body&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000090ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000090ta">
 My innards poured out&, too&, traveling through the opening of the wound
 in my arm&.
 
@@ -2519,11 +2523,11 @@ in my arm&.
 	Fade("Black02", 0, 0, null, false);
 	Fade("Black02", 1000, 500, null, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000100ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000100ta">
 My consciousness rushed into the distance&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000110ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000110ta">
 But it didn't completely c<pre>u</pre>t off&.
 
 </PRE>
@@ -2535,36 +2539,36 @@ But it didn't completely c<pre>u</pre>t off&.
 <PRE box00>
 [text047]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000120ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000120ta">
 A pool of blood was forming&.
 
 {	CreateColor("Red02", 1500, 0, 0, 800, 600, "RED");
 	DrawTransition("Red02", 2000, 0, 1000, 800, null, "cg/data/effect.png", false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000130ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000130ta">
 I lay in that scarlet sea&.
 
 {	SetVolume("SE04", 1000, 0, NULL);
 	CreateSE("SE05","SE_l‘Ì_S‘Ÿ_ŒÛ“®_Loop");
 	MusicStart("SE05", 0, 1000, 0, 1000, null, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000140ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000140ta">
 Ba-dum&. Ba-dum&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000150ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000150ta">
 My beating heart&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000160ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000160ta">
 Tumbled out before my eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000170ta">
 Creating ripples in the puddle of blood&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000180ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000180ta">
 As I vaguely watched those ripples&.
 
 {	SetVolume("SE05", 1000, 0, NULL);
@@ -2577,7 +2581,7 @@ As I vaguely watched those ripples&.
 	Fade("Black02", 0, 1000, null, true);
 	Delete("Red02");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000190ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000190ta">
 My shape crumbled&.
 
 {	CreateColor("Black03", 500, 0, 0, 800, 600, "Black");
@@ -2586,7 +2590,7 @@ My shape crumbled&.
 	CreateColor("BlackRed", 1000, 0, 0, 800, 600, "#990000");
 	DrawTransition("BlackRed", 3000, 0, 1000, 1000, null, "cg/data/‰~Œ`’†ŠO.png", true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000200ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000200ta">
 I couldn't maintain my shape as a human being&.
 
 {	CreateColor("BlackRed02", 1000, 0, 0, 800, 600, "Black");
@@ -2603,37 +2607,37 @@ I couldn't maintain my shape as a human being&.
 	Delete("BlackRed");
 	Delete("BlackRed02");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000210ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000210ta">
 The border between me and the world vanished&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000220ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000220ta">
 My flesh melted&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000230ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000230ta">
 My bones twisted like gum&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000240ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000240ta">
 My eyeballs become squarish&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000250ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000250ta">
 My lungs flipped inside-out and spilled through my mouth&.
 
 {	CreateColor("BlackRed", 1000, 0, 0, 800, 600, "#990000");
 	DrawTransition("BlackRed", 3000, 0, 1000, 1000, null, "cg/data/‰~Œ`’†ŠO.png", false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000260ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000260ta">
 My nerves stretched out for several hundred kilometers&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000270ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000270ta">
 The wrinkles in my brain smoothed out neatly&, one by one&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000280ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000280ta">
 My body went mushy&.
 
 </PRE>
@@ -2649,11 +2653,11 @@ My body went mushy&.
 <PRE box00>
 [text048]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000290ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000290ta">
 I was dissolving into the air&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000300ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000300ta">
 My right hand lengthened as if it were a piece of string&.
 
 {	WaitAction("BlackRed", null);
@@ -2671,7 +2675,7 @@ My right hand lengthened as if it were a piece of string&.
 	Fade("White00", 0, 1000, null, false);
 	Fade("BackG01", 0, 1000, null, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000310ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000310ta">
 It left the planetarium&.
 
 {	CreateTextureEX("BackG02", 600, 0, 0, "cg/bg/bg197_01_3_a’J‰w“ŒŒû‚Æƒvƒ‰ƒlƒ^ƒŠƒEƒ€_a.jpg");
@@ -2679,7 +2683,7 @@ It left the planetarium&.
 	Fade("BackG02", 0, 500, null, true);
 	Delete("BackG01");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000320ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000320ta">
 And like spun-sugar candy&.
 
 {	CreateTextureEX("BackG03", 600, 0, 0, "cg/bg/bg206_01_3_–é‹ó_a.jpg");
@@ -2687,7 +2691,7 @@ And like spun-sugar candy&.
 	Fade("BackG03", 0, 500, null, true);
 	Delete("BackG02");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000330ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000330ta">
 It wandered the sky over Shibuya&.
 
 {	CreateTextureEX("BackG04", 600, 0, 0, "cg/bg/bg165_01_3_O-FRONTŒ©ã‚°_a.jpg");
@@ -2695,23 +2699,23 @@ It wandered the sky over Shibuya&.
 	Fade("BackG04", 0, 500, null, true);
 	Delete("BackG03");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000340ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000340ta">
 Twirling around cornelius tower&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000350ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000350ta">
 Wrapping around it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000360ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000360ta">
 Over and over&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000370ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000370ta">
 Over and over&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000380ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000380ta">
 Over and over&.
 
 </PRE>
@@ -2728,7 +2732,7 @@ Over and over&.
 <PRE box00>
 [text049]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000390ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000390ta">
 Separated from me&, my legs swelled up&.
 
 {	WaitAction("BlackRed", null);
@@ -2736,42 +2740,42 @@ Separated from me&, my legs swelled up&.
 	Delete("White00");
 	Delete("Black03");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000400ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000400ta">
 Glub-glub&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000410ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000410ta">
 Like water balloons&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000420ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000420ta">
 Full to bursting&. My skin stretched&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000430ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000430ta">
 Making a creaky sound&.
 
 {	Fade("Black04", 500, 0, null, false);
 	CreateColor("Black04", 1000, 0, 0, 800, 600, "Black");
 	DrawTransition("Black04", 3000, 0, 1000, 1000, null, "cg/data/effect.png", false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000440ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000440ta">
 I was turning to liquid&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000450ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000450ta">
 Both my muscles and bones&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000460ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000460ta">
 They melted away and got stopped up in my calves&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000470ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000470ta">
 A tiny head sprouted up from my hips&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000480ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000480ta">
 It looked at me with boggly white eyes&.
 
 {	CreateSE("SE09","SE_ÕŒ‚_‘ÅŒ‚_‰£‚é");
@@ -2781,7 +2785,7 @@ It looked at me with boggly white eyes&.
 	CreateColor("BlackRed", 2000, 0, 0, 800, 600, "#990000");
 	DrawTransition("BlackRed", 1000, 0, 700, 1000, null, "cg/data/zoom1.png", false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000490ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000490ta">
 And then my head got crushed&.
 
 {	CreateColor("Black05", 2000, 0, 0, 800, 600, "Black");
@@ -2789,11 +2793,11 @@ And then my head got crushed&.
 	Fade("Black05", 500, 1000, null, true);
 	Delete(BlackRed);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000500ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000500ta">
 I wasn't really sure which head&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000510ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000510ta">
 It got crushed&, and it turned gloppy&.
 
 {	CreateTextureEX("BackG05", 1100, 0, 0, "cg/bg/bg200_01_6_ƒmƒAII‚Ì‚ ‚éƒh[ƒ€“à_a.jpg");
@@ -2801,22 +2805,22 @@ It got crushed&, and it turned gloppy&.
 	Fade("Black05", 500, 0, null, true);
 	Delete("Black05");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000520ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000520ta">
 I slipped between the molecules in the concrete floor&.
 
 {	CreateSE("SE11","SE_‹[‰¹_•—ˆ³—‰º_Loop");
 	MusicStart("SE11", 1000, 400, 0, 1000, null, true);
 	DrawTransition("BackG05", 500, 1000, 0, 800, null, "cg/data/zoom2.png", false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000530ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000530ta">
 Falling&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000540ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000540ta">
 To the earth&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000550ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000550ta">
 Whooooosh&.
 
 {	CreateSE("SE11","SE_ÕŒ‚_—‰ºŒƒ“Ë");
@@ -2827,11 +2831,11 @@ Whooooosh&.
 	DrawTransition("Red04", 500, 0, 700, 1000, null, "cg/data/zoom1.png", false);
 	Fade("Red04", 1000, 0, null, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000560ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000560ta">
 I hit the ground&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000570ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000570ta">
 My brain made a drippy puddle&.
 
 </PRE>
@@ -2855,13 +2859,13 @@ My brain made a drippy puddle&.
 <PRE box00>
 [text050]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000580ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000580ta">
 wiggle wiggle&. mumble mumble&. slurp slurp&. slop slop&. shiver shiver&.
 bounce bounce&. muddy muddy&. grind grind&. splatter splatter&.
 
 {	CreateColor("tile", 600, 0, 0, 400, 600, "RED");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000590ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000590ta">
 I divided in two&.
 
 </PRE>
@@ -2878,7 +2882,7 @@ I divided in two&.
 <PRE box00>
 [text901]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000600ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000600ta">
 Two became four&.
 
 </PRE>
@@ -2899,7 +2903,7 @@ Two became four&.
 <PRE box00>
 [text902]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000610ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000610ta">
 Four became eight&.
 
 </PRE>
@@ -2913,7 +2917,7 @@ Four became eight&.
 <PRE box00>
 [text903]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000620ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000620ta">
 Eight became four&.
 
 </PRE>
@@ -2942,7 +2946,7 @@ Eight became four&.
 <PRE box00>
 [text904]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000630ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000630ta">
 Two became eight&.
 
 </PRE>
@@ -2968,7 +2972,7 @@ Two became eight&.
 <PRE box00>
 [text905]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000640ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000640ta">
 Four became four&.
 
 </PRE>
@@ -2989,7 +2993,7 @@ Four became four&.
 <PRE box00>
 [text906]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000650ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000650ta">
 Steadily increasing&.
 
 </PRE>
@@ -3005,7 +3009,7 @@ Steadily increasing&.
 <PRE box00>
 [text907]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000660ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000660ta">
 Steadily decreasing&.
 
 </PRE>
@@ -3020,58 +3024,58 @@ Steadily decreasing&.
 <PRE box00>
 [text051]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000670ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000670ta">
 There are lots of me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000680ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000680ta">
 I'm not anywhere&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000690ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000690ta">
 What am I?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000700ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000700ta">
 I am what?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000710ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000710ta">
 What is I?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000720ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000720ta">
 I?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000730ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000730ta">
 What?
 
 {	CreateTextureEX("ƒTƒCƒP", 600, 0, 0, "cg/bg/bg210_01_6_ƒTƒCƒPƒfƒŠƒbƒN‚ÈƒCƒ[ƒW_a.jpg");
 	Fade("ƒTƒCƒP", 500, 1000, null, true);
 	Delete("‚¨‚Ç");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000740ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000740ta">
 Am what I?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000750ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000750ta">
 whatI&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000760ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000760ta">
 Iwhat&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000770ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000770ta">
 iwh&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000780ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000780ta">
 i??
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000790ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000790ta">
 ??wh??
 
 </PRE>
@@ -3084,16 +3088,16 @@ i??
 [text052]
 //‚u‚e//ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21101290jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21101290jn">
 "You aren't a delusion&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000800ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000800ta">
 Wh???ou???
 
 //‚u‚e//ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21101300jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21101300jn">
 "Take a look&."
 
 </PRE>
@@ -3123,33 +3127,33 @@ Wh???ou???
 <PRE box00>
 [text053]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000810ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000810ta">
 Nishijou Nanami prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000820ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000820ta">
 In the hospital where she has been accommodated together with her
 older brother&. She curls up in a corner of a waiting room overflowing
-with the injured&. 
+with the injured&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000830ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000830ta">
 Holding her true brother's wrinkled hand&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000840ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000840ta">
 Withstanding the pain in her right hand&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000850ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000850ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000860ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000860ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000870ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000870ta">
 For the safety of her other brother&.
 
 </PRE>
@@ -3170,34 +3174,34 @@ For the safety of her other brother&.
 <PRE box00>
 [text054]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000880ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000880ta">
 Kusunoki Yua prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000890ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000890ta">
 By the wreckage of a fallen building&. Inside a container house lying
 toppled over&, all but buried in the rubble&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000900ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000900ta">
 Holding one of "his" bishoujo figures&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000910ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000910ta">
 Withstanding the pain she had felt in her chest when she saw how
 hideously the figures had metamorphosed&, thanks to the earthquake and
 the ensuring fire&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000920ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000920ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000930ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000930ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000940ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000940ta">
 For the safety of the boy who forgave her&.
 
 </PRE>
@@ -3218,35 +3222,35 @@ For the safety of the boy who forgave her&.
 <PRE box00>
 [text055]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000950ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000950ta">
 Kishimoto Ayase prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000960ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000960ta">
 At Suimei Academy&, now a place of shelter&. From the roof of the school
 building&, she gazes up at the sky&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000970ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000970ta">
 Holding a paperback book with legends written in it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000980ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000980ta">
 Withstanding the pain of the malice displayed by the myriad&,
-indeterminate number of delusions covering the now-fallen Shibuya&. 
+indeterminate number of delusions covering the now-fallen Shibuya&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00000990ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00000990ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001000ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001000ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001010ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001010ta">
 For the safety of the boy who listened to her song&,
-to what she had to say&. 
+to what she had to say&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -3266,31 +3270,31 @@ to what she had to say&.
 <PRE box00>
 [text056]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001020ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001020ta">
 Orihara Kozue prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001030ts">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001030ts">
 At the dim platform of Shinsen Station&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001040ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001040ta">
 Holding Aoi Sena's trembling hand&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001050ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001050ta">
 Withstanding the pain of her wounded foot&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001060ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001060ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001070ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001070ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001080ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001080ta">
 For the safety of her classmate&, the boy with whom she had spoken
 heart-to-heart&.
 
@@ -3312,32 +3316,32 @@ heart-to-heart&.
 <PRE box00>
 [text057]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001090ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001090ta">
 Aoi Sena prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001100ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001100ta">
 Sitting next to her father&, who lies there&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001110ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001110ta">
 Holding her father's cold hand&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001120ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001120ta">
 Withstanding the pain of her regret over her inability to be honest&,
 even at the very end&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001130ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001130ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001140ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001140ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001150ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001150ta">
 For the safety of the boy who tried to grant her "wish" clumsily&, but
 who had tried to grant it all the same&.
 
@@ -3359,34 +3363,34 @@ who had tried to grant it all the same&.
 <PRE box00>
 [text058]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001160ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001160ta">
 Sakihata Rimi prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001170ta">
 Lying on the chilly floor&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001180ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001180ta">
 Tightly clenching her own hand&, which she had extended toward "him&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001190ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001190ta">
 Withstanding the strangling pain in her chest she had felt when she saw
 "him" covered in wounds&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001200ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001200ta">
 She closes her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001210ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001210ta">
 And prays&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001220ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001220ta">
 For the safety of the boy who she had meant to protect&, who had come
-to save her&. 
+to save her&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

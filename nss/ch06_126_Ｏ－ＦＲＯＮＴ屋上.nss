@@ -55,82 +55,82 @@ function ch06_126_‚n|‚e‚q‚n‚m‚s‰®ã()
 <PRE box00>
 [text001]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600010se">
-"Takkii--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600010se">
+"Takkii\"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600020se">
-"Hey&, Takkii--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600020se">
+"Hey&, Takkii\"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600030se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600030se">
 "You can hear me&, right-o?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600040ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600040ta">
 "Yeah&.&.&. I can hear you&, Seira-tan&."
 
 {	Stand("st¯—ˆ_ŠoÁŒã_’Êí","sad", 200, @0);
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_sad", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600050se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600050se">
 "Look&, let's put an end to this game&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600060ta">
-"Game&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600060ta">
+"Game&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600070se">
-"I know that Nanamicchi is your precious little sister&.&.&.&. but I'm
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600070se">
+"I know that Nanamicchi is your precious little sister&.&.&. but I'm
 sure it's already too late&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600080ta">
-"It&, it can't be&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600080ta">
+"It&, it can't be&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600090ta">
-"It&.&.&.&. can't be&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600090ta">
+"It&.&.&. can't be&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600100se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600100se">
 "C'mon&, if you got your arm cu<pre>t</pre> off&,
 Normally you'd die from losing too much blood&.
-Things might be different if we were in a game&, but&.&.&.&."
+Things might be different if we were in a game&, but&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600110ta">
-"Why&.&.&.&. why Nanami&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600110ta">
+"Why&.&.&. why Nanami&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600120se">
-"You know&.&.&.&. it's got to be Game Over by now&, I'm positive of
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600120se">
+"You know&.&.&. it's got to be Game Over by now&, I'm positive of
 it&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600130se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600130se">
 "If you don't give up the game fast&, a lot more people are gonna
 die&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600140ta">
-"But&.&.&.&. but Seira-tan&, even you battle bad guys&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600140ta">
+"But&.&.&. but Seira-tan&, even you battle bad guys&.&.&."
 
 {	Stand("st¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_sad", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600150se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600150se">
 "That's cause"
 
 {	Stand("st¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @0);
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600160se">
-"--I'm from an anime ô"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600160se">
+"\I'm from an anime ô"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -166,8 +166,8 @@ die&."
 I had jammed my Seira-tan figure into my uniform's inner pocket&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600170ta">
-"I have to save her&.&.&.&. I&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600170ta">
+"I have to save her&.&.&. I&.&.&.&."
 
 I'd taken Seira-tan with me as a protective charm&.
 
@@ -179,7 +179,7 @@ one taboo&.
 But I could no longer afford to maintain that policy of mine&. For
 now&, I wanted moral support&.
 
-I might not even be alive tomorrow&, but&.&.&.&.
+I might not even be alive tomorrow&, but&.&.&.
 
 I took one last peek down at Seira-tan&, whose face stuck out from
 inside my pocket&. By doing so&, I somehow succeeded in fighting back
@@ -257,8 +257,8 @@ Not that it mattered much to me&.
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600180ta">
-"I've got to save her&.&.&.&. I&.&.&.&. have to save her&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600180ta">
+"I've got to save her&.&.&. I&.&.&. have to save her&.&.&."
 
 //w‚s‚`‚s‚r‚t‚x‚`xwƒXƒ^ƒoƒ@x‚s‚r‚t‚s‚`‚x‚`‚ÆƒXƒ^ƒo
 "O-Front&," the building designated by "Shogun&," was located right by
@@ -319,7 +319,7 @@ My heartbeat grew more ferocious&.
 When I took out my cell phone to see the time&, it was a minute past
 the promised time of 9:00&.
 
-If "Shogun" got pissed off by this and killed Nanami&.&.&.&. the
+If "Shogun" got pissed off by this and killed Nanami&.&.&. the
 thought of it made me go cold&, and I sprinted my way up the
 escalator&, pushing aside the customers ahead of me&.
 
@@ -383,15 +383,15 @@ out&.
 
 //‚u‚e//–Ï‘zƒZƒŠƒtiˆÈ‰ºA¯—ˆ‚ÌƒZƒŠƒt‚Í‚·‚×‚Äj
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600190se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600190se">
 "Thanks&, dummy ô"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600200ta">
-"Y&, you're very welcome&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600200ta">
+"Y&, you're very welcome&.&.&."
 
 I was a little relieved to hear Seira-tan's voice in my head&. If
-Seira-tan were with me&.&.&.&.&. I&, I wouldn't be scared&.&.&.&.
+Seira-tan were with me&.&.&.&. I&, I wouldn't be scared&.&.&.
 
 I desperately attempted to convince myself of it&.
 
@@ -421,7 +421,7 @@ had a feeling that I definitely wouldn't spy them out&.
 [text009]
 //Ÿ—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600210su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600210su">
 "You're late&."
 
 {	CreateSE("SE01","SE_l‘Ì_S‘Ÿ_ŒÛ“®");
@@ -443,8 +443,8 @@ darkness&. There I found the shining&, albeit backlit&, wheels of his
 wheelchair&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600220ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600220ta">
+"Ah&.&.&."
 
 {	SoundPlay("ƒtƒ‰ƒbƒVƒ…", 0, 1000, false);
 	SoundPlay("ƒtƒ‰ƒbƒVƒ…—pÔˆÖq", 0, 1000, false);
@@ -464,18 +464,18 @@ wheelchair&.
 	Delete("‰ñ‘zƒtƒ‰ƒbƒVƒ…");
 	Wait(500);}
 //‚r‚d//ÔˆÖq‚Ìça‚Ş‰¹uƒLƒBccv
-Sho&.&.&.&. gun&.&.&.&.!
+Sho&.&.&. gun&.&.&.!
 
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600230su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600230su">
 "Welcome&, Takumi-kun&."
 
 He voiced my name in a friendly way&.
 The uncanniness of it made me have goosebumps&.
 
-I didn't want to talk to "Shogun&." He frightened me&.&.&.&.
-I wanted to run away from here immediately&.&.&.&.
+I didn't want to talk to "Shogun&." He frightened me&.&.&.
+I wanted to run away from here immediately&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -486,16 +486,16 @@ I wanted to run away from here immediately&.&.&.&.
 <PRE box00>
 [text010]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600240se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600240se">
 "Shall we run&, then?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600250se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600250se">
 "At this rate&, you're gonna get killed&, Takkii&."
 
 //	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_sad", 200, true);
 //	Fade("F‚P", 400, 0, null, false);
-But&, Nanami&.&.&.&.
+But&, Nanami&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -506,22 +506,22 @@ But&, Nanami&.&.&.&.
 [text011]
 //Ÿ—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600260su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600260su">
 "You're incredibly brave&. You came here alone&, just as you should&."
 
 //Ÿƒjƒ„ƒŠ‚Æ‚µ‚ÄB—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600270su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600270su">
 "Let me thank you for that&."
 
 Hey&, this "Shogun" was strange&.
 
-He differed&, somehow&, from when we'd met before&.&.&.&.
-Right&, his voice&. His voice was weird&.&.&.&.
+He differed&, somehow&, from when we'd met before&.&.&.
+Right&, his voice&. His voice was weird&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600280ta">
-"That voice&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600280ta">
+"That voice&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -535,22 +535,22 @@ Right&, his voice&. His voice was weird&.&.&.&.
 [text012]
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //y”»z
-<voice name="”»" class="”»" src="ch06/12600290bn">
+<voice name="”»" class="”»" src="voice/ch06/12600290bn">
 "A voice"
 
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //yOZz
-<voice name="OZ" class="OZ" src="ch06/12600300mi">
+<voice name="OZ" class="OZ" src="voice/ch06/12600300mi">
 "Is no more than vibrations in the air&."
 
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //y‚‰Èz
-<voice name="‚‰È" class="‚‰È" src="ch06/12600310tk">
+<voice name="‚‰È" class="‚‰È" src="voice/ch06/12600310tk">
 "How it sounds to you depends on the conditions in place&."
 
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600320su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600320su">
 "Isn't it so?"
 
 </PRE>
@@ -562,22 +562,22 @@ Right&, his voice&. His voice was weird&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text013]
-What was going on&.&.&.&. his voice kept transforming&.&.&.&.
+What was going on&.&.&. his voice kept transforming&.&.&.
 
 Was he using a machine or something?
 Did he want to conceal his identity by hiding his voice?
 But why now?
 
-Besides&, I didn't understand what he was saying&.&.&.&.
+Besides&, I didn't understand what he was saying&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600330se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600330se">
 "He's trying to confuse you!"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600340se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600340se">
 "You mustn't let down your guard&. You mustn't believe anyone's
-words--!"
+words-!"
 
 Y&, yeah&, Seira-tan's right about this&.
 
@@ -598,29 +598,30 @@ I clenched Seira-tan's body through my clothes&.
 <PRE box00>
 [text014]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600350ta">
-"Wh&, wh&, w&, w&, where is&.&.&.&.&. Na&, Nanami&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600350ta">
+"Wh&, wh&, w&, w&, where is&.&.&.&. Na&, Nanami&.&.&."
 
 It seemed like fear would make my heart leapt from my mouth&.
 Even so&, I frantically forced my voice out&.
 
-&.&.&.&.I'd thought sce<pre>n</pre>es like this occurred only on TV or in games&.
+&.&.&.I'd thought sce<pre>n</pre>es like this occurred only
+on TV or in games&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600360ta">
-"Is Nanami&.&.&.&. already dead&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600360ta">
+"Is Nanami&.&.&. already dead&.&.&.?"
 
 //Ÿw«ŒRx‚É‚È‚è‚·‚Ü‚µ‚Ä‚¢‚éB—c‚¢Š´‚¶‚Å
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600370su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600370su">
 "Nope&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600380se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600380se">
 "BS! He cu<pre>t</pre> her hand off&, remember?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600390se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600390se">
 "Even if she's alive&, she'll die from blood loss soon&, so there's no
 big difference&."
 
@@ -655,29 +656,29 @@ Sad enough that tears could come out&.
 <PRE box00>
 [text015]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600400ta">
-"Nanami is&, Nanami is my little sister&.&.&.&. my&.&.&.&.
-beloved&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600400ta">
+"Nanami is&, Nanami is my little sister&.&.&. my&.&.&.
+beloved&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600410ta">
-"Why&.&.&.&.&. did you kill her&.&.&.&. so cruel&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600410ta">
+"Why&.&.&.&. did you kill her&.&.&. so cruel&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600420su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600420su">
 "Do you think she's dead?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600430su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600430su">
 "The hand I sent to your house might belong to someone else&, you
 know?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600440ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600440ta">
+"Eh&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600450su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600450su">
 "I mean&, even if the cell phone and the bracelet are hers&, the hand
 itself could be someone else's&."
 
@@ -692,9 +693,9 @@ itself could be someone else's&."
 	CreateTexture("ƒtƒ‰ƒbƒVƒ…ƒoƒbƒN", 200, 0, 0, "cg/ev/ev030_01_2_µŠCƒoƒ“ƒOƒ‹_a.jpg");
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 500, 0, null, true);
 	Wait(1000);}
-Nanami&.&.&.&. is alive?
+Nanami&.&.&. is alive?
 
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600460se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600460se">
 "I'm telling you&, you mustn't believe him!"
 
 {	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 100, 1000, null, true);
@@ -705,19 +706,19 @@ Nanami&.&.&.&. is alive?
 	Delete("‰ñ‘zƒtƒ‰ƒbƒVƒ…");
 	Wait(500);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600470su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600470su">
 "If you do a nice job of clearing this quest&, I'll give Nanami-chan
 back to you&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600480su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600480su">
 "The living Nanami-chan&."
 
 Quest&. "Shogun" used that word again&.
 
-Did he want me to get into it like I was playing a game? 
+Did he want me to get into it like I was playing a game?
 
-But&.&.&.&. but&, in reality&, I'm no hero&.&.&.&.
+But&.&.&. but&, in reality&, I'm no hero&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -727,47 +728,47 @@ But&.&.&.&. but&, in reality&, I'm no hero&.&.&.&.
 <PRE box00>
 [text016]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600490su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600490su">
 "If you can't clear it&, though&, Nanami-chan won't come home&."
 
 His voice abruptly went as cold as a blade&.
 
-It was pathetic of me to cower in fear of an old man&, but&.&.&.&.
+It was pathetic of me to cower in fear of an old man&, but&.&.&.
 
-He was abnormal&.&.&.&. after all&.&.&.&.
-He was the true New-Gen criminal&.&.&.&.&.
+He was abnormal&.&.&. after all&.&.&.
+He was the true New-Gen criminal&.&.&.&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600500su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600500su">
 "So I'd like you to see things through in a way that doesn't
 disappoint me&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600510su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600510su">
 "I'm sure you can do it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600520ta">
-"Wh&, why&.&.&.&. why&.&.&.&. me&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600520ta">
+"Wh&, why&.&.&. why&.&.&. me&.&.&.!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600530ta">
-"It doesn't have to be&.&.&.&. so&, someone like me&.&.&.&. it
-shouldn't have to be me&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600530ta">
+"It doesn't have to be&.&.&. so&, someone like me&.&.&. it
+shouldn't have to be me&.&.&.!"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600540su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600540su">
 "It has to be you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600550ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600550ta">
 "Wh&, wh&, why!?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600560su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600560su">
 "Because you've been chosen&."
 
-I'm&.&.&.&. chosen&.&.&.&.
+I'm&.&.&. chosen&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -778,11 +779,11 @@ I'm&.&.&.&. chosen&.&.&.&.
 <PRE box00>
 [text017]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600570se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600570se">
 "Don't get the wrong idea&, Takkii&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600580se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600580se">
 "When he says 'chosen&,' he means you've been chosen as his next
 victim&."
 
@@ -791,15 +792,15 @@ incidents&,
 I shivered&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600590su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600590su">
 "You remember what happened this afternoon&, of course?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600600ta">
-"After&.&.&.&. noon&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600600ta">
+"After&.&.&. noon&.&.&.?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600610su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600610su">
 "You saved Kishimoto Ayase at school&."
 
 {	CreateSE("SE‰ñ‘zin","SE_ÕŒ‚_ÕŒ‚‰¹02");
@@ -818,7 +819,7 @@ in his email&.
 He must've been watching the hubbub from somewhere&.
 
 Or else&, he was the culprit&, and he'd used mind control to make her
-commit suicide&.&.&.&.
+commit suicide&.&.&.
 
 {	CreateColor("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 2100, 0, 0, 800, 600, "WHITE");
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 0, 0, null, true);
@@ -834,11 +835,11 @@ commit suicide&.&.&.&.
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 500, 0, null, true);
 	Wait(1000);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600620su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600620su">
 "Thanks to that flowerbed&, Kishimoto Ayase made it out with her
 life&. No?"
 
-"Shogun" knew about the power I was supposed to possess&.&.&.&.
+"Shogun" knew about the power I was supposed to possess&.&.&.
 
 At the time&, no one on the spot had wondered about the flowerbed&.
 
@@ -856,12 +857,12 @@ And Sena had said this to me:
 	FadeStand("buƒZƒi_§•_’Êí_hard", 300, true);}
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch06/12600630sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch06/12600630sn">
 "You imagined it&, didn't you?"
 
 {	DeleteStand("buƒZƒi_§•_’Êí_hard", 200, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600640se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600640se">
 "Takkii! Reject everything 'Shogun' says with all your strength!"
 
 {	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 100, 1000, null, true);
@@ -872,26 +873,26 @@ And Sena had said this to me:
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 1500, 0, null, true);
 	Delete("‰ñ‘zƒtƒ‰ƒbƒVƒ…");
 	Wait(500);}
-I&, I see&.&.&.&.!
+I&, I see&.&.&.!
 Maybe "Shogun" dogged at me&,
 Maybe "Shogun" was trying to kill me&,
 
 Because I possessed that power or whatnot&.
 
 If I claimed I didn't have any power&, he might let me slip
-away&.&.&.&.
+away&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600650ta">
-"I&, I don't&.&.&.&. have any&.&.&.&. power like that&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600650ta">
+"I&, I don't&.&.&. have any&.&.&. power like that&.&.&."
 
 //Ÿ«ŒR‚Í‘ñ–¤‚Ì—Í‚Ì‚±‚Æ‚ğ’m‚Á‚Ä‚¢‚éB‚ ‚¦‚Ä‘ñ–¤‚ÌŒ¾—tK‚ğ‘¨‚¦‚Ä’Ç‚¢‹l‚ß‚æ‚¤‚Æ‚µ‚Ä‚¢‚éB
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600660su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600660su">
 "Power? What do you mean&, power? I don't remember saying a single
 word about it&."
 
-Ah&, crap&.&.&.&.
+Ah&, crap&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -902,12 +903,12 @@ Ah&, crap&.&.&.&.
 <PRE box00>
 [text018]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600670se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600670se">
 "You don't have any sort of power&, Takkii&. You're an otaku creep&.
 You don't have in you the stuff that heroes are made of&. You're a
 harmless wannabe hikikomori who does nothing but fap to me&. Right-o?"
 
-Thats right&.&.&.&.
+Thats right&.&.&.
 
 It was self-centered and juvenile to think I had a unique ability&.
 
@@ -922,39 +923,39 @@ mental patient&.
 Even Rimi had said&, "Isn't that itself a delusion?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600680su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600680su">
 "Won't you explain it to me in more detail?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600690su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600690su">
 "About that flowerbed&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600700ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600700ta">
 "D&, d'you have proof th&, that I did it!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600710ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600710ta">
 "Ma&, making a flowerbed materialize out of nowhere&, there's no&, no
-way I could--"
+way I could\"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600720su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600720su">
 "So the flowerbed materialized out of nowhere&. Hm~mm&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600730su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600730su">
 "Everyone else said the flowerbed had been there from the start&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600740su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600740su">
 "But you alone say the flowerbed hadn't been there at first&. You
 acknowledge it yourself&."
 
-Ugh&.&.&.&.
-I might've dug my own grave again&.&.&.&.
+Ugh&.&.&.
+I might've dug my own grave again&.&.&.
 
-More importantly&, who the hell was "Shogun"&.&.&.&.?
+More importantly&, who the hell was "Shogun"&.&.&.?
 When he implied that "the other students and teachers had said so&,"
 it couldn't mean he had spoken to them himself&, could it?
 
@@ -966,16 +967,16 @@ it couldn't mean he had spoken to them himself&, could it?
 <PRE box00>
 [text019]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600750ta">
-"I&, I don't have any power&.&.&.&.
-E&, even I do&, don't know how I did it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600750ta">
+"I&, I don't have any power&.&.&.
+E&, even I do&, don't know how I did it&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12600760su">
+<voice name="z–K" class="z–K" src="voice/ch06/12600760su">
 "But you were able to use it&. Your delusion became reality&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600770se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600770se">
 "Don't let him mislead you&."
 
 {	CreateColor("F‚P", 150, 0, 0, 800, 600, "Black");
@@ -987,31 +988,31 @@ E&, even I do&, don't know how I did it&.&.&.&."
 	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","angry", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 200, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600780se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600780se">
 "Takkii&, do you really think you've got some kind of gift?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600790se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600790se">
 "That's something straight from the world of anime&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600800se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600800se">
 "You're in reality&, you know?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600810se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600810se">
 "Can you prove that the thing about the flowerbed and Ayasecchi
 dividing in two were real?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600820se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600820se">
 "Impossible&, right-o?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600830se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600830se">
 "Did you touch Ayasecchi after she divided?"
 
-I hadn't touched her&.&.&.&.
+I hadn't touched her&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1025,34 +1026,34 @@ I hadn't touched her&.&.&.&.
 <PRE box00>
 [text020]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600840se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600840se">
 "It might've been just an illusion&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600850se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600850se">
 "Back then&, the police and Yuacchi were chasing you&, and you were
 losing your head&."
 
-Then what about the flowerbed&.&.&.&.?
+Then what about the flowerbed&.&.&.?
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","shock", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_shock", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600860se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600860se">
 "The same thing&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600870se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600870se">
 "The flowerbed was 'there from the start&.'"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600880se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600880se">
 "When you went there&, looking for Rimicchi&,
 Your head hurt so bad&, you were dizzy&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600890se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600890se">
 "You clearly confirmed that 'a flowerbed was there'
 By the time Ayasecchi fell&, didn't you?"
 
@@ -1060,29 +1061,29 @@ By the time Ayasecchi fell&, didn't you?"
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_shock", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600900se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600900se">
 "The fact that not a single person had any doubts about the
 flowerbed's 'materialization'"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600910se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600910se">
 "Means&, if you turn it on its head&, they didn't find it suspicious
 because 'it was there from the start&,' right-o?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600920se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600920se">
 "It's just that you were mistaken&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","angry", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12600930se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12600930se">
 "You mustn't let his words mislead you!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600940ta">
-"The flowerbed was there from the start&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600940ta">
+"The flowerbed was there from the start&.&.&."
 
 I repeated what Seira-tan had said&.
 
@@ -1098,71 +1099,71 @@ I repeated what Seira-tan had said&.
 <PRE box00>
 [text021]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600950ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600950ta">
 "I&, I made myself think it wasn't there at first&, but I remembered
-wrong&.&.&.&."
+wrong&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600960ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600960ta">
 "It&, it was a delusion in my mind&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600970ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600970ta">
 "A&, after all&, everyone said the flowerbed had been there&, di&,
-didn't they&.&.&.&."
+didn't they&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600980ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600980ta">
 "It wasn't some power or&, or anything incomprehensible like
-that&.&.&.&."
+that&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12600990ta">
-"I just as&, assumed wrong&.&.&.&. that's all&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12600990ta">
+"I just as&, assumed wrong&.&.&. that's all&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601000su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601000su">
 "No&. You possess the gift&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601010su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601010su">
 "Don't you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601020ta">
-"I&, I don't&.&.&.&. wanna die&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601020ta">
+"I&, I don't&.&.&. wanna die&.&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601030su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601030su">
 "Don't you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601040ta">
-"I&, I don't know&.&.&.&.&. don't kill me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601040ta">
+"I&, I don't know&.&.&.&. don't kill me&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601050su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601050su">
 "You ought to be more aware of your own genius-level power&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601060su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601060su">
 "That latent ability of yours is beyond amazing&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601070su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601070su">
 "You could even change the world&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601080ta">
-"&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601080ta">
+"&.&.&.&.&.&."
 
-I wanna go home&.&.&.&.
+I wanna go home&.&.&.
 I want to go shut myself up in my base and marathon ESO endlessly&.
 
 I want to look at Seira-tan figures until I can't stop grinning&, and
 I want to keep watching Burachu over and over&.
 
-Even though that was all I desired&.&.&.&.
+Even though that was all I desired&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1173,42 +1174,42 @@ Even though that was all I desired&.&.&.&.
 <PRE box00>
 [text022]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601090se">
-"Takkii&, hurry up and run away&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601090se">
+"Takkii&, hurry up and run away&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601100se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601100se">
 "I'll always be with you&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601110se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601110se">
 "I'm your only ally&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601120se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601120se">
 "So let's go home&. cu<pre>t</pre> your ties to the third dimension and live on&,
 doing only fun things&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601130su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601130su">
 "Now&, let's leave the prologue at that&. It's about time to start
 your quest&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601140su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601140su">
 "First&, I'd like you to go to a place from which you have a clear
 view of the scramble crossing below&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601150se">
-"We've gotta escape&. At this rate&, he really will kill you&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601150se">
+"We've gotta escape&. At this rate&, he really will kill you&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601160su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601160su">
 "Didn't you hear me?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601170su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601170su">
 "Move to a position where you can look down at the scramble
 crossing&."
 
@@ -1219,8 +1220,8 @@ A voice so fine-tuned that it seemed to take the energy I needed to
 resist him and rip it out by the roots&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601180ta">
-"Wh&, what're&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601180ta">
+"Wh&, what're&.&.&."
 
 My legs trembled&, and I couldn't walk&.
 I hugged myself&.
@@ -1236,37 +1237,37 @@ he was saying&.
 <PRE box00>
 [text023]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601190su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601190su">
 "You can't listen to me?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601200su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601200su">
 "If you don't obey me&, I can't guarantee Nanami-chan's life&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601210se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601210se">
 "She's gotta be dead already&. You'll just die in vain if you keep at
-it for her sake&.&.&.&."
+it for her sake&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601220ta">
-"L&, le&, let me&.&.&.&. hear&.&.&.&. Nanami's voice&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601220ta">
+"L&, le&, let me&.&.&. hear&.&.&. Nanami's voice&.&.&."
 
 I struggled to squeeze out a cracking voice&.
 But "Shogun" instantly brushed aside my plea&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601230su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601230su">
 "There's no need for that&. You should devote a little more thought to
 your current situation&."
 
-Uuuh&.&.&.&.&.
+Uuuh&.&.&.&.
 
-I--
+I\
 
-Didn't want to think Nanami had died&.&.&.&. I didn't want to imagine
+Didn't want to think Nanami had died&.&.&. I didn't want to imagine
 a dead Nanami&. I was scared that once I pictured her&, it'd become
-real&.&.&.&.
+real&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1292,12 +1293,12 @@ A single female voice particularly caught my ear&, but apparently it
 was coming from the jumbotron mounted on a neighboring building&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601240su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601240su">
 "Do you see the one broken part of the acrylic plate wall&, where the
 hole is?"
 
 Wiping cold sweat off my forehead&, I examined the wall in a rush&,
-moving only my eyes&. 
+moving only my eyes&.
 
 One place did have a hole in it&, large enough for a single person to
 pass through while standing&. It was shaped unnaturally&, as though
@@ -1308,25 +1309,25 @@ There was nothing beyond the hole&, of course&.
 A sheer cliff straight down to the concrete&, eight stories below&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601250su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601250su">
 "Stick your head out through it&, and greet the audience below&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601260ta">
-"Eh&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601260ta">
+"Eh&.&.&.!?"
 
-What&.&.&.&. did he just say&.&.&.&.?
+What&.&.&. did he just say&.&.&.?
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601270su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601270su">
 "Shall I tell you again?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601280su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601280su">
 "I want you to lean through the hole and wave your hand at the people
 below&."
 
-He&, he&.&.&.&.!
+He&, he&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1337,37 +1338,37 @@ He&, he&.&.&.&.!
 <PRE box00>
 [text025]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601290se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601290se">
 "See! He wants to kill you!"
 
 My breath caught&.
-Was this&.&.&.&. how he had made five people jump off&.&.&.&.
+Was this&.&.&. how he had made five people jump off&.&.&.
 
-It was as Seira-tan had said&, after all&.&.&.&.
+It was as Seira-tan had said&, after all&.&.&.
 
 I had no other option but to die as well&.
 I had to jump from here&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601300ta">
-"I&, I don't wanna&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601300ta">
+"I&, I don't wanna&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12601310su">
+<voice name="z–K" class="z–K" src="voice/ch06/12601310su">
 "Refuse&, and Nanami-chan will die&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12601320se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12601320se">
 "Obey&, and you'll die&."
 
-What was I supposed to do&.&.&.&.
+What was I supposed to do&.&.&.
 
 I thought about taking the best possible course of action&, but
 delusions of "the worst-case scenario" for all kinds of potential
 patterns churned around and around in my head&, and I couldn't get my
 brain working properly&.
 
-Save me&, somebody&.&.&.&.
+Save me&, somebody&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1396,7 +1397,7 @@ Save me&, somebody&.&.&.&.
 //‚¨‚ª‚İF‰ñ‘z‘äŒ‚Å‚·
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12601330na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12601330na">
 "Bro&, you mo~ron&."
 
 Nanami's voice echoed in my panicked ears&.
@@ -1404,7 +1405,7 @@ Nanami's voice echoed in my panicked ears&.
 //‚¨‚ª‚İF‰ñ‘z‘äŒ‚Å‚·
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12601340na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12601340na">
 "Heheh~&, mo~ron&."
 
 {	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 300, 1000, null, true);
@@ -1416,14 +1417,14 @@ Nanami's voice echoed in my panicked ears&.
 Nanami flickered before my eyes&, smiling and gesturing casually&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12601350ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12601350ta">
+"&.&.&.&.&.&.&."
 
-It was my fault&.&.&.&.
+It was my fault&.&.&.
 Nanami had absolutely nothing to do with it&, yet "Shogun" had
-abducted her and cu<pre>t</pre> her arm off because of me&.&.&.&.
+abducted her and cu<pre>t</pre> her arm off because of me&.&.&.
 
-I'm sorry&, Nanami&.&.&.&. I'm sorry&.&.&.&.
+I'm sorry&, Nanami&.&.&. I'm sorry&.&.&.
 
 I wiped my tears&.
 But still more overflowed even so&, and I wiped them again&.
@@ -1478,7 +1479,7 @@ rumbling of the earth&.
 The vast herd had gathered in the plaza&. And the media&.
 
 The ones who had gathered for some event that was preparing to begin
-at just the same time--
+at just the same time\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1516,7 +1517,7 @@ An onslaught of dazzling light hit me&.
 I automatically narrowed my eyes and turned my face away&.
 
 Which brought the jumbotron on the building next door into view&,
-And without any room for doubt&, the thing projected there was--
+And without any room for doubt&, the thing projected there was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1538,7 +1539,7 @@ And without any room for doubt&, the thing projected there was--
 [text029]
 Me&.
 
-Eh&.&.&.&. me&.&.&.&.?
+Eh&.&.&. me&.&.&.?
 
 Reflected on the jumbotron screen&, my face was sloppy with tears&,
 and I had my mouth half-open like a dumbass&. On top of that&, my back
@@ -1580,12 +1581,12 @@ Yuri Brightman&. His urgent live performance!"
 When I read it&, I understood at last&.
 
 The media crews and rubberneckers gathered at the scramble crossing
-Were all watching&.&.&.&. me&.&.&.&.
+Were all watching&.&.&. me&.&.&.
 
 
-//--Don't look at me&.
+//\Don't look at me&.
 {	CreateColor("F‚P", 100, 0, 0, 800, 600, "Black");
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 100, center, middle, Auto, Auto, "\\Don't look at me&.");
 
 	SetBacklog("\\Don't look at me.", "NULL", NULL);
@@ -1614,7 +1615,7 @@ Yet
 Why
 Is everyone
 
-Lying in wait for and getting worked up over an otaku freak like me--
+Lying in wait for and getting worked up over an otaku freak like me\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

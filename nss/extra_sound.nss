@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■EXTRA [Sound Library]■
 //=============================================================================//
@@ -97,7 +99,7 @@ chapter main
 	Fade("BLK",300,0,null,true);
 	$slLoop=false;
 	$slExit=false;
-	$SYSTEM_script_close="";
+	//$SYSTEM_script_close="";
 	$SYSTEM_r_button_down=false;
 	while(!$slExit){
 		select{
@@ -160,12 +162,21 @@ chapter main
 			}case EXIT{
 				$slExit=true;
 			}
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}
 		}
 		Wait(32);
 	}
 	Fade("BLK",300,1000,null,true);
 	Delete("*");
-	$SYSTEM_script_close="nss/sys_close.nss";
+	//$SYSTEM_script_close="nss/sys_close.nss";
 	#SYSTEM_sound_volume_bgm=$VOL_BAK;
 }
 

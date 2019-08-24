@@ -53,58 +53,58 @@ function ch09_189_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚S‚U()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text000]
-The front entrance of AH Tokyo General Hospital&. 
+The front entrance of AH Tokyo General Hospital&.
 Kusunoki Yua stared without making any rustle&, at the view that was
-beyond the automatic doors&. 
+beyond the automatic doors&.
 
 She'd had no choice but head outside when Detective Ban told her "Go
 home right this instant&," but she was so concerned about him&, she
-couldn't move from the spot&. 
+couldn't move from the spot&.
 
 Pursuing an unidentified figure&, Ban had vanished into the hospital's
-upper floors&. 
+upper floors&.
 Though less than three minutes had passed since then&, Yua studied the
-lobby&, wondering if he would return&. 
+lobby&, wondering if he would return&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-After Ban went off to the hospital alone&. 
+After Ban went off to the hospital alone&.
 Shaking off Momose's attempts to stop her&, Yua had chased after him&.
 
 In order to come closer to the real criminal and the truth about her
-sister's death&, if only by a step&. 
+sister's death&, if only by a step&.
 
 The person who had sent Ban threatening phone calls saying&, "Back
-out&," and who had abducted his junior--apparently someone called
+out&," and who had abducted his junior\apparently someone called
 Suwa-san&. That person was in all likelihood the one who had killed
-her sister Mia&.  
+her sister Mia&.
 
-Yua had a hunch that such was the case&. 
+Yua had a hunch that such was the case&.
 So she hadn't been able to fully hold back the impulse driving her
 forward&.
 
 Regardless of how thoroughly Ban had warned her&, "It'll be dangerous
-to get involved with this case&," she'd come all the way here&. 
+to get involved with this case&," she'd come all the way here&.
 
 But then&, it wasn't as if Yua could accomplish anything simply by
 having come here&. In the end&, she was no more than a powerless high
-school girl&. 
+school girl&.
 
 Yua anticipated that maybe Ban would return in high style&, having
 collared the culprit&.
 When he did&, she'd have her chance to question the criminal in
-person&. 
+person&.
 
-"Why did you have to kill my sister?" 
+"Why did you have to kill my sister?"
 
 It was the question Yua wanted to ask&, no matter what&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900010yu">
-"&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900010yu">
+"&.&.&.?"
 
 Right then&, she abruptly sensed a gaze&.
 {	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_hard", 500, true);}
@@ -151,19 +151,19 @@ Next&, she cast her eyes unmindfully at the hospital&.
 <PRE box00>
 [text002]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900020yu">
-"Ah&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900020yu">
+"Ah&.&.&."
 
 A lone girl stood there&.
 
 The lights around the hospital entrance had already gone out&, leaving
-it dim&. 
+it dim&.
 Despite that&, the girl's form floated out up out of the darkness with
 a terrible clarity&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900030yu">
-"Mia-chan&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900030yu">
+"Mia-chan&.&.&.?"
 
 Yua murmured unthinkingly&.
 She knew it was impossible&, but she couldn't keep her voice from
@@ -187,7 +187,7 @@ The girl abruptly turned on her heel&, heading for the automatic doors
 at the hospital building entrance&.
 As she approached them&, the automatic doors quietly opened&.
 
---She wasn't a ghost&.
+\She wasn't a ghost&.
 
 Yua was dumbfounded&.
 She instantly broke into a run and went toward the hospital entrance&,
@@ -227,7 +227,7 @@ The girl's presence had disappeared in the direction of the upper
 floors&.
 She heard something resembling faint laughter as well&.
 
-Like a sce<pre>n</pre>e right out of a ghost story&.&.&.&.
+Like a sce<pre>n</pre>e right out of a ghost story&.&.&.
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_‘«_ŠK’i•à‚­");
 	MusicStart("SE02", 0, 500, 0, 1000, null, false);
@@ -249,8 +249,8 @@ hallucination&,
 
 //‚u‚e//‚©‚È‚è‰“‚­‚©‚ç‚ÌºB˜L‰º‚Å”½‹¿‚µ‚Ü‚­‚è
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900040ma">
-"Fufu&.&.&.&. ahahaha"
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900040ma">
+"Fufu&.&.&. ahahaha"
 
 She heard female laughter from the floor above&.
 That voice&, that manner of laughing; Yua had heard them countless
@@ -267,7 +267,7 @@ times in the past&.
 	SetVolume("SE01", 0, 0, NULL);
 	Delete("back04");}
 Upon ascending to the third floor&, Yua glanced at the corridor&, and
-there--
+there\
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","normal", 200, @-250);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 500, true);}
@@ -277,10 +277,10 @@ Stood a girl with the same face as her&.
 //Ÿ¦”üˆ¤‚Í—Dˆ¤‚Æ“¯‚¶º—D‚³‚ñ‚Å‚¨Šè‚¢‚µ‚Ü‚·B”üˆ¤‚Ì•û‚ª«Ši‚ªƒLƒc‚¢
 //”üˆ¤‚Íu—Dˆ¤‚Ì—§‚¿ŠGiƒƒKƒl‚È‚µjv{„•‚ÅB
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900050ma">
-"Fufu&.&.&.&." 
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900050ma">
+"Fufu&.&.&."
 
-One of the five to die in the first New-Gen case&, the "group dive&." 
+One of the five to die in the first New-Gen case&, the "group dive&."
 Her sister&, who was supposed to have died two months ago&.
 
 Kusunoki Mia stood there&, and there was no denying the tangibility of
@@ -289,10 +289,10 @@ her existence&.
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900060yu">
-"It can't be&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900060yu">
+"It can't be&.&.&."
 
-Yua took off her glasses and rubbed her eyes&. 
+Yua took off her glasses and rubbed her eyes&.
 But Mia remained there even after she put them back on&.
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+250);
@@ -300,22 +300,22 @@ But Mia remained there even after she put them back on&.
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 500, true);}
 //Ÿ—Dˆ¤‚Í”üˆ¤‚É‘Î‚µ‚Ä‚Íƒ^ƒŒû
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900070yu">
-"Mia-chan&.&.&.&. is it you?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900070yu">
+"Mia-chan&.&.&. is it you?"
 
 {	Stand("st”üˆ¤_„•_’Êí","normal", 200, @-250);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 500, false);
 	FadeStand("st”üˆ¤_„•_’Êí_normal", 500, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900080ma">
-"What do you think?" 
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900080ma">
+"What do you think?"
 
 A voice so clear&, she couldn't think of it as an auditory
-hallucination&. 
+hallucination&.
 
-That expression of hers&, with an invincible smile&. 
+That expression of hers&, with an invincible smile&.
 
-She was the very same Mia from Yua's memories&. 
+She was the very same Mia from Yua's memories&.
 
 Mia had always been like that&. She'd often sneered that way to make
 herself out to be the bad guy&.
@@ -332,29 +332,29 @@ herself out to be the bad guy&.
 <PRE box00>
 [text004]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900090yu">
-"Mia-chan&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900090yu">
+"Mia-chan&.&.&."
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","normal", 200, @-250);
 	DeleteStand("st”üˆ¤_„•_’Êí_normal", 500, false);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 500, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900100ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900100ma">
 "Do you really think I'm Mia&, and you're Yua?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900110yu">
-"&.&.&.&.What do you mean?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900110yu">
+"&.&.&.What do you mean?"
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","hard", 200, @-250);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 0, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900120ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900120ma">
 "What if it were the reverse?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900130ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900130ma">
 "You're Mia&. The one who died was Yua&. You were the one who killed
 her&."
 
@@ -362,75 +362,75 @@ her&."
 	FadeStand("st—Dˆ¤_§•_’Êí_worry", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_sad", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900140yu">
-"Wh&, what are you saying&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900140yu">
+"Wh&, what are you saying&.&.&.?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900150ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900150ma">
 "Unable to stand your older sister&, beloved by her parents&, you put
 in a request online for someone to kill her&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900160ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900160ma">
 "Plus&, in order for it to look like suicide&, you forced four people
 you'd never met to jump off with her&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900170ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900170ma">
 "You became your own older sister&, and while pretending to grieve and
 shed tears over your little sister's death&, you obtained the parental
 love your big sister had previously monopolized&, and in your heart&,
-you continue gloating--"
+you continue gloating\"
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_worry", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900180yu">
-"N&, no&, you're wrong&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900180yu">
+"N&, no&, you're wrong&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @+250);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 500, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900190yu">
-"I'm Yua&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900190yu">
+"I'm Yua&.&.&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900200ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900200ma">
 "Who's going to prove it?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900210yu">
-"I&.&.&.&. must be Yua&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900210yu">
+"I&.&.&. must be Yua&."
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","normal", 200, @-250);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 0, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900220ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900220ma">
 "But you aren't certain&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","worry", 200, @+250);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 500, false);
 	FadeStand("st—Dˆ¤_§•_’Êí_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900230yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900230yu">
 "What proves me to be who I am?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900240ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900240ma">
 "Your face? Your name? Your memories?"
 
 {	Stand("st—Dˆ¤_§•_’Êí","sad", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí_sad", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_worry", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900250yu">
-"Even though this is about me&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900250yu">
+"Even though this is about me&.&.&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900260ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900260ma">
 "It's impossible to prove you are yourself&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","worry", 200, @+250);
@@ -438,30 +438,30 @@ you continue gloating--"
 	DeleteStand("st—Dˆ¤_§•_’Êí_sad", 0, true);}
 //Ÿ¦‚±‚±‚Í‚í‚´‚Æu”üˆ¤‚¿‚á‚ñv‚Æ‚ÍŒÄ‚Ñ‚Ü‚¹‚ñ
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900270yu">
-"Is it also possible that I'm Mia&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900270yu">
+"Is it also possible that I'm Mia&.&.&.?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900280ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900280ma">
 "Didn't you research all sorts of things?"
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","hard", 200, @-250);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_normal", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900290yu">
-"Multiple personalities&.&.&.&. somnambulism&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900290yu">
+"Multiple personalities&.&.&. somnambulism&.&.&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900300ma">
-"Fabricated memories&, and&.&.&.&. delusions&."
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900300ma">
+"Fabricated memories&, and&.&.&. delusions&."
 
 The matters she herself had researched up until now were what thrust
 at her the reality of how "memories&," or else "recollections&," were
-such ambiguous things&. 
+such ambiguous things&.
 
-She ceased to understand herself--  
-What was she? 
+She ceased to understand herself\
+What was she?
 
 Yua held her head and shook it like a child throwing a tantrum&.
 
@@ -484,9 +484,9 @@ Yua held her head and shook it like a child throwing a tantrum&.
 	Fade("back04", 100, 1000, null, true);
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900320ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900320ma">
 "Who are you?"
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "Who are you?");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -506,7 +506,7 @@ Yua held her head and shook it like a child throwing a tantrum&.
 <PRE box00>
 [text005]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900310yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900310yu">
 "Who am I?"
 
 </PRE>
@@ -522,7 +522,7 @@ Yua held her head and shook it like a child throwing a tantrum&.
 <PRE box00>
 [text006]
 Yua&, who pretended to be a good girl and automatically received their
-parents' praise and affection? 
+parents' praise and affection?
 
 Mia&, who pretended to be a bad girl&, and actively earned their
 parents' dislike&, and looked upon her older sister with envy and
@@ -539,9 +539,9 @@ loathing&, though she had brought it all upon herself?
 
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900340ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900340ma">
 "Now&, you too"
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "Now&, you too");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -563,7 +563,7 @@ loathing&, though she had brought it all upon herself?
 <PRE box00>
 [text007]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900330yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900330yu">
 "Now&, I too"
 
 </PRE>
@@ -577,8 +577,8 @@ loathing&, though she had brought it all upon herself?
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-Mia--or perhaps Yua--began walking soundlessly&, as though to lead the
-way for Yua--or perhaps Mia&.
+Mia\or perhaps Yua\began walking soundlessly&, as though to lead the
+way for Yua\or perhaps Mia&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -589,9 +589,9 @@ way for Yua--or perhaps Mia&.
 	Fade("back04", 100, 1000, null, true);
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900360ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900360ma">
 "Shall meet the same fate as me&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "Shall meet the same fate as me&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -614,7 +614,7 @@ way for Yua--or perhaps Mia&.
 <PRE box00>
 [text009]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900350yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900350yu">
 "Shall meet the same fate as you&."
 
 </PRE>
@@ -628,9 +628,9 @@ way for Yua--or perhaps Mia&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-Yua and Mia&. 
-Monozygotic twins with identical faces&. 
-The boundary between them was becoming unclear--
+Yua and Mia&.
+Monozygotic twins with identical faces&.
+The boundary between them was becoming unclear\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -655,29 +655,29 @@ The boundary between them was becoming unclear--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text011]
-Standing upright in the darkness&, the vast boxes of two buildings&. 
+Standing upright in the darkness&, the vast boxes of two buildings&.
 
 But compared to the Shinjuku skyscrapers that towered nearby&, they
-were just like children gazing up at adults&. 
+were just like children gazing up at adults&.
 
-The roof of the hospital building&. 
-Yua had arrived there&, lured on by Mia&. 
+The roof of the hospital building&.
+Yua had arrived there&, lured on by Mia&.
 
 Who knew whose work it might have been&, but one corner of the fence
 soaring around it contained a broken area large enough for a single
-person to pass through&.  
+person to pass through&.
 
 Yua and Mia&, having ventured through that broken spot to the other
-side of the fence&, stood at the edge of the roof&. 
+side of the fence&, stood at the edge of the roof&.
 
-Directly in front of them was the outpatient building&. 
+Directly in front of them was the outpatient building&.
 Since it was shorter than the hospital wing&, they could take its
-rooftop garden in at a glance&. 
+rooftop garden in at a glance&.
 
 That said&, it wasn't illuminated&, so Yua wouldn't be able to tell
-even if someone were there&. 
+even if someone were there&.
 
-The wind was strong up on the roof&. 
+The wind was strong up on the roof&.
 That strong wind made Yua and Mia's long&, soft hair and the sleeves
 of their clothing flutter fiercely&.
 
@@ -690,9 +690,9 @@ of their clothing flutter fiercely&.
 	Fade("back04", 100, 1000, null, true);
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900380ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900380ma">
 "Because we were originally one&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "Because we were originally one&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -715,7 +715,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text012]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900370yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900370yu">
 "Because we were originally one&."
 
 </PRE>
@@ -725,9 +725,9 @@ of their clothing flutter fiercely&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900400ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900400ma">
 "We're only going back there&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "We're only going back there&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -749,7 +749,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text013]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900390yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900390yu">
 "We're only going back there&."
 
 </PRE>
@@ -759,9 +759,9 @@ of their clothing flutter fiercely&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900420ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900420ma">
 "Take one step forward"
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "Take one step forward");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -782,7 +782,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text014]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900410yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900410yu">
 "Take one step forward"
 
 </PRE>
@@ -792,9 +792,9 @@ of their clothing flutter fiercely&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900440ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900440ma">
 "And you will become me&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "And you will become me&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -815,7 +815,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text015]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900430yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900430yu">
 "And I will become you."
 
 </PRE>
@@ -829,10 +829,10 @@ of their clothing flutter fiercely&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text016]
-Empty-eyed&, Yua mechanically repeated emotionless words&. 
+Empty-eyed&, Yua mechanically repeated emotionless words&.
 
 Spreading out her arms as though to keep her balance&, she held her
-ground against the vigor of the wind blowing up at her&. 
+ground against the vigor of the wind blowing up at her&.
 
 Close by her&, spreading her arms out in the same way as Yua&, Mia
 looked in her direction and smiled&.
@@ -842,39 +842,39 @@ looked in her direction and smiled&.
 	Stand("st”üˆ¤_„•_’Êí¶è‰º","mad", 200, @-150);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_mad", 500, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900450ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900450ma">
 "There's no need to endure it&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900460ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900460ma">
 "You must gain knowledge of my pain&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900470ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900470ma">
 "Come&, fly&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900480ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900480ma">
 "Once you do&, you and I will share the same pain&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900490yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900490yu">
 "Which am I? Me? You?"
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","smile", 200, @-150);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_smile", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_mad", 0, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900500ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900500ma">
 "Fufu&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900510ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900510ma">
 "There's no meaning in asking that&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900520ma">
-"Either way--"
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900520ma">
+"Either way\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -887,9 +887,9 @@ looked in her direction and smiled&.
 	Fade("back04", 100, 1000, null, true);
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900530ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900530ma">
 "You will jump&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 500, center, Middle, Auto, Auto, "You will jump&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -911,7 +911,7 @@ looked in her direction and smiled&.
 <PRE box00>
 [text017]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900540yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900540yu">
 "I will jump&."
 
 </PRE>
@@ -930,8 +930,8 @@ looked in her direction and smiled&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text018]
-All vestiges of hesitation vanished from Yua&, 
-And as she began to take a single step forward--
+All vestiges of hesitation vanished from Yua&,
+And as she began to take a single step forward\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -952,8 +952,8 @@ And as she began to take a single step forward--
 <PRE box00>
 [text019]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900550yu">
-"&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900550yu">
+"&.&.&."
 
 A gunshot tore through the moonless night&.
 
@@ -981,61 +981,61 @@ One lay collapsed&, and the other stood beside him&.
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900560yu">
-"Ban-san&.&.&.&.?" 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900560yu">
+"Ban-san&.&.&.?"
 
-Had that detective shot somebody to death? 
+Had that detective shot somebody to death?
 Or had somebody shot him to death?
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","hard", 200, @-150);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 500, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900570ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900570ma">
 "What are you doing?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900580ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900580ma">
 "Why aren't you willing to taste the same pain as me?"
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","sad", 200, @-150);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_sad", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 0, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900590ma">
-"That's so cowardly&. So unfair&.&.&.&."
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900590ma">
+"That's so cowardly&. So unfair&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","worry", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí_worry", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900600yu">
-"Mia-chan&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900600yu">
+"Mia-chan&.&.&."
 
 {	Stand("st”üˆ¤_„•_’Êí¶è‰º","hard", 200, @-150);
 	FadeStand("st”üˆ¤_„•_’Êí¶è‰º_hard", 300, true);
 	DeleteStand("st”üˆ¤_„•_’Êí¶è‰º_sad", 0, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900610ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900610ma">
 "You're wrong&. I'm Yua&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900620yu">
-"Yua is me&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900620yu">
+"Yua is me&.&.&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900630ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900630ma">
 "Mia is you&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900640yu">
-"What on earth are you&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900640yu">
+"What on earth are you&.&.&.?"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900650ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900650ma">
 "I am what you wished for&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900660ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900660ma">
 "You are what I wished for&."
 
 {	DeleteStand("st—Dˆ¤_§•_’Êí_worry", 300, false);
@@ -1068,23 +1068,23 @@ She was losing the ability to breathe&.
 [text020]
 //Ÿ‹ê’É
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900670yu">
-"Ah&.&.&.&. uu&.&.&.&. gii&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900670yu">
+"Ah&.&.&. uu&.&.&. gii&.&.&."
 
-Mia wasn't a ghost&. 
-She definitely had a physical body&. 
+Mia wasn't a ghost&.
+She definitely had a physical body&.
 She was strangling Yua by the neck&.
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900680ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900680ma">
 "Please die&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900690ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900690ma">
 "At least today&, listen to my request for once&."
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900700ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900700ma">
 "Because I always forced myself to go without&."
 
 {	CreateColor("red", 500, 0, 0, 800, 600, "RED");
@@ -1094,7 +1094,7 @@ Yua's sight went red&.
 Her hands wandered in the air&.
 But they couldn't grasp anything&.
 
-She was going to be killed--
+She was going to be killed\
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_‚Ì‚¼‚­");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, true);
@@ -1121,7 +1121,7 @@ all Mia would have to do was become her&.
 If Mia died&, all Yua would have to do was become her&.
 
 Resignation gradually spread through Yua's heart&.
-The hatred-filled face of Mia--or else Yua--before her&.
+The hatred-filled face of Mia\or else Yua\before her&.
 Not wanting to see it&, she turned her face away&.
 
 </PRE>
@@ -1147,7 +1147,7 @@ flowers&.
 It may have been a hallucination&, one she was seeing because she'd
 lost her glasses&.
 
-But--
+But\
 
 She could no longer breathe&.
 In the midst of her suffering rose up a faint serenity&.
@@ -1194,15 +1194,15 @@ clear&, as though a fog had lifted away from it&.
 <PRE box00>
 [text921]
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900710ma">
-"&.&.&.&.!?"
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900710ma">
+"&.&.&.!?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 //‰æ–ÊƒGƒtƒFƒNƒg//Ô‚¢‰Ô‚Ñ‚ç‚Ì‚æ‚¤‚È‚à‚Ì‚ª•‘‚¤
-	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, true, false, "dx/mv‰Ô‚Ñ‚ç.ngs");
+	CreateMovie("ƒ€[ƒr[", 500, Center, Middle, true, false, "dx/mvPetals.ngs");
 	Zoom("ƒ€[ƒr[", 0, 2000, 2000, Dxl2, true);
 	Fade("ƒ€[ƒr[", 0, 0, null, false);
 	Request("ƒ€[ƒr[", Play);
@@ -1228,7 +1228,7 @@ An intense&, invisible impact burst forth&.
 
 A red light resembling flower petals danced there&, sending the
 twins&, one of whom had almost been lying atop the other&, flying
-apart&. 
+apart&.
 
 Coughing&, Yua swayed to her feet&, looked at what she was gripping&,
 and widened her eyes&.
@@ -1251,7 +1251,7 @@ and widened her eyes&.
 
 	Fade("F‚Q", 500, 1000, null, true);
 
-	CreateMovie("ƒ€[ƒr[‚P", 600, Center, -700, true, false, "dx/mvƒ\[ƒh02.ngs");
+	CreateMovie("ƒ€[ƒr[‚P", 600, Center, -700, true, false, "dx/mvSword02.ngs");
 	Request("ƒ€[ƒr[‚P", Play);
 	Delete("ƒ€[ƒr[");
 
@@ -1270,7 +1270,7 @@ It was a single sword&.
 
 //All too keen&.
 //	CreateColor("F‚P", 1000, 0, 0, 800, 600, "BLACK");
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, Middle, Auto, Auto, "All too keen&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	SetBacklog("All too keen", "null", null);
@@ -1295,7 +1295,7 @@ All too elegant&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //All too valiant&.
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, Middle, Auto, Auto, "All too valiant&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	SetBacklog("All too valiant", "null", null);
@@ -1315,7 +1315,7 @@ All too immaculate&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //All too profound and unfamiliar&.
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, Middle, Auto, Auto, "All too profound and unfamiliar&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	SetBacklog("All too profound and unfamiliar", "null", null);
@@ -1335,7 +1335,7 @@ All too delicate and easily damaged&.
 	Delete("ƒeƒLƒXƒg‚P");
 
 //And beautiful enough to invoke tears&.
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, Middle, Auto, Auto, "And beautiful enough to invoke tears&.");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	SetBacklog("And beautiful enough to invoke tears", "null", null);
@@ -1369,10 +1369,10 @@ And beautiful enough to invoke tears&.
 <PRE box00>
 [text028]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900720yu">
-"This&.&.&.&. is&.&.&.&.!" 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900720yu">
+"This&.&.&. is&.&.&.!"
 
-That which lay in her hand&. 
+That which lay in her hand&.
 
 What it reminded Yua of were Ayase's sword&, which she had previously
 seen in the subway&, and the sword belonging to the girl of whom Ban
@@ -1385,23 +1385,23 @@ had spoken&, Sena&.
 	CreateSE("SE10","SE_©‘R_•—‰¹_‹­_Loop");
 	MusicStart("SE10", 1000, 700, 0, 1000, null, true);}
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900730ma">
-"Uu&.&.&.&. what just happened&.&.&.&.?" 
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900730ma">
+"Uu&.&.&. what just happened&.&.&.?"
 
 Blown away by the mysterious shock wave from before&, almost buried in
 one of the plantings&, Mia came crawling out&, pressing down on her
 head&.
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900740ma">
-"What did you do&.&.&.&.?"
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900740ma">
+"What did you do&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900750yu">
-"I&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900750yu">
+"I&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900760yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900760yu">
 "Mia-chan&, I finally understand&. Why I tried so hard to find out the
 truth about your death&."
 
@@ -1420,7 +1420,7 @@ truth about your death&."
 <PRE box00>
 [text900]
 //y”üˆ¤z
-//<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900770ma">
+//<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900770ma">
 "Did you try to kill me? Was I about to be killed again? Again?"
 
 </PRE>
@@ -1434,23 +1434,23 @@ truth about your death&."
 [text901]
 //Ÿ—Üº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900780yu">
-"In the end&, I was scared of you&.&.&.&. I thought you died as a way
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900780yu">
+"In the end&, I was scared of you&.&.&. I thought you died as a way
 to get to me&. I didn't understand you&."
 
 //Ÿ—Üº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900790yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900790yu">
 "I wanted to reassure myself by proving it wasn't my fault that you
 died&."
 
 //Ÿ—Üº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900800yu">
-"I'm the worst sister--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900800yu">
+"I'm the worst sister\"
 
 //y”üˆ¤z
-<voice name="”üˆ¤" class="”üˆ¤" src="ch09/18900810ma">
+<voice name="”üˆ¤" class="”üˆ¤" src="voice/ch09/18900810ma">
 "Why won't you die for me!?"
 
 Nothing she said would get through to Mia anymore&.
@@ -1463,10 +1463,10 @@ perfectly estranged and would never return&.
 	Stand("bu”üˆ¤_„•_’Êí¶è‰º","mad", 200, @0);
 	FadeStand("bu”üˆ¤_„•_’Êí¶è‰º_mad", 300, true);}
 Mia seized at her again&.
-Recalling her previous agony and trembling in terror&, Yua--
+Recalling her previous agony and trembling in terror&, Yua\
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900820yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900820yu">
 "Don't"
 
 </PRE>
@@ -1475,7 +1475,7 @@ Recalling her previous agony and trembling in terror&, Yua--
 
 	SetVolume("SE10", 0, 0, NULL);
 
-	CreateMovie("ƒ€[ƒr[", 200, Center, Middle, false, false, "dx/mv‹OÕ01.ngs");
+	CreateMovie("ƒ€[ƒr[", 200, Center, Middle, false, false, "dx/mvTrack01.ngs");
 
 //‚r‚d//Œ•‚ğU‚é
 	CreateSE("SE02","SE_‹[‰¹_ƒfƒBƒ\[ƒh_l‚ğØ‚é");
@@ -1492,27 +1492,27 @@ Recalling her previous agony and trembling in terror&, Yua--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text029]
-A flash&. 
-The sword in her hand traced a sharp locus&. 
-It clove the ghost in half&. 
+A flash&.
+The sword in her hand traced a sharp locus&.
+It clove the ghost in half&.
 
-Mia stopped moving&. 
+Mia stopped moving&.
 Wearing an expression of astonishment&,
 
 She groped at the wound carved from her lower left abdomen to her
-right shoulder&. 
+right shoulder&.
 
 No blood emerged&.
 
 //Ÿ—Üº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900830yu">
-"Mia-chan&.&.&.&. died two months ago&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900830yu">
+"Mia-chan&.&.&. died two months ago&.&.&."
 
 //Ÿ—Üº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900840yu">
-"Th&, then&, who are you&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900840yu">
+"Th&, then&, who are you&.&.&.?"
 
 Innumerable particles&, large enough to be visible&, seeped out of
 Mia's body&.
@@ -1544,29 +1544,29 @@ shirt and dirty jeans&, with a rucksack on his back&.
 A man Yua had never seen before&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900850yu">
-"Who&.&.&.&.? Who are you&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900850yu">
+"Who&.&.&.? Who are you&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900860yu">
-"Why were you in Mia-chan's form&.&.&.&.? How&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900860yu">
+"Why were you in Mia-chan's form&.&.&.? How&.&.&."
 
-Bewildered&, Yua retreated with this sword still in hand&. 
+Bewildered&, Yua retreated with this sword still in hand&.
 The man&, too&, appeared flustered&, since he probably hadn't imagined
 being exposed as himself&.
 
 //yƒ|[ƒ^[‚`z
-<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="ch09/18900870pa">
-"You&, too&, why&.&.&.&."
+<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="voice/ch09/18900870pa">
+"You&, too&, why&.&.&."
 
 //yƒ|[ƒ^[‚`z
-<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="ch09/18900880pa">
+<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="voice/ch09/18900880pa">
 "Don't tell me this kid's a Gigalomaniac&.&.&.!? I didn't hear a
-thing about that&.&.&.&.!"
+thing about that&.&.&.!"
 
 //yƒ|[ƒ^[‚`z
-<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="ch09/18900889pa">
-"Shit&, what should&.&.&.&."
+<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="voice/ch09/18900889pa">
+"Shit&, what should&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1590,8 +1590,8 @@ thing about that&.&.&.&.!"
 Paying no heed to gravity&, "it" flew all but horizontally&.
 
 //yƒ|[ƒ^[‚`z
-<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="ch09/18900900pa">
-"Ah?" 
+<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="voice/ch09/18900900pa">
+"Ah?"
 
 By the time the man turned to look behind him&, "it" had already
 pierced the rucksack he was wearing&,
@@ -1608,7 +1608,7 @@ pierced the rucksack he was wearing&,
 <PRE box00>
 [text032]
 //yƒ|[ƒ^[‚`z
-<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="ch09/18900910pa">
+<voice name="ƒ|[ƒ^[‚`" class="ƒ|[ƒ^[‚`" src="voice/ch09/18900910pa">
 "!"
 
 And from within that rucksack gushed a pale flash of light&.
@@ -1629,10 +1629,10 @@ A sword with beautiful curves&, similar to the one Yua had obtained
 moments ago&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900920yu">
-"This&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900920yu">
+"This&.&.&."
 
-Yua remembered seeing that sword somewhere&. 
+Yua remembered seeing that sword somewhere&.
 She had spotted it once before&.
 
 </PRE>
@@ -1647,8 +1647,8 @@ She had spotted it once before&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text033]
-A single human presence approached her&. 
-Yua raised her head&. 
+A single human presence approached her&.
+Yua raised her head&.
 
 She who emerged out of the dimness&.
 
@@ -1656,23 +1656,23 @@ She who emerged out of the dimness&.
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 500, true);}
 //¦‚ ‚â‚¹‚ÍƒpƒWƒƒƒ}p
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch09/18900930ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch09/18900930ay">
 "I wondered what was going on&. Quite a commotion&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900940yu">
-"Kishimoto&.&.&.&. san&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900940yu">
+"Kishimoto&.&.&. san&.&.&."
 
 Expressionless&, Ayase glanced at the sword Yua held&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch09/18900950ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch09/18900950ay">
 "I sense the Great Will at work&. Here is the reason why I had to
 remain in this hospital&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18900960yu">
-"Eh&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18900960yu">
+"Eh&.&.&.?"
 
 {	DeleteStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 500, true);}
 Ayase picked up Yua's fallen glasses&, knelt in front of Yua&, who had
@@ -1686,7 +1686,7 @@ Her thin fingers gently brushed Yua's hair back and softly placed the
 glasses on her&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch09/18900970ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch09/18900970ay">
 "So you&, too&, were one of the black knights of Gladioul&."
 
 And she gave her an ephemeral smile&.

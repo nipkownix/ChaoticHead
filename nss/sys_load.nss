@@ -1,12 +1,20 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■ロード■
 //=============================================================================//
 chapter main
 {
-	SetFont("ＭＳ ゴシック",19,#FFFFFF,#00000,500,null);
-	
-	LoadFont("フォント1","ＭＳ ゴシック",19,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
-	LoadFont("フォント2","ＭＳ ゴシック",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+
+	if(#SYSTEM_font_family==MSGothic){
+		SetMainFont("DroidMSGothic",19,#FFFFFF,#00000,500,null);
+		LoadMainFont("フォント1", "DroidMSGothic",19,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+		LoadMainFont("フォント2", "DroidMSGothic",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+	}else{
+		SetMainFont("DroidMSGothic",18,#FFFFFF,#00000,500,null);
+		LoadMainFont("フォント1", "DroidMSGothic",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+		LoadMainFont("フォント2", "DroidMSGothic",17,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+	}
 	
 	CreateWindow("WND",10100,0,0,800,600,true);
 	SetAlias("WND","WND");
@@ -142,21 +150,37 @@ function savemanage()
 			SetVertex($nut,left,top);
 			Zoom($nut,0,1360,1360,null,false);
 			Request($nut,Smoothing);
-			
-			$no="<FONT size=16>NO\.0"+$no+"</FONT>";
-			$date="<FONT size=16>"+ReadFile($date)+"</FONT>";
-			$cmt=ReadFile($cmt);
-			$tm="<FONT size=16>"+ReadFile($tm)+"</FONT>";
-			
-			$nut=$name+"/MouseOver/no";
-			CreateText($nut,10010,58,488,auto,auto,$no);
-			$nut=$name+"/MouseOver/date";
-			CreateText($nut,10010,134,488,auto,auto,$date);
-			$nut=$name+"/MouseOver/cmt";
-			CreateText($nut,10010,51,518,354,54,$cmt);
-			$nut=$name+"/MouseOver/tm";
-			CreateText($nut,10010,600,4,auto,auto,$tm);
-			
+
+			if(#SYSTEM_font_family==RodinBokutoh){
+				$no="<FONT size=18>NO\.0"+$no+"</FONT>";
+				$date="<FONT size=18>"+ReadFile($date)+"</FONT>";
+				$cmt=ReadFile($cmt);
+				$tm="<FONT size=18>"+ReadFile($tm)+"</FONT>";
+				
+				$nut=$name+"/MouseOver/no";
+				CreateText($nut,10010,58,492,auto,auto,$no);
+				$nut=$name+"/MouseOver/date";
+				CreateText($nut,10010,130,492,auto,auto,$date);
+				$nut=$name+"/MouseOver/cmt";
+				CreateText($nut,10010,67,522,354,54,$cmt);
+				$nut=$name+"/MouseOver/tm";
+				CreateText($nut,10010,592,9,auto,auto,$tm);
+			}else{
+				$no="<FONT size=22>NO\.0"+$no+"</FONT>";
+				$date="<FONT size=22>"+ReadFile($date)+"</FONT>";
+				$cmt=ReadFile($cmt);
+				$tm="<FONT size=22>"+ReadFile($tm)+"</FONT>";
+				
+				$nut=$name+"/MouseOver/no";
+				CreateText($nut,10010,58,488,auto,auto,$no);
+				$nut=$name+"/MouseOver/date";
+				CreateText($nut,10010,130,488,auto,auto,$date);
+				$nut=$name+"/MouseOver/cmt";
+				CreateText($nut,10010,67,518,354,54,$cmt);
+				$nut=$name+"/MouseOver/tm";
+				CreateText($nut,10010,592,4,auto,auto,$tm);
+			}
+
 			if($i==#LATEST_SAVE_NUM){
 				$new_Y=$y+78;
 				Move("NEW",0,$x,$new_Y,null,false);
@@ -241,7 +265,7 @@ function savemanage()
 	while($SYSTEM_menu_load_enable)
 	{
 		select{
-			if($SYSTEM_r_button_down){$SYSTEM_menu_load_enable=false;break;}
+			if($SYSTEM_r_button_down||$SYSTEM_keydown_l){$SYSTEM_menu_load_enable=false;break;}
 			case @savenum_1{do_load(1);}
 			case @savenum_2{do_load(2);}
 			case @savenum_3{do_load(3);}
@@ -284,7 +308,23 @@ function savemanage()
 			case EXIT{$SYSTEM_menu_load_enable=FALSE;}
 			if(!$SYSTEM_menu_load_enable){break;}
 			
-			if($SYSTEM_menu_close_enable){call_chapter nss/sys_close.nss;}
+
+			
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
+				if(!$PLACE_title){
+					call_chapter nss/sys_close.nss;
+				}
+				$SYSTEM_buttondown_close=false;
+				$SYSTEM_keydown_esc=false;
+			}
 		}
 	}
 }
@@ -346,13 +386,25 @@ function do_load($num)
 			}case	MSGWND/MSG_yes{
 			}
 			
-			if($SYSTEM_menu_close_enable){
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 				Fade("MSGWND/MSG_msg",200,0,null,false);
 				Fade("MSGWND/MSG_*/*/*",200,0,null,false);
 				WaitAction("MSGWND/MSG_*/*/*");
 				
 				$InDialog=true;
-				call_chapter nss/sys_close.nss;
+				if(!$PLACE_title){
+					call_chapter nss/sys_close.nss;
+				}
+				$SYSTEM_buttondown_close=false;
+				$SYSTEM_keydown_esc=false;
 				$InDialog=false;
 				
 				Fade("MSGWND/MSG_msg",200,1000,null,false);

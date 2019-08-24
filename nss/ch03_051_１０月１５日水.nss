@@ -43,8 +43,8 @@ function ch03_051_‚P‚OŒ‚P‚T“ú…()
 <PRE box00>
 [text001]
 On the top of everything&, I'd have to go to school three times this
-week&. 
-Haa&, what a bother&.&.&.&.
+week&.
+Haa&, what a bother&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -69,22 +69,22 @@ Haa&, what a bother&.&.&.&.
 <PRE box00>
 [text801]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100010na">
-"Ah~~~~!!!" 
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100010na">
+"Ah~~~~!!!"
 
 A mysterious screech sounded from a little ways away&.
-It caught me by surprise&, and my shoulders jumped&. 
-When I looked in the direction the voice had come from&.&.&.&.
+It caught me by surprise&, and my shoulders jumped&.
+When I looked in the direction the voice had come from&.&.&.
 
 {	Stand("stµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("stµŠC_§•_’Êí_angry", 200, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05100020ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05100020ta">
 "Geh"
 
 //‚b‚g//µŠC
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100030na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100030na">
 "Bro!"
 
 {	DeleteStand("stµŠC_§•_’Êí_angry", 300, true);
@@ -94,27 +94,27 @@ When I looked in the direction the voice had come from&.&.&.&.
 	SoundPlay("SE01", 300, 0, false);}
 Nanami came galloping toward me with astounding momentum&.
 I'd thought I'd run away&, but it was too late&. She circled around me
-and blocked the way&. She'd always been good at sports&.&.&.&.
+and blocked the way&. She'd always been good at sports&.&.&.
 
 {	SoundPlay("@CH08", 0, 1000, true);
 	Wait(500);
 	Stand("buµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_angry", 400, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100040na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100040na">
 "Hold up! Why d'you run away when you see your little sister!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05100050ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05100050ta">
+"&.&.&.&.&.&.&."
 
-Because you made me depressed&, obviously&.&.&.&.
+Because you made me depressed&, obviously&.&.&.
 
 {	Stand("buµŠC_§•_X‚Ë","angry", 200, @-150);
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, false);
 	DeleteStand("buµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100060na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100060na">
 "Ah&, and you're always quick to shut up like that&."
 
 </PRE>
@@ -134,18 +134,18 @@ meddling with this and that&.
 	FadeStand("buµŠC_§•_’Êí_normal", 500, false);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100070na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100070na">
 "Hey&, hey&, what about your phone? Do you use it? You're not using
 it&, are you?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100080na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100080na">
 "It's been days and days since we bought it&, but you haven't called
 home once&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05100090ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05100090ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("buµŠC_§•_’Êí_normal", 500, true);}
 I started walking faster in hopes of shaking Nanami off&.
@@ -154,7 +154,7 @@ But she stubbornly stuck with me&.
 {	Stand("buµŠC_§•_’Êí","pride", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100100na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100100na">
 "At least call home to let us know you're alive&. That's why you got
 it in the first place&."
 
@@ -162,37 +162,37 @@ it in the first place&."
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, false);
 	DeleteStand("buµŠC_§•_’Êí_pride", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100110na">
-"If you can't bear to&, no matter what&, um&.&.&.&. You can just call
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100110na">
+"If you can't bear to&, no matter what&, um&.&.&. You can just call
 my phone&, so&."
 
 {	Stand("buµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_angry", 500, false);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100120na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100120na">
 "Mom's worried about you&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100130na">
-"Are you even eating properly? 
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100130na">
+"Are you even eating properly?
 It's probably always convenience store boxed lunches for you&, huh?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100140na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100140na">
 "I figured living by yourself would be too much for you&. Come back
 home&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100150na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100150na">
 "Do you have any idea how I feel when I go to see how you're doing?"
 
 {	Stand("buµŠC_§•_X‚Ë","angry", 200, @-150);
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, false);
 	DeleteStand("buµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100160na">
-"I&, I always get so anxious about you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100160na">
+"I&, I always get so anxious about you&.&.&."
 
 {	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);
 	Wait(500);}
@@ -253,8 +253,8 @@ Her feet were unsteady&.
 //	CreateSE("SE02","SE_l‘Ì_“®ì_‘«_O•à");
 //	SoundPlay("SE02", 0, 1000, false);
 She seemed strange&, I thought suspiciously&. She went on swaying
-toward the road&. 
-Right as a car came speeding along--
+toward the road&.
+Right as a car came speeding along?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -282,7 +282,7 @@ Right as a car came speeding along--
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05100170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05100170ta">
 "Wa&, watch out!"
 
 {	CreateSE("SE04","SE_l‘Ì_“®ì_K–İ");
@@ -295,8 +295,8 @@ The car zoomed by&, honking its horn&.
 She'd narrowly missed being hit&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/05100180ta">
-"You&, wh&, what're you doing&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05100180ta">
+"You&, wh&, what're you doing&.&.&.!"
 
 {	CreateSE("SE01","SE_“úí_G“¥02");
 	SoundPlay("SE01", 0, 500, true);
@@ -304,20 +304,20 @@ She'd narrowly missed being hit&.
 	FadeStand("buµŠC_§•_’Êí_shock", 500, true);
 	Wait(500);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100190na">
-"Eh? Ah&, er&, huh?" 
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100190na">
+"Eh? Ah&, er&, huh?"
 
 Blinking&, Nanami cocked her head to one side&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100200na">
-"Why did I do that&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100200na">
+"Why did I do that&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100210na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100210na">
 "Huh?"
 
-This girl&.&.&.&. She was an honest-to-God idiot&.
+This girl&.&.&. She was an honest-to-God idiot&.
 
 Not understanding something she herself had done&.
 For the record&, let me say that I didn't find it moe&. It wasn't moe
@@ -329,7 +329,7 @@ Seriously fed up&, I left behind the still-stupified Nanami and
 hurried on ahead&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/05100220na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/05100220na">
 "Ah&, Bro! Wait for me!"
 
 </PRE>

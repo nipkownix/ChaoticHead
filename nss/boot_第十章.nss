@@ -3,6 +3,7 @@
 #include "nss/function_select.nss"
 #include "nss/function_chat.nss"
 #include "nss/function_mmo.nss"
+#include "nss/function_karte.nss"
 #include "nss/function_board.nss"
 
 #include "nss/ch10_200_１１月７日金.nss"
@@ -58,66 +59,66 @@ chapter main
 ..//■ゲーム開始■
 //============================================================================//
 
-// ---------- 頭から ---------- //
+// ―――――――――― 頭から ―――――――――― //
 //本番用初期化用フラグ
 scene SelectStoryMode10
 {
 
 	if($GameName == "boot_第十章")
 	{
-		$GameName = 0;
+		$GameName = "";
 	}
 
-	if($GameName == "ch10_200_１１月７日金" || $GameName == 0)
+	if($GameName == "ch10_200_１１月７日金" || $GameName == "")
 	{
 		$ChapterName = "ch10_200_１１月７日金";
-		$GameName = 0;
+		$GameName = "";
 		ch10_200_１１月７日金();
 	}
-	if($GameName == "ch10_201_インターミッション５０" || $GameName == 0)
+	if($GameName == "ch10_201_インターミッション５０" || $GameName == "")
 	{
 		$ChapterName = "ch10_201_インターミッション５０";
-		$GameName = 0;
+		$GameName = "";
 		ch10_201_インターミッション５０();
 	}
-	if($GameName == "ch10_202_崩壊した渋谷" || $GameName == 0)
+	if($GameName == "ch10_202_崩壊した渋谷" || $GameName == "")
 	{
 		$ChapterName = "ch10_202_崩壊した渋谷";
-		$GameName = 0;
+		$GameName = "";
 		ch10_202_崩壊した渋谷();
 	}
-	if($GameName == "ch10_203_インターミッション５１" || $GameName == 0)
+	if($GameName == "ch10_203_インターミッション５１" || $GameName == "")
 	{
 		$ChapterName = "ch10_203_インターミッション５１";
-		$GameName = 0;
+		$GameName = "";
 		ch10_203_インターミッション５１();
 	}
-	if($GameName == "ch10_204_瓦礫の中を" || $GameName == 0)
+	if($GameName == "ch10_204_瓦礫の中を" || $GameName == "")
 	{
 		$ChapterName = "ch10_204_瓦礫の中を";
-		$GameName = 0;
+		$GameName = "";
 		ch10_204_瓦礫の中を();
 	}
 
 	$TrueEndCount=0;
-	if($１章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($１章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($２章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($２章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($３章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($３章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($４章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($４章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($５章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($５章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($６章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($６章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($７章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($７章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($８章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($８章エンドフラグ② == 1){$TrueEndCount+=1}
-	if($９章エンドフラグ① == 1){$TrueEndCount+=1}
-	if($９章エンドフラグ② == 1){$TrueEndCount+=1}
+	if($１章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($１章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($２章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($２章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($３章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($３章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($４章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($４章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($５章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($５章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($６章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($６章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($７章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($７章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($８章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($８章エンドフラグ② == 1){$TrueEndCount+=1;}
+	if($９章エンドフラグ① == 1){$TrueEndCount+=1;}
+	if($９章エンドフラグ② == 1){$TrueEndCount+=1;}
 
 	if($TrueEndCount >= 10 && #ClearA == 1)
 	{
@@ -128,74 +129,74 @@ scene SelectStoryMode10
 
 	if($ルートＡ == true)
 	{
-		if($GameName == "ch10_205_Ａインターミッション５２ａ" || $GameName == 0)
+		if($GameName == "ch10_205_Ａインターミッション５２ａ" || $GameName == "")
 		{
 			$ChapterName = "ch10_205_Ａインターミッション５２ａ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_205_Ａインターミッション５２ａ();
 		}
-		if($GameName == "ch10_206_Ａ諏訪との対峙" || $GameName == 0)
+		if($GameName == "ch10_206_Ａ諏訪との対峙" || $GameName == "")
 		{
 			$ChapterName = "ch10_206_Ａ諏訪との対峙";
-			$GameName = 0;
+			$GameName = "";
 			ch10_206_Ａ諏訪との対峙();
 		}
-		if($GameName == "ch10_207_Ａインターミッション５３ａ" || $GameName == 0)
+		if($GameName == "ch10_207_Ａインターミッション５３ａ" || $GameName == "")
 		{
 			$ChapterName = "ch10_207_Ａインターミッション５３ａ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_207_Ａインターミッション５３ａ();
 		}
-		if($GameName == "ch10_208_Ａセナの想い" || $GameName == 0)
+		if($GameName == "ch10_208_Ａセナの想い" || $GameName == "")
 		{
 			$ChapterName = "ch10_208_Ａセナの想い";
-			$GameName = 0;
+			$GameName = "";
 			ch10_208_Ａセナの想い();
 		}	
-		if($GameName == "ch10_209_Ａインターミッション５４ａ" || $GameName == 0)
+		if($GameName == "ch10_209_Ａインターミッション５４ａ" || $GameName == "")
 		{
 			$ChapterName = "ch10_209_Ａインターミッション５４ａ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_209_Ａインターミッション５４ａ();
 		}
-		if($GameName == "ch10_210_Ａ地下トンネルの星来達" || $GameName == 0)
+		if($GameName == "ch10_210_Ａ地下トンネルの星来達" || $GameName == "")
 		{
 			$ChapterName = "ch10_210_Ａ地下トンネルの星来達";
-			$GameName = 0;
+			$GameName = "";
 			ch10_210_Ａ地下トンネルの星来達();
 		}
-		if($GameName == "ch10_211_Ａ野呂瀬と対決" || $GameName == 0)
+		if($GameName == "ch10_211_Ａ野呂瀬と対決" || $GameName == "")
 		{
 			$ChapterName = "ch10_211_Ａ野呂瀬と対決";
-			$GameName = 0;
+			$GameName = "";
 			ch10_211_Ａ野呂瀬と対決();
 		}
-		if($GameName == "ch10_212_Ａ僕は" || $GameName == 0)
+		if($GameName == "ch10_212_Ａ僕は" || $GameName == "")
 		{
 			$ChapterName = "ch10_212_Ａ僕は";
-			$GameName = 0;
+			$GameName = "";
 			ch10_212_Ａ僕は();
 		}
-		if($GameName == "ch10_213_Ａインターミッション５５ａ" || $GameName == 0)
+		if($GameName == "ch10_213_Ａインターミッション５５ａ" || $GameName == "")
 		{
 			$ChapterName = "ch10_213_Ａインターミッション５５ａ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_213_Ａインターミッション５５ａ();
 		}
-		if($GameName == "ch10_214_Ａ鈍色の空の下" || $GameName == 0)
+		if($GameName == "ch10_214_Ａ鈍色の空の下" || $GameName == "")
 		{
 			$ChapterName = "ch10_214_Ａ鈍色の空の下";
-			$GameName = 0;
+			$GameName = "";
 			ch10_214_Ａ鈍色の空の下();
 		}
 
 
 		if($Ａエンドエピローグ == true)
 		{
-			if($GameName == "ch10_215_ＡＡルートグッドエンド" || $GameName == 0)
+			if($GameName == "ch10_215_ＡＡルートグッドエンド" || $GameName == "")
 			{
 				$ChapterName = "ch10_215_ＡＡルートグッドエンド";
-				$GameName = 0;
+				$GameName = "";
 				ch10_215_ＡＡルートグッドエンド();
 			}
 		}
@@ -206,49 +207,49 @@ scene SelectStoryMode10
 	if($ルートＢ == true)
 	{
 
-		if($GameName == "ch10_216_Ｂインターミッション５２ｂ" || $GameName == 0)
+		if($GameName == "ch10_216_Ｂインターミッション５２ｂ" || $GameName == "")
 		{
 			$ChapterName = "ch10_216_Ｂインターミッション５２ｂ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_216_Ｂインターミッション５２ｂ();
 		}
-		if($GameName == "ch10_217_Ｂ諏訪の本質" || $GameName == 0)
+		if($GameName == "ch10_217_Ｂ諏訪の本質" || $GameName == "")
 		{
 			$ChapterName = "ch10_217_Ｂ諏訪の本質";
-			$GameName = 0;
+			$GameName = "";
 			ch10_217_Ｂ諏訪の本質();
 		}
-		if($GameName == "ch10_218_Ｂインターミッション５３ｂ" || $GameName == 0)
+		if($GameName == "ch10_218_Ｂインターミッション５３ｂ" || $GameName == "")
 		{
 			$ChapterName = "ch10_218_Ｂインターミッション５３ｂ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_218_Ｂインターミッション５３ｂ();
 		}
-		if($GameName == "ch10_219_Ｂ決着" || $GameName == 0)
+		if($GameName == "ch10_219_Ｂ決着" || $GameName == "")
 		{
 			$ChapterName = "ch10_219_Ｂ決着";
-			$GameName = 0;
+			$GameName = "";
 			ch10_219_Ｂ決着();
 		}
-		if($GameName == "ch10_220_Ｂ幸せな夢" || $GameName == 0)
+		if($GameName == "ch10_220_Ｂ幸せな夢" || $GameName == "")
 		{
 			$ChapterName = "ch10_220_Ｂ幸せな夢";
-			$GameName = 0;
+			$GameName = "";
 			ch10_220_Ｂ幸せな夢();
 		}
-		if($GameName == "ch10_221_Ｂインターミッション５４ｂ" || $GameName == 0)
+		if($GameName == "ch10_221_Ｂインターミッション５４ｂ" || $GameName == "")
 		{
 			$ChapterName = "ch10_221_Ｂインターミッション５４ｂ";
-			$GameName = 0;
+			$GameName = "";
 			ch10_221_Ｂインターミッション５４ｂ();
 		}
 	}
 
 
-	if($GameName == "ched_222_エンドクレジット" || $GameName == 0)
+	if($GameName == "ched_222_エンドクレジット" || $GameName == "")
 	{
 		$ChapterName = "ched_222_エンドクレジット";
-		$GameName = 0;
+		$GameName = "";
 		ched_222_エンドクレジット();
 	}
 

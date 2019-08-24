@@ -90,21 +90,21 @@ if($–Ï‘zƒgƒŠƒK[‚R‚O == 2)
 <PRE box00>
 [text001]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100010hd">
-"Even so&, I'm surprised&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100010hd">
+"Even so&, I'm surprised&.&.&."
 
 Eyes wide&, Hazuki-san studied my face intently&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100020hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100020hd">
 "I'd never dreamed you would be awake&, Nishijou-san&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100030ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100030ta">
+"Eh&.&.&.?"
 
 Her way of putting it made it sound like it was strange for me to have
-woken up&.&.&.&.
+woken up&.&.&.
 
 Was she being sarcastic?
 
@@ -122,34 +122,34 @@ different from what I was imagining&.
 	FadeStand("stu”T_”’ˆß_’Êí_normal", 300, false);
 	DeleteStand("stu”T_”’ˆß_’Êí_shock", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100040hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100040hd">
 "You've been in a coma for almost a month&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100050hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100050hd">
 "You kept sleeping&, and we never found out why&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100060ta">
-"&.&.&.&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100060ta">
+"&.&.&.&.&.&.&.&.&."
 
-What&.&.&.&. had she just said?
+What&.&.&. had she just said?
 
-How long was a month ago&.&.&.&.?
+How long was a month ago&.&.&.?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100070ta">
-"Wh&, what day is it&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100070ta">
+"Wh&, what day is it&.&.&.?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100080hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100080hd">
 "Please listen calmly&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100090hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100090hd">
 "Today is October 28&."
 
-October 28&.&.&.&.
+October 28&.&.&.
 
 It matched the date in my memory&.
 
@@ -159,12 +159,12 @@ Ever since the time I'd witnessed the "staking&."
 I went speechless&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100100hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100100hd">
 "Ah&, yes&, I must be sure to let the doctor know&. This isn't the
-time to be dawdling around and taking your temperature&.&.&.&."
+time to be dawdling around and taking your temperature&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100110hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100110hd">
 "Please wait here&, I'll call the doctor over soon!"
 
 </PRE>
@@ -184,13 +184,13 @@ After rattling this off without leaving any room for an answer&,
 Hazuki-san dashed hastily out of the hospital bedroom&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100120ta">
-"I was&.&.&.&. comatose for a month&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100120ta">
+"I was&.&.&. comatose for a month&.&.&."
 
 I muttered dazedly&, looking down at the palm of my hand&.
 
-In other words&, everything from the past month had been&.&.&.&.
-a dream&.&.&.&.
+In other words&, everything from the past month had been&.&.&.
+a dream&.&.&.
 
 I couldn't possibly have anticipated the it-was-all-a-dream twist&.
 
@@ -214,11 +214,11 @@ And I hadn't become the laughingstock of all Japan&.
 
 And Nanami hadn't been abducted&.
 
-Thank goodness&.&.&.&.
+Thank goodness&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100130ta">
-"Thank goodness&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100130ta">
+"Thank goodness&.&.&."
 
 My field of sight blurred&, and when I looked up to keep from crying&,
 
@@ -242,38 +242,38 @@ My field of sight blurred&, and when I looked up to keep from crying&,
 Hazuki-san entered&. Her eyes went a bit round when she saw me&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100140hd">
-"Oh my&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100140hd">
+"Oh my&.&.&."
 
 {	Stand("stu”T_”’ˆß_’Êí","smile", 200, @+150);
 	FadeStand("stu”T_”’ˆß_’Êí_smile", 300, false);
 	DeleteStand("stu”T_”’ˆß_’Êí_shock", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100150hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100150hd">
 "You're awake&, Nishijou-san&."
 
 She soon gave me a gentle smile&.
 Puzzled&, I found myself unable to move&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100160hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100160hd">
 "How are you feeling?"
 
 Hazuki-san held a thermometer out to me; the gesture came naturally to
 her&. I just sort of ended up taking it&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100170hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100170hd">
 "Please measure your temperature&, okay?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100180ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100180ta">
+"&.&.&.&.&.&.&."
 
 I gulped as I accepted the thermometer&.
 
 {	MusicStart("@CH12", 2000, 1000, 0, 1000, null, true);}
---It was the same&.
+\It was the same&.
 
 We were repeating the same thing as before&.
 
@@ -282,13 +282,13 @@ Hazuki-san acted like she'd entered the room for the first time&.
 I tentatively felt at my armpit&.
 
 I'd stuck a thermometer in there just a second ago&.
-Despite that&.&.&.&.
+Despite that&.&.&.
 
 Gone&.
 
 The thermometer had disappeared&.
 
-Had it been&.&.&.&. delusionary?
+Had it been&.&.&. delusionary?
 Where did the delusion end and reality begin?
 
 My being targeted by Shogun and becoming the laughingstock of all
@@ -331,12 +331,12 @@ if($–Ï‘zƒgƒŠƒK[‚R‚O == 1)
 [text004]
 //Ÿ’WX‚Æ‚µ‚½Œû’²
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100190hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100190hd">
 "Someone from the police would like to speak with you afterward&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100200ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100200ta">
+"Eh&.&.&.?"
 
 Hazuki-san's gentle tone of voice turned chilly&.
 
@@ -345,46 +345,46 @@ Without looking at me&, Hazuki-san continued speaking flatly while
 writing something on the paper held in her clipboard&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100210hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100210hd">
 "How cruel of you&, murdering your little sister&."
 
-Wh&, what&.&.&.&. was she saying?
+Wh&, what&.&.&. was she saying?
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100220hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100220hd">
 "Apparently it was found at your place&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100230hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100230hd">
 "Her dead body&."
 
-What&.&.&.&.
+What&.&.&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100240hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100240hd">
 "It's so deviant to cu<pre>t</pre> off your sister's hand and walk around
 carrying it with you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100250ta">
-"I&, I&, I didn't kill her&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100250ta">
+"I&, I&, I didn't kill her&.&.&.!"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100260hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100260hd">
 "That's what you claim&. The detectives complain that they can't make
 any progress with you&, since nothing you say makes sense&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100270hd">
-{#TIPS_S_‘r¸ = true;}"Are you planning to&.&.&.&. <FONT incolor="#88abda"
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100270hd">
+{#TIPS_S_‘r¸ = true;}"Are you planning to&.&.&. <FONT incolor="#88abda"
 outcolor="BLACK">plead temporary insanity</FONT>?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100280hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100280hd">
 "But everyone"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100290hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100290hd">
 "Thinks you killed her&."
 
 {	CreateColor("F‚P", 500, 0, 0, 800, 600, "Black");
@@ -397,11 +397,11 @@ sight went dark&.
 I became unsure of myself&.
 I killed Nanami&, you say?
 
-It's a lie&.&.&.&.
+It's a lie&.&.&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100300hd">
-"You&.&.&.&. murderer&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100300hd">
+"You&.&.&. murderer&."
 
 Hazuki's hand went still when she stopped writing&.
 She deliberately held her clipboard out to me&.
@@ -420,13 +420,13 @@ She deliberately held her clipboard out to me&.
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100310ta">
-"Hehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100310ta">
+"Hehehe&.&.&."
 
 //Ÿ‹¶‚Á‚½‚æ‚¤‚ÈÎ‚¢
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100320ta">
-"Aha&, fuhahahaha--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100320ta">
+"Aha&, fuhahahaha\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -450,8 +450,8 @@ She deliberately held her clipboard out to me&.
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100330ta">
-"--!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100330ta">
+"-!"
 
 When I came back to myself with a gasp&, I was on the same bed in the
 same room&.
@@ -486,52 +486,52 @@ round when she saw me&.
 
 //ŸƒrƒbƒNƒŠ
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100340hd">
-"Oh my&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100340hd">
+"Oh my&.&.&."
 
 {	Stand("stu”T_”’ˆß_’Êí","smile", 200, @+150);
 	FadeStand("stu”T_”’ˆß_’Êí_smile", 300, false);
 	DeleteStand("stu”T_”’ˆß_’Êí_shock", 300, true);}
 //Ÿ—D‚µ‚­
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100350hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100350hd">
 "You're awake&, Nishijou-san&."
 
 She soon gave me a gentle smile&.
 Paralyzed&, I averted my eyes from her&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100360hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100360hd">
 "How are you feeling?"
 
 Hazuki-san held a thermometer out to me; the gesture came naturally to
 her&. I just sort of ended up taking it&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100370hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100370hd">
 "Please measure your temperature&, okay?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100380ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100380ta">
+"&.&.&.&.&.&.&."
 
 I gulped as I accepted the thermometer&.
 
 {	MusicStart("@CH12", 2000, 1000, 0, 1000, null, true);}
---It was the same&.
+\It was the same&.
 
 We were repeating the same thing as before&.
 Hazuki-san acted like she'd entered the room for the first time&.
 
 I tentatively felt at my armpit&.
 I'd stuck a thermometer in there just a second ago&.
-Despite that&.&.&.&.
+Despite that&.&.&.
 
 Gone&.
 
 The thermometer had disappeared&.
 
-Which meant it had been a delusion after all&.&.&.&.
+Which meant it had been a delusion after all&.&.&.
 
 The tension in my body unwound&.
 But I couldn't fully fall into a feeling of relief&.
@@ -572,7 +572,7 @@ psychiatric ward&.
 Or perhaps they'd deemed that my collapse had been caused by
 psychological factors?
 
-But&.&.&.&. that wouldn't be too far off the mark&.&.&.&.
+But&.&.&. that wouldn't be too far off the mark&.&.&.
 
 I grew more and more glum&.
 
@@ -598,22 +598,22 @@ I grew more and more glum&.
 <PRE box00>
 [text009]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100390hd">
-"Your family came to see you yesterday&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100390hd">
+"Your family came to see you yesterday&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100400hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100400hd">
 "But since your consciousness wasn't returning&, they went home around
 midnight&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100410hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100410hd">
 "Today your mother plans on coming at opening hours&."
 
 Lacking the energy to answer&, I nodded at her&.
 
-Mom&.&.&.&. I must be the most disgraceful son in Japan&, no&, in the
-whole world&.&.&.&.
+Mom&.&.&. I must be the most disgraceful son in Japan&, no&, in the
+whole world&.&.&.
 
 I'd been broadcast on live TV&, of all things&.
 My moment of shame had aired throughout the nation of Japan&.
@@ -631,20 +631,20 @@ controlled by "Shogun&."
 In any case&, I'd been publicly disgraced&.
 This wasn't something mild enough to stop at an online lynching&.
 
-Would I be able to live uneventfully from now on&.&.&.&.?
+Would I be able to live uneventfully from now on&.&.&.?
 
 Suddenly&, Nanami's face rose at the back of my mind&.
 I bit my lip and clenched at my knees&.
 
-Even so&, if I had been able to help Nanami--none of it would've been
+Even so&, if I had been able to help Nanami\none of it would've been
 a problem&.
 
 I wouldn't have minded even if everyone in the world laughed mockingly
 at me&, saying "What a pathetic guy&," for the rest of my life&.
 
-But I&.&.&.&.
+But I&.&.&.
 
-I hadn't even been able to save Nanami&.&.&.&.
+I hadn't even been able to save Nanami&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -654,8 +654,8 @@ I hadn't even been able to save Nanami&.&.&.&.
 <PRE box00>
 [text010]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100420ta">
-"Nana&.&.&.&.&.&.&.&.&.uu&.&.&.&.uu&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100420ta">
+"Nana&.&.&.&.&.&.&.uu&.&.&.uu&.&.&.&."
 
 Great big tears poured out of me&.
 
@@ -663,7 +663,7 @@ Great big tears poured out of me&.
 	FadeStand("stu”T_”’ˆß_’Êí_worry", 300, false);
 	DeleteStand("stu”T_”’ˆß_’Êí_normal", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100430hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100430hd">
 "Wh&, what's the matter? Are you in pain?"
 
 I went on weeping as I shook my head over and over&.
@@ -680,7 +680,7 @@ It was my fault&. My fault&. My fault&. My fault&.
 Because I was useless&.
 Nanami had died&.
 
-Coaxed by Seira-tan's--rather&, my weak heart's--words&, I'd been in a
+Coaxed by Seira-tan's\rather&, my weak heart's\words&, I'd been in a
 rush to give up on obtaining my Di-Sword&.
 
 I'd viewed myself as a poor little victim&. I'd chosen to stay alive&,
@@ -688,7 +688,7 @@ even at the cost of sacrificing Nanami&.
 
 I loathed my no-good self from the bottom of my heart&.
 
-If&, back then--
+If&, back then\
 If I had tried only a little harder&.
 
 Even though it had been my own decision to give up&, I looked back
@@ -698,14 +698,14 @@ That was the absolute worst thing about me&. Thoughts wouldn't save
 anyone&.
 Even so&, I couldn't help thinking along these lines&.
 
-I'd try a little harder if only I could rewind time and go back--
+I'd try a little harder if only I could rewind time and go back\
 
 Although if I actually did go back there&, I'd surely make the same
 excuses and give up again&.
 
 I'm always like that&.
 
-I truly was beyond helping&.&.&.&.
+I truly was beyond helping&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -715,31 +715,31 @@ I truly was beyond helping&.&.&.&.
 <PRE box00>
 [text011]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100440ta">
-"Nanami&, I'm sorry&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100440ta">
+"Nanami&, I'm sorry&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100450ta">
-"Nanami&.&.&.&.&. uu&, uuuh&.&.&.&. sniffle&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100450ta">
+"Nanami&.&.&.&. uu&, uuuh&.&.&. sniffle&.&.&."
 
 Hazuki-san rubbed my back as though to soothe me&.
 
 I was a hopeless guy&, through and through&.
-I was even giving an unrelated nurse a hard time&.&.&.&.
+I was even giving an unrelated nurse a hard time&.&.&.
 
 But my tears wouldn't do me the favor of stopping&.
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100460hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100460hd">
 "You seem to regret something&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100470hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100470hd">
 "But I'm sure your little sister will forgive you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100480ta">
-"&.&.&.&.&.&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100480ta">
+"&.&.&.&.&.&.&.?"
 
 How did she know Nanami was my little sister?
 
@@ -750,8 +750,8 @@ I feel like&.
 I truly detested and felt ashamed of myself&, always being spoiled by
 others&, only thinking of myself&.
 
-A person like me ought to die&.&.&.&.
-Maybe I should seriously give death a try&.&.&.&.
+A person like me ought to die&.&.&.
+Maybe I should seriously give death a try&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -761,27 +761,27 @@ Maybe I should seriously give death a try&.&.&.&.
 <PRE box00>
 [text012]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100490hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100490hd">
 "She was endlessly worried about you yesterday&, too&."
 
 {	Stand("buu”T_”’ˆß_’Êí","smile", 200, @+150);
 	FadeStand("buu”T_”’ˆß_’Êí_smile", 300, false);
 	DeleteStand("buu”T_”’ˆß_’Êí_worry", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100500hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100500hd">
 "She seems like a very sweet little sister&."
 
-"What're you saying&.&.&.&.?"
+"What're you saying&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100510ta">
-"Nanami&.&.&.&. my little sister&.&.&.&. she died&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100510ta">
+"Nanami&.&.&. my little sister&.&.&. she died&.&.&."
 
 Abducted by "Shogun&."
 With her arm cu<pre>t</pre> off&.
 Confined somewhere&.
 
-In the end&, she had probably died alone&.&.&.&.
+In the end&, she had probably died alone&.&.&.
 
 My heart seemed about to tear asunder when I imagined it&.
 
@@ -789,12 +789,12 @@ My heart seemed about to tear asunder when I imagined it&.
 	FadeStand("buu”T_”’ˆß_’Êí_worry", 300, false);
 	DeleteStand("buu”T_”’ˆß_’Êí_smile", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100520hd">
-"&.&.&.&.Has she really?"
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100520hd">
+"&.&.&.Has she really?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100530hd">
-"I'm sorry&, I've made some kind of mistake&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100530hd">
+"I'm sorry&, I've made some kind of mistake&.&.&."
 
 Until now&, I'd always thought Nanami was obnoxious&.
 But when you got down to it&, we were siblings who'd been raised
@@ -827,7 +827,7 @@ Her only big brother
 And an individual human being&.
 
 Her existence had been a huge source of support for me&.
-Though it was too late to realize it now&.&.&.&.
+Though it was too late to realize it now&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -838,14 +838,14 @@ Though it was too late to realize it now&.&.&.&.
 [text013]
 //Ÿ“Æ‚èŒ¾
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100540hd">
-"But then I wonder what it meant when she called you 'Bro'&.&.&.&.?"
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100540hd">
+"But then I wonder what it meant when she called you 'Bro'&.&.&.?"
 
-&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.Eh?
+&.&.&.&.&.&.&.&.&.&.&.&.&.Eh?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100550ta">
-"&.&.&.&.Eh?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100550ta">
+"&.&.&.Eh?"
 
 Not quite comprehending what she'd said&, I raised my head&.
 The blurriness of tears made it hard to see Hazuki-san's expression&.
@@ -853,13 +853,13 @@ The blurriness of tears made it hard to see Hazuki-san's expression&.
 What had she said just now?
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100560hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100560hd">
 "She called to you over and over as you slept&, saying&, 'Bro&,
-Bro'&.&.&.&. I suppose it made a strong impression on me&." 
+Bro'&.&.&. I suppose it made a strong impression on me&."
 
-A person who calls me that&.&.&.&.
+A person who calls me that&.&.&.
 
-There's only one&.&.&.&.!
+There's only one&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -869,7 +869,7 @@ There's only one&.&.&.&.!
 <PRE box00>
 [text014]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100570ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100570ta">
 "I&, is&, is&, is&, is that really true!?"
 
 I unthinkingly sprang out of bed and pressed in on Hazuki-san&.
@@ -878,56 +878,56 @@ I unthinkingly sprang out of bed and pressed in on Hazuki-san&.
 	FadeStand("buu”T_”’ˆß_’Êí_shock", 300, false);
 	DeleteStand("buu”T_”’ˆß_’Êí_worry", 300, true);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100580hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100580hd">
 "Ye&, yes? What is?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100590ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100590ta">
 "Na&, Na&, Nanami came!? M&, my little sister&, Nanami&, she ca&, came
 here!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100600hd">
-"Um&, well&.&.&.&. I didn't specifically hear her name&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100600hd">
+"Um&, well&.&.&. I didn't specifically hear her name&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100610ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100610ta">
 "Sh&, sh&, she called me Bro&, di&, didn't she!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100620hd">
-"Ye&, yes&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100620hd">
+"Ye&, yes&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100630ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100630ta">
 "Wh&, wh&, where is Nanami now!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100640hd">
-"Um&, like I said&, she went home yesterday&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100640hd">
+"Um&, like I said&, she went home yesterday&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100650hd">
-"Together with your mother&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100650hd">
+"Together with your mother&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100660ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100660ta">
 "Wounded! Wa&, was she wounded or anything!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100670hd">
-"Huh? No&, not particularly&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100670hd">
+"Huh? No&, not particularly&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100680ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100680ta">
 "She was fine&, wa&, wasn't she!? Nanami wa&, was fine&, wasn't she!?"
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100690hd">
-"Ye&, yes&.&.&.&. Ah&, no&, I don't know whether or not she was
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100690hd">
+"Ye&, yes&.&.&. Ah&, no&, I don't know whether or not she was
 Nanami-san&, but the girl who came here yesterday seemed fine&."
 
-&.&.&.&.Nanami was alive&.
+&.&.&.Nanami was alive&.
 
 As far as I could tell from Hazuki-san's words&, there was no
 mistaking it&.
@@ -959,23 +959,23 @@ According to Hazuki-san&, Nanami hadn't been injured at all&.
 [text015]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13100700su">
+<voice name="z–K" class="z–K" src="voice/ch07/13100700su">
 "The hand I sent to your house might belong to someone else&, you
 know?"
 
 {	Fade("•", 1000, 0, null, true);
 	Delete("•");}
-Those words hadn't been a lie&.&.&.&.
+Those words hadn't been a lie&.&.&.
 I'd been dancing on the palm of Shogun's hand&.
 
-He'd only been deceiving me&.&.&.&.
+He'd only been deceiving me&.&.&.
 No&, at this point I didn't care a bit about getting deceived&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100710ta">
-"I&, I see&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100710ta">
+"I&, I see&.&.&."
 
-I see&, that's how it was&.&.&.&.
+I see&, that's how it was&.&.&.
 That's how it was&.
 
 Nanami had never been kidnapped from the start!
@@ -993,8 +993,8 @@ karaoke with her friends and showcasing her shitty singing voice&.
 [text016]
 //Ÿ‹ƒ‚«‚È‚ª‚çÎ‚¤
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100720ta">
-"Ha&, hahaha&.&.&.&. sob&, haha&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100720ta">
+"Ha&, hahaha&.&.&. sob&, haha&.&.&."
 
 Despite the fact that I was crying&, laughter bubbled up inside me&.
 
@@ -1003,19 +1003,19 @@ Despite the fact that I was crying&, laughter bubbled up inside me&.
 	DeleteStand("buu”T_”’ˆß_’Êí_shock", 300, true);}
 //Ÿ¢˜f
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch07/13100730hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch07/13100730hd">
 "Ni&, Nishjou-san?"
 
 //Ÿ‹ƒ‚«‚È‚ª‚çÎ‚¤
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100740ta">
-"Haha&, Sho&, "Shogun"&.&.&.&. to&, totally tricked me&.&.&.&.
-sniffle&, hahaha&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100740ta">
+"Haha&, Sho&, "Shogun"&.&.&. to&, totally tricked me&.&.&.
+sniffle&, hahaha&.&.&."
 
 //Ÿ‹ƒ‚«‚È‚ª‚çÎ‚¤
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100750ta">
-"Wh&, what a magnificent hoax&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100750ta">
+"Wh&, what a magnificent hoax&.&.&."
 
 Nanami was alive&.
 She was alive!
@@ -1028,15 +1028,15 @@ The thought of it filled my whole heart with relief&, and joy surged
 through me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100760ta">
-"Thank god&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100760ta">
+"Thank god&.&.&."
 
 My tears wouldn't stop&.
 But these weren't the tears of frustration I'd wept previously&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/13100770ta">
-"Thank god&.&.&.&. uuu&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100770ta">
+"Thank god&.&.&. uuu&.&.&."
 
 I was a useless guy&, beyond all salvation&.
 Yesterday&, too&, I'd given up on trying to do something about it with
@@ -1046,7 +1046,7 @@ But even so&, as long as Nanami were alive&, I wouldn't seek anything
 else&.
 Like Ifd cared if the rest of the world mocked me with its laughter&.
 
-I was truly glad&.&.&.&.
+I was truly glad&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

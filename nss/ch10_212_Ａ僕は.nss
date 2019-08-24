@@ -47,45 +47,45 @@ function ch10_212_‚`–l‚Í()
 <PRE box00>
 [text001]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200010jn">
-"I couldn't do anything&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200010jn">
+"I couldn't do anything&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200020jn">
-"You took action&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200020jn">
+"You took action&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200030jn">
-"As a result&, everyone saw you&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200030jn">
+"As a result&, everyone saw you&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200040jn">
-"The local shared recognition known as you has long since reached 
-completion&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200040jn">
+"The local shared recognition known as you has long since reached
+completion&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200050jn">
-"From now on; no&, already&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200050jn">
+"From now on; no&, already&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200060jn">
-"You yourself are--" 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200060jn">
+"You yourself are\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001230ta">
-"I&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001230ta">
+"I&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001240ta">
-"I am?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001240ta">
+"I am?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001250ta">
-"You are?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001250ta">
+"You are?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001260ta">
-"Who?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001260ta">
+"Who?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -104,8 +104,8 @@ completion&."
 <PRE box00>
 [text002]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001270ta">
-"You are me&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001270ta">
+"You are me&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -145,8 +145,8 @@ completion&."
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001280ta">
-"I am you&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001280ta">
+"I am you&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -188,8 +188,8 @@ completion&."
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001290ta">
-"I don't exist&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001290ta">
+"I don't exist&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -233,8 +233,8 @@ completion&."
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001300ta">
-"You don't exist&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001300ta">
+"You don't exist&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -275,8 +275,8 @@ completion&."
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001310ta">
-"I'm not me&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001310ta">
+"I'm not me&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -327,8 +327,8 @@ completion&."
 <PRE box00>
 [text007]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/21200070na">
-"You are my bro&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/21200070na">
+"You are my bro&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -383,8 +383,8 @@ completion&."
 <PRE box00>
 [text008]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/21200080yu">
-"You are Nishijou-kun&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/21200080yu">
+"You are Nishijou-kun&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -440,8 +440,8 @@ completion&."
 <PRE box00>
 [text009]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/21200090ay">
-"You are Takumi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/21200090ay">
+"You are Takumi&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -497,8 +497,8 @@ completion&."
 <PRE box00>
 [text010]
 //y½z
-<voice name="½" class="½" src="ch10/21200100ko">
-"You are Takumi-shan&." 
+<voice name="½" class="½" src="voice/ch10/21200100ko">
+"You are Takumi-shan&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -553,8 +553,8 @@ completion&."
 <PRE box00>
 [text011]
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/21200110sn">
-"You are Nishijou&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/21200110sn">
+"You are Nishijou&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -610,8 +610,8 @@ completion&."
 <PRE box00>
 [text012]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21200120ri">
-"You are Taku&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/21200120ri">
+"You are Taku&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -656,8 +656,8 @@ completion&."
 <PRE box00>
 [text013]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001320ta">
-"I am me&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001320ta">
+"I am me&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -698,8 +698,8 @@ completion&."
 <PRE box00>
 [text014]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001330ta">
-"I am a delusionary existence&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001330ta">
+"I am a delusionary existence&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -741,8 +741,8 @@ completion&."
 <PRE box00>
 [text015]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001340ta">
-"I exist&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001340ta">
+"I exist&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -783,8 +783,8 @@ completion&."
 <PRE box00>
 [text016]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001350ta">
-"I am Nishijou Takumi&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001350ta">
+"I am Nishijou Takumi&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -824,8 +824,8 @@ completion&."
 
 	if($ƒoƒbƒg == 1)
 	{
-	}else
-	{
+		$‚`ƒGƒ“ƒhƒGƒsƒ[ƒO = false;
+	}else{
 		$‚`ƒGƒ“ƒhƒGƒsƒ[ƒO = true;
 	}
 
@@ -847,8 +847,8 @@ completion&."
 <PRE box00>
 [text017]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001360ta">
-I am-- 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001360ta">
+I am\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -885,12 +885,12 @@ I am--
 <PRE box00>
 [text100]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/21200130ri">
-"Taku--!"
+<voice name="—œ[" class="—œ[" src="voice/ch10/21200130ri">
+"Taku-!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001370ta">
-The instant I heard that voice&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001370ta">
+The instant I heard that voice&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -933,28 +933,28 @@ The instant I heard that voice&.
 <PRE box00>
 [text101]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001380ta">
-My consciousness secured me as myself&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001380ta">
+My consciousness secured me as myself&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001390ta">
-The sloppily stirred-up world gathered together all at once&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001390ta">
+The sloppily stirred-up world gathered together all at once&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001400ta">
-The chaos collected&, forming my Di-Sword&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001400ta">
+The chaos collected&, forming my Di-Sword&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001410ta">
-I returned to the shape I held as me&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001410ta">
+I returned to the shape I held as me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001420ta">
-The world returned to the shape it held as the world&. 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001420ta">
+The world returned to the shape it held as the world&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="chex/00001430ta">
-I am myself--! 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/chex/00001430ta">
+I am myself-!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -997,43 +997,43 @@ I am myself--!
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text018]
-My sight turned clear&. 
+My sight turned clear&.
 
-My body had healed&. 
+My body had healed&.
 
-My upper and lower halves were connected&. 
+My upper and lower halves were connected&.
 
-I stood on my own feet&. 
+I stood on my own feet&.
 
-The pain had utterly disappeared&. 
+The pain had utterly disappeared&.
 
-My heart was calm and still&. 
-
-//‚u‚e
-//ŸS‚Ìº
-//y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200140jn">
-"You did well to overcome the delusions&." 
+My heart was calm and still&.
 
 //‚u‚e
 //ŸS‚Ìº
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/21200150jn">
-"I entrust the last of my power to you&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200140jn">
+"You did well to overcome the delusions&."
 
-I recognized Rimi's form at the corner of my eye&.  
+//‚u‚e
+//ŸS‚Ìº
+//y«ŒRz
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/21200150jn">
+"I entrust the last of my power to you&."
 
-She was unhurt&. 
-She was looking at me&. 
-She was crying&. 
+I recognized Rimi's form at the corner of my eye&.
 
-Don't cry&. 
+She was unhurt&.
+She was looking at me&.
+She was crying&.
+
+Don't cry&.
 
 I tensed the hand with which
-I held my Di-Sword's hilt&. 
+I held my Di-Sword's hilt&.
 
-I tested the sensation of it&. 
-My arms moved properly&. 
+I tested the sensation of it&.
+My arms moved properly&.
 I'd completely come back to life&.
 
 </PRE>
@@ -1044,26 +1044,26 @@ I'd completely come back to life&.
 <PRE box00>
 [text019]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21200160nr">
-"This is&.&.&.&. truly fascinating&." 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21200160nr">
+"This is&.&.&. truly fascinating&."
 
 //Ÿ‹»•±‚µ‚Ä‹êÎ‚¢‚µ‚È‚ª‚ç
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/21200170nr">
-"You&.&.&.&. monstrosity&.&.&.&.!" 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21200170nr">
+"You&.&.&. monstrosity&.&.&.!"
 
-I fixed my eyes on Norose&. 
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21200180ta">
-"I know I'm a monster&. But this is" 
-
-In order to rescue Rimi&. 
-In order to destroy Noah II&. 
+I fixed my eyes on Norose&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21200190ta">
-"The delusion I wished for--" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21200180ta">
+"I know I'm a monster&. But this is"
+
+In order to rescue Rimi&.
+In order to destroy Noah II&.
+
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21200190ta">
+"The delusion I wished for\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

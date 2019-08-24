@@ -25,7 +25,7 @@ function ch01_019_‚P‚OŒ‚Q“ú–Ø()
 	SystemInit();
 	SystemSet();
 	
-//™Cut-70-----------------------------
+//™Cut-70\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 //‚a‚f//‹³º//—[•û
 	CreateBG(100, 1000, 0, 0, "cg/bg/bg018_01_0_‹³ºÈ‹ü_a.jpg");
@@ -43,15 +43,15 @@ function ch01_019_‚P‚OŒ‚Q“ú–Ø()
 [text001]
 //”Šw‹³t’j
 //y”Šw‹³tz
-<voice name="”Šw‹³t" class="”Šw‹³t" src="ch01/019000010mt">
+<voice name="”Šw‹³t" class="”Šw‹³t" src="voice/ch01/019000010mt">
 "Whoops&, it's already time&. The part we just covered will appear on
 the test&. Make sure you've taken good notes&. We'll stop here for
 today&."
 
 //“ú’¼‚ÍOZ‚Å‚¢‚¢‚©‚à
 //y“ú’¼z
-<voice name="“ú’¼" class="“ú’¼" src="ch01/019000020ni">
-"Rise&." 
+<voice name="“ú’¼" class="“ú’¼" src="voice/ch01/019000020ni">
+"Rise&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -67,13 +67,13 @@ today&."
 <PRE box00>
 [text002]
 //y“ú’¼z
-<voice name="“ú’¼" class="“ú’¼" src="ch01/019000030ni">
+<voice name="“ú’¼" class="“ú’¼" src="voice/ch01/019000030ni">
 "Bow&."
 
 {	CreateSE("SE03","SE_“úí_ŠwZ_‹³º_Loop");
 	MusicStart("SE03", 500, 500, 0, 1000, null, true);}
-Once the math teacher--what was his name again? Not like it
-mattered--left the classroom&, today's classes finally reached their
+Once the math teacher\what was his name again? Not like it
+mattered\left the classroom&, today's classes finally reached their
 end&.
 
 Everyone chattered about where they planned to go next&. While the
@@ -105,7 +105,7 @@ I started to think that maybe yesterday had been one big prank&, and
 as I waited here&, she was watching me from the shadows and giggling&.
 
 In a certain sense&, that might be better than if she really
-came&.&.&.&.
+came&.&.&.
 
 In fact&, there was no need to wait for her so faithfully&. Wouldn't
 it be fine if I forgot all about her and left?
@@ -136,61 +136,61 @@ Decision made&, I stood up&.
 <PRE box00>
 [text003]
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900040mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900040mi">
 "Taku! Whatcha doing?"
 
-Someone pounded me on the back&. 
-I didn't have to see his face to know whose doing it was&. 
+Someone pounded me on the back&.
+I didn't have to see his face to know whose doing it was&.
 Misumi-kun was the only person in the class curious enough to call out
 to me&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900050mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900050mi">
 "You aren't going home? You always disappear right when the bell
 rings&. I'd secretly named it 'Takumi's supersonic flight home&,'
 man&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900060ta">
-"I&, I'm leaving now&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900060ta">
+"I&, I'm leaving now&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 0, true);}
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900070mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900070mi">
 "You waiting for someone?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900080ta">
-"Eh&.&.&.&.!?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900080ta">
+"Eh&.&.&.!?"
 
-How'd he know&.&.&.&.!?
+How'd he know&.&.&.!?
 
 {	Stand("bu‘å•ã_§•_’Êí","sigh", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900090mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900090mi">
 "Bull's-eye&, huh?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900100ta">
-"How&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900100ta">
+"How&.&.&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900110mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900110mi">
 "Cause you looked extra fidgety&. And you kept checking out the
 classroom entrance&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900120ta">
-"&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900120ta">
+"&.&.&.&.&."
 
-He's sharp&.&.&.&. 
+He's sharp&.&.&.
 
-But it'd be better not to saying anything careless here&. 
+But it'd be better not to saying anything careless here&.
 You mustn't forget&, Takumi&. At this school&, you've gotta stand out
 as little as possible&. You've gotta be like air&.
 
@@ -203,19 +203,19 @@ as little as possible&. You've gotta be like air&.
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900130ta">
-"I'm not really waiting for anyone&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900130ta">
+"I'm not really waiting for anyone&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 0, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900140mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900140mi">
 "Oh? Then what was with that pause just now?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900150ta">
-"Th&, that was&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900150ta">
+"Th&, that was&.&.&."
 
 //‚í‚´‚Æu‹ó‹C‰Åv‚Å‚·B
 {#TIPS_‹ó‹C‰Å=true;}
@@ -223,8 +223,8 @@ Shit&. Misumi-kun wasn't a bad guy&, but he could really get obnoxious
 at times like this&. <FONT incolor="#88abda" outcolor="BLACK">Learn to read between the lines</FONT>&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900160yu">
-"Nishijou-kun&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900160yu">
+"Nishijou-kun&."
 
 I twitched&.
 
@@ -244,10 +244,10 @@ I twitched&.
 <PRE box00>
 [text005]
 Looking gingerly in the direction Yua's voice had come from&, I saw
-her standing timidly at the entrance to our classroom&. 
+her standing timidly at the entrance to our classroom&.
 
-What a mess&.&.&.&. It was Misumi-kun's fault that I'd lost my chance
-to escape&.&.&.&.
+What a mess&.&.&. It was Misumi-kun's fault that I'd lost my chance
+to escape&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -268,23 +268,23 @@ to escape&.&.&.&.
 <PRE box00>
 [text006]
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900170mi">
-"Whoa&, hey&, what's going on!? What is this!?" 
+<voice name="OZ" class="OZ" src="voice/ch01/01900170mi">
+"Whoa&, hey&, what's going on!? What is this!?"
 
-Unusually for him&, Misumi-kun seemed shaken&. 
+Unusually for him&, Misumi-kun seemed shaken&.
 Throwing an arm around my shoulder&, he looked at me steadily&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900180mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900180mi">
 "Hey&, Taku&. Explain yourself&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900190mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900190mi">
 "She's your girl?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900200ta">
-"It&, it's not like that&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900200ta">
+"It&, it's not like that&.&.&."
 
 I'd told Misumi-kun a million times that I had no interest in the
 third dimension&.
@@ -293,26 +293,26 @@ third dimension&.
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_shock", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900210mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900210mi">
 "So what is it&, then~? Let me say off the bat that I won't fall for
 it if you try to say she's your sister or something&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900220mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900220mi">
 "You're a hikikomori&. Where and how the hell did you get to meet a
 hottie like her?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900230ta">
-"Ye&, yesterday she started hanging around me all of a sudden&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900230ta">
+"Ye&, yesterday she started hanging around me all of a sudden&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","shock", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900240mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900240mi">
 "So&, in other words&, you got reverse-picked-up&, huh? Ehhh&, you
-little!" 
+little!"
 
 He grabbed me by the jaw until I started to wobble&.
 With that&, Misumi-kun finally released me&.
@@ -321,23 +321,23 @@ With that&, Misumi-kun finally released me&.
 	FadeStand("bu‘å•ã_§•_’Êí_normal", 500, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_shock", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900250mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900250mi">
 "Got it&, so I guess there's some pretty curious types out there&. But
 hey&, I'm a little relieved to see you've got normal inclinations&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900260ta">
-"I&, inclinations&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900260ta">
+"I&, inclinations&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900270ta">
-"Anyway&, we're not really&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900270ta">
+"Anyway&, we're not really&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","smile", 200, @+100);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900280mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900280mi">
 "Heheheh&, is that so? Keep it up&, Taku!"
 
 {	CreateSE("SE05","SE_ÕŒ‚_ÕŒ‚‰¹03");
@@ -347,12 +347,12 @@ about it&, he thumped me on the back even more fiercely than before&.
 Uuh&, he was definitely teasing me&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900290mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900290mi">
 "No need to worry&, dude&. I won't steal your lady&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900300ta">
-"I&, I'm telling you&, she's not my&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900300ta">
+"I&, I'm telling you&, she's not my&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -374,29 +374,29 @@ Uuh&, he was definitely teasing me&.
 <PRE box00>
 [text007]
 //yOZz
-<voice name="OZ" class="OZ" src="ch01/01900310mi">
+<voice name="OZ" class="OZ" src="voice/ch01/01900310mi">
 "Hahaha&. C'mon&, get on over there&. Looks like she's tired of
 waiting&."
 
 As Misumi-kun drove me away&, I stumbled up to Yua&. In the end&, I
-hadn't been able to run away&.&.&.&.
+hadn't been able to run away&.&.&.
 
 {	Stand("bu—Dˆ¤_§•_’Êí","worry", 200, @-150);
 	FadeStand("bu—Dˆ¤_§•_’Êí_worry", 500, false);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900320yu">
-"Um&, I came to pick you up&.&.&.&. did it cause you any trouble?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900320yu">
+"Um&, I came to pick you up&.&.&. did it cause you any trouble?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900330ta">
-"Ah&, no&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900330ta">
+"Ah&, no&.&.&."
 
 It'd caused me tons of trouble&.
 
 When I took a look back at Misumi-kun&, he grinned and stuck his
 middle finger up at me&. I had a hard time telling whether he was
-picking a fight with me or trying to encourage me&. 
+picking a fight with me or trying to encourage me&.
 
 It'd be aggravating to keep dealing with him&. I'd better get out of
 school posthaste&.
@@ -430,68 +430,68 @@ school posthaste&.
 <PRE box00>
 [text008]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900340yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900340yu">
 "I'm sorry to ask this of you&, even though we met only
-yesterday&.&.&.&."
+yesterday&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900350ta">
-"Nah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900350ta">
+"Nah&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900360yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900360yu">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900370ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900370ta">
+"&.&.&.&.&.&.&."
 
-S&, so nervous&.&.&.&.
+S&, so nervous&.&.&.
 
 //ƒŠƒA[uƒŠƒAƒ‹‚ªA[À‚µ‚Ä‚¢‚élv
 {#TIPS_ƒŠƒA[=true;}
 Going home from school together with a 3-D girl&, why&, that almost
 made it seem like I <FONT incolor="#88abda" outcolor="BLACK">had a life</FONT>&.
-I'd thought that kind of thing belonged in a world with no relation to me&. 
+I'd thought that kind of thing belonged in a world with no relation to me&.
 
-I'd never have dreamed of being able to experience it&.&.&.&. 
+I'd never have dreamed of being able to experience it&.&.&.
 
 But at the moment&, I was coming under silent pressure from Yua&. How
 could I be so nervous when all we were doing was walking side by
-side? 
+side?
 
-And I had no clue as to Yua's true identity or her goal&. 
-What could she expect from a creepy otaku like me&.&.&.&.?
+And I had no clue as to Yua's true identity or her goal&.
+What could she expect from a creepy otaku like me&.&.&.?
 
 {	Stand("bu—Dˆ¤_§•_’Êí","normal", 200, @+100);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí_normal", 300, true);}
 //‚¨‚Æ‚Æ‚¢
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900380yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900380yu">
 "The day before yesterday"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900390ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900390ta">
 "Ehhh?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí","shock", 200, @+100);
 	FadeStand("bu—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_normal", 300, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900400yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900400yu">
 "Yes!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900410ta">
-"Ah&, forget it&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900410ta">
+"Ah&, forget it&.&.&."
 
 Since she'd started talking so suddenly&, startlement had made my
-voice come out weirdly&.&.&.&. 
+voice come out weirdly&.&.&.
 
 It seemed that Yua was nervous as well&. Her expression was strained&.
 It made her seem rather innocent&, for an older girl&. She might be
-unexpectedly moe&.&.&.&. 
+unexpectedly moe&.&.&.
 
 That said&, though&, it was all I could do just to glance at her out
 of the corners of my eyes&. Looking at her straight on shouldn't have
@@ -509,53 +509,53 @@ been a big deal&, but sheer embarrassment made it impossible for me&.
 <PRE box00>
 [text009]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900420yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900420yu">
 "The day before yesterday&, did you watch Burachu?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900430ta">
-"Eh&, ye&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900430ta">
+"Eh&, ye&, yeah&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí","worry", 200, @+100);
 	FadeStand("bu—Dˆ¤_§•_’Êí_worry", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900440yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900440yu">
 "There was one part that I still don't understand very well&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900450yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900450yu">
 "Susumu-kun came running to save Seira when she was in a pinch&,
 right? But how did Susumu-kun know Seira-chan was in danger?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900460ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900460ta">
 "Th&, that got&, er&, foreshadowed the week before&. They inserted a
-quick sce<pre>n</pre>e where Seira's cell phone starts ringing&, and the caller
-display shows Susumu's name&.&.&.&."
+quick sce<pre>n</pre>e where Seira's cell phone starts ringing&,
+and the caller display shows Susumu's name&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí","shock", 200, @+100);
 	FadeStand("bu—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_worry", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900470yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900470yu">
 "Ah&, ahh`!"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900480yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900480yu">
 "Now that you mention it&, there was a sce<pre>n</pre>e like that&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900490ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900490ta">
 "Yamataku likes sticking in lots of minor foreshadowing like that&.
 You can find the same kind of thing in Kingoru&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900500yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900500yu">
 "Yamataku? Kingoru?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900510ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900510ta">
 "Ya&, Yamataku is a fan nickname for Burachu's director&. And Kingoru
 is the anime he directed before Burachu&."
 
@@ -564,12 +564,12 @@ is the anime he directed before Burachu&."
 	DeleteStand("bu—Dˆ¤_§•_’Êí_shock", 0, false);}
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/01900520yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900520yu">
 "Hmm&. So Yamataku-san must be a famous director&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01900530ta">
-"Well&, I like his stuff&. If I had to say why--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900530ta">
+"Well&, I like his stuff&. If I had to say why\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

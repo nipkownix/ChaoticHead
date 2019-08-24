@@ -88,7 +88,7 @@ if($–Ï‘zƒgƒŠƒK[‚R‚Q == 2)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-I see&, then it was a delusion&.&.&.&.
+I see&, then it was a delusion&.&.&.
 
 {	MusicStart("@CH03", 2000, 1000, 0, 1000, null, false);}
 Including those blood-drenched juvies&, of course&.
@@ -98,19 +98,19 @@ Including those blood-drenched juvies&, of course&.
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //Ÿ‚í‚´‚Æu‚Å‚à‚Å‚àv‚Å‚·
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400010ko">
-"I'm not a delusion either&, either&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400010ko">
+"I'm not a delusion either&, either&."
 
-I can't think of you as anything but a delusion! 
+I can't think of you as anything but a delusion!
 
-You're the same as Seira-tan&. 
+You're the same as Seira-tan&.
 One of my brides who appears only in my mind&.
 
 {	Stand("bu½_§•_’Êí","shy2", 500, @+150);
 	FadeStand("bu½_§•_’Êí_shy2", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400020ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400020ko">
 "Ko&, Kozu-pii doesn't remember becoming your bride!"
 
 {	CreateColor("F‚P", 500, 0, 0, 800, 600, "Black");
@@ -119,13 +119,13 @@ One of my brides who appears only in my mind&.
 	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","angry", 550, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 300, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch07/14400030se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch07/14400030se">
 "Rather&, you mustn't cheat on me&, Takkii&. I want you to only look
 at me&."
 
 //ŸX‚Ë‚½Œû’²
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch07/14400040se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch07/14400040se">
 "You dummy&."
 
 {	CreateColor("F‚Q", 600, 0, 0, 800, 600, "Black");
@@ -137,20 +137,20 @@ at me&."
 You'll always be my wife&, Seira-tan&.
 
 In the first place&, I didn't have any recollection of an
-idiotic-sounding character like this Kozu-pii&.&.&.&.
+idiotic-sounding character like this Kozu-pii&.&.&.
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_shy2", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400050ko">
-"Eeuu&.&.&.&. Idiotic-sounding? Sounding?"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400050ko">
+"Eeuu&.&.&. Idiotic-sounding? Sounding?"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400060ko">
-"But&, buuuut&, I'm really nooot a hallucination or a delusion&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400060ko">
+"But&, buuuut&, I'm really nooot a hallucination or a delusion&."
 
-Then who are you? 
+Then who are you?
 Surely not the transfer student fidgeting right in front of me?
 
 </PRE>
@@ -165,14 +165,14 @@ Surely not the transfer student fidgeting right in front of me?
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400070ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400070ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 The transfer student gave a small nod&.
 
 {	MusicStart("@CH03", 1000, 1000, 0, 1000, null, false);}
-Eh&, you&, you're kidding&.&.&.&.
+Eh&, you&, you're kidding&.&.&.
 It must've been a mere coincidence&.
 
 And it had appeared as if she were nodding&, but thinking so might've
@@ -182,30 +182,30 @@ been some kind of mistake on my part&.
 	FadeStand("bu½_§•_’Êí_angry", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400080ko">
-"That's--what--I'm--telling--you--! Kozu-pii is Kozu-pii!" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400080ko">
+"That's\what\I'm\telling\you-! Kozu-pii is Kozu-pii!"
 
-That's completely&, impossibly&, impossible! 
+That's completely&, impossibly&, impossible!
 Like you can pull off this telepathy-esque stuff!
 
 {	Stand("bu½_§•_³–Ê","sad", 500, @+150);
 	DeleteStand("bu½_§•_’Êí_angry", 500, true);
 	FadeStand("bu½_§•_³–Ê_sad", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400090ko">
-"Unyuu~&, how can I make you believe me?" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400090ko">
+"Unyuu~&, how can I make you believe me?"
 
 What did she mean by "Unyuu~"?
-The transfer student looked vaguely sad&, so I couldn't quite tell&. 
+The transfer student looked vaguely sad&, so I couldn't quite tell&.
 
-Dammit&.&.&.&. I was getting fed up with this&.
+Dammit&.&.&. I was getting fed up with this&.
 
 If you're gonna say that&, Kozu-pii or whoever&, gimme some proof that
 you're the transfer student&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400100ko">
-"Proof&.&.&.&.?"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400100ko">
+"Proof&.&.&.?"
 
 What're your three sizes?
 
@@ -222,61 +222,61 @@ What're your three sizes?
 [text003]
 //Ÿ‹¯‚¦‚é
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400110ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400110ko">
 "Hiuuu"
 
 {	Stand("bu½_§•_’Êí","shy", 500, @+150);
 	FadeStand("bu½_§•_’Êí_shy", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400120ko">
-"Nishijou-kun&.&.&.&. You're a peeeervert&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400120ko">
+"Nishijou-kun&.&.&. You're a peeeervert&.&.&."
 
-So she couldn't answer&. 
+So she couldn't answer&.
 Which meant she was a delusion of mine&, after all&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400130ko">
-"&.&.&.&.Upii~"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400130ko">
+"&.&.&.Upii~"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400140ko">
-"Kozu-pii's neeever really measured her three sizes&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400140ko">
+"Kozu-pii's neeever really measured her three sizes&.&.&."
 
-Then just the bust is fine&. 
+Then just the bust is fine&.
 Give me an approximate number&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400150ko">
-"So embarrassing&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400150ko">
+"So embarrassing&.&.&."
 
-&.&.&.&.Hmmm&.
+&.&.&.Hmmm&.
 I got a little turned off by the overly lecherous conversation taking
-placing in my own brain&.&.&.&.
+placing in my own brain&.&.&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400160ko">
-"About&.&.&.&. 73cm&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400160ko">
+"About&.&.&. 73cm&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400170ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400170ta">
+"&.&.&.&.&.&.&."
 
-The transfer student was flat-chested&, that's for sure&. 
-Okay&, so the dots connected there&, at least&. 
+The transfer student was flat-chested&, that's for sure&.
+Okay&, so the dots connected there&, at least&.
 On a side note&, I dig tiny breasts&.
 
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400180ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400180ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 For some reason&, the transfer student's face went red&. Her body&,
-already small enough&, shrunk even further into itself&. 
+already small enough&, shrunk even further into itself&.
 
---A coincidence&. 
+\A coincidence&.
 
 The voice and her reaction had simply happened to synch up&. Besides&,
 what she'd said hardly counted as proof&.
@@ -285,14 +285,14 @@ what she'd said hardly counted as proof&.
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_shy", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400190ko">
-"I answered just&, juuust right!" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400190ko">
+"I answered just&, juuust right!"
 
 Come on&, I had no way of knowing the transfer student's bust size&.
 I'd be up for arrest if I asked her to please let me measure it&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400200ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400200ko">
 "Unyuu~"
 
 Fine&, so what's your birthday?
@@ -301,12 +301,12 @@ Fine&, so what's your birthday?
 	FadeStand("bu½_§•_’Êí_smile", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400210ko">
-"That's easy&. November 13&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400210ko">
+"That's easy&. November 13&."
 
 Hmmm&.
 
-Well&, not that I could easily double-check that&, either&. 
+Well&, not that I could easily double-check that&, either&.
 
 I'd have gotten a life long ago if I were capable of asking a 3-D girl
 who I'd hardly ever talked to&, "When's your birthday?"
@@ -325,31 +325,31 @@ who I'd hardly ever talked to&, "When's your birthday?"
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400220ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400220ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 The transfer student&, who had been hanging her head in front of me&,
-abruptly began rummaging around inside her bag&. 
+abruptly began rummaging around inside her bag&.
 
-She pulled something out and thrust it at me&, teary-eyed&. 
+She pulled something out and thrust it at me&, teary-eyed&.
 
 It was a student ID handbook&.
-Still all but brand new&. 
+Still all but brand new&.
 
 When I opened the cover&, her headshot and the name "Orihara Kozue"
-appeared&, along with her date of birth&.  
+appeared&, along with her date of birth&.
 
-Her date of birth&.&.&.&. 
-My attention unthinkingly went toward it&. 
-Written there was-- 
+Her date of birth&.&.&.
+My attention unthinkingly went toward it&.
+Written there was\
 
 November 13&.
 
 {	MusicStart("@CH*", 1000, 0, 0, 0, null, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400230ta">
-"Eh&, no&.&.&.&. way&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400230ta">
+"Eh&, no&.&.&. way&.&.&."
 
 {	Stand("bu½_§•_’Êí","shy", 500, @+150);
 	DeleteStand("bu½_§•_³–Ê_sad", 500, false);
@@ -357,30 +357,30 @@ November 13&.
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //Ÿ’p‚¸‚©‚µ‚»‚¤‚ÈƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400240ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400240ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 Come to think of it&, her name&.
-As far as I could tell from her ID&, the transfer student was&.&.&.&. 
+As far as I could tell from her ID&, the transfer student was&.&.&.
 
-Orihara Kozue&. 
-Kozue&. 
+Orihara Kozue&.
+Kozue&.
 Kozu-pii&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400250ta">
-"For&, for real&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400250ta">
+"For&, for real&.&.&."
 
 {	Stand("bu½_§•_’Êí","normal", 500, @+150);
 	FadeStand("bu½_§•_’Êí_normal", 300, false);
 	DeleteStand("bu½_§•_’Êí_shy", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400260ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400260ko">
 "That's whyyy&, that's whyyy I said it from the start&. I'm
-Kozu-pii&." 
+Kozu-pii&."
 
-Was this really not a delusion&.&.&.&.?
+Was this really not a delusion&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -412,7 +412,7 @@ if($–Ï‘zƒgƒŠƒK[‚R‚Q == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
-Which meant--
+Which meant\
 
 {	CreateTexture("”wŒi‚O",700, 0, 0, "SCREEN");
 	CreateColor("•", 1000, 0, 0, 800, 600, "Black");
@@ -427,7 +427,7 @@ A vocal attack by "Shogun"!?
 Was he monitoring my thoughts!?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400270ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400270ko">
 "Shooogun? Gun?"
 
 </PRE>
@@ -460,57 +460,57 @@ Was he monitoring my thoughts!?
 He was attacking me via satellite!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400280ta">
-"Hiiii" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400280ta">
+"Hiiii"
 
 {	CreateColor("•‚P", 1000, 0, 0, 800, 600, "Black");
 	DrawTransition("•‚P", 200, 0, 1000, 100, null, "cg/data/down2.png", true);
 	Delete("‹ó");
 	SetVolume("SE01", 0, 500, null);}
-Crumpling under the pressure&, I cradled my head and squatted 
+Crumpling under the pressure&, I cradled my head and squatted
 in place&.
 
-He was gonna kill me! 
+He was gonna kill me!
 He was gonna kill me this time&, for sure!
 
-I hadn't done as he said at O-Front&, so he'd moved into action 
-like this out of fury at me! 
+I hadn't done as he said at O-Front&, so he'd moved into action
+like this out of fury at me!
 
-What should I do&, how could I protect myself from his barrage? 
+What should I do&, how could I protect myself from his barrage?
 
-As I thought about it&, I found myself flung into despair&. 
+As I thought about it&, I found myself flung into despair&.
 
-I had nowhere to run--
+I had nowhere to run\
 
-An invisible attack from outer space&, aimed at me with pinpoint 
-precision&. Even if I took cover&, it would pierce straight through 
-to me&, no doubt&.  There was nowhere I could hide or run&, anywhere 
-in Japan&. 
+An invisible attack from outer space&, aimed at me with pinpoint
+precision&. Even if I took cover&, it would pierce straight through
+to me&, no doubt&.  There was nowhere I could hide or run&, anywhere
+in Japan&.
 
-It was the end&.&.&.&. I'd already reached my end&.&.&.&. 
+It was the end&.&.&. I'd already reached my end&.&.&.
 
 //Ÿ‚±‚í[‚¢•|‚¢
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400290ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400290ko">
 "Are you scaaaared of Kozu-pii?"
 
-Whaddaya mean&, "Kozu-pii"! 
+Whaddaya mean&, "Kozu-pii"!
 You trying to knock me off-guard with such a moe voice!?
 
 Why&, why do you insist on prowling after me!
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400300ko">
-"Unyuu~&, I'm not prowling&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400300ko">
+"Unyuu~&, I'm not prowling&.&.&."
 
-What do you plan on doing with me!? 
+What do you plan on doing with me!?
 
-Explode my head? 
-Make my brain alone melt away into goop? 
-Or kill just my brain and turn me into a vegetable? 
+Explode my head?
+Make my brain alone melt away into goop?
+Or kill just my brain and turn me into a vegetable?
 
-No&.&.&.&. I didn't want that&.&.&.&. 
-I don't wanna die&.&.&.&.
+No&.&.&. I didn't want that&.&.&.
+I don't wanna die&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -527,8 +527,8 @@ I don't wanna die&.&.&.&.
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400310ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400310ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 Somebody prodded me in the shoulder as I curled up in a ball&,
@@ -547,27 +547,27 @@ and in the end she raised a tentative hand&.
 	DeleteStand("bu½_§•_³–Ê_sad", 500, true);
 	FadeStand("bu½_§•_’Êí_sad", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400320ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400320ko">
 "Kozu-pii is Kozu-pii&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400330ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400330ta">
+"Eh&.&.&.?"
 
 {	Stand("bu½_§•_’Êí","angry", 500, @+150);
 	FadeStand("bu½_§•_’Êí_angry", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400340ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400340ko">
 "KoEziEpiiEis!@KoEzuEpii!"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400350ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400350ko">
 "And Kozu-pii is Orihara Kozue&, not 'the transfer student&.'"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400360ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400360ta">
+"&.&.&.&.&.&.&."
 
 Orihara Kozue&. I could faintly recall hearing that name from
 Misumi-kun a long while ago&.
@@ -576,7 +576,7 @@ Kozue&.
 Kozue&.
 Kozu-pii&.
 
-No way&.&.&.&.
+No way&.&.&.
 
 This voice was being sent straight into my head?
 
@@ -586,18 +586,18 @@ This voice was being sent straight into my head?
 The transfer student nodded with all her might&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400370ta">
-"Te&, te&, telepathy&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400370ta">
+"Te&, te&, telepathy&.&.&.?"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400380ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400380ko">
 "I don't really know how it works&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400390ko">
-"But I can do it&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400390ko">
+"But I can do it&."
 
-That's ridiculous&.&.&.&.
+That's ridiculous&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -633,44 +633,44 @@ if($–Ï‘zƒgƒŠƒK[‚R‚Q == 0)
 Driven into a psychological corner&, I'd been unable to cope except by
 crafting a new personality in my head&.
 
-As Yua had said&, did I truly have multiple personalities--?
+As Yua had said&, did I truly have multiple personalities-?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400400ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400400ko">
 "Kozu-pii really is Kozu-pii&."
 
 //Ÿ‚Ğ‚Æ[l
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400410ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400410ko">
 "A different peeerson from Nishijou-kun&."
 
 I'd heard that ordinarily&, the various personalities of people with
-multiple personalities can't converse with each other&, but&.&.&.&. 
+multiple personalities can't converse with each other&, but&.&.&.
 Guess that meant I was special&.
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400420ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400420ko">
 "Kozu-pii is someone else!"
 
-I was sick of this&.&.&.&. 
+I was sick of this&.&.&.
 
 I wondered if&, sooner or later&, I would come to hear the voices of
-personalities other than this irritating "Kozu-pii&." 
+personalities other than this irritating "Kozu-pii&."
 
 For starters&, just how many personalities existed inside me? Although
 I'd read in some book that there was a patient in America who'd had
-twenty-four&. 
+twenty-four&.
 
-To go even further&. 
+To go even further&.
 
 It wasn't certain whether or not my personality was the main
-personality&. 
+personality&.
 
 Maybe the original occupant of Nishijou Takumi's flesh was a different
-personality&, not me&.&.&.&.
+personality&, not me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -686,38 +686,38 @@ personality&, not me&.&.&.&.
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400430ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400430ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 As I stood there&, zoning out&, the transfer student poked me in the
-shoulder&. 
+shoulder&.
 
 While doing so&, she attempted to speak&, but nothing came out&, and
 in the end she raised a tentative hand&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400440ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400440ko">
 "Kozu-pii is Kozu-pii&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400450ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400450ta">
+"Eh&.&.&.?"
 
 {	Stand("bu½_§•_’Êí","angry", 500, @+150);
 	DeleteStand("bu½_§•_³–Ê_sad", 500, true);
 	FadeStand("bu½_§•_’Êí_angry", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400460ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400460ko">
 "KoEziEpiiEis!@KoEzuEpii!"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400470ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400470ko">
 "And Kozu-pii is Orihara Kozue&, not 'the transfer student&.'"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400480ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400480ta">
+"&.&.&.&.&.&.&."
 
 Orihara Kozue&. I could faintly recall hearing that name from
 Misumi-kun a long while ago&.
@@ -726,7 +726,7 @@ Kozue&.
 Kozue&.
 Kozu-pii&.
 
-No way&.&.&.&.
+No way&.&.&.
 
 This voice was being sent straight into my head?
 
@@ -736,18 +736,18 @@ This voice was being sent straight into my head?
 The transfer student nodded with all her might&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400490ta">
-"Te&, te&, telepathy&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400490ta">
+"Te&, te&, telepathy&.&.&.?"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400500ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400500ko">
 "I don't really know how it works&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400510ko">
-"But I can do it&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400510ko">
+"But I can do it&."
 
-That's ridiculous&.&.&.&.
+That's ridiculous&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -765,10 +765,10 @@ That's ridiculous&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-The source of the voice&.&.&.&. was her&.&.&.&. you mean?
+The source of the voice&.&.&. was her&.&.&. you mean?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400520ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400520ko">
 "Nishijou-kun&, are you ooookay?"
 
 Facing downward&, the transfer student looked up through her eyelashes
@@ -776,29 +776,29 @@ and pointed at my face&. Her fingertip trembled&.
 
 //Ÿ‚½‚ç‚è[‚Á‹[‰¹
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400530ko">
-"It's dripping&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400530ko">
+"It's dripping&."
 
 I touched my face&.
 The space beneath my nose was wet&. I had a nosebleed&.
 
-The transfer student offered me some pocket tissues&. 
+The transfer student offered me some pocket tissues&.
 
 I had an eerie feeling as I accepted them from her and wiped the blood
 coming out of my nose&.
 
-The transfer student--
+The transfer student\
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400540ko">
-"I'm 'Kozu-pii&,' you know?" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400540ko">
+"I'm 'Kozu-pii&,' you know?"
 
-Ko&, Kozu-pii wasn't moving her mouth&. She wasn't talking&. 
-Despite that&, why could I hear her voice&.&.&.&.
+Ko&, Kozu-pii wasn't moving her mouth&. She wasn't talking&.
+Despite that&, why could I hear her voice&.&.&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400550ko">
-"It's the voice of my heart&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400550ko">
+"It's the voice of my heart&."
 
 Don't talk like that&. It's a turn-off to hear it in the third
 dimension&.
@@ -807,18 +807,18 @@ dimension&.
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400560ko">
-"Fueeuu&, so&, soooorry&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400560ko">
+"Fueeuu&, so&, soooorry&.&.&."
 
 Hey&, could she hear the voice of my heart&, too!?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400570ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400570ko">
 "I can hear you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400580ta">
-"Wh&, why don't you ta&, talk normally&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400580ta">
+"Wh&, why don't you ta&, talk normally&.&.&.?"
 
 {	Stand("bu½_§•_’Êí","shy", 500, @+150);
 	FadeStand("bu½_§•_’Êí_shy", 300, false);
@@ -826,15 +826,15 @@ Hey&, could she hear the voice of my heart&, too!?
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //Ÿ’p‚¸‚©‚µ‚»‚¤‚ÈƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14400590ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400590ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400600ko">
-"It's embarrassing&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400600ko">
+"It's embarrassing&.&.&."
 
-I see&.&.&.&.
+I see&.&.&.
 I could understand how she felt&. Because I was the same&.
 
 {	Stand("bu½_§•_³–Ê","normal", 500, @+150);
@@ -844,10 +844,10 @@ She looked around nervously&, like a small animal&, took a glance at
 me&, than began walking toward the station by herself&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400610ko">
-"I think it'd be better to leeeave here&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400610ko">
+"I think it'd be better to leeeave here&."
 
-Why? 
+Why?
 Perplexed&, I followed her&.
 
 </PRE>
@@ -878,39 +878,39 @@ Perplexed&, I followed her&.
 I noticed it as I walked&.
 
 There was a stabbing pain in my side&. Since it throbbed every time I
-took a step&, I stopped when I couldn't stand it any longer&. 
+took a step&, I stopped when I couldn't stand it any longer&.
 
-I held my side and took a breath&. 
+I held my side and took a breath&.
 
-There were so many people&. 
-I frigging hate Shibuya&.&.&.&. 
+There were so many people&.
+I frigging hate Shibuya&.&.&.
 
-It felt like everyone who passed by was laughing at me&. 
+It felt like everyone who passed by was laughing at me&.
 It felt like all of them were watching me&.
 
-I began to think that everyone knew my face&. 
+I began to think that everyone knew my face&.
 
---Don't look at me&. 
---Don't laugh at me&.
+\Don't look at me&.
+\Don't laugh at me&.
 
-I wanted to rest someplace where there weren't any people&.&.&.&.
+I wanted to rest someplace where there weren't any people&.&.&.
 
 {	Stand("bu½_§•_’Êí","smile", 500, @+150);
 	FadeStand("bu½_§•_’Êí_smile", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400620ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400620ko">
 "Alrighty then&, I know a greeeaaat place!"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400630ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400630ko">
 "I'll lead the way ô"
 
 Kozu-pii's energy level was blatantly different from the countless
 times when I'd spotted her at school&.
 
 And though she was wordless in real life&, her mental voice was so&,
-um&.&.&.&.
+um&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -925,56 +925,56 @@ um&.&.&.&.
 [text012]
 //Ÿu‚¤‚Õ[v–j‚ğ‚Ó‚­‚ç‚Ü‚¹‚Ä“{‚Á‚Ä‚é
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400640ko">
-"Ah&, just now&, you thought I was a nooooisy girl! Upuu!" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400640ko">
+"Ah&, just now&, you thought I was a nooooisy girl! Upuu!"
 
-&.&.&.&.It was convenient to be able to have mental conversations&,
-but also kind of disagreeable&. 
+&.&.&.It was convenient to be able to have mental conversations&,
+but also kind of disagreeable&.
 
 Rather&, I'd ended up accepting it right away&, but how did this
-work&, anyway? 
+work&, anyway?
 
-Could it be a real psychic power&.&.&.&.?
+Could it be a real psychic power&.&.&.?
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_angry", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400650ko">
-"So you think Kozu-pii is creepy&.&.&.&. after all&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400650ko">
+"So you think Kozu-pii is creepy&.&.&. after all&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400660ko">
-"This kinda thing isn't normal&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400660ko">
+"This kinda thing isn't normal&.&.&."
 
-&.&.&.&.I don't mind things that aren't normal&.
+&.&.&.I don't mind things that aren't normal&.
 Lately I've had a lot more opportunities to encounter other
-eccentrics&. 
+eccentrics&.
 
 Besides&, you speak kind of weirdly&, but you aren't scary&, and you
 don't have crazy conspiracy theories&, which makes you preferable to
-the rest of them&.&.&.&.
+the rest of them&.&.&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400670ko">
-"It makes me happy-happy when you say that&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400670ko">
+"It makes me happy-happy when you say that&.&.&."
 
-Kozu-pii abruptly started crying as we walked along&. 
+Kozu-pii abruptly started crying as we walked along&.
 Surprised&, I hastily returned her tissue pack&.
 
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //Ÿ‹ƒ‚­
 //y½z
-<voice name="½" class="½" src="ch07/14400680ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400680ko">
+"&.&.&.&.&.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 She bowed her head to me more than was necessary as she accepted it&,
 and wiped the tears below her eyes&.
 
-&.&.&.&.Back to what I was talking about&. 
+&.&.&.Back to what I was talking about&.
 
-It was creepy and unsettling to have her hear everything I thought&. 
+It was creepy and unsettling to have her hear everything I thought&.
 Those were my unvarnished impressions&.
 
 </PRE>
@@ -985,66 +985,66 @@ Those were my unvarnished impressions&.
 <PRE box00>
 [text013]
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400690ko">
-"Right&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400690ko">
+"Right&.&.&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400700ko">
-"I'm sowwy&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400700ko">
+"I'm sowwy&.&.&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400710ko">
-"But&, buuut&, I hear it even if I don't wanna&.&.&.&. unyuu~" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400710ko">
+"But&, buuut&, I hear it even if I don't wanna&.&.&. unyuu~"
 
-Is that so&.&.&.&.?
+Is that so&.&.&.?
 
 //Ÿ‚»‚¤‚È‚Ì
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400720ko">
-"Yeppers&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400720ko">
+"Yeppers&."
 
-Well&, whatever the case&, 
-You don't want to hear that from a gross otaku like me&.&.&.&. 
+Well&, whatever the case&,
+You don't want to hear that from a gross otaku like me&.&.&.
 
-A guy as creepy as me really doesn't have any value&.&.&.&.
+A guy as creepy as me really doesn't have any value&.&.&.
 
 {	Stand("bu½_§•_’Êí","angry", 500, @+150);
 	FadeStand("bu½_§•_’Êí_angry", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400730ko">
-"Thaaat's not true!" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400730ko">
+"Thaaat's not true!"
 
 Just as I was about to revert to depression mode&, Kozu-pii cried out
 loudly in the voice of her heart&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400740ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400740ko">
 "Noooo&, you can't say things like that&."
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_angry", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400750ko">
-"Such sad-sounding things&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400750ko">
+"Such sad-sounding things&.&.&."
 
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //Ÿ‹ƒ‚­
 //y½z
-<voice name="½" class="½" src="ch07/14400760ko">
-"&.&.&.&.&, &.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14400760ko">
+"&.&.&.&, &.&.&."
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 She started streaming tears again&.
 
 Why was she crying?
-Did she sympathize with me? 
+Did she sympathize with me?
 
-If so&, I didn't need it&. 
+If so&, I didn't need it&.
 
 After all&, I created personalities in my brain and mistook them for
-real live people&. Rimi&, for example&.&.&.&.
+real live people&. Rimi&, for example&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1059,49 +1059,49 @@ real live people&. Rimi&, for example&.&.&.&.
 [text014]
 //Ÿu‚±[‚Ævu–v
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400770ko">
-"Is that Sakihata-shan&.&.&.&. I mean&, Sakihata-san?" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400770ko">
+"Is that Sakihata-shan&.&.&. I mean&, Sakihata-san?"
 
 You know her!?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400780ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400780ko">
 "Well&, she's our classmate&."
 
 {	Stand("bu½_§•_’Êí","shy", 500, @+150);
 	DeleteStand("bu½_§•_³–Ê_normal", 500, true);
 	FadeStand("bu½_§•_’Êí_shy", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400790ko">
-"And she's your girlfriend&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400790ko">
+"And she's your girlfriend&."
 
-Wr&, wrong&.&.&.&.!
+Wr&, wrong&.&.&.!
 
 {	Stand("bu½_§•_’Êí","normal", 500, @+150);
 	FadeStand("bu½_§•_’Êí_normal", 500, true);
 	DeleteStand("bu½_§•_’Êí_shy", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400800ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400800ko">
 "Wrong? I totally&, totally&, oooonly thought she was&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400810ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400810ta">
+"&.&.&.&.&.&.&."
 
 Kozu-pii knew about Rimi&.
-Which signified that-- 
+Which signified that\
 
-Rimi truly existed&. 
+Rimi truly existed&.
 
-She wasn't my delusion&. 
-She wasn't a character I'd devised in my brain&. 
+She wasn't my delusion&.
+She wasn't a character I'd devised in my brain&.
 Rimi really was there&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400820ta">
-"I see&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400820ta">
+"I see&.&.&."
 
-Thank goodness&.&.&.&.
+Thank goodness&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1125,77 +1125,77 @@ Thank goodness&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text015]
-But if so&, why hadn't she contacted me&, not even once? 
+But if so&, why hadn't she contacted me&, not even once?
 
 I must've fallen out of favor with her after what happened at
 O-Front&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400830ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400830ko">
 "On the day of the earthquake&, Sakihata-shan went pale and left
 early&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400840ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400840ko">
 "She hasn't come to schooool since then&, you know?"
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	DeleteStand("bu½_§•_’Êí_normal", 300, false);
 	FadeStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400850ko">
-"Something saaaad might have happened to her family&.&.&.&. maybe~" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400850ko">
+"Something saaaad might have happened to her family&.&.&. maybe~"
 
-I&.&.&.&. see&.&.&.&. 
+I&.&.&. see&.&.&.
 
 I felt delivered&. Knowing that Rimi hadn't thrown me aside seriously
-made me seem about to cry&. 
+made me seem about to cry&.
 
 If that were the case&, I had a reason to attend school again&. I
 wanted to see Rimi one more time&. Until then&, I'd try my hardest&,
-and keep going to school--
+and keep going to school\
 
 {	SetVolume("SE10", 1000, 0, NULL);
 	Stand("bu½_§•_³–Ê","sad", 500, @+150);
 	DeleteStand("bu½_§•_’Êí_sad", 300, false);
 	FadeStand("bu½_§•_³–Ê_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400860ko">
-"Be careful&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400860ko">
+"Be careful&."
 
-Eh&.&.&.&.?
+Eh&.&.&.?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400870ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400870ko">
 "I didn't say it cause I thought you were going out with
-Sakihata-shan&, but&, but&, but--"
+Sakihata-shan&, but&, but&, but\"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400880ko">
-"Be careful of Sakihata-shan&."  
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400880ko">
+"Be careful of Sakihata-shan&."
 
-What do you mean&.&.&.&.?
+What do you mean&.&.&.?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400890ko">
-"I don't really get Sakihata-shan&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400890ko">
+"I don't really get Sakihata-shan&.&.&."
 
-I'm asking what you mean&.&.&.&. 
+I'm asking what you mean&.&.&.
 
-You don't get her&, you say-- 
+You don't get her&, you say\
 
-The "staking"? 
+The "staking"?
 
 Or how I was missing my memories of being classmates with her since
-freshman year? 
+freshman year?
 
 There were definitely things about Rimi that remained mysterious&,
-even now&. 
+even now&.
 
-But she'd saved me countless times&. 
-When I was frightened&, she'd told me&, "I'll be there for you&." 
+But she'd saved me countless times&.
+When I was frightened&, she'd told me&, "I'll be there for you&."
 
-She wasn't my enemy&.&.&.&.!
+She wasn't my enemy&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1212,52 +1212,52 @@ She wasn't my enemy&.&.&.&.!
 <PRE box00>
 [text016]
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400900ko">
-"Hyauu~~" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400900ko">
+"Hyauu~~"
 
 For some reason&, Kozu-pii's eyes were rolling back in her head&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400910ko">
-"If you think soooo much at once&.&.&.&."
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400910ko">
+"If you think soooo much at once&.&.&."
 
 //Ÿ‚¢‚¯‚É‚á‚¢`‚¢‚¯‚È‚¢
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400920ko">
-"Kozu-pii can't keep upsie-daisy~" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400920ko">
+"Kozu-pii can't keep upsie-daisy~"
 
-So&, sorry&.&.&.&. 
+So&, sorry&.&.&.
 
-It was sort of odd&. 
+It was sort of odd&.
 
 When I was talking to people&, I generally ended up saying less than
 2% of the conversation&, but when I spoke in my heart&, I "talked too
-much&," or rather&, "thought too much&." 
+much&," or rather&, "thought too much&."
 
-It was the same for Kozu-pii&. 
+It was the same for Kozu-pii&.
 
-I hadn't thought she would be so talkative--in her head&, anyway&.
+I hadn't thought she would be so talkative\in her head&, anyway&.
 
 {	Stand("bu½_§•_’Êí","normal", 500, @+150);
 	FadeStand("bu½_§•_’Êí_normal", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400930ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400930ko">
 "It doesn't feel much like I'm talking&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400940ko">
-"I just think&. It comes flowing in&. 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400940ko">
+"I just think&. It comes flowing in&.
 Beep-beep to the other person&. Boom-bang back to me&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400950ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400950ko">
 "If you're not used to it&, your thoughts can get all mushy-wooshied
 up with theirs&, and it gets all unyaa&."
 
-W-was she speaking Japanese or what&.&.&.&. 
+W-was she speaking Japanese or what&.&.&.
 
-Although I sort of got the nuances of it&. 
+Although I sort of got the nuances of it&.
 
 So there weren't any little subleties&, like in regular
 conversations&.
@@ -1266,7 +1266,7 @@ Things like seeing the other person's expression or finding yourself
 unable to say what you wanted wouldn't happen&.
 
 If people's thoughts kept leaking out&, you'd lose the ability to
-"read the atmosphere&." 
+"read the atmosphere&."
 
 Neither a one-way or two-way transmission&, it wasn't altogether
 unlike having to pick one flying arrow out of many and stop yourself
@@ -1280,37 +1280,37 @@ from listening to the others&.
 <PRE box00>
 [text017]
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400960ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400960ko">
 "That's why&, thaaat's why&, it's comfortable&, and it makes you feel
-close--"
+close\"
 
 {	Stand("bu½_§•_’Êí","sad", 500, @+150);
 	FadeStand("bu½_§•_’Êí_sad", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //Ÿ”ß‚µ‚»‚¤‚É
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400970ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400970ko">
 "But it's easy to hurt people&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14400980ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14400980ta">
+"&.&.&.&.&.&.&."
 
-For a second&, Kozu-pii's face clouded over&. 
+For a second&, Kozu-pii's face clouded over&.
 But she soon put on a teary smile&.
 
 {	Stand("bu½_§•_’Êí","shy2", 500, @+150);
 	FadeStand("bu½_§•_’Êí_shy2", 300, false);
 	DeleteStand("bu½_§•_’Êí_sad", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14400990ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14400990ko">
 "Eheh&. It's your first time&, but you're reeeeally good at it&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401000ko">
-"Your beep-beep-beeps match with Kozu-pii's&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401000ko">
+"Your beep-beep-beeps match with Kozu-pii's&."
 
-My beep-beep-beeps&.&.&.&.
+My beep-beep-beeps&.&.&.
 Was she trying to say that our wavelengths matched?
 
 {	Stand("bu½_§•_’Êí","smile", 500, @+150);
@@ -1318,11 +1318,11 @@ Was she trying to say that our wavelengths matched?
 	DeleteStand("bu½_§•_’Êí_shy2", 300, true);}
 //Ÿ‚»[‚¤‚»‚¤
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401010ko">
-"Riiight&. Wavelengths&, wavelengths&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401010ko">
+"Riiight&. Wavelengths&, wavelengths&."
 
 Well&, it might've been because Seira-tan had the same kinds of speech
-quirks&.&.&.&.
+quirks&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1337,49 +1337,49 @@ quirks&.&.&.&.
 [text018]
 //Ÿ‚¤‚Ò‚¡‹¯‚¦‚é
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401020ko">
-"Ah&, but&, buuut&, you were scary back then&. Upii" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401020ko">
+"Ah&, but&, buuut&, you were scary back then&. Upii"
 
-Back then&.&.&.&.?
+Back then&.&.&.?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401030ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401030ko">
 "This morning&, in the classroom&."
 
-Geh&, now&, now that she mentioned it&.&.&.&. 
+Geh&, now&, now that she mentioned it&.&.&.
 I'd fantasized about some really bad stuff&, hadn't I&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401040ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401040ko">
 "That's why I thought fuhyaaaa&, and I just kind of had to talk to
-you&.&.&.&."
+you&.&.&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401050ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401050ko">
 "Though reeeally&, I've decided to let as few people as possible know
-about my power&." 
+about my power&."
 
-No&, at the time&, I hadn't give a damn about anything&.&.&.&. umm&,
-umm&.&.&.&. well&.&.&.&. they were mere delusions to the end&, I
-guess&.&.&.&. haha&.&.&.&.
+No&, at the time&, I hadn't give a damn about anything&.&.&. umm&,
+umm&.&.&. well&.&.&. they were mere delusions to the end&, I
+guess&.&.&. haha&.&.&.
 
-It'd be normal to despise me for it&. 
-Haa&.&.&.&.
+It'd be normal to despise me for it&.
+Haa&.&.&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401060ko">
-"For sure&, if you really did it&, Kozu-pii would've--"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401060ko">
+"For sure&, if you really did it&, Kozu-pii would've\"
 
 {	Stand("bu½_§•_’Êí","smile", 500, @+150);
 	FadeStand("bu½_§•_’Êí_smile", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401070ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401070ko">
 "Killed you ô"
 
-&.&.&.&.Eh?
+&.&.&.Eh?
 
-She said something so disturbing with such innocence&. 
+She said something so disturbing with such innocence&.
 The gap between the two made me shudder&.
 
 </PRE>
@@ -1404,8 +1404,8 @@ The gap between the two made me shudder&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text019]
-We silently--albeit continuing to speak in our minds--crossed through
-the shopping district and came out on Inokashira Avenue&. 
+We silently\albeit continuing to speak in our minds\crossed through
+the shopping district and came out on Inokashira Avenue&.
 
 From the way we walked wordlessly&, without glancing at each other's
 faces&, an observer might have perceived us as a charmingly naive
@@ -1417,31 +1417,31 @@ young couple&.
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒrƒbƒNƒŠ‚µ‚Ä‘§‚ğ“Û‚Ş
 //y½z
-<voice name="½" class="½" src="ch07/14401080ko">
+<voice name="½" class="½" src="voice/ch07/14401080ko">
 "!"
 
 //¦ˆÈã‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
-Next to me&, Kozu-pii caught an enormous breath&. 
+Next to me&, Kozu-pii caught an enormous breath&.
 Eyes round&, she looked up at me&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401090ko">
-"Cou&, couple&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401090ko">
+"Cou&, couple&.&.&."
 
 N&, no! It was just an example&, an exEamEple!
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401100ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401100ko">
 "You're going all fuhyaaaa on me again&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401110ko">
-"I thought you'd give me a lovey-dovey-loooovey confession&.&.&.&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401110ko">
+"I thought you'd give me a lovey-dovey-loooovey confession&.&.&."
 
-So&, sorry&.&.&.&. 
+So&, sorry&.&.&.
 
 Yeah&, it was pretty hard to cope with how everything passed through
-to her&.&.&.&. 
+to her&.&.&.
 When talking with Kozu-pii&, it would behoove me to do my best not to
 wander into unnecessary daydreams&.
 
@@ -1449,18 +1449,18 @@ wander into unnecessary daydreams&.
 	FadeStand("bu½_§•_’Êí_normal", 300, false);
 	DeleteStand("bu½_§•_’Êí_shy", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401120ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401120ko">
 "Ummm&, ummm&, I wanna ask&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401130ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401130ko">
 "About the moment when you went on TV last week&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14401140ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14401140ta">
+"&.&.&.&.&.&.&."
 
-&.&.&.&.She wouldn't believe me even if I told her&.
+&.&.&.She wouldn't believe me even if I told her&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1475,46 +1475,46 @@ wander into unnecessary daydreams&.
 [text020]
 //Ÿ–j‚ğ–c‚ç‚Ü‚¹‚Ä‚¢‚é‚æ‚¤‚ÈŠ´‚¶‚Å
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401150ko">
-"Don't decide that for yourself&. Upuu--"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401150ko">
+"Don't decide that for yourself&. Upuu\"
 
 {	Stand("bu½_§•_’Êí","normal", 500, @+150);
 	FadeStand("bu½_§•_’Êí_normal", 300, false);
 	DeleteStand("bu½_§•_’Êí_angry", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401160ko">
-"Kozu-pii was down below when it happened&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401160ko">
+"Kozu-pii was down below when it happened&."
 
-Below&.&.&.&.?
+Below&.&.&.?
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401170ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401170ko">
 "At the scramble crossing&. In front of the turnstiles at the Hachiko
 exit&. I was just passing through&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401180ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401180ko">
 "I heard it the whoooole time&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401190ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401190ko">
 "Your voice&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401200ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401200ko">
 "Saying I wanna save Nanami-shan&, I've gotta save her&."
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401210ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401210ko">
 "I heard you&."
 
-My mental voice had traveled that far? 
+My mental voice had traveled that far?
 There was an unexpectedly great distance between the O-Front roof and
 the station turnstiles&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401220ko">
-"That's how stroooong your emotions were then&." 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401220ko">
+"That's how stroooong your emotions were then&."
 
 Then Kozu-pii would understand&.
 
@@ -1526,17 +1526,17 @@ psychic performance&.
 	FadeStand("bu½_§•_³–Ê_normal", 500, true);}
 //Ÿ¬—
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401230ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401230ko">
 "Yeah&. So&, soooo&, you don't not have any value <?>
 {	Stand("bu½_§•_³–Ê","sad", 500, @+150);
 	FadeStand("bu½_§•_³–Ê_sad", 300, true);
 	DeleteStand("bu½_§•_³–Ê_normal", 300, true);}
 Uu? Don't not?"
 
-But&.&.&.&. in the end&, it hadn't done any good&.
-I'd prioritized my own life over saving Nanami&.&.&.&. my little
+But&.&.&. in the end&, it hadn't done any good&.
+I'd prioritized my own life over saving Nanami&.&.&. my little
 sister&.
-I'd fled at the very brink of things&.&.&.&.
+I'd fled at the very brink of things&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1547,28 +1547,28 @@ I'd fled at the very brink of things&.&.&.&.
 [text021]
 //¦u‚q‚‚†‚”vu‚k‚‚†‚”v‚Ì‚±‚Æ
 Kozu-pii stopped in front of Roft&.
-She looked at me as she pointed at the store entrance&. 
+She looked at me as she pointed at the store entrance&.
 
 Apparently the place she'd said she would guide me to was inside
-here&. 
+here&.
 
-I didn't think there was anywhere to rest in Roft&. 
+I didn't think there was anywhere to rest in Roft&.
 
 Besides&, there were a lot of customers in a small&, enclosed space
-there&. 
+there&.
 
-&.&.&.&.Without my realizing it&, my legs had started shaking&.
+&.&.&.Without my realizing it&, my legs had started shaking&.
 The cheers and bellows I'd heard from the pedestrian crossing that
-night echoed in my head&. 
+night echoed in my head&.
 
-I didn't want to go anywhere that was full of people&.&.&.&. 
-I wouldn't have anywhere to escape to if I entered Roft&.&.&.&.
+I didn't want to go anywhere that was full of people&.&.&.
+I wouldn't have anywhere to escape to if I entered Roft&.&.&.
 
 {	Stand("bu½_§•_’Êí","smile", 500, @+150);
 	DeleteStand("bu½_§•_³–Ê_sad", 500, true);
 	FadeStand("bu½_§•_’Êí_smile", 500, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401240ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401240ko">
 "It's all ooookay&."
 
 </PRE>
@@ -1612,42 +1612,42 @@ same height as me&.
 {	Stand("bu½_§•_’Êí","normal", 500, @+150);
 	FadeStand("bu½_§•_’Êí_normal", 500, false);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401250ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401250ko">
 "Nanami-shan turned out fine&, didn't she? Theeeen&, it's thanks to
-how hard you tried&." 
+how hard you tried&."
 
-I hadn't saved her myself&. 
-It was the same as if I hadn't done anything&.&.&.&.
+I hadn't saved her myself&.
+It was the same as if I hadn't done anything&.&.&.
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401260ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401260ko">
 "You streeetched your hand from the roof&, didn't you?"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401270ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401270ko">
 "What were you trying to do?"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401280ko">
-"Fly away&, all pyooon-like?" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401280ko">
+"Fly away&, all pyooon-like?"
 
-&.&.&.&.No&. 
-I was trying to take hold of the sword&. 
+&.&.&.No&.
+I was trying to take hold of the sword&.
 
 It was an illusionary sword&, one that blended into the vista I saw
 from the rooftop&.
 
 //Ÿ‚³‚ç‚Á‚Æ
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401290ko">
-"A Di-Sword?" 
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401290ko">
+"A Di-Sword?"
 
-Yeah&. That's it&. 
+Yeah&. That's it&.
 He'd said I could grasp it if I reached out&, but I couldn't do it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14401300ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14401300ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1665,26 +1665,26 @@ He'd said I could grasp it if I reached out&, but I couldn't do it&.
 <PRE box00>
 [text023]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14401310ta">
-"Ho&, how&.&.&.&.!?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14401310ta">
+"Ho&, how&.&.&.!?"
 
-I unthinkingly shouted&. 
+I unthinkingly shouted&.
 
 A couple passing us on the downward escalator gave me cold looks&, and
-I hurriedly covered my mouth with my hand&. 
+I hurriedly covered my mouth with my hand&.
 
-&.&.&.&.Kozu-pii&, how do you know about Di-Swords?
+&.&.&.Kozu-pii&, how do you know about Di-Swords?
 
 {	Stand("bu½_§•_’Êí","smile", 500, @+150);
 	FadeStand("bu½_§•_’Êí_smile", 300, false);
 	DeleteStand("bu½_§•_’Êí_normal", 300, true);}
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/14401320ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14401320ko">
 "Cause Kozu-pii has one&, too&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14401330ta">
-"Hehh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14401330ta">
+"Hehh&.&.&.?"
 
 {	CreateTextureEX("”wŒi‚U", 200, 0, 0, "cg/bg/bg059_01_2_‚q‚‚†‚”“X“à_a.jpg");
 	Fade("”wŒi‚U", 500, 1000, null, true);
@@ -1740,8 +1740,8 @@ that of a snowboard&.
 {//‚r‚d//ÕŒ‚‰¹
 	CreateSE("SE04","SE_‹[‰¹_ƒfƒBƒ\[ƒhoŒ»");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);}
-Several streaks of blue light--more fiercely brilliant than the wire
-frame lines--ran across it&.
+Several streaks of blue light\more fiercely brilliant than the wire
+frame lines\ran across it&.
 
 Kozu-pii closed her open hand&.
 
@@ -1774,8 +1774,8 @@ Transformed to a solid&, cold-seeming metal plank&,
 As though textures had been applied to it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/14401340ta">
-"Di&.&.&.&. Sword&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14401340ta">
+"Di&.&.&. Sword&.&.&.!"
 
 {	SetTrigger("‚R‚R");}
 Its shape was all too separate from that of Ayase's and Sena's&.

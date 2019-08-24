@@ -49,7 +49,7 @@ function ch10_217_ÇaêzñKÇÃñ{éø()
 I heard a voice&.
 
 It was the scream in Sena's heart&.
-Upon hearing that cry&, which resembled madness and seemed to curse 
+Upon hearing that cry&, which resembled madness and seemed to curse
 reality&, I came running to Shinsen Station&.
 
 But by then&, it was already too late&.
@@ -58,7 +58,7 @@ When I entered the dim premises&, the faint smell of blood hovered in
 the air&. Kozu-pii was lying down by the wall&, unconscious&.
 
 And on the platform&,
-There was Sena's form&, sunken down&, her back facing me&.  
+There was Sena's form&, sunken down&, her back facing me&.
 
 Her head was lowered&, making her long hair cover her face&, keeping me
 from seeing her expression&.
@@ -87,7 +87,7 @@ Becoming aware that it was him&, I bit my lip&.
 [text002]
 //ÇuÇe//âwÇÃÉzÅ[ÉÄÇ≈îΩãø
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700010su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700010su">
 "Man&, here's a stroke of luck&."
 
 A lone man stood on the tracks&.
@@ -95,31 +95,31 @@ A lone man stood on the tracks&.
 Though he was in a suit&, he also wore a rucksack&, and from within it
 reverberated a nasty mechanical noise&.
 
-Suwa Mamoru&. A detective in the investigative department at police 
+Suwa Mamoru&. A detective in the investigative department at police
 headquarters&.
 
 I had met this man before&.
-And--I knew what this man had done&.
+AndÅ\I knew what this man had done&.
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700020su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700020su">
 "Originally&, I'd just come to get rid of them eyesore Hatanos&."
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700030su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700030su">
 "Nishijou-kun&. Thank you so&, so much for jumpin' into the fire of
 your own accord for me&."
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700040su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700040su">
 "See&, they told me to grab ya if I spotted you&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700050ta">
-"Who told you&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700050ta">
+"Who told you&.&.&.?"
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700060su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700060su">
 "It's secret&."
 
 A flippant smile&.
@@ -141,20 +141,20 @@ his true nature&.
 <PRE box00>
 [text003]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700070ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700070ta">
 "Hey you&, do you know where Norose is?"
 
 {	Stand("ståÏ_ÉXÅ[Éc_í èÌ","sigh", 200, @+200);
 	FadeStand("ståÏ_ÉXÅ[Éc_í èÌ_sigh", 300, true);
 	DeleteStand("ståÏ_ÉXÅ[Éc_í èÌ_normal", 0, true);}
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700080su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700080su">
 "Look here&, Nishijou-kun&."
 
 Suwa shook his head exaggeratedly and let out a sigh&.
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700090su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700090su">
 "I'd like you to be a teensy bit more careful about how you talk&. I'm
 your elder&, ya know?"
 
@@ -164,39 +164,39 @@ down to the tracks&.
 It ended up so that I was shielding the motionless Sena with my back&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700100ta">
-"Ban&.&.&.&. you're the one who killed him&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700100ta">
+"Ban&.&.&. you're the one who killed him&.&.&."
 
 {	Stand("ståÏ_ÉXÅ[Éc_í èÌ","normal", 200, @+200);
 	FadeStand("ståÏ_ÉXÅ[Éc_í èÌ_normal", 300, true);
 	DeleteStand("ståÏ_ÉXÅ[Éc_í èÌ_sigh", 0, true);}
 //Åüö}èŒ
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700110su">
-"&.&.&.&.So what?"
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700110su">
+"&.&.&.So what?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700120ta">
-"Killing someone&, even though you're a detective&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700120ta">
+"Killing someone&, even though you're a detective&.&.&."
 
 //Åüö}èŒ
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700130su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700130su">
 "I'd rather not hear it from you&, man&."
 
 I clenched my Di-Sword tightly&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700140ta">
-"I have no obligation to use honorifics&.&.&.&. with a prick like you&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700140ta">
+"I have no obligation to use honorifics&.&.&. with a prick like you&."
 
 {	Stand("ståÏ_ÉXÅ[Éc_í èÌ","hard", 200, @+200);
 	FadeStand("ståÏ_ÉXÅ[Éc_í èÌ_hard", 300, true);
 	DeleteStand("ståÏ_ÉXÅ[Éc_í èÌ_normal", 0, true);}
 //Åüì{ÇË
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700150su">
-"&.&.&.&.Hey&, now&." 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700150su">
+"&.&.&.Hey&, now&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -211,56 +211,56 @@ I clenched my Di-Sword tightly&.
 [text004]
 //Åüà»â∫ÅAêzñKÇÃå˚í≤Ç™ïœÇÌÇËÇ‹Ç∑
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700160su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700160su">
 "I'm sayin' I don't wanna hear it from you!"
 
 I could tell clearly&, even from this distance&.
 The smile had disappeared from Suwa's face&.
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700170su">
-"You're a murderer&, too&.&.&.&.!"
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700170su">
+"You're a murderer&, too&.&.&.!"
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700180su">
-"I won't let you say you aren't&. You killed Hazuki Shino&.&.&.&.!"
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700180su">
+"I won't let you say you aren't&. You killed Hazuki Shino&.&.&.!"
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700190su">
-"I'd like to fucking waste you any second now&.&.&.&.!"
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700190su">
+"I'd like to fucking waste you any second now&.&.&.!"
 
 //ÅüëßÇì€Çﬁ
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch10/21700200ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/21700200ta">
+"&.&.&.&.&.&.&."
 
-Hazuki Shino&.&.&.&.
+Hazuki Shino&.&.&.
 The nurse who had been the true New-Gen criminal&.
 The two of them were fellow disciples of the Cosmic Church of The
-Divine Light&.&.&.&.
+Divine Light&.&.&.
 
 Was that all there was to it?
 
 I gulped down a breath&.
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700210su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700210su">
 "I'll restrain myself&, if only for the sake of the salvation of the
-divine light&, but in exchange&.&.&.&."
+divine light&, but in exchange&.&.&."
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700220su">
-"I'm gonna make sure--"
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700220su">
+"I'm gonna make sureÅ\"
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700230su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700230su">
 "I kill your heart&."
 
 I immediately started to brandish my Di-Sword&.
 Nothing was going to come of brandishing it&, though&.
 
 I'd simply done it on reflex&.
-And just as expected&, it didn't make any difference&. 
+And just as expected&, it didn't make any difference&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -303,7 +303,7 @@ Before I knew it&, my surroundings had gone dark&. Below me was a
 nighttime vista that one might easily mistake for a field of stars&.
 
 I came to the realization that I was standing somewhere incredibly high
-up&. 
+up&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -317,16 +317,16 @@ up&.
 <PRE box00>
 [text006]
 Beside me were four guys and girls I'd never met&.
-No&, I'd seen one of them before&.  
+No&, I'd seen one of them before&.
 Yua&. For some reason&, she wasn't wearing her glasses&.
 
-&.&.&.&.No&, not Yua&.
+&.&.&.No&, not Yua&.
 
 She was Mia&.
 Yua's younger twin sister&.
 Who should've died a month ago&.
 
-In other words&, this was--
+In other words&, this wasÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -356,21 +356,21 @@ The roof of Cornelius Tower&.
 
 And my body wasn't my own&.
 I was wearing an unfamiliar school uniform&.
-Even my stature was more brawny&.  
+Even my stature was more brawny&.
 
 To begin with&, I could guess who I was based on the fact that there
-were only four other guys and girls near me&, crumpled down&, petrified&, 
+were only four other guys and girls near me&, crumpled down&, petrified&,
 and wailing and crying&.
 
 This body into which my consciousness had climbed&.
 
-It belonged to one of the five victims who had died in the first 
-New-Gen case&, the "group dive"--
+It belonged to one of the five victims who had died in the first
+New-Gen case&, the "group dive"Å\
 
 Without my will having any bearing on it&, my field of sight slowly
 moved&. It slid to the side&. I turned back toward the heliport&.
 
-"Shogun&," who had filmed that video&, must be there--
+"Shogun&," who had filmed that video&, must be thereÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -389,7 +389,7 @@ The "Shogun" who'd cornered me at O-Front had put on a similar get-up&.
 
 But was he really "Shogun"?
 
-No&.&.&.&.
+No&.&.&.
 
 No matter how I looked at it&,
 His legs&, sticking out slightly from beneath the black cloak&, were clad
@@ -397,12 +397,12 @@ in slacks&.
 
 On top of that&, they were as thick as those of a regular adult male&.
 
-They weren't the skinny&, pitiful legs of "Shogun"--of Nishijou Takumi--
+They weren't the skinny&, pitiful legs of "Shogun"Å\of Nishijou TakumiÅ\
 whose bones protruded visibly&.
 
 Looking more closely&, even his seated height was totally different&.
-The cloak kept them hidden&, but his shoulders also appeared fairly 
-broad&. 
+The cloak kept them hidden&, but his shoulders also appeared fairly
+broad&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -440,15 +440,15 @@ I heard dragging footsteps&.
 
 And not just one set of them&.
 
-It wasn't a hallucination; those peculiar footsteps belonged to many&, 
-many people&. It meant that several dozen "somethings" were lurking 
+It wasn't a hallucination; those peculiar footsteps belonged to many&,
+many people&. It meant that several dozen "somethings" were lurking
 beyond the darkness&.
 
-These footsteps hadn't been a part of the video uploaded on MewTube&. 
-Besides&, there was no way such a large number of people could've 
+These footsteps hadn't been a part of the video uploaded on MewTube&.
+Besides&, there was no way such a large number of people could've
 accessed this heliport&.
 
-What the hell was the source of this sound&.&.&.&.?
+What the hell was the source of this sound&.&.&.?
 
 The four others next to me screamed and wept in lamentation&.
 Disregarding my will&, my body&, too&, let out a cry and began shaking&.
@@ -459,7 +459,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 
 	SetVolume("SE02", 1000, 0, null);
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -485,7 +485,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 	CenterLog1("But that was only what happened in movies&.", 2000);
 	ClearLog();
 
-	CenterLog2("A mob of zombies couldn't possibly show up in reality&,", "much less in 21st-century Tokyo&.&.&.&.!", 3000);
+	CenterLog2("A mob of zombies couldn't possibly show up in reality&,", "much less in 21st-century Tokyo&.&.&.!", 3000);
 	ClearLog();
 
 	CenterLog1("So what about it?", 1000);
@@ -560,7 +560,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 
 	ClearLog();
 
-	CenterLog2("The voice I heard unexpectedly&.","It was that of the real 'Shogun'--Nishijou Takumi&.", 2000);
+	CenterLog2("The voice I heard unexpectedly&.","It was that of the real 'Shogun'Å\Nishijou Takumi&.", 2000);
 	ClearLog();
 
 	CenterLog2("But I heard it not from the direction of the 'Shogun'","wearing a Darth Spider helmet&, but rather from straight overhead&.", 3000);
@@ -575,7 +575,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 	CenterLog2("Naturally&, all that spread out there was a starscape&.","I didn't see 'Shogun' anywhere&.", 2000);
 	ClearLog();
 
-	CenterLog1("He'd been looking in on our thoughts--", 1000);
+	CenterLog1("He'd been looking in on our thoughtsÅ\", 1000);
 	ClearLog();
 
 	SoundStop2("è´åR");
@@ -598,7 +598,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 	CenterLog3("Although the night scenery of Shibuya", "ought to have been spreading out below me&.","A long flight of stairs stretched out there&.", 2000);
 	ClearLog();
 
-	CenterLog2("It went right to the roof of a building standing", "close beside Cornelius Tower--", 2000);
+	CenterLog2("It went right to the roof of a building standing", "close beside Cornelius TowerÅ\", 2000);
 	ClearLog();
 	
 	CenterLog2("the adjacent building&, not Sign City&,","which was on the other side of the Shuto Expressway&.", 3000);
@@ -612,7 +612,7 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 	CenterLog2("Even so&, the five of them harbored absolutely no doubts", "about those stairs possibly being illusory&.", 2000);
 	ClearLog();
 	
-	CenterLog2("And with a sense of salvation--their emotions were conveyed to me as well--","they stepped forward&.", 2000);
+	CenterLog2("And with a sense of salvationÅ\their emotions were conveyed to me as wellÅ\","they stepped forward&.", 2000);
 	ClearLog();
 
 	CenterLog2("Holding each other's hands&.","It was exactly how the 'group dive' incident had concluded&.", 2000);
@@ -658,62 +658,78 @@ Disregarding my will&, my body&, too&, let out a cry and began shaking&.
 //ÇrÇdàµÇ¢ÅH
 //ÅüçrÇ¢ï@ëß//ÅüÇΩÇ≠Ç≥ÇÒÇÃêlÅXÇÃçrÇ¢ï@ëßÇ™Ç±Ç±Ç≈ó~ÇµÇ¢Ç≈Ç∑
 //ÅyÉ]ÉìÉrïóèWícÅz
-<voice name="É]ÉìÉrïóèWíc" class="É]ÉìÉrïóèWíc" src="ch10/21700240zs">
+<voice name="É]ÉìÉrïóèWíc" class="É]ÉìÉrïóèWíc" src="voice/ch10/21700240zs">
 "Fuuu&, fuuu&, fuuu"
 
 Something was approaching&.
 
-If we were in a cheap horror movie&, these scraping footsteps would turn out to be from zombies&.
+If we were in a cheap horror movie&, these scraping footsteps would turn
+out to be from zombies&.
 
-Zombies&, their rotting bodies swaying slowly as they walked&, both their hands extending limply in front of them&.
+Zombies&, their rotting bodies swaying slowly as they walked&, both their
+hands extending limply in front of them&.
 
 But that was only what happened in movies&.
 
-A mob of zombies couldn't possibly show up in reality&, much less in 21st-century Tokyo&.&.&.&.!
+A mob of zombies couldn't possibly show up in reality&, much less in
+21st-century Tokyo&.&.&.!
 
 So what about it?
 
 My chest seemed about to cave in with fear&.
-I wanted to look away&, but the owner of the body I'd entered wasn't averting his eyes&.
+I wanted to look away&, but the owner of the body I'd entered wasn't
+averting his eyes&.
 
 At last&, those unknown beings began to emerge from the darkness&.
 They flooded the heliport&.
 Sealing off our escape route&.
 
-I didn't know whether to describe this as getting the wind knocked out of my sails&.
-What appeared were perfectly ordinary people&.
+I didn't know whether to describe this as getting the wind knocked out of
+my sails&. What appeared were perfectly ordinary people&.
 
-They wore suits&, student uniforms&, parkas&. They were different ages and genders&, but all of them were the sort of people you'd normally see walking around Shibuya at night&.
+They wore suits&, student uniforms&, parkas&. They were different ages
+and genders&, but all of them were the sort of people you'd
+normally see walking around Shibuya at night&.
 
 If you overlooked a single point&.
-Out of the nearly one hundred people there&, every one of them was holding a bladed weapon&.
+Out of the nearly one hundred people there&, every one of them was
+holding a bladed weapon&.
 
 None of them said a word&.
-They simply wove a dissonant melody&, made up of the mingling of their numerous wild&, nasal breaths&.
+They simply wove a dissonant melody&, made up of the mingling of their
+numerous wild&, nasal breaths&.
 
 For some reason&, I couldn't see their expressions too well&.
 It was like all of their faces were made of paint blurred by water&.
 
 Their faces were vague&, disintegrating&.
 
-Were their faces truly deformed? Or else had my sight&, watching them&, gone off-kilter? I couldn't tell&.
+Were their faces truly deformed? Or else had my sight&, watching them&,
+gone off-kilter? I couldn't tell&.
 
 With lethargic but certain steps&, they were coming our way&.
 Like robots ordered onward by a single program&.
 
-I'd thought maybe the fake "Shogun" was giving them orders&, but he didn't appear to be doing so&. Once in a while&, he moved his wheelchair forward a tiny bit&, and afterward&, he didn't budge an inch&.
+I'd thought maybe the fake "Shogun" was giving them orders&, but he didn't
+appear to be doing so&. Once in a while&, he moved his wheelchair
+forward a tiny bit&, and afterward&, he didn't budge an inch&.
 
 The five young people&, being driven back&, had nowhere to run&.
 
-In order to escape from this incredibly high place&, 180 meters above the ground&, their only option was to "dive&."
+In order to escape from this incredibly high place&, 180 meters above
+the ground&, their only option was to "dive&."
 
 Holding their blades&, the crowd approached&.
 Little by little&, bit by bit&.
-They'd already closed the distance to the point that I could reach them if I stretched my hand out&.
+They'd already closed the distance to the point that I could reach
+them if I stretched my hand out&.
 
-Still silent even at this final stage&, drawing near us without attempting to leap upon us all at once&, the horde moved about bizarrely&, but as a result&, seemed far more dreadful&.  
+Still silent even at this final stage&, drawing near us without attempting
+to leap upon us all at once&, the horde moved about bizarrely&,
+but as a result&, seemed far more dreadful&.
 
-Enough to make me think I wanted to get out of here right away&. Even if it meant jumping off&. 
+Enough to make me think I wanted to get out of here right away&.
+Even if it meant jumping off&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -725,59 +741,72 @@ Enough to make me think I wanted to get out of here right away&. Even if it mean
 //ÇuÇe
 //ÅüêSÇÃê∫
 //Åyè´åRÅz
-<voice name="è´åR" class="è´åR" src="ch10/21700250jn">
+<voice name="è´åR" class="è´åR" src="voice/ch10/21700250jn">
 "Whose eyes are those eyes?"
 
 The voice I heard unexpectedly&.
-It was that of the real "Shogun"--Nishijou Takumi&.
+It was that of the real "Shogun"Å\Nishijou Takumi&.
 
-But I heard it not from the direction of the "Shogun" wearing a Darth Spider helmet&, but rather from straight overhead&.
+But I heard it not from the direction of the "Shogun" wearing a
+Darth Spider helmet&, but rather from straight overhead&.
 
 Apparently I hadn't been the only one to hear it&.
 
-The five of us&, who were being hunted down&, stood up as if we'd received our cue&, joined hands with each other&, and looked up at the night sky&.
+The five of us&, who were being hunted down&, stood up as if we'd
+received our cue&, joined hands with each other&,
+and looked up at the night sky&.
 
 Naturally&, all that spread out there was a starscape&.
 I didn't see "Shogun" anywhere&.
 
-He'd been looking in on our thoughts--
+He'd been looking in on our thoughtsÅ\
 
 //ÅyíjÅz
-<voice name="íj" class="íj" src="ch10/21700260ot">
+<voice name="íj" class="íj" src="voice/ch10/21700260ot">
 "Whose eyes are those eyes?"
 
 My field of sight slowly panned across&.
 And mysteriously enough&.
 
-Although the night sce<pre>n</pre>ery of Shibuya ought to have been spreading out below me&.
-A long flight of stairs stretched out there&.
+Although the night sce<pre>n</pre>ery of Shibuya ought to have
+been spreading out below me&. A long flight of stairs
+stretched out there&.
 
-It went right to the roof of a building standing close beside Cornelius Tower--the adjacent building&, not Sign City&, which was on the other side of the Shuto Expressway&.
+It went right to the roof of a building standing close beside
+Cornelius TowerÅ\the adjacent building&, not Sign City&,
+which was on the other side of the Shuto Expressway&.
 
 "A building standing close beside Cornelius Tower&."
 Despite the fact that nothing of the sort existed in reality&.
 
-Even so&, the five of them harbored absolutely no doubts about those stairs possibly being illusory&, and with a sense of salvation--their emotions were conveyed to me as well--they stepped forward&.
+Even so&, the five of them harbored absolutely no doubts about those
+stairs possibly being illusory&, and with a sense of salvationÅ\their
+emotions were conveyed to me as wellÅ\they stepped forward&.
 
 Holding each other's hands&.
 It was exactly how the "group dive" incident had concluded&.
 
 They hadn't taken the "dive" because they wanted to&.
 
-When the stairs&, which they'd utterly convinced themselves were there&, turned out not to exist&, and the sensation of beginning to fall shocked them&, they shrieked from the bottom of their hearts&.
+When the stairs&, which they'd utterly convinced themselves were there&,
+turned out not to exist&, and the sensation of beginning to fall shocked
+them&, they shrieked from the bottom of their hearts&.
 
 We were falling&.
 A horrendous wind pressure lashed at my body&.
 
-The girl next to me&, holding my hand&, screamed in a voice like a beast howling&. She clutched my hand so hard&, her nails dug in&.
+The girl next to me&, holding my hand&, screamed in a voice like a beast
+howling&. She clutched my hand so hard&, her nails dug in&.
 
 The amount of time it took us to plummet 180 meters felt like an eternity&.
 
 The dark earth rushed up with breathtaking force&.
 
-Since the area around us was also dark&, I came close to lapsing into a hallucination of being sucked down endlessly into the middle of darkness&.
+Since the area around us was also dark&, I came close to lapsing into a
+hallucination of being sucked down endlessly into
+the middle of darkness&.
 
-And then&. 
+And then&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -815,7 +844,7 @@ ground down to a fine powder from the inside out&.
 I experienced the sensation of my heart contracting violently from
 the shock of it&.
 
-And my consciousness c<pre>u</pre>t off there&. 
+And my consciousness c<pre>u</pre>t off there&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -838,8 +867,8 @@ And my consciousness c<pre>u</pre>t off there&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text014]
-My eyes were coercively made to open&, and the sce<pre>n</pre>ery flew into my
-vision without my consent&.
+My eyes were coercively made to open&, and the sce<pre>n</pre>ery
+flew into my vision without my consent&.
 
 I was walking along Tamagawa Street&.
 My body was completely intact&.
@@ -859,18 +888,18 @@ When I saw him&, I was forced to acknowledge that my hunch had been
 right on the money&.
 
 The man I passed was clothed in a suit&, but for some reason&, he wore a
-Darth Spider helmet on his head&. The image he made was much too 
+Darth Spider helmet on his head&. The image he made was much too
 surreal&.
 
 There were no other passers-by&.
 I wanted to flee from here this very second&.
 
-Despite that&, the owner of the body my consciousness had come into 
+Despite that&, the owner of the body my consciousness had come into
 turned back toward the Darth Spider man I'd just passed&.
 
 Darth Spider
-Was standing right behind me&.&.&.&. so close&, it seemed like I could feel
-his breath&. 
+Was standing right behind me&.&.&. so close&, it seemed like I could feel
+his breath&.
 
 {	SetVolume("SE02", 0, 0, NULL);
 	CreateSE("SE01","SE_è’åÇ_äÁñ èRÇÁÇÍÇÈ");
@@ -913,7 +942,7 @@ After some time&, I felt a searing pain in my abdomen&.
 [text016]
 When my field of sight opened up again&, I was in an operating room&.
 
-Before me stood Hazuki Shino&, her nurses' whites open&, her stomach 
+Before me stood Hazuki Shino&, her nurses' whites open&, her stomach
 bloody&. Though she was deathly pale&, she gave me a kindly smile&.
 
 In her hand was a scalpel&.
@@ -948,14 +977,14 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 
 //Åüúíçõ
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700270hd">
-"Fufu&.&.&.&. May the divine light save you&.&.&.&."
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700270hd">
+"Fufu&.&.&. May the divine light save you&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -983,7 +1012,7 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 	CenterLog1("The sensation of skin and flesh ripping&.", 1500);
 	ClearLog();
 
-	CenterLog3("Taking it straight on&, sans anesthesia&,", "I--and the possesser of the body into which I'd entered--lost consciousness&,","then soon woke again from an excess of pain&.", 3000);
+	CenterLog3("Taking it straight on&, sans anesthesia&,", "IÅ\and the possesser of the body into which I'd enteredÅ\lost consciousness&,","then soon woke again from an excess of pain&.", 3000);
 	ClearLog();
 
 	CenterLog1("But Hazuki went on making the wound widen impossibly&.", 1500);
@@ -1023,7 +1052,7 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 
 	WaitAction("SE01", null);
 
-	CenterLog3("Her hand--","and the fetus she held there--","shoved aside my innards&, boring into me&, gnawing deeper and deeper&.", 2500);
+	CenterLog3("Her handÅ\","and the fetus she held thereÅ\","shoved aside my innards&, boring into me&, gnawing deeper and deeper&.", 2500);
 	ClearLog();
 
 	CreateSE("SE02","SE_ã[âπ_ì˜éËÇìÀÇ¡çûÇﬁ");
@@ -1129,29 +1158,37 @@ My skin&, cleanly sliced apart by her scalpel&.
 Hazuki's fingers probed the opening from which blood overflowed&.
 That stimulation alone stabbed me with enough agony to shatter my brain&.
 
-Her fingers writhed inside me&, and the feeling of them came through to me clearly&.
-And&, just as I had seen before in her memories&, Hazuki forced my wound to open up on both sides&.
+Her fingers writhed inside me&, and the feeling of them came through
+to me clearly&. And&, just as I had seen before in her memories&,
+Hazuki forced my wound to open up on both sides&.
 
 The sensation of skin and flesh ripping&.
 
-Taking it straight on&, sans anesthesia&, I--and the possesser of the body into which I'd entered--lost consciousness&, then soon woke again from an excess of pain&.
+Taking it straight on&, sans anesthesia&, IÅ\and the possesser of the
+body into which I'd enteredÅ\lost consciousness&, then soon
+woke again from an excess of pain&.
 
 But Hazuki went on making the wound widen impossibly&.
 
-I'd long since stopped caring about little details like which part of me hurt&, about where in my body the pain was erupting from&.
+I'd long since stopped caring about little details like which part
+of me hurt&, about where in my body the pain was erupting from&.
 
-I had the illusion that all of my nerve endings were being pierced through with burning needles&, one by one&.
+I had the illusion that all of my nerve endings were being
+pierced through with burning needles&, one by one&.
 
 And I passed out again&.
 But I couldn't escape&.
 The pain mercilessly forced my consciousness awake&.
 
-My body convulsed&. If it meant being released from this suffering&, I though I'd be fine with biting my tongue off&.
+My body convulsed&. If it meant being released from this suffering&,
+I though I'd be fine with biting my tongue off&.
+
 Next&, Hazuki picked up a bloody fetus&.
 It made her smile appear conversely revolting&.
 This woman was insane&.
 
-She took the remants of the fetus she'd removed from her own body&, and plunged it into the depths of my stomach&. 
+She took the remants of the fetus she'd removed from her own body&,
+and plunged it into the depths of my stomach&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1162,21 +1199,27 @@ She took the remants of the fetus she'd removed from her own body&, and plunged 
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text018]
-Her hand--and the fetus she held there--shoved aside my innards&, boring into me&, gnawing deeper and deeper&.
+Her handÅ\and the fetus she held thereÅ\shoved aside my innards&,
+boring into me&, gnawing deeper and deeper&.
 
-I started to vomit blood&, and it got caught in my throat&, and even while I seemed about to suffocate from it&, I went on emitting wheezing screams&.
+I started to vomit blood&, and it got caught in my throat&, and even while
+I seemed about to suffocate from it&, I went on emitting wheezing screams&.
 
-Maybe because the pain had made my brain release too many neurotransmitters&, my head felt weirdly vague&, but the pain still didn't ease up&, and I began to understand less and less of what was happening&.
+Maybe because the pain had made my brain release too many
+neurotransmitters&, my head felt weirdly vague&,
+but the pain still didn't ease up&, and I began to
+understand less and less of what was happening&.
 
-Pain was all that controlled me&.  
+Pain was all that controlled me&.
 
 Hazuki withdrew her hand from my stomach and nodded with satisfaction&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700280hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700280hd">
 "You've held up so well&."
 
-She said softly&, as if she were dealing with a patient&, then abruptly fainted and collapsed in place&. 
+She said softly&, as if she were dealing with a patient&,
+then abruptly fainted and collapsed in place&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1191,29 +1234,35 @@ She said softly&, as if she were dealing with a patient&, then abruptly fainted 
 At almost the exact same time&, somebody entered the operating room&.
 The sound of his shoes rang out&.
 
-But I had zero interest in whoever it was&, and went on bawling and shrieking&, exposed to nothing other than excruciating anguish&.
+But I had zero interest in whoever it was&, and went on bawling
+and shrieking&, exposed to nothing other than excruciating anguish&.
 Seeing the unnatural swelling of my abdomen&, I panicked&.
 
 Together with the pain&, I had begun feeling a kind of itchiness&.
 It itched&. It itched so bad&.
 
-I wanted to scratch at the wound&. But my hands were bound to the bed&, and I couldn't do it&.
+I wanted to scratch at the wound&. But my hands were
+bound to the bed&, and I couldn't do it&.
 
 Suddenly&, a shadow fell across my sight&.
 Darth Spider had appeared&, looming in front of me&.
 
-He picked Hazuki up in his arms and left the operating room&, then&, after some time&, returned by himself&.
+He picked Hazuki up in his arms and left the operating room&,
+then&, after some time&, returned by himself&.
 
-I didn't know what he was thinking&, but he had a sewing needle and some fishing line with him&.
-And he began ponderously stitching together the opening of my wound&.
+I didn't know what he was thinking&, but he had a sewing needle and
+some fishing line with him&. And he began ponderously
+stitching together the opening of my wound&.
 
-At this point&, the pain it caused was absolutely nothing compared to the pain of having a foreign object pushed into my body&, and the pain of my flesh tearing apart&.  
+At this point&, the pain it caused was absolutely nothing compared
+to the pain of having a foreign object pushed into my body&,
+and the pain of my flesh tearing apart&.
 
 Darth Spider's suturing was incredibly sloppy&.
 An elementary schooler could've done a better job&.
 
-When he pulled at the fishing line&, it chafed against the holes he'd made in my skin&.
-The wound grew more itchy&.
+When he pulled at the fishing line&, it chafed against the holes
+he'd made in my skin&. The wound grew more itchy&.
 
 An unbearable itchiness&.
 An itchiness that seemed to seethe up from inside me&.
@@ -1224,7 +1273,7 @@ I wanted to scratch it&.
 If he'd let me&, I'd be happy to die&.
 
 A throbbing itch insinuated its way into my pain&.
-The itchiness&, more so than the pain&, was driving me out of my mind&. 
+The itchiness&, more so than the pain&, was driving me out of my mind&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1276,10 +1325,10 @@ A dark road&, with few people on it&, located away from the heart of the
 city&.
 
 As I walked down it&, I spotted a human figure coming my way&. Since the
-road was narrow&, we would have to angle ourselves sideways to pass one 
+road was narrow&, we would have to angle ourselves sideways to pass one
 another&.
 
-But I went cold when I saw the appearance of the figure walking toward 
+But I went cold when I saw the appearance of the figure walking toward
 me&. It was that Darth Spider man again&.
 
 We crossed paths&.
@@ -1288,7 +1337,7 @@ Darth Spider displayed no particular reaction&.
 My heart went into a tumult&.
 An emotion resembling obsession rose at the back of my brain&.
 
-A nasty old asshole had been hitting on my woman&. It pissed me off&. I 
+A nasty old asshole had been hitting on my woman&. It pissed me off&. I
 wanted to kill him&.
 
 That feeling&, truly coming out of left field&, drove me into motion&.
@@ -1300,7 +1349,7 @@ Despite that&, the face of the "nasty old asshole who'd been hitting
 on my woman" appeared vividly at the back of my mind&.
 
 I'd seen that face before&.
-He was the victim of the "staking" incident&. 
+He was the victim of the "staking" incident&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1310,7 +1359,7 @@ He was the victim of the "staking" incident&.
 
 	SetVolume("SE*", 1000, 0, null);
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -1336,7 +1385,7 @@ He was the victim of the "staking" incident&.
 	CreateSE("SE01","SE_è’åÇ_è’åÇâπ03");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
 
-	CenterLog2("After confirming this&, I--Komaeda&,", "who'd carried out the actual homicide in this case--", 2000);
+	CenterLog2("After confirming this&, IÅ\Komaeda&,", "who'd carried out the actual homicide in this caseÅ\", 2000);
 	ClearLog();
 	
 	CenterLog2("I took my hands off his neck&, kicked his fallen corpse once in the side&,"," and began to make my departure&.", 3000);
@@ -1348,9 +1397,9 @@ He was the victim of the "staking" incident&.
 	CreateVOICE("ëæìc","ch10/21700290oo");
 	SoundPlay("ëæìc",0,1000,false);
 
-	CenterNoLog1("'Aaah&.&.&.&.'");
+	CenterNoLog1("'Aaah&.&.&.'");
 
-	SetBacklog("'Aaah&.&.&.&.'", "voice/ch10/21700290oo", ëæìc);
+	SetBacklog("'Aaah&.&.&.'", "voice/ch10/21700290oo", ëæìc);
 
 	$ë“Çøéûä‘ = RemainTime ("ëæìc");
 	$ë“Çøéûä‘ += 1000;
@@ -1381,7 +1430,7 @@ He was the victim of the "staking" incident&.
 	CenterLog3("He soon stopped moving again&.","This time&, I put my ear to his mouth&, making sure he wasn't breathing&,", "then let go of him&. For some time&, I watched over him&. ", 3000);
 	ClearLog();
 
-	CenterLog3("And then&, for some reason--","The man who should've been dead jerked again&, his body quivering&,", "and began to get up&.", 2000);
+	CenterLog3("And then&, for some reasonÅ\","The man who should've been dead jerked again&, his body quivering&,", "and began to get up&.", 2000);
 	ClearLog();
 
 	CenterLog3("His expression itself remained absolutely unchanged;", "he had the face of one who was dead&.","Yet he rose and approached me&.", 2000);
@@ -1405,7 +1454,7 @@ He was the victim of the "staking" incident&.
 	CenterLog3("Controlled by that sense of danger&,", "I hurled the rising man back against the wall&.","And picked up a stake&.", 2000);
 	ClearLog();
 
-	CenterLog2("I didn't know when it had happened&,", "but my other hand was already holding a hammer-- ", 2000);
+	CenterLog2("I didn't know when it had happened&,", "but my other hand was already holding a hammerÅ\ ", 2000);
 	ClearLog();
 
 /*
@@ -1418,36 +1467,43 @@ It was the scene of the "staking&."
 And in front of my eyes was the victim who'd died there&.
 I was tightly clenching the aging man's neck&.
 
-His body convulsed violently&, and bubbles frothed from his mouth&, and his eyes rolled back in his head&.
+His body convulsed violently&, and bubbles frothed from his mouth&,
+and his eyes rolled back in his head&.
 
-I went faintly cold&, tasting the sensation of someone's life disappearing in my own hands&.
+I went faintly cold&, tasting the sensation of someone's life
+disappearing in my own hands&.
 
 At last&, the man's body stopped moving&.
 
 {	CreateSE("SE01","SE_è’åÇ_è’åÇâπ03");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}
-After confirming this&, I--Komaeda&, who'd carried out the actual homicide in this case-- I took my hands off his neck&, kicked his fallen corpse once in the side&, and began to make my departure&.
+After confirming this&, IÅ\Komaeda&, who'd carried out the actual homicide
+in this caseÅ\ I took my hands off his neck&, kicked his fallen corpse
+once in the side&, and began to make my departure&.
 
 //ÅüÉ]ÉìÉrÇ›ÇΩÇ¢Ç»Ç§ÇﬂÇ´ê∫
 //ÅyëæìcÅz
-<voice name="ëæìc" class="ëæìc" src="ch10/21700290oo">
-"Aaah&.&.&.&."
+<voice name="ëæìc" class="ëæìc" src="voice/ch10/21700290oo">
+"Aaah&.&.&."
 
-Hearing a voice&, I turned around to look&, and the man who should've been dead had risen&, the whites of his eyes showing&.
+Hearing a voice&, I turned around to look&, and the man who should've been
+dead had risen&, the whites of his eyes showing&.
 His hands reached for me&.
 
 {	CreateSE("SE01","SE_è’åÇ_è’åÇâπ03");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}
 With a shriek&, I punched him down&.
-But though his movements themselves were sluggish&, he kept rising&, without fail&.
-I seized his neck again&.
+But though his movements themselves were sluggish&, he kept rising&,
+without fail&. I seized his neck again&.
 
-In the same way as before&, more powerfully than before&, putting my whole body and spirit into it&, I strangled him as hard as I could&.
+In the same way as before&, more powerfully than before&, putting my
+whole body and spirit into it&, I strangled him as hard as I could&.
 With enough strength to snap the bones in his neck&.
 
 He soon stopped moving again&.
-This time&, I put my ear to his mouth&, making sure he wasn't breathing&, then let go of him&.
-For some time&, I watched over him&. 
+This time&, I put my ear to his mouth&, making sure he wasn't
+breathing&, then let go of him&. For some time&,
+I watched over him&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1456,25 +1512,30 @@ For some time&, I watched over him&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text024]
-And then&, for some reason--
-The man who should've been dead jerked again&, his body quivering&, and began to get up&.
+And then&, for some reasonÅ\
+The man who should've been dead jerked again&, his body
+quivering&, and began to get up&.
 
-His expression itself remained absolutely unchanged; he had the face of one who was dead&.
-Yet he rose and approached me&.
+His expression itself remained absolutely unchanged; he had
+the face of one who was dead&. Yet he rose and
+approached me&.
 
 As I started to retreat&, terrified&, my foot trod on something&.
 
-When I looked down at my foot with a start&, a huge number of cross-shaped stakes were scattered across the roadway&.
+When I looked down at my foot with a start&, a huge number of
+cross-shaped stakes were scattered across the roadway&.
 
 A phrase from one of Phantasm's songs played at the back of my brain&.
 "Strike the stake&, strike the stake"
 
-I had to drive a stake into the monster in front of me&, and stop him from moving&. If not&, I'd be in trouble&.
+I had to drive a stake into the monster in front of me&, and stop him
+from moving&. If not&, I'd be in trouble&.
 
-Controlled by that sense of danger&, I hurled the rising man back against the wall&.
-And picked up a stake&.
+Controlled by that sense of danger&, I hurled the rising man back
+against the wall&. And picked up a stake&.
 
-I didn't know when it had happened&, but my other hand was already holding a hammer-- 
+I didn't know when it had happened&, but my other hand was
+already holding a hammerÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1502,8 +1563,8 @@ I didn't know when it had happened&, but my other hand was already holding a ham
 My consciousness returned to the operating room&.
 But I wasn't the "pregnant man&."
 
-Although the pain from it&, and the sensation of an object in my 
-stomach&, kept on torturing my nerves to their very limit&.  
+Although the pain from it&, and the sensation of an object in my
+stomach&, kept on torturing my nerves to their very limit&.
 
 There were two human forms in my field of sight&.
 They watched me steadily&, with bated breath&.
@@ -1519,7 +1580,7 @@ The needle for an IV drip was stuck in my arm&.
 But it wasn't as if anything were flowing into me&.
 The liquid pouring down the IV tube was flowing backwards&.
 
-Blood&. 
+Blood&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1529,7 +1590,7 @@ Blood&.
 	CreateSE("SE01","SE_êlëÃ_éËéÒ_ÇΩÇÍÇÈåå");
 	MusicStart("SE01", 0, 500, 0, 1000, null, false);
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -1537,7 +1598,7 @@ Blood&.
 	Fade("í«ëÃå±", 500, 1000, null, true);
 
 
-	CenterLog2("My blood--the blood circulating within this body--","was flowing out through the IV needle&.", 2000);
+	CenterLog2("My bloodÅ\the blood circulating within this bodyÅ\","was flowing out through the IV needle&.", 2000);
 	ClearLog();
 
 	CenterLog2("A terribly grungy-looking bucket was the only thing at the end of the tube&.","Blood filled it to the brim&.", 2000);
@@ -1574,23 +1635,35 @@ Blood&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text026]
-My blood--the blood circulating within this body--was flowing out through the IV needle&.
+My bloodÅ\the blood circulating within this bodyÅ\was flowing
+out through the IV needle&.
 
-A terribly grungy-looking bucket was the only thing at the end of the tube&. Blood filled it to the brim&.
+A terribly grungy-looking bucket was the only thing at the end
+of the tube&. Blood filled it to the brim&.
 
-Into it fell one drop&, then another drop&, of the blood dripping from the tube&.
+Into it fell one drop&, then another drop&, of the blood dripping
+from the tube&.
 
 My head went blank&.
 I was outstandingly dizzy&.
 
-That pleasant feeling&, like my consciousness were about to go off into the distance&, mingled with the ongoing pain left behind in me from the "pregnant man&." And I was overcome by an amazingly peculiar sensation&.
+That pleasant feeling&, like my consciousness were about to go off
+into the distance&, mingled with the ongoing pain left behind in
+me from the "pregnant man&." And I was overcome by an amazingly
+peculiar sensation&.
 
-As if they were showing off to me&, Darth Spider and Hazuki Shino embraced each other gently&, like lovers&, supporting one another&.
+As if they were showing off to me&, Darth Spider and Hazuki Shino
+embraced each other gently&, like lovers&, supporting one another&.
 Hazuki had a blissful look on her face&.
 
-I couldn't comprehend how she could make a face like that&, right in the middle of creating the dessicated corpse from the "Vampyre" case&.
+I couldn't comprehend how she could make a face like that&,
+right in the middle of creating the dessicated corpse
+from the "Vampyre" case&.
 
-But before I could think about why I had trouble understanding it&, the pain turned severe&, and my throat became incredibly dry&, and my sight steadily went dark&. And finally my consciousness began slowly clouding&. 
+But before I could think about why I had trouble understanding it&,
+the pain turned severe&, and my throat became incredibly dry&,
+and my sight steadily went dark&. And finally my consciousness
+began slowly clouding&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1631,18 +1704,18 @@ Becoming aware of that&, I despaired&.
 <PRE box00>
 [text028]
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700300hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700300hd">
 "Doctor&."
 
 {	CreateTextureEX("back03", 100, 0, 0, "cg/bg/bg099_02_2_AHòLâ∫_a.jpg");
 	Fade("back03", 300, 1000, null, true);
 	Delete("back10");}
 Someone addressed me&, and I came back to myself&.
-I should've been in the operating room&, but I was standing in a 
+I should've been in the operating room&, but I was standing in a
 hospital corridor&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700310hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700310hd">
 "Dr&. Takashina&."
 
 Still without any connection to my will&, my body turned to face behind
@@ -1653,11 +1726,11 @@ me&.
 There was Hazuki Shino&, wearing a somewhat melancholy expression&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700320hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700320hd">
 "If possible&, I'd like to ask your advice about something&."
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700330hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700330hd">
 "We'll catch people's eye out here&, so come this way&."
 
 {	DeleteStand("stéuîT_îíàﬂ_í èÌ_worry", 500, true);}
@@ -1683,7 +1756,7 @@ him&.
 Since the current time was outside treatment hours&, there was nobody in
 the examining room&. Hazuki continued toward the back&.
 
-I--Dr&. Takashina--followed her without harboring any suspicions 
+IÅ\Dr&. TakashinaÅ\followed her without harboring any suspicions
 whatsoever&.
 
 She came to an abrupt stop&.
@@ -1697,7 +1770,7 @@ his head sprang out from the shadows&.
 
 While I stood there in startlement&,
 he pushed something like gauze over my mouth&.
-I then lost consciousness&. 
+I then lost consciousness&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1727,7 +1800,7 @@ My skull was vibrating ferociously&.
 
 It wasn't just vibrating&.
 It was being whittled away&.
-I felt that sensation distinctly&. 
+I felt that sensation distinctly&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1737,7 +1810,7 @@ I felt that sensation distinctly&.
 
 //ÇaÇf//Ç`Çgìåãûëççáïaâ@ÅEéËèpé∫
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -1785,13 +1858,13 @@ I felt that sensation distinctly&.
 	CenterLog2("Feeling it directly as it happened&,","I was entrapped in an impatient&, sickened frame of mind&.", 2000);
 	ClearLog();
 
-	CenterLog2("I--rather&, Dr&. Takashina--hadn't known that Hazuki", "was capable of performing surgery&, not to mention open-brain surgery&.", 3000);
+	CenterLog2("IÅ\rather&, Dr&. TakashinaÅ\hadn't known that Hazuki", "was capable of performing surgery&, not to mention open-brain surgery&.", 3000);
 	ClearLog();
 	
 	CenterLog2("That was why astonishment came first&,", "followed by my noticing that anesthesia kept my body from moving&.", 3000);
 	ClearLog();
 
-	CenterLog3("Hazuki wasn't the only one in the operating room&.","The man with the black thing on his head--Darth Spider--was there&, too&.","He stood there&, immobile&, without saying a word&.", 2500);
+	CenterLog3("Hazuki wasn't the only one in the operating room&.","The man with the black thing on his headÅ\Darth SpiderÅ\was there&, too&.","He stood there&, immobile&, without saying a word&.", 2500);
 	ClearLog();
 
 	SoundStop2("ótåéÇQ");
@@ -1832,9 +1905,9 @@ I felt that sensation distinctly&.
 	CreateVOICE("ótåéÇT","ch10/21700380hd");
 	SoundPlay("ótåéÇT", 0, 1000, false);
 
-	CenterNoLog1("'I do wonder how long you'll be able to live&, Doctor&.&.&.&.'");
+	CenterNoLog1("'I do wonder how long you'll be able to live&, Doctor&.&.&.'");
 
-	SetBacklog("'I do wonder how long you'll be able to live&, Doctor&.&.&.&.'", "voice/ch10/21700380hd", ótåé);
+	SetBacklog("'I do wonder how long you'll be able to live&, Doctor&.&.&.'", "voice/ch10/21700380hd", ótåé);
 
 	$ë“Çøéûä‘ = RemainTime ("ótåéÇT");
 	$ë“Çøéûä‘ += 1000;
@@ -1853,8 +1926,8 @@ I felt that sensation distinctly&.
 	CreateVOICE("ótåéÇU","ch10/21700390hd");
 	SoundPlay("ótåéÇU", 0, 1000, false);
 
-	CenterLog1("'May the divine light save you&, Dr&. Takashina&.&.&.&.'");
-	SetBacklog("'May the divine light save you&, Dr&. Takashina&.&.&.&.'", "voice/ch10/21700390hd", ótåé);
+	CenterLog1("'May the divine light save you&, Dr&. Takashina&.&.&.'");
+	SetBacklog("'May the divine light save you&, Dr&. Takashina&.&.&.'", "voice/ch10/21700390hd", ótåé);
 
 	$ë“Çøéûä‘ = RemainTime ("ótåéÇU");
 	$ë“Çøéûä‘ += 1000;
@@ -1894,8 +1967,8 @@ I felt that sensation distinctly&.
 	CreateVOICE("ótåéÇV","ch10/21700400hd");
 	SoundPlay("ótåéÇV", 0, 1000, false);
 
-	CenterNoLog1("'Haa&, haa&.&.&.&. Salvation&.&.&.&.'");
-	SetBacklog("'Haa&, haa&.&.&.&. Salvation&.&.&.&.'", "voice/ch10/21700400hd", ótåé);
+	CenterNoLog1("'Haa&, haa&.&.&. Salvation&.&.&.'");
+	SetBacklog("'Haa&, haa&.&.&. Salvation&.&.&.'", "voice/ch10/21700400hd", ótåé);
 
 	$ë“Çøéûä‘ = RemainTime ("ótåéÇV");
 	$ë“Çøéûä‘ += 1000;
@@ -1906,7 +1979,7 @@ I felt that sensation distinctly&.
 	CenterLog1("But Hazuki's hand didn't stop moving&.", 1000);
 	ClearLog();
 
-	CenterLog3("On the contrary&, her expression shifted to one of esctasy&,","and her cheeks flushed as she recklessly dug deeper", "into my--into Dr&. Takashina's--brain&.", 2000);
+	CenterLog3("On the contrary&, her expression shifted to one of esctasy&,","and her cheeks flushed as she recklessly dug deeper", "into myÅ\into Dr&. Takashina'sÅ\brain&.", 2000);
 	ClearLog();
 
 	CreateSE("SE01","SE_ã[âπ_î]Ç›Çª");
@@ -1946,7 +2019,7 @@ I felt that sensation distinctly&.
 
 	WaitAction("SE01", null);
 
-	CenterLog2("She stirred my brain around&.","Simultaneously stirring around my emotions-- ", 1000);
+	CenterLog2("She stirred my brain around&.","Simultaneously stirring around my emotionsÅ\ ", 1000);
 	ClearLog();
 
 
@@ -1963,43 +2036,53 @@ I felt that sensation distinctly&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text031]
-The sound died down&, and when I opened my eyes&, I was back in an operating room&.
+The sound died down&, and when I opened my eyes&, I was back
+in an operating room&.
 
-A number of lights&, like a gathering of eyes&, hung down from the ceiling&. Shining brilliantly&, they illuminated my face&.
+A number of lights&, like a gathering of eyes&, hung down from
+the ceiling&. Shining brilliantly&, they illuminated my face&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700340hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700340hd">
 "Doctor&, I've removed your cranium&."
 
 //ÅüëfíºÇ…ÇŸÇÍÇ⁄ÇÍÇ∆Ç∑ÇÈ
 //ÅüçdñåÅÅÇ±Ç§Ç‹Ç≠
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700350hd">
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700350hd">
 "Your dura mater is so very lovely&, Doctor&."
 
-Hazuki said in a tone of rhapsody&, then used a pair of scissors to cut away the tough membrane covering my brain&.
+Hazuki said in a tone of rhapsody&, then used a pair of scissors
+to cut away the tough membrane covering my brain&.
 
-Feeling it directly as it happened&, I was entrapped in an impatient&, sickened frame of mind&.
+Feeling it directly as it happened&, I was entrapped in an
+impatient&, sickened frame of mind&.
 
-I--rather&, Dr&. Takashina--hadn't known that Hazuki was capable of performing surgery&, not to mention open-brain surgery&. That was why astonishment came first&, followed by my noticing that anesthesia kept my body from moving&.
+IÅ\rather&, Dr&. TakashinaÅ\hadn't known that Hazuki was capable
+of performing surgery&, not to mention open-brain surgery&.
+That was why astonishment came first&, followed by my noticing
+that anesthesia kept my body from moving&.
 
 Hazuki wasn't the only one in the operating room&.
-The man with the black thing on his head--Darth Spider--was there&, too&.
+The man with the black thing on his headÅ\Darth SpiderÅ\was there&, too&.
 He stood there&, immobile&, without saying a word&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700360hd">
-"There are examples of human beings who have lived for over a week&, despite being braindead&, and without the help of artificial respiration&. Did you know?"
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700360hd">
+"There are examples of human beings who have lived for over a week&,
+despite being braindead&, and without the help of artificial
+respiration&. Did you know?"
 
 Smiling gently&, Hazuki murmured something strange by my ear&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700370hd">
-"In other words&, doesn't that mean one can continue living for some time&, even 'without a brain'?"
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700370hd">
+"In other words&, doesn't that mean one can continue living for
+some time&, even 'without a brain'?"
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700380hd">
-"I do wonder how long you'll be able to live&, Doctor&.&.&.&."
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700380hd">
+"I do wonder how long you'll be able to live&, Doctor&.&.&."
 
 I shuddered&.
 An unknown terror roiled through me&.
@@ -2008,16 +2091,16 @@ Hazuki held a spoon up before my eyes&.
 The spoon soon left my field of sight&.
 
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700390hd">
-"May the divine light save you&, Dr&. Takashina&.&.&.&."
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700390hd">
+"May the divine light save you&, Dr&. Takashina&.&.&."
 
-The feeling of something that didn't belong there pushed hard into my head&.
-I say in my head&, but I don't mean that metaphorically&.
-It was literally inside my head&.
+The feeling of something that didn't belong there pushed hard
+into my head&. I say in my head&, but I don't mean that
+metaphorically&. It was literally inside my head&.
 
 The sense of something entering and moving around in there&.
 There was no pain&.
-Even so&, it was more than enough to repulse me and terrify me&. 
+Even so&, it was more than enough to repulse me and terrify me&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2035,17 +2118,19 @@ I glanced to see what it was&, moving my eyes alone&.
 A clean pinkish hue&. But its shape was smashed&.
 Almost like salmon roe&.
 
-Once I understood it was part of my own brain&, my dread reached the melting point&.
-I begged her to stop&.
+Once I understood it was part of my own brain&, my dread reached the
+melting point&. I begged her to stop&.
 
 //Åüúíçõ
 //ÅyótåéÅz
-<voice name="ótåé" class="ótåé" src="ch10/21700400hd">
-"Haa&, haa&.&.&.&. Salvation&.&.&.&."
+<voice name="ótåé" class="ótåé" src="voice/ch10/21700400hd">
+"Haa&, haa&.&.&. Salvation&.&.&."
 
 But Hazuki's hand didn't stop moving&.
 
-On the contrary&, her expression shifted to one of esctasy&, and her cheeks flushed as she recklessly dug deeper into my--into Dr&. Takashina's--brain&.  
+On the contrary&, her expression shifted to one of esctasy&, and her
+cheeks flushed as she recklessly dug deeper
+into myÅ\into Dr&. Takashina'sÅ\brain&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2070,7 +2155,7 @@ Suddenly a fierce lust surged up in me&, and my chest tightened ardently&.
 
 //ÇrÇd//ÉxÉ`ÉÉÉbÅI
 She stirred my brain around&.
-Simultaneously stirring around my emotions-- 
+Simultaneously stirring around my emotionsÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2098,15 +2183,15 @@ Simultaneously stirring around my emotions--
 [text034]
 Emotions different from what I actually felt welled up in me&.
 
-They dwelt separately from my heart&, my soul&, the consciousness known 
+They dwelt separately from my heart&, my soul&, the consciousness known
 as me&, thrusting at me the ambiguity of my own existence&.
 
-As my psyche went to shreds via this mental rape&, which would 
-ultimately lead to the denial of my existence&, I found myself 
-walking under a railroad overpass&.  
+As my psyche went to shreds via this mental rape&, which would
+ultimately lead to the denial of my existence&, I found myself
+walking under a railroad overpass&.
 
 Taking the order into consideration&, this time it would be the
-"delicious hand"&.&.&.&.
+"delicious hand"&.&.&.
 
 As expected&, my body had become female&.
 I was awfully hungry&. Maybe the victim had been on a diet or something&.
@@ -2114,24 +2199,24 @@ I was awfully hungry&. Maybe the victim had been on a diet or something&.
 I crossed paths with the Darth Spider man again&.
 
 He appeared and disappeared when I least expected it&. Given how much
-his appearance made him stand out&, why hadn't the police or the media 
+his appearance made him stand out&, why hadn't the police or the media
 picked up on any information about him?
 
 //ÇuÇe//É}ÉXÉNâzÇµÇÃê∫
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700410su">
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700410su">
 "That sure looks tasty&."
 
 Darth Spider spoke for the first time&.
 He pointed at my right hand as he said it&.
-A surreal spectacle&. 
+A surreal spectacle&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
 
-	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvëÃå±.ngs");
+	CreateMovie("í«ëÃå±", 100, Center, Middle, true, false, "dx/mvExperience.ngs");
 	Fade("í«ëÃå±", 0, 0, null, false);
 
 	Request("í«ëÃå±", Play);
@@ -2281,7 +2366,10 @@ A surreal spectacle&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text035]
-I&, who had been walking along quickly&, stopped and took a look at my right hand&. For some reason&, it was holding five unwrapped skewers of chicken&. Each skewer was sticking out from between the fingers of my closed fist&.
+I&, who had been walking along quickly&, stopped and took a look
+at my right hand&. For some reason&, it was holding five
+unwrapped skewers of chicken&. Each skewer was sticking out
+from between the fingers of my closed fist&.
 
 Warm-looking steam&.
 The juicy scent of cooked meat&.
@@ -2301,23 +2389,27 @@ Delicious&. So delicious&, I thought I'd die&.
 
 I polished off the five chicken skewers in the blink of an eye&.
 
-Without my noticing it&, Darth Spider had disappeared&. But I didn't give a damn about such a weird guy&.
+Without my noticing it&, Darth Spider had disappeared&.
+But I didn't give a damn about such a weird guy&.
 
 I wanted to eat more&.
 My stomach sought more food&.
 
-The fingers of my right hand throbbed with pain&, but my appetite far surpassed it&.
+The fingers of my right hand throbbed with pain&,
+but my appetite far surpassed it&.
 
 I looked back at my hand&.
 I hadn't just been holding skewered chicken&.
 
-I was cradling an arm-sized hunk of bone with meat attached to it&. Its dripping juices stained the sleeve of my blouse&, turning it reddish-black&.  
+I was cradling an arm-sized hunk of bone with meat attached to it&.
+Its dripping juices stained the sleeve of my blouse&,
+turning it reddish-black&.
 
 When had I obtained it&, and how long had I been carrying it?
 
 That&, too&, stopped mattering in the face of my hunger&.
 
-I sank my teeth into the meat with all my might&. 
+I sank my teeth into the meat with all my might&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2339,35 +2431,49 @@ I swallowed it&.
 It was a soft and fairly fatty meat&.
 I bit further into it&.
 
-Both my hand and the area around my mouth had gone slick with lard&, but I didn't let it bother me&.
-This was a deliciousness I'd never experienced before&.
+Both my hand and the area around my mouth had gone slick with lard&,
+but I didn't let it bother me&. This was a deliciousness I'd never
+experienced before&.
 
 I bit the meat off the bone&.
-Fat spread in my mouth&, seeping in&, like it was melting&, leaving behind a unique aftertaste&.
+Fat spread in my mouth&, seeping in&, like it was melting&, leaving
+behind a unique aftertaste&.
 
 It hurt&. For some reason&, it hurt so bad&, I thought I'd die&.
 But I kept chewing&.
 
-Compared to the size of the bone&, there wasn't very much of the meat itself&. I'd soon devoured all of it&.
+Compared to the size of the bone&, there wasn't very much of the
+meat itself&. I'd soon devoured all of it&.
 
-At the end&, I licked up the thin scraps of flesh just barely clinging to the bone&, savoring even the bone's taste&, almost sucking at it&.
+At the end&, I licked up the thin scraps of flesh just barely clinging
+to the bone&, savoring even the bone's taste&, almost sucking at it&.
 
-The five thin bones protruding at the end of it weren't so hard that they wouldn't break if I bit them&.
+The five thin bones protruding at the end of it weren't so hard that
+they wouldn't break if I bit them&.
 
-I gave them a good gnawing&. Pain so intense I almost crumpled in place ran through me&, and with tears streaming down my face&, I lapped up the juice seeping pleasantly out from within the bones&.
+I gave them a good gnawing&. Pain so intense I almost crumpled in
+place ran through me&, and with tears streaming down my face&,
+I lapped up the juice seeping pleasantly out from within the bones&.
 
-I ripped one of the bones off&, and while collapsing in place from how the stimulation of it seared me&, I rolled it around in my mouth&. Crunch crunch&. Munch munch&.
+I ripped one of the bones off&, and while collapsing in place from
+how the stimulation of it seared me&, I rolled it
+around in my mouth&. Crunch crunch&. Munch munch&.
 
-When I swallowed it&, it got trapped in my throat&, and I couldn't breathe&.
-I unconsciously began to swing my legs around&, kicking out wildly&.
+When I swallowed it&, it got trapped in my throat&, and I couldn't
+breathe&. I unconsciously began to swing my legs around&,
+kicking out wildly&.
 
-But without my taking heed of it&, a cord had been wound around my ankles&, and I couldn't move freely&.
+But without my taking heed of it&, a cord had been wound around my
+ankles&, and I couldn't move freely&.
 
 Darth Spider stood before me&.
 
-As I writhed&, the exposed bones of my right hand struck the ground&, and the vibrations from it sent pain spreading through my whole body, like waves on water&. I pissed myself&, and passed out as I suffocated&.
+As I writhed&, the exposed bones of my right hand struck the ground&,
+and the vibrations from it sent pain spreading through my whole
+body, like waves on water&. I pissed myself&, and passed out
+as I suffocated&.
 
-And never woke up again&. 
+And never woke up again&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2397,71 +2503,71 @@ And never woke up again&.
 <PRE box00>
 [text037]
 I opened my eyes in a dim alley&.
-The backdrop was a little different from before&. 
+The backdrop was a little different from before&.
 
 As I walked&, I leaned on the shoulder of a thuggish guy with his face
-pummeled to a pulp&, looking like he was about to cry&. 
+pummeled to a pulp&, looking like he was about to cry&.
 
-The three of them were in an awful state&, myself included&. 
+The three of them were in an awful state&, myself included&.
 Their clothes were drenched in blood&, and their faces had puffed up&,
-and they'd chipped a number of teeth&. 
+and they'd chipped a number of teeth&.
 
-The one who had done this was probably&.&.&.&. me&. 
-They were the trio of thugs who'd picked a fight with me&. 
+The one who had done this was probably&.&.&. me&.
+They were the trio of thugs who'd picked a fight with me&.
 And after this&, they would have their torsos "torn apart&," and would
-die&. 
+die&.
 
-Again&, the Darth Spider man stood at the end of their path&. 
+Again&, the Darth Spider man stood at the end of their path&.
 
 //Åyà¿ëÚÅz
-<voice name="à¿ëÚ" class="à¿ëÚ" src="ch10/21700420yz">
-"Hey&, you prick&, what the fuck was that all about!?" 
+<voice name="à¿ëÚ" class="à¿ëÚ" src="voice/ch10/21700420yz">
+"Hey&, you prick&, what the fuck was that all about!?"
 
 The guy who was lending me his shoulder yelled at Darth Spider&. But
 with his face looking the way it was&, his intimidation factor pretty
-much dropped by half&. 
+much dropped by half&.
 
 //Åyà¿ëÚÅz
-<voice name="à¿ëÚ" class="à¿ëÚ" src="ch10/21700430yz">
-"What the hell was that Nishijou motherfucker&.&.&.&." 
+<voice name="à¿ëÚ" class="à¿ëÚ" src="voice/ch10/21700430yz">
+"What the hell was that Nishijou motherfucker&.&.&."
 
 //Åyà¿ëÚÅz
-<voice name="à¿ëÚ" class="à¿ëÚ" src="ch10/21700440yz">
-"He was like a frigging monster&.&.&.&." 
+<voice name="à¿ëÚ" class="à¿ëÚ" src="voice/ch10/21700440yz">
+"He was like a frigging monster&.&.&."
 
 //ÇuÇe//É}ÉXÉNâzÇµÇÃê∫
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700450su">
-"So he beat you at your own game&, and you ran away&, huh&. How lame&." 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700450su">
+"So he beat you at your own game&, and you ran away&, huh&. How lame&."
 
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700460tg">
-"Anyway&, just give us the money&.&.&.&." 
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700460tg">
+"Anyway&, just give us the money&.&.&."
 
 //ÇuÇe//É}ÉXÉNâzÇµÇÃê∫
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700470su">
-"Money?" 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700470su">
+"Money?"
 
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700480tg">
-"Don't screw with us&, c'mon&.&.&.&.!" 
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700480tg">
+"Don't screw with us&, c'mon&.&.&.!"
 
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700490tg">
-"You said it yourself&, dickhead&, 
-that you'd pay us if we gave Nishijou a working over!" 
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700490tg">
+"You said it yourself&, dickhead&,
+that you'd pay us if we gave Nishijou a working over!"
 
-One of them seized at Darth Spider&. 
-Grabbing him by the collar&, he heaved him up and smacked the black 
-helmet&. 
+One of them seized at Darth Spider&.
+Grabbing him by the collar&, he heaved him up and smacked the black
+helmet&.
 
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700500tg">
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700500tg">
 "You set us up for something pretty fucked up back there&. Don't you be
-lookin' down on us&.&.&.&.! Take it off&, take it the fuck off!" 
+lookin' down on us&.&.&.! Take it off&, take it the fuck off!"
 
-He forced the helmet to come off&. 
+He forced the helmet to come off&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2476,25 +2582,25 @@ He forced the helmet to come off&.
 <PRE box00>
 [text038]
 I'd had an idea of whose face would appear beneath it&,
-and it really was-- 
+and it really wasÅ\
 
 {	Stand("buåÏ_ÉXÅ[Éc_í èÌ","hard", 200, @+150);
 	FadeStand("buåÏ_ÉXÅ[Éc_í èÌ_hard", 200, true);}
-Suwa Mamoru's fearless face&. 
+Suwa Mamoru's fearless face&.
 
-He was Hazuki Shino's accomplice&. 
-So he'd been the other New-Gen criminal&.&.&.&. 
+He was Hazuki Shino's accomplice&.
+So he'd been the other New-Gen criminal&.&.&.
 
 Suwa rammed a knee into the belly of the guy who was making a grab
 for him&. The polish evident in how he carried himself set him utterly
-apart from the thugs and their violence&. 
+apart from the thugs and their violence&.
 
 {	Stand("buåÏ_ÉXÅ[Éc_í èÌ","cool", 200, @+150);
 	FadeStand("buåÏ_ÉXÅ[Éc_í èÌ_cool", 300, true);
 	DeleteStand("buåÏ_ÉXÅ[Éc_í èÌ_hard", 0, true);}
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700510su">
-"Well&, since I'm done with the three of you&." 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700510su">
+"Well&, since I'm done with the three of you&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2507,11 +2613,11 @@ apart from the thugs and their violence&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text039]
-The ground shook slightly&. 
+The ground shook slightly&.
 
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700520tg">
-"Wh&, what was that&.&.&.&.?"
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700520tg">
+"Wh&, what was that&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2526,16 +2632,16 @@ The ground shook slightly&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text040]
-I felt a prescence&. 
-At Suwa's back&. 
-Immersed in darkness&, deep in the narrow alley&. 
+I felt a prescence&.
+At Suwa's back&.
+Immersed in darkness&, deep in the narrow alley&.
 
-Something was there&. 
-Moreover&, it prompted me to imagine it as being of abnormal size&. 
-In addition&, it let out an uncanny growl&. 
+Something was there&.
+Moreover&, it prompted me to imagine it as being of abnormal size&.
+In addition&, it let out an uncanny growl&.
 
 Though we couldn't see it&, the vivid bloodlust emitted by that monster
-made all three of our hearts wither utterly&. 
+made all three of our hearts wither utterly&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2558,17 +2664,17 @@ made all three of our hearts wither utterly&.
 [text041]
 At last it showed itself&, a literal monster&, together with footsteps
 that sounded like the ground rumbling&.
-So grotesque&, nothing else like it existed anywhere on Earth&.  
+So grotesque&, nothing else like it existed anywhere on Earth&.
 
 //éQçléëóøÅ®http://image&.rakuten&.co&.jp/ustoy/cabinet/sw/843-1&.jpg
 Its brown skin glistened wetly&, and its colossal head sat low upon its
-shoulders&. Its red eyes glinted fiercely&, and its mouth was torn wide 
+shoulders&. Its red eyes glinted fiercely&, and its mouth was torn wide
 across its face on either side&, and its wrists were as thick around
-as logs&. 
+as logs&.
 
 That bipedal monster came up to Suwa's side&, then opened its mouth all
 the way&. Its rows of sharp fangs shone&, reflecting the light of the
-street lamps&. 
+street lamps&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2582,29 +2688,29 @@ street lamps&.
 <PRE box00>
 [text042]
 Its roar was as low as a growl&, and put greater fear in me than any
-beast I'd heard before in my life&. 
+beast I'd heard before in my life&.
 
 It had the ferocity to make those who heard it quiver down to their
-very souls&. 
+very souls&.
 
 //Åyà¿ëÚÅz
-<voice name="à¿ëÚ" class="à¿ëÚ" src="ch10/21700530yz">
-"Wh&, what is this&.&.&.&." 
+<voice name="à¿ëÚ" class="à¿ëÚ" src="voice/ch10/21700530yz">
+"Wh&, what is this&.&.&."
 
 {	Fade("back10", 500, 0, null, true);
 	Stand("buåÏ_ÉXÅ[Éc_í èÌ","normal", 200, @+150);
 	FadeStand("buåÏ_ÉXÅ[Éc_í èÌ_normal", 500, true);}
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700540su">
-"I really dig 'Spark Wars&.'" 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700540su">
+"I really dig 'Spark Wars&.'"
 
 Suwa alone appeared completely unbothered by this monster's appearance&.
 On the contrary&, he touched the monster's leg with apparent
-satisfaction&, stroking it&. 
+satisfaction&, stroking it&.
 
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700550su">
-"This is one of the aliens from it&." 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700550su">
+"This is one of the aliens from it&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2626,26 +2732,26 @@ satisfaction&, stroking it&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text043]
-A second roar&. 
-And the monster pressed a step closer to the stock-still trio&. 
+A second roar&.
+And the monster pressed a step closer to the stock-still trio&.
 
-I tried to run&. 
-There was no way I could escape&. 
+I tried to run&.
+There was no way I could escape&.
 
-I tried to call for help&. 
-There was no one in the area&. 
+I tried to call for help&.
+There was no one in the area&.
 
-An overwhelming power discrepancy&. 
-The difference in our latent potential as species was much too great&. 
+An overwhelming power discrepancy&.
+The difference in our latent potential as species was much too great&.
 
-With the beast before us&, we three were all too helpless&. 
-For the first time in our lives&, we experienced heartfelt fear&. 
+With the beast before us&, we three were all too helpless&.
+For the first time in our lives&, we experienced heartfelt fear&.
 
 When people end up like that&, they fall silent&, shrink back&, become
 unable to move so much as a single finger&.
 
-The monster let out one breath&. 
-And it swung down its log-like arms&. 
+The monster let out one breath&.
+And it swung down its log-like arms&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2664,8 +2770,8 @@ And it swung down its log-like arms&.
 <PRE box00>
 [text044]
 //ÅyëÈñÿÅz
-<voice name="ëÈñÿ" class="ëÈñÿ" src="ch10/21700560tg">
-"Gyaaaaaaahhh!" 
+<voice name="ëÈñÿ" class="ëÈñÿ" src="voice/ch10/21700560tg">
+"Gyaaaaaaahhh!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2681,8 +2787,8 @@ And it swung down its log-like arms&.
 <PRE box00>
 [text045]
 //Åyà¿ëÚÅz
-<voice name="à¿ëÚ" class="à¿ëÚ" src="ch10/21700570yz">
-"Ugehgogoaaaaahh!" 
+<voice name="à¿ëÚ" class="à¿ëÚ" src="voice/ch10/21700570yz">
+"Ugehgogoaaaaahh!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2700,23 +2806,23 @@ And it swung down its log-like arms&.
 <PRE box00>
 [text046]
 In an instant&, their two bodies had been torn apart&, as if they were
-dolls&. Blood and intestines splattered across the street&, steaming&, 
+dolls&. Blood and intestines splattered across the street&, steaming&,
 and it hurled their divided corpses viciously&, spearing them on the
-handles attached to a telephone pole&, dangling them down&. 
+handles attached to a telephone pole&, dangling them down&.
 
 {	Stand("buåÏ_ÉXÅ[Éc_í èÌ","normal", 200, @+150);
 	FadeStand("buåÏ_ÉXÅ[Éc_í èÌ_normal", 500, true);}
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch10/21700580su">
-"That just leaves you&." 
+<voice name="êzñK" class="êzñK" src="voice/ch10/21700580su">
+"That just leaves you&."
 
-Suwa's gaze penetrated me&. 
-I awoke to the fact that he was the one setting this alien to work&. 
+Suwa's gaze penetrated me&.
+I awoke to the fact that he was the one setting this alien to work&.
 
-I told myself this was a delusion&, but it didn't do any good&. 
+I told myself this was a delusion&, but it didn't do any good&.
 Faced with absolute terror and overwhelming violence&, I just sank
 down and pissed myself&. Afterward&,
-it was all I could do to look dazedly up at that monstrosity-- 
+it was all I could do to look dazedly up at that monstrosityÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2738,7 +2844,7 @@ it was all I could do to look dazedly up at that monstrosity--
 <PRE box00>
 [text047]
 And my torso ripped apart&, and as I got a taste of this killing method
-that regular people would never&, ever experience&, I breathed my last&. 
+that regular people would never&, ever experience&, I breathed my last&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2767,56 +2873,56 @@ that regular people would never&, ever experience&, I breathed my last&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text048]
-How many times have I vicariously died by now? 
+How many times have I vicariously died by now?
 
-Three times? One time? Seven times? 
+Three times? One time? Seven times?
 
-Four times! Two times! Five times! 
+Four times! Two times! Five times!
 
-Human flesh is pretty damn tasty&. 
+Human flesh is pretty damn tasty&.
 
 It hurts&.
 
-No more&. 
+No more&.
 
-Dark Spider's get-up is surreal&. A gag&. 
+Dark Spider's get-up is surreal&. A gag&.
 
-Well&, how many times have I died? 
-Who're you saying died? 
-I'm not dead&. 
+Well&, how many times have I died?
+Who're you saying died?
+I'm not dead&.
 
-That monster is&, like&, straight out of a horror movie&. 
-But Suwa said the monster came from "Spark Wars&." 
-Yeah&, what about it? 
+That monster is&, like&, straight out of a horror movie&.
+But Suwa said the monster came from "Spark Wars&."
+Yeah&, what about it?
 
-Human flesh is pretty damn tasty&. The bones&, too&. 
+Human flesh is pretty damn tasty&. The bones&, too&.
 
-Why does Darth Spider wear black? 
+Why does Darth Spider wear black?
 
-Hazuki Shino is hot stuff&. 
-But she's scary&. She's crazy&. That's what makes her a hottie&. 
+Hazuki Shino is hot stuff&.
+But she's scary&. She's crazy&. That's what makes her a hottie&.
 
-If Darth Spider is made of bones&, what's his meat? 
+If Darth Spider is made of bones&, what's his meat?
 
-How many times have I died for a gag? 
-Wait&, is it a gag or what? 
+How many times have I died for a gag?
+Wait&, is it a gag or what?
 
-Not passed away&. 
-Died&. 
+Not passed away&.
+Died&.
 
-Death&. 
-DEATH&. 
-death&. 
+Death&.
+DEATH&.
+death&.
 
-it's surreal&. 
-no more&. 
-look&, bones&. 
+it's surreal&.
+no more&.
+look&, bones&.
 
-i don't wanna die&. 
-black&. 
-i died&. 
+i don't wanna die&.
+black&.
+i died&.
 
-so kill me-- 
+so kill meÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2839,11 +2945,11 @@ so kill me--
 
 
 
-//Centerï∂éöópÉ}ÉNÉç----------------------------------------------------------
+//Centerï∂éöópÉ}ÉNÉçÅ\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 function CenterLog1("$ï∂éöóÒ", èäóvéûä‘)
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒ");
 	Move("text01", 0, @0, @0, null, true);
 	SetBacklog("$ï∂éöóÒ", "NULL", NULL);
@@ -2859,7 +2965,7 @@ function CenterLog1("$ï∂éöóÒ", èäóvéûä‘)
 function CenterLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", èäóvéûä‘)
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇP");
 	Move("text01", 0, @0, @-12, null, true);
 	SetBacklog("$ï∂éöóÒÇP", "NULL", NULL);
@@ -2870,7 +2976,7 @@ function CenterLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", èäóvéûä‘)
 
 	WaitKey(èäóvéûä‘);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇQ");
 	Move("text02", 0, @0, @+12, null, true);
 	SetBacklog("$ï∂éöóÒÇQ", "NULL", NULL);
@@ -2886,7 +2992,7 @@ function CenterLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", èäóvéûä‘)
 function CenterLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR", èäóvéûä‘)
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇP");
 	Move("text01", 0, @0, @-24, null, true);
 	SetBacklog("$ï∂éöóÒÇP", "NULL", NULL);
@@ -2897,7 +3003,7 @@ function CenterLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR", èäóvéûä‘)
 
 	WaitKey(èäóvéûä‘);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇQ");
 	Move("text02", 0, @0, @+0, null, true);
 	SetBacklog("$ï∂éöóÒÇQ", "NULL", NULL);
@@ -2908,7 +3014,7 @@ function CenterLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR", èäóvéûä‘)
 
 	WaitKey(èäóvéûä‘);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text03", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇR");
 	Move("text03", 0, @0, @+24, null, true);
 	SetBacklog("$ï∂éöóÒÇR", "NULL", NULL);
@@ -2931,7 +3037,7 @@ function ClearLog()
 function CenterNoLog1("$ï∂éöóÒ")
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒ");
 	Move("text01", 0, @0, @0, null, true);
 	Request("text01", NoLog);
@@ -2945,7 +3051,7 @@ function CenterNoLog1("$ï∂éöóÒ")
 function CenterNoLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ")
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇP");
 	Move("text01", 0, @0, @-12, null, true);
 	Request("text01", NoLog);
@@ -2953,7 +3059,7 @@ function CenterNoLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ")
 	Request("text01", Enter);
 	WaitAction("text01", null);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇQ");
 	Move("text02", 0, @0, @+12, null, true);
 	Request("text02", NoLog);
@@ -2966,7 +3072,7 @@ function CenterNoLog2("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ")
 function CenterNoLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR")
 {
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇP");
 	Move("text01", 0, @0, @-24, null, true);
 	Request("text01", NoLog);
@@ -2974,7 +3080,7 @@ function CenterNoLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR")
 	Request("text01", Enter);
 	WaitAction("text01", null);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇQ");
 	Move("text02", 0, @0, @+0, null, true);
 	Request("text02", NoLog);
@@ -2982,7 +3088,7 @@ function CenterNoLog3("$ï∂éöóÒÇP", "$ï∂éöóÒÇQ", "$ï∂éöóÒÇR")
 	Request("text02", Enter);
 	WaitAction("text02", null);
 
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text03", 200, Center, Middle, Auto, Auto, "$ï∂éöóÒÇR");
 	Move("text03", 0, @0, @+24, null, true);
 	Request("text03", NoLog);

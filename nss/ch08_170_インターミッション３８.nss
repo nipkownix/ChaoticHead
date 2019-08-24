@@ -64,11 +64,11 @@ to catch Sena's blow with such excellent timing&.
 //ˆÈ‰ºA½‚ÌƒZƒŠƒt‚Í‚·‚×‚ÄS‚Ìº
 //‚u‚e//S‚Ìº
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch08/17000010ko">
-"Fuhyaa--"
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch08/17000010ko">
+"Fuhyaa\"
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch08/17000020ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch08/17000020ko">
 "So Sakihata-shan was a Gigalomaaaniac&, too~"
 
 Kozue gazed at Sena and the others from atop the container housing&,
@@ -83,8 +83,8 @@ But her eyes didn't slide away from Rimi&, right in front of her&.
 Rimi&, in contrast&, had on a brooding expression&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/17000030ta">
-"Ah&.&.&.&. ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/17000030ta">
+"Ah&.&.&. ah&.&.&."
 
 Behind Rimi&, the pathetically crumpled Nishijou Takumi let out a
 moan&.
@@ -94,19 +94,19 @@ with Rimi&. Moreover&, this wasn't a manga or anime&, and it was
 probably unrealistic to conceive of a battle between Di-Swords&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000040sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000040sn">
 "Do you know what he's done?"
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000050sn">
-"The equation called Ir2--"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000050sn">
+"The equation called Ir2\"
 
 {	Stand("st—œ[_§•_•Ší\‚¦","sad", 250, @0);
 	DeleteStand("st—œ[_§•_•Ší\‚¦_hard", 500, false);
 	FadeStand("st—œ[_§•_•Ší\‚¦_sad", 500, true);}
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000060ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000060ri">
 "I know&."
 
 {	CreateSE("SE03","SE_‹[‰¹_ƒfƒBƒ\[ƒh_‹ó‚ğØ‚é1");
@@ -139,30 +139,30 @@ Hearing it&, Sena gripped her Di-Sword harder&.
 <PRE box00>
 [text002]
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000070sn">
-"Then--"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000070sn">
+"Then\"
 
 {	Stand("st—œ[_§•_³–Ê","hard", 250, @0);
 	FadeStand("st—œ[_§•_³–Ê_hard", 200, false);
 	DeleteStand("st—œ[_§•_³–Ê_sad", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000080ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000080ri">
 "If you force Taku to awaken"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000090ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000090ri">
 "Far worse things will happen&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000100sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000100sn">
 "I'll kill him before then&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000110ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000110ri">
 "You won't"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000120ri">
 "Be able to&."
 
 {	MusicStart("@CH01", 2000, 0, 0, 1000, null, false);}
@@ -173,11 +173,11 @@ Rimi&, on the other hand&, only stood there casually&.
 
 It would take about five large strides to reach the slumped-over
 Nishijou Takumi&. A distance from which she could bring things
-to an end in three seconds&.  
+to an end in three seconds&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000130sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000130sn">
+"&.&.&.&.&.&.&."
 
 {	MusicStart("@CH13", 2000, 1000, 0, 1000, null, true);}
 Sena unhesitatingly
@@ -211,7 +211,7 @@ Aiming for her&, Sena swept her Di-Sword horizontally&.
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 500, 0, null, true);}
 Rimi attempted to catch it in the same way as she had before&.
 
-But-- 
+But\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -237,7 +237,7 @@ But--
 <PRE box00>
 [text003]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000140ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000140ri">
 "Ah!?"
 
 {	DeleteStand("bu—œ[_§•_•Ší\‚¦_sad", 400, true);}
@@ -259,7 +259,7 @@ But that was exactly what she'd aimed for&.
 Rimi&, who had braced herself to receive the attack&, reacted too slowly&.
 
 In the meantime&, Sena had already slipped past her side and taken
-another two strides&, closing in on Takumi&. 
+another two strides&, closing in on Takumi&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -293,30 +293,31 @@ another two strides&, closing in on Takumi&.
 [text103]
 She reverted to a real-booted state in an instant&.
 
-With this--!
+With this-!
 
 Takumi's eyes turned toward her&, brimming with the hue of terror&,
 And it took little effort for her to finish real-booting&.
 
 When she prepared to gore through Takumi's heart
-With her sword that had once again become part of reality--
+With her sword that had once again become part of reality\
 
 {	SoundPlay("SE03", 500, 0, false);
 	MusicStart("@CH*", 200, 0, 0, 1000, null, false);
 	Wait(1000);}
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000150ha">
-"&.&.&.&.Sena&."
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000150ha">
+"&.&.&.Sena&."
 
 {	Stand("buƒZƒi_§•_•Ší\‚¦","sad", 200, @0);
 	FadeStand("buƒZƒi_§•_•Ší\‚¦_sad", 300, true);
 	DeleteStand("buƒZƒi_§•_•Ší\‚¦_angry", 0, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000160sn">
-"&.&.&.&.!?"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000160sn">
+"&.&.&.!?"
 
 Someone's shadow flittered across the corner of her sight&.
-The instant she heard that voice&, she became deeply shaken&, missed her mark&, 
+The instant she heard that voice&, she became deeply shaken&,
+missed her mark&,
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -352,15 +353,15 @@ the concrete&.
 Sena slowly raised her head&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000170sn">
-"You&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000170sn">
+"You&.&.&."
 
 {	DeleteStand("buƒZƒi_§•_•Ší\‚¦_sad", 500, true);}
 And released a voice akin to a growl&.
 
 At the edge of the roof&.
 The deepening sunset at his back&.
-A lone man stood there like a ghost&. 
+A lone man stood there like a ghost&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -405,8 +406,8 @@ That man was before her eyes&.
 
 {	MusicStart("@CH10", 3000, 700, 0, 1000, null, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000180sn">
-"I finally found you&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000180sn">
+"I finally found you&.&.&."
 
 Stepping toward him&,
 Sena grit her teeth to endure her surging hatred&.
@@ -415,39 +416,39 @@ She readied her Di-Sword again&.
 Another step forward&.
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000190ha">
-"There was nothing to be done for it&.&.&.&."
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000190ha">
+"There was nothing to be done for it&.&.&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000200ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000200ha">
 "All I could do was offer your mother up as a living sacrifice&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000210sn">
-"Shut up&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000210sn">
+"Shut up&.&.&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000220ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000220ha">
 "Your mother's final moments were very peaceful&.
 So I want you to feel reassured&, Sena&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000230ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000230ha">
 "Thanks to your mother&, we achieved the most marvelous experimental
 results&. Your mother has been of great use to the world&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000240ha">
-"You&, too&, should take pride in her achievements&." 
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000240ha">
+"You&, too&, should take pride in her achievements&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000250sn">
-"SHUT UP!!" 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000250sn">
+"SHUT UP!!"
 
 When the blood rushed to her head&, Sena no longer saw anything but the
 man's form&.
 
-She ran&. 
+She ran&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -489,18 +490,19 @@ Sprang at his chest&,
 And stabbed him deep with her Di-Sword&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000260sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000260sn">
 "Haa&, haa&, haa&."
 
 It was Sena's dearest wish&.
 
-She had wandered Shibuya every day solely for the sake of killing this man&.
-She had always dreamed of the day when she would kill him&.
+She had wandered Shibuya every day solely for the sake of killing
+this man&. She had always dreamed of the day
+when she would kill him&.
 
 {	Fade("F‚P", 3000, 0, null, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000270sn">
-"I finally&.&.&.&. got revenge for Mom&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000270sn">
+"I finally&.&.&. got revenge for Mom&.&.&."
 
 She tried to pull out her sword&.
 She tried to move away from him&.
@@ -512,8 +514,8 @@ But it wouldn't come out&.
 The man embraced her as if to enfold her&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000280sn">
-"St&, stop&.&.&.&. don't touch me lightly&.&.&.&.!"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000280sn">
+"St&, stop&.&.&. don't touch me lightly&.&.&.!"
 
 All the fine hairs on her body stood on end&.
 If he did such a thing to her now&, after so much time&, it would only
@@ -531,13 +533,13 @@ The real sensation of her father&.
 Her red-stained hands&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000290sn">
-"I&, I&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000290sn">
+"I&, I&.&.&."
 
 //Ÿ‹ƒ‚«‚»‚¤
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000300sn">
-"Not like this&.&.&.&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000300sn">
+"Not like this&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -552,9 +554,9 @@ Her red-stained hands&.
 
 //Ÿ‚³‚³‚â‚«
 //y”g‘½–ìz
-//<voice name="”g‘½–ì" class="”g‘½–ì" src="ch08/17000310ha">
+//<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000310ha">
 //"This is the delusion, you wished for&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, ""This is the delusion you wished for&."");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
@@ -570,8 +572,8 @@ Her red-stained hands&.
 [text007]
 //Ÿ‚³‚³‚â‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/17000320ri">
-"This is the delusion, you wished for&." 
+<voice name="—œ[" class="—œ[" src="voice/ch08/17000320ri">
+"This is the delusion, you wished for&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -588,21 +590,21 @@ Her red-stained hands&.
 <PRE box00>
 [text008]
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch08/17000330sn">
-"----"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch08/17000330sn">
+"\\"
 
 At that whisper&.
 Sena understood&.
 
-----An error had slipped into her dead spots--
-----A psychological attack--
-----Bewitchery--
-----Rimi had read her fantasies--
+\\An error had slipped into her dead spots\
+\\A psychological attack\
+\\Bewitchery\
+\\Rimi had read her fantasies\
 
 By the time she realized her mistake&, it was too late&.
 
 Losing her balance&, she toppled from the edge of the roof together with
-the man--
+the man\
 
 To Sena&, the ground&, eight floors below them&, looked terribly distant&.
 

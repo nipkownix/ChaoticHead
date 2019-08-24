@@ -55,7 +55,8 @@ function ch08_176_インターミッション４１()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-Bright afternoon light shone into the hospital corridor&. It was fairly dim, during this band of time&, immediately before the transition to
+Bright afternoon light shone into the hospital corridor&. It was fairly dim,
+during this band of time&, immediately before the transition to
 night&, since the indoor lights hadn't been turned on yet&.
 
 The dinnertime bustle had quieted a short while ago&, and an almost
@@ -68,27 +69,30 @@ Not one of the nurses he passed tried to say something to him or meet
 his eyes&.
 
 And "Shogun&," too&, acting as if this were only to be expected&,
-Continued turning the wheels of his wheelchair with his emaciated&, skin-and-bone hands&.
+Continued turning the wheels of his wheelchair with his
+emaciated&, skin-and-bone hands&.
 
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600001yi">
+<voice name="山井" class="山井" src="voice/ch08/17600001yi">
 "A&, Ami-chan!"
 
-As he passed in front of a certain hospital room&, a male patient named Yamai raised his voice&.
-He pointed at "Shogun" and shouted frenetically&.
+As he passed in front of a certain hospital room&, a male patient
+named Yamai raised his voice&. He pointed at "Shogun" and
+shouted frenetically&.
 
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600020yi">
+<voice name="山井" class="山井" src="voice/ch08/17600020yi">
 "It's Ami-chan!"
 
-As for the nurse who happened to be with Yamai at the moment&, she wore a face of absolute perplexity&.
+As for the nurse who happened to be with Yamai at the moment&, she wore
+a face of absolute perplexity&.
 
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600030yi">
+<voice name="山井" class="山井" src="voice/ch08/17600030yi">
 "Look&, Ami-chan came back&. He went outside again&. He's so bad!"
 
 //【看護師Ａ】
-<voice name="看護師Ａ" class="看護師Ａ" src="ch08/17600040n1">
+<voice name="看護師Ａ" class="看護師Ａ" src="voice/ch08/17600040n1">
 "But no one's there&."
 
 Upon surveying the area&, the nurse smiled wryly&.
@@ -105,21 +109,21 @@ down the corridor right in front of her&, in his wheelchair&.
 [text002]
 //◆優しく
 //【看護師Ａ】
-<voice name="看護師Ａ" class="看護師Ａ" src="ch08/17600050n1">
+<voice name="看護師Ａ" class="看護師Ａ" src="voice/ch08/17600050n1">
 "Are you making fun of me again&, Yamai-san?
 But I won't let you fool me today&, okay?"
 
 //◆舌足らずで子供っぽい喋り方。だんだん「たくみちゃん」と聞こえるようにする
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600060yi">
+<voice name="山井" class="山井" src="voice/ch08/17600060yi">
 "Ami-chan!"
 
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600070yi">
+<voice name="山井" class="山井" src="voice/ch08/17600070yi">
 "Raumi-chan!"
 
 //【山井】
-<voice name="山井" class="山井" src="ch08/17600080yi">
+<voice name="山井" class="山井" src="voice/ch08/17600080yi">
 "Taumi-chan!"
 
 {	SoundPlay("SE01", 2000, 500, true);}
@@ -139,9 +143,10 @@ Even with that wall before him&, "Shogun" didn't stop his wheelchair&.
 	Fade("背景１", 500, 1000, null, true);
 	MusicStart("@CH01", 2000, 1000, 0, 1000, null, true);
 	Wait(1000);}
-The instant before it seemed as though he were about to have a violent collision with the black wall&, it unexpectedly vanished&.
+The instant before it seemed as though he were about to have a violent
+collision with the black wall&, it unexpectedly vanished&.
 
-It literally vanished--into thin air&.
+It literally vanished―into thin air&.
 The wall disappeared&, and the hallway beyond it came into view&.
 
 "Shogun" continued straight forward&.
@@ -161,7 +166,7 @@ It was an illusionary hospital room&.
 A room no one knew&, which had been whispered of in ghost stories for
 several years now&.
 
-The name written on the nameplate for the hospitalized patient was-- 
+The name written on the nameplate for the hospitalized patient was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

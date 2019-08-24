@@ -46,43 +46,44 @@ function ch04_074_—œ[‚Ì–Ï‘z¢ŠE()
 [text001]
 //Ÿ—œ[‚Íƒeƒ“ƒVƒ‡ƒ“’á‚ß
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400010ri">
 "That sky&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400020ri">
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400020ri">
 "Why is it so blue that it makes me want to cry?"
 
---Because someone wished so&.
+\Because someone wished so&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400030ri">
-"I didn't&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400030ri">
+"I didn't&.&.&."
 
---I wished for it&.
+\I wished for it&.
 
-{	CreateMovie("movie01", 200, Center, -100, true, false, "dx/mvŠC.ngs");
+{	
+	CreateMovie("movie01", 200, Center, -100, true, false, "dx/mvSea.ngs");
 	Fade("movie01", 0, 0, null, false);
 	Request("movie01", Play);
 	Move("movie01", 3000, @+0, -50, null, false);
 	Fade("movie01", 2000, 1000, null, true);
 	CreateTexture("back10", 100, 0, 0, "cg/ev/ev034_01_6_—œ[‚Æ«ŒR‚Ìo‰ï‚¢_a.jpg");}
---Because this place is your imagined world&, and at the same time&,
+\Because this place is your imagined world&, and at the same time&,
 it's also mine&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400040ri">
-"&.&.&.&.Say&."
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400040ri">
+"&.&.&.Say&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400050ri">
 "Where is this sky?"
 
---Anywhere you wish it to be&.
+\Anywhere you wish it to be&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch04/07400060ri">
-"Is it okay&, to wish&.&.&.&.?"
+<voice name="—œ[" class="—œ[" src="voice/ch04/07400060ri">
+"Is it okay&, to wish&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

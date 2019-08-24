@@ -75,8 +75,8 @@ It was a printed version of the backlog of the chat between
 Nishijou Takumi yesterday&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/03800010yu">
-"Nishijou-kun&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch02/03800010yu">
+"Nishijou-kun&.&.&."
 
 His name fell from her lips&. The image of Takumi's back&, as he sat
 alone on one of the benches in Shoutou Park&, floated up in her mind&.
@@ -93,8 +93,8 @@ Catching her breath&, she whipped around to her back&.
 {	Fade("îwåiÇR", 10, 1000, null, true);
 	Fade("îwåiÇQ", 1000, 0, null, true);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/03800020yu">
-"Just now&, it felt like someone was watching me&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch02/03800020yu">
+"Just now&, it felt like someone was watching me&.&.&."
 
 At the end of her gaze lay the large stuffed Gero-froggy enshrined
 atop her bed&.
@@ -128,30 +128,30 @@ face-first&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text002]
-The sheets smelled like sunlight&. 
+The sheets smelled like sunlight&.
 
 Her mother must have hung them out to dry during the day&.
 Burying her face in their reassuring scent&, Yua let her eyes wander
-absent-mindedly&. 
+absent-mindedly&.
 
-Her extremely tidy room revealed her meticulous personality&. 
+Her extremely tidy room revealed her meticulous personality&.
 
 Especially the enormous bookshelves&, out of place in a mere 8-tatami
 room&, which were lined up with numerous books and had hardly a gap
-between any of them&. 
+between any of them&.
 
 Amusingly&, though the bottom half held difficult-looking scholarly
 texts and PC-related books&, the top half was buried in shoujo manga
-and anime DVDs&. 
+and anime DVDs&.
 
 Yua let out another sigh&, rolled onto her back&, and gazed at the
 ceiling&.
 
 //ÅüÉfÉBÅ[ÉAÉCÉfÉBÅ[
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/03800030yu">
+<voice name="óDà§" class="óDà§" src="voice/ch02/03800030yu">
 "{#TIPS_ÇcÇhÇc = true;}'<FONT incolor="#88abda"
-outcolor="BLACK">DID</FONT>'&.&.&.&."
+outcolor="BLACK">DID</FONT>'&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -167,7 +167,7 @@ outcolor="BLACK">DID</FONT>'&.&.&.&."
 <PRE box00>
 [text102]
 She murmured the name of the mental illness she had been researching
-on her PC&. 
+on her PC&.
 
 Even now&, an explanation of it was displayed on her monitor&.
 
@@ -199,8 +199,8 @@ Even now&, an explanation of it was displayed on her monitor&.
 <PRE box00>
 [text003]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/03800040yu">
-"It must be so hard on you&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch02/03800040yu">
+"It must be so hard on you&.&.&."
 
 {	Fade("îwåiÇR", 1500, 1000, null, true);
 	SoundPlay("SE03", 0, 1000, false);}
@@ -208,8 +208,8 @@ Yua thought of Takumi as she hugged the Gero-froggy that sat near her
 pillow&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/03800050yu">
-"But&.&.&.&. I&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch02/03800050yu">
+"But&.&.&. I&.&.&."
 
 Yet her face soon emptied of all expression&, and she gritted her
 molars&.

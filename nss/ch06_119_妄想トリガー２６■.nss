@@ -99,18 +99,18 @@ Sena's fierce breathing brushed my cheek&.
 
 I cowered&, almost convinced that she was literally going to bite me&.
 
-Glaring at me point-blank&, she--
+Glaring at me point-blank&, she―
 
 {	DeleteStand("buセナ_制服_通常_hard", 400, true);
 	SoundPlay("SE01", 500, 0, false);}
 //◆荒々しくキスする
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900010sn">
-"Nn&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900010sn">
+"Nn&.&.&.!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900020ta">
-"&.&.&.&.!?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900020ta">
+"&.&.&.!?"
 
 Something soft pushed at my lips&.
 
@@ -123,8 +123,8 @@ shirtfront&, and I couldn't move&.
 {	MusicStart("@CH11", 2000, 1000, 0, 1000, null, true);}
 //◆荒々しくキスする
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900030sn">
-"Nn&.&.&.&. fuu&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900030sn">
+"Nn&.&.&. fuu&.&.&.!"
 
 On top of that&, something darted bewitchingly&, invading its way into
 my mouth&. It wildly wound about my tongue&, licked along the ridge of
@@ -151,38 +151,38 @@ Right beforehand&, that something wriggled out of my mouth at last&.
 [text002]
 //◆唇を離して吐息
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900040sn">
-"Ah&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900040sn">
+"Ah&.&.&."
 
 //◆恍惚
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900050sn">
-"Haa&.&.&.&. haa&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900050sn">
+"Haa&.&.&. haa&.&.&."
 
 Sena's lips glistened with saliva&.
 
 Though she'd previously glared at me with murderous eyes&, she now
 gazed at me meltingly&.
 
-Could it be that&.&.&.&.
+Could it be that&.&.&.
 
-She'd kissed me&.&.&.&.!?
+She'd kissed me&.&.&.!?
 
 //◆怒った口調
 //【セナ】
 {	Stand("buセナ_制服_通常","hard", 200, @-50);
 	FadeStand("buセナ_制服_通常_hard", 500, false);
 	DeleteStand("buセナ_制服_横向_shy", 500, true);}
-<voice name="セナ" class="セナ" src="ch06/11900060sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900060sn">
 "You are a true hero&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900070sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900070sn">
 "Lend me your strength&. Fight by my side&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900080sn">
-"I won't let you reject me&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900080sn">
+"I won't let you reject me&.&.&.!"
 
 {	DeleteStand("buセナ_制服_通常_hard", 200, true);}
 Upon declaring those perplexing things in an angry tone&, she brought
@@ -190,8 +190,8 @@ her face close to mine again&.
 
 //◆荒々しくキスする
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900090sn">
-"Nn&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900090sn">
+"Nn&.&.&.!"
 
 She pressed her lips upon mine maddeningly and assaulted the inside of
 my mouth&.
@@ -210,11 +210,11 @@ Therein entered her heated sighs and sweet saliva&.
 [text003]
 //◆恍惚
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900100sn">
-"Haa&, haa&, haa&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900100sn">
+"Haa&, haa&, haa&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900110sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900110sn">
 "I am a shrine maiden who was born to offer the pure blood of my line
 to a hero&."
 
@@ -222,29 +222,29 @@ Wearing an expression of esctasy&, she delivered "What eroge is that
 from?"-type lines to me&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900120sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900120sn">
 "I can't win this battle without you&."
 
 {	Stand("buセナ_制服_通常","hard", 200, @-50);
 	FadeStand("buセナ_制服_通常_hard", 500, false);
 	DeleteStand("buセナ_制服_横向_shy", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900130sn">
-"Come&, let us exchange the contract of blood&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900130sn">
+"Come&, let us exchange the contract of blood&.&.&."
 
 {	DeleteStand("buセナ_制服_通常_hard", 500, true);}
 Sena bit down hard on my lip&.
 Pain shot through me&, and the taste of blood spread in my mouth&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900140sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900140sn">
 "I want you&."
 
 Hers was not the attitude of someone making a request&.
 
 For starters&, the things she was saying were absurd&.
 
-But the sensation of almost being reverse-raped&.&.&.&.
+But the sensation of almost being reverse-raped&.&.&.
 
 Excited me&, making me think maybe I could enjoy this kind of play&.
 
@@ -274,12 +274,12 @@ Excited me&, making me think maybe I could enjoy this kind of play&.
 <PRE box00>
 [text004]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900150sn">
-"--Hey&, don't ignore me!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900150sn">
+"―Hey&, don't ignore me!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900160ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900160ta">
+"&.&.&.!"
 
 I snapped out of my reverie&.
 
@@ -290,16 +290,16 @@ Her face was very near mine&, after all&.
 When our eyes met&, my face went hot&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900170ta">
-"Er&.&.&.&. um&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900170ta">
+"Er&.&.&. um&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900180sn">
-"I'm asking you who taught you about that power&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900180sn">
+"I'm asking you who taught you about that power&.&.&.!"
 
 I didn't remember her asking me anything like that&.
 
-Was it the reality I'd escaped via my delusion of reverse rape&.&.&.&.
+Was it the reality I'd escaped via my delusion of reverse rape&.&.&.
 maybe?
 
 Though I still didn't understand my situation&, Sena shook me
@@ -309,20 +309,20 @@ violently regardless&.
 	FadeStand("buセナ_制服_通常_angry", 300, true);
 	DeleteStand("buセナ_制服_通常_hard", 0, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900190sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900190sn">
 "Who was it! Answer me!"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900200sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900200sn">
 {#TIPS_天成神光会 = true;}"Are you connected to the <FONT
 incolor="#88abda" outcolor="BLACK">Cosmic Church of The Divine Light</FONT> or not!?"
 
-Wh&, what is that divine or whatever thing&.&.&.&.
+Wh&, what is that divine or whatever thing&.&.&.
 I reflexively shook my head&.
 
-I can't&.&.&.&. breathe&.&.&.&.!
-I'm suffocating&.&.&.&. I feel faint&.&.&.&. I'm gonna die&.&.&.&.
-It's&.&.&.&. no good&.&.&.&.
+I can't&.&.&. breathe&.&.&.!
+I'm suffocating&.&.&. I feel faint&.&.&. I'm gonna die&.&.&.
+It's&.&.&. no good&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -354,22 +354,22 @@ Just as I seemed about to lose consciousness&, Sena let me go without
 warning&. I collapsed in place&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900210ta">
-"Uugh&.&.&.&. cough&, cough&, cough&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900210ta">
+"Uugh&.&.&. cough&, cough&, cough&.&.&.!"
 
 As I hacked away&, I desperately sucked in air&.
 
 Was Sena my enemy&, as I'd thought originally? Did she&, too&, work
 for "Shogun"?
 
-If so&, I had to escape&.&.&.&.
+If so&, I had to escape&.&.&.
 
 {	Stand("buセナ_制服_横向","think", 200, @-50);
 	FadeStand("buセナ_制服_横向_think", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900220sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900220sn">
 "If you don't have any relationship with them&, that's fine&.
-Sorry&.&.&.&."
+Sorry&.&.&."
 
 {	DeleteStand("buセナ_制服_横向_think", 500, true);}
 Seeing my bewildered face&, Sena clicked her tongue lightly and let
@@ -400,7 +400,7 @@ Sena's fierce breathing brushed my cheek&.
 
 With such rage that it appeared like she would bite me any moment&.
 
-Why was this girl&.&.&.&. so violent&.&.&.&. and so scary&.&.&.&.
+Why was this girl&.&.&. so violent&.&.&. and so scary&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -428,14 +428,14 @@ Why was this girl&.&.&.&. so violent&.&.&.&. and so scary&.&.&.&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900230ta">
-"Let&.&.&.&. me go&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900230ta">
+"Let&.&.&. me go&.&.&.!"
 
 {	Stand("buセナ_制服_横向","think", 200, @-50);
 	FadeStand("buセナ_制服_横向_think", 300, true);
 	DeleteStand("buセナ_制服_通常_hard", 0, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900240sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900240sn">
 "!"
 
 //ＳＥ//全力ビンタ
@@ -452,8 +452,8 @@ coincidentally struck her across the face&.
 Sena toppled down hard&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900250sn">
-"Uu&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900250sn">
+"Uu&.&.&."
 
 Pressing a hand to her cheek&, she lost all her former aggression and
 looked up at me with a little fear in her eyes&.
@@ -474,8 +474,8 @@ came exploding out all at once&, having found an outlet&.
 <PRE box00>
 [text008]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900260ta">
-"Don't&.&.&.&. underestimate me&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900260ta">
+"Don't&.&.&. underestimate me&.&.&."
 
 Fighting words&.
 Words I would normally never have used&.
@@ -485,18 +485,18 @@ And it was great&. I felt cleansed&.
 
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900270sn">
-"S&, sorry&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900270sn">
+"S&, sorry&.&.&."
 
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900280sn">
-"But&, you didn't&.&.&.&. have to&.&.&.&. hit me&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900280sn">
+"But&, you didn't&.&.&. have to&.&.&. hit me&.&.&."
 
 Because Sena looked like she was about to cry&, I wanted to say even
 more&.
 
-Her slender&, feeble and fallen form&, 
+Her slender&, feeble and fallen form&,
 
 And the sensuality of her thighs&, made more visible than usual by her
 flipped-up skirt&,
@@ -518,29 +518,29 @@ All of them exhilarated me&.
 <PRE box00>
 [text009]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900290ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900290ta">
 "Di&, did you think I'd just sit back and take it?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900300ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900300ta">
 "Sure&, I look like a total sissy&."
 
 //◆「ＤＱＮ」＝「ドキュン」
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900310ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900310ta">
 "It&, it must be easier&, and more fun&, to pick on a weak-looking guy
 like me than some obvious delinquent&, right?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900320ta">
-"Don't get ahead of yourself&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900320ta">
+"Don't get ahead of yourself&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900330ta">
-"E&, even I&.&.&.&. step up to the plate sometimes&.&.&.&. you bitch!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900330ta">
+"E&, even I&.&.&. step up to the plate sometimes&.&.&. you bitch!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900340ta">
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900340ta">
 "Don't think I&, I'll always keep quiet about everything&.&.&.!"
 
 I could no longer stop my rage-driven urges&.
@@ -564,12 +564,12 @@ I straddled the fallen Sena&.
 [text010]
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900350sn">
-"Wh&, what're you&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900350sn">
+"Wh&, what're you&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900360ta">
-"Shut up&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900360ta">
+"Shut up&.&.&.!"
 
 {	SoundPlay("SE03",0,1000,false);}
 I seized both her wrists&, preventing her from moving&.
@@ -577,14 +577,14 @@ I seized both her wrists&, preventing her from moving&.
 She ended up looking up at me from directly below&.
 Until now&, she'd always looked down at me&.
 
-Now I was on top&.&.&.&.!
+Now I was on top&.&.&.!
 
 This feeling of superiority made my head ring&.
 
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900370sn">
-"St&, stop it&.&.&.&. Let go&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900370sn">
+"St&, stop it&.&.&. Let go&.&.&."
 
 Her phrasing was typically curt&, but her tone had grown noticeably
 feebler&.
@@ -606,17 +606,17 @@ against me&, a man&.
 [text011]
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900380sn">
-"Please&.&.&.&. stop doing this kind of thing&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900380sn">
+"Please&.&.&. stop doing this kind of thing&.&.&."
 
 //◆弱気
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900390sn">
-"I'm begging you&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900390sn">
+"I'm begging you&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900400ta">
-"Hehehe&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900400ta">
+"Hehehe&.&.&."
 
 I couldn't hold back my laughter&.
 
@@ -632,8 +632,8 @@ I wondered what I had been so afraid of&.
 I'd been such a fool up till now&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900410ta">
-"Hehehe&, I'll take real good care of you&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900410ta">
+"Hehehe&, I'll take real good care of you&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -661,30 +661,30 @@ I'd been such a fool up till now&.
 <PRE box00>
 [text012]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900420sn">
-"--Hey&, don't ignore me!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900420sn">
+"―Hey&, don't ignore me!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900430ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900430ta">
+"&.&.&.!"
 
 Sena was gripping my shirtfront&, pushing me back against the
 playground equipment&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900440ta">
-"Eh&.&.&.&. Huh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900440ta">
+"Eh&.&.&. Huh&.&.&."
 
 I was somewhat disoriented by the instantaneous reversal of our power
 relationship&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900450sn">
-"I'm asking you who taught you about that power&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch06/11900450sn">
+"I'm asking you who taught you about that power&.&.&.!"
 
 I didn't remember her asking me anything like that&.
 
-Was it the reality I'd escaped via my delusion&.&.&.&. maybe?
+Was it the reality I'd escaped via my delusion&.&.&. maybe?
 
 Though I still didn't understand my situation&, Sena shook me
 violently regardless&.
@@ -698,20 +698,20 @@ violently regardless&.
 	SoundPlay("SE03", 0, 1000, false);
 	Shake("背景１", 200, 5, 5, 0, 0, 300, null, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900460sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900460sn">
 "Who was it! Answer me!"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900470sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900470sn">
 {#TIPS_天成神光会 = true;}"Are you connected to the <FONT
 incolor="#88abda" outcolor="BLACK">Cosmic Church of The Divine Light</FONT> or not!?"
 
-Wh&, what is that divine or whatever thing&.&.&.&.
+Wh&, what is that divine or whatever thing&.&.&.
 I reflexively shook my head&.
 
-I can't&.&.&.&. breathe&.&.&.&.!
-I'm suffocating&.&.&.&. I feel faint&.&.&.&. I'm gonna die&.&.&.&.
-It's&.&.&.&. no good&.&.&.&.
+I can't&.&.&. breathe&.&.&.!
+I'm suffocating&.&.&. I feel faint&.&.&. I'm gonna die&.&.&.
+It's&.&.&. no good&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -743,25 +743,25 @@ Just as I seemed about to lose consciousness&, Sena let me go without
 warning&. I collapsed in place&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900480ta">
-"Uugh&.&.&.&. cough&, cough&, cough&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900480ta">
+"Uugh&.&.&. cough&, cough&, cough&.&.&.!"
 
 As I hacked away&, I desperately sucked in air&.
 
 This development&, the complete opposite of my previous delusion&,
-made me feel unreasonably pathetic&. 
+made me feel unreasonably pathetic&.
 
 Was Sena my enemy&, as I'd thought originally? Did she&, too&, work
 for "Shogun"?
 
-If so&, I had to escape&.&.&.&.
+If so&, I had to escape&.&.&.
 
 {	Stand("buセナ_制服_横向","think", 200, @-50);
 	FadeStand("buセナ_制服_横向_think", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900490sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900490sn">
 "If you don't have any relationship with them&, that's fine&.
-Sorry&.&.&.&."
+Sorry&.&.&."
 
 {	DeleteStand("buセナ_制服_横向_think", 500, true);}
 Seeing my bewildered face&, Sena clicked her tongue lightly and let
@@ -791,23 +791,23 @@ Sena's fierce breathing brushed my cheek&.
 
 With such rage that it appeared like she would bite me any moment&.
 
-Why was this girl&.&.&.&. so violent&.&.&.&. and so scary&.&.&.&.
+Why was this girl&.&.&. so violent&.&.&. and so scary&.&.&.
 
-Save me&.&.&.&. somebody save me&.&.&.&.
+Save me&.&.&. somebody save me&.&.&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900500sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900500sn">
 {#TIPS_天成神光会 = true;}"Are you connected to the <FONT
 incolor="#88abda" outcolor="BLACK">Cosmic Church of The Divine Light</FONT>?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900510ta">
-"Gahaah&.&.&.&. eh&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900510ta">
+"Gahaah&.&.&. eh&.&.&.?"
 
-Divine&.&.&.&. what?
+Divine&.&.&. what?
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900520sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900520sn">
 "Who taught you about that power!?"
 
 Unusually&, her voice had grown strained&.
@@ -823,15 +823,15 @@ being was keep shaking my head over and over&.
 <PRE box00>
 [text015]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900530sn">
-"Something like that&.&.&.&. it's impossible&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900530sn">
+"Something like that&.&.&. it's impossible&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900540sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900540sn">
 "Making an error into reality without a Di-Sword&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900550sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900550sn">
 "Who was the one to teach you about that power?"
 
 {	Stand("buセナ_制服_通常","angry", 200, @-50);
@@ -843,24 +843,24 @@ being was keep shaking my head over and over&.
 	SoundPlay("SE03", 0, 1000, false);
 	Shake("背景４", 200, 5, 5, 0, 0, 300, null, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900560sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900560sn">
 "Who was it! Answer me!"
 
-No one&.&.&.&. told me a single thing about this power&.&.&.&.!
-But if I had to put it one way or the other&.&.&.&.
+No one&.&.&. told me a single thing about this power&.&.&.!
+But if I had to put it one way or the other&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900570ta">
-"Uguh&.&.&.&. guh&.&.&.&. A&, Ayase&.&.&.&. guh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900570ta">
+"Uguh&.&.&. guh&.&.&. A&, Ayase&.&.&. guh&.&.&."
 
 //◆ブレス
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900580sn">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900580sn">
+"&.&.&.&.&.&.&.&."
 
-I can't&.&.&.&. breathe&.&.&.&.!
-I'm suffocating&.&.&.&. I feel faint&.&.&.&. I'm gonna die&.&.&.&.
-It's&.&.&.&. no good&.&.&.&.
+I can't&.&.&. breathe&.&.&.!
+I'm suffocating&.&.&. I feel faint&.&.&. I'm gonna die&.&.&.
+It's&.&.&. no good&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -897,26 +897,26 @@ Just as I seemed about to lose consciousness&, Sena let me go without
 warning&. I collapsed in place&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900590ta">
-"Uugh&.&.&.&. cough&, cough&, cough&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900590ta">
+"Uugh&.&.&. cough&, cough&, cough&.&.&.!"
 
 As I hacked away&, I desperately sucked in air&.
 
-What the hell&.&.&.&.
+What the hell&.&.&.
 
 Was Sena my enemy&, as I'd thought originally? Did she&, too&, work
 for "Shogun"?
 
-If so&, I had to escape&.&.&.&.
+If so&, I had to escape&.&.&.
 
 {	Stand("buセナ_制服_通常","hard", 200, @-50);
 	FadeStand("buセナ_制服_通常_hard", 400, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900600sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900600sn">
 "Are you truly unrelated to the Cosmic Church of The Divine Light?"
 
-What was the Cosmic Church of The Divine Light&.&.&.&.
-I'd never heard of anything like it&.&.&.&.
+What was the Cosmic Church of The Divine Light&.&.&.
+I'd never heard of anything like it&.&.&.
 
 {	Stand("buセナ_制服_横向","think", 200, @-50);
 	FadeStand("buセナ_制服_横向_think", 300, true);
@@ -925,7 +925,7 @@ Seeing my bewildered face&, Sena finally stopped glaring&.
 She clicked her tongue lightly and let out a sigh&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900610sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900610sn">
 "Sorry&.  If you don't have any relationship with them&, that's
 fine&."
 
@@ -952,11 +952,11 @@ if she were apologizing&, Sena began to leave&.
 <PRE box00>
 [text017]
 It would seem she didn't intend to hurt me&.
-Then--
+Then―
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900620ta">
-"Uh&, uh&, um&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900620ta">
+"Uh&, uh&, um&.&.&."
 
 I screwed up my courage and called to her&.
 
@@ -969,39 +969,39 @@ Her expression was still severe&, but apparently she meant to listen
 to me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900630ta">
-"Wh&, wh&, when&.&.&.&. you say power&.&.&.&. what do you mean?"
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900630ta">
+"Wh&, wh&, when&.&.&. you say power&.&.&. what do you mean?"
 
 Sena knew something&.
 
 She'd referred to the flowerbed&, saying "You created it&, didn't
-you&." 
+you&."
 
 Everyone on the spot aside from me had acknowledged the flowerbed as
 "something that had been there from the start&." But Sena was
 different&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900640ta">
-"The flo&, flowerbed from before&.&.&.&. how&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900640ta">
+"The flo&, flowerbed from before&.&.&. how&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900650sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900650sn">
 "You imagined it&, didn't you?"
 
-Imagined it&.&.&.&.
-I had&, but&.&.&.&.
+Imagined it&.&.&.
+I had&, but&.&.&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900660sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900660sn">
 "It's possible to turn delusions into reality&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900670sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900670sn">
 "Things that aren't real blend into the sce<pre>n</pre>ery around us&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900680sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900680sn">
 "In other words&, it's making people recognize errors as reality&."
 
 </PRE>
@@ -1015,47 +1015,47 @@ I had&, but&.&.&.&.
 <PRE box00>
 [text018]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900690ta">
-"B&, bu&, but&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900690ta">
+"B&, bu&, but&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch06/11900700ta">
-"If it only a&, appears in your sight&.&.&.&. then it's&.&.&.&.
-only&.&.&.&.&. an illusion&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch06/11900700ta">
+"If it only a&, appears in your sight&.&.&. then it's&.&.&.
+only&.&.&.&. an illusion&.&.&."
 
 Illusions were no more than illusions&, and they were false&.
 
 If that flowerbed were an illusion&, Ayase wouldn't have lived&.
 
 Ayase had been saved because the flowerbed there wasn't an illusion&,
-but rather the real thing&.&.&.&.
+but rather the real thing&.&.&.
 
 {	Stand("buセナ_制服_通常","normal", 200, @-50);
 	FadeStand("buセナ_制服_通常_normal", 300, true);
 	DeleteStand("buセナ_制服_通常_hard", 0, false);}
 //◆「－１」＝「マイナスいち」
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900710sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900710sn">
 "Everything&, about how the world operates can be explained by three
 numbers&. 0&, 1&, and -1&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900720sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900720sn">
 "Di-Swords are a shortcut for producing that -1&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900730sn">
-"But you did it without a Di-Sword&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch06/11900730sn">
+"But you did it without a Di-Sword&.&.&."
 
 Sh&, she'd started saying things that went straight over my head
 again&.
 
-No&, but--
+No&, but―
 What Sena told me wasn't merely a flight of fancy&.
 
 At least&, the patent for VR technology had turned out to be
-fact&.&.&.&.
-Sena really did know something&.&.&.&.
+fact&.&.&.
+Sena really did know something&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1069,15 +1069,15 @@ Sena really did know something&.&.&.&.
 <PRE box00>
 [text019]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900740sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900740sn">
 "Look&, don't create any more errors&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900750sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900750sn">
 "For your own sake&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900760sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900760sn">
 "And tell me if you see other errors&."
 
 {	DeleteStand("buセナ_制服_通常_hard", 800, true);}
@@ -1085,9 +1085,9 @@ She one-sidedly threw at me words that could be taken as a kind of
 threat&. And she turned her back on me&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch06/11900770sn">
+<voice name="セナ" class="セナ" src="voice/ch06/11900770sn">
 "How wonderful it would be if you could believe only that which you
-see&.&.&.&."
+see&.&.&."
 
 Sena spat out that parting mutter&, and this time she left for good&.
 

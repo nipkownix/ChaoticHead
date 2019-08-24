@@ -50,25 +50,25 @@ function ch08_173_公式Ｉｒ２()
 <PRE box00>
 [text001]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300010sn">
-"At the instant, you created this equation&.&.&.&.
-The world branched apart&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/17300010sn">
+"At the instant, you created this equation&.&.&.
+The world branched apart&.&.&."
 
 {	DeleteStand("stセナ_制服_通常_angry", 500, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/17300020ta">
-"Branched&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/17300020ta">
+"Branched&.&.&."
 
-This isn't an eroge&.&.&.&.
+This isn't an eroge&.&.&.
 
 {	Stand("bu梨深_制服_正面","sad", 250, @150);
 	FadeStand("bu梨深_制服_正面_sad", 500, true);}
 //【梨深】
-<voice name="梨深" class="梨深" src="ch08/17300030ri">
-"Taku&.&.&.&."
+<voice name="梨深" class="梨深" src="voice/ch08/17300030ri">
+"Taku&.&.&."
 
 //【梨深】
-<voice name="梨深" class="梨深" src="ch08/17300040ri">
+<voice name="梨深" class="梨深" src="voice/ch08/17300040ri">
 "Let's go already&. There's no need to hear her out&."
 
 Rimi pulled my hand&, entreating me to come in the room&.
@@ -77,35 +77,36 @@ A sense of desperation seeped out of her attitude&.
 Rimi was afraid of something&.
 
 //【梨深】
-<voice name="梨深" class="梨深" src="ch08/17300050ri">
+<voice name="梨深" class="梨深" src="voice/ch08/17300050ri">
 "Besides&, everything Aoi-san says is a complete lie&."
 
 {	DeleteStand("bu梨深_制服_正面_sad", 300, false);
 	Stand("stセナ_制服_通常","angry", 200, @-150);
 	FadeStand("stセナ_制服_通常_angry", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300060sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300060sn">
 "You're the one lying&."
 
 {	DeleteStand("stセナ_制服_通常_angry", 300, false);
 	Stand("bu梨深_制服_正面","hard", 250, @150);
 	FadeStand("bu梨深_制服_正面_hard", 300, true);}
 //【梨深】
-<voice name="梨深" class="梨深" src="ch08/17300070ri">
+<voice name="梨深" class="梨深" src="voice/ch08/17300070ri">
 "Aoi-san&, just go home! Get out of Taku's sight!"
 
-Whose words should I believe&.&.&.&.
+Whose words should I believe&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/17300080ta">
-"H&, how can you ge&, get so worked up&.&.&.&. over a&, a mere equation&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/17300080ta">
+"H&, how can you ge&, get so worked up&.&.&.
+over a&, a mere equation&.&.&."
 
 {	DeleteStand("bu梨深_制服_正面_hard", 300, true);
 	Stand("stセナ_制服_通常","rage", 200, @-150);
 	FadeStand("stセナ_制服_通常_rage", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300090sn">
-"&.&.&.&.Do you really know nothing?"
+<voice name="セナ" class="セナ" src="voice/ch08/17300090sn">
+"&.&.&.Do you really know nothing?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -117,7 +118,7 @@ Whose words should I believe&.&.&.&.
 [text002]
 //「イーイコールエムシーの２乗」
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300100sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300100sn">
 {#TIPS_Ｅ＝ｍｃ＾２ = true;}
 "<FONT incolor="#88abda" outcolor="BLACK">E=mc^2</FONT>&, the equation advanced by Einstein&. Just as its announcement to the public led to the birth of a future where nuclear weapons would be developed&,"
 
@@ -126,41 +127,43 @@ Whose words should I believe&.&.&.&.
 	DeleteStand("stセナ_制服_通常_rage", 200, false);}
 //◆※「ｍｃ２」は正確には「ｍｃの２乗」です
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300110sn">
-"Your creation&, Ir2&, is having a similar&.&.&.&. no&, an even greater effect on the world than E=mc^2&." 
+<voice name="セナ" class="セナ" src="voice/ch08/17300110sn">
+"Your creation&, Ir2&, is having a similar&.&.&. no&, an even greater
+effect on the world than E=mc^2&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300120sn">
-"Ir2 made silent weapons a reality&."  
+<voice name="セナ" class="セナ" src="voice/ch08/17300120sn">
+"Ir2 made silent weapons a reality&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/17300130ta">
-"Si&, silent weapons&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch08/17300130ta">
+"Si&, silent weapons&.&.&.?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300140sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300140sn">
 "Taking snapshots of people's thoughts&, projecting images into their
 vision&, controlling their five senses&."
 
 That was the technology from the patent I'd researched all over the
-place&, the one Sena had told me about&.&.&.&.
+place&, the one Sena had told me about&.&.&.
 
 {	Stand("stセナ_制服_通常","normal", 200, @-150);
 	FadeStand("stセナ_制服_通常_normal", 200, false);
 	DeleteStand("stセナ_制服_通常_angry", 200, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300150sn">
-"Gigalomaniacs will cease to be special--no&, abnormal&."
+<voice name="セナ" class="セナ" src="voice/ch08/17300150sn">
+"Gigalomaniacs will cease to be special―no&, abnormal&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300160sn">
-"From here on out&, this infernal power will become something anyone can use freely&. By means of the equipment created with Ir2 as its basis&."
+<voice name="セナ" class="セナ" src="voice/ch08/17300160sn">
+"From here on out&, this infernal power will become something anyone can
+use freely&. By means of the equipment created with Ir2 as its basis&."
 
 {	Stand("stセナ_制服_通常","rage", 200, @-150);
 	FadeStand("stセナ_制服_通常_rage", 200, false);
 	DeleteStand("stセナ_制服_通常_normal", 200, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300170sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300170sn">
 "Then again&, long before that&, a handful of corrupt bastards will
 monopolize it&, brainwashing everyone else to become the equivalent
 of cattle without their realizing it&."
@@ -170,18 +173,18 @@ of cattle without their realizing it&."
 	FadeStand("bu梨深_制服_正面_sad", 200, false);}
 //◆ブレス
 //【梨深】
-<voice name="梨深" class="梨深" src="ch08/17300180ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梨深" class="梨深" src="voice/ch08/17300180ri">
+"&.&.&.&.&.&.&."
 
 I&, I didn't know&.
 
-You say that&, but it's got nothing to do with me&.&.&.&.
+You say that&, but it's got nothing to do with me&.&.&.
 
 Even assuming Sena spoke the truth&, I hadn't deliberately planned on
 creating something so inconceivable&. It was just a little kid's
 doodling&.
 
-I haven't done anything wrong&.&.&.&.
+I haven't done anything wrong&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -200,19 +203,19 @@ I haven't done anything wrong&.&.&.&.
 //以下、梢のセリフはすべて心の声
 //ＶＦ//心の声
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300190ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300190ko">
 "Hohee～"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300200ko">
-"Then&, then&, that 'Eye Are Too' is--"
+<voice name="梢" class="こずえ" src="voice/ch08/17300200ko">
+"Then&, then&, that 'Eye Are Too' is―"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300210sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300210sn">
 "Ir2&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300220ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300220ko">
 "It's what he meant～ when he explained the bweeeeee power of
 Gigalomaniacs～"
 
@@ -220,18 +223,19 @@ Gigalomaniacs～"
 	FadeStand("st梢_制服_通常_normal", 200, false);
 	DeleteStand("st梢_制服_通常_sad", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300230ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300230ko">
 "I～ see&, that old guy was telling the truth!"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300240ko">
-"When he said～ the most important one of us was the boy who gave rise to 'Whose eyes are those eyes?'～"
+<voice name="梢" class="こずえ" src="voice/ch08/17300240ko">
+"When he said～ the most important one of us was the boy who gave rise
+to 'Whose eyes are those eyes?'～"
 
 {	Stand("st梢_制服_通常","smile", 200, @150);
 	FadeStand("st梢_制服_通常_smile", 200, false);
 	DeleteStand("st梢_制服_通常_normal", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300250ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300250ko">
 "That has to be yooouuu&, Takumi-shan!"
 
 Kozu-pii's perky voice&.
@@ -259,14 +263,14 @@ Maybe because of whatever Rimi had done to her earlier&.
 <PRE box00>
 [text004]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300260sn">
-"Kozue&.&.&.&. You&, what did you just say&.&.&.&.?"
+<voice name="セナ" class="セナ" src="voice/ch08/17300260sn">
+"Kozue&.&.&. You&, what did you just say&.&.&.?"
 
 {	Stand("st梢_制服_通常","normal", 200, @150);
 	FadeStand("st梢_制服_通常_normal", 200, false);
 	DeleteStand("st梢_制服_通常_smile", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300270ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300270ko">
 "Uupii?"
 
 Sena pressed in on the puzzled Kozu-pii&.
@@ -275,20 +279,20 @@ Sena pressed in on the puzzled Kozu-pii&.
 	FadeStand("stセナ_制服_通常_hard", 200, false);
 	DeleteStand("stセナ_制服_通常_rage", 200, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300280sn">
-"When you said 'old guy&,' who did you mean&.&.&.&.?"
+<voice name="セナ" class="セナ" src="voice/ch08/17300280sn">
+"When you said 'old guy&,' who did you mean&.&.&.?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300290ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300290ko">
 "Umm～m&, you see&, he's the one who taught Kozu-pii how precious
 Di-Swords are～"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300300ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300300ko">
 "He's the first person I talked to after coming to Tokyo&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300310ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300310ko">
 "The way he looked made me wanna pinch his nose real ugyuuu～&, somehow&,
 and he had a board with silly stuff written on it&."
 
@@ -296,43 +300,43 @@ and he had a board with silly stuff written on it&."
 	FadeStand("st梢_制服_通常_smile", 200, false);
 	DeleteStand("st梢_制服_通常_normal", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300320ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300320ko">
 "Sooomething like&, 'The World Is Ending'♪"
 
 {	Stand("stセナ_制服_通常","angry", 250, @-150);
 	FadeStand("stセナ_制服_通常_angry", 200, false);
 	DeleteStand("stセナ_制服_通常_hard", 200, false);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300330sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/17300330sn">
+"&.&.&.&.&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300340sn">
+<voice name="セナ" class="セナ" src="voice/ch08/17300340sn">
 "Wh&, why didn't you tell me tell me sooner?"
 
 {	Stand("st梢_制服_通常","sad", 200, @150);
 	FadeStand("st梢_制服_通常_sad", 200, false);
 	DeleteStand("st梢_制服_通常_smile", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/17300350ko">
+<voice name="梢" class="こずえ" src="voice/ch08/17300350ko">
 "Hyauu～&, ho&, how was I supposed to know～"
 
 {	DeleteStand("st梢_制服_通常_sad", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300360sn">
-"It's&.&.&.&. him&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/17300360sn">
+"It's&.&.&. him&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300370sn">
-"I've finally found him&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch08/17300370sn">
+"I've finally found him&.&.&.!"
 
 Rimi&, Kozu-pii&, and I&.
 None of us had any idea what she was talking about&.
 All we could do was dazedly watch Sena and her bloodcurdling demeanor&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/17300380sn">
-"I can kill him&.&.&.&. at last&.&.&.&." 
+<voice name="セナ" class="セナ" src="voice/ch08/17300380sn">
+"I can kill him&.&.&. at last&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

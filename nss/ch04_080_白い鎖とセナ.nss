@@ -38,7 +38,7 @@ function ch04_080_白い鎖とセナ()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-I really liked an artist named "Azuma Matasema&." 
+I really liked an artist named "Azuma Matasema&."
 
 Azuma Matasema was a really famous artist&, and long&, snaking lines
 invariably formed at all the events his doujin circle participated
@@ -76,7 +76,7 @@ Which led to my heading over there immediately&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08000010ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/08000010ta">
 "Lord&, grant me a miracle&."
 
 {	SetVolume("SE01", 1000, 0, NULL);
@@ -94,11 +94,11 @@ I kept my eyes peeled and searched the doujinshi corner&.
 I made countless round trips and looked again and again&, just in
 case&.
 
-But--
+But―
 
 I couldn't find it&. （´・ω・`） So disappointing&.
 
-Uuh&, maybe it had already sold out&.&.&.&.
+Uuh&, maybe it had already sold out&.&.&.
 
 I mindlessly surveyed the register&.
 
@@ -113,8 +113,8 @@ She wasn't that cute&, but she seemed friendly enough&.
 <PRE box00>
 [text003]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08000020ta">
-"&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08000020ta">
+"&.&.&.&.&.&."
 
 I had never used a super high-level technique like asking a clerk if a
 product was in stock&, not even once&.
@@ -122,12 +122,12 @@ product was in stock&, not even once&.
 The reason&, of course&, was because I didn't have the guts to&.
 
 Not to mention the fact that Azuma Matasema's new work was entitled&,
-"Seira-tan Goes Wild With Cosplay!"&.&.&.&. Totally impossible!
+"Seira-tan Goes Wild With Cosplay!"&.&.&. Totally impossible!
 
---Excuse me&, do you have "Seira-tan Goes Wild With Cosplay!" by Azuma
+―Excuse me&, do you have "Seira-tan Goes Wild With Cosplay!" by Azuma
 Matasema?
 
-If I asked a female clerk something like that&.&.&.&.
+If I asked a female clerk something like that&.&.&.
 
 No matter how I look at it&, you're a perv&. Thank you very much for
 coming&.
@@ -158,8 +158,8 @@ in dejection&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08000030ta">
-"Haa&.&.&.&. Is it time to go home?"
+<voice name="拓巳" class="拓巳" src="voice/ch04/08000030ta">
+"Haa&.&.&. Is it time to go home?"
 
 Or maybe I'd go to @Cafe&.
 
@@ -227,7 +227,7 @@ It was precisely because of this that I possessed the desire to obtain
 a much stronger-looking Di-Sword&.
 
 Of course&, it was also due in part to my collector's mentality as an
-otaku&, but&.&.&.&.
+otaku&, but&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -268,7 +268,7 @@ Because of that&, the next time I raised my face&, I'd lost sight of
 that eye-catching Di-Sword&.
 
 It looked as though she had walked in the direction of the Hachiko
-statue&, but&.&.&.&.
+statue&, but&.&.&.
 
 {	MusicStart("SE01", 2000, 1000, 0, 1000, null, true);
 	CreateBG(2500, 1000, 0, 0, "cg/bg/bg085_03_0_スクランブル交差点_a.jpg");
@@ -302,7 +302,7 @@ after someone like her&, defenseless&.
 What was wrong with me?
 I'd better go back&.
 
-Having come to that decision&, I started to turn on my heel--
+Having come to that decision&, I started to turn on my heel―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -325,7 +325,7 @@ Plus&, though people's legs concealed the place it led to&, it seemed
 to extend from almost exactly where I was standing to the opposite
 side of the pedestrian scramble&.
 
-What could it be&.&.&.&.?
+What could it be&.&.&.?
 
 It was a remarkably long chain&.
 Was it being used in some sort of construction?
@@ -375,8 +375,8 @@ I wondered how long it had been left alone here&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08000040ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08000040ta">
+"&.&.&.&.&.&.&."
 
 If things were the same as usual&,
 I would have thought of this as being some form of trap&.
@@ -435,8 +435,8 @@ I swallowed anxiously and took a peek inside&.
 <PRE box00>
 [text009]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08000050ta">
-"Ah&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch04/08000050ta">
+"Ah&.&.&.!"
 
 That instant&, I came to the understanding that this had been a trap&.
 
@@ -452,7 +452,7 @@ Her sharp gaze captured me firmly&.
 
 //しかもなぜか……棒アイスをかじってる状態で。あの水色のアイスは……『ガルガリ君』だよな……。
 In her hand&, she was holding a popsicle&.
-That blue popsicle was&.&.&.&. "Crunchy-kun&," wasn't it&.&.&.&.
+That blue popsicle was&.&.&. "Crunchy-kun&," wasn't it&.&.&.
 
 No&, Crunchy-kun didn't matter in the slightest right now&.
 
@@ -467,7 +467,7 @@ Come to think of it&, when I last met her in the shopping district&,
 she'd said "I'll be in the streetcar near the station&." So this was
 where she'd meant&.
 
-She was the one who'd left the chain there&.&.&.&.
+She was the one who'd left the chain there&.&.&.
 
 Had she really walked about holding such an incredibly long chain?
 
@@ -484,7 +484,7 @@ Frightened&, I attempted to make a silent escape&.
 A sharp voice came flying after me&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08000060sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08000060sn">
 "Enter&."
 
 </PRE>

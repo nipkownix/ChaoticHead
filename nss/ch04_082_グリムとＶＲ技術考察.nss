@@ -144,7 +144,7 @@ talk to cute chicks
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text012]
-Neidhardt: But look&.&.&.&.
+Neidhardt: But look&.&.&.
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,key);
@@ -182,7 +182,7 @@ Neidhardt: I'll telling you&, it's a real-life horror
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text016]
-Grim: &.&.&.&.Sorry&, man （´・ω・`）
+Grim: &.&.&.Sorry&, man （´・ω・`）
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	TypeChat("0");
@@ -204,16 +204,16 @@ Neidhardt: Don't worry about it （´・ω・`）
 <PRE box00>
 [text018]
 Even after I returned home&, the things Sena had told me nagged at
-me&. 
+me&.
 
 Naturally&, I didn't think they were true&, but it shouldn't take more
 than a little investigation to determine whether the parts about the
-patent and the presidential order were real or fake&. 
+patent and the presidential order were real or fake&.
 
 Which was why&, with Grim as my backup&, I soon began running some
-searches&. 
+searches&.
 
-I researched with the help of one of Grim's acquaintances&, an 
+I researched with the help of one of Grim's acquaintances&, an
 American resident&.
 
 Meh&, but it wasn't like we were going to find anything&.
@@ -318,10 +318,10 @@ Grim: It exists
 <PRE box00>
 [text027]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200010ta">
-"&.&.&.&.&.&.&.&.&.Eh?" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200010ta">
+"&.&.&.&.&.&.&.Eh?"
 
-'It exists'&.&.&.&.? 
+'It exists'&.&.&.?
 What did?
 
 </PRE>
@@ -392,15 +392,15 @@ Grim: So should I invite Shiho here?
 <PRE box00>
 [text034]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200020ta">
-"Ar&, are you&.&.&.&. serious&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200020ta">
+"Ar&, are you&.&.&. serious&.&.&.?"
 
-Grim had tricked me all the time up till now&. 
+Grim had tricked me all the time up till now&.
 
 If I trusted him like usual here&, I'd end up seeing something
-mind-breakingly nasty&. 
+mind-breakingly nasty&.
 
-But he had a source&, and he was even saying he'd invite Shiho&.&.&.&.
+But he had a source&, and he was even saying he'd invite Shiho&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -443,11 +443,11 @@ Grim: Believe me just this once
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text038]
-How very self-confident&. 
-It might be okay to trust him this time around&.&.&.&.
+How very self-confident&.
+It might be okay to trust him this time around&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200030ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200030ta">
 "Dammit&, I'm such an easy mark!"
 
 Heart beating a little faster&, I clicked the link while narrowing my
@@ -475,21 +475,21 @@ eyes to keep from seeing anything clearly all at once&.
 <PRE box00>
 [text039]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200040ta">
-"Wh&, what's this&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200040ta">
+"Wh&, what's this&.&.&.?"
 
 It was a document written in English&, with a strange diagram below
 it&. In the middle of the diagram was drawn something resembling a
-human face&. 
+human face&.
 
 The headline was "United States Patent&." 'Patent' must mean the same
-thing as 'tokkyo' in Japanese&.&.&.&.
+thing as 'tokkyo' in Japanese&.&.&.
 
-In other words&, this was&.&.&.&.
+In other words&, this was&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200050ta">
-"An American patent&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200050ta">
+"An American patent&.&.&."
 
 {	SetVolume("@CH24", 500, 500, NULL);
 	CreateColor("色１", 5000, 0, 0, 800, 600, "WHITE");
@@ -505,11 +505,11 @@ In other words&, this was&.&.&.&.
 	FadeDelete("色１", 500, true);}
 //ＶＦ//回想セリフ
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08200060sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08200060sn">
 "Are you familiar with VR technology?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08200070sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08200070sn">
 "It's already succeeded in actual tests&. A certain team of
 researchers has finished obtaining a patent for it&."
 
@@ -522,7 +522,7 @@ researchers has finished obtaining a patent for it&."
 	Delete("back04");
 	FadeDelete("色１", 500, true);
 	SetVolume("@CH24", 500, 1000, NULL);}
-It really existed&.&.&.&.
+It really existed&.&.&.
 
 Next&, I opened one of the two attached text files&. Therein was a
 translation of some news that had touched on the subject of this
@@ -541,22 +541,24 @@ patent&.
 The physiological psychology research laboratory of America's Victor
 Chondria University&, which is currently active in research&, has come
 up with a groundbreaking invention called Visual Rebuilding (VR)
-technology&.  
+technology&.
 
 As it was undertaken with health care in mind&, this research has
-drawn the attention of blind people throughout the world&. 
+drawn the attention of blind people throughout the world&.
 
 It is a landmark invention that allows even those who have been blind
 since birth to see what lies around them by via the use of filming
-devices&, such as video cameras&. 
+devices&, such as video cameras&.
 
 To provide a simple explanation of the technique involved in this&,
-the signals composing the images of the scen<pre>e</pre>ry recorded by the video
-camera are converted to action potentials&, the one type of electrical
-signal that the brain is capable of recognizing&, 
 
-and then are connected to the optic nerve&, which continues 
-to the brain&. 
+the signals composing the images of the scen<pre>e</pre>ry recorded
+by the video camera are converted to action potentials&,
+the one type of electrical signal that the brain
+is capable of recognizing&,
+
+and then are connected to the optic nerve&, which continues
+to the brain&.
 
 It has already met with success in tests&, and they have also acquired
 a patent&.
@@ -573,10 +575,10 @@ a patent&.
 <PRE box00>
 [text040]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200080ta">
-"A patent&.&.&.&. It's really been recognized&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200080ta">
+"A patent&.&.&. It's really been recognized&.&.&."
 
-The things Sena told me hadn't simply been adolescent delusions? 
+The things Sena told me hadn't simply been adolescent delusions?
 
 I gulped and opened the other text file&.
 
@@ -594,8 +596,8 @@ I gulped and opened the other text file&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text541]
-American Government White House Announcement 
-Issued on March 27&, 1997 
+American Government White House Announcement
+Issued on March 27&, 1997
 "The Strengthening of Protections Against Classified Human
 Experimentation"
 
@@ -604,7 +606,7 @@ No organization may conduct classified experiments on human subjects&,
 nor may they support such efforts&, in the absence of <FONT
 incolor="#88abda" outcolor="BLACK">informed consent</FONT>&.
 This order takes effect on March 27&, 1998 or&, if the legislative
-process permits&, before that date&. 
+process permits&, before that date&.
 
 President of the United States: William J&. Clinton
 
@@ -619,21 +621,21 @@ President of the United States: William J&. Clinton
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text041]
-An executive order from the American president&.&.&.&. 
+An executive order from the American president&.&.&.
 
 Its contents were the kind of thing you'd expect to see in a movie; I
-hadn't imagined even this would be part of reality&. 
+hadn't imagined even this would be part of reality&.
 
 I tried following the linked URL&, just in case&. Even I can read
 English text&. In spite of my appearance&, I'm way smarter than those
-slackers who attend school every day&. 
+slackers who attend school every day&.
 
 But the contents actually written there were indeed the same as the
 translated text&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08200090ta">
-"Which means&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08200090ta">
+"Which means&.&.&."
 
 Sena's words reverberated at the back of my head&.
 
@@ -659,12 +661,12 @@ Sena's words reverberated at the back of my head&.
 [text042]
 //ＶＦ//回想セリフ
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08200100sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08200100sn">
 "If it's possible to deliberately convert certain information to
 neural pulses&,"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch04/08200110sn">
+<voice name="セナ" class="セナ" src="voice/ch04/08200110sn">
 "Would not it also be possible to control all of people's five
 senses&, as well as their free will itself?"
 
@@ -682,7 +684,7 @@ me&, and the online sources that backed her up&, made my spine go
 cold&.
 I had the feeling that something fearsome was hiding in there&.
 
-What concerned me more than anything else--
+What concerned me more than anything else―
 
 Sena's intentions in deliberately saying these things to me&.
 
@@ -695,7 +697,7 @@ Because there remained the possibility that I was a sleepwalker&.
 
 It seemed that on the day of the third New-Gen incident&, the
 "staking"&, I had gone to @Cafe and posted in a chat as "Shogun&,"
-though I remembered nothing of it&.&.&.&.
+though I remembered nothing of it&.&.&.
 
 Besides&, I didn't have any memory of Rimi&.
 Apparently she was a friend I'd been classmates with for over a year&,
@@ -706,7 +708,7 @@ What if I had behaved like that while being manipulated from outside
 by someone else?
 
 For starters&, there was no way I'd be able to become close to a cute
-girl like Rimi&, given how bad I was at talking to 3-D girls&.&.&.&.
+girl like Rimi&, given how bad I was at talking to 3-D girls&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -724,26 +726,26 @@ girl like Rimi&, given how bad I was at talking to 3-D girls&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text043]
-&.&.&.&.No&, you're over thinking it&.
+&.&.&.No&, you're over thinking it&.
 
-At least&, the part about the chat was purely Yua's fantasy&. 
+At least&, the part about the chat was purely Yua's fantasy&.
 
 "Shogun" existed separately&, and all he'd done was try to entrap me&.
 
 Setting aside the matter of whether his real identity was the elderly
-man who had appeared in front of the 107 building in a wheelchair&. 
+man who had appeared in front of the 107 building in a wheelchair&.
 
-What if Sena&, too&, were an associate of "Shogun"? 
+What if Sena&, too&, were an associate of "Shogun"?
 
-Maybe she was attempting to mislead me&. 
+Maybe she was attempting to mislead me&.
 
-Don't swallow it without a grain of salt&. 
-Don't believe a suspicious and unfamiliar girl like her&. 
+Don't swallow it without a grain of salt&.
+Don't believe a suspicious and unfamiliar girl like her&.
 Sena and Yua were birds of a feather&.
 
-It'll be okay this way&, right&, Seira-tan&.&.&.&. 
+It'll be okay this way&, right&, Seira-tan&.&.&.
 
-The post-awakening Seira looked at me sorrowfully&. 
+The post-awakening Seira looked at me sorrowfully&.
 
 She must be worried sick about me&, hehehe&.
 

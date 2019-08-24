@@ -39,7 +39,7 @@ function ch03_054_îªÇ∆êzñKÇ∆ëÒñ§()
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text001]
-Today I went to Animeight without stopping by @Cafe&. 
+Today I went to Animeight without stopping by @Cafe&.
 
 The reason&, of course&, was to pick up my long-awaited Burachu
 Seira-tan&, post-awakening version!
@@ -49,20 +49,20 @@ my mind&, but I soon forced that train of thought to a stop&.
 
 I took a look at the Seira-tans put out on display to catch customers'
 eyes&, but since the sculptor was Kijima Yoshio&, nothing indeed
-needed to be said about the quality&. 
+needed to be said about the quality&.
 
 I'd better hurry home and savor every nook and cranny of her&.
-Hehehe&. 
+Hehehe&.
 
 As long as I could gaze at Seira-tan's face every so often while
-playing ESO&, I was happy&. 
+playing ESO&, I was happy&.
 
 Despite that&, why did the third dimension have to keep bringing me
-nothing but burdens? 
-It was the same now&. 
+nothing but burdens?
+It was the same now&.
 
 As I forgot all about FES and her sword&, and headed off for my base
-with a new spring in my step--
+with a new spring in my stepÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -86,13 +86,13 @@ with a new spring in my step--
 <PRE box00>
 [text002]
 When I had about fifty meters to go&, I encountered two men who
-possessed an undeniably out-of-the-ordinary air about them&. 
+possessed an undeniably out-of-the-ordinary air about them&.
 
 I thought I would pass them by without meeting their eyes&, but they
 were blatantly watching me&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400010bn">
+<voice name="îª" class="îª" src="voice/ch03/05400010bn">
 "You over there&, got a sec?"
 
 Out of the two&, the first to call out to me was a bleary-looking
@@ -105,24 +105,24 @@ ahead in life&.
 
 Somehow&, the fact that he was flapping a handheld fan at himself only
 served to emphasize his wretchedness&. His expression&, too&, was
-melancholic&. He put on a flippant smile&. 
+melancholic&. He put on a flippant smile&.
 
 But his eyes&, which met mine for the barest second&, weren't
-laughing&. 
+laughing&.
 
 I had nowhere to run to&. While I wavered about how to answer him&,
 the two of them came walking right up to me&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400020bn">
+<voice name="îª" class="îª" src="voice/ch03/05400020bn">
 "This is who we are&."
 
 The geezer took a black folding badge out of his breast pocket and
-held it out to me&. It was the type of police ID I'd often seen in 
-TV dramas&, although it was&, of course the first time I'd laid 
-eyes on one in real life&. 
+held it out to me&. It was the type of police ID I'd often seen in
+TV dramas&, although it was&, of course the first time I'd laid
+eyes on one in real life&.
 
---They had finally come&. 
+Å\They had finally come&.
 I could only think of one reason&. The "staking&."
 
 </PRE>
@@ -135,24 +135,24 @@ I could only think of one reason&. The "staking&."
 <PRE box00>
 [text003]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400030bn">
+<voice name="îª" class="îª" src="voice/ch03/05400030bn">
 "Mind if we ask you a few questions?"
 
 {	Stand("stà¿ìÒ_ÉXÅ[Éc_í èÌ","pride", 200, @-150);
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400040bn">
+<voice name="îª" class="îª" src="voice/ch03/05400040bn">
 "But we won't force you&, of course&. Ah&, no need to brace yourself
-like that&. We just want to hear what you have to say&." 
+like that&. We just want to hear what you have to say&."
 
 There was zero pressure present in his manner of speaking&.
 Except the other&, younger detective wore a severe expression as he
-casually changed his position to block my path&. 
+casually changed his position to block my path&.
 
 I started sweating&. If I did anything stupid&, they might start
 suspecting me of being the perpetrator and haul me off to the police
-station&. I couldn't let that happen&. 
+station&. I couldn't let that happen&.
 
 I resigned myself to my fate and gave a small nod&.
 
@@ -160,24 +160,24 @@ I resigned myself to my fate and gave a small nod&.
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400050bn">
-"Er&, say&, 
-d'you know about what's commonly called the New Generation Madness?" 
+<voice name="îª" class="îª" src="voice/ch03/05400050bn">
+"Er&, say&,
+d'you know about what's commonly called the New Generation Madness?"
 
-As I'd thought&.&.&.&. 
+As I'd thought&.&.&.
 Wiping the sweat off my forehead&, I nodded back at him&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400060bn">
+<voice name="îª" class="îª" src="voice/ch03/05400060bn">
 "Then&, you must also know about the third case&, aka the "staking"
 homicide? It did happen right in this neighborhood&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400070bn">
+<voice name="îª" class="îª" src="voice/ch03/05400070bn">
 "We're looking for someone who witnessed it&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400080bn">
+<voice name="îª" class="îª" src="voice/ch03/05400080bn">
 "Ah&, by the way&, would you tell us your name?"
 
 </PRE>
@@ -187,9 +187,9 @@ homicide? It did happen right in this neighborhood&."
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text004]
-I couldn't help sucking in a breath&. 
+I couldn't help sucking in a breath&.
 
-This wasn't Zhuge Liang's trap&, was it&.&.&.&.? 
+This wasn't Zhuge Liang's trap&, was it&.&.&.?
 
 Or maybe they were a group of con men who'd act like policemen while
 talking to me&, when really they were going to extract my personal
@@ -204,25 +204,25 @@ girl herself&.
 <PRE box00>
 [text005]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400090bn">
+<voice name="îª" class="îª" src="voice/ch03/05400090bn">
 "Mm? Huh&, you won't answer us?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400100ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400100ta">
+"&.&.&.&.&.&.&."
 
-Once they started doubting me&, there'd be no end to it&. 
+Once they started doubting me&, there'd be no end to it&.
 What should I do? If I answered with a false name&, that alone might
-give them sufficient grounds to arrest me&.&.&.&.
+give them sufficient grounds to arrest me&.&.&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400110bn">
+<voice name="îª" class="îª" src="voice/ch03/05400110bn">
 "Ahh&, are you worried about protecting your personal info? Do I
-really look that untrustworthy?" 
+really look that untrustworthy?"
 
-Yeah&, you do&.&.&.&.
+Yeah&, you do&.&.&.
 
-Anyhow&, his amiable manner of talking was surely just an act&.&.&.&.
+Anyhow&, his amiable manner of talking was surely just an act&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -232,15 +232,15 @@ Anyhow&, his amiable manner of talking was surely just an act&.&.&.&.
 <PRE box00>
 [text006]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400120ta">
-"Ni&, Nishijou&, Takumi&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400120ta">
+"Ni&, Nishijou&, Takumi&.&.&."
 
 In the end&, I couldn't think of anything to do and had no choice but
 to answer honestly&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400130bn">
-"Can I call you Nishijou Takumi-kun&, then?" 
+<voice name="îª" class="îª" src="voice/ch03/05400130bn">
+"Can I call you Nishijou Takumi-kun&, then?"
 
 I nodded&.
 
@@ -248,82 +248,82 @@ I nodded&.
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_hard", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400140bn">
-"Really?" 
+<voice name="îª" class="îª" src="voice/ch03/05400140bn">
+"Really?"
 
 Haa?
 
-What did he mean by really&.&.&.&.?
+What did he mean by really&.&.&.?
 What was with that reaction&, when I'd been good enough to answer
-truthfully&.&.&.&.
+truthfully&.&.&.
 
 {	Stand("stà¿ìÒ_ÉXÅ[Éc_í èÌ","pride", 200, @-150);
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_hard", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400150bn">
+<voice name="îª" class="îª" src="voice/ch03/05400150bn">
 //ÅüÇÕÇ¡ÇÕÅÅèŒÇ¢ê∫
 "Haha&. Nah&, that was rude of me&. Forget about it&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400160ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400160ta">
+"&.&.&.&.&.&.&."
 
 The detective's deliberate-sounding laugh echoed through the quiet
-residential area&. 
+residential area&.
 
-Uuhh&, I wanted them to be quicker about releasing me&.&.&.&.
+Uuhh&, I wanted them to be quicker about releasing me&.&.&.
 
 {	Stand("stà¿ìÒ_ÉXÅ[Éc_í èÌ","normal", 200, @-150);
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400170bn">
-"That uniform's from Suimei&, right? What year are you?" 
+<voice name="îª" class="îª" src="voice/ch03/05400170bn">
+"That uniform's from Suimei&, right? What year are you?"
 
-Did I have to answer that kind of thing&, too&.&.&.&.?
+Did I have to answer that kind of thing&, too&.&.&.?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400180ta">
-"Junior&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400180ta">
+"Junior&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400190bn">
+<voice name="îª" class="îª" src="voice/ch03/05400190bn">
 "Hm? Sorry&, didn't catch that&. I'm already at this age&, so my ears
 aren't doing too well&. Could you say it again?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400200ta">
-"I'm a&, a junior&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400200ta">
+"I'm a&, a junior&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400210bn">
+<voice name="îª" class="îª" src="voice/ch03/05400210bn">
 "A junior&, huh&. Thanks&."
 
 {	SoundPlay("SE01", 2000, 300, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400220bn">
+<voice name="îª" class="îª" src="voice/ch03/05400220bn">
 "So&, Nishijou-san&. What we'd like to ask you is what you were
 doing&, and where&, from 6 PM to about 10 PM on the 29th of last
 week&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400230ta">
-"&.&.&.&.!" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400230ta">
+"&.&.&.!"
 
-Were they asking for my alibi? 
-Could it be that they suspected me&.&.&.&.? 
+Were they asking for my alibi?
+Could it be that they suspected me&.&.&.?
 But that was absurd!
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400240bn">
+<voice name="îª" class="îª" src="voice/ch03/05400240bn">
 "Nah&, it's not that you're a suspect&. Just thought that if you'd
 been in the area around that time&, you might've seen a suspicious
 person or heard some kind of sound&, that sort of thing&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400250ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400250ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -333,26 +333,26 @@ person or heard some kind of sound&, that sort of thing&."
 <PRE box00>
 [text007]
 Somehow&, listening to this detective talk really got me
-irritated&.&.&.&.
+irritated&.&.&.
 Maybe speaking in such a way as to purposefully anger the subject was
-a kind of interrogation technique&. 
+a kind of interrogation technique&.
 
-But I'd seen a suspicious person&. With my own eyes&. Distinctly&. 
+But I'd seen a suspicious person&. With my own eyes&. Distinctly&.
 
 I vacillated about whether it was okay to tell that to this
 sketchy-seeming old fogey&.
 
-What would I do if I told him&, and the demon girl came to retaliate? 
+What would I do if I told him&, and the demon girl came to retaliate?
 
 
 Right now it seemed like she was letting me slip away&, but she had
 the precog "Shogun" as one of her toadies&. She herself must be able
 to use some sort of unbelievable power as well&. That might truly be
-the case&. 
+the case&.
 
 If so&, if I were going to speak about the demon girl to the police&,
 she might've already found out by using her sixth sense of something&.
-And then maybe she would come to kill me&.&.&.&.
+And then maybe she would come to kill me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -362,7 +362,7 @@ And then maybe she would come to kill me&.&.&.&.
 <PRE box00>
 [text008]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400260bn">
+<voice name="îª" class="îª" src="voice/ch03/05400260bn">
 "Say&, Nishijou-kun&. Is it really that hot out today?"
 
 {	CreateSE("SE02","SE_êlëÃ_êSëü_å€ìÆ");
@@ -371,20 +371,20 @@ When he said this&, my heart rate jumped&.
 
 If I didn't say anything more&, they'd definitely think I was the
 criminal&. But I was scared that even if I lied by saying&, "I didn't
-see anything&," they would know I was faking it&.&.&.&.
+see anything&," they would know I was faking it&.&.&.
 
 The older man used the fan he was carrying to fan the side of my face
 for me&. A cool breeze stirred my hair&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400270bn">
+<voice name="îª" class="îª" src="voice/ch03/05400270bn">
 "It's well into fall&. I don't quite think it's hot enough to be
 sweating&, you know? Well&, everyone's got different constitutions&.
-Haha&." 
+Haha&."
 
 I didn't exactly want to hear that from a guy who walked around with a
 fan in this season&, but admittedly&, it wasn't particularly hot
-today&. The temperature was at just the right level for comfort&. 
+today&. The temperature was at just the right level for comfort&.
 
 I wiped my sweat off again and again with the sleeves of my uniform&.
 
@@ -399,30 +399,30 @@ I wiped my sweat off again and again with the sleeves of my uniform&.
 <PRE box00>
 [text009]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400280ta">
-"I&, I didn't do it&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400280ta">
+"I&, I didn't do it&.&.&."
 
 {	MusicStart("@CH13",2000,1000,0,1000,null,true);
 	Stand("stà¿ìÒ_ÉXÅ[Éc_í èÌ","hard", 200, @-150);
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_hard", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400290bn">
+<voice name="îª" class="îª" src="voice/ch03/05400290bn">
 "Hoh&."
 
-The color in the detective's eyes changed&. 
+The color in the detective's eyes changed&.
 I realized I must've said the wrong thing&, but I didn't understand
 what part of it had been the wrong thing&, in the first place&.
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400300bn">
+<voice name="îª" class="îª" src="voice/ch03/05400300bn">
 "What didn't you do?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400310ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400310ta">
+"&.&.&.&.&.&.&."
 
-They totally suspected me&.&.&.&.
+They totally suspected me&.&.&.
 My only option was to answer truthfully&.
 
 {	SoundPlay("SE01", 1000, 0, false);
@@ -452,48 +452,48 @@ feet&, I shouted&,
 <PRE box00>
 [text010]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400320ta">
-"I&, I saw&.&.&.&. her!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400320ta">
+"I&, I saw&.&.&. her!"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400330ta">
-"The scen<pre>e</pre> of the 'staking'&.&.&.&. There was a girl there&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400330ta">
+"The scen<pre>e</pre> of the 'staking'&.&.&. There was a girl there&.&.&.!"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400340ta">
-"With her hands covered in blood&.&.&.&. In front of the body&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400340ta">
+"With her hands covered in blood&.&.&. In front of the body&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400350ta">
-"There were lots of stakes stuck into it&.&.&.&.  
-There&, there must've been o&, over 500 of them&.&.&.&. It was
-freaky&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400350ta">
+"There were lots of stakes stuck into it&.&.&.
+There&, there must've been o&, over 500 of them&.&.&. It was
+freaky&.&.&."
 
 //Ç®Ç™Ç›ÅFâπê∫åãçáÇ≥ÇÍÇƒÇ¢ÇÈÇΩÇﬂÉeÉLÉXÉgèCê≥
 //ÅyëÒñ§Åz
-//<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400360ta">
+//<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400360ta">
 //ÅuÇ†ÇÍÅAÇTÇOÇOñ{ÇÕê‚ëŒÅAÇ±ÅAâzÇ¶ÅAâzÇ¶ÇƒÇΩÅcÅcàŸèÌÇæÅcÅcÅv
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400370ta">
-"The body was li&, like a hedgehog&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400370ta">
+"The body was li&, like a hedgehog&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400380ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400380ta">
 "T&, that girl looked at me and said 'I'm so glad' and s&,
-smiled&.&.&.&."
+smiled&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400390ta">
-"She's a demon&.&.&.&. She's not human&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400390ta">
+"She's a demon&.&.&. She's not human&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400400ta">
-"The New Gen c&, criminal is&.&.&.&.! 
-An ex&, existence way above regular humans&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400400ta">
+"The New Gen c&, criminal is&.&.&.!
+An ex&, existence way above regular humans&.&.&.!"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400410ta">
-"She uses foresight and all these other incredible powers--"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400410ta">
+"She uses foresight and all these other incredible powersÅ\"
 
 {	Move("stà¿ìÒ_ÉXÅ[Éc_í èÌ_shock", 800, @0, @150, Dxl1, false);
 	Move("ståÏ_ÉXÅ[Éc_í èÌ_sigh", 800, @0, @150, Dxl1, false);
@@ -528,43 +528,43 @@ I shut up again as that thought occurred to me&.
 <PRE box00>
 [text011]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400420bn">
+<voice name="îª" class="îª" src="voice/ch03/05400420bn">
 "A demon&, huh&. I see&. That's good to know&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400430ta">
-"It&, it's&.&.&.&. true&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400430ta">
+"It&, it's&.&.&. true&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400440bn">
+<voice name="îª" class="îª" src="voice/ch03/05400440bn">
 "Yeah&, I know&, I know&. It's valuable info&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400450ta">
-"P&, please&.&.&.&. protect me&.&.&.&. with the police&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400450ta">
+"P&, please&.&.&. protect me&.&.&. with the police&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400460bn">
+<voice name="îª" class="îª" src="voice/ch03/05400460bn">
 "Before that&, do you know how old that girl was? Or her clothing&, or
 her facial features&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400470ta">
-"&.&.&.&.Su&, Suimei&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400470ta">
+"&.&.&.Su&, Suimei&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400480bn">
+<voice name="îª" class="îª" src="voice/ch03/05400480bn">
 "By Suimei&, do you mean Suimei Academy?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400490ta">
-"That's the uniform&.&.&.&. she was wearing&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400490ta">
+"That's the uniform&.&.&. she was wearing&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400500bn">
+<voice name="îª" class="îª" src="voice/ch03/05400500bn">
 "In other words&, she goes to the same school as you&."
 
-After lapsing into thought for some time&, the old man grinned&. 
+After lapsing into thought for some time&, the old man grinned&.
 And then muttered something that could have been either a real
 question or a rhetorical one&.
 
@@ -580,38 +580,38 @@ question or a rhetorical one&.
 <PRE box00>
 [text012]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400510bn">
+<voice name="îª" class="îª" src="voice/ch03/05400510bn">
 "I wonder what grade she's in&, that high school girl&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400520ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400520ta">
+"&.&.&.&.&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400530bn">
+<voice name="îª" class="îª" src="voice/ch03/05400530bn">
 "What grade do you think she's in&, Nishijou-kun?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400540ta">
-"&.&.&.&.I&, I don't know&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400540ta">
+"&.&.&.I&, I don't know&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400550bn">
+<voice name="îª" class="îª" src="voice/ch03/05400550bn">
 "Then d'you know her name?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400560ta">
-"I d&, d&, don't know&.&.&.&. I&, I don't know that demon's&.&.&.&.
-na&, name&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400560ta">
+"I d&, d&, don't know&.&.&. I&, I don't know that demon's&.&.&.
+na&, name&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400570bn">
+<voice name="îª" class="îª" src="voice/ch03/05400570bn">
 "What about her height&, weight&, and while you're at it&, her three
-sizes?" 
+sizes?"
 
-What was up with this geezer&.&.&.&.? 
+What was up with this geezer&.&.&.?
 
-Was he mocking me? How could I possibly know even one of those! 
+Was he mocking me? How could I possibly know even one of those!
 
 I don't have a moronic&, love comedy manga-esque power like being able
 to tell someone's height and weight and three sizes from a single
@@ -630,12 +630,12 @@ look!
 <PRE box00>
 [text013]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400580bn">
+<voice name="îª" class="îª" src="voice/ch03/05400580bn">
 "I see&, being quiet means you don't know? That's fine&. You've been a
 help to us&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400590bn">
+<voice name="îª" class="îª" src="voice/ch03/05400590bn">
 "I've gotta consider this carefully once we get back to
 headquarters&."
 
@@ -643,8 +643,8 @@ headquarters&."
 	FadeStand("ståÏ_ÉXÅ[Éc_í èÌ_sigh", 200, false);
 	DeleteStand("ståÏ_ÉXÅ[Éc_í èÌ_hard", 200, true);}
 //ÅyêzñKÅz
-<voice name="êzñK" class="êzñK" src="ch03/05400600su">
-"Sempai&, you serious&.&.&.&.?"
+<voice name="êzñK" class="êzñK" src="voice/ch03/05400600su">
+"Sempai&, you serious&.&.&.?"
 
 Lifting a hand to silence the dumbfounded younger detective&, the
 older one gave him some kind of sign with his eyes&.
@@ -656,37 +656,37 @@ older one gave him some kind of sign with his eyes&.
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, true);
 	DeleteStand("ståÏ_ÉXÅ[Éc_í èÌ_sigh", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400610bn">
+<voice name="îª" class="îª" src="voice/ch03/05400610bn">
 "Ah&, by the way&, Nishijou-kun&, could you tell us how to contact
 you?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400620ta">
-"Eh&.&.&.&. Wh&, why&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400620ta">
+"Eh&.&.&. Wh&, why&.&.&."
 
-They didn't believe me&, after all&. 
+They didn't believe me&, after all&.
 They wanted to label me a deviant and set me up as the
-criminal&.&.&.&.
+criminal&.&.&.
 
 {	Stand("stà¿ìÒ_ÉXÅ[Éc_í èÌ","normal", 200, @-150);
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400630bn">
+<voice name="îª" class="îª" src="voice/ch03/05400630bn">
 "Well&, she's a demon&, right? We've gotta protect you from her&,
 don't we?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400640ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400640ta">
+"&.&.&.&.&.&.&."
 
 O&, oh&. I get it&.
-Thank God they believed me&. 
+Thank God they believed me&.
 
 There'd be nothing more comforting than having the police looking out
 for me&. Of course&, our opponent was a demon&, so maybe even the
 police could get felled with a single blow&. But it was better than
-being completely unarmed&. 
+being completely unarmed&.
 
 A tiny bit relieved&, I took out the cell phone I'd bought the other
 day and showed its number to the detectives&.
@@ -705,12 +705,12 @@ The younger detective wrote it down in his notebook&.
 <PRE box00>
 [text014]
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400650bn">
+<voice name="îª" class="îª" src="voice/ch03/05400650bn">
 "Anyhoo&, thanks for taking a moment out of your busy schedule&. We'll
 guarantee your safety&, so there's no need to fret anymore&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400660bn">
+<voice name="îª" class="îª" src="voice/ch03/05400660bn">
 "And we might call you if we'd like to ask you something else&, so
 I'll talk to you again then&."
 
@@ -718,16 +718,16 @@ I'll talk to you again then&."
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400670bn">
+<voice name="îª" class="îª" src="voice/ch03/05400670bn">
 "Don't pretend you aren't there when we call&, okay? Right now&,
 you're a really important figure to us policemen&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch03/05400680ta">
-"Eh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05400680ta">
+"Eh&.&.&."
 
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400690bn">
+<voice name="îª" class="îª" src="voice/ch03/05400690bn">
 "Your eyewitness testimony could become be a key part of how we solve
 the case&."
 
@@ -735,7 +735,7 @@ the case&."
 	FadeStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_pride", 200, false);
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_normal", 200, true);}
 //ÅyîªÅz
-<voice name="îª" class="îª" src="ch03/05400700bn">
+<voice name="îª" class="îª" src="voice/ch03/05400700bn">
 "See ya&."
 
 </PRE>
@@ -748,24 +748,24 @@ the case&."
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text015]
-The two detectives bowed their heads to me and swiftly walked away&. 
+The two detectives bowed their heads to me and swiftly walked away&.
 
 After turning back to glance at me&, the younger detective began
-saying something to the older one in lowered tones&. 
+saying something to the older one in lowered tones&.
 
-The older one kept walking without responding to him&. 
+The older one kept walking without responding to him&.
 
-I took deep breaths&. 
+I took deep breaths&.
 
-Haaa&, I'd been so nervous&.&.&.&. 
+Haaa&, I'd been so nervous&.&.&.
 
 It was my first time being questioned by real detectives&. I'd acted
-pretty suspiciously&, but somehow they'd believed me&.&.&.&. maybe&. 
+pretty suspiciously&, but somehow they'd believed me&.&.&. maybe&.
 
-It'd be wonderful if the police caught the demon girl&.&.&.&. 
+It'd be wonderful if the police caught the demon girl&.&.&.
 
 But the police were basically powerless&, so it might not be a good
-idea to expect too much from them&.&.&.&. 
+idea to expect too much from them&.&.&.
 
 Noticing that the inside of my mouth had become desert-dry before I
 knew it&, I bought a plastic bottle of Coke from a nearby vending

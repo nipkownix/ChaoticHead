@@ -39,19 +39,19 @@ function ch04_086_優愛から逃走()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-I burst out of the elevator&, tumbling my way outside&. 
+I burst out of the elevator&, tumbling my way outside&.
 
 The sun was already setting&.
-I looked around&. 
-There were a lot of people&. 
+I looked around&.
+There were a lot of people&.
 
-Run away&.&.&. 
-For the time being&, run away somewhere&. 
+Run away&.&.&.
+For the time being&, run away somewhere&.
 
-It was dangerous to go back to my base&. 
-She'd chase after me&. 
+It was dangerous to go back to my base&.
+She'd chase after me&.
 
-I went on running&, without any idea of where to head&. 
+I went on running&, without any idea of where to head&.
 
 When I thought that even now&, Yua might descend from a different
 elevator and come to threaten me with that cold voice of hers&, I
@@ -73,15 +73,15 @@ became unable to stay there for so much as a second&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08600010ta">
-"Haa&, haa&, kahaa&, haa&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08600010ta">
+"Haa&, haa&, kahaa&, haa&.&.&.!"
 
-Anyway&, looking over my shoulder countless times&, I ran&. 
+Anyway&, looking over my shoulder countless times&, I ran&.
 
-The pedestrians were in my way&. 
+The pedestrians were in my way&.
 
 I bumped into salarymen and high school girls with a delinquent air
-about them&. They bitched at me every time&. 
+about them&. They bitched at me every time&.
 
 Even so&, I went on running&, unable to stop&.
 
@@ -99,8 +99,8 @@ Even so&, I went on running&, unable to stop&.
 <PRE box00>
 [text003]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08600020ta">
-"Gahaa&, haa&, kuhaah&, haa&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch04/08600020ta">
+"Gahaa&, haa&, kuhaah&, haa&.&.&.!"
 
 I could hardly breathe&. I'd picked random roads as I escaped&,
 and I didn't have a very good idea of where I was running to&.
@@ -110,7 +110,7 @@ I paused to collect my breath&.
 I checked the view from the place where I was standing&.
 
 This was in front of Maruichi&.
-All right&, then I'll retreat to Miyashita Park&.&.&.&.!
+All right&, then I'll retreat to Miyashita Park&.&.&.!
 
 I'd take a brief break there&, then flee even further away&.
 
@@ -125,8 +125,8 @@ moment&, wearing an expression akin to that of a Noh mask&.
 
 My instincts urged me onward&.
 
---Run away&.
---You have to run!
+―Run away&.
+―You have to run!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -155,23 +155,23 @@ My instincts urged me onward&.
 I sank weakly to the ground on the overhead bridge by Miyashita Park&.
 
 
-My throat was dry from too much running&. 
-I wanted to drink icy-cold Coke&. 
+My throat was dry from too much running&.
+I wanted to drink icy-cold Coke&.
 
-But I didn't catch sight of any vending machines in the area&. 
+But I didn't catch sight of any vending machines in the area&.
 
-Would I be okay&, having come this far&.&.&.&. 
+Would I be okay&, having come this far&.&.&.
 
-No&, don't get caught off-guard&. 
-I still didn't neglect being wary of my surroundings&. 
+No&, don't get caught off-guard&.
+I still didn't neglect being wary of my surroundings&.
 
-There'd be few people in Miyashita Park at night&.&.&.&. was what I'd
-thought&, but surprisingly&, it seemed that such was not the case&. 
+There'd be few people in Miyashita Park at night&.&.&. was what I'd
+thought&, but surprisingly&, it seemed that such was not the case&.
 
-Salarymen walking hurriedly as they took shortcuts through the 
+Salarymen walking hurriedly as they took shortcuts through the
 park&, an old dude sitting on a bench and toying with his cell phone&,
 several homeless people sitting down and zoning out&. And the person
-in blue who was speaking with one of the homeless was&.&.&.&. 
+in blue who was speaking with one of the homeless was&.&.&.
 
 A police officer&.
 
@@ -187,36 +187,37 @@ A police officer&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-The police&.&.&.&. 
+The police&.&.&.
 
-My breath caught&. 
+My breath caught&.
 
 Come to think of it&, I'd been questioned by a pair of detectives
-before&. 
+before&.
 
-I hadn't heard from them since then&. 
+I hadn't heard from them since then&.
 
 Though they'd said they would guard the vicinity around my base&, I
-hadn't picked up on anything of the sort&.  
+hadn't picked up on anything of the sort&.
 
-According to Misumi-kun&, they'd also come to investigate at school&. 
+According to Misumi-kun&, they'd also come to investigate at school&.
 
-Those two detectives&.&.&.&. what had they been called? 
-I couldn't remember their names&. 
+Those two detectives&.&.&. what had they been called?
+I couldn't remember their names&.
 
-I'd told those guys exactly what I'd witnessed at the scen<pre>e</pre> of the
-"staking" incident&. 
+I'd told those guys exactly what I'd witnessed at the scen<pre>e</pre>
+of the "staking" incident&.
 But thinking back over it now&, I came to believe that they'd been
 looking at me with blatant distrust&.
 
-I had the feeling--that the officer talking to the homeless man had
+I had the feeling―that the officer talking to the homeless man had
 just darted a glance at me&.
 
-Surely not--
+Surely not―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
+	WaitKey();
 	EndTrigger();
 }

@@ -55,31 +55,31 @@ function ch03_057_インターミッション０８()
 <PRE box00>
 [text001]
 Only the pale light of the PC monitor floated faintly in the middle of
-the pitch-black room&. 
+the pitch-black room&.
 
 It reflected a screensaver of Seira&, a character from "Blood Tune the
-Animation&." 
+Animation&."
 
 In this container house&, which a girl called Sakihata Rimi had
 visited half a day earlier&, there could now be found solely the form
-of its owner&, Nishijou Takumi&. 
+of its owner&, Nishijou Takumi&.
 
-The time was already nearing five in the morning&. 
+The time was already nearing five in the morning&.
 
 It was Takumi's daily habit to play online games until dawn&, then
-sleep like a log on his sofa&. 
+sleep like a log on his sofa&.
 
 Now&, too&, Takumi was lying on the sofa in an uncomfortable-looking
-position&. 
+position&.
 
 He didn't use his bed to sleep in&.
 
 Though he possessed a proper bed&, the reason he didn't sleep there
 was because it had been monopolized by the manga volumes&, CDs&, and
-so forth that he had piled atop it&. 
+so forth that he had piled atop it&.
 
 In the period when he avoid cleaning because it would be too much of a
-bother&, his bed had gradually transformed to a type of shelving&. 
+bother&, his bed had gradually transformed to a type of shelving&.
 
 Henceforth&, he began using the two-seat sofa as his sleeping space&.
 
@@ -100,8 +100,8 @@ Henceforth&, he began using the two-seat sofa as his sleeping space&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05700010ta">
-"Uuh&.&.&.&. uuh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05700010ta">
+"Uuh&.&.&. uuh&.&.&."
 
 A painful-sounding moan spilled from Takumi's mouth&.
 
@@ -182,7 +182,7 @@ He repeated this in each of the sixty existing threads&.
 	CreateSE("SE01","SE_日常_PC_キー叩く_中");
 	SoundPlay("SE01", 0, 1000, false);}
 The letters he typed were few&.
-But all of them formed the same sentence--
+But all of them formed the same sentence―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -191,7 +191,7 @@ But all of them formed the same sentence--
 	MusicStart("@CH*", 1000, 0, 0, 0, null, false);
 	Wait(500);
 
-	CreateMovie("そーのめだーれのめ", 100, 0, 0, false, false, "dx/mv目03.ngs");	
+	CreateMovie("そーのめだーれのめ", 100, 0, 0, false, false, "dx/mvEye03.ngs");	
 	WaitPlay("そーのめだーれのめ", null);
 
 	//Wait(3000);
@@ -204,7 +204,7 @@ But all of them formed the same sentence--
 その目だれの目？
 */
 
-	SetFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "<BR><BR>634  Name: Shogun [age] ：07/30(M) 04:47:51  ID:5/scZ8Gg<BR>Whose eyes are those eyes?");
 	Move("テキスト１", 0, @13, @0, null, true);
 	Request("テキスト１", Erase);

@@ -93,23 +93,23 @@ if($GameDebugSelect == 1)
 [text001]
 Even after the weekend&, the fourth "New Gen" case&, commonly known as
 the "Vampire House" incident&, continued to have powerful
-reverberations&. 
+reverberations&.
 
 The corpse of a man whose blood been withdrawn in its entirety&, and
 whose body surface had transformed in color to an inhuman green&.
 
 //井乃頭線＝井の頭線
 It was discovered in a bathroom in the Shibuya station of the
-Inokashira Line&. 
+Inokashira Line&.
 
 And it was inevitable that the mass media and @channel would seize on
 it&, given the abnormality and brutality of the murder&, as well as
 the fact that a photograph of the body had been put on display in an
-online auction before the body itself was actually discovered&. 
+online auction before the body itself was actually discovered&.
 
 Much attention was paid to the sentence used as the headline for the
 auction page&, which read&, "Supplies of Type B blood are currently
-inadequate!" 
+inadequate!"
 
 Several days prior to the incident&, tissue packs advertising blood
 donation drives&, with the exact same sentence written on them&, had
@@ -119,7 +119,7 @@ Station&.
 I had one of those tissue packs close at hand&.
 Now&, reading back over it&, its incongruity-filled text could be
 interpreted as an advance warning of the murder&, rather than a
-recruitment notice for blood donations&. 
+recruitment notice for blood donations&.
 
 Apparently the police were searching for the part-time workers who had
 distributed the tissues&, but for some reason&, they hadn't managed to
@@ -150,8 +150,8 @@ find many leads&.
 There was one area in which "Vampire House" differed crucially from
 the other three cases&.
 
-{#TIPS_劇場型犯罪 = true;}While signs of it had already been present in the "staking" case&, 
-the tendency toward <FONT incolor="#88abda"outcolor="BLACK">theatricality</FONT> had manifested far 
+{#TIPS_劇場型犯罪 = true;}While signs of it had already been present in the "staking" case&,
+the tendency toward <FONT incolor="#88abda"outcolor="BLACK">theatricality</FONT> had manifested far
 more strongly this time around&.
 
 {	Fade("ぶんかまち", 500, 1000, null, true);}
@@ -172,7 +172,7 @@ who called themselves "Snake" went out into Shibuya late at night to
 report on the conditions there&.
 And a certain phrase became popular among the youth of the city&.
 
---Whose eyes are those eyes?
+―Whose eyes are those eyes?
 
 Plus&, it wasn't only online; these words had also infiltrated the
 ranks of delinquents who walked around Shibuya&.
@@ -241,9 +241,9 @@ I'd ever left such a large gap between visits&.
 I found the atmosphere of the store and everything it comprised to be
 amazingly nostalgic:
 
-the rank smell of the breeze released by the air conditioning&, 
-the manga volumes that had come to be infused by the scent 
-of nicotine&, how comfortable it felt to sit in a reclining chair&, 
+the rank smell of the breeze released by the air conditioning&,
+the manga volumes that had come to be infused by the scent
+of nicotine&, how comfortable it felt to sit in a reclining chair&,
 the snores of old men in the midst of dead silence&.
 
 </PRE>
@@ -270,23 +270,23 @@ the snores of old men in the midst of dead silence&.
 <PRE box00>
 [text004]
 //【優愛】
-<voice name="優愛" class="優愛" src="ch03/04800010yu">
+<voice name="優愛" class="優愛" src="voice/ch03/04800010yu">
 "I examined the chat log of PC in Room 37&."
 
 //【優愛】
-<voice name="優愛" class="優愛" src="ch03/04800020yu">
-"What I learned from doing so was that&.&.&.&."
+<voice name="優愛" class="優愛" src="voice/ch03/04800020yu">
+"What I learned from doing so was that&.&.&."
 
 //【優愛】
-<voice name="優愛" class="優愛" src="ch03/04800030yu">
-"You were putting on a one-man play&.&.&.&."
+<voice name="優愛" class="優愛" src="voice/ch03/04800030yu">
+"You were putting on a one-man play&.&.&."
 
 //【優愛】
-<voice name="優愛" class="優愛" src="ch03/04800040yu">
-"'Shogun' is none other than--"
+<voice name="優愛" class="優愛" src="voice/ch03/04800040yu">
+"'Shogun' is none other than―"
 
 //【優愛】
-<voice name="優愛" class="優愛" src="ch03/04800050yu">
+<voice name="優愛" class="優愛" src="voice/ch03/04800050yu">
 "You yourself&."
 
 </PRE>
@@ -365,21 +365,21 @@ didn't come to school much to begin with&, so it was natural that we
 would have no opportunities to run into each other&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/04800060ta">
-"Yua's got some amazing delusions&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/04800060ta">
+"Yua's got some amazing delusions&.&.&."
 
-I couldn't help pitying Yua&. 
+I couldn't help pitying Yua&.
 She was clearly sick in the head&.
 
-The best way to deal with someone like her was to let her be&. 
-She was an accident waiting to happen&. 
+The best way to deal with someone like her was to let her be&.
+She was an accident waiting to happen&.
 
 These past two weeks&, I'd risked getting dragged into all kinds of
 hassles&.
 
 Until then&, I'd had a remarkably uneventful daily life&, and
 Misumi-kun was just about the only person who started up conversations
-with me&.  
+with me&.
 
 Why had only bizarre and unreasonable things happened lately?
 
@@ -400,15 +400,15 @@ Why had only bizarre and unreasonable things happened lately?
 	Fade("回想フラッシュ", 1000, 0, null, true);
 	Delete("回想フラッシュ");
 	SoundPlay("SE01", 2000, 1000, true);}
-I didn't want to think about anything that would aggravate me&. 
+I didn't want to think about anything that would aggravate me&.
 
-Even that dying message must surely have been a coincidence&. 
+Even that dying message must surely have been a coincidence&.
 
 Regardless of whatever anyone said about it&, weren't they commonly
 used words? The likes of me had come up with them&, so there'd be
-nothing strange about it if someone else thought of them as well&. 
+nothing strange about it if someone else thought of them as well&.
 
-&.&.&.&.I wasn't interested in knowing who that message had been aimed
+&.&.&.I wasn't interested in knowing who that message had been aimed
 at&. No&, rather&, I admonished myself that I mustn't become
 interested&.
 
@@ -435,21 +435,21 @@ interested&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/04800070ta">
-"&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch03/04800070ta">
+"&.&.&.!"
 
-Something nearby started ringing out of the blue&. 
+Something nearby started ringing out of the blue&.
 Startled&, I jerked in my reclining chair&.
 
-It was the sound of a phone&. But whose? 
+It was the sound of a phone&. But whose?
 
 Because it was quiet inside&, the electronic sound echoed particularly
-emphatically throughout the area&. 
+emphatically throughout the area&.
 I looked around&. But I couldn't spot a phone anywhere&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/04800080ta">
-"Ah&, maybe it's&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/04800080ta">
+"Ah&, maybe it's&.&.&."
 
 {	CreateSE("SE03","SE_人体_動作_のぞく");
 	SoundPlay("SE03", 0, 700, false);}
@@ -468,15 +468,15 @@ Normally&, the caller's number would be displayed here&.
 //電話番号は適当。後日再調整する必要ありかも
 {	CreateTextureEX("携帯電話", 100, 0, 0, "cg/bg/bg129_01_3_謎の電話番号_a.jpg");
 	Fade("携帯電話", 100, 1000, null, true);}
-Would it be okay to answer this&.&.&.&.? 
-But that aside&, I didn't like talking with people very much&. 
+Would it be okay to answer this&.&.&.?
+But that aside&, I didn't like talking with people very much&.
 
-For starters&, who on earth was calling me? 
+For starters&, who on earth was calling me?
 
 I hadn't given this cell phone's number out to anyone yet&.
 
 The only people aware of it were my family&, and Nanami&, busybody
-that she was&, had put them in my address book&. 
+that she was&, had put them in my address book&.
 
 When someone called from one of the numbers recorded in the phone's
 address book&, their name was supposed to get displayed&. In other
@@ -489,20 +489,24 @@ words&, the person calling me now wasn't one of my family members&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-Then who&.&.&.&. was it&.&.&.&.? 
+When someone called from one of the numbers recorded in the phone's
+address book&, their name was supposed to get displayed&. In other
+words&, the person calling me now wasn't one of my family members&.
+
+Then who&.&.&. was it&.&.&.?
 
 The phone went on ringing stubbornly&.
 
 Would someone calling a cell phone usually make it ring on and on with
-such persistence? 
+such persistence?
 
 I'd never used one before&, so I had no idea&, but it was an
-unbelievable nuisance&. 
+unbelievable nuisance&.
 
 To suddenly encroach on your personal space and have it ring until you
-picked up&. 
+picked up&.
 
-It was just the right way to invade someone's privacy&. 
+It was just the right way to invade someone's privacy&.
 This was why I hadn't wanted a cell phone&.
 
 //ＳＥ//ケータイ着信音終了
@@ -510,7 +514,7 @@ This was why I hadn't wanted a cell phone&.
 	Delete("携帯電話");
 	SoundPlay("SE02", 0, 0, true);
 	Wait(500);}
-Ah&, it stopped&.&.&.&.
+Ah&, it stopped&.&.&.
 
 Relieved&, I checked the LCD screen again&.
 
@@ -549,17 +553,6 @@ signals&. They pass through the phone lines until they reach the
 person you're conversing with&, and your voice gets turned back to
 normal&, becoming hearable for the first time&.
 
-To put it a different way&, for you to talk on the phone&, the process
-needs to include a minimum of two such conversions&.
-
-In the case of a cell phone&, it involves a complicated system wherein
-your voice starts off by getting turned to electrical signals&, which
-travel to a nearby station via radio waves&, then run through normal
-phone lines to another telephone exchange&, 
-
-from which it heads to the station closest the person you're calling&, 
-and finally reaches their cell phone in the form of radio waves&.
-
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
@@ -568,6 +561,17 @@ and finally reaches their cell phone in the form of radio waves&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
+To put it a different way&, for you to talk on the phone&, the process
+needs to include a minimum of two such conversions&.
+
+In the case of a cell phone&, it involves a complicated system wherein
+your voice starts off by getting turned to electrical signals&, which
+travel to a nearby station via radio waves&, then run through normal
+phone lines to another telephone exchange&,
+
+from which it heads to the station closest the person you're calling&,
+and finally reaches their cell phone in the form of radio waves&.
+
 If my voice was getting exchanged for electrical signals&, would the
 person I was speaking to ultimately receive "my own" voice
 accurately&, phrase for phrase?
@@ -580,10 +584,10 @@ For instance&, what if I called Nanami&, and instead of reaching her&,
 my call got sent to some sketchy facility&, and a person I'd never
 seen before in my life pretended to be Nanami and answered the phone&.
 
-Maybe they'd even be a computer&, instead of a human being&. 
+Maybe they'd even be a computer&, instead of a human being&.
 
-That was why it scared me to talk on the phone&. 
-It scared me much more than talking face-to-face&.&.&.&.
+That was why it scared me to talk on the phone&.
+It scared me much more than talking face-to-face&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

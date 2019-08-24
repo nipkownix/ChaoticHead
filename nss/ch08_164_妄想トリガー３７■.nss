@@ -82,18 +82,18 @@ As he brushed by me&, he put a hand on my shoulder&, and
 
 //Ÿ¬º//ŸÅŒã‚Í‚½‚ß‘§
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400010mi">
-"I'm heading out&.&.&.&. haa&."
+<voice name="OZ" class="OZ" src="voice/ch08/16400010mi">
+"I'm heading out&.&.&. haa&."
 
 //Ÿ¬º
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400020mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400020mi">
 "Taku&, go for it&. If I'm guessing right&, Kishimoto is totally into
 you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400030ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400030ta">
+"Eh&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
@@ -145,7 +145,7 @@ leave it at that&.
 
 But considering how she was being hospitalized in the psych ward&, it
 didn't seem like I could casually ask about her condition or
-anything&.&.&.&.
+anything&.&.&.
 
 Uuu&, what should I do?
 At this rate&, I would've been better off leaving with Misumi-kun&.
@@ -154,7 +154,7 @@ At this rate&, I would've been better off leaving with Misumi-kun&.
 	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","shy", 250, @-100);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shy", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400040ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400040ay">
 "Takumi&."
 
 She gave me a start when she called my name&.
@@ -162,22 +162,22 @@ Ayase raised her face and extended both her hands toward me&.
 
 {	MusicStart("@CH11",3000,1000,0,0,null,true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400050ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400050ay">
 "Come&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400060ta">
-"&.&.&.&.Heh?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400060ta">
+"&.&.&.Heh?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400070ay">
-"&.&.&.&.Come to me&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400070ay">
+"&.&.&.Come to me&."
 
 I didn't know what she'd do to me if I refused&, so I took a single
 confused step toward the bed&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400080ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400080ay">
 "Closer&."
 
 At her urging&, I took another step&.
@@ -192,32 +192,32 @@ At her urging&, I took another step&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-Her hands touched mine&. 
+Her hands touched mine&.
 Seizing them&, she pulled me closer still&.
 
 She lowered her face again&.
 She stared steadily at my hands&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400090ta">
-"U&.&.&.&.&. m&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400090ta">
+"U&.&.&.&. m&.&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","smile", 250, @-100);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_smile", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shy", 0, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400100ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400100ay">
 "You saved me&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400110ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400110ay">
 "I owe you my life&."
 
 That wasn't true&.
 I'd only happened to save Ayase's life&.
 
 For starters&, I wasn't completely sure whether I had really been the
-one who "gave rise" to that flowerbed&.&.&.&.
+one who "gave rise" to that flowerbed&.&.&.
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","shy", 250, @-100);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shy", 300, true);
@@ -226,18 +226,18 @@ one who "gave rise" to that flowerbed&.&.&.&.
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shy", 500, true);}
 //Ÿ—Üº
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400120ay">
-"Thank you&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400120ay">
+"Thank you&.&.&."
 
 Ayase's voice broke&.
 Could she be crying?
 
 //Ÿ‘ñ–¤‚Ìw‚ğŒû‚É‚­‚í‚¦‚é
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400130ay">
-"Ahm&.&.&.&.&. mu&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400130ay">
+"Ahm&.&.&.&. mu&."
 
-Ahm&.&.&.&. mu?
+Ahm&.&.&. mu?
 
 A warm sensation at the tip of my finger&.
 When I looked down&, wondering what it was&,
@@ -245,16 +245,16 @@ When I looked down&, wondering what it was&,
 Ayase had&, for some reason&, taken my pointer finger in her mouth&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400140ta">
-"Eh&, wai&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400140ta">
+"Eh&, wai&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400150ay">
-"Nn&.&.&.&. fu&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400150ay">
+"Nn&.&.&. fu&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400160ay">
-"Nnn&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400160ay">
+"Nnn&.&.&."
 
 Something soft and hot touched the end of my finger&.
 
@@ -262,15 +262,15 @@ It squirmed as though to envelop my finger&,
 And pressed between my nails and my flesh&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400170ta">
-"Ah&.&.&.&. ah&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400170ta">
+"Ah&.&.&. ah&.&.&.&."
 
 How the hell had things ended up like this!?
 
 Despite my bewilderment&, I was unable to defy the pleasure of it&,
 and I let Ayase do as she pleased with me&.
 
-She was only licking my finger&, so why did it feel so--
+She was only licking my finger&, so why did it feel so\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -281,13 +281,13 @@ She was only licking my finger&, so why did it feel so--
 [text004]
 //Ÿœ’›
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400180ta">
-"Oh&, shhtooop&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400180ta">
+"Oh&, shhtooop&.&.&."
 
 //Ÿw‚ğŠš‚Ş
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400190ay">
-"Nn&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400190ay">
+"Nn&.&.&."
 
 {	MusicStart("@CH11",200,0,0,0,null,false);
 	CreateColor("F‚P", 150, 0, 0, 800, 600, "RED");
@@ -297,8 +297,8 @@ All of a sudden&, the pleasure changed to a jolt of pain&.
 Ayase bit down hard on my finger&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400200ta">
-"Ow&, owowowowow! Sto&, wai&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400200ta">
+"Ow&, owowowowow! Sto&, wai&.&.&.!"
 
 I thought she'd chew me right down to the bone&.
 It hurt that badly&.
@@ -308,8 +308,8 @@ Ayase's mouth&.
 
 //Ÿ‘§‚ªr‚¢¨Î‚¤
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400210ay">
-"Fuu&, haa&, haa&.&.&.&. Fufufu&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400210ay">
+"Fuu&, haa&, haa&.&.&. Fufufu&."
 
 Terrified by her bewitching smile&, I examined the bite-wound on my
 finger&.
@@ -318,12 +318,12 @@ My finger&, glistening with Ayase's saliva&.
 There were tooth marks on it&, and blood oozed out&.
 The blood wasn't red&.
 
-It was horribly black--
+It was horribly black\
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","smile", 250, @0);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_smile", 300, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400220ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400220ay">
 "The color of your blood proves you're a black knight&."
 
 </PRE>
@@ -350,7 +350,7 @@ It was horribly black--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
---By having such delusions&, I somehow managed to get through Ayase's
+\By having such delusions&, I somehow managed to get through Ayase's
 incomprehensible story&.
 
 I hadn't listened to a word of it&, but she didn't notice&, and she
@@ -384,12 +384,12 @@ As he brushed by me&, he put a hand on my shoulder&, and
 
 //Ÿ¬º//ŸÅŒã‚Í‚½‚ß‘§
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400230mi">
-"I can't keep up with her anymore&. I leave the rest to you&.&.&.&.
+<voice name="OZ" class="OZ" src="voice/ch08/16400230mi">
+"I can't keep up with her anymore&. I leave the rest to you&.&.&.
 haa&."
 
 He sighed&, sounding like he was through with it all&,
-And he made as if to leave the hospital room--
+And he made as if to leave the hospital room\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -417,7 +417,7 @@ And he made as if to leave the hospital room--
 <PRE box00>
 [text007]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400240ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400240ay">
 "Wait&."
 
 {	Stand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 200, @-220);
@@ -426,28 +426,28 @@ Which was when Ayase addressed him at last&.
 But for some reason&, she had on a severe expression&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400250ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400250ay">
 "I won't let you escape&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_worry", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400260mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400260mi">
 "Haa? What&, you gonna pay attention to me now?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400270ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400270ay">
 "Yes&. I will&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400280ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400280ay">
 "I know you serve the evil king&."
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, false);}
-Wh&, what's with that&.&.&.&.
+Wh&, what's with that&.&.&.
 A new aspect of the same "setting"?
 
 Misumi-kun seemed immensely bothered by having her unilaterally append
@@ -459,7 +459,7 @@ Yet Ayase was serious&.
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400290ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400290ay">
 "Takumi&."
 
 {	CreateSE("SE02","SE_“úí_Q‚ª‚¦‚è‚ğ‚¤‚Â");
@@ -474,17 +474,17 @@ cover on it&, or otherwise I'd have been in danger of getting my hand
 c<pre>u</pre>t&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400300ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400300ay">
 "You're to kill him&."
 
 {	DeleteStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 500, true);}
---Him--
+\Him\
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 Ayase had been looking at Misumi-kun when she said it&.
 
-What was going on with this crazy development&.&.&.&.
+What was going on with this crazy development&.&.&.
 Discombobulated&, knife in hand&, I went into a dither&.
 
 </PRE>
@@ -502,16 +502,16 @@ Discombobulated&, knife in hand&, I went into a dither&.
 [text008]
 //Ÿ‹êÎ
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400310mi">
-"Hey&, hey&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch08/16400310mi">
+"Hey&, hey&.&.&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400320mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400320mi">
 "Now you're saying to kill me&, huh&. Circumstances aside&, isn't that
 pretty mean?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400330mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400330mi">
 "Meh&, I knew you didn't like me&. But man&, I didn't think you'd say
 something like that to my face&."
 
@@ -519,30 +519,30 @@ something like that to my face&."
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400340mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400340mi">
 "And so&, um&, what was it again? Graviton? Grabbit?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400350mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400350mi">
 "Not that I have any clue what you mean&."
 
 {	Stand("bu‘å•ã_§•_’Êí","sigh", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_worry", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400360mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400360mi">
 "Taku&, just put the knife down for now&. Don't play along with
 Kishimoto's delusions&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 500, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400370ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400370ay">
 "It's not a delusion&."
 
 {	Stand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 200, @-220);
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400380ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400380ay">
 "Takumi&, don't believe anything he says&."
 
 Expression strained&, Misumi-kun took a step back from Ayase&.
@@ -551,38 +551,38 @@ Expression strained&, Misumi-kun took a step back from Ayase&.
 	Stand("bu‘å•ã_§•_’Êí","worry", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400390mi">
-"You're way abnormal&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch08/16400390mi">
+"You're way abnormal&.&.&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_worry", 300, false);
 	Stand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 200, @-220);
 	FadeStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400400ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400400ay">
 "Takumi&, hurry up and kill him&. If not&, the whole of your existence
 will lie exposed before Gladioul&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400410ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400410ta">
+"&.&.&.&.&.&.&."
 
 I took the knife in my hand
 And quietly set it back down atop Ayase's knees&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400420ay">
-"Takumi&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400420ay">
+"Takumi&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400430ta">
-"Th&, the things you're saying&.&.&.&. they're beyond
-ridiculous&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400430ta">
+"Th&, the things you're saying&.&.&. they're beyond
+ridiculous&.&.&."
 
 {	DeleteStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 800, true);}
 //ŸƒuƒŒƒX
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400440ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400440ay">
+"&.&.&.&.&.&.&."
 
 She looked up at me with sorrowful eyes&.
 I can't kill Misumi-kun just because you're looking at me like that&,
@@ -596,7 +596,7 @@ That was all it boiled down to&.
 {	Stand("bu‘å•ã_§•_’Êí","smile", 250, @220);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400450mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400450mi">
 "There's my buddy&. I was sure you'd choose me&, Taku&."
 
 Misumi-kun patted me on the shoulder&.
@@ -609,7 +609,7 @@ Ever so casually&,
 Grabbed the knife resting in Ayase's lap&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400460mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400460mi">
 "Bye now&, you freaky bitch&."
 
 With flowing movements&, he took the cover off the blade and made it
@@ -661,7 +661,7 @@ The sheets&, once pure white&, began to soak themselves scarlet&.
 	Stand("st‘å•ã_§•_’Êí","pride", 250, @210);
 	FadeStand("st‘å•ã_§•_’Êí_pride", 300, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400470mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400470mi">
 "We got her&, Taku&. Now was her last chance&, man&. To stop
 Gladioul's resurrection&, I mean&."
 
@@ -671,7 +671,7 @@ I couldn't even raise a scream&.
 	FadeStand("st‘å•ã_§•_’Êí_smile", 300, true);
 	DeleteStand("st‘å•ã_§•_’Êí_pride", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400480mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400480mi">
 "Which means Kishimoto was in the right&."
 
 {	DeleteStand("st‘å•ã_§•_’Êí_smile", 500, true);}
@@ -691,7 +691,7 @@ murmured:
 	CreateColor("F‚Q", 150, 0, 0, 800, 600, "RED");
 	Wait(600);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400490mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16400490mi">
 "Whose eyes are those eyes?"
 
 </PRE>
@@ -724,10 +724,10 @@ When I came back to myself&, Ayase&, who should've been drenched in
 blood&, was sitting uninjured on the bed&.
 Misumi-kun was nowhere to be found&.
 
-A delusion&.&.&.&.?
+A delusion&.&.&.?
 
 I let out a deep&, deep breath&.
-I'd had a pretty awful vision&.&.&.&. 
+I'd had a pretty awful vision&.&.&.
 
 Experiencing some guilt over it&, I internally apologized to Ayase&.
 
@@ -758,8 +758,8 @@ As he brushed by me&, he put a hand on my shoulder&, and
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 300, true);}
 //Ÿ¬º//ŸÅŒã‚Í‚½‚ß‘§
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16400500mi">
-"I can't keep up with her anymore&. I leave the rest to you&.&.&.&.
+<voice name="OZ" class="OZ" src="voice/ch08/16400500mi">
+"I can't keep up with her anymore&. I leave the rest to you&.&.&.
 haa&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 500, true);
@@ -772,7 +772,7 @@ Sighing as if he were through with all this&, he left the hospital
 room&.
 
 It&, it's kind of a problem for me if you leave me behind like
-this&.&.&.&.
+this&.&.&.
 
 Ayase&, on the other hand&, displayed zero interest in his departure&.
 
@@ -787,62 +787,62 @@ ordinary people saw&.
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","normal", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400510ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400510ay">
 "You gave rise to it&, did you not?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400520ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400520ay">
 "The flowerbed&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400530ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400530ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400540ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400540ay">
 "It opened my eyes&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400550ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400550ay">
 "To the fact that you have already awakened&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400560ta">
-"I&, I'm not a Gigalomaniac&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400560ta">
+"I&, I'm not a Gigalomaniac&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","shock", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shock", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 0, true);}
 //Ÿñ‚ğŒX‚°‚é
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400570ay">
-"Gigalo&.&.&.&. what?"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400570ay">
+"Gigalo&.&.&. what?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400580ta">
-"You know&, Gigalomaniacs&.&.&.&. I heard about them&.&.&.&. from
-Aoi Sena&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400580ta">
+"You know&, Gigalomaniacs&.&.&. I heard about them&.&.&. from
+Aoi Sena&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400590ay">
-"Aoi&.&.&.&. Sena&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400590ay">
+"Aoi&.&.&. Sena&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","normal", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_shock", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400600ay">
-"Yes&, her&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400600ay">
+"Yes&, her&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400610ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400610ay">
 "I've met her once&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400620ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400620ay">
 "She too is a black knight of Gladioul&."
 
 The black knights of Gladioul&.
@@ -858,45 +858,45 @@ Did they mean the same thing?
 <PRE box00>
 [text012]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400630ta">
-"In&, in any case&, I'm&.&.&.&. not one&.&.&.&. In the end&.&.&.&. I
-co&, couldn't even get a Di-Sword&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400630ta">
+"In&, in any case&, I'm&.&.&. not one&.&.&. In the end&.&.&. I
+co&, couldn't even get a Di-Sword&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400640ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400640ay">
 "Overcome your divine punishment&. Only then will your sword be
 summoned&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400650ta">
-"Divine punishment&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400650ta">
+"Divine punishment&.&.&.?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400660ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400660ay">
 "Agony&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400670ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400670ay">
 "The explosion of one's emotional burdens&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400680ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400680ay">
 "The other side of the door in your heart&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400690ay">
-"&.&.&.&.Alternatively&, psychological torture&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400690ay">
+"&.&.&.Alternatively&, psychological torture&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400700ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400700ay">
 "There are many ways to phrase it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400710ta">
-"I&.&.&.&. I've suffered a lot&.&.&.&. up till now&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400710ta">
+"I&.&.&. I've suffered a lot&.&.&. up till now&.&.&."
 
 {	CreateColor("F‚P", 500, 0, 0, 800, 600, "Black");
 	Fade("F‚P", 0, 0, null, true);
@@ -918,7 +918,7 @@ The police still mistook me for a murderer&.
 	Fade("‰ñ‘z–¾“x", 0, 300, null, true);
 	CreateTexture("”wŒi‚Q", 1000, 0, 0, "cg/ev/ev069_01_1_µŠC˜L‰ºŒãp”¯‚©‚«‚ ‚°_a.jpg");
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 500, 0, null, true);}
-And then there was Nanami&.&.&.&.
+And then there was Nanami&.&.&.
 
 {	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 100, 1000, null, true);
 	Delete("”wŒi‚R");
@@ -930,19 +930,19 @@ And then there was Nanami&.&.&.&.
 	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400720ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400720ay">
 "I used to be in a psychiatric hospital&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400730ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400730ay">
 "When I was a child&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400740ta">
-"Ah&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400740ta">
+"Ah&, yeah&.&.&."
 
 I knew&. I'd seen it online&.
-But why had she brought it up out of the blue&.&.&.&.?
+But why had she brought it up out of the blue&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -952,23 +952,23 @@ But why had she brought it up out of the blue&.&.&.&.?
 <PRE box00>
 [text013]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400750ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400750ay">
 "I was there for close to five years&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400760ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400760ay">
 "My heart was very weak&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400770ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400770ay">
 "Which was why I attacked"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400780ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400780ay">
 "Everything around me"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400790ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400790ay">
 "And simultaneously&, myself as well&."
 
 Ayase talked quietly&, mumbling&.
@@ -979,54 +979,54 @@ the current Ayase&,
 Who wore pastel pajamas and softly ran her fingers along the wrinkles
 in the sheets atop her bed&.
 
-Had the Ayase back then--had FES--ultimately been real&.&.&.&.?
+Had the Ayase back then\had FES\ultimately been real&.&.&.?
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400800ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400800ay">
 "I often broke windows&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","smile", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_smile", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400810ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400810ay">
 "I was a problem child&."
 
 {	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_smile", 500, true);}
 A faint smile graced Ayase's lips&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400820ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400820ay">
 "Shards of broken glass&. I always saw it vaguely in them&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400830ta">
-"S&, saw what&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400830ta">
+"S&, saw what&.&.&.?"
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 500, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400840ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400840ay">
 "My sword&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400850ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400850ay">
 "But for years&, I didn't understand what it was&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400860ay">
-"I finally knew it was a Di-Sword--"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400860ay">
+"I finally knew it was a Di-Sword\"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400870ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400870ay">
 "Four years after I entered the institution&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400880ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400880ay">
 "Until then I had been free to do as I liked&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400890ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400890ay">
 "But one day&, all the workers in the facility were switched out at
 once&."
 
@@ -1034,39 +1034,39 @@ once&."
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400900ay">
-"I underwent all kinds of torture for months&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400900ay">
+"I underwent all kinds of torture for months&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400910ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400910ay">
 "When my heart was on the verge of shattering"
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","normal", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400920ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400920ay">
 "I heard the voice of the Great Will&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400930ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400930ay">
 "At last I managed to summon it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16400940ta">
-"Torture&.&.&.&. you say&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400940ta">
+"Torture&.&.&. you say&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400950ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400950ay">
 "It was divine punishment&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400960ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400960ay">
 "To obtain the power to defeat a wicked heart&, you yourself must have
-a purely wicked heart&.&.&.&."
+a purely wicked heart&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1077,7 +1077,7 @@ a purely wicked heart&.&.&.&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text014]
-In short--
+In short\
 
 She wanted to tell me to suffer more?
 That if I didn't&, I couldn't acquire a sword?
@@ -1110,27 +1110,27 @@ I held my head&, driven by the urge to yell my lungs out&.
 <PRE box00>
 [text015]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400970ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400970ay">
 "Everything is a divine message&."
 
 //ŸW‚Á‚Ä‚Â‚Ç‚Á‚Ä
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400980ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400980ay">
 "They have already gathered in Shibuya&. The seven black knights&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16400990ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400990ay">
 "All that remains is for every one of them to awaken&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16401000ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16401000ay">
 "If we don't hurry"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/16401010ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16401010ay">
 "Gladioul will destroy the world&."
 
 </PRE>

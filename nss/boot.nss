@@ -1,5 +1,6 @@
 #include "nss/function.nss"
 #include "nss/function_select.nss"
+#include "nss/sys_config.nss"
 
 
 //=============================================================================//
@@ -10,13 +11,72 @@
 chapter main
 {
 
-	#SYSTEM_product_code="CHAOS;HEAD 1.00 VERSION";
-	#SCRIPT_VERSION="1.00";
+	#SYSTEM_product_code="DEMONBANE_THEBEST";
+	#SCRIPT_VERSION="1.20";
+	#SYSTEM_version="1.20";
 	#SYSTEM_loading_image="cg/sys/save/loading.jpg";
 	#SYSTEM_loading_image_x=298;
 	#SYSTEM_loading_image_y=213;
 
 	$ChapterName = "boot";
+	
+	//■フルスクリーンチェック
+	if(#SYSTEM_window_full){
+		#SYSTEM_window_full=true;
+	}
+
+	//▼ショートカット設定
+	//メニュー
+	SetShortcut("M", "nss/sys_menu.nss");
+	//セーブメニュー
+	SetShortcut("S", "nss/sys_save.nss");
+	//ロードメニュー
+	SetShortcut("L", "nss/sys_load.nss");
+	//リセット確認
+	SetShortcut("T", "nss/sys_reset.nss");
+	//バックセレクト
+	//SetShortcut("R", "nss/sys_backselect.nss");
+	//コンフィグ
+	SetShortcut("C", "nss/sys_config.nss");
+	//バックログ
+	SetShortcut("B", "nss/sys_backlog.nss");
+	//自動文字送り
+	SetShortcut("A", "nss/sys_auto.nss");
+	//全画面表示
+	SetShortcut("F", "nss/sys_screen.nss");
+	//超速
+	//SetShortcut("N", "nss/sys_skip.nss");
+	//クイックセーブ
+	//SetShortcut("Q", "nss/sys_quicksave.nss");
+	//クイックロード
+	//SetShortcut("P", "nss/sys_quickload.nss");
+	//Twitter
+	//SetShortcut("E", "nss/sys_twitter.nss");
+	//事刻表
+	//SetShortcut("J", "nss/sys_backselect.nss");
+	//デバッグ
+	//SetShortcut("D", "nss/sys_debug.nss");
+	//デバッグ
+	//SetShortcut("E", "nss/sys_debug_end.nss");
+	//
+	//SetShortcut("E", "nss/extra_tips.nss");
+	//
+	//SetShortcut("D", "nss/sys_skip.nss");
+
+	//icons
+	$SYSTEM_text_icon_line="cg/sys/icon/line/line-icon_%02d.png#14";
+	$SYSTEM_text_icon_page="cg/sys/icon/page/page-icon_%02d.png#10";
+	$SYSTEM_text_icon_auto="cg/sys/icon/auto/auto-icon_%02d.png#10";
+
+	if(!#GAME_first_boot){
+		//●設定リセット
+		if(Message("Enter Full Screen Mode?","You can switch between modes with F",YESNO,QUESTION)==2){
+			#SYSTEM_window_full=!#SYSTEM_window_full;
+		}else{
+		}
+		#GAME_first_boot=true;
+		cfgDefault();
+	}
 
 	while(1)
 	{
@@ -29,16 +89,17 @@ chapter main
 		//★：定義
 		SystemInit();
 
-//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+		//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 		//デバッグ用
-//		$Logo = 1;
-//		#ClearG = 1;
-		#下着パッチ=false;
-//		DebugSound();
-//		DebugGallery();
-//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+		//$Logo = 1;
+		//#ClearG = 1;
+		//#下着パッチ=false;
+		//$debug_skip = true;
+		//DebugSound();
+		//DebugGallery();
+		//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
-		if($GameContiune == 1)
+		if($GameContiune)
 		{
 			#play_speed_plus = 3;
 			$GameContiune = 0;
@@ -63,15 +124,24 @@ chapter main
 			#play_speed_plus = 3;
 		}
 
-		$GameName = 0;
+		if($debug_skip)
+		{
+			#debug_skip = true;
+		}
+		else
+		{
+			#debug_skip = false;
+		}
+	
+		$GameName = "";
 
-		$PLACE_badend = 0;
-		$PLACE_title = 1;
+		$PLACE_badend = false;
+		$PLACE_title = true;
 
-		$SYSTEM_skip=0;
-		$SYSTEM_text_auto=0;
+		$SYSTEM_skip=false;
+		$SYSTEM_text_auto=false;
 		#SYSTEM_play_speed = 3;
-		$SYSTEM_menu_lock = 1;
+		$SYSTEM_menu_lock = true;
 
 		//★タイトルで何を選択したかのリセット
 		$TitleSelect = 0;
@@ -81,6 +151,8 @@ chapter main
 		Fade("@box11",0,0,null,false);
 		Fade("@box12",0,0,null,true);
 
+		//■フルスクプロセス
+		TitleScreen();
 		//■：コングラ判定
 		TitleCongratulations();
 		//■：ロゴとエキストラBGM判定
@@ -127,6 +199,31 @@ chapter main
 //=============================================================================//
 
 
+
+
+//============================================================================//
+..//■タイトルフルスクプロセス■
+//============================================================================//
+function TitleScreen()
+{
+	CreateProcess("タイトルフルスクプロセス", 150, 0, 0, "TitleFull");
+	SetAlias("タイトルフルスクプロセス", "タイトルフルスクプロセス");
+	Request("タイトルフルスクプロセス", Start);
+}
+function TitleFull(){
+	select{
+		//★キーダウン系
+		if($SYSTEM_keydown_f){
+			if(!#SYSTEM_window_full_lock){
+				#SYSTEM_window_full=!#SYSTEM_window_full;
+				#SYSTEM_window_full_lock=false;
+				Wait(300);
+				$SYSTEM_keydown_f=false;
+			}
+		}
+	}
+}
+//============================================================================//
 
 
 
@@ -263,19 +360,19 @@ function TitleLogo()
 		Fade("タイトル5GK", 800, 1000, null, true);
 		WaitKey(3000);
 		Fade("タイトル5GK", 800, 0, null, true);
-//		Wait(800);
+		Wait(500);
 
 		CreateSE("タイトル前サウンド１","SE_日常_PC_ハードディスク_Loop");
 		SoundPlay("タイトル前サウンド１",0,1000,true);
 
-		Fade("タイトル注意事項", 800, 1000, null, true);
-		WaitKey(10000);
+		Fade("タイトル注意事項", 2000, 1000, null, true);
+		WaitKey(8000);
 
 		CreateSE("タイトル前サウンド２","SE_日常_PC_マウスクリック");
 		SoundPlay("タイトル前サウンド２",0,1000,false);
 		SetVolume("タイトル前サウンド１", 100, 0, NULL);
 
-		Fade("タイトル注意事項", 800, 0, null, true);
+		Fade("タイトル注意事項", 1, 0, null, true);
 
 		Delete("タイトルニトロプラス");
 		Delete("タイトル5GK");
@@ -853,7 +950,7 @@ function TitleFade()
 //■背景
 function FlashStart()
 {
-	WaitKey(1000);
+	Wait(3000);
 
 	$FlashFade = 1;
 	while($FlashFade==1)
@@ -887,7 +984,7 @@ function FlashStart()
 			}
 		}
 
-		WaitKey(2000);
+		Wait(2000);
 	}
 }
 
@@ -1257,7 +1354,7 @@ function TitleSelect()
 
 				CreateTexture("タイトルブラー１", 1000, 0, 0, "SCREEN");
 				Fade("タイトルカラー", 0, 1000, null, true);
-				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mv砂嵐.ngs");
+				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mvSandstormAN.ngs");
 				Fade("タイトルムービー", 0, 0, null, true);
 				CreateColor("タイトルカラー２", 1000, 0, 0, 800, 600, "BLACK");
 				Fade("タイトルカラー２", 0, 0, null, true);
@@ -1423,10 +1520,10 @@ function TitleSelect()
 
 function DebugSound()
 {
-	$テストナット="@CH08";
+	$テストナット="@CH_INS_FES_ライヴ";
 
 	SoundPlay("$テストナット",0,1000,true);
-	SetStream("$テストナット", 215000);
+	SetStream("$テストナット", 330);
 
 	CreateProcess("プロセス１", 150, 0, 0, "DebugSound2");
 	WaitKey();

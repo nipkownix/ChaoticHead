@@ -30,10 +30,10 @@ function ch10_220_‚aK‚¹‚È–²()
 	CreateColor("back10", 100, 0, 0, 800, 600, "Black");
 
 //‚Qƒ–ŒŒã\\
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 100, center, Middle, Auto, Auto, "Two months later--");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ƒeƒLƒXƒg‚P", 100, center, Middle, Auto, Auto, "Two months later\");
 	Move("ƒeƒLƒXƒg‚P", 0, @10, @0, null, true);
-	SetBacklog("Two months later--", "NULL", NULL);
+	SetBacklog("Two months later\", "NULL", NULL);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);
@@ -47,7 +47,7 @@ function ch10_220_‚aK‚¹‚È–²()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-Two months later-- 
+Two months later\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -69,51 +69,51 @@ Two months later--
 [text002]
 The winter sky wasn't very blue&.
 In exchange&, unlike the skies of summer&, it had a cool and clear
-feeling to it&. 
+feeling to it&.
 
-Morning&. 
+Morning&.
 I'd opened my eyes to the sound of my alarm clock&, and I looked up at
-the sky as I brushed my teeth&. 
+the sky as I brushed my teeth&.
 
-Two months since that tumult&. 
-Shibuya was still in the midst of reconstruction&. 
+Two months since that tumult&.
+Shibuya was still in the midst of reconstruction&.
 
 As New Year's passed&, Shibuya had begun recovering its previous bustle
-and gaudiness&, little by little&. 
+and gaudiness&, little by little&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000010ri">
-"Taku!" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000010ri">
+"Taku!"
 
-A voice called me&. 
+A voice called me&.
 
 {	SoundPlay("@CH11", 1000, 1000, true);
 	CreateBG(100, 500, 0, 0, "cg/bg/bg006_01_1_ƒRƒ“ƒeƒiŠOŠÏ_a.jpg");
 	Stand("st—œ[_§•_’Êí","normal", 200, @+150);
 	FadeStand("st—œ[_§•_’Êí_normal", 500, true);}
-When I looked over&, Rimi was coming up the stairs&. 
-It was the first time I'd seen her in her uniform since that day&. 
+When I looked over&, Rimi was coming up the stairs&.
+It was the first time I'd seen her in her uniform since that day&.
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","happy", 200, @+150);
 	DeleteStand("st—œ[_§•_’Êí_normal", 500, false);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_happy", 500, true);}
-Rimi smiled at me and whipped a salute&. 
+Rimi smiled at me and whipped a salute&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000020ri">
-"Salute! G'morning&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000020ri">
+"Salute! G'morning&."
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","smile", 200, @+150);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_smile", 300, true);
 	DeleteStand("st—œ[_§•_’ÊíƒrƒVƒbI_happy", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000030ri">
-"I'll hurry up and make you some breakfast&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000030ri">
+"I'll hurry up and make you some breakfast&."
 
 {	DeleteStand("st—œ[_§•_’ÊíƒrƒVƒbI_smile", 500, true);}
 She held a convenience store bag&.
-Inside were white bread&, eggs&, and milk&.  
-Standing before the sink&, she cheerfully began her preparations&. 
+Inside were white bread&, eggs&, and milk&.
+Standing before the sink&, she cheerfully began her preparations&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -123,34 +123,35 @@ Standing before the sink&, she cheerfully began her preparations&.
 <PRE box00>
 [text003]
 These past two months&, Rimi had practically been coming to my base on a
-daily basis&, and she cooked for me every time&. 
+daily basis&, and she cooked for me every time&.
 
 Apparently she herself had never done any real cooking before&, so it
-doubled as practice for her&. 
+doubled as practice for her&.
 
 I wanted to tell her not to turn me into her guinea pig&, but it made me
 happy to be able to eat a girl's home cooking&, so in the end&, I just
-bit the bullet&. 
+bit the bullet&.
 
 {	Stand("bu—œ[_§•_³–Ê","normal", 200, @+150);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000040ri">
-"School starts again today&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000040ri">
+"School starts again today&."
 
-Suimei Academy had been closed ever since the earthquake&, but today it was reopening&. 
+Suimei Academy had been closed ever since the earthquake&,
+but today it was reopening&.
 
 I was going to seize this as my chance to stop my half-hikikomori
-lifestyle and start seriously attending school&. 
+lifestyle and start seriously attending school&.
 
 {	Stand("bu—œ[_§•_³–Ê","smile", 200, @+150);
 	FadeStand("bu—œ[_§•_³–Ê_smile", 300, true);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000050ri">
-"It makes me happy&, getting go to school with you again&, Taku&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000050ri">
+"It makes me happy&, getting go to school with you again&, Taku&."
 
-Rimi said as she cracked an egg&. 
+Rimi said as she cracked an egg&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -173,51 +174,51 @@ Rimi said as she cracked an egg&.
 <PRE box00>
 [text004]
 As you might expect&, it was impossible for us to tolerate the cold and
-eat outside smack-dab in the middle of winter&. 
+eat outside smack-dab in the middle of winter&.
 
 Carrying inside the two-servings' worth of toast and and scrambled eggs
-Rimi had made&, we laid them on a low table&.  
-Then we sat side-by-side on the sofa&. 
+Rimi had made&, we laid them on a low table&.
+Then we sat side-by-side on the sofa&.
 
 {	Stand("bu—œ[_§•_³–Ê","smile", 200, @+150);
 	FadeStand("bu—œ[_§•_³–Ê_smile", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000060ri">
-"All right&, time to eat&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000060ri">
+"All right&, time to eat&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000070ta">
-"Thanks&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000070ta">
+"Thanks&."
 
 {	DeleteStand("bu—œ[_§•_³–Ê_smile", 500, true);}
 After putting my hands together&,
 I reached for the butter placed at the edge of the table&.
 
 However&, Rimi had done the same thing almost simultaneously&, and our
-fingertips brushed atop the container of butter&.  
+fingertips brushed atop the container of butter&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000080ri">
-"Ah--" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000080ri">
+"Ah\"
 
 {	SoundPlay("@CH11", 1000, 1000, true);}
-What a classic love-comedy development&. 
+What a classic love-comedy development&.
 Though I smiled wryly at it in my head&, my eyes soon met Rimi's&, where
-she sat close beside me&, and my heart started pounding&. 
+she sat close beside me&, and my heart started pounding&.
 
 Rimi didn't take her eyes away from me&, either&.
-Nor did she pull back her hand&. 
+Nor did she pull back her hand&.
 Both of us having gone rigid&, we gazed at each other with our fingers
-still touching&. 
+still touching&.
 
 //Ÿ‚³‚³‚â‚«
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000090ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000090ri">
+"Taku&.&.&."
 
 {	Stand("bu—œ[_§•_³–Ê","normal", 200, @+0);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, true);}
-Rimi entwined her fingers with my hand&. 
+Rimi entwined her fingers with my hand&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -238,8 +239,8 @@ Rimi entwined her fingers with my hand&.
 [text804]
 She closed her eyes softly and raised her face toward me a little&.
 
-I found myself naturally holding Rimi's hand in return&. 
-And as I neared her lips-- 
+I found myself naturally holding Rimi's hand in return&.
+And as I neared her lips\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -252,24 +253,24 @@ And as I neared her lips--
 [text005]
 //Ÿ•ğ‚ê‚Ä
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000010na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000010na">
 "Flirting this early in the morning?"
 
 {	Stand("bu—œ[_§•_’Êí","shock", 200, @+0);
 	FadeDelete("—œ[", 500, false);
 	FadeStand("bu—œ[_§•_’Êí_shock", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000110ri">
-"Eh!?" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000110ri">
+"Eh!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000120ta">
-"Waah!?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000120ta">
+"Waah!?"
 
 {	CreateSE("SE01","SE_ÕŒ‚_Š“_—‚¿‚é");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
 	Move("bu—œ[_§•_’Êí_shock", 500, @+200, @0, Dxl3, true);}
-Flustered&, I sprang away from Rimi&. 
+Flustered&, I sprang away from Rimi&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -289,44 +290,44 @@ Flustered&, I sprang away from Rimi&.
 <PRE box00>
 [text100]
 When I looked at the door&, Nanami had appeared there without my
-noticing&, arms folded and an exasperated look on her face&. 
+noticing&, arms folded and an exasperated look on her face&.
 
 //ŸÆ‚ê‚é
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000130ri">
-"Na&, Nana-chan&, good morning&, tahaha&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000130ri">
+"Na&, Nana-chan&, good morning&, tahaha&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000140ta">
-"Nanami&, don't do stuff like that&, it's bad for my heart&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000140ta">
+"Nanami&, don't do stuff like that&, it's bad for my heart&.&.&."
 
 //Ÿ•ğ‚ê‚Ä
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000150na">
-"Haah&, you and Rimi-san sure get along well&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000150na">
+"Haah&, you and Rimi-san sure get along well&."
 
 //Ÿƒ{ƒ\ƒb‚Æ
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000160na">
-"Makes me kinda jealous&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000160na">
+"Makes me kinda jealous&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","normal", 200, @+50);
 	DeleteStand("stµŠC_§•_X‚Ë_angry", 500, false);
 	FadeStand("stµŠC_§•_’Êí_normal", 500, true);}
 //Ÿ‚¢‚½‚¸‚ç‚°‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000170na">
-"Hey&, hey&, but seriously&, how far have you gone?" 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000170na">
+"Hey&, hey&, but seriously&, how far have you gone?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000180ri">
-"H&, how far?" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000180ri">
+"H&, how far?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000190na">
-"You're always like that&. Don't play dumb&, just tell me&, Rimi-san&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000190na">
+"You're always like that&. Don't play dumb&, just tell me&, Rimi-san&."
 
-Apparently Nanami had settled on Rimi as her target&. 
+Apparently Nanami had settled on Rimi as her target&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -343,7 +344,7 @@ Apparently Nanami had settled on Rimi as her target&.
 <PRE box00>
 [text101]
 Barging into the room&, she dragged over my computer chair and sat in
-front of Rimi&. 
+front of Rimi&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -358,80 +359,80 @@ front of Rimi&.
 <PRE box00>
 [text006]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000200na">
-"You've kissed&, obviously&, but what about anything after that?" 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000200na">
+"You've kissed&, obviously&, but what about anything after that?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000210ri">
-"Wa&, wait`&. Don't make fun of me&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000210ri">
+"Wa&, wait`&. Don't make fun of me&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000220na">
-"It's okay&. Tell me`" 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000220na">
+"It's okay&. Tell me`"
 
 {	Stand("bu—œ[_§•_’Êí","smile", 200, @+220);
 	FadeStand("bu—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000230ri">
-"I'm not gonna tell&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000230ri">
+"I'm not gonna tell&."
 
 {	Stand("bu—œ[_§•_’Êí","normal", 200, @+220);
 	FadeStand("bu—œ[_§•_’Êí_normal", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_smile", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000240na">
-"Then you tell me&, Bro&. How far you've gone&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000240na">
+"Then you tell me&, Bro&. How far you've gone&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000250ta">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000250ta">
+"&.&.&.&.&.&.&."
 
-Forget about telling or not telling&, we haven't so much as kissed yet&. 
-Aaahh&, I'm such an idiot&, a dumbass&. I'd had so many chances before 
-now&. 
+Forget about telling or not telling&, we haven't so much as kissed yet&.
+Aaahh&, I'm such an idiot&, a dumbass&. I'd had so many chances before
+now&.
 
-At this rate&, it felt like I'd probably never graduate from being a 
-virgin&.&.&.&. haah&. Depressed by my own uselessness&, I took a gulp of 
-milk&. 
+At this rate&, it felt like I'd probably never graduate from being a
+virgin&.&.&. haah&. Depressed by my own uselessness&, I took a gulp of
+milk&.
 
 {	Stand("buµŠC_§•_’Êí","shy", 200, @-220);
 	FadeStand("buµŠC_§•_’Êí_shy", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000260na">
-"If you dawdle too much&, maybe Nana's gonna steal him&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000260na">
+"If you dawdle too much&, maybe Nana's gonna steal him&."
 
 {	Stand("bu—œ[_§•_’Êí","shock", 200, @+220);
 	FadeStand("bu—œ[_§•_’Êí_shock", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 0, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000270ta">
-"Buuh----!" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000270ta">
+"Buuh-!"
 
-I pulled a ginormous spit-take&. 
+I pulled a ginormous spit-take&.
 
 {	Stand("buµŠC_§•_’Êí","pride", 200, @-220);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shy", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000280na">
-"Bro&, that's filthy&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000280na">
+"Bro&, that's filthy&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000290ta">
-"Wait&, you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000290ta">
+"Wait&, you&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @-220);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_pride", 0, true);}
 //ŸÎ‚¢‚È‚ª‚ç
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000300na">
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000300na">
 "I was joking&. Geez&, it'll be kind of issuematic for me if you take
-it seriously&." 
+it seriously&."
 
-Haa&.&.&.&. try not to surprise me so much&.&.&.&. 
+Haa&.&.&. try not to surprise me so much&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -452,58 +453,58 @@ Haa&.&.&.&. try not to surprise me so much&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
-The three of us headed for school&, side by side&. 
-Rimi was humming that Phantasm song again&. 
+The three of us headed for school&, side by side&.
+Rimi was humming that Phantasm song again&.
 
-Passing through Shoutou Park&, we took my usual shortc<pre>u</pre>t&. 
+Passing through Shoutou Park&, we took my usual shortc<pre>u</pre>t&.
 
 You could see some faint traces of the earthquake in the park&, such as
 how part of the stone wall around the pond remained crumbled&. Even so&,
-it was far better off&, compared to the wretched state of the heart of 
-Shibuya&. 
+it was far better off&, compared to the wretched state of the heart of
+Shibuya&.
 
 {	SoundPlay("@CH11", 1000, 1000, true);
 	Stand("st—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/22000310yu">
-"Good morning&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/22000310yu">
+"Good morning&."
 
 Yua was sitting on my bench&. Turning back in our direction&,
-she put on a soft smile and lowered her head&. 
+she put on a soft smile and lowered her head&.
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","smile", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_smile", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/22000320yu">
-"Um&, Nishijou-kun&, yesterday was a lot of fun&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/22000320yu">
+"Um&, Nishijou-kun&, yesterday was a lot of fun&."
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @-250);
 	FadeStand("stµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000330na">
-"Yesterday?" 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000330na">
+"Yesterday?"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @+250);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_smile", 0, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000340ta">
-"I went shopping in Akihabara with Yua&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000340ta">
+"I went shopping in Akihabara with Yua&."
 
 {	Stand("stµŠC_§•_’Êí","pride", 200, @-250);
 	FadeStand("stµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_shock", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000350na">
-"Ah&, I get it&. For dolls&, right?" 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000350na">
+"Ah&, I get it&. For dolls&, right?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000360ta">
-"Call them figures&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000360ta">
+"Call them figures&.&.&."
 
-Meh&, but it was true that we'd gone to buy figures&. 
+Meh&, but it was true that we'd gone to buy figures&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -518,51 +519,51 @@ Meh&, but it was true that we'd gone to buy figures&.
 [text008]
 //ŸŠğ‚µ‚»‚¤
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/22000370yu">
-"I put the new Seira-chan on display in my room right away&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/22000370yu">
+"I put the new Seira-chan on display in my room right away&."
 
 {	Stand("st—œ[_§•_’Êí","normal", 200, @0);
 	FadeStand("st—œ[_§•_’Êí_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000380ri">
-"I'd have liked to go&, too&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000380ri">
+"I'd have liked to go&, too&."
 
 {	Stand("stµŠC_§•_’Êí","normal", 200, @-250);
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_pride", 0, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000390ta">
-"Eh&, Rimi&, are you interested in figures?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000390ta">
+"Eh&, Rimi&, are you interested in figures?"
 
-When I asked her&, she turned a bit bashful&. 
+When I asked her&, she turned a bit bashful&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000400ri">
-"Mmm&, more so than that&," 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000400ri">
+"Mmm&, more so than that&,"
 
 {	Stand("st—œ[_§•_’Êí","smile", 200, @0);
 	FadeStand("st—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000410ri">
-"I wanna like the things you like&, Taku&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000410ri">
+"I wanna like the things you like&, Taku&."
 
 {	Stand("stµŠC_§•_’Êí","shy", 200, @-250);
 	FadeStand("stµŠC_§•_’Êí_shy", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/22000420na">
-"Waah&, what a bold declaration&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch10/22000420na">
+"Waah&, what a bold declaration&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/22000430yu">
-"Then let's go shopping together next time&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/22000430yu">
+"Then let's go shopping together next time&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000440ri">
-"Eh&, for real? Thanks so much&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000440ri">
+"Eh&, for real? Thanks so much&."
 
-Yua and Rimi had totally hit it off&. 
+Yua and Rimi had totally hit it off&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -588,53 +589,53 @@ Yua and Rimi had totally hit it off&.
 <PRE box00>
 [text009]
 Yua and Nanami were in different wings of the school&, so we parted at
-the entrance&. 
+the entrance&.
 
 As I switched to my indoor shoes&, somebody blew into my ear from behind
-me&. 
+me&.
 
 Goosebumps sprang up on me with a shiver&, and I leapt back as I turned
-around&. 
+around&.
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","smile", 200, @+150);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_smile", 500, true);}
-There stood Ayase&, wearing a close-lipped smile&. 
+There stood Ayase&, wearing a close-lipped smile&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000450ay">
-"Fufufu&. Good morning&, Takumi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000450ay">
+"Fufufu&. Good morning&, Takumi&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000460ta">
-"Ah&, good morning&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000460ta">
+"Ah&, good morning&.&.&."
 
 {	Stand("st—œ[_§•_³–Ê","normal", 200, @-150);
 	FadeStand("st—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000470ri">
-"Morning&, Aya-chan&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000470ri">
+"Morning&, Aya-chan&."
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","shy", 200, @+150);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_shy", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_smile", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000480ay">
-"Aya-chan&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000480ay">
+"Aya-chan&.&.&."
 
-Ayase abruptly tilted her head at what Rimi had called her-- 
+Ayase abruptly tilted her head at what Rimi had called her\
 
 //Ÿ­‚µŠğ‚µ‚»‚¤
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000490ay">
-"It's the first time someone's called me that&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000490ay">
+"It's the first time someone's called me that&."
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","normal", 200, @+150);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_normal", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_shy", 0, true);}
 //Ÿ­‚µŠğ‚µ‚»‚¤
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000500ay">
-"It isn't too bad&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000500ay">
+"It isn't too bad&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -649,66 +650,66 @@ Ayase abruptly tilted her head at what Rimi had called her--
 [text010]
 //ŸÎŠç
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000510ri">
-"Right?" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000510ri">
+"Right?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000520ay">
-"Phantasm is having a show&. The day after tomorrow&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000520ay">
+"Phantasm is having a show&. The day after tomorrow&."
 
 {	Stand("st—œ[_§•_’Êí","normal", 200, @-150);
 	DeleteStand("st—œ[_§•_³–Ê_smile", 500, false);
 	FadeStand("st—œ[_§•_’Êí_normal", 500, true);}
-She changed the subject out of the blue&. 
-As usual&, Ayase was hard to get a handle on&. 
+She changed the subject out of the blue&.
+As usual&, Ayase was hard to get a handle on&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000530ay">
-"If you'd like to&, come&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000530ay">
+"If you'd like to&, come&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000540ta">
-"Are you saying it to me?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000540ta">
+"Are you saying it to me?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000550ay">
-"I'm talking to you&, Takumi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000550ay">
+"I'm talking to you&, Takumi&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000560ay">
-"And to Rimi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000560ay">
+"And to Rimi&."
 
 {	Stand("st—œ[_§•_’Êí","smile", 200, @-150);
 	FadeStand("st—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000570ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000570ri">
 "Wah&, really? I'm definitely going&."
 
 Phantasm had disbanded once&, but word had it that once the new year
-came around&, they'd undergone a rapid revival&. 
+came around&, they'd undergone a rapid revival&.
 
 I didn't know what kind of change of heart in her had brought it about&,
-but I wanted to hear Ayase's songs one more time&. 
+but I wanted to hear Ayase's songs one more time&.
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","smile", 200, @+150);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_smile", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_normal", 0, true);}
 //Ÿ­‚µÎ‚¢‚È‚ª‚ç
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000580ay">
-"But I'm not letting you have Takumi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000580ay">
+"But I'm not letting you have Takumi&."
 
 {	DeleteStand("st—œ[_§•_’Êí_smile", 500, false);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_smile", 500, true);
 	Stand("bu‚ ‚â‚¹_§•_’Êí","smile", 200, @+150);
 	FadeStand("bu‚ ‚â‚¹_§•_’Êí_smile", 300, true);}
 Though I didn't know why she'd tacked on the "but&," Ayase reached out
-and lightly caressed my cheek as though to put Rimi back in her place&. 
+and lightly caressed my cheek as though to put Rimi back in her place&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/22000590ay">
-"See you&, Takumi&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/22000590ay">
+"See you&, Takumi&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -719,27 +720,27 @@ and lightly caressed my cheek as though to put Rimi back in her place&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text011]
-She smiled alluringly and climbed the stairs ahead of us&. 
-Dazed&, I watched her leave without any idea of what was going on&. 
+She smiled alluringly and climbed the stairs ahead of us&.
+Dazed&, I watched her leave without any idea of what was going on&.
 
 {	Stand("st—œ[_§•_’Êí","hard", 200, @-150);
 	FadeStand("st—œ[_§•_’Êí_hard", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000600ri">
-"Taku&, you're drooling&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000600ri">
+"Taku&, you're drooling&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000610ta">
-"Eh&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000610ta">
+"Eh&.&.&."
 
-I hastily put a hand to my mouth&. 
+I hastily put a hand to my mouth&.
 
 {	Stand("st—œ[_§•_’Êí","smile", 200, @-150);
 	FadeStand("st—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_hard", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000620ri">
-"Ahaha&. Just kidding&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000620ri">
+"Ahaha&. Just kidding&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -759,16 +760,16 @@ I hastily put a hand to my mouth&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text012]
-When we arrived outside our classroom&, 
+When we arrived outside our classroom&,
 
 //ˆÈ‰ºA½‚Í•’Ê‚É’‚Á‚Ä‚¢‚Ü‚·BS‚Ìº‚Å‚Í‚ ‚è‚Ü‚¹‚ñ
 //y½z
-<voice name="½" class="½" src="ch10/22000630ko">
-"Takumi-shaaan!" 
+<voice name="½" class="½" src="voice/ch10/22000630ko">
+"Takumi-shaaan!"
 
 {	Stand("st½_§•_’Êí","smile", 200, @-250);
 	FadeStand("st½_§•_’Êí_smile", 500, true);}
-Kozu-pii came charging down the hallway&, smiling from ear to ear&. 
+Kozu-pii came charging down the hallway&, smiling from ear to ear&.
 
 {	CreateSE("SE10","SE_ÕŒ‚_”w’†‚ğ‰Ÿ‚³‚ê‚é");
 	MusicStart("SE10", 0, 700, 0, 1000, null, false);
@@ -780,49 +781,49 @@ Kozu-pii came charging down the hallway&, smiling from ear to ear&.
 	DeleteStand("st—œ[_§•_³–Ê_normal", 500, false);
 	FadeStand("st—œ[_§•_’Êí_shock", 500, true);}
 But she collided with a boy coming out of a classroom and landed hard
-on her bottom&. 
+on her bottom&.
 
 Teary-eyed&, she apologized to him&, then finally managed to come up to
-us&. 
+us&.
 
 {	Stand("st½_§•_’Êí","sad", 200, @-100);
 	FadeStand("st½_§•_’Êí_sad", 500, true);}
 //y½z
-<voice name="½" class="½" src="ch10/22000640ko">
-"Good morning-ooorning&.&.&.&." 
+<voice name="½" class="½" src="voice/ch10/22000640ko">
+"Good morning-ooorning&.&.&."
 
 {	Stand("st—œ[_§•_’Êí","hard", 200, @+250);
 	FadeStand("st—œ[_§•_’Êí_hard", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_shock", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000650ri">
-"Are you hurt? You mustn't run in the halls&, Kozu-pii&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000650ri">
+"Are you hurt? You mustn't run in the halls&, Kozu-pii&."
 
 {	Stand("st½_§•_’Êí","shy", 200, @-100);
 	FadeStand("st½_§•_’Êí_shy", 0, true);
 	DeleteStand("st½_§•_’Êí_sad", 0, true);}
 //y½z
-<voice name="½" class="½" src="ch10/22000660ko">
-"Unyuu`" 
+<voice name="½" class="½" src="voice/ch10/22000660ko">
+"Unyuu`"
 
-Kozu-pii began fidgeting&. 
-Then she peered up at my face from below&. 
+Kozu-pii began fidgeting&.
+Then she peered up at my face from below&.
 
 //y½z
-<voice name="½" class="½" src="ch10/22000670ko">
-"Cause I wanted to tell Takumi-shan reeeeaaal fast&." 
+<voice name="½" class="½" src="voice/ch10/22000670ko">
+"Cause I wanted to tell Takumi-shan reeeeaaal fast&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000680ta">
-"Tell me what?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000680ta">
+"Tell me what?"
 
 //y½z
-<voice name="½" class="½" src="ch10/22000690ko">
+<voice name="½" class="½" src="voice/ch10/22000690ko">
 "Um&, you see&,<?>"
 {	Stand("st½_§•_’Êí","smile", 200, @-100);
 	FadeStand("st½_§•_’Êí_smile", 300, true);
 	DeleteStand("st½_§•_’Êí_shy", 0, true);}
-"Look!" 
+"Look!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -840,56 +841,56 @@ Then she peered up at my face from below&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text013]
-Kozu-pii pointed in the direction she'd just come running from&. 
+Kozu-pii pointed in the direction she'd just come running from&.
 
 {	Stand("stƒZƒi_§•_’Êí","rage", 200, @-250);
 	FadeStand("stƒZƒi_§•_’Êí_rage", 500, true);}
 When I looked more closely&, Sena was standing there&, leaning against
-the wall&. 
+the wall&.
 
-Her arms were folded&, and she had a rather sour expression pasted on 
-her face&. 
+Her arms were folded&, and she had a rather sour expression pasted on
+her face&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000700ri">
-"So Sena-san's come out of the hospital--" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000700ri">
+"So Sena-san's come out of the hospital\"
 
-Sena had been hospitalized throughout these past two months&. 
+Sena had been hospitalized throughout these past two months&.
 The psychological assault that Suwa had inflicted on her had kept
-dragging at her the whole time&. 
+dragging at her the whole time&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000710sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000710sn">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("stƒZƒi_§•_’Êí_rage", 500, true);
 	Stand("buƒZƒi_§•_’Êí","hard", 200, @+250);
 	FadeStand("buƒZƒi_§•_’Êí_hard", 500, true);}
-Sena raised her face and began slowly walking toward us&. 
-She was as scary as ever&. 
+Sena raised her face and began slowly walking toward us&.
+She was as scary as ever&.
 
 Although she wasn't doing anything&, she bore a certain aura about her&,
-like she might slap someone across the face any minute now&. 
+like she might slap someone across the face any minute now&.
 
-I'd been going to visit Sena in the hospital twice a week&, but no 
-matter how much I tried to start a conversation with her&, in the 
-end&, she hadn't listened to a word I said&. It had been almost 
-torturously awkward&. 
+I'd been going to visit Sena in the hospital twice a week&, but no
+matter how much I tried to start a conversation with her&, in the
+end&, she hadn't listened to a word I said&. It had been almost
+torturously awkward&.
 
-Maybe she really&, really disliked me&. 
-I didn't get along well with Sena&.&.&.&. 
+Maybe she really&, really disliked me&.
+I didn't get along well with Sena&.&.&.
 
-A sense of tension stretched tautly between us&. 
-Rather&, I was just getting unilaterally terrified&. 
+A sense of tension stretched tautly between us&.
+Rather&, I was just getting unilaterally terrified&.
 
 //y½z
-<voice name="½" class="½" src="ch10/22000720ko">
+<voice name="½" class="½" src="voice/ch10/22000720ko">
 "And sooo! When school's over today&, let's ceeeelebrate getting out of
-the hospital&." 
+the hospital&."
 
-Kozu-pii was the only one acting all excited&. 
-I&, I kinda felt like with this atmosphere&, it'd be a pretty shitty 
-party&.&.&.&. 
+Kozu-pii was the only one acting all excited&.
+I&, I kinda felt like with this atmosphere&, it'd be a pretty shitty
+party&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -903,56 +904,56 @@ party&.&.&.&.
 <PRE box00>
 [text014]
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000730sn">
-"Oi&, Nishijou&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000730sn">
+"Oi&, Nishijou&."
 
-That was when Sena finally opened her mouth&. 
-I cringed&. I couldn't meet her eyes&. 
+That was when Sena finally opened her mouth&.
+I cringed&. I couldn't meet her eyes&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000740sn">
-"Here&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000740sn">
+"Here&."
 
-Sena held something out to me&. 
-It was a small stick with "Winner" written on it&. 
+Sena held something out to me&.
+It was a small stick with "Winner" written on it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000750ta">
-"&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000750ta">
+"&.&.&.?"
 
 //y½z
-<voice name="½" class="½" src="ch10/22000760ko">
-"Ah&, it's a winning Crunchy-kun stick&." 
+<voice name="½" class="½" src="voice/ch10/22000760ko">
+"Ah&, it's a winning Crunchy-kun stick&."
 
 {	Stand("buƒZƒi_§•_‰¡Œü","shy", 200, @+250);
 	DeleteStand("buƒZƒi_§•_’Êí_normal", 500, false);
 	FadeStand("buƒZƒi_§•_‰¡Œü_shy", 500, true);}
-Perplexed&, I accepted it&. 
-Sena soon whipped her head away&, looking off to the side&. 
+Perplexed&, I accepted it&.
+Sena soon whipped her head away&, looking off to the side&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000770sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000770sn">
 "I have something to say to you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000780ta">
-"Wh&, what could it be&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000780ta">
+"Wh&, what could it be&.&.&.?"
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000790sn">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000790sn">
+"&.&.&.&.&.&.&."
 
 It must've been a figment of my imagination that Sena's cheeks somehow
-appeared to be blushing pink&, right? 
+appeared to be blushing pink&, right?
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000800sn">
-"I&, I'm&.&.&.&. in love with you&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000800sn">
+"I&, I'm&.&.&. in love with you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000810ta">
-"&.&.&.&.&.&.&.&.&.Eh?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000810ta">
+"&.&.&.&.&.&.&.Eh?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -977,20 +978,20 @@ appeared to be blushing pink&, right?
 [text015]
 //Ÿ‚ ‘R‚Æ‚µ‚ÄƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000820ri">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000820ri">
+"&.&.&.&.&.&.&."
 
 //y½z
-<voice name="½" class="½" src="ch10/22000830ko">
+<voice name="½" class="½" src="voice/ch10/22000830ko">
 "Upii?"
 
 Her abrupt confession left not just me&, but also Rimi and Kozu-pii&,
-staring blankly&. 
+staring blankly&.
 
 For a second&, I thought she was teasing me&, but Sena wasn't the type to
-crack that kind of joke&. 
+crack that kind of joke&.
 
-Which meant&.&.&.&. ARE YOU SERIOUS?
+Which meant&.&.&. ARE YOU SERIOUS?
 
 {	SetVolume("SE01", 1000, 0, NULL);
 	SetVolume("SE10", 1000, 0, NULL);
@@ -1002,18 +1003,18 @@ Which meant&.&.&.&. ARE YOU SERIOUS?
 	Stand("buƒZƒi_§•_‰¡Œü","shy", 200, @+250);
 	FadeStand("buƒZƒi_§•_‰¡Œü_shy", 500, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000840sn">
-"I was happy&.&.&.&. when you came to visit me over and over&.&.&.&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000840sn">
+"I was happy&.&.&. when you came to visit me over and over&.&.&."
 
 {	Stand("buƒZƒi_§•_’Êí","hard", 200, @+250);
 	DeleteStand("buƒZƒi_§•_‰¡Œü_shy", 500, false);
 	FadeStand("buƒZƒi_§•_’Êí_hard", 500, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000850sn">
-"D&, don't make me say it&, you idiot!" 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000850sn">
+"D&, don't make me say it&, you idiot!"
 
-She'd gone all dere and then back to tsun mode&, totally of her own 
-accord&. No&, but even if she said that to me all of a sudden&.&.&.&. 
+She'd gone all dere and then back to tsun mode&, totally of her own
+accord&. No&, but even if she said that to me all of a sudden&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1031,49 +1032,49 @@ accord&. No&, but even if she said that to me all of a sudden&.&.&.&.
 <PRE box00>
 [text016]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000860ri">
-"Ehhhhhhhh!?" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000860ri">
+"Ehhhhhhhh!?"
 
-A beat too late&, Rimi cried out in surprise&. 
-Kozu-pii&, perhaps still uncomprehending&, had her eyes as wide as 
-saucers&. 
+A beat too late&, Rimi cried out in surprise&.
+Kozu-pii&, perhaps still uncomprehending&, had her eyes as wide as
+saucers&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/22000870sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/22000870sn">
 "What&, Sakihata&. Do you have a problem?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/22000880ri">
-"Do I ever! It's&, ummm&, ummm&, anyway&, you just can't!" 
+<voice name="—œ[" class="—œ[" src="voice/ch10/22000880ri">
+"Do I ever! It's&, ummm&, ummm&, anyway&, you just can't!"
 
 //y½z
-<voice name="½" class="½" src="ch10/22000890ko">
+<voice name="½" class="½" src="voice/ch10/22000890ko">
 "????"
 
 Rimi and Kozu-pii were wildly confused&, but the most bewildered one of
-all was me&. To think that she'd made such a proclamation to me&. 
+all was me&. To think that she'd made such a proclamation to me&.
 
 {	SetVolume("@CH05", 1000, 0, NULL);}
 Without any idea of how to react&, I looked up at the clear sky beyond
-the window&. 
+the window&.
 
 Somehow&, right at the start of the semester&, it was turning into quite
-a noisy day&, huh&. 
+a noisy day&, huh&.
 
 Would this peaceful time&, full of the promise of fun&, continue like
-this every day from now on? 
+this every day from now on?
 
---I sure want it to continue&. 
+\I sure want it to continue&.
 
-I wished for it from the bottom of my heart&. 
+I wished for it from the bottom of my heart&.
 
-Suddenly&, I looked at the reflection of my face in the window&. 
+Suddenly&, I looked at the reflection of my face in the window&.
 
 The reflection there&.
 
-Wasn't me&. 
+Wasn't me&.
 
-It was a wrinkly-- 
+It was a wrinkly\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1112,33 +1113,33 @@ It was a wrinkly--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text017]
-All color&, all light&, went away&. 
+All color&, all light&, went away&.
 
-I was hugging my knees in a pitch-black space&. 
+I was hugging my knees in a pitch-black space&.
 
-Before me was the sole light source in this space&. 
+Before me was the sole light source in this space&.
 
-It was like a monitor&, like a window&, like a picture frame&. 
+It was like a monitor&, like a window&, like a picture frame&.
 
 Inside it&, Rimi&, and Sena&, and Kozu-pii were chatting about something&,
-looking as though they were enjoying themselves&. I couldn't hear their 
-voices&. 
+looking as though they were enjoying themselves&. I couldn't hear their
+voices&.
 
-As I watched it&. 
-My emotions lay absolutely still&. 
-Or else&, maybe my heart was dead&. 
+As I watched it&.
+My emotions lay absolutely still&.
+Or else&, maybe my heart was dead&.
 
 Then I realized&.
 
-I had been watching my delusions&. 
-The 2-D world into which I'd fled&. 
-A perfect illusion&. 
+I had been watching my delusions&.
+The 2-D world into which I'd fled&.
+A perfect illusion&.
 
-Since when had it been a delusion? 
+Since when had it been a delusion?
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/22000900nr">
-"From the beginning&." 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/22000900nr">
+"From the beginning&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1152,49 +1153,50 @@ Since when had it been a delusion?
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text018]
-I looked behind me&. 
-Norose stood there&. 
-But it was dark&, and all I could see were his feet&. 
+I looked behind me&.
+Norose stood there&.
+But it was dark&, and all I could see were his feet&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/22000910nr">
-"Didn't Suwa-kun kill your heart?" 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/22000910nr">
+"Didn't Suwa-kun kill your heart?"
 
-I had been in a delusion ever since then&, the whole time&.&.&.&.? 
+I had been in a delusion ever since then&, the whole time&.&.&.?
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/22000920nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/22000920nr">
 "I've succeeded in extracting your CODE sample&. I'm finished with you&,
-so do feel free to return to being dust anytime you please&." 
+so do feel free to return to being dust anytime you please&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/22000930ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/22000930ta">
+"&.&.&.&.&.&.&."
 
-I felt nothing&. 
-Because my heart was dead&. 
-I should have felt nothing&. 
+I felt nothing&.
+Because my heart was dead&.
+I should have felt nothing&.
 
-Yet a single tear streaked down my cheek&. 
+Yet a single tear streaked down my cheek&.
 
-At the very end&, I'd gone back to being a loser&. I'd run away from the harshness of reality&. 
+At the very end&, I'd gone back to being a loser&.
+I'd run away from the harshness of reality&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/22000940nr">
-"How nice for you&, being able to have a pleasant dream at the end&." 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/22000940nr">
+"How nice for you&, being able to have a pleasant dream at the end&."
 
-When you got down to it&, I'd been a worthless human being&. 
+When you got down to it&, I'd been a worthless human being&.
 
 Sorry&, Rimi&.
 
-I apologized&, but I didn't really get why I had to apologize anymore&. 
-Nor did I feel any guilt&. 
+I apologized&, but I didn't really get why I had to apologize anymore&.
+Nor did I feel any guilt&.
 
 And I decided to return to the continuation of my delusion from before&.
 Someone would probably be nice enough to kill me sooner or later&.
 
 So&, until then&, I wanted to wallow in the happiness of the world I'd
-fled to&. 
+fled to&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

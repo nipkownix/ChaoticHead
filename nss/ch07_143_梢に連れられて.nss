@@ -46,25 +46,25 @@ after shaking me only once&.
 //※以下のセリフのみリアルの声
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300010ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300010ko">
+"&.&.&.&.&.&.&."
 
 //※以上のセリフのみリアルの声
-I sensed someone&.&.&.&. peering into my face&. 
+I sensed someone&.&.&. peering into my face&.
 
-My consciousness was awakening little by little&. 
+My consciousness was awakening little by little&.
 
-The ache in my body revived together with it&. 
+The ache in my body revived together with it&.
 
 The scent was piercing my noise&. Vivid and nausea-inducing&, it was
 the smell of blood&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14300020ta">
-"Uu&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14300020ta">
+"Uu&.&.&."
 
-My upper lip stung&. 
-The inside of my mouth tasted like I'd licked a piece of iron&. 
+My upper lip stung&.
+The inside of my mouth tasted like I'd licked a piece of iron&.
 
 I slowly opened my eyes&.
 
@@ -89,11 +89,11 @@ I was in the same alley as before&.
 
 I lay face-down on the asphalt&, and right before my eyes was a tiny
 brownish puddle&, akin to something you might see leaking out of raw
-garbage&. 
+garbage&.
 
-Grimacing at the stench&, I roused myself&. 
+Grimacing at the stench&, I roused myself&.
 
-I hurt all over&. 
+I hurt all over&.
 
 My face was in particular pain&. It burned and stung as though someone
 were bringing a lighter closer and closer to me&.
@@ -101,16 +101,16 @@ were bringing a lighter closer and closer to me&.
 //※以下のセリフのみリアルの声
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300030ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300030ko">
+"&.&.&.&.&.&.&."
 
 //※以上のセリフのみリアルの声
 A familiar girl knelt close beside me and watched me with a
 teary-seeming face&.
 
-The&.&.&.&. transfer student&. The girl who'd joined my class&. 
+The&.&.&. transfer student&. The girl who'd joined my class&.
 
-Errr&, what was her name&, Oohara? Oshihara? 
+Errr&, what was her name&, Oohara? Oshihara?
 
 I wondered why she was here&.
 
@@ -120,13 +120,13 @@ I wondered why she was here&.
 //※以下のセリフのみリアルの声
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300040ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300040ko">
+"&.&.&.&.&.&.&."
 
 //※以上のセリフのみリアルの声
-The transfer student held something out to me&. 
+The transfer student held something out to me&.
 
-My wallet&. Why did she have it&.&.&.&.
+My wallet&. Why did she have it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -140,41 +140,41 @@ My wallet&. Why did she have it&.&.&.&.
 Still dazed&, I looked around&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14300050ta">
-"Hii&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14300050ta">
+"Hii&.&.&."
 
 The trio of delinquents who had quarreled with me earlier had been
 lying there&, covered in blood&.
 
-Wh&, wha&, what was this? 
-Someone had totally worked them over&. 
+Wh&, wha&, what was this?
+Someone had totally worked them over&.
 Their faces bore no resemblance to how they'd originally been shaped&.
 
 
-We&, were they dead? 
-They didn't stir&. 
+We&, were they dead?
+They didn't stir&.
 
-It couldn't be&.&.&.&. the seventh New-Gen incident&.&.&.&.!? 
+It couldn't be&.&.&. the seventh New-Gen incident&.&.&.!?
 
-Who would do such a thing&.&.&.&.? 
+Who would do such a thing&.&.&.?
 
-Was it&.&.&.&. me&.&.&.&.? 
-Had I&.&.&.&.?
+Was it&.&.&. me&.&.&.?
+Had I&.&.&.?
 
 {	Stand("bu梢_制服_正面","sad", 450, @-150);
 	FadeStand("bu梢_制服_正面_sad", 500, true);}
 //※以下のセリフのみリアルの声
 //◆焦っているブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300060ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300060ko">
+"&.&.&.&.&.&.&."
 
 //※以上のセリフのみリアルの声
 The transfer student stood up and&, still pale&, beckoned me with her
-hand&. 
+hand&.
 
 Tears in the corners of her eyes&, she looked back and forth between
-me in my confusion and the fallen trio&. 
+me in my confusion and the fallen trio&.
 
 And she abruptly seized my hand and tottered off into a run&.
 
@@ -201,8 +201,8 @@ And she abruptly seized my hand and tottered off into a run&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-When we arrived at the main street&, the transfer student 
-let go of my hand&. Although we didn't run for a long distance&, 
+When we arrived at the main street&, the transfer student
+let go of my hand&. Although we didn't run for a long distance&,
 she already lost her breath&.
 
 {	Stand("bu梢_制服_正面","sad", 450, @+150);
@@ -210,37 +210,37 @@ she already lost her breath&.
 //※以下のセリフはリアルの声
 //◆息切れ
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300070ko">
-"&.&.&.&.&, &.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300070ko">
+"&.&.&.&, &.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14300080ta">
-"Um&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14300080ta">
+"Um&.&.&."
 
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14300090ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14300090ko">
+"&.&.&.&.&.&.&."
 
 //※以上のセリフはリアルの声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14300100ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14300100ta">
+"&.&.&.&.&.&.&."
 
-Both of us had fallen silent&. 
+Both of us had fallen silent&.
 
 Maybe the transfer student was just as bad at talking as me&.
 
 Come to think of it&, it might've been coincidental&, but I'd never
-heard her speak&. 
+heard her speak&.
 
-No&, that sort of thing didn't matter&. 
+No&, that sort of thing didn't matter&.
 More importantly&, I had trouble understanding the situation&.
 
-Those three thugs had picked a fight with me and battered me&. 
+Those three thugs had picked a fight with me and battered me&.
 
 It seemed like I'd passed out&, but how long had I been
-unconscious&.&.&.&.
+unconscious&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -271,18 +271,18 @@ unconscious&.&.&.&.
 [text005]
 //ＶＦ//心の声
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14300110ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14300110ko">
 "About five minutes&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14300120ta">
-"Wha&.&.&.&.!?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14300120ta">
+"Wha&.&.&.!?"
 
-A&, again&.&.&.&.! 
+A&, again&.&.&.!
 I heard it again!
 
 I figured someone I knew was nearby&, talking to me&, but I didn't spy
-anyone likely&. 
+anyone likely&.
 
 Dammit&. Why did I have to start hearing aural hallucinations today?
 
@@ -290,7 +290,7 @@ Dammit&. Why did I have to start hearing aural hallucinations today?
 	DeleteStand("bu梢_制服_正面_normal", 300, true);
 	FadeStand("bu梢_制服_通常_normal", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14300130ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14300130ko">
 "It's noooot a hallucination&."
 
 </PRE>

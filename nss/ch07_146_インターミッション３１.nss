@@ -45,20 +45,20 @@ function ch07_146_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚R‚P()
 [text001]
 //ˆÈ‰º‚Ì½‚ÌƒZƒŠƒt‚Ì‚İAƒ‚ƒmƒ[ƒOˆµ‚¢‚É
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600010ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600010ko">
 "This sword was unbearably scary&."
 
 //ˆÈã‚Ì½‚ÌƒZƒŠƒt‚Ì‚İAƒ‚ƒmƒ[ƒOˆµ‚¢‚É
-So Orihara Kozue had thought&, at least until she came to Tokyo&. 
+So Orihara Kozue had thought&, at least until she came to Tokyo&.
 
-But now things were different&. 
-Now it was very dear to her; it was something priceless&. 
+But now things were different&.
+Now it was very dear to her; it was something priceless&.
 
-As long as she had this sword&, she had nothing to fear&. 
-This sword would protect her&. 
-This sword was her heart&. Her other self&. 
+As long as she had this sword&, she had nothing to fear&.
+This sword would protect her&.
+This sword was her heart&. Her other self&.
 
-It had already three weeks since she'd come to think that way--
+It had already three weeks since she'd come to think that way\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -79,41 +79,41 @@ It had already three weeks since she'd come to think that way--
 <PRE box00>
 [text002]
 Since early age&, Kozue had been able to hear the voices of other
-people's hearts&. 
+people's hearts&.
 
-She no longer remembered when she had first become aware of it&. 
+She no longer remembered when she had first become aware of it&.
 
-She'd gone crazy&, she'd gotten sick-- 
+She'd gone crazy&, she'd gotten sick\
 Even at her young age&, Kozue thought she mustn't let anyone find out
-about her ability&. 
+about her ability&.
 
-And so she concealed it from her parents as well&. 
+And so she concealed it from her parents as well&.
 
 Because of her power&, she was incapable of making friends&, and she
 became distant from her family&, and those around her were creeped out
-by how she was "a child was astoundingly good intuition&." 
+by how she was "a child was astoundingly good intuition&."
 
 Even after coming to Shibuya&, she feared going to school&. She didn't
 want to meet anyone&. Whatever the case&, she reckoned they would find
-her repellent&. 
+her repellent&.
 
 On the day when she was originally supposed to transfer in&, and the
 day after it&, and even the day after that&, she wandered around
-Shibuya instead of going to school&.  
+Shibuya instead of going to school&.
 
 The school must have contacted her parents&. Surely they'd realized
 she was skipping without permission&. But neither of them said
-anything about it to her&. 
+anything about it to her&.
 
 Unlike in the boondocks where she'd lived before&, no one found fault
 with her even if she walked around the city all morning on a weekday&,
 with her appearance that would make it easy for people to mistake her
-for a middle school student&. 
+for a middle school student&.
 
-Several days after she had begun to meander around Shibuya&. 
+Several days after she had begun to meander around Shibuya&.
 
 She found a resting place on the stairs inside Roft&, and sitting
-there while zoning out became part of her daily routine&. 
+there while zoning out became part of her daily routine&.
 
 On that day&, too&, she left Roft to go home around dusk&, after
 spending close to four hours there&.
@@ -133,11 +133,11 @@ spending close to four hours there&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-Drops of rain fell from the dark gray sky&. 
+Drops of rain fell from the dark gray sky&.
 
 Kozue didn't have an umbrella with her&, but she listlessly walked
 into the rain without either looking up at the sky or minding the
-wetness&.  
+wetness&.
 
 At this point&, something flew into her field of sight&.
 
@@ -158,18 +158,18 @@ At this point&, something flew into her field of sight&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-"The World Is Ending" 
+"The World Is Ending"
 
-A signboard&, with a single phrase on the top of it&. 
-Damp with rain&, the handwritten letters were blurring&. 
+A signboard&, with a single phrase on the top of it&.
+Damp with rain&, the handwritten letters were blurring&.
 
 The person holding the board was a lone homeless man&, sitting
-inconspicuously at the side of the road in the midst of the rain&. 
+inconspicuously at the side of the road in the midst of the rain&.
 
 He hung his head&, and she couldn't see his expression&. Maybe he was
-dead&. 
+dead&.
 
-That form of his-- 
+That form of his\
 
 Seeing it as a mirror image of how she herself had appeared on the
 stairs of Roft&, Kozue stopped her feet&.
@@ -180,8 +180,8 @@ stairs of Roft&, Kozue stopped her feet&.
 //¦ˆÈ‰º‚ÌƒZƒŠƒt‚Ì‚İƒŠƒAƒ‹‚Ìº
 //ŸƒuƒŒƒX
 //y½z
-<voice name="½" class="½" src="ch07/14600020ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="½" class="½" src="voice/ch07/14600020ko">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("bu½_„•_’Êí_sad", 300, true);
 	Stand("st½_„•_’Êí","sad", 500, @-200);
@@ -191,7 +191,7 @@ For a brief moment&, she hesitated&.
 
 She'd never seen a homeless person before coming to Tokyo&, and here
 was one she had no familiarity with&. She even felt disgust when she
-looked at him&. She worried&.&.&.&. what if she spoke to him&, and he
+looked at him&. She worried&.&.&. what if she spoke to him&, and he
 got her involved in something dreadful&.
 
 But at the time&, what surpassed Kozue's anxiety was the drive to kill
@@ -217,7 +217,7 @@ her heart&."
 [text005]
 //Ÿ¦ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“’†‚Ì½‚Íƒeƒ“ƒVƒ‡ƒ“’á‚ßB‚Ù‚Æ‚ñ‚ÇŸTó‘Ô
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600030ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600030ko">
 "Is the world ending?"
 
 The man's shoulders trembled&.
@@ -232,24 +232,24 @@ his wet bangs&.
 
 //¦ˆÈ‰ºA”g‘½–ì‚Ìº‚Í‚·‚×‚ÄwS‚Ìºx‚È‚Ì‚ÅAƒ{ƒCƒXƒGƒtƒFƒNƒg‚©‚¯‚Ä‚­‚¾‚³‚¢
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600040ha">
-"Yes&. It's ending&." 
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600040ha">
+"Yes&. It's ending&."
 
 Kozue widened her eyes a little&, startled&.
 
-Not by how he'd confirmed the end of the world&. 
-She was surprised by the fact that he'd answered her&. 
+Not by how he'd confirmed the end of the world&.
+She was surprised by the fact that he'd answered her&.
 
-She hadn't expected an answer&. 
+She hadn't expected an answer&.
 
 The people she mentally spoke to either became confused and made
 themselves think she was a hallucination&, or trembled in fear and
-swiftly fled&. 
+swiftly fled&.
 
 Even if she succeeded in communicating with them&, it was difficult
 for them to respond so calmly&.
 
-Human thoughts were all too illogical and chaotic&. 
+Human thoughts were all too illogical and chaotic&.
 
 Yet this man had answered Kozue's question with a simple sentence&,
 Without any change in his expression&.
@@ -258,15 +258,15 @@ The spirit she sensed through his voice was brimming with a deep
 sorrow&. His heart was crying&, Kozue thought&.
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600050ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600050ha">
 "You have a sword&, do you not?"
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600060ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600060ko">
 "How do you know?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600070ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600070ha">
 "Because I know another child like you&."
 
 {	CreateColor("back10", 1500, 0, 0, 800, 600, "White");
@@ -309,51 +309,51 @@ Di-Sword&. She pointed its tip at him&.
 <PRE box00>
 [text006]
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600080ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600080ko">
 "Can you see this sword?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600090ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600090ha">
 "I can't see it&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600100ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600100ko">
 "Then how do you know it's there?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600110ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600110ha">
 "Because I'm a bad person&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600120ha">
-"&.&.&.&.I'm sorry&."
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600120ha">
+"&.&.&.I'm sorry&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600130ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600130ko">
 "Why are you apologizing?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600140ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600140ha">
 "Because it's my fault&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600150ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600150ko">
 "Why is it your fault?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600160ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600160ha">
 "Because I could only give warnings&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600170ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600170ha">
 "Once things were set into motion"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600180ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600180ha">
 "I no longer had any method by which to stop them&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600190ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600190ko">
 "Then I won't have done anything wrong if I kill you?"
 
 </PRE>
@@ -364,47 +364,47 @@ Di-Sword&. She pointed its tip at him&.
 <PRE box00>
 [text007]
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600200ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600200ha">
 "That sword can become something to either destroy or protect you&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600210ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600210ha">
 "Why don't you try remembering?"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600220ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600220ha">
 "If you look up in the sky&, the clouds"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600230ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600230ha">
 "If you look at a river&, its flow"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600240ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600240ha">
 "Those things must be there&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600250ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600250ha">
 "It's the same&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600260ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600260ha">
 "That sword is always by your side&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600270ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600270ha">
 "Look into your own heart&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600280ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600280ha">
 "The sword is there&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600290ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600290ko">
 "But when I wanted to kill&, it appeared in my hands&."
 
 //y½z
-<<voice name="½" class="‚±‚¸‚¦" src="ch07/14600300ko">
+<<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14600300ko">
 "Isn't this sword there for killing Kozu-pii and everything around
 Kozu-pii?"
 
@@ -416,51 +416,51 @@ Kozu-pii?"
 <PRE box00>
 [text008]
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600310ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600310ha">
 "Negative emotions won't be denied&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600320ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600320ha">
 "Everyone possesses them&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600330ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600330ha">
 "You aren't unique&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600340ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600340ha">
 "It's a question of how you face them&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600350ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600350ha">
 "You mustn't avert your eyes&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600360ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600360ha">
 "You mustn't deny yourself&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600370ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600370ha">
 "The world is a mirror image&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600380ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600380ha">
 "The righteousness in your heart"
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600390ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600390ha">
 "Can simultaneously become something negative&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600400ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600400ha">
 "The reverse is possible as well&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600410ha">
-"Whether the world ends or goes on living&.&.&.&."
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600410ha">
+"Whether the world ends or goes on living&.&.&."
 
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="ch07/14600420ha">
+<voice name="”g‘½–ì" class="‚Í‚½‚Ì" src="voice/ch07/14600420ha">
 "You are the ones who can choose&."
 
 </PRE>
@@ -488,17 +488,17 @@ Kozu-pii?"
 <PRE box00>
 [text009]
 In the end&, Kozue didn't kill him&. The urge dissipated as he spoke
-to her&. 
+to her&.
 
-She didn't quite understand what he was saying&. 
+She didn't quite understand what he was saying&.
 Even so&, after thinking about it furiously&, she reached a single
 conclusion&.
 
-This sword was herself&. 
-If she looked at it without rejecting it&, 
-It would save her&. 
+This sword was herself&.
+If she looked at it without rejecting it&,
+It would save her&.
 
-That was why Kozue pure-heartedly 
+That was why Kozue pure-heartedly
 Came to depend on this sword of hers&.
 
 </PRE>

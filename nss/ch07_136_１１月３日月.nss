@@ -86,7 +86,7 @@ Another New-Gen incident occurred the day after the earthquake&.
 Like the time when Dr&. Takashina was killed&, its content made it
 clear that it was a kind of message aimed at me&.
 
-A woman who had devoured her own right hand&.&.&.&.
+A woman who had devoured her own right hand&.&.&.
 
 That secretly signified Nanami's severed right hand&, no doubt about
 it&.
@@ -127,7 +127,7 @@ worse than if it leaked out that I was Neidhardt&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-One week--
+One week―
 
 Was this brief period of time too long or too short for things to cool
 down?
@@ -153,7 +153,7 @@ That’s why I thought about how nice it'd be if&, like those sorts of
 hot topics&, the stir about me died down within a week&.
 
 {	SetVolume("SE01", 2000, 0, null);}
-Wishful thinking&.&.&.&. but I couldn't help wishing it&.
+Wishful thinking&.&.&. but I couldn't help wishing it&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -186,7 +186,7 @@ Surely Seira-tan would say:
 	FadeStand("bu星来_覚醒後_通常_sad", 500, true);}
 //ＶＦ//妄想セリフ
 //【星来】
-<voice name="星来" class="星来" src="ch07/13600010se">
+<voice name="星来" class="星来" src="voice/ch07/13600010se">
 "If it hurts that bad&, you can quit school already&."
 
 {	DeleteStand("bu星来_覚醒後_通常_sad", 500, false);
@@ -207,10 +207,10 @@ Despite shouldering a risk of encountering Yua&.
 I finished drinking the Coke I'd bought from a vending machine along
 the way and got up from the bench&.
 
-&.&.&.&.Stop fooling yourself&.
+&.&.&.Stop fooling yourself&.
 I didn't want to go school&, but I didn't want to quit&, either&.
 
-Because if I quit school--
+Because if I quit school―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -256,11 +256,11 @@ Because if I quit school--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-I wouldn't be able to see Rimi&.&.&.&.
+I wouldn't be able to see Rimi&.&.&.
 
 Now&, because we were classmates&, we would automatically meet as long
-as I went to school&. 
-But if that connection went away&.&.&.&.
+as I went to school&.
+But if that connection went away&.&.&.
 
 Of course&, we could make phone calls or go meet face-to-face&. But
 those things required proactive behavior&, and they certainly wouldn't
@@ -272,7 +272,7 @@ In fact&, I hadn't seen Rimi for a while now&.
 
 //ＶＦ//回想セリフ
 //【梨深】
-<voice name="梨深" class="梨深" src="ch07/13600020ri">
+<voice name="梨深" class="梨深" src="voice/ch07/13600020ri">
 "I'll be there for you&."
 
 Even though Rimi had promised me so&.
@@ -282,7 +282,7 @@ When I imagined that maybe she'd seen me disgraced on TV&, and I'd
 fallen out of her good graces&, it made me horribly frightened&, and
 sad&, and lonely&.
 
-No one--not even Nanami--came to see me&.
+No one―not even Nanami―came to see me&.
 I was slandered in massive online threads&.
 I cowered in fear of "Shogun" and Yua's shadows&.
 
@@ -296,7 +296,7 @@ gently&.
 When you got down to it&, I was letting her spoil me&.
 
 But it was her fault&.
-Rimi&.&.&.&. was the one who had taught me about three-dimensional
+Rimi&.&.&. was the one who had taught me about three-dimensional
 warmth&.
 
 </PRE>
@@ -333,14 +333,14 @@ warmth&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-After I'd known that warmth once&.&.&.&.
+After I'd known that warmth once&.&.&.
 It made me want to reach for it again and again&.
 
 I could no longer find such peace in the second dimension or in
 delusions&.
 I couldn't stand it just by immersing myself in daydreams&.
 
-I want to see Rimi&.&.&.&.
+I want to see Rimi&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

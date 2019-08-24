@@ -51,7 +51,7 @@ From here&, I had a good view of the Shinsen Station platform&.
 
 
 I'd presumed that here&, if nowhere else&, couldn't possibly be devoid
-of people&, but&.&.&.&.
+of people&, but&.&.&.
 
 No one&. Was there&. After all&.
 
@@ -66,8 +66,8 @@ before me&.
 	Fade("F‚P", 500, 1000, null, true);
 	Wait(4000);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100010ta">
+"&.&.&.&.&.&.&."
 
 I waited for ten minutes&, and still no train came&.
 
@@ -108,8 +108,8 @@ I broke into a run without a moment's hesitation&.
 <PRE box00>
 [text002]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100020ta">
-"Haa&, haa&, haa&, haa&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100020ta">
+"Haa&, haa&, haa&, haa&.&.&.!"
 
 I ran as if my life depended on it&.
 I didn't want to stop&, even when my breath came up short&.
@@ -128,8 +128,8 @@ I was surprised at the extreme fervor of my own breathing&.
 It hurt no matter how much air I sucked in&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100030ta">
-"Haa&, haa&, haa&, haa&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100030ta">
+"Haa&, haa&, haa&, haa&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -161,15 +161,15 @@ On the contrary&, the entirety of my consciousness was focused on the
 pedestrian scramble that symbolized Shibuya&.
 
 A little longer&. Just a little longer&.
-Once I passed 107&, it'd be right there&.&.&.&.
+Once I passed 107&, it'd be right there&.&.&.
 
-The largest in Japan&.&.&.&. It was the place in Japan where the
+The largest in Japan&.&.&. It was the place in Japan where the
 largest number of people came swarming together all at once&, moving
-simultaneously with changing of the traffic signals&, which&.&.&.&.
-which was why I had to get to the scramble&, the scramble&.&.&.&.
+simultaneously with changing of the traffic signals&, which&.&.&.
+which was why I had to get to the scramble&, the scramble&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100040ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100040ta">
 "Haa&, haa&, haa&, haa&.&.&.!"
 
 </PRE>
@@ -215,7 +215,7 @@ which was why I had to get to the scramble&, the scramble&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
---Empty&.
+\Empty&.
 
 The Shibuya Station plaza&, which you could survey from the Y-shaped
 road in front of 107&.
@@ -229,8 +229,8 @@ by silence&.
 All I could hear was my own ragged breathing&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100050ta">
-"No&.&.&.&. No&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100050ta">
+"No&.&.&. No&.&.&."
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_K–İ");
 	SoundPlay("SE01", 0, 1000, false);}
@@ -239,14 +239,14 @@ I couldn't walk any further than this&.
 Shock had drained all the strength from my body&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100060ta">
-"This is Shibuya&, isn't it&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100060ta">
+"This is Shibuya&, isn't it&.&.&.?"
 
-Right&, left&, front&, back&, everywhere&, no one was there&.&.&.&.
+Right&, left&, front&, back&, everywhere&, no one was there&.&.&.
 Even though 7 on a Saturday night was the time when Shibuya ought to
 be the most crowded of all&.
 
-Wh&, what was happening&.&.&.&.?
+Wh&, what was happening&.&.&.?
 It was a lie&. This had to be a lie!
 
 </PRE>
@@ -280,7 +280,7 @@ for me to eat!?
 
 If no one was there&, who would play ESO with me!?
 
-If no one was there--
+If no one was there\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -297,10 +297,10 @@ If no one was there--
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100070ta">
-"--!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100070ta">
+"-!"
 
-A sound--
+A sound\
 
 I heard a sound&.
 It wasn't me&. Someone else had made it&.
@@ -336,13 +336,13 @@ I sent my gaze in the direction the sound had come from&.
 <PRE box00>
 [text007]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100080ta">
-"You're&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100080ta">
+"You're&.&.&."
 
-The one there was&.&.&.&. a boy in a wheelchair&.
+The one there was&.&.&. a boy in a wheelchair&.
 
-A short distance away from me--though still
-In the middle of the crossing--he sat quietly in place&.
+A short distance away from me\though still
+In the middle of the crossing\he sat quietly in place&.
 
 At the moment&, I couldn't tell quite how old he was&. Going by the
 size of his body&, he could only have been an elementary school
@@ -351,7 +351,7 @@ student&.
 Because his hat was pulled down low over his eyes&, I couldn't see
 much of his expression&.
 
-Except--
+Except\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -363,7 +363,7 @@ Except--
 //Ÿ¦‰Â”\‚È‚ç«ŒR‚Ìº‚Í¨Œ³‚Å‚³‚³‚â‚¢‚Ä‚¢‚éŠ´‚¶‚É
 //Ÿ«ŒR‚Ìƒeƒ“ƒVƒ‡ƒ“‚Í[‚ÈŠ´‚¶
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100090jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100090jn">
 "We meet at last&."
 
 The boy's voice sounded particularly clear to me&.
@@ -371,40 +371,40 @@ Feeling as though he'd whispered right into my ear&, I unintentionally
 whirled around&. But of course there was no one behind me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100100ta">
-"U&, um&.&.&.&. W&, what might be happening here&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100100ta">
+"U&, um&.&.&. W&, what might be happening here&.&.&.?"
 
 Though he was younger than me&, I found myself speaking formally&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100110ta">
-"Why isn't a&, anyone&.&.&.&. here&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100110ta">
+"Why isn't a&, anyone&.&.&. here&.&.&.?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100120ta">
-"Do&.&.&.&. do you know&.&.&.&. th&, the reason&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100120ta">
+"Do&.&.&. do you know&.&.&. th&, the reason&.&.&.?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100130jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100130jn">
 "I know&."
 
 Despite the fact that his voice sounded young&, there was nothing
 childish about its ambience&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100140jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100140jn">
 "More importantly"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100150jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100150jn">
 "Did you receive my message?"
 
 Message?
 I didn't know what he was talking about&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100160ta">
-"Wh&, who are you&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100160ta">
+"Wh&, who are you&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -422,15 +422,15 @@ Perhaps because it was old&, simply going forward made it let out
 rusty noises&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100170jn">
-"--Whose eyes are those eyes?"
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100170jn">
+"\Whose eyes are those eyes?"
 
 //‚r‚d//S‘Ÿ‚ÌŒÛ“®
 {	CreateSE("SE02","SE_l‘Ì_S‘Ÿ_ŒÛ“®_Loop");
 	SoundPlay("SE02", 0, 500, true);}
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100180jn">
-"&.&.&.&.Right?"
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100180jn">
+"&.&.&.Right?"
 
 I was confused&.
 
@@ -438,24 +438,24 @@ Why had this boy murmured "Whose eyes are those eyes?" here and now?
 What in the world was he?
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100190jn">
-"You must awaken&.&.&.&. Quickly&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100190jn">
+"You must awaken&.&.&. Quickly&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100200jn">
-"Because if you don't--"
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100200jn">
+"Because if you don't\"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100210jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100210jn">
 "Many more people will die&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100220ta">
-"Wh&, what are you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100220ta">
+"Wh&, what are you&.&.&."
 
 I rubbed my eyes&, wiping away my tears&.
 Thanks to that&, I was finally able
-To take a clear look at the boy's face--
+To take a clear look at the boy's face\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -485,8 +485,8 @@ To take a clear look at the boy's face--
 
 //Ÿ‹¯‚¦
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100230ta">
-"Hiie&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100230ta">
+"Hiie&.&.&.!"
 
 This boy wasn't even a boy&.
 His skin was wrinkled as an old man's&.
@@ -496,17 +496,17 @@ His eye sockets were sunken to a sickly extent&,
 His eyes were clouded&,
 He had no eyebrows&,
 
-And his body was as small as a child's&.&.&.&.
+And his body was as small as a child's&.&.&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100240jn">
-"I am--"
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100240jn">
+"I am\"
 
 {	MusicStart("@CH*",200,0,0,0,null,true);
 	SoundPlay("SE02", 200, 0, true);
 	Wait(500);}
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100250jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100250jn">
 "'Shogun&.'"
 
 {	CreateColor("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 2100, 0, 0, 800, 600, "WHITE");
@@ -524,8 +524,8 @@ The ground shook&.
 No&, my body was tilting&.
 I splayed a hand on the asphalt&, holding myself up&.
 
-Just now&.&.&.&.
-What had he said&.&.&.&.?
+Just now&.&.&.
+What had he said&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -545,20 +545,20 @@ What had he said&.&.&.&.?
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text011]
-"Shogun"&.&.&.&.&.
+"Shogun"&.&.&.&.
 
-He was&.&.&.&.
+He was&.&.&.
 
-"Shogun"&.&.&.&.?
+"Shogun"&.&.&.?
 
 {	SetVolume("SE01", 2000, 450, NULL);}
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100260jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100260jn">
 "Don't forget&."
 
 {	SetVolume("SE01", 2000, 400, NULL);}
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch03/07100270jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch03/07100270jn">
 "You mustn't run away&."
 
 {	SetVolume("SE01", 2000, 300, NULL);}
@@ -594,15 +594,15 @@ from him&.
 
 But I didn't think of telling him&, how dare you get me involved&, and
 hitting him&.
-That sort of thing didn't agree with me&.&.&.&.
+That sort of thing didn't agree with me&.&.&.
 
 My head had started aching&.
 The area around my temples throbbed sharply&.
 I curled into the fetal position and endured the pain&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100280ri">
-"Taku--"
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100280ri">
+"Taku\"
 
 {	SetVolume("SE03", 2000, 1000, NULL);}
 A single noise began to spread
@@ -618,7 +618,7 @@ Whose voice was this?
 //¦ƒeƒLƒXƒg•\¦‚µ‚È‚­‚Ä‚à‚¢‚¢‚Å‚·
 //Ÿ¦‚¨Œo‚Ì‚æ‚¤‚È‚Â‚Ô‚â‚«
 //yƒKƒ„z
-//<voice name="ƒKƒ„" class="ƒKƒ„" src="ch03/07100290aa">
+//<voice name="ƒKƒ„" class="ƒKƒ„" src="voice/ch03/07100290aa">
 //u‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚH‚»‚Ì–Ú‚¾‚ê‚Ì–ÚHv
 
 	CreateSE("‚»‚Ì–Ú","SE_”wŒi_‚»‚Ì–Ú‚¾‚ê‚Ì–Ú");
@@ -627,7 +627,7 @@ Whose voice was this?
 	Wait(5000);
 
 //‚¨‚ª‚İFƒeƒLƒXƒgPRE‚ÌŠO‚Éo‚µ‚Ü‚µ‚½
-//--Don't look at me&.
+//\Don't look at me&.
 
 	CreateSE("SE06","SE_“úí_G“¥01");
 	SoundPlay("SE06", 2000, 1000, true);
@@ -635,10 +635,10 @@ Whose voice was this?
 	Wait(2000);
 
 	CreateColor("F‚P", 500, 0, 0, 800, 600, "Black");
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "--Don't look at me&.");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "\Don't look at me&.");
 
-	SetBacklog("--Don't look at me&.", "NULL", NULL);
+	SetBacklog("\Don't look at me&.", "NULL", NULL);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);
@@ -657,7 +657,7 @@ Whose voice was this?
 <PRE box00>
 [text013]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100300ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100300ri">
 "Taku&."
 
 {	SoundPlay("SE03", 3000, 0, false);
@@ -669,24 +669,24 @@ voice&.
 Someone had placed a gentle hand on my shoulder&.
 
 //y’Êsl‚`z
-<voice name="’Êsl‚`" class="’Êsl‚`" src="ch03/07100310za">
+<voice name="’Êsl‚`" class="’Êsl‚`" src="voice/ch03/07100310za">
 "Che&, you're in the way&."
 
 //y’Êsl‚az
-<voice name="’Êsl‚a" class="’Êsl‚a" src="ch03/07100320zb">
+<voice name="’Êsl‚a" class="’Êsl‚a" src="voice/ch03/07100320zb">
 "What's he doing?"
 
 //y’Êsl‚bz
-<voice name="’Êsl‚b" class="’Êsl‚b" src="ch03/07100330zc">
-"Kids these days&.&.&.&."
+<voice name="’Êsl‚b" class="’Êsl‚b" src="voice/ch03/07100330zc">
+"Kids these days&.&.&."
 
 //y’Êsl‚cz
-<voice name="’Êsl‚c" class="’Êsl‚c" src="ch03/07100340zd">
+<voice name="’Êsl‚c" class="’Êsl‚c" src="voice/ch03/07100340zd">
 "You sure it's not some kind of performance?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100350ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100350ri">
+"Taku&.&.&."
 
 Fighting with my headache&, I raised my gaze&.
 
@@ -694,13 +694,13 @@ Fighting with my headache&, I raised my gaze&.
 	Stand("bu—œ[_§•_³–Ê","sad", 200, @-10);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 0, true);
 	DrawTransition("F‚P", 2000, 1000, 0, 100, null, "cg/data/center.png", true);}
-The demon girl--Rimi--was crouching over me&, peering into my face&.
+The demon girl\Rimi\was crouching over me&, peering into my face&.
 
 Clear eyes filled with life&.
 Eyes that looked wholeheartedly at me&, only at me&.
 
 Again&.
-Again&, this girl had appeared so suddenly--
+Again&, this girl had appeared so suddenly\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -710,8 +710,8 @@ Again&, this girl had appeared so suddenly--
 <PRE box00>
 [text014]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100360ri">
-"Can you walk? Try to walk&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100360ri">
+"Can you walk? Try to walk&.&.&."
 
 She slipped her hand around my side and tried to make me stand up&.
 I shrieked and shook her off&.
@@ -726,17 +726,17 @@ they all walked whichever way they pleased without showing any
 interest in me
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100370ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100370ri">
+"Taku&.&.&."
 
 Looking as if she were about to cry&, Rimi extended a hand toward me&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100380ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100380ri">
 "Listen to what I'm about to say&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100390ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100390ta">
 "St&, st&, stay away!"
 
 When I yelled&, the throbbing in my head changed to the direct pain&.
@@ -744,25 +744,25 @@ Even so&, intent and uncaring&, I crawled to open more distance
 between me and Rimi&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100400ta">
-"It&, it&, it&, it's you&, isn't it&.&.&.&.! You showed it to me! It's
-your d&, delusion&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100400ta">
+"It&, it&, it&, it's you&, isn't it&.&.&.! You showed it to me! It's
+your d&, delusion&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100410ta">
-"Co&, controlling my h&, heart&, attacking my&.&.&.&. psyche&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100410ta">
+"Co&, controlling my h&, heart&, attacking my&.&.&. psyche&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100420ta">
-"You&, y&, you devil&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100420ta">
+"You&, y&, you devil&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100430ta">
-"I'll k&, kill the likes of you with my s&, sword&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100430ta">
+"I'll k&, kill the likes of you with my s&, sword&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100440ta">
-"Wh&, when I get back to my base&, I&, I'll&, my Di-Swo&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100440ta">
+"Wh&, when I get back to my base&, I&, I'll&, my Di-Swo&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -798,16 +798,16 @@ It stung and began to go hot&.
 Rimi had slapped me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100450ta">
-"Hii&, hiiiee&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100450ta">
+"Hii&, hiiiee&.&.&.!"
 
-She was gonna kill me for sure now&.&.&.&.!
+She was gonna kill me for sure now&.&.&.!
 
 On all fours&, I scrambled this way and that across the ground&.
 {	SoundPlay("SE10", 0, 1000, false);}
 But Rimi grabbed my hand in a flash&.
 She pulled me toward her with a strength I found to be unbelievable&,
-coming from a girl--
+coming from a girl\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -832,7 +832,7 @@ coming from a girl--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text016]
-She embraced me--
+She embraced me\
 
 Her soft form enveloped me tenderly&.
 
@@ -841,21 +841,21 @@ She smelled ever so faintly of sweat&.
 Her smooth&, shining hair tickled the end of my nose&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100460ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100460ri">
 "Pull yourself together&."
 
 With the wind out of my sails&, my whole body threatened to go limp&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100470ri">
-"It's dangerous to stay here&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100470ri">
+"It's dangerous to stay here&.&.&."
 
 There was a slight catch to her voice&.
 I didn't know whether or not she was crying&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100480ri">
-"Cause the light's turning red&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100480ri">
+"Cause the light's turning red&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -870,13 +870,13 @@ I didn't know whether or not she was crying&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text017]
-I was lost--
+I was lost\
 
 She didn't intend to kill me?
 
 Why was she helping me?
 That hallucination from earlier&, where all the people in Shibuya
-vanished--it wasn't something she'd made me see?
+vanished\it wasn't something she'd made me see?
 
 When I sensed such kind-hearted warmth&,
 When she hugged me without the least bit of malice&,
@@ -885,7 +885,7 @@ It had the effect of shaking everything I'd believed up until now&.
 
 It made me think maybe Sakihata Rimi
 
-Wasn't a demon at all--
+Wasn't a demon at all\
 
 Was I foolish?
 Was she pulling the wool over my eyes?
@@ -906,15 +906,15 @@ Her eyes were a little reddish&.
 <PRE box00>
 [text018]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100490ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100490ri">
 "Please&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100500ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100500ri">
 "Come with me now&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100510ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100510ri">
 "Okay?"
 
 Somehow&, I ended up nodding&.
@@ -970,20 +970,20 @@ Rimi turned back in my direction&.
 {	Stand("bu—œ[_§•_³–Ê","smile", 200, @-10);
 	FadeStand("bu—œ[_§•_³–Ê_smile", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100520ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100520ri">
 "I'm glad you're okay&."
 
 She smiled as though she were tremendously happy&.
 I didn't think that expression of hers was a lie or an act&.
 
-But--
+But\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100530ta">
-"L&, let me&.&.&.&. go&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100530ta">
+"L&, let me&.&.&. go&.&.&."
 
-Because up until now&, I had been utterly hostile toward her--
-Becuase I had thought she was a demon--
+Because up until now&, I had been utterly hostile toward her\
+Becuase I had thought she was a demon\
 
 If I let her win me over&, I felt like I'd cease being myself&.
 
@@ -999,32 +999,32 @@ If I let her win me over&, I felt like I'd cease being myself&.
 <PRE box00>
 [text020]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100540ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100540ri">
 "Ah&, sorry&, sorry&. Tahaha&."
 
 She quickly dropped my hand&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100550ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100550ri">
 "Anyhow&, you really surprised me&. Curling up in the middle of the
 street like that&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100560ri">
-"I had no idea what would happen when the light turned red--"
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100560ri">
+"I had no idea what would happen when the light turned red\"
 
 I turned my back to Rimi as she began talking cheerfully&.
 I walked off&, winding my way through the hordes of people&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100570ta">
-"I'm&.&.&.&. going home&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100570ta">
+"I'm&.&.&. going home&.&.&."
 
 {	Stand("bu—œ[_§•_³–Ê","smile", 200, @-10);
 	FadeStand("bu—œ[_§•_³–Ê_smile", 300, true);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100580ri">
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100580ri">
 "Ah&, then I'll take you back&. You're not feeling well&, are you?"
 
 Her voice followed me from behind&, but I shook my head to refuse
@@ -1034,16 +1034,16 @@ her&.
 	FadeStand("bu—œ[_§•_³–Ê_sad", 300, true);
 	DeleteStand("bu—œ[_§•_³–Ê_smile", 0, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch03/07100590ri">
-"Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch03/07100590ri">
+"Taku&.&.&."
 
 {	DeleteStand("bu—œ[_§•_³–Ê_sad", 500, true);}
 The cheerfulness had vanished from Rimi's voice&.
-I felt awful&, since she'd done so much to help me&. So&.&.&.&.
+I felt awful&, since she'd done so much to help me&. So&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/07100600ta">
-"Th&, tha&, thank you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/07100600ta">
+"Th&, tha&, thank you&.&.&."
 
 I barely&, just barely managed to squeeze out those two words&.
 

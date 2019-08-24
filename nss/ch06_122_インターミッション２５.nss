@@ -52,7 +52,7 @@ function ch06_122_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚Q‚T()
 [text001]
 Near off-hours entrance to AH General Hospital&, there was an area
 where ambulances could pull up alongside the building and deliver
-emergency patients&. 
+emergency patients&.
 
 Now&, too&, two ambulances were parked there&, and the ambulance crew
 members attempted to carry people who had been wounded in the
@@ -98,7 +98,8 @@ unconsciousness&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-Another ambulance arrived on the sce<pre>n</pre>e&, blaring its shrill siren&.
+Another ambulance arrived on the sce<pre>n</pre>e&, blaring
+its shrill siren&.
 
 {	SoundPlay("SE02",500,0,false);
 	Wait(500);
@@ -111,7 +112,7 @@ When the doctor asked about the patient's symptoms&, the worker who
 had descended from the ambulance yelled:
 
 //y‹~‹}‘àˆõz
-<voice name="‹~‹}‘àˆõ" class="‹~‹}‘àˆõ" src="ch06/12200010rq">
+<voice name="‹~‹}‘àˆõ" class="‹~‹}‘àˆõ" src="voice/ch06/12200010rq">
 "Top priority!"
 
 He gave no other explanation&.
@@ -154,8 +155,8 @@ carry the stretcher inside the hospital&.
 {	Stand("st—œ[_§•_³–Ê","sad", 200, @+150);
 	FadeStand("st—œ[_§•_³–Ê_sad", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch06/12200020ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch06/12200020ri">
+"&.&.&.&.&.&.&."
 
 A girl watched this unfold from a short distance away&. She stood at
 the hospital's main entrance&.
@@ -164,8 +165,8 @@ Sakihata Rimi bit her lip and furrowed her eyebrows&, a strained
 expression on her face&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch06/12200030ri">
-"Kishimoto&.&.&.&. san&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch06/12200030ri">
+"Kishimoto&.&.&. san&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

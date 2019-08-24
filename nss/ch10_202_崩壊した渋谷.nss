@@ -43,8 +43,8 @@ function ch10_202_•ö‰ó‚µ‚½a’J()
 <PRE box00>
 [text001]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200010ta">
+"&.&.&.&.&.&.&."
 
 When I came to&, there were thick clouds overhead&.
 At some point&, day had dawned&.
@@ -53,7 +53,7 @@ But I couldn't see a blue sky anywhere&.
 It seemed dispiriting&.
 An oppressive sky&.
 
-Far away rang the noisy sirens of a number of ambulances and fire 
+Far away rang the noisy sirens of a number of ambulances and fire
 trucks&.
 
 The shapes of helicopters circling high in the air came flying into my
@@ -62,15 +62,15 @@ like a swarm of flies&.
 
 My head throbbed&.
 Like road construction was being carried out inside my skull&.
-It was a more severe pain than what I'd felt during the previous 
+It was a more severe pain than what I'd felt during the previous
 earthquake&.
 
-I attempted to recall what had happened immediately before my memories died out&.
-The whiteness of the sky&.
+I attempted to recall what had happened immediately before my
+memories died out&. The whiteness of the sky&.
 The words "Shogun" had shouted&, "the Third Melt&."
 
 Tolerating my headache&, I roused my body&,
-And was dumbstruck&. 
+And was dumbstruck&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -101,11 +101,11 @@ And was dumbstruck&.
 [text002]
 The sce<pre>n</pre>ery I knew so well was gone&.
 
-It was similar to the imagined spectacles of "Y2K" that had been all 
+It was similar to the imagined spectacles of "Y2K" that had been all
 the rage about a decade ago&. Shibuya had collapsed&.
 
 Traffic lights&, roadside trees&, a number of buildings: all lay fallen&.
-The famous jumbotron monitors around the pedestrian scramble were 
+The famous jumbotron monitors around the pedestrian scramble were
 cracked and silent&.
 
 The roof over the stairs descending to the subway had caved in&, burying
@@ -119,24 +119,24 @@ People who didn't so much as twitch&.
 People who moaned agonizingly&.
 People who screamed "Help!" at the top of their lungs&.
 
-People covered in dust&, who crawled around with their entire bodies 
+People covered in dust&, who crawled around with their entire bodies
 pure white&. People who held those lying unmoving and wept&.
 
 The smell of blood&.
 And a smell like something burning&.
 
 And the smell of dust hovered in the air&.
-Somewhere distant&, several plumes of black smoke rose like signal 
+Somewhere distant&, several plumes of black smoke rose like signal
 fires&.
 
-This was the might of Noah II&.&.&.&.
+This was the might of Noah II&.&.&.
 
 I had chills&.
 There was nothing to separate it from a weapon of mass destruction&.
-I finally had a real sense of why "Shogun" had been so desperate to 
+I finally had a real sense of why "Shogun" had been so desperate to
 stop it&.
 
-Speaking of which&, what had become of "Shogun"&.&.&.&.? 
+Speaking of which&, what had become of "Shogun"&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -152,7 +152,7 @@ Next to it lay his small body&.
 Hastily dashing over&, I pulled him up in my arms&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200020ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200020ta">
 "Hey! Hey&, hang in there!"
 
 He didn't react when I called to him&.
@@ -168,31 +168,31 @@ I tried lightly swatting him in the face and such&,
 but he wouldn't wake up&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200030ta">
-"Noah II&.&.&.&. where is it&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200030ta">
+"Noah II&.&.&. where is it&.&.&.?"
 
-Without knowing that&, I couldn't so much as go to rescue Rimi and 
+Without knowing that&, I couldn't so much as go to rescue Rimi and
 Nanami&.
 
 I should've asked "Shogun" beforehand&.
 
-Clicking my tongue in irritation&, I took my cell phone out of my 
+Clicking my tongue in irritation&, I took my cell phone out of my
 pocket&.
 
-But it was out of power&, and it remained unresponsive no matter how 
+But it was out of power&, and it remained unresponsive no matter how
 much I fiddled with it&. It wouldn't do me any good&.
 
-Was there anyone besides "Shogun" who seemed likely to know&.&.&.&.
-Think about it&.&.&.&. You've got to think&.&.&.&.
+Was there anyone besides "Shogun" who seemed likely to know&.&.&.
+Think about it&.&.&. You've got to think&.&.&.
 
 You don't have time to dawdle&.
 
 While you falter like this&, that Norose guy might kill the captive Rimi
-on a whim&.&.&.&.!
+on a whim&.&.&.!
 
 Who?
 Someone who would probably become my ally&,
-and who was well-versed when it came to Noah II-- 
+and who was well-versed when it came to Noah II\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -221,17 +221,17 @@ and who was well-versed when it came to Noah II--
 [text004]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch10/20200040ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch10/20200040ha">
 "You and those like you are special existences&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch10/20200050ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch10/20200050ha">
 "The most special among you is"
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y”g‘½–ìz
-<voice name="”g‘½–ì" class="”g‘½–ì" src="ch10/20200060ha">
+<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch10/20200060ha">
 "The boy&, who gave a birth to 'Whose eyes, are those eyes?'"
 
 {	Fade("F‚P", 100, 1000, null, true);
@@ -245,8 +245,8 @@ and who was well-versed when it came to Noah II--
 	Delete("F‚P");}
 //Ÿuˆê¬vu‚¢‚Á‚¹‚¢v
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200070ta">
-"&.&.&.&.Hatano&.&.&.&. Issei&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200070ta">
+"&.&.&.Hatano&.&.&. Issei&."
 
 Sena's father&.
 One of the initial members of Project Noah&.
@@ -255,18 +255,18 @@ His whereabouts were currently unknown&.
 I'd never met him&.
 No&, we might've had a near miss&.
 
-According to Kozu-pii&, he appeared here and there in Shibuya&, looking 
+According to Kozu-pii&, he appeared here and there in Shibuya&, looking
 like a homeless person&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200080ta">
-"&.&.&.&.There's nothing for it but to find him&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200080ta">
+"&.&.&.There's nothing for it but to find him&."
 
-I picked up Shogun's startlingly light body&, carrying him on my back&, 
+I picked up Shogun's startlingly light body&, carrying him on my back&,
 and began cautiously walking through the ruins&.
 
 I had no idea where Hatano-san was&.
-Even so&, all I could do for now was look for him&. 
+Even so&, all I could do for now was look for him&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -292,20 +292,21 @@ Even so&, all I could do for now was look for him&.
 However light "Shogun" may have been&, he was still around twenty
 kilograms&.
 
-I didn't have the stamina to walk around Shibuya carrying 
-him--especially not with the roads so jagged and uneven&.
+I didn't have the stamina to walk around Shibuya carrying
+him\especially not with the roads so jagged and uneven&.
 
-Anyhow&, there were no prior instances of me having gotten any proper 
+Anyhow&, there were no prior instances of me having gotten any proper
 exercise&. Since sitting in front of my PC was my daily routine&.
 
 I thought I ought to take "Shogun" to the hospital&, but with Shibuya in
 this state&, I doubted I'd be able to call up an ambulance&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200090ta">
-"Haa&, haa&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200090ta">
+"Haa&, haa&.&.&."
 
-It wore me out just to climb the slight rise of Dougen Hill&. I ran out of breath&, and huge amounts of sweat came pouring out all over me&.
+It wore me out just to climb the slight rise of Dougen Hill&. I ran out
+of breath&, and huge amounts of sweat came pouring out all over me&.
 
 Wiping the sweat off my forehead&, I paused to collect my breathing&.
 
@@ -329,7 +330,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 <PRE box00>
 [text006]
 //y‚ ‚â‚¹z
-//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200100ay">
+//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200100ay">
 "Bite the sand   Bite the sand   Bathed in suffering   Like being with child"
 
 {	SoundStop2("‚ ‚â‚¹‚P");
@@ -337,7 +338,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 	SoundPlay("‚ ‚â‚¹‚Q",0,1000,false);
 	SetBacklog("The aftermath of the needle   Tracing an arc   Exchanges emptiness for pleasure   And now gazes up at the heavens", "voice/ch10/20200110ay", ‚ ‚â‚¹);}
 //y‚ ‚â‚¹z
-//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200110ay">
+//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200110ay">
 "The aftermath of the needle   Tracing an arc   Exchanges emptiness for pleasure   And now gazes up at the heavens"
 
 {	SoundStop2("‚ ‚â‚¹‚Q");
@@ -345,7 +346,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 	SoundPlay("‚ ‚â‚¹‚R",0,1000,false);
 	SetBacklog("Cleaving away the sins of the world to come   Taming a flock of lambs", "voice/ch10/20200120ay", ‚ ‚â‚¹);}
 //y‚ ‚â‚¹z
-//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200120ay">
+//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200120ay">
 "Cleaving away the sins of the world to come   Taming a flock of lambs"
 
 {	SoundStop2("‚ ‚â‚¹‚R");
@@ -353,8 +354,8 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 	SoundPlay("‚ ‚â‚¹‚S",0,1000,false);
 	SetBacklog("If my ode of gratitude is rewarded   Hallelujah&.  Glory be to God&.", "voice/ch10/20200130ay", ‚ ‚â‚¹);}
 //y‚ ‚â‚¹z
-//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200130ay">
-"If my ode of gratitude is rewarded   Hallelujah&.  Glory be to God&." 
+//<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200130ay">
+"If my ode of gratitude is rewarded   Hallelujah&.  Glory be to God&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -371,24 +372,25 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 [text007]
 Then someone's faint voice came into my hearing&.
 
-It was very lonely&, but by no means on the brink of despair&. A singing voice that comforted me as I listened to it&.
+It was very lonely&, but by no means on the brink of despair&.
+A singing voice that comforted me as I listened to it&.
 
 I had heard this singing voice before&.
 
-At the time&, it had come from atop a concert stage&. In the midst of 
-excessive lighting that stimulated my sight&, and deafening sounds that 
-seemed to shake the tight-closed space itself&, I had heard her&.  
+At the time&, it had come from atop a concert stage&. In the midst of
+excessive lighting that stimulated my sight&, and deafening sounds that
+seemed to shake the tight-closed space itself&, I had heard her&.
 
 But now&.
 In the middle of the road&, absent any human presence&.
 In the midst of this fallen city governed by death&, I heard her&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200140ta">
-"Ayase&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200140ta">
+"Ayase&.&.&.?"
 
 Laying "Shogun" down where I stood&, I surveyed the area&.
-But in terms of human forms&, all I could see were a number of corpses 
+But in terms of human forms&, all I could see were a number of corpses
 lying prone&.
 
 Doing my best not to look at them&, I searched for Ayase&.
@@ -407,12 +409,12 @@ Ayase lay fallen there&.
 {	SoundStop2("@CH_INS_FES_ƒAƒJƒxƒ‰");
 	Wait(500);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200150ay">
-"&.&.&.&.Takumi&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200150ay">
+"&.&.&.Takumi&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200160ta">
-"I'm coming to get you!" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200160ta">
+"I'm coming to get you!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -434,45 +436,45 @@ Ayase lay fallen there&.
 I hastily jumped down the hole&.
 {	CreateSE("SE02","SE_ÕŒ‚_ƒhƒ“ƒKƒ‰ƒKƒbƒVƒƒ[ƒ“");
 	MusicStart("SE02", 0, 500, 0, 1000, null, false);}
-I messed up my landing and pretty much fell head over heels down onto 
+I messed up my landing and pretty much fell head over heels down onto
 the wreckage&.
 
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev089_01_1_‚ ‚â‚¹Š¢âI‰º_a.jpg");}
-Ayase's leg was pinned in place by a huge hunk of concrete&, and she 
-couldn't move&. I tried to somehow get it off her&, but it was heavy 
+Ayase's leg was pinned in place by a huge hunk of concrete&, and she
+couldn't move&. I tried to somehow get it off her&, but it was heavy
 and would be impossible to take care of alone&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200170ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200170ay">
 "It isn't only me&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200180ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200180ay">
 "There are three others&. Including your sister&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200190ta">
-"Nanami&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200190ta">
+"Nanami&.&.&.!?"
 
 Why was she here?
 Wasn't she supposed to have been captured by that man called Norose?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200200ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200200ta">
 "Nanami! Nanami!"
 
-Repressing my bodily pain&, I got up and tried shouting&, but no 
+Repressing my bodily pain&, I got up and tried shouting&, but no
 answer came&.
 
-When I looked around&, in addition to Ayase&, I saw a stout woman lying 
-prostrate on her stomach&. She wasn't moving&, but she didn't seem 
+When I looked around&, in addition to Ayase&, I saw a stout woman lying
+prostrate on her stomach&. She wasn't moving&, but she didn't seem
 to have any external injuries&, so she'd probably just lost
-consciousness&.&.&.&.
+consciousness&.&.&.
 
 I spotted neither Nanami nor the remaining person&.
 It was possible they'd been buried alive&.
 
-I had to do something fast&.&.&.&.!
+I had to do something fast&.&.&.!
 
 I took a glance up at the hole&.
 Dust flew around&, enough to send me into a coughing fit&.
@@ -496,8 +498,9 @@ I thought back over Rimi's words&.
 	Wait(500);}
 //‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20200210ri">
-"The more you delude yourself&, the more it shaves away the life of the real you&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20200210ri">
+"The more you delude yourself&, the more it shaves away
+the life of the real you&."
 
 {	Fade("back10", 100, 1000, null, true);
 	Delete("back03");
@@ -510,7 +513,7 @@ I thought back over Rimi's words&.
 	MusicStart("SE11", 500, 300, 0, 1000, null, true);
 	Delete("back10");
 	Wait(500);}
-But I couldn't let myself hesitate&. 
+But I couldn't let myself hesitate&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -531,36 +534,36 @@ I pulled my Di-Sword out of invisible space&.
 	Fade("back03", 500, 1000, null, true);
 	Stand("bu‚ ‚â‚¹_§•_’Êí","hard", 200, @0);
 	FadeStand("bu‚ ‚â‚¹_§•_’Êí_hard", 500, true);}
-I sat next to Ayase&, looking into her face in such a way as to avoid 
+I sat next to Ayase&, looking into her face in such a way as to avoid
 seeing her leg&.
 
 I gazed only at her eyes&.
 
---That was enough&.
+\That was enough&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200220ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200220ta">
 "We're going to have a delusion&."
 
 Powerfully&. Powerfully&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200230ta">
-"The debris on top of your leg isn't one big piece&. There's a lot of 
-it&, but the individual pieces are tiny&."  
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200230ta">
+"The debris on top of your leg isn't one big piece&. There's a lot of
+it&, but the individual pieces are tiny&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200240ta">
-"It isn't heavy&. You can easily pull out your leg--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200240ta">
+"It isn't heavy&. You can easily pull out your leg\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200250ta">
-"We can save the other two as well--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200250ta">
+"We can save the other two as well\"
 
 Ayase and I&.
 If we two Gigalomaniacs achieved shared recognition of that delusion&.
 
-The delusion should become reality of its own accord--! 
+The delusion should become reality of its own accord-!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -585,14 +588,14 @@ Suddenly&, Ayase smiled in what seemed like relief&.
 Her fingers gently stroked me on the cheek&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200260ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200260ay">
 "It was due to the guidance of Gladioul&. Your coming here&."
 
 I blinked and warily raised my face&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200270ta">
-"Ha&, haha&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200270ta">
+"Ha&, haha&.&.&."
 
 {	DeleteStand("bu‚ ‚â‚¹_§•_’Êí_smile", 500, true);}
 The enormous chunk of concrete on top of Ayase's leg had transformed
@@ -616,12 +619,12 @@ Luckily&, she didn't appear to have any major injuries&.
 <PRE box00>
 [text010]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200280ta">
-"I heard your song&, Ayase&. It led me here&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200280ta">
+"I heard your song&, Ayase&. It led me here&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch10/20200290ay">
-"I see&.&.&.&.&. I'm glad I kept singing&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200290ay">
+"I see&.&.&.&. I'm glad I kept singing&."
 
 {	DeleteStand("bu‚ ‚â‚¹_§•_’Êí_normal", 500, true);
 	Stand("st‚ ‚â‚¹_§•_’Êí","normal", 200, @+150);
@@ -629,62 +632,64 @@ Luckily&, she didn't appear to have any major injuries&.
 As I lent Ayase a hand to help her stand up&, I surveyed the area&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200300ta">
-"Where's Nanami&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200300ta">
+"Where's Nanami&.&.&.?"
 
 {	DeleteStand("st‚ ‚â‚¹_§•_’Êí_normal", 500, true);}
 As before&, I didn't see my little sister anywhere&.
 
 Had our delusion failed?
-Or else&, was Nanami already&.&.&.&.
+Or else&, was Nanami already&.&.&.
 I grew anxious&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200310yu">
-"So&, somebody&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200310yu">
+"So&, somebody&.&.&."
 
 I heard a voice&. When I looked in the direction it had come from&,
 I discovered a hand extending from the ruins&.
 
-I seized that hand--its slender fingers--and peeked in through the 
+I seized that hand\its slender fingers\and peeked in through the
 ensuing gap&.
 
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev090_01_1_—Dˆ¤Š¢âI‰º_a.jpg");}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200320yu">
-"Ah&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200320yu">
+"Ah&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200330ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200330ta">
+"Ah&.&.&."
 
-A tunnel-like crevice&. Buried alive at the bottom of it was a familiar-looking&, glasses-wearing girl&.
+A tunnel-like crevice&. Buried alive at the bottom of it was a
+familiar-looking&, glasses-wearing girl&.
 
-It seemed like a long while had passed since the last time I'd seen 
+It seemed like a long while had passed since the last time I'd seen
 Yua&.
 
 //ŸƒuƒŒƒX
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200340yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200340yu">
+"&.&.&.&.&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200350yu">
-"Um&.&.&.&. for some reason&, all of a sudden&.&.&.&. this crack appeared&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200350yu">
+"Um&.&.&. for some reason&, all of a sudden&.&.&.
+this crack appeared&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200360yu">
-"I couldn't move at all until a second ago&, but&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200360yu">
+"I couldn't move at all until a second ago&, but&.&.&."
 
 She said apologetically&, averting her eyes from me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200370ta">
-"Hold on tight&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200370ta">
+"Hold on tight&.&.&.!"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200380yu">
-"Eh&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200380yu">
+"Eh&.&.&."
 
 I gripped Yua's hand tighter&.
 And pulled as hard as I could&, in hopes of dragging her out through
@@ -695,8 +700,8 @@ Ayase helped as well&.
 	MusicStart("SE01", 0, 300, 0, 1000, null, false);
 	CreateSE("SE02","SE_ÕŒ‚_ƒhƒ“ƒKƒ‰ƒKƒbƒVƒƒ[ƒ“");
 	MusicStart("SE02", 0, 200, 0, 1000, null, false);}
-When the two of us pulled at Yua's hand with all our strength&, she 
-escaped the wreckage rather speedily&. 
+When the two of us pulled at Yua's hand with all our strength&, she
+escaped the wreckage rather speedily&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -714,40 +719,41 @@ escaped the wreckage rather speedily&.
 [text011]
 //ŸŠP‚«‚ñ‚Å‚¢‚é
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200390yu">
-"Cough&, cough&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200390yu">
+"Cough&, cough&.&.&."
 
 //ŸŠP‚«‚ñ‚Å‚¢‚é
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch10/20200400yu">
-"Th&, thank you&.&.&.&. so mu&.&.&.&. cough&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch10/20200400yu">
+"Th&, thank you&.&.&. so mu&.&.&. cough&.&.&."
 
-All her body was covered with dust&. Bits of concrete were stuck to her long hair&.
+All her body was covered with dust&. Bits of concrete were stuck
+to her long hair&.
 
 But Yua didn't seem to be injured&, either&.
 
-That left only Nanami&.&.&.&.
+That left only Nanami&.&.&.
 
 {	DeleteStand("st‚ ‚â‚¹_§•_’Êí_normal", 500, false);
 	DeleteStand("st—Dˆ¤_§•_’Êí_sad", 500, true);}
 Leaving Yua to Ayase&, I searched for Nanami&.
 
-Considering the fact that Yua had been able to work herself free&, my 
-delusion must have taken effect well&. If so&, it should be possible to 
+Considering the fact that Yua had been able to work herself free&, my
+delusion must have taken effect well&. If so&, it should be possible to
 rescue Nanami from a crevice or something&, like Yua&.
 
 As expected&, while I looked around in a number of wreckage heaps&,
 I saw Nanami's face in one of the cracks there&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200410ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200410ta">
 "Nanami!"
 
 I called to her&, but Nanami didn't react&.
 She appeared to be unconscious&.
 
-I reached out a hand to touch Nanami's shoulder&, and momentarily 
-hesitated&. 
+I reached out a hand to touch Nanami's shoulder&, and momentarily
+hesitated&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -756,20 +762,20 @@ hesitated&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text012]
-The form of the Nanami who had turned to particles yesterday&, and 
+The form of the Nanami who had turned to particles yesterday&, and
 dissolved before my eyes&, flitted across the back of my brain&.
 
---No&, this Nanami had to be the real Nanami&.
+\No&, this Nanami had to be the real Nanami&.
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_‚Ì‚¼‚­");
 	MusicStart("SE01", 0, 500, 0, 1000, null, false);}
-I took the plunge and grabbed Nanami's shoulder--her blouse&.
+I took the plunge and grabbed Nanami's shoulder\her blouse&.
 I succeeded in distinctly touching her&.
 Her warmth was there&.
 
 {	CreateSE("SE01","SE_ÕŒ‚_ƒhƒ“ƒKƒ‰ƒKƒbƒVƒƒ[ƒ“");
 	MusicStart("SE01", 1000, 500, 0, 1000, null, false);}
-I pulled her out with all my strength&, in the same manner as I'd done 
+I pulled her out with all my strength&, in the same manner as I'd done
 with Yua&.
 
 {
@@ -783,28 +789,29 @@ For the time being&, I laid her on her back and checked her breathing&.
 It sounded painful&, but she let out slight exhalations&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200420ta">
-"Thank god&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200420ta">
+"Thank god&.&.&."
 
-At this point&, I was most worried about the condition of her 
-blood-drenched right hand&. When I tried to hold it&, to examine 
+At this point&, I was most worried about the condition of her
+blood-drenched right hand&. When I tried to hold it&, to examine
 it&, my own hand passed through it&.
 
-&.&.&.&.A delusionary hand?
+&.&.&.A delusionary hand?
 
-Nanami's right hand really had been&.&.&.&.
+Nanami's right hand really had been&.&.&.
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200430ta">
-"I'm sorry&.&.&.&. I'm sorry I got you involved&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200430ta">
+"I'm sorry&.&.&. I'm sorry I got you involved&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20200440na">
-"Uu&.&.&.&. uu&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20200440na">
+"Uu&.&.&. uu&.&.&."
 
 Groans spilled forth from Nanami's mouth&.
-Her dust-coated face&. When I softly brushed her on the cheek&, Nanami's eyelids slitted open&. 
+Her dust-coated face&. When I softly brushed her on the cheek&, Nanami's
+eyelids slitted open&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -818,19 +825,19 @@ Her dust-coated face&. When I softly brushed her on the cheek&, Nanami's eyelids
 <PRE box00>
 [text013]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20200450na">
-"Br&.&.&.&. Bro&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20200450na">
+"Br&.&.&. Bro&.&.&.?"
 
 Her line of sight wandered for a bit before her eyes took hold of me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200460ta">
-"Nanami&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200460ta">
+"Nanami&.&.&."
 
 //Ÿ‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20200470na">
-"Uu&, uuu&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20200470na">
+"Uu&, uuu&.&.&."
 
 {/*	Stand("buµŠC_§•_X‚Ë","cry", 200, @0);
 	FadeStand("buµŠC_§•_X‚Ë_cry", 300, true);
@@ -841,23 +848,23 @@ She clutched hard at my hand with her left hand&.
 
 //Ÿ‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20200480na">
-"Bro&.&.&.&. Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch10/20200480na">
+"Bro&.&.&. Bro&.&.&."
 
 She murmured it as if to cling to me&.
 But I shook my head a little as I answered&.
 
 //Ÿ—D‚µ‚­
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20200490ta">
-"Nanami&, your real brother&.&.&.&. isn't me&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20200490ta">
+"Nanami&, your real brother&.&.&. isn't me&."
 
 {/*	Stand("buµŠC_§•_X‚Ë","sad", 200, @0);
 	FadeStand("buµŠC_§•_X‚Ë_sad", 300, true);
 	DeleteStand("buµŠC_§•_X‚Ë_cry", 0, true);*/}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch10/20200500na">
-"&.&.&.&.&.&.&.&.&.Eh?"
+<voice name="µŠC" class="µŠC" src="voice/ch10/20200500na">
+"&.&.&.&.&.&.&.Eh?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

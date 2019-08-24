@@ -34,20 +34,17 @@ function ch04_073_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚P‚Q()
 //\\\\\\\\\\\\\\\\
 //¡‘æ‚SÍyDi-Swordz
 
-	CreateMovie("ÍƒCƒ“", 25000, 0, 0, false, true, "dx/mvC.ngs");
-	Request("ÍƒCƒ“", Lock);
+	CreateTextureEX("ƒAƒCƒLƒƒƒbƒ`‚P", 100, 0, 0, "cg/sys/title/cards/title_ch04.png");
+	Fade("ƒAƒCƒLƒƒƒbƒ`‚P", 10, 1000, null, true);
 
-	WaitAction("ÍƒCƒ“", 3200);
-
+	WaitKey(3200);
+	IntermissionCard1();
 	Delete("*");
 
 	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg072_01_1_ƒTƒCƒ“ƒVƒeƒB‚P‚e“ü‚èŒû_a.jpg");
 	Fade("back04", 0, 1000, null, false);
 	
-	Request("ÍƒCƒ“", UnLock);
-	WaitAction("ÍƒCƒ“", null);
-
-	Delete("ÍƒCƒ“");
+	IntermissionCard2();
 
 //ƒAƒCƒLƒƒƒbƒ`
 //¡ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚P‚Q
@@ -77,7 +74,7 @@ waiting for some appointed time&.
 
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev033_01_1_INT12ƒZƒi‰ï˜bˆÓ¯W’†_a.jpg");}
 Only one among them wore a strangely harsh expression as she stood in
-place&. She was a high school student--Aoi Sena&.
+place&. She was a high school student\Aoi Sena&.
 
 //ˆä”T“ªüˆä‚Ì“ªü
 From the descending escalator that came down from the Inokashira Line
@@ -101,6 +98,13 @@ A famous singer's PV video was slowly drifting there&.
 On the lower portion of the screen&, information about the so-called
 "New Gen" cases ran in a continuous ribbon&.
 
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<PRE box00>
+[text002]
 There wasn't a day without New Gen-related news&.
 TV&, newspapers&, the Internet&, weekly publications&, even the
 jumbotrons along the street and electric sports scoreboards&.
@@ -122,27 +126,16 @@ selling pretty well at Harajuku's souvenir shops&, providing proof
 positive that human beings have zero interest in anyone besides
 themselves&.
 
-</PRE>
-	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
-	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-
-	CreateColor("”wŒi‚Q", 500, 0, 0, 800, 600, "Black");
+{	CreateColor("”wŒi‚Q", 500, 0, 0, 800, 600, "Black");
 	Fade("”wŒi‚Q", 0, 0, null, false);
 	Fade("”wŒi‚Q", 500, 1000, null, true);
-
 	DeleteStand("buƒZƒi_§•_H––__normal", 0, false);
 	Delete("back*");
-
 	CreateColor("”wŒi‚P", 100, 0, 0, 800, 600, "Black");
 	Fade("”wŒi‚P", 0, 1000, null, true);
 	Fade("”wŒi‚Q", 500, 0, null, true);
 	Delete("”wŒi‚Q");
-
-//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-<PRE box00>
-[text002]
-{	CreateBG(100, 500, 0, 0, "cg/bg/bg072_01_1_ƒTƒCƒ“ƒVƒeƒB‚P‚e“ü‚èŒû_a.jpg");
+	CreateBG(100, 500, 0, 0, "cg/bg/bg072_01_1_ƒTƒCƒ“ƒVƒeƒB‚P‚e“ü‚èŒû_a.jpg");
 	Stand("buƒZƒi_§•_H––_","normal", 200, @+200);
 	FadeStand("buƒZƒi_§•_H––__normal", 500, true);}
 Sena snorted quietly&, as though to show her contempt&, finished the
@@ -176,7 +169,7 @@ A wide range of noises overflowed through the Sunday plaza&.
 The rumble of trains reaching the platform&, taxis honking&, people
 chatting as they walked&, BGM leaking from the jumbotron and from
 inside shops&, the announcement from the escalator explaining how to
-ride it safely&.&.&.&.
+ride it safely&.&.&.
 
 The sounds never died out; Before one ended&, the next would
 manifest and they went on to play a multilayered and discordant
@@ -201,87 +194,87 @@ and she came to hear their words clearly&.
 //ƒKƒ„‚ÌƒZƒŠƒt‰¹º•·‚«æ‚ê‚È‚­‚Ä‚à‚¢‚¢‚®‚ç‚¢‚Å‚·
 //‰ï˜bƒpƒ^[ƒ“‚PB’j‚Ql‚Æ—‚PlBáÒ
 //yá‚¢—‚`z
-<voice name="á‚¢—‚`" class="á‚¢—‚`" src="ch04/07300010yg">
+<voice name="á‚¢—‚`" class="á‚¢—‚`" src="voice/ch04/07300010yg">
 "I wonder&, did the same criminal do it?"
 
 //yá‚¢’j‚`z
-<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="ch04/07300020y1">
+<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="voice/ch04/07300020y1">
 "That's not what the news said&. The M&.O&. for each of them is too
 different&."
 
 //yá‚¢’j‚az
-<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="ch04/07300030y2">
+<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="voice/ch04/07300030y2">
 "But ya know&, wouldn't it be scary if murder is becoming a trend?"
 
 //yá‚¢’j‚az
-<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="ch04/07300040y2">
+<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="voice/ch04/07300040y2">
 "Seems like it matches up with some band's lyrics&. Well&, they
 must've just jammed it into their lyrics after the fact&, though&."
 
 //yá‚¢’j‚`z
-<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="ch04/07300050y1">
+<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="voice/ch04/07300050y1">
 "Stupid&, don't look down on Phantasm&. They're prophets&."
 
 //yá‚¢’j‚az
-<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="ch04/07300060y2">
+<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="voice/ch04/07300060y2">
 "Geh&, you like that band? Really creeps me out&."
 
 //yá‚¢—‚`z
-<voice name="á‚¢—‚`" class="á‚¢—‚`" src="ch04/07300070yg">
+<voice name="á‚¢—‚`" class="á‚¢—‚`" src="voice/ch04/07300070yg">
 "They aren't creepy&. I can totally relate to that song of theirs&."
 
 //yá‚¢’j‚az
-<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="ch04/07300080y2">
+<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="voice/ch04/07300080y2">
 "Eh&, why&, you're one of their fans&, too?"
 
 //yá‚¢’j‚`z
-<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="ch04/07300090y1">
+<voice name="á‚¢’j‚`" class="á‚¢’j‚`" src="voice/ch04/07300090y1">
 "Nowadays&, you've gotta be pretty behind the times to not have heard
 about Phantasm&."
 
 //yá‚¢’j‚az
-<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="ch04/07300100y2">
+<voice name="á‚¢’j‚a" class="á‚¢’j‚a" src="voice/ch04/07300100y2">
 "Sheesh&, lend me their CD&, then&."
 
 
 //‰ï˜bƒpƒ^[ƒ“‚QB’j‚QlBáÒ
 //y’jq‚Z¶‚`z
-<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="ch04/07300110da">
+<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="voice/ch04/07300110da">
 "Hey&, take a look at this for me&."
 
 //y’jq‚Z¶‚az
-<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="ch04/07300120db">
+<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="voice/ch04/07300120db">
 "Geh&, what's this&, it's totally my kind of thing&."
 
 //y’jq‚Z¶‚`z
-<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="ch04/07300130da">
+<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="voice/ch04/07300130da">
 "I got it a little while ago&. One of those 'Whose Eyes Are Those
 Eyes' T-shirts&."
 
 //y’jq‚Z¶‚az
-<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="ch04/07300140db">
+<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="voice/ch04/07300140db">
 "I knew they were selling them normally&. But it's the first time I've
 actually seen someone wearing one&. Gyahaha&."
 
 //y’jq‚Z¶‚`z
-<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="ch04/07300150da">
+<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="voice/ch04/07300150da">
 "Pretty damn cool&, wouldn't you say?"
 
 //y’jq‚Z¶‚az
-<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="ch04/07300160db">
+<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="voice/ch04/07300160db">
 "Crazy cool&. Gimme it&."
 
 //y’jq‚Z¶‚`z
-<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="ch04/07300170da">
+<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="voice/ch04/07300170da">
 "Screw you&. Go buy one yourself&."
 
 //y’jq‚Z¶‚az
-<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="ch04/07300180db">
+<voice name="’jq‚Z¶‚a" class="’jq‚Z¶‚a" src="voice/ch04/07300180db">
 "But isn't it kind of&, you know? Like begging the New Gen perp&, come
 kill me&, please&."
 
 //y’jq‚Z¶‚`z
-<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="ch04/07300190da">
+<voice name="’jq‚Z¶‚`" class="’jq‚Z¶‚`" src="voice/ch04/07300190da">
 "That might get my face on the national news&. I'd finally make my
 nationwide debut&. Gyahaha&."
 
@@ -289,51 +282,51 @@ nationwide debut&. Gyahaha&."
 
 //‰ï˜bƒpƒ^[ƒ“‚RB—‚QlBáÒ
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300200ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300200ja">
 "Hasn't Shibuya been scary lately?"
 
 //y—q‚¶‚az
-<voice name="—q‚¶‚a" class="—q‚¶‚a" src="ch04/07300210jb">
+<voice name="—q‚¶‚a" class="—q‚¶‚a" src="voice/ch04/07300210jb">
 "Scary&, scary~ can't even walk alone at night&."
 
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300220ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300220ja">
 "New Gen is such a pain in the ass&."
 
 //y—q‚¶‚az
-<voice name="—q‚¶‚a" class="—q‚¶‚a" src="ch04/07300230jb">
-"I want them to hurry up and get the criminal--"
+<voice name="—q‚¶‚a" class="—q‚¶‚a" src="voice/ch04/07300230jb">
+"I want them to hurry up and get the criminal\"
 
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300240ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300240ja">
 "But they say it's a woman&."
 
 //y—q‚¶‚az
-<voice name="—q‚¶‚a" class="—q‚¶‚a" src="ch04/07300250jb">
+<voice name="—q‚¶‚a" class="—q‚¶‚a" src="voice/ch04/07300250jb">
 "Eh&, for real? Wow&, that's amazing&. Wait&, Mako&, have you seen the
 criminal!?"
 
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300260ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300260ja">
 "Course I haven't&. I'd have been murdered ages ago if I did&.
 Gyahaha&."
 
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300270ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300270ja">
 "I just heard about those kinds of rumors&, that's all&."
 
 //y—q‚¶‚az
-<voice name="—q‚¶‚a" class="—q‚¶‚a" src="ch04/07300280jb">
+<voice name="—q‚¶‚a" class="—q‚¶‚a" src="voice/ch04/07300280jb">
 "Then doesn't that mean we probably won't get killed? We're women&,
 too&, and all&."
 
 //y—q‚¶‚`z
-<voice name="—q‚¶‚`" class="—q‚¶‚`" src="ch04/07300290ja">
+<voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300290ja">
 "If she's gonna do it anyway&, I hope she sticks to killing stinky old
 guys and creeps&."
 
 //y—q‚¶‚az
-<voice name="—q‚¶‚a" class="—q‚¶‚a" src="ch04/07300300jb">
+<voice name="—q‚¶‚a" class="—q‚¶‚a" src="voice/ch04/07300300jb">
 "If that's how it's gonna be&, I'd totally cheer her on~"
 
 ========================================================================*/
@@ -341,7 +334,7 @@ guys and creeps&."
 
 	CreateColor("back05", 2000, 0, 0, 800, 600, "Black");
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, center, 100, Auto, Auto, "I");
 	Move("texta01", 0, @300, @10, null, true);
 	CreateText("texta02", 1900, center, 100, Auto, Auto, "wonder");
@@ -385,7 +378,7 @@ guys and creeps&."
 
 	Wait(200);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1700, 50, 50, Auto, Auto, "That's not what the news said&. The M&.O&. for each of them is too different&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -405,7 +398,7 @@ guys and creeps&."
 	CreateColor("back07", 1600, 0, 0, 800, 600, "Black");
 	CreateColor("back08", 1500, 0, 0, 800, 600, "Black");
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1500, 50, 100, Auto, Auto, " ");
 	Move("textc01", 0, @-300, @10, null, true);
 	CreateText("textc02", 1500, center, 100, Auto, Auto, " But");
@@ -518,7 +511,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1200, 700, 50, Auto, Auto, " Eh&,");
 	Move("texth01", 0, @-40, @0, null, true);
 	CreateText("texth02", 1200, 710, 50, Auto, Auto, "why&,");
@@ -609,7 +602,7 @@ guys and creeps&."
 	Fade("back05", 500, 1000, null, true);
 	FadeDelete("textj*", 0, true);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, 50, 100, Auto, Auto, " Hey&,");
 	Move("texta01", 0, @120, @10, null, true);
 	CreateText("texta02", 1900, 50, 100, Auto, Auto, " take");
@@ -643,7 +636,7 @@ guys and creeps&."
 
 	CreateColor("back06", 1800, 0, 0, 800, 600, "Black");
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1700, 50, 50, Auto, Auto, "Geh&, what's this&, it's totally my kind of thing&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -664,7 +657,7 @@ guys and creeps&."
 
 	CreateColor("back08", 1500, 0, 0, 800, 600, "Black");
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1500, 50, 300, Auto, Auto, "I got it a little while ago&.");
 	Move("textc01", 0, @0, @0, null, true);
 	CreateText("textc02", 1500, 50, 300, Auto, Auto, "One of those 'Whose Eyes Are Those Eyes' T-shirts&.");
@@ -742,7 +735,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1200, 100, 50, Auto, Auto, "But isn't it kind of&, you know?");
 	Move("texth01", 0, @0, @0, null, true);
 	CreateText("texth02", 1200, 100, 50, Auto, Auto, "Like begging the New Gen perp&, come kill me&, please&.");
@@ -789,7 +782,7 @@ guys and creeps&."
 
 
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, 50, 100, Auto, Auto, "Hasn't");
 	Move("texta01", 0, @0, @10, null, true);
 	CreateText("texta02", 1900, 50, 100, Auto, Auto, " Shibuya");
@@ -825,7 +818,7 @@ guys and creeps&."
 	CreateColor("back06", 1800, 0, 0, 800, 600, "Black");
 	CreateColor("back07", 1700, 0, 0, 800, 600, "Black");
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1800, 50, 50, Auto, Auto, "Scary&, scary`  Can't even walk alone at night&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -841,7 +834,7 @@ guys and creeps&."
 	FadeDelete("texta*", 3000, false);
 	Wait(500);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1800, 300, 400, Auto, Auto, "New Gen is such a pain in the ass&.");
 	Move("textc01", 0, @0, @0, null, true);
 
@@ -855,7 +848,7 @@ guys and creeps&."
 	FadeDelete("textb*", 3000, false);
 	Wait(500);
 
-	CreateText("textd01", 1800, 50, 100, Auto, Auto, "I want them to hurry up and get the criminal--");
+	CreateText("textd01", 1800, 50, 100, Auto, Auto, "I want them to hurry up and get the criminal\");
 	Move("textd01", 0, 0, 0, null, true);
 
 	Request("textd*", NoLog);
@@ -863,12 +856,12 @@ guys and creeps&."
 	CreateVOICE("—q‚¶‚a‚S","ch04/07300230jb");
 	SoundPlay("—q‚¶‚a‚S", 0, 1000, false);
 
-	SetBacklog("I want them to hurry up and get the criminal--", "voice/ch04/07300230jb", —q‚¶‚a);
+	SetBacklog("I want them to hurry up and get the criminal\", "voice/ch04/07300230jb", —q‚¶‚a);
 
 	FadeDelete("textc*", 3000, false);
 	Wait(500);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texte01", 1700, 300, 100, Auto, Auto, "But");
 	Move("texte01", 0, @+20, @10, null, true);
 	CreateText("texte02", 1700, 300, 100, Auto, Auto, "they");
@@ -933,7 +926,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1700, 100, 50, Auto, Auto, "I just heard about those kinds of rumors&, that's all&.");
 	Move("texth01", 0, @0, @0, null, true);
 
@@ -1015,8 +1008,8 @@ guys and creeps&."
 [text004]
 //ŸŒy‚­ã‘Å‚¿
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch04/07300310sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch04/07300310sn">
+"&.&.&.&.&.&.&."
 
 Sena gave a small click of her tongue&.
 
@@ -1026,8 +1019,8 @@ She hadn't found anything worthwhile in any of the noise&.
 Ultimately&, noise was no more than noise&.
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch04/07300320sn">
-"This sensation of a gaze&.&.&.&. Am I imagining it?"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch04/07300320sn">
+"This sensation of a gaze&.&.&. Am I imagining it?"
 
 She looked around one more time&.
 
@@ -1051,7 +1044,7 @@ popsicle stick remaining in her hand&.
 	FadeStand("buƒZƒi_§•_H––__sigh", 300, true);
 	DeleteStand("buƒZƒi_§•_H––__normal", 0, true);}
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch04/07300330sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch04/07300330sn">
 "A miss&, huh&."
 
 {	DeleteStand("buƒZƒi_§•_H––__sigh", 500, true);}

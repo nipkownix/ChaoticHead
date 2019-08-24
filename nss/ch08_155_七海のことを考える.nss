@@ -52,7 +52,7 @@ When I went headed home from school with Rimi&, the sky was dyed pale
 orange&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500010ri">
 "I'm sorry&."
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @100);
@@ -60,7 +60,7 @@ orange&.
 The hitherto silent Rimi abruptly apologized to me&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500020ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500020ri">
 "It must've been hard on you in a whole lot of ways&."
 
 It had been a while since I'd last gone home with Rimi like this&.
@@ -73,23 +73,23 @@ happened&, but it wasn't that way at all&.
 
 //Ÿ\‚µ–ó‚È‚³‚»‚¤
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500030ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500030ri">
 "I'm sorry I couldn't be with you&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500040ri">
-"Someone I know&.&.&.&. got hurt in the earthquake&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500040ri">
+"Someone I know&.&.&. got hurt in the earthquake&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500050ri">
 "I was looking after him the whole time&."
 
 Though I hadn't asked her&, Rimi told me about it without being
 prompted&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/15500060ta">
-"Yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/15500060ta">
+"Yeah&.&.&."
 
 But to be perfectly honest&, Rimi's words were mostly failing to enter
 my head now&.
@@ -122,7 +122,7 @@ It had burned itself into my eyes and wouldn't go away&.
 [text002]
 //Ÿ‚¨‚¸‚¨‚¸‚Æ
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500070ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500070ri">
 "Are you mad at me?"
 
 {	CreateColor("F‚P", 1000, 0, 0, 800, 600, "Black");
@@ -134,7 +134,7 @@ I'd become scared of calling out to her&.
 Even though&, Nanami was my little sister&.
 Even though&, I was Nanami's big brother&.
 
-I hadn't quite understood who she was that time&.&.&.&.
+I hadn't quite understood who she was that time&.&.&.
 
 The nurse had said Nanami wasn't injured&.
 
@@ -144,38 +144,38 @@ refrigerator&.
 It was supposed to have been a delusion&.
 
 Yet why had Nanami worn a bandage wrapped around her right wrist
-today&.&.&.&.
+today&.&.&.
 
 Could it simply be that I was over thinking things&, and the reason
-behind it was something as minor as a burn or a bug bite&.&.&.&.
+behind it was something as minor as a burn or a bug bite&.&.&.
 
-Yes&.&.&.&. of course&. That was the most likely answer of all&.
+Yes&.&.&. of course&. That was the most likely answer of all&.
 
-But&.&.&.&. I was still scared to find out&.&.&.&.
+But&.&.&. I was still scared to find out&.&.&.
 
 Despite the fact that I hadn't been able to save Nanami&, I went on
 dawdling like this and didn't make any attempt to talk to her&.
 
-I truly was the worst brother ever&.&.&.&.
+I truly was the worst brother ever&.&.&.
 
 {	Stand("bu—œ[_§•_³–Ê","hard", 200, @100);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 200, true);
 	DeleteStand("bu—œ[_§•_³–Ê_sad", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500080ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500080ri">
 "Say&, Taku? Heeey&, helloooo?"
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @100);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 200, true);
 	DeleteStand("bu—œ[_§•_³–Ê_hard", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500090ri">
-"If you're mad&, tell me so&. It&.&.&.&. it really kind of hurts when
-you ignore me&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500090ri">
+"If you're mad&, tell me so&. It&.&.&. it really kind of hurts when
+you ignore me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/15500100ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/15500100ta">
+"Eh&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -189,11 +189,11 @@ you ignore me&.&.&.&."
 When I looked at Rimi&, she was wilting&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/15500110ta">
-"Ah&, err&.&.&.&. eh?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/15500110ta">
+"Ah&, err&.&.&. eh?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500120ri">
 "Could it be that you weren't listening to me?"
 
 After waffling for a bit&, I nodded&.
@@ -204,29 +204,29 @@ Upon which Rimi's pointer finger bored into my cheek&.
 
 //ŸƒrƒVƒBƒbI‚Æ‚ÍŒ¾‚Á‚Ä‚Ü‚·‚ªŒh—ç‚Í‚µ‚Ä‚Ü‚¹‚ñ
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500130ri">
-"Salute! I totally thought you were ignoring me--"
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500130ri">
+"Salute! I totally thought you were ignoring me\"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500140ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500140ri">
 "Don't act so ambiguousI"
 
-Auu&.&.&.&. Your nails&, it hurts when your nails dig in&, you
-know&.&.&.&.
+Auu&.&.&. Your nails&, it hurts when your nails dig in&, you
+know&.&.&.
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @100);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 200, true);
 	DeleteStand("bu—œ[_§•_³–Ê_hard", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500150ri">
-"&.&.&.&.You okay?"
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500150ri">
+"&.&.&.You okay?"
 
 Rimi murmured her usual phrase upon finally stopping her
 cheek-poking&.
 Yes&, Rimi always used those words to show her concern for me&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500160ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500160ri">
 "You've been kind of pale since lunch break&. And you don't seem to be
 feeling too well&."
 
@@ -234,14 +234,14 @@ feeling too well&."
 	FadeStand("bu—œ[_§•_³–Ê_hard", 200, true);
 	DeleteStand("bu—œ[_§•_³–Ê_sad", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500170ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500170ri">
 "Did somebody say something mean to you?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500180ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500180ri">
 "If they did&, tell me&. I'll get mad at 'em for you&."
 
-Like a big sister or my guardian&.&.&.&.
+Like a big sister or my guardian&.&.&.
 
 Rimi had quite a meddlesome personality&.
 
@@ -252,7 +252,7 @@ I was grateful for how she worried about me&.
 Until now&, if I'd been worried about something&, all I could do was
 either bear it up by myself or post it anonymously at @chan&.
 
-Maybe I should talk to her about Nanami&.&.&.&.
+Maybe I should talk to her about Nanami&.&.&.
 
 But when I spoke to her about Di-Swords before&, Rimi hadn't believed
 a word of it&.
@@ -261,9 +261,9 @@ She'd shown the natural reaction of a person who operated by common
 sense&.
 
 Which was why&, if I brought it up this time&, the likely result was
-her either being put off or brushing it off with a laugh&.&.&.&.
+her either being put off or brushing it off with a laugh&.&.&.
 
-If so&, there wouldn't be any point in asking her advice&.&.&.&.
+If so&, there wouldn't be any point in asking her advice&.&.&.
 
 I was fine as long as Rimi was with me&.
 
@@ -305,19 +305,19 @@ this issue&.
 <PRE box00>
 [text004]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500190ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500190ri">
 "It's as messy as ever&, ahaha&."
 
 Rimi muttered in amazement the instant she set foot in my base&.
 For all that&, I didn't really get why she was smiling so happily&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500200ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500200ri">
 "It hasn't changed a bit&. The messiness in this room is so you&,
 Taku&."
 
 If you're gonna go on about it that much&, you could clean up for
-me&.&.&.&.
+me&.&.&.
 {	CreateSE("SE04","SE_“úí_PC_‹N“®");
 	SoundPlay("SE04",0,500,false);}
 Sighing&, I turned on my PC&.
@@ -326,7 +326,7 @@ Sighing&, I turned on my PC&.
 	FadeStand("bu—œ[_§•_’Êí_hard", 200, true);
 	DeleteStand("bu—œ[_§•_’Êí_happy", 200, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500210ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500210ri">
 "Wait up&, wait up&, you're gonna go on your computer as soon as you
 get home? You have a friend over&, so don't you feel a little like
 offering some hospitality?"
@@ -335,7 +335,7 @@ offering some hospitality?"
 	DeleteStand("bu—œ[_§•_’Êí_hard", 300, true);
 	SoundPlay("SE02", 0, 1000, false);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/15500220ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/15500220ri">
 "Say&, let's chat&."
 
 {	SetTrigger("‚R‚T");}
@@ -349,7 +349,7 @@ how many opportunities I had to speak with Rimi&, I still wouldn't
 last five minutes&.
 
 Besides&, my head was full of Nanami right now&, and I was very much
-not in the mood to have a light-hearted conversation&.&.&.&.
+not in the mood to have a light-hearted conversation&.&.&.
 
 {	CreateSE("SE02","SE_“úí_‰Æ‹ï_ƒCƒX_ça");
 	CreateSE("SE01","SE_“úí_PC_ƒn[ƒhƒfƒBƒXƒN_Loop");

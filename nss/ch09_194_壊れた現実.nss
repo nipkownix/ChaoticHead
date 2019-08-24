@@ -54,8 +54,8 @@ function ch09_194_‰ó‚ê‚½Œ»À()
 [text001]
 //Ÿ‹¶‹C‚ÌÎ‚İ
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400010ta">
-"Hehe&.&.&.&. hehehe&.&.&.&. hehehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400010ta">
+"Hehe&.&.&. hehehe&.&.&. hehehehe&.&.&."
 
 Nanami had disappeared without a trace&.
 
@@ -64,20 +64,20 @@ She hadn't existed as anything of substance&.
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400020ta">
-"Nana&.&.&.&. Na&, nami&.&.&.&. where are you&.&.&.&. co&, come on
-out&.&.&.&. hehe&.&.&.&. he&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400020ta">
+"Nana&.&.&. Na&, nami&.&.&. where are you&.&.&. co&, come on
+out&.&.&. hehe&.&.&. he&.&.&."
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400030ta">
-"Y&, you must be there&, pulling m&, my leg again&, huh&.&.&.&.
-hehehe&.&.&.&. you&, you're hiding&.&.&.&. qu&, quit it&.&.&.&.
-hehe&.&.&.&. hehehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400030ta">
+"Y&, you must be there&, pulling m&, my leg again&, huh&.&.&.
+hehehe&.&.&. you&, you're hiding&.&.&. qu&, quit it&.&.&.
+hehe&.&.&. hehehehe&.&.&."
 
 Tears made my sight go fuzzy&.
 No matter how I wiped them and wiped them&, they kept welling
-up&.&.&.&. hot droplets&.
+up&.&.&. hot droplets&.
 
 But even this heat&.
 And even the emotions making me weep&.
@@ -92,28 +92,28 @@ My hope had been rapidly shattered&.
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400040ta">
-"He&, hey&, when&.&.&.&. will I wa&, wake up from this
-delusion&.&.&.&.?
-Hurry&, wake up&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400040ta">
+"He&, hey&, when&.&.&. will I wa&, wake up from this
+delusion&.&.&.?
+Hurry&, wake up&.&.&."
 
 I myself didn't really know who I was talking to&. But in any case&, I
 wanted someone to listen to me&, and I didn't care who&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400050ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400050ta">
 "Wh&, when I wake up from this delusion&, it&, it'll turn out that I'm
-re&, really a total stud&, of&, of course I am&.&.&.&. with a sensible
-little sister and a ge&, gentle big sister&.&.&.&."
+re&, really a total stud&, of&, of course I am&.&.&. with a sensible
+little sister and a ge&, gentle big sister&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400060ta">
-"Go&, going out with my c<pre>u</pre>te girlfriend&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400060ta">
+"Go&, going out with my c<pre>u</pre>te girlfriend&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400070ta">
-"And she won't be a batshit crazy chick like Ri&, Rimi or Sena&.&.&.&.
-she'll be a good girl like Se&, Seira-tan&.&.&.&. hehehe&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400070ta">
+"And she won't be a batshit crazy chick like Ri&, Rimi or Sena&.&.&.
+she'll be a good girl like Se&, Seira-tan&.&.&. hehehe&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -128,12 +128,12 @@ she'll be a good girl like Se&, Seira-tan&.&.&.&. hehehe&.&.&.&.&."
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-//<voice name="—œ[" class="—œ[" src="ch09/19400080ri">
-//"You are&.&.&.&. a delusionary existence&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You are&.&.&.&. a delusionary existence&.");
+//<voice name="—œ[" class="—œ[" src="voice/ch09/19400080ri">
+//"You are&.&.&. a delusionary existence&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("ƒeƒLƒXƒg‚P", 0, @13, @0, null, true);
-	SetBacklog("You are&.&.&.&. a delusionary existence&.", "voice/ch09/18100010ri", —œ[);
+	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/18100010ri", —œ[);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 
@@ -180,17 +180,17 @@ Rimi's words repeated themselves mercilessly inside my head&.
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400090ta">
-"I&, I wanna die&.&.&.&. Uuu&, I wanna die&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400090ta">
+"I&, I wanna die&.&.&. Uuu&, I wanna die&.&.&."
 
 //Ÿ—Üº
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400100ta">
-"Why won't a&, anyone ki&, kill me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400100ta">
+"Why won't a&, anyone ki&, kill me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400110ta">
-"Hey&, Seira-tan&.&.&.&. kill&.&.&.&. kill me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400110ta">
+"Hey&, Seira-tan&.&.&. kill&.&.&. kill me&.&.&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);
@@ -198,43 +198,43 @@ Rimi's words repeated themselves mercilessly inside my head&.
 	Delete("back03");}
 //‚u‚e//–Ï‘zƒZƒŠƒt
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400120se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400120se">
 "You wanna die that badly?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400130ta">
-"I wanna die&.&.&.&. I can't&.&.&.&. take this anymore&.&.&.&. I can't
-stand&.&.&.&. my own existence&.&.&.&.&. I don't wanna think about
-anything&.&.&.&. I don't wanna go on living&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400130ta">
+"I wanna die&.&.&. I can't&.&.&. take this anymore&.&.&. I can't
+stand&.&.&. my own existence&.&.&.&. I don't wanna think about
+anything&.&.&. I don't wanna go on living&.&.&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","sad", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_sad", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //‚u‚e//–Ï‘zƒZƒŠƒt
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400140se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400140se">
 "Poor widdle Takkii&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_sad", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400150se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400150se">
 "Then I'll tell you a way you can get yourself killed real soon&."
 
-Ahh&, just as expected from a wife of mine&.&.&.&.
+Ahh&, just as expected from a wife of mine&.&.&.
 Seira-tan always showed me tireless devotion&.
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400160se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400160se">
 "For the time being&, head on outside&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400170ta">
-"Out&.&.&.&. side?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400170ta">
+"Out&.&.&. side?"
 
 {	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 500, true);
 	CreateSE("SE10","SE_ÕŒ‚_l‚Æ‚Ô‚Â‚©‚é");
@@ -275,41 +275,41 @@ Because she was my bride&. Because she wasn't a 3-D girl&.
 <PRE box00>
 [text003]
 When I came outside&, a strange noise struck my ears&.
-This sound&.&.&.&. I felt like I'd heard it somewhere before&.&.&.&.
+This sound&.&.&. I felt like I'd heard it somewhere before&.&.&.
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 500, true);}
 //‚u‚e//–Ï‘zƒZƒŠƒt
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400180se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400180se">
 "Follow this sound&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400190ta">
-"If I follow it&.&.&.&. will someone&.&.&.&. kill me?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400190ta">
+"If I follow it&.&.&. will someone&.&.&. kill me?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400200se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400200se">
 "Yep&, pretty much&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400210ta">
-"I&, I wonder if they'll kill me gently&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400210ta">
+"I&, I wonder if they'll kill me gently&.&.&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400220se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400220se">
 "I guarantee it ô"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400230ta">
-"That's great&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400230ta">
+"That's great&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400240ta">
-"I can fi&, finally die&.&.&.&. hehe&, hehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400240ta">
+"I can fi&, finally die&.&.&. hehe&, hehehe&.&.&."
 
 This sound was my Messiah&.
 The key to my salvation&, inviting me toward a more restful land&.
@@ -337,7 +337,7 @@ would approach me and wait for me&.
 
 Like it had a will of its own&.
 
-A sound with its own will--
+A sound with its own will\
 
 It was evocative of "Shogun&," and his face flickered at the back of
 my brain&, but I soon stopped caring either way&.
@@ -362,7 +362,7 @@ of light&.
 The area around me grew boisterous&.
 I began losing track of the sound&.
 Clicking my tongue&, I was about to look for the source of this
-racket&, when--
+racket&, when\
 
 I had a start&.
 
@@ -389,7 +389,7 @@ I realized the tumult came from the astoundingly huge crowd of people
 flooding this intersection&.
 
 They were pretty much packed together like sardines&. Everyone was
-pushing and shoving&, like on the morning train to work&.  
+pushing and shoving&, like on the morning train to work&.
 
 It was an even greater number of people
 Than at the time of my live broadcast from atop O-Front&.
@@ -399,12 +399,12 @@ there'd be a major party at the scramble crossing tonight&.
 
 Seira&, what's going on?
 I only have nasty memories of this place&.
-Why'd you take me here&.&.&.&.
+Why'd you take me here&.&.&.
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 500, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400250se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400250se">
 "Revenge&, baby&."
 
 Besides&, where's the person who's supposed to kill me?
@@ -413,19 +413,19 @@ Besides&, where's the person who's supposed to kill me?
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch09/19400260se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/19400260se">
 "Right in front of your eyes ô"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19400270ta">
-"In front of my&.&.&.&. eyes&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19400270ta">
+"In front of my&.&.&. eyes&.&.&."
 
 {	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 500, true);}
 A stunningly large crowd&.
 On this chilly autumn night&.
 
 What kind of "party" would be held by a gathering of people so
-massive&, they had no room to breathe&.&.&.&.?
+massive&, they had no room to breathe&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

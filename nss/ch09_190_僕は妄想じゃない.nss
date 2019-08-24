@@ -43,17 +43,17 @@ function ch09_190_–l‚Í–Ï‘z‚¶‚á‚È‚¢()
 <PRE box00>
 [text001]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000010ta">
-"Would you kill me&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000010ta">
+"Would you kill me&.&.&.?"
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @+200);
 	FadeStand("buµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000020na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000020na">
+"&.&.&.&.&.&.&."
 
-Nanami's face stiffened at my words&. 
+Nanami's face stiffened at my words&.
 But she soon put on a forced smile&.
 
 {	Stand("buµŠC_§•_’Êí","normal", 200, @+200);
@@ -61,16 +61,16 @@ But she soon put on a forced smile&.
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, true);}
 //Ÿ–³—‚Éç’k‚ß‚©‚·
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000030na">
-"Ahaha&. Bro&, c<pre>u</pre>t out the silly jokes&."  
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000030na">
+"Ahaha&. Bro&, c<pre>u</pre>t out the silly jokes&."
 
-That reaction wasn't like Nanami&. 
+That reaction wasn't like Nanami&.
 
-Normally&, rather than laughing and letting it slide&, 
+Normally&, rather than laughing and letting it slide&,
 There was no doubt that she'd get pissed off and preach at me&, "Don't
-say that kind of thing&, moron!" 
+say that kind of thing&, moron!"
 
-Well&, it wasn't like I cared&.&.&.&. 
+Well&, it wasn't like I cared&.&.&.
 
 It didn't matter&. If she wouldn't kill me&, I no longer had any
 business with this Nanami&. I wouldn't mind if she vanished right
@@ -91,33 +91,33 @@ away&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text901]
-Seira-tan and I gazed at each other&. 
+Seira-tan and I gazed at each other&.
 If Seira-tan were three-dimensional&, she would surely be delighted to
-grant my wish&. 
+grant my wish&.
 
 If I were going to be born as a delusionary existence anyway&, I'd
-have wanted to be born in the second dimension&.&.&.&.
+have wanted to be born in the second dimension&.&.&.
 
 //Ÿ[‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000040na">
-"Hey&, joking aside&.&.&.&. um&, I have something to tell you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000040na">
+"Hey&, joking aside&.&.&. um&, I have something to tell you&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000050na">
-"Um&, see&, I lost the bangle I got from you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000050na">
+"Um&, see&, I lost the bangle I got from you&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000060na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000060na">
 "Do&, don't tell me I probably didn't take good care of it anyway&, or
 something&. I wouldn't do that kind of thing&. I really treasured
-it&.&.&.&."
+it&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000070na">
-"But I don't know where I lost it&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000070na">
+"But I don't know where I lost it&.&.&."
 
-Hmph&, she'd treasured such a thing? 
+Hmph&, she'd treasured such a thing?
 How comical&. From my perspective&, there had to be a limit to how
 comical she could get&.
 
@@ -134,79 +134,79 @@ thing had no value&.
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //Ÿ¦‚Qƒpƒ^[ƒ“‚®‚ç‚¢—~‚µ‚¢
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000080ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000080ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 For starters&, there was reason to suspect whether or not I'd given
 Nanami the bracelet in the first place&. Even that event may have been
 imaginary&.
 
-Therefore&, nothing in this world had any value&. 
+Therefore&, nothing in this world had any value&.
 Nothing appearing in my memories had any value&.
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000090ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000090ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000100na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000100na">
 "Even though it was the first present you ever gave me&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000110na">
-"Why'd I have to lose it&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000110na">
+"Why'd I have to lose it&.&.&."
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000120ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000120ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //Ÿ‚¨‚¸‚¨‚¸‚Æ
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000130na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000130na">
 "Bro? You listening?"
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000140ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000140ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000150na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000150na">
+"&.&.&.&.&.&.&."
 
 {	SoundPlay("@CH22", 2000, 1000, true);}
 //Ÿ”ß‚µ‚»‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000140na">
-"&.&.&.&.Bro&, why are you always like that?" 
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000140na">
+"&.&.&.Bro&, why are you always like that?"
 
-Head lowered&. 
-Fists clenched&. 
+Head lowered&.
+Fists clenched&.
 Nanami muttered&.
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000170na">
-"Once in a while&.&.&.&. show me some brotherly part of you&,
-something worth relying on&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000170na">
+"Once in a while&.&.&. show me some brotherly part of you&,
+something worth relying on&.&.&."
 
-What&.&.&.&. you've come barking up the wrong tree if you're gonna
-accuse me&. 
+What&.&.&. you've come barking up the wrong tree if you're gonna
+accuse me&.
 Because I'm a delusionary existence&.
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000180ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000180ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
-All I stared at was Seira-tan's smile&. 
+All I stared at was Seira-tan's smile&.
 
-There was no need to hear out what Nanami had to say&. 
-No point in listening&. 
+There was no need to hear out what Nanami had to say&.
+No point in listening&.
 Because I'm a delusionary existence&.
 
 </PRE>
@@ -218,127 +218,127 @@ Because I'm a delusionary existence&.
 <PRE box00>
 [text003]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000190na">
-"The whole time up till now&.&.&.&. I thought I had to be dependable&,
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000190na">
+"The whole time up till now&.&.&. I thought I had to be dependable&,
 and I tried my best&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000200na">
-"But in the end&.&.&.&. even I want&.&.&.&. someone to pamper me every
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000200na">
+"But in the end&.&.&. even I want&.&.&. someone to pamper me every
 so often&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000210na">
-"No&, not just anyone&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000210na">
+"No&, not just anyone&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000220na">
-"I want you to pamper me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000220na">
+"I want you to pamper me&.&.&."
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000230ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000230ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000240na">
-"Cause you're my bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000240na">
+"Cause you're my bro&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000250na">
-"Even I think about wanting to lean on my brother&, you know&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000250na">
+"Even I think about wanting to lean on my brother&, you know&.&.&.?"
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000260ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000260ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000270na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000270na">
 "Well&, I guess you hate how I'm always&, always telling you to do
-this and do that&, but&.&.&.&."
+this and do that&, but&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000280na">
-"I can't help it&, cause you're so sloppy&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000280na">
+"I can't help it&, cause you're so sloppy&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000290na">
-"No&, that's not what I'm trying to say&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000290na">
+"No&, that's not what I'm trying to say&.&.&."
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000300ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000300ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000310na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000310na">
 "There are times when even I want you to listen to me whining and
-complaining&, or times when I want to cry&, you know&.&.&.&.?"
+complaining&, or times when I want to cry&, you know&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000320na">
-"There are times when I want you to be nice to me&, you know&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000320na">
+"There are times when I want you to be nice to me&, you know&.&.&.?"
 
 //Ÿƒuƒcƒuƒc‚Æ¬º‚Å
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000330ta">
-"I'm not a delusion&.&.&.&. I'm not a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000330ta">
+"I'm not a delusion&.&.&. I'm not a delusion&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000340na">
-"Hey&, Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000340na">
+"Hey&, Bro&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000350na">
-"Listen to what I have to say&.&.&.&.!"
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000350na">
+"Listen to what I have to say&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/19000360ta">
-"&.&.&.&.&.&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/19000360ta">
+"&.&.&.&.&.&.&.!"
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000370na">
-"Right now&.&.&.&. I'm really sad&, you know?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000370na">
+"Right now&.&.&. I'm really sad&, you know?"
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000380na">
-"I lost my precious bangle&.&.&.&. which I got from you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000380na">
+"I lost my precious bangle&.&.&. which I got from you&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000390na">
-"I'm so sad&, and it hurts so much&.&.&.&. I wanna burst out
-crying&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000390na">
+"I'm so sad&, and it hurts so much&.&.&. I wanna burst out
+crying&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000400na">
-"And though I'd like you to hug me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000400na">
+"And though I'd like you to hug me&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000410na">
-"And though I'd like you to pet me on the head and comfort me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000410na">
+"And though I'd like you to pet me on the head and comfort me&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000420na">
-"Say&, Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000420na">
+"Say&, Bro&.&.&."
 
 //Ÿ—Üº
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000430na">
-"Just for today&, let me have my way&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000430na">
+"Just for today&, let me have my way&.&.&."
 
 //Ÿ‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/19000440na">
-"Uuu&.&.&.&. sob&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/19000440na">
+"Uuu&.&.&. sob&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -355,9 +355,9 @@ crying&.&.&.&."
 <PRE box00>
 [text004]
 I absentmindedly raised my face&.
-Nanami was crying&. 
+Nanami was crying&.
 
-Even while she hung her head and fought to withstand it&. 
+Even while she hung her head and fought to withstand it&.
 Tears kept falling from her bitterly&.
 
 </PRE>

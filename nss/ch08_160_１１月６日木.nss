@@ -58,20 +58,20 @@ function ch08_160_‚P‚PŒ‚U“ú–Ø()
 <PRE box00>
 [text001]
 When I showed my face at school on Friday&, Misumi-kun suddenly
-invited me to go pay Ayase a visit in the hospital&. 
+invited me to go pay Ayase a visit in the hospital&.
 
 He'd caught me by surprise&, as it hadn't so much as occurred to me&.
 
 And before I could reply&, Rimi inexplicitly said&, "I wanna come
 too&," so I was compelled to go along with the flow and come to the
-hospital with them&. 
+hospital with them&.
 
-For the record&, I'm definitely not a cold person&. 
+For the record&, I'm definitely not a cold person&.
 
 It's just that I'd thought it wasn't the time or place for me to act
-considerate of others&, not with "Shogun" menacing me&. 
+considerate of others&, not with "Shogun" menacing me&.
 
-I&.&.&.&. don't want to die&. 
+I&.&.&. don't want to die&.
 
 After going in through the front entrance and reaching the lobby&,
 Misumi looked around as if he were at a total loss&.
@@ -79,31 +79,31 @@ Misumi looked around as if he were at a total loss&.
 {	Stand("bu—œ[_§•_³–Ê","normal", 200, @-210);
 	FadeStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16000010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16000010ri">
 "What's wrong?"
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 250, @210);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16000020mi">
-"Nah&, I was just wondering where Kishimoto's room is&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16000020mi">
+"Nah&, I was just wondering where Kishimoto's room is&."
 
-Had he come all the way here without knowing? 
+Had he come all the way here without knowing?
 If so&, it'd be too exasperating for words&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16000030ta">
-"This is the outpatient clinic&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16000030ta">
+"This is the outpatient clinic&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16000040ta">
-"The hospital building is next door&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16000040ta">
+"The hospital building is next door&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","shock", 250, @210);
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_worry", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16000050mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16000050mi">
 "Geh&, really?"
 
 {	Stand("bu—œ[_§•_’Êí","hard", 200, @-210);
@@ -111,8 +111,8 @@ If so&, it'd be too exasperating for words&.
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 500, true);}
 //Ÿ”ñ“ï‚·‚é‚æ‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16000060ri">
-"Daichi~n&, get a hold of yourself--"
+<voice name="—œ[" class="—œ[" src="voice/ch08/16000060ri">
+"Daichi~n&, get a hold of yourself\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -129,11 +129,11 @@ If so&, it'd be too exasperating for words&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-Tokyo's AH General Hospital&. 
+Tokyo's AH General Hospital&.
 
 It was the hospital I'd attended in the past&. And I'd been back
 shortly before this&. As a result&, I was fairly familiar with what
-could be found where&. 
+could be found where&.
 
 Unable to help remembering Dr&. Takashina&, I uttered a silent groan&.
 
@@ -147,24 +147,24 @@ hospital building&.
 	Stand("st‘å•ã_§•_’Êí","normal", 250, @210);
 	FadeStand("st‘å•ã_§•_’Êí_normal", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16000070mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16000070mi">
 "So&, what's her room number?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16000080ta">
-"H&, how&.&.&.&. should I know&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16000080ta">
+"H&, how&.&.&. should I know&.&.&."
 
 This was a general hospital&, so it had a lot of different
-departments&. 
-If I were to think about it--
+departments&.
+If I were to think about it\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16000090ta">
-"P&, probably in the surgical ward&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16000090ta">
+"P&, probably in the surgical ward&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16000100ta">
-"B&, but maybe in the psychiatric ward&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16000100ta">
+"B&, but maybe in the psychiatric ward&.&.&."
 
 Ayase hadn't appeared to have taken on many external injuries when she
 fell&. And because planning to do suicide&, by jumping off must have
@@ -178,16 +178,16 @@ department after the commotion at O-Front&.
 	FadeStand("st‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("st‘å•ã_§•_’Êí_normal", 0, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16000110mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16000110mi">
 "You sure know a lot&, Taku&."
 
 {	Stand("st—œ[_§•_³–Ê","normal", 200, @-210);
 	FadeStand("st—œ[_§•_³–Ê_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16000120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16000120ri">
 "It's common sense&, common sense&. Right&, Taku?"
 
-I don't think it's quite common sense&.&.&.&.
+I don't think it's quite common sense&.&.&.
 I wouldn't have known&, either&, without the experience of having gone
 back and forth from this hospital countless times&.
 
@@ -204,7 +204,7 @@ Rimi halted as we were about to enter the hospital building&.
 	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","happy", 200, @-100);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_happy", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16000130ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16000130ri">
 "I'm gonna go wash my hands&. Head on without me&."
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_‘«_‘–‚é_Loop");
@@ -251,15 +251,15 @@ floor for psychiatric patients&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-It was an individual room about nineteen square meters large&. 
+It was an individual room about nineteen square meters large&.
 
 When we entered&, there was a bathroom included on the right-hand side
-and a bed at the very back&. 
-The light of the setting sun shone through the window beyond it&. 
+and a bed at the very back&.
+The light of the setting sun shone through the window beyond it&.
 
-The crucial ingredient&, Ayase herself&, wasn't on the bed&. 
-Judging by how the sheets were mussed&, 
-She must've been there recently&, but&.&.&.&.
+The crucial ingredient&, Ayase herself&, wasn't on the bed&.
+Judging by how the sheets were mussed&,
+She must've been there recently&, but&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

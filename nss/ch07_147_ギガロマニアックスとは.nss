@@ -45,27 +45,27 @@ function ch07_147_ギガロマニアックスとは()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-I craned my neck as I listened to Kozu-pii's story&. 
+I craned my neck as I listened to Kozu-pii's story&.
 
 Who on earth was that man?
-A homeless person with a poster&. 
+A homeless person with a poster&.
 
 Come to think of it&, I felt as if I'd seen people like that several
-times before&.&.&.&. 
-Had they all been the same person? 
+times before&.&.&.
+Had they all been the same person?
 
 What I didn't understand was how the homeless man knew about
-Di-Swords&. 
+Di-Swords&.
 
 Maybe&, unbeknownst to me&, Di-Swords were in truth renowned
-throughout Japan? 
+throughout Japan?
 
-&.&.&.&.Nah&, of course not&. 
+&.&.&.Nah&, of course not&.
 
-I scrutinized Kozu-pii&. 
+I scrutinized Kozu-pii&.
 
 Her expression was so serene that I had a hard time reconciling it
-with the disturbing things she'd told me earlier about killing&. 
+with the disturbing things she'd told me earlier about killing&.
 
 She softly glided her fingers over the surface of her Di-Sword&.
 
@@ -77,77 +77,77 @@ She softly glided her fingers over the surface of her Di-Sword&.
 <PRE box00>
 [text002]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700010ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700010ko">
 "Now that you mention it&, he said something as we parted&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700020ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700020ko">
 "You and those like you are special existences&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700030ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700030ko">
 "The most special among you is"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700040ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700040ko">
 "The boy who gave birth to 'Whose eyes, are those eyes?'"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700050ko">
-"Or something like that--" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700050ko">
+"Or something like that―"
 
-I was speechless&. 
+I was speechless&.
 
-What the hell&.&.&.&.
+What the hell&.&.&.
 
 {	Stand("bu梢_制服_正面","normal", 500, @-150);
 	DeleteStand("bu梢_制服_通常_normal", 500, false);
 	FadeStand("bu梢_制服_正面_normal", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700060ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700060ko">
 "Mm? Do you knoooow what he meant&, Nishijou-kun?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700070ta">
-"Eh? Not&, not really&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700070ta">
+"Eh? Not&, not really&.&.&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700080ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700080ko">
 "Liaaaar&. Your heart tells the truth&. Just now&, you thought that it
 reeeeally had someting to do with you&."
 
 Dammit&, it was hard to deal with how she picked up on
-everything&.&.&.&.
+everything&.&.&.
 
 {	Stand("bu梢_制服_正面","sad", 500, @-150);
 	FadeStand("bu梢_制服_正面_sad", 300, false);
 	DeleteStand("bu梢_制服_正面_normal", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700090ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700090ko">
 "You're making a scaaary kinda face&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700100ko">
-"Were you the fiiirst to think of 'Whose eyes, are those eyes?'" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700100ko">
+"Were you the fiiirst to think of 'Whose eyes, are those eyes?'"
 
-I bit my lip and stood up&. 
+I bit my lip and stood up&.
 
 I yanked out the tissue stuffed up my nose&. My nosebleed had
-stopped&. 
+stopped&.
 
 Kozu-pii cocked her head to one side and looked up at me&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700110ko">
-"Where are you&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch07/14700110ko">
+"Where are you&.&.&."
 
-I'm going home&.&.&.&.
+I'm going home&.&.&.
 
 {	Stand("bu梢_制服_通常","sad", 500, @-150);
 	DeleteStand("bu梢_制服_正面_sad", 500, false);
 	FadeStand("bu梢_制服_通常_sad", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700120ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700120ko">
 "Fueeehh!?"
 
 </PRE>
@@ -179,57 +179,57 @@ I'm going home&.&.&.&.
 [text003]
 My side still ached&, but I descended to the first floor via the
 stairs&, rather than using the escalator or an elevator&. Thanks to
-that&, I managed to avoid the crowd on the way outside&. 
+that&, I managed to avoid the crowd on the way outside&.
 
 Kozu-pii trailed diffidently after me&, teary-eyed&.
 
 {	Stand("bu梢_制服_武器構え青","sad", 500, @+150);
 	FadeStand("bu梢_制服_武器構え青_sad", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700130ko">
-"Um&, um--"
+<voice name="梢" class="こずえ" src="voice/ch07/14700130ko">
+"Um&, um―"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700140ko">
-"Did Kozu-pii say sooomething to make you angry?" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700140ko">
+"Did Kozu-pii say sooomething to make you angry?"
 
 Ignoring her question&, I frantically made the wheels in my head
-turn&. 
+turn&.
 
-The homeless man Kozu-pii had met&. A friend of "Shogun"? 
-Why had he brought up "Whose eyes are those eyes?" 
+The homeless man Kozu-pii had met&. A friend of "Shogun"?
+Why had he brought up "Whose eyes are those eyes?"
 
-Who was "the boy who gave birth to 'Whose eyes are those eyes?'" 
+Who was "the boy who gave birth to 'Whose eyes are those eyes?'"
 
 Me?
 
 No&, wrong&.
-I wasn't a "special boy" or whatever&. I wasn't a hero&. 
+I wasn't a "special boy" or whatever&. I wasn't a hero&.
 
-After all&, I hadn't been able to attain a Di-Sword&. 
+After all&, I hadn't been able to attain a Di-Sword&.
 
 I was just your average Joe&. Villager A&. I wanted to stay that way&.
 I didn't want to become special&. I'd take a pass on having another
-experience like the one on top of O-Front&. 
+experience like the one on top of O-Front&.
 
-Then who was that "boy"? 
+Then who was that "boy"?
 
-The only person who came to mind was the true New-Gen criminal&.&.&.&.
-"Shogun&." 
+The only person who came to mind was the true New-Gen criminal&.&.&.
+"Shogun&."
 
 "Shogun" was an old man no matter how I looked at him&, but his voice
 and stature were contrarily close to those of a boy&, and he obviously
-wasn't ordinary&. He was "special&." 
+wasn't ordinary&. He was "special&."
 
 The message of "Whose eyes are those eyes?" which had appeared in two
 out of the six New-Gen cases&.
 
-Words I had often used in my own head&. 
+Words I had often used in my own head&.
 
-What significance could there be to these thoughtless words&.&.&.&. 
+What significance could there be to these thoughtless words&.&.&.
 
 Did the reason why "Shogun" targeted me with such persistence lie
-hidden in them? 
+hidden in them?
 
 Maybe I ought to search for that homeless guy&. He should be somewhere
 in this city even now&. Carrying as usual a poster with an
@@ -252,51 +252,51 @@ incomprehensible message&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700150ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700150ta">
+"&.&.&.&.&.&.&."
 
 Look for him and what next?
 
 I stopped&.
-And I shook my head as though to deny my own thoughts&. 
+And I shook my head as though to deny my own thoughts&.
 
-What would become of searching for him? 
+What would become of searching for him?
 On the contrary&, it might result in me plunging into danger of my own
-accord&. 
+accord&.
 
 Maybe he was working for "Shogun&," and this was a trap to lure me
-in&. 
+in&.
 
 What did I plan on doing if I strolled over to meet him&, and another
-quest began from it? 
+quest began from it?
 
 I was sick of the kind of terror and anguish I'd been through last
-time&. 
+time&.
 
-The same thing went for Kozu-pii&. 
+The same thing went for Kozu-pii&.
 
 Why had Kozu-pii now&, with this particular timing&, begun speaking to
 me in my mind?
 
 Perhaps she&, like Yua&, had been directed by "Shogun" to approach
-me&. 
+me&.
 
 Going by all the dangerous things she'd said about killing and
 half-killing&, it was also conceivable that she might be an accomplice
-in the New-Gen murders&. 
+in the New-Gen murders&.
 
 After the disturbance at O-Front&, Rimi had unexpectedly disappeared&.
 Without contacting me once&.
 
-Ayase was in the hospital after her failed suicide attempt&, 
-And Nanami was safe&, but my two allies had vanished&. 
+Ayase was in the hospital after her failed suicide attempt&,
+And Nanami was safe&, but my two allies had vanished&.
 
-Was there any guarantee that Rimi would come back for me? 
+Was there any guarantee that Rimi would come back for me?
 
 Was it really true that Rimi had simply been taking time off from
-school lately? 
+school lately?
 
-I'd only heard it from Kozu-pii&. 
+I'd only heard it from Kozu-pii&.
 
 I couldn't determine whether or not she was lying&.
 
@@ -312,13 +312,13 @@ I had the ice-cold sensation that every hair on my body stood on end&.
 [text005]
 When you got down to it&, my world was all too empty&.
 
-There was no foundation for me to believe in&. 
+There was no foundation for me to believe in&.
 Everything seemed like a lie&.
 
 {	Stand("bu梢_制服_武器構え青","sad", 500, @+150);
 	FadeStand("bu梢_制服_武器構え青_sad", 300, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700160ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700160ko">
 "Thaaaat's a paranoid delusion&."
 
 Kozu-pii stood close behind me&.
@@ -332,24 +332,24 @@ She cast an upward glance at me&.
 	DeleteStand("bu梢_制服_武器構え青_sad", 300, true);}
 I looked away from her&.
 
-Are you&.&.&.&. my ally?
+Are you&.&.&. my ally?
 Or my enemy?
 Which one?
 
 //※以下のセリフのみリアルの声
 //◆ブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700170ko">
-"&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14700170ko">
+"&.&.&."
 
 //※以上のセリフのみリアルの声
 Have you come to kill me?
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700180ko">
-"Kozu-pii only--" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700180ko">
+"Kozu-pii only―"
 
-Only&.&.&.&.?
+Only&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -362,22 +362,22 @@ Only&.&.&.&.?
 <PRE box00>
 [text006]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700190ko">
-"Ah--!" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700190ko">
+"Ah-!"
 
-Without warning&, Kozu-pii let out a strange cry&. 
+Without warning&, Kozu-pii let out a strange cry&.
 
 When I raised my head&, startled&, she was waving her hand in some
 other direction instead of looking at me&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700200ko">
-"Found ya&, Sena-shan--"
+<voice name="梢" class="こずえ" src="voice/ch07/14700200ko">
+"Found ya&, Sena-shan―"
 
-Sena&.&.&.&. shan? 
-Surely not&.&.&.&.
+Sena&.&.&. shan?
+Surely not&.&.&.
 
-I followed Kozu-pii's line of sight&, and there&, as expected&, was--
+I followed Kozu-pii's line of sight&, and there&, as expected&, was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -397,43 +397,43 @@ I followed Kozu-pii's line of sight&, and there&, as expected&, was--
 //ＣＨ//セナ
 //※セナは普通に喋っている。心の声ではない
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700210sn">
-"&.&.&.&.Kozue&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14700210sn">
+"&.&.&.Kozue&."
 
 Aoi Sena was walking toward us&, her Di-Sword on her shoulder and an
-expression that spoke of an endlessly bad mood on her face&. 
+expression that spoke of an endlessly bad mood on her face&.
 
-I couldn't help assuming a defensive position&. 
+I couldn't help assuming a defensive position&.
 
-Why had Sena appeared here? 
-Another coincidence? 
-Or&.&.&.&. a planned-out trap? 
+Why had Sena appeared here?
+Another coincidence?
+Or&.&.&. a planned-out trap?
 
 Did these two know each other?
-Then had Kozu-pii called her here? 
+Then had Kozu-pii called her here?
 For them to kill me together?
 
 {	Stand("bu梢_制服_武器構え青","normal", 500, @+200);
 	FadeStand("bu梢_制服_武器構え青_normal", 500, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700220ko">
-"I'm teeeelling you&, that's a paranoid delusion&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14700220ko">
+"I'm teeeelling you&, that's a paranoid delusion&."
 
-But what should I believe in&.&.&.&. 
+But what should I believe in&.&.&.
 
 Though I'd encountered Sena many times before now&, she'd never tried
-to attack me&. 
+to attack me&.
 
-That didn't necessarily mean she was my ally&. 
-Besides&.&.&.&. she scared me&.
+That didn't necessarily mean she was my ally&.
+Besides&.&.&. she scared me&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700230ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700230ko">
 "Sena-shan isn't scaaary&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700240ta">
-"Wha&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700240ta">
+"Wha&.&.&.!"
 
 Kozu-pii&, please don't speak out of turn like that!
 
@@ -441,15 +441,15 @@ Kozu-pii&, please don't speak out of turn like that!
 	Stand("buセナ_制服_通常","hard", 300, @-200);
 	FadeStand("buセナ_制服_通常_hard", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700250sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700250sn">
 "Scary? What are you talking about?"
 
 Unsurprisingly&, Sena also seemed to be able to hear Kozue's "inner
 voice&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700260ta">
-"N&, n&, no&, nothing&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700260ta">
+"N&, n&, no&, nothing&.&.&."
 
 Taking nary a glance at my state of panic&, Kozu-pii seemed awfully
 delighted&.
@@ -497,10 +497,10 @@ for being so anxiety-ridden&.
 <PRE box00>
 [text507]
 They almost appeared to be sisters&. A strong-hearted&, reliable big
-sister&, and the quiet little sister&, who adored her&.  
+sister&, and the quiet little sister&, who adored her&.
 
 And with both of them having small breasts&, man&, there was nothing
-to say about it but GJ--
+to say about it but GJ―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -533,8 +533,8 @@ to say about it but GJ--
 <PRE box00>
 [text607]
 No&, no&, no&, getta hold of yourself! Kozu-pii's gonna read your mind
-again! 
-Besides&, I could lose my life if I relaxed my guard&.&.&.&.
+again!
+Besides&, I could lose my life if I relaxed my guard&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -562,7 +562,7 @@ Besides&, I could lose my life if I relaxed my guard&.&.&.&.
 <PRE box00>
 [text008]
 I wondered what kind of connection lay between them&. Had they become
-acquainted at school? But they were in different grades&.&.&.&. 
+acquainted at school? But they were in different grades&.&.&.
 
 Was there something like a bond between fellow sword-bearers? Were
 both of them working under "Shogun"?
@@ -598,11 +598,11 @@ both of them working under "Shogun"?
 <PRE box00>
 [text906]
 I stood like a cat to prepare myself to run away on a moment's
-notice&. 
+notice&.
 
 In concrete terms&, that meant putting my weight on the balls of my
 feet&. By doing this&, you could slip into motion with a cat's
-swiftness&.&.&.&. allegedly&. I'd read about it in a manga a long time
+swiftness&.&.&. allegedly&. I'd read about it in a manga a long time
 ago&.
 
 </PRE>
@@ -630,13 +630,13 @@ ago&.
 <PRE box00>
 [text907]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700270ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700270ko">
 "See&, Sena-shan was the first friend Kozu-pii made after coming to
 Tokyo&. Right? Right?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700280sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14700280sn">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -671,53 +671,53 @@ Tokyo&. Right? Right?"
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text908]
-Rather than replying&, Sena gave me a glare&. 
+Rather than replying&, Sena gave me a glare&.
 
 It made me think she'd slash out at me with her sword&, but she didn't
-do anything&. 
+do anything&.
 She didn't seem particularly angry at my calling her scary&.
 
 {	Stand("buセナ_制服_通常","hard", 300, @-200);
 	FadeStand("buセナ_制服_通常_hard", 300, true);
 	DeleteStand("buセナ_制服_通常_angry", 0, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700290sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700290sn">
 "Kozue&, why are you with him?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700300ko">
-"Takumi-shan is my classmate&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14700300ko">
+"Takumi-shan is my classmate&."
 
-Ta&, Takumi-shan&.&.&.&.
+Ta&, Takumi-shan&.&.&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700310ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700310ko">
 "And Takumi-shan can see Kozu-pii's sword&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700320sn">
-"I know&. He's a Gigalomaniac&, too&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14700320sn">
+"I know&. He's a Gigalomaniac&, too&."
 
-Gigalo&.&.&.&. what?
+Gigalo&.&.&. what?
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700330ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700330ko">
 "Gigalomaniac&."
 
 {	Stand("bu梢_制服_武器構え青","normal", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_normal", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_smile", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700340ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700340ko">
 "People who can see Di-Swords&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700350ko">
-"You're one&, too&, Takumi-shan&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14700350ko">
+"You're one&, too&, Takumi-shan&."
 
-Gigalomaniac&.&.&.&. 
+Gigalomaniac&.&.&.
 
-Who had decided on that name? 
+Who had decided on that name?
 
 If there were a name for it&, did it mean this ability wasn't all that
 rare?
@@ -730,7 +730,7 @@ rare?
 <PRE box00>
 [text009]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700360ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700360ko">
 "Ah&, Sena-shan&, were you about to go buuuy a 'Crunchy-kun'?"
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
@@ -738,35 +738,35 @@ rare?
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 //◆焦る
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700370sn">
-"We&, well&, that's&.&.&.&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14700370sn">
+"We&, well&, that's&.&.&."
 
-Apparently Kozu-pii had read Sena's mind&. 
+Apparently Kozu-pii had read Sena's mind&.
 
 Speaking of which&, I'd seen Sena eating a Crunchy-kun before&.
 
 It was almost winter time&. It was kind of impressive that she could
-eat popsicles outdoors despite the increasing cold&. 
+eat popsicles outdoors despite the increasing cold&.
 Guess she must really love them&.
 
 {	Stand("bu梢_制服_武器構え青","smile", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_normal", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700380ko">
-"Okey-dokey&, then let's all go together&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14700380ko">
+"Okey-dokey&, then let's all go together&."
 
 Kozue declared in her internal voice&, then tugged playfully at Sena's
 hand and began walking off with her&.
 
 //◆はーやく＝早く
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700390ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700390ko">
 "Huuurry up&, Takumi-shan&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700400ta">
-"Ah&, eh&, no&, I&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700400ta">
+"Ah&, eh&, no&, I&.&.&."
 
 I'd been intending to decline her offer and go straight home&, but
 
@@ -776,8 +776,8 @@ I'd been intending to decline her offer and go straight home&, but
 //※以下のセリフのみリアルの声
 //◆泣きそう
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700410ko">
-"&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14700410ko">
+"&.&.&."
 
 //※以上のセリフのみリアルの声
 Just then&, Kozu-pii went all teary-eyed&. Her damp gaze pleaded with
@@ -790,12 +790,12 @@ Beside her&, Sena fired a biting glare at me&.
 
 //◆梢が泣くので仕方なく
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700420sn">
-"&.&.&.&.Come along&."
+<voice name="セナ" class="セナ" src="voice/ch07/14700420sn">
+"&.&.&.Come along&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700430sn">
-"I'll treat you&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14700430sn">
+"I'll treat you&."
 
 It would seemed&, that Sena too&, was weak against Kozu-pii's weeping
 attacks&. At her urging&, I reluctantly went toward a convenience
@@ -824,19 +824,19 @@ store located close by a police box&.
 <PRE box00>
 [text010]
 After she bought one Crunchy-kun for each of us&, the two of them sat
-against the handrail in front of the police box and bit into theirs&. 
+against the handrail in front of the police box and bit into theirs&.
 
 Kozu-pii really did seem overjoyed&. Sena&, on the other hand&, wore
-an indifferent look&. 
+an indifferent look&.
 
-I was going out of my mind&. 
-The police officer on duty was right in front of our eyes&. 
+I was going out of my mind&.
+The police officer on duty was right in front of our eyes&.
 
 Despite that&, he showed zero indication of paying any attention to
 the two girls who were presently breaking the Swords and Firearms
-Control Law&. 
+Control Law&.
 
-He was a policeman&, for pete's sake&. 
+He was a policeman&, for pete's sake&.
 He could obviously see us&, yet he didn't pay them any heed&, much
 less arrest them&.
 
@@ -844,7 +844,7 @@ less arrest them&.
 	DeleteStand("bu梢_制服_武器構え青_smile", 500, false);
 	FadeStand("bu梢_制服_正面_normal", 500, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700440ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700440ko">
 "Not gonna eat?"
 
 When Kozu-pii pointed it out&, I helplessly bit into my Crunchy-kun&.
@@ -854,10 +854,10 @@ When Kozu-pii pointed it out&, I helplessly bit into my Crunchy-kun&.
 	FadeStand("bu梢_制服_武器構え青_smile", 500, true);}
 The gazes of those around us bothered me&.
 
-Sena and Kozu-pii were c<pre>u</pre>te&. The spectacle of two c<pre>u</pre>te "flat-chested
-sisters" together with a creepy otaku--and on top of that&, with all
-of us eating Crunchy-kuns under the cold open sky--was so surreal&, we
-couldn't avoid standing out&.
+Sena and Kozu-pii were c<pre>u</pre>te&. The spectacle of two c<pre>u</pre>te
+"flat-chested sisters" together with a creepy otaku―and on top of that&,
+with all of us eating Crunchy-kuns under the cold
+open sky―was so surreal&, we couldn't avoid standing out&.
 
 Was I being overly self-conscious?
 
@@ -868,13 +868,13 @@ I didn't want to be conspicuous&.
 I didn't want anyone to look at me&.
 
 My fear of others' gazes&.
-I should've put on a hat or something&.&.&.&.
+I should've put on a hat or something&.&.&.
 
 In any case&, I wanted to get out of here ASAP&.
 
 As I desperately kept on eating my Crunchy-kun with that goal in
 mind&, my body went chilly&. This was totally gonna give me
-diarrhea&.&.&.&. I wondered if the two of them weren't cold&.
+diarrhea&.&.&. I wondered if the two of them weren't cold&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -884,33 +884,33 @@ diarrhea&.&.&.&. I wondered if the two of them weren't cold&.
 <PRE box00>
 [text011]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700450sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700450sn">
 "So&, Kozue&. Why are you with him?"
 
 {	Stand("bu梢_制服_武器構え青","normal", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_normal", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_smile", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700460ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700460ko">
 "He's Takumi-shan&, nooot 'him&.'"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700470ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700470ko">
 "Some bad people were bullying Takumi-shan&, and he fell down&. So
 Kozue-pii helped tend to him&."
 
-She'd&.&.&.&. tended to me?
+She'd&.&.&. tended to me?
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700480sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700480sn">
 "Did you use your Di-Sword?"
 
 //◆梢はＤＱＮ３人組に手を出していない。単に願望を言っているだけ。
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700490ko">
-"I wanted to kill them&. Ba-bang-slash!" 
+<voice name="梢" class="こずえ" src="voice/ch07/14700490ko">
+"I wanted to kill them&. Ba-bang-slash!"
 
-Kozu-pii appeared to be gesturing to illustrate what she was saying&. 
+Kozu-pii appeared to be gesturing to illustrate what she was saying&.
 
 But because her enormous Di-Sword occupied her left hand&, she had to
 wave her spare hand around&.
@@ -923,8 +923,8 @@ But that one was&, of course&, holding her Crunchy-kun&.
 //※以下のセリフのみリアルの声
 //◆びっくりしてブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700500ko">
-"&.&.&.&.!"
+<voice name="梢" class="梢" src="voice/ch07/14700500ko">
+"&.&.&.!"
 
 //※以上のセリフのみリアルの声
 Kozu-pii's Crunchy-kun&, from which she'd only taken a single bite&,
@@ -937,24 +937,24 @@ splattered&.
 //※以下のセリフのみリアルの声
 //◆泣きそう
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700510ko">
-"&.&.&.&.&, &.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/14700510ko">
+"&.&.&.&, &.&.&."
 
 //※以上のセリフのみリアルの声
 Kozue stared at its remnants&, looking as if she were about to burst
 out crying&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700520sn">
-"&.&.&.&.I told you not to do anything foolish&."
+<voice name="セナ" class="セナ" src="voice/ch07/14700520sn">
+"&.&.&.I told you not to do anything foolish&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700530ko">
-"Uuh&, I'm sooorry&.&.&.&. The leftover-leftover-boogeyman is gonna
-get me&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch07/14700530ko">
+"Uuh&, I'm sooorry&.&.&. The leftover-leftover-boogeyman is gonna
+get me&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700540sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700540sn">
 "I'm talking about your Di-Sword&, not the popsicle&."
 
 {	Stand("buセナ_制服_通常","hard", 300, @-200);
@@ -974,12 +974,12 @@ To think that Sena could be so kind&. How unexpected&.
 	DeleteStand("bu梢_制服_武器構え青_shy2", 300, true);}
 //◆あったーり前＝当たり前
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700550ko">
-"But&, but&, bad people have goootta play a punishment game&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14700550ko">
+"But&, but&, bad people have goootta play a punishment game&."
 
-Who was it&.&.&.&. who had enveloped those pricks in a bloodbath? 
-Kozu-pii&, perhaps&. 
-Or&.&.&.&. me?
+Who was it&.&.&. who had enveloped those pricks in a bloodbath?
+Kozu-pii&, perhaps&.
+Or&.&.&. me?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -993,68 +993,68 @@ Or&.&.&.&. me?
 <PRE box00>
 [text012]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700560ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700560ko">
 "Takumi-shan&, Takumi-shan&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700570ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700570ko">
 "Sena-shan knows eeeeverything&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700580ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700580ko">
 "Sena-shan told me it was called a Di-Sword&."
 
 //◆混乱
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700590ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700590ko">
 "And what else&, real boota? Huh? Buta? Buddha?"
 
 //◆渋々補足する
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700600sn">
-"&.&.&.&.Real-boot&."
+<voice name="セナ" class="セナ" src="voice/ch07/14700600sn">
+"&.&.&.Real-boot&."
 
 //◆そそ＝そうそう
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700610ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700610ko">
 "Ah&, yesy yes&."
 
-What was it? I'd never heard those words before&.&.&.&. 
+What was it? I'd never heard those words before&.&.&.
 The same was true of that Gigalo-whatever from before&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700620ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700620ko">
 "No one should be able to see a sword if it hasn't been real-booted&,
 but Sena-shan saw mine!"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700630ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700630ko">
 "Sena-shan was the first person I ever met who could see Di-Swords&."
 
 //◆ほひゃー＝驚いたときの擬音
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700640ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700640ko">
 "Back then I thought whoooaaa&, and I asked her why she could see
 it&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700650ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700650ko">
 "And she said it was cause she's a Gigalomaniac&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700660ta">
-"Gigalomaniacs&.&.&.&. what are they?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700660ta">
+"Gigalomaniacs&.&.&. what are they?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700670ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700670ko">
 "I told you before&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700680ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700680ko">
 "People who can see the swords&."
 
 No&, in greater detail&, um&, like the principle of how it
-works&.&.&.&.
+works&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1066,13 +1066,13 @@ works&.&.&.&.
 <PRE box00>
 [text013]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700690sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700690sn">
 "Those who possess the ability to interfere with the <FONT
 incolor="#88abda" outcolor="BLACK">Dirac sea</FONT>&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700700sn">
-"That's what Gigalomaniacs are&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14700700sn">
+"That's what Gigalomaniacs are&."
 
 Sena answered instead&.
 
@@ -1081,84 +1081,84 @@ Sena answered instead&.
 	FadeStand("bu梢_制服_正面_normal", 500, true);}
 //※以下のセリフのみリアルの声
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700710ko">
+<voice name="梢" class="梢" src="voice/ch07/14700710ko">
 "???"
 
 //※以上のセリフのみリアルの声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700720ta">
-"Dirac sea&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700720ta">
+"Dirac sea&.&.&.?"
 
-Sena cast a scornful glance at me as I tilted my head&. 
+Sena cast a scornful glance at me as I tilted my head&.
 
-Wh&, why are you looking at me like that&.&.&.&. 
-Contrary to appearances&, I'm pretty damn smart&. 
+Wh&, why are you looking at me like that&.&.&.
+Contrary to appearances&, I'm pretty damn smart&.
 
 I sort of remembered something about the "Dirac sea" being a concept
 in quantum mechanics&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700730ta">
-"A&, an&, unobservable interface&.&.&.&. filled with negative
-energy&.&.&.&. or something&, was it?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700730ta">
+"A&, an&, unobservable interface&.&.&. filled with negative
+energy&.&.&. or something&, was it?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700740sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700740sn">
 "To put it broadly&, yes&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700750sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700750sn">
 "And Di-Swords are the terminals that permit interference in it&.
 Think of them as the tip of a pipe stuck in the Dirac sea&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700760sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700760sn">
 {#TIPS_負の物質 = true;}"Since they're connected to the Dirac sea&, Di-Swords&, too&, are
-composed of <FONT incolor="#88abda" outcolor="BLACK">negative matter</FONT>&. They're an existence 
+composed of <FONT incolor="#88abda" outcolor="BLACK">negative matter</FONT>&. They're an existence
 that infinitely collapses in on itself&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700770sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700770sn">
 "Which is why ordinary people can neither touch nor see them&, and
 they're something like a delusion&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700780sn">
-"These Di-Swords serve the function of a shortc<pre>u</pre>t to every possible
-form of real-booting&."
+<voice name="セナ" class="セナ" src="voice/ch07/14700780sn">
+"These Di-Swords serve the function of a shortc<pre>u</pre>t to every
+possible form of real-booting&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700790sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700790sn">
 "When you enlarge the channel between your Di-Sword and the Dirac
-sea--"
+sea―"
 
 //◆「空孔」＝「くうこう」
 //◆「対生成」＝「ついせいせい」
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700800sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700800sn">
 {#TIPS_空孔理論 = true;#TIPS_対生成 = true;#TIPS_素粒子 = true;}
-"According to the Dirac equation's <FONT incolor="#88abda"outcolor="BLACK">hole theory</FONT>&, <FONT incolor="#88abda"outcolor="BLACK">pair production</FONT> 
+"According to the Dirac equation's <FONT incolor="#88abda"outcolor="BLACK">hole theory</FONT>&, <FONT incolor="#88abda"outcolor="BLACK">pair production</FONT>
 occurs&,leading to the formation of <FONT incolor="#88abda" outcolor="BLACK">particles</FONT> and antiparticles&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700810sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700810sn">
 "These particles are the delusions given rise to by Gigalomaniacs&,
 and to the rest of the world&, they are errors&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700820sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700820sn">
 "To make those errors part of reality&, all you need to do is to send
 the created particles into somebody's dead spots&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700830sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700830sn">
 "The particles are instantly converted to electrical signals&, and
-through the shared recognition of nearby humans--they becoming
+through the shared recognition of nearby humans―they becoming
 reality&."
 
 //◆「対消滅」＝「ついしょうめつ」
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700840sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700840sn">
 "When you want to erase them&, on the other hand&, you need to send
 antiparticles into the dead spots where you sent the original
 particles&, thereby leading to mutual annihilation&."
@@ -1176,7 +1176,7 @@ particles&, thereby leading to mutual annihilation&."
 [text014]
 //※以下のセリフのみリアルの声
 //【梢】
-<voice name="梢" class="梢" src="ch07/14700850ko">
+<voice name="梢" class="梢" src="voice/ch07/14700850ko">
 "???"
 
 //※以上のセリフのみリアルの声
@@ -1203,12 +1203,12 @@ Come to think of it&, in the past Sena had said:
 [text900]
 //ＶＦ//回想セリフ
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700860sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700860sn">
 "Everything about how the world operates can be explained by three
 numbers&. 0&, 1&, and -1&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700870sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700870sn">
 "Di-Swords are a shortc<pre>u</pre>t for producing that -1&."
 
 {	Fade("色１", 300, 1000, null, true);
@@ -1217,69 +1217,69 @@ numbers&. 0&, 1&, and -1&."
 	DeleteStand("buセナ_制服_通常_normal", 0, true);
 	Fade("色１", 300, 0, null, true);
 	Delete(色１);}
-My head was getting all tangled up here&.&.&.&.
+My head was getting all tangled up here&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700880ta">
-"What do you mean by how&.&.&.&.
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700880ta">
+"What do you mean by how&.&.&.
 People's shared recognition makes delusions real?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700890sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700890sn">
 "Take the Crunchy-kun you're currently holding&, for example&. How
 does it appear to you?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700900ta">
-"Eh&, how&.&.&.&. It's a blue popsicle&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700900ta">
+"Eh&, how&.&.&. It's a blue popsicle&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700910sn">
-"Can you prove that this blue popsicle is truly part of 'reality'?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14700910sn">
+"Can you prove that this blue popsicle is truly part of 'reality'?"
 
 A Crunchy-kun was a Crunchy-kun&, wasn't it? You could tell with a
 glance&, and it'd be cold if you ate it&. I thought that sort of thing
-was obvious&, but&.&.&.&.
+was obvious&, but&.&.&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700920sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700920sn">
 "When people's brains recognize what they see with their eyes&, that's
 when they are first able to comprehend it as a 'blue popsicle&.'"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700930sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700930sn">
 "But it's also possible for your brain to 'tell lies' without you
 being conscious of it&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700940sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700940sn">
 "Maybe it's 'a delusion produced by your brain&, which you alone have
 made yourself think is really there&.'"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14700950ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/14700950ta">
 "Then&, then&, how can you pr&, prove reality is real?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700960sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700960sn">
 "If other people observe that what you are holding is a blue
 popsicle&, it attains the shared recognition of two or more human
 beings&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700970sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700970sn">
 "It ceases to be your solitary delusion&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14700980sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14700980sn">
 "When you're making delusions real&, perceive that in paradoxical
-terms&." 
+terms&."
 
-In short&.&.&.&. if you coercively "showed" your solitary
-delusions--the particles formed by your Di-Sword--to the people in
-your surroundings&, they would become real&.  
+In short&.&.&. if you coercively "showed" your solitary
+delusions―the particles formed by your Di-Sword―to the people in
+your surroundings&, they would become real&.
 
-And&.&.&.&. did I have that ability as well?
+And&.&.&. did I have that ability as well?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1293,11 +1293,11 @@ And&.&.&.&. did I have that ability as well?
 //◆ふみゅー＝落ち込む
 //◆さっぱり～＝さっぱり分からない
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14700990ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14700990ko">
 "Fumyuu&. Way over Kozu-pii's head~"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701000ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701000ko">
 "Anyway&, normal people can't see my sword&."
 
 {	Stand("buセナ_制服_食事減る","normal", 300, @-200);
@@ -1310,7 +1310,7 @@ Kozu-pii gave Sena her Crunchy-kun back&, than tripped out into the
 road&.
 
 She stood in front of the people walking along the street and&, all of
-a sudden--who knows what she was thinking--started taking huge swings
+a sudden―who knows what she was thinking―started taking huge swings
 with her Di-Sword&.
 
 </PRE>
@@ -1325,33 +1325,33 @@ with her Di-Sword&.
 <PRE box00>
 [text016]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14701010ta">
-"Sto&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14701010ta">
+"Sto&.&.&.!"
 
-I covered my eyes&. 
+I covered my eyes&.
 
-She'd finally shown her true colors--! 
-In truth&, she'd been a heinous murderer all along! 
+She'd finally shown her true colors-!
+In truth&, she'd been a heinous murderer all along!
 
-The road would now be a sea of blood&. 
+The road would now be a sea of blood&.
 
-If someone were cu<pre>t</pre> down by that colossal sword&, their torso would be
-divided straight in two&.
+If someone were cu<pre>t</pre> down by that colossal sword&, their torso
+would be divided straight in two&.
 
 Kozu-pii was going to get caught red-handed&. After all&, the police
 box was right beside us&. The police officer would clearly witness
 it&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701020ko">
-"Takumi-shan&, it's nooot ending up that way&, you know?" 
+<voice name="梢" class="こずえ" src="voice/ch07/14701020ko">
+"Takumi-shan&, it's nooot ending up that way&, you know?"
 
-&.&.&.&.I wondered why it was so quiet&. 
+&.&.&.I wondered why it was so quiet&.
 Even though people were getting slashed up by a sword in the middle of
-Shibuya&, in broad daylight&. 
+Shibuya&, in broad daylight&.
 
-No one was screaming&. 
-I didn't hear the policeman yelling&, either&. 
+No one was screaming&.
+I didn't hear the policeman yelling&, either&.
 
 I gradually opened my eyes&.
 
@@ -1370,20 +1370,20 @@ I gradually opened my eyes&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-&.&.&.&.Nothing had happened&. 
+&.&.&.Nothing had happened&.
 
 Kozu-pii continued swinging her gigantic sword around&, although she
-seemed a bit embarrassed&. 
+seemed a bit embarrassed&.
 
 It was clearly hitting passers-by&, the roadside fence&, the ground&,
-and so forth&, yet nothing happened&. She didn't cu<pre>t</pre> anything&.  
+and so forth&, yet nothing happened&. She didn't cu<pre>t</pre> anything&.
 
-For that matter&, her sword was-- 
-Passing clean through things&. 
-Almost as if they were illusions&. 
+For that matter&, her sword was―
+Passing clean through things&.
+Almost as if they were illusions&.
 
-No&, wrong&. It's the reverse&. 
-The sword itself had no substance&. 
+No&, wrong&. It's the reverse&.
+The sword itself had no substance&.
 
 The people walking in the area didn't stir whatsoever&.
 They couldn't see her sword&.
@@ -1392,15 +1392,15 @@ They couldn't see her sword&.
 	FadeStand("st梢_制服_武器構え青_smile", 0, false);
 	DeleteStand("st梢_制服_武器構え青_shy", 0, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701030ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701030ko">
 "Ding-dong&, ding-dooong&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701040ko">
-"Di-Swords are delusionary swords&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14701040ko">
+"Di-Swords are delusionary swords&."
 
 Now that she mentioned it&, Ayase had said something similar before&.
-Like&, the swords only appear in the eyes of those with the power&. 
+Like&, the swords only appear in the eyes of those with the power&.
 
 Beside me&, Sena let out a weary sigh and bit her Crunchy-kun&.
 
@@ -1412,42 +1412,42 @@ Beside me&, Sena let out a weary sigh and bit her Crunchy-kun&.
 <PRE box00>
 [text018]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701050sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701050sn">
 "Right now&, that Di-Sword is no more than an error Kozue created&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701060sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701060sn">
 "It hasn't achieved the shared recognition of those in the area&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701070ko">
-"If I real-booted it&, everyone would be able to see it&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14701070ko">
+"If I real-booted it&, everyone would be able to see it&."
 
-Real-boot&.&.&.&. 
+Real-boot&.&.&.
 
 Was that the act of "sending particles into nearby people's dead
 spots"?
 Which wasn't to say I understood what a dead spot was&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701080ko">
-"It lets you slish-slash and boom-crash&, too&." 
+<voice name="梢" class="こずえ" src="voice/ch07/14701080ko">
+"It lets you slish-slash and boom-crash&, too&."
 
 Please explain it with something easier to understand than sound
-effects&.&.&.&.
+effects&.&.&.
 
-But I grasped the basic nuances of what she meant&. 
-Slish-slash&.&.&.&. probably signified c<pre>u</pre>tting with her sword&. 
+But I grasped the basic nuances of what she meant&.
+Slish-slash&.&.&. probably signified c<pre>u</pre>tting with her sword&.
 Then would boom-crash be hitting?
 
-What exactly&.&.&.&. was she c<pre>u</pre>tting and hitting? 
-Did Kozu-pii do such frightening things? 
+What exactly&.&.&. was she c<pre>u</pre>tting and hitting?
+Did Kozu-pii do such frightening things?
 
-Me&, too&.&.&.&. 
-Did I&, too&, possess a power like that&.&.&.&. 
+Me&, too&.&.&.
+Did I&, too&, possess a power like that&.&.&.
 
-No&.&.&.&. I'm not unique&. 
-I'm not a Gigalomaniac&. 
+No&.&.&. I'm not unique&.
+I'm not a Gigalomaniac&.
 
 Because&, after all&, I'd failed to acquire a Di-Sword&.
 
@@ -1465,21 +1465,21 @@ Because&, after all&, I'd failed to acquire a Di-Sword&.
 <PRE box00>
 [text019]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701090ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701090ko">
 "You saaaw your sword&, right?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701100ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701100ko">
 "That means you'll get it sooner or later&, Takumi-shan&."
 
-It's impossible&.&.&.&. 
-It had been impossible even up on O-Front&. 
+It's impossible&.&.&.
+It had been impossible even up on O-Front&.
 I'd seen the sword&, but I hadn't understood how to take hold of
-it&.&.&.&.
+it&.&.&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701110ko">
-"Ummm&, if you ask about how to get your hands on it--"
+<voice name="梢" class="こずえ" src="voice/ch07/14701110ko">
+"Ummm&, if you ask about how to get your hands on it―"
 
 {	Stand("bu梢_制服_武器構え青","sad", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_sad", 300, false);
@@ -1491,20 +1491,20 @@ Sena sighed again&.
 	FadeStand("buセナ_制服_食事減る_sigh", 300, false);
 	DeleteStand("buセナ_制服_食事減る_normal", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701120sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701120sn">
 {#TIPS_ニューロン = true;}"When your biorhythms rise&, leading to the excessive secretion of
 dopamine in the <FONT incolor="#88abda"
 outcolor="BLACK">neurons</FONT> of your midbrain limbic system&, your
 Di-Sword will appear&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701130sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701130sn">
 "Depending on the person&, it could be when they're in a hazardous
 situation&, or when they're agitated&, or sad&, or filled with hate&,
 or laughing&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701140sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701140sn">
 "The higher the amount of dopamine produced&, the easier it becomes to
 observe&."
 
@@ -1512,7 +1512,7 @@ observe&."
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_sad", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701150ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701150ko">
 "There you have it&, Takumi-shan&."
 
 The breadth of Sena's knowledge was aberrant&. Maybe she was
@@ -1523,21 +1523,21 @@ across as a "Gigalomaniac scholar" or something&.
 
 First of all&, even if you searched all through Japan&, you'd have a
 hard time finding a high school girl capable of discussing such
-complex theories and technical terminology off the top of her head&.  
+complex theories and technical terminology off the top of her head&.
 
 
-Where on earth had she studied this? 
+Where on earth had she studied this?
 
-Why were such mysterious personages gathering around me? 
+Why were such mysterious personages gathering around me?
 
-Somebody&, show me the answer&. 
+Somebody&, show me the answer&.
 
-I'm too tired of pondering it&. 
+I'm too tired of pondering it&.
 
-It revolted me to remain in this state of half-understanding&. 
+It revolted me to remain in this state of half-understanding&.
 
-But I didn't feel like researching the rest myself&. 
-Because&, come on&, everyone&.&.&.&. none of them are normal&.
+But I didn't feel like researching the rest myself&.
+Because&, come on&, everyone&.&.&. none of them are normal&.
 
 Embracing my bitter thoughts&, I took one last mouthful of my melting
 Crunchy-kun&.
@@ -1551,55 +1551,55 @@ Crunchy-kun&.
 <PRE box00>
 [text020]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14701160ta">
-"Ah&.&.&.&. I won&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14701160ta">
+"Ah&.&.&. I won&."
 
-The popsicle stick was carved with the word "Winner!" 
+The popsicle stick was carved with the word "Winner!"
 Kozu-pii came back and took a look at my hand&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701170ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701170ko">
 "Takumi-shan&, you're amaaaaaazing&."
 
 {	Stand("buセナ_制服_食事減る","normal", 300, @-200);
 	FadeStand("buセナ_制服_食事減る_normal", 300, false);
 	DeleteStand("buセナ_制服_食事減る_sigh", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701180sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701180sn">
 "You have impressive luck&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701190ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701190ko">
 "Sena-shan wanted to be a winner too&, so she's jealous ♪"
 
 {	Stand("buセナ_制服_食事減る","sigh", 300, @-200);
 	FadeStand("buセナ_制服_食事減る_sigh", 300, false);
 	DeleteStand("buセナ_制服_食事減る_normal", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701200sn">
-"&.&.&.&.I thought no such thing&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14701200sn">
+"&.&.&.I thought no such thing&."
 
 I don't think you can fool Kozu-pii that easily&. After all&, she'll
 just read everything you're thinking&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701210ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701210ko">
 "When Sena-shan eats Crunchy-kuns&, she's always soooo excited&,
 wondering if she's gonna be a winner&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701220ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701220ko">
 "Hooow many times have you gotten one?"
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
 	DeleteStand("buセナ_制服_食事減る_sigh", 500, true);
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701230sn">
-"&.&.&.&.&.&.13&.7 percent of the time&."
+<voice name="セナ" class="セナ" src="voice/ch07/14701230sn">
+"&.&.&.&.&.13&.7 percent of the time&."
 
-Sh&, she really had it down&.&.&.&.
-Did she recalculate it every time she ate one&.&.&.&.
+Sh&, she really had it down&.&.&.
+Did she recalculate it every time she ate one&.&.&.
 
 {	Stand("buセナ_制服_食事棒","sigh", 300, @-200);
 	DeleteStand("buセナ_制服_横向_shy", 500, true);
@@ -1610,38 +1610,38 @@ She'd drawn a blank&, huh&. Going by her face&.
 
 {	SetTrigger("３４");}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14701240ta">
-"Uh&, um&.&.&.&. if you'd like it&, here&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14701240ta">
+"Uh&, um&.&.&. if you'd like it&, here&.&.&."
 
 I tentatively held the winning stick toward her&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701250sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701250sn">
 "I have no intention of accepting charity&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701260sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14701260sn">
 "I'm only testing my own possibilities&."
 
 {	Stand("bu梢_制服_武器構え青","normal", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_normal", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_smile", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14701270ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14701270ko">
 "But your heart is saying you waaaant it&."
 
 //◆ため息混じりのブレス
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14701280sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14701280sn">
+"&.&.&.&.&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14701290ta">
-"I&, I'll give it to you&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14701290ta">
+"I&, I'll give it to you&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14701300ta">
-"I&, I don't eat popsicles much&, anyway&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14701300ta">
+"I&, I don't eat popsicles much&, anyway&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

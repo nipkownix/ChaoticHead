@@ -47,7 +47,7 @@ She had cleaning duty&.
 
 It wasn't that we'd promised to go leave school together today&.
 
-But&.&.&.&. I was sure she would&, for me&.
+But&.&.&. I was sure she would&, for me&.
 
 I had already stood here for over fifteen minutes in hopes of that&.
 
@@ -73,14 +73,14 @@ I owed it all to the transfer student&, really&.
 <PRE box00>
 [text002]
 //ÅyèΩÅz
-<voice name="èΩ" class="èΩ" src="ch05/10400010ko">
-"&.&.&.&."
+<voice name="èΩ" class="èΩ" src="voice/ch05/10400010ko">
+"&.&.&."
 
 Speak of the devil&, here she was&, passing beside me&.
 
 //ÅyèΩÅz
-<voice name="èΩ" class="èΩ" src="ch05/10400020ko">
-"&.&.&.&.&.&.&.&.&."
+<voice name="èΩ" class="èΩ" src="voice/ch05/10400020ko">
+"&.&.&.&.&.&.&."
 
 She lowered her head to me with a face that seemed to be on the verge
 of tears&.
@@ -91,7 +91,7 @@ Despite my discomfort&, I somehow succeeded in nodding back&.
 I watched her back as she tripped off toward the school gates&.
 
 Once again&, I thought to myself that she was small&. She had a loli
-physique&. On top of that&, she was klutzy&. I didn't know her well or 
+physique&. On top of that&, she was klutzy&. I didn't know her well or
 anything&, but she appeared to have a wholesome personality&.
 
 Moe traits up the wazoo&.
@@ -99,7 +99,7 @@ Moe traits up the wazoo&.
 But the girls didn't seem to care for her&.
 
 What people value sure differs between the second and third
-dimensions&.&.&.&.
+dimensions&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

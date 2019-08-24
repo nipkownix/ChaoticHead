@@ -26,7 +26,7 @@ function ch01_010_９月３０日火()
 	SystemSet();
 
 
-//☆Cut-61-----------------------------
+//☆Cut-61――――――――――――――――――――――――――――――
 
 //ＢＧ//黒
 	CreateColor("背景１", 100, 0, 0, 800, 600, "Black");
@@ -52,15 +52,15 @@ function ch01_010_９月３０日火()
 [text001]
 //それから丸１日、僕はバゼラードに潜り続けた。食事を取る時間も惜しんで、ひたすら西條拓巳を消してナイトハルトであり続けた。
 Roughly a day later&, I was still immersed in Baselard&. Depriving myself
-of time to eat&, I single-mindedly focused on erasing Nishijou Takumi 
-and existing as Neidhardt&. 
+of time to eat&, I single-mindedly focused on erasing Nishijou Takumi
+and existing as Neidhardt&.
 
 //エンスーでは僕は神だ。悪魔に怯えるようなこともない。みんなが僕を尊敬してくれるんだ。
-In ESO&, I was a god&. There was no need to be frightened by demons&. 
-Everyone revered me&. 
+In ESO&, I was a god&. There was no need to be frightened by demons&.
+Everyone revered me&.
 
 //この居心地のいい世界に永遠にいられたらどんなにいいだろうと、いつも思う。
-I always thought about how wonderful it would be if I could stay 
+I always thought about how wonderful it would be if I could stay
 forever in such a comforting world&.
 
 </PRE>
@@ -85,9 +85,9 @@ forever in such a comforting world&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000010ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000010ta">
 //「ちょ！　お、おおお！　エンジェルハィロゥ、キターー！　キタコレ！　超レア！　すげー！　ふひひ！」
-"Whoa! Oh&, oooooh! There's an Angel Halo here--! It's here! Ultra rare!
+"Whoa! Oh&, oooooh! There's an Angel Halo here-! It's here! Ultra rare!
 Amazing! Hehehe!"
 
 </PRE>
@@ -126,9 +126,10 @@ Neidhardt>ANGEL HALO HAS ARRIVED!!!11!!1!!1{#TIPS_ｋｔｋｒ = true;}
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000020ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000020ta">
 //「こ、これはさっそく使わないと……えーっと、装備装備……」
-"I&, I've gotta hurry up and use this&.&.&.&. Ummm&, equipment&, equipment&.&.&."
+"I&, I've gotta hurry up and use this&.&.&. Ummm&, equipment&,
+equipment&.&.&."
 
 //ＳＥ//扉を乱暴に叩く音30％
 {	CreateSE("SE02","SE_人体_動作_手_扉叩く02_Loop");
@@ -137,12 +138,13 @@ Neidhardt>ANGEL HALO HAS ARRIVED!!!11!!1!!1{#TIPS_ｋｔｋｒ = true;}
 	CreateSE("SE03","SE_音声_七海_おにぃ_Loop");
 	MusicStart("SE03", 0, 300, 0, 1000, null, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000030ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000030ta">
 //「おおお、キャラの見た目変わった！　すげ！　これすげ！　ちょ、見て見て、見ろってグリム！」
-"Ooooh&, my character's appearance changed! Amazing! This is wild! Hey&, look look look&, take a look&, Grim!" 
+"Ooooh&, my character's appearance changed! Amazing! This is wild!
+Hey&, look look look&, take a look&, Grim!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000040ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000040ta">
 //「ん？」
 "Hm?"
 {Wait(500);}
@@ -150,7 +152,7 @@ Neidhardt>ANGEL HALO HAS ARRIVED!!!11!!1!!1{#TIPS_ｋｔｋｒ = true;}
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-62-----------------------------
+//☆Cut-62――――――――――――――――――――――――――――――
 
 //	CreateMovie("ナイトハルト", 100, 0, 0, true, false, "dx/mvNH01.ngs");	
 //	Request("ナイトハルト", Play);
@@ -164,7 +166,7 @@ Neidhardt>ANGEL HALO HAS ARRIVED!!!11!!1!!1{#TIPS_ｋｔｋｒ = true;}
 [text005]
 //エンスーＣＨＡＴ開始
 //ＳＷ＞ナイトハルト自重しろ
-SW>Chill out&, Neidhardt 
+SW>Chill out&, Neidhardt
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(0,0,false);
@@ -175,7 +177,7 @@ SW>Chill out&, Neidhardt
 <PRE @box02>
 [text006]
 //グリム＞ナイトハルト自重しろ
-GRIM>Chill out&, Neidhardt 
+GRIM>Chill out&, Neidhardt
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(0,0,false);
@@ -194,21 +196,21 @@ Sister Centipede>Chill out&, Neidhardt
 //エンスーＣＨＡＴ終了
 
 //演出：ここセリフ分割してみました。
-//☆Cut-63-----------------------------
+//☆Cut-63――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000050ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000050ta">
 //「『ナイトハルト自重しろ』？　うっせー氏ねよ負け組。ふひひひひ」
 "'Neidhardt&, chill out'? Aaah&, shut the hell up and die&, you losers&.
 Hehehehehe&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000060ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000060ta">
 //「ちょっと街に戻って見せびらかしてこようかなぁ」
-"Guess I'll head back to the city and show it off a bit&." 
+"Guess I'll head back to the city and show it off a bit&."
 
 //ＳＥ//扉を乱暴に叩く音5secF/up40％
 {	SetVolume("SE02", 3000, 500, null);
@@ -218,7 +220,9 @@ Hehehehehe&."
 	SoundPlay("ななみ１",0,300,false);
 }
 //ずっと探し求めていた超レアアイテムのひとつが手に入って、僕は興奮状態だった。憂鬱な気分はすっかり吹き飛んでいた。
-Having gotten my paws on an ultra-rare item I'd searching for forever&, I was in hyper mode&. My depression had been completely blown away&. 
+Having gotten my paws on an ultra-rare item I'd searching
+for forever&, I was in hyper mode&. My depression
+had been completely blown away&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -230,24 +234,24 @@ Having gotten my paws on an ultra-rare item I'd searching for forever&, I was in
 
 /*
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000070na">
+<voice name="七海" class="七海" src="voice/ch01/01000070na">
 //「おにぃー」（※後にSE化）
-"Bro--"（※後にSE化）
+"Bro―"（※後にSE化）
 
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000080na">
+<voice name="七海" class="七海" src="voice/ch01/01000080na">
 //「おにぃってば！」（※後にSE化）
 "C'mon&, bro!"（※後にSE化）
 
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000090na">
+<voice name="七海" class="七海" src="voice/ch01/01000090na">
 //「おーい！　開けろー！」（※後にSE化）
-"Heeey! Open up--!"（※後にSE化）
+"Heeey! Open up-!"（※後にSE化）
 
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000100na">
+<voice name="七海" class="七海" src="voice/ch01/01000100na">
 //「おーにーーー！」（※後にSE化）
-"Bro-ooooo---!"（※後にSE化）
+"Bro-ooooo-!"（※後にSE化）
 */
 
 	SoundStop("SE03");
@@ -262,7 +266,8 @@ Having gotten my paws on an ultra-rare item I'd searching for forever&, I was in
 	SoundPlay("ななみ１",0,400,false);
 }
 //エンジェルハィロゥって言えば、ドロップ率０．０００１％っていう幻のアイテムなんだぞ！
-I'm telling you&, an Angel Halo is a phantasmical item with a drop rate of 0&.0001%! 
+I'm telling you&, an Angel Halo is a phantasmical
+item with a drop rate of 0&.0001%!
 
 //ＳＥ//扉を乱暴に叩く音5secF/up50％
 //ＳＥ//七海「おにぃー」音5secF/up50％
@@ -272,20 +277,23 @@ I'm telling you&, an Angel Halo is a phantasmical item with a drop rate of 0&.00
 	SoundPlay("ななみ１",0,600,false);
 }
 //その効果はキャラの外見が変わるだけっていう、ちっとも役に立たないアイテムなんだけど、逆に言えば一目でエンジェルハィロゥを持ってるって周囲に分かるから、羨望の眼差しを受けること間違いなしだ。
-Its only effect is to change your character's appearance&, and it 
-doesn't have any practice use&. But on the flipside&, since those around you could tell at a glance if you had one&, you'd be the object of many envious stares&. 
+Its only effect is to change your character's appearance&, and it
+doesn't have any practice use&.
+
+But on the flipside&, since those around you could tell at a glance
+if you had one&, you'd be the object of many envious stares&.
 
 {	CreateVOICE("ななみ１","ch01/01000100na");
 	SoundPlay("ななみ１",0,800,false);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000110ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000110ta">
 //「ふひひ、やった……ナイトハルトがまた一歩、神に近づいた……！」
-"Hehehe&, I did it&.&.&.&. Neidhardt's gotten another step closer to God!"
+"Hehehe&, I did it&.&.&. Neidhardt's gotten another step closer to God!"
 
 //ＳＥ//七海「おにぃー」停止
 {	SetVolume("ななみ１", 300, 0, NULL);}
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000120na">
+<voice name="七海" class="七海" src="voice/ch01/01000120na">
 //「こーらーぁ！　開ーけーろー！」
 "Look here! O-PEN-UP-!"
 
@@ -297,10 +305,11 @@ doesn't have any practice use&. But on the flipside&, since those around you cou
 	Draw();
 	SetVolume("SE02", 0, 600, null);}
 //うるさいなあ。さっきからドンドンと扉を叩いてるのはどこの誰だ！？
-What a racket&. Who the heck's been pounding at my door!? 
+What a racket&. Who the heck's been pounding at my door!?
 
 //せっかくレアアイテムゲットの喜びに浸ってるって言うのに。僕の邪魔をするなよ……。
-So much for wallowing in the joy of snagging a rare item&. Don't get in my way&.&.&.&.
+So much for wallowing in the joy of snagging a rare item&.
+Don't get in my way&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -312,53 +321,54 @@ So much for wallowing in the joy of snagging a rare item&. Don't get in my way&.
 <PRE box00>
 [text010]
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000130na">
+<voice name="七海" class="七海" src="voice/ch01/01000130na">
 //「バカおにーー！」
-"Bro&, you idiot--!"
+"Bro&, you idiot-!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01000140ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01000140ta">
 //「げ…………」
-"Geh&.&.&.&."
+"Geh&.&.&."
 
 //この声……
-That voice&.&.&.&.
+That voice&.&.&.
 
 //おがみ：ルビ入力
 //聞き覚えのある声を聞いたとたん、僕はげんなりした。
 //間違いない、この声の主は両親が放った刺客――妹の<RUBY text="ななみ">七海</RUBY>だ。めんどくさいことになったぞ。
-I became dejected the second I heard that familiar voice&. 
-No doubt about it&, the voice's owner was the assassin sent out by my 
-parents--my little sister Nanami&. This was going to be a headache&.
+I became dejected the second I heard that familiar voice&.
+No doubt about it&, the voice's owner was the assassin sent out by my
+parents―my little sister Nanami&. This was going to be a headache&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000150na">
+<voice name="七海" class="七海" src="voice/ch01/01000150na">
 //「開けないとひどいんだからねー！」
 "Things'll get real bad if you don't open it!"
 
 //ＳＥ//扉を乱暴に叩く音65％
 {	SetVolume("SE02", 0, 700, null);}
 //く、くそう……。
-S&, shit&.&.&.&.
+S&, shit&.&.&.
 
 //嵐のような時間が始まってしまう。
-A stormy period of time was about to start&. 
+A stormy period of time was about to start&.
 
 //ホントは開けたくないけど、そんなことをしたら今度は両親が駆けつけてきて"やっぱりひとり暮らしはやめて実家に戻ってきなさい"って言われてしまう……。
-I really didn't want to open it&, but if I didn't&, she'd run back to my parents&, and they'd tell me&, "You should give up on living alone&, after
-all&. Come back home&.&.&.&."&.
+I really didn't want to open it&, but if I didn't&, she'd run back to my
+parents&, and they'd tell me&, "You should give up on living alone&,
+after all&. Come back home&.&.&."&.
 
 //ここのビルのオーナーは実質的には父さんだから、圧力をかけて僕を追い出すことなんて朝飯前だろう。
 This building's owner was&, by and large&, my dad&, so he could put enough
-pressure on me to chase me out without so much as breaking a sweat&. 
+pressure on me to chase me out without so much as breaking a sweat&.
 
 //うう、こんな理不尽なことったらないよ……。
-Uuh&, it doesn't get any more unreasonable than this&.&.&.&.
+Uuh&, it doesn't get any more unreasonable than this&.&.&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch01/01000160na">
+<voice name="七海" class="七海" src="voice/ch01/01000160na">
 //「おーーーにーーー！」
-"Bro---ooo---!"
+"Bro――ooo--!"
 
 //ＳＥ//扉を乱暴に叩く音70％
 {	SetVolume("SE02", 0, 1000, null);}
@@ -367,7 +377,7 @@ Uuh&, it doesn't get any more unreasonable than this&.&.&.&.
 Shuuutuuuuuuup!!!
 
 //そんな大声でわめき散らすなよ……。
-Don't wail so loud&.&.&.&.
+Don't wail so loud&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -392,13 +402,13 @@ Don't wail so loud&.&.&.&.
 [text011]
 //扉はいまだに、外から乱暴に叩かれ続けている。
 //コンテナハウスの壁は鉄板一枚だから、音が室内にすごく響く。それを分かっててヤツはわざとやってるんだ。
-She was still violently banging on the door from outside&. 
-The walls of my container housing were made up of a single sheet of 
-iron plating&, so sounds echoed around the room to an amazing extend&. 
-She knew that and was doing it on purpose&. 
+She was still violently banging on the door from outside&.
+The walls of my container housing were made up of a single sheet of
+iron plating&, so sounds echoed around the room to an amazing extend&.
+She knew that and was doing it on purpose&.
 
 //僕はやむなく、内側からかけておいた南京錠の鍵を外し、観音扉を開けた。
-Helpless&, I released the inner padlock and opened the door&. 
+Helpless&, I released the inner padlock and opened the door&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

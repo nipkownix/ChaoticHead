@@ -42,13 +42,13 @@ function ch07_140_梨深のハンカチ()
 [text001]
 Since then&, I'd stopped hearing hallucinations&, but I couldn't stand
 staying in the classroom any longer&, and I spent nearly half the day
-cooped up in the bathroom&, waiting for classes to end&. 
+cooped up in the bathroom&, waiting for classes to end&.
 
 The reason I didn't return to my base right away was because I was
-still attached to the idea of maybe being able to meet Rimi&. 
+still attached to the idea of maybe being able to meet Rimi&.
 
 So&, after classes ended and everyone had gone home&, I snuck back
-into the empty classroom&. 
+into the empty classroom&.
 
 Rimi would be waiting there alone&, and she'd smile when she saw me&,
 and
@@ -57,14 +57,14 @@ and
 	FadeStand("st梨深_制服_通常ビシッ！_angry", 500, true);}
 //ＶＦ//妄想セリフ
 //【梨深】
-<voice name="梨深" class="梨深" src="ch07/14000010ri">
+<voice name="梨深" class="梨深" src="voice/ch07/14000010ri">
 "Salute! Where'd ya go? I was waiting for you&."
 
 {	Stand("st梨深_制服_通常","smile", 600, @0);
 	FadeStand("st梨深_制服_通常_smile", 500, false);
 	DeleteStand("st梨深_制服_通常ビシッ！_angry", 500, true);}
 //【梨深】
-<voice name="梨深" class="梨深" src="ch07/14000020ri">
+<voice name="梨深" class="梨深" src="voice/ch07/14000020ri">
 "Let's leave together&, Taku&."
 
 {	DeleteStand("st梨深_制服_通常_smile", 500, true);
@@ -73,7 +73,7 @@ and
 I thought maybe she'd say that to me&.
 I hoped&, just a little&, for such a development to take place&.
 
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -89,7 +89,7 @@ But--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-No one was in the classroom&. 
+No one was in the classroom&.
 Of course no one was waiting for me&.
 
 </PRE>
@@ -106,40 +106,40 @@ Of course no one was waiting for me&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-I tried going to the courtyard&. 
+I tried going to the courtyard&.
 
-This was where Rimi had told me&, "I'll be there for you&." 
+This was where Rimi had told me&, "I'll be there for you&."
 
 But now no one was there&.
 
 //◆コスモス
 Only the purple flowers blooming in the flowerbed swayed forlornly&,
-blown by the autumn wind&. 
+blown by the autumn wind&.
 
 I took the vermilion handkerchief out of my bag&.
-I had received it from Rimi back then&. 
+I had received it from Rimi back then&.
 
 I experimentally sniffed it&, but because I'd washed it&, the floral
-scent had vanished&. 
+scent had vanished&.
 
 I had the handkerchief&, but not its scent&.
-I had memories of her&, but Rimi wasn't here&. 
+I had memories of her&, but Rimi wasn't here&.
 
 There I was&, wanting to see the girl I'd made up in my head&,
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14000030ta">
-"How far--"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14000030ta">
+"How far―"
 
 Haunting the school building after classes&,
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14000040ta">
-"How far beyond salvation can I get&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14000040ta">
+"How far beyond salvation can I get&.&.&."
 
-Pressing a feminine handkerchief to my lips&. 
+Pressing a feminine handkerchief to my lips&.
 
-It was so damn creepy&, I thought I'd retch&.&.&.&.
+It was so damn creepy&, I thought I'd retch&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

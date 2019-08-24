@@ -107,7 +107,7 @@ banned them from seeing her&, under the justification that it would
 inconvenience those around her&.
 
 There was almost no one else likely come to visit Ayase&, who was
-estranged from her family&. 
+estranged from her family&.
 
 The other band members had shown their faces once&, but when they
 did&, she had been the one to bring up the topic of breaking up&.
@@ -138,7 +138,7 @@ Since then&, they hadn't made any attempts to contact her&.
 <PRE box00>
 [text002]
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch08/15700010hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch08/15700010hd">
 "Kishimoto-saaan&, has the thermometer beeped yet?"
 
 {	SoundPlay("SE01", 1000, 300, true);
@@ -158,16 +158,16 @@ down on the clipboard she had with her&.
 	FadeStand("stu”T_”’ˆß_’Êí_normal", 200, true);
 	DeleteStand("stu”T_”’ˆß_’Êí_smile", 200, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch08/15700020hd">
-"37&.1 degrees&.&.&.&."
+<voice name="—tŒ" class="—tŒ" src="voice/ch08/15700020hd">
+"37&.1 degrees&.&.&."
 
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch08/15700030hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch08/15700030hd">
 "A bit feverish&, maybe&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700040ay">
-"My head&.&.&.&. is throbbing&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700040ay">
+"My head&.&.&. is throbbing&."
 
 Ayase grimaced painfully again&.
 
@@ -175,7 +175,7 @@ Ayase grimaced painfully again&.
 	FadeStand("stu”T_”’ˆß_’Êí_worry", 200, true);
 	DeleteStand("stu”T_”’ˆß_’Êí_normal", 200, false);}
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch08/15700050hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch08/15700050hd">
 "Oh my&, another headache?"
 
 {	Stand("stu”T_”’ˆß_’Êí","smile", 200, @150);
@@ -183,7 +183,7 @@ Ayase grimaced painfully again&.
 	DeleteStand("stu”T_”’ˆß_’Êí_worry", 200, false);}
 //ŸÎŠç
 //y—tŒz
-<voice name="—tŒ" class="—tŒ" src="ch08/15700060hd">
+<voice name="—tŒ" class="—tŒ" src="voice/ch08/15700060hd">
 "But that's one of the medicine's side effects&. It'll get better
 sooner or later&, even if you don't fret about it&."
 
@@ -222,7 +222,7 @@ Back then&, she had been tormented by migraines 24 hours a day&, 365
 days a year&, and her emotions became instable as she lost the ability
 to sleep regularly&.
 
-Memories she didn't want to recall&. 
+Memories she didn't want to recall&.
 The sealed-away past&.
 Memories from over two years ago&.
 
@@ -281,8 +281,8 @@ resounding through the room&.
 //Ÿ¦‚ ‚â‚¹‚P‚SÎ‚­‚ç‚¢‚È‚Ì‚Å‚¿‚å‚Á‚Æ—c‚ß‚Å
 //Ÿ‹¶‚Á‚½‚æ‚¤‚È‚¤‚ß‚«º
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700070ay">
-"Aah&.&.&.&. Aaaaaaahhhh"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700070ay">
+"Aah&.&.&. Aaaaaaahhhh"
 
 Drool hung from the corner of her mouth&, and she let out a beastly
 cry one would find it difficult to associate with a girl of tender
@@ -291,12 +291,12 @@ years&.
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //Ÿ¦‚ ‚â‚¹‚P‚SÎ‚­‚ç‚¢‚È‚Ì‚Å‚¿‚å‚Á‚Æ—c‚ß‚Å
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700080ay">
-"Kill me--"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700080ay">
+"Kill me\"
 
 //Ÿ¦‚ ‚â‚¹‚P‚SÎ‚­‚ç‚¢‚È‚Ì‚Å‚¿‚å‚Á‚Æ—c‚ß‚Å
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700090ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700090ay">
 "Kill meeee"
 
 It was a very quiet form of torture&.
@@ -361,8 +361,8 @@ And as these assaulted her&, she could no longer stay sane&.
 <PRE box00>
 [text006]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700100ay">
-"&.&.&.&.Haa&.&.&.&. hah&.&.&.&. ah&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700100ay">
+"&.&.&.Haa&.&.&. hah&.&.&. ah&.&.&."
 
 Breaking out of her reverie&, Ayase clenched the sheets as she
 panted&, over and over&.
@@ -385,24 +385,24 @@ past&.
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_©•ª•ø‚«‚µ‚ß_sad", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_©•ª•ø‚«‚µ‚ß_ero", 0, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700110ay">
-"Fu&, fufu&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700110ay">
+"Fu&, fufu&.&.&."
 
 As she wiped away the sweat seeping from her forehead&, Ayase laughed
 self-disparagingly&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700120ay">
-"I don't mind&.&.&.&. what they do to me now&, after all this
-time&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700120ay">
+"I don't mind&.&.&. what they do to me now&, after all this
+time&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700130ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700130ay">
 "Because I endured it to the end&, I endured that divine
-punishment&.&.&.&."
+punishment&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700140ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700140ay">
 "I'll no longer go astray&."
 
 {	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_©•ª•ø‚«‚µ‚ß_sad", 500, true);}
@@ -432,7 +432,7 @@ The knock on the door made Ayase press her lips together&.
 	SoundPlay("SE02", 0, 1000, false);}
 //‚r‚d//•aº‚ÌƒhƒA‚ğŠJ‚¯‚é‰¹
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700150su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700150su">
 "'Scuse me&."
 
 {	Stand("stŒì_ƒX[ƒc_’Êí","normal", 200, @150);
@@ -446,8 +446,8 @@ hand&.
 	CreateSE("SE02","SE_“úí_•aºƒhƒA_•Â‚Ü‚é");
 	SoundPlay("SE02", 0, 1000, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700160ay">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700160ay">
+"&.&.&.&.&.&.&.&."
 
 Ayase remembered seeing him somewhere before&. Therefore&, she
 regarded him with caution in her eyes&.
@@ -456,12 +456,12 @@ regarded him with caution in her eyes&.
 	FadeStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);
 	DeleteStand("stŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700170su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700170su">
 "Nice to meetcha&. Ah&, you don't have to get suspicious or anything&,
-all right? I'm--"
+all right? I'm\"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700180ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700180ay">
 "I know&."
 
 He was a detective from the police station&.
@@ -475,17 +475,17 @@ The detective scratched his head happily&.
 His demeanor was quite carefree&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700190su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700190su">
 "Maaaan&, that brightens my day&. Having a beauty like you remember
 me&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700200su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700200su">
 "You must have a good memory&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700210ay">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700210ay">
+"&.&.&.&.&.&.&.&."
 
 {	DeleteStand("stŒì_ƒX[ƒc_’Êí_normal", 500, false);}
 The detective walked up to the bed&.
@@ -514,22 +514,22 @@ out her hand&.
 <PRE box00>
 [text008]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700220su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700220su">
 "I've come to pay you a get-well visit&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700230ay">
-"&.&.&.&.Hard to believe&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700230ay">
+"&.&.&.Hard to believe&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700240ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700240ay">
 "Your goal?"
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700250su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700250su">
 "Y&, you're a sharp one&."
 
 The detective recoiled exaggeratedly&.
@@ -539,16 +539,16 @@ There was something theatrical in his attitude&.
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700260su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700260su">
 "Well&, there's a little something I'd like to ask you about&,
 Ayase-chan&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700270ay">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700270ay">
+"&.&.&.&.&.&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700280su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700280su">
 "Ah&, here&, if you don't mind&, I'd love it if you ate some&."
 
 With an innocent smile&, the detective held out the basket he was
@@ -559,38 +559,39 @@ consent&.
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700290su">
-"It's tasty&. And&.&.&.&. expensive&.&.&.&.&. tohohoh&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700290su">
+"It's tasty&. And&.&.&. expensive&.&.&.&. tohohoh&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700300ay">
-"&.&.&.&.I don't want it&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700300ay">
+"&.&.&.I don't want it&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700310su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700310su">
 "Aww&, don't say that&. I even bought it for you and everything&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700320su">
-"Have your mom c<pre>u</pre>t some up for you later&, when she comes to visit&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700320su">
+"Have your mom c<pre>u</pre>t some up for you later&, when she
+comes to visit&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700330ay">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700330ay">
+"&.&.&.&.&.&.&.&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700340su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700340su">
 "Ah&, cr&, crap&. That's right&, you haven't seen your parents for
-years now&.&.&.&."
+years now&.&.&."
 
 Ayase felt nothing in particular&, even in response to the detective's
-air of feigned innocence&.  
+air of feigned innocence&.
 
 She'd severed ties with her parents when she was young&.
 
@@ -602,7 +603,7 @@ There technically remained a connection between her and them&. Every
 month&, money for living expenses got added to her bank account&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700350su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700350su">
 "I'm terribly sorry&."
 
 {	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
@@ -623,22 +624,22 @@ detective&, and so she moved to hasten the conversation&.
 <PRE box00>
 [text009]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700360ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700360ay">
 "What is it you want to ask?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700370ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700370ay">
 "My alibi?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700380su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700380su">
 "Nothing like that&. Besides&, you told us all about it before&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700390su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700390su">
 "Any doubts about you have been totally cleared&. You're innocent&.
 One hundred percent innocent&."
 
@@ -646,29 +647,29 @@ One hundred percent innocent&."
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 0, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700400ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700400ay">
 "Have you got a mark?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700410ay">
-"--On the criminal&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700410ay">
+"\On the criminal&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","hard", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700420su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700420su">
 "I can't tell you&. It's a classified part of our investigation&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700430ay">
-"&.&.&.&.Takumi?"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700430ay">
+"&.&.&.Takumi?"
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700440su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700440su">
 "It's a secret&."
 
 The detective was smiling&.
@@ -681,23 +682,23 @@ that remained unrefined&.
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700450su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700450su">
 "Still&, Nishijou-kun is a pretty strange kid&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700460su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700460su">
 "When you look at him&, it's hard to think he's a murder suspect&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","hard", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700470su">
-"If he were the true criminal&.&.&.&.
+<voice name="z–K" class="z–K" src="voice/ch08/15700470su">
+"If he were the true criminal&.&.&.
 he'd be a devil in human skin indeed!"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700480ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700480ay">
 "He's still a suspect&, isn't he&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
@@ -705,7 +706,7 @@ he'd be a devil in human skin indeed!"
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //ŸŒy‚¢ƒmƒŠ‚Å”Û’è
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700490su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700490su">
 "Nah&, that's not really the case&, you know?"
 
 Even as Ayase persisted in pointing it out to him&, the detective
@@ -723,34 +724,34 @@ laughed and denied it at once&.
 <PRE box00>
 [text010]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700500su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700500su">
 "Ah&, you can't tell anyone about what I just said&, okay&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700510ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700510ay">
+"&.&.&.&.&.&.&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700520su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700520su">
 "My bosses are gonna get pissed if I leak information&. Well&, but
 that's to be expected&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700530su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700530su">
 "They were totally furious at my senior a little before&, too&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700540su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700540su">
 "I think you've met him once&, but I wonder if you remember him&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700550su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700550su">
 "A scruffy-haired&, unshaven old detective called Ban-san&."
 
 Ayase remembered&.
@@ -761,38 +762,38 @@ spoken far more often than the young detective here now&.
 And his manner of speech had been considerably persistent&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700560su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700560su">
 "He's quick to yell 'Fool!' at me&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700570su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700570su">
 "For all that&, he doesn't look up what he was originally supposed to
 be investigating&, and instead he goes off to research all this stuff
 that doesn't make any sense&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700580su">
-"In the end&, he forces me to go along with him&, too&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700580su">
+"In the end&, he forces me to go along with him&, too&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700590su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700590su">
 "My stomach's been hurting lately~"
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700600su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700600su">
 "No&, well&, he's a good guy underneath it all&, and he's got amazing
 intuition&, and he's a sharp thinker&, and apparently he helped a
-solve a bunch of tough cases in the past&.&.&.&."
+solve a bunch of tough cases in the past&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700610ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700610ay">
 "You came here"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700620ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700620ay">
 "To talk about such things?"
 
 When Ayase interrupted him&, the detective smiled wryly&.
@@ -809,16 +810,16 @@ When Ayase interrupted him&, the detective smiled wryly&.
 <PRE box00>
 [text011]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700630su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700630su">
 "Ah&, no&. My bad&. I didn't realize I'd started griping&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700640su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700640su">
 "I'd like you to keep everything I said secret&. It's the biggest
 request I&, Suwa Mamoru&, will ever make!"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700650ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700650ay">
 "And?"
 
 {	SoundPlay("SE01", 2000, 0, false);
@@ -826,7 +827,7 @@ request I&, Suwa Mamoru&, will ever make!"
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700660su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700660su">
 "Errr&, the first thing is"
 
 {	MusicStart("@CH12", 3000, 1000, 0, 1000, null, true);
@@ -834,35 +835,35 @@ request I&, Suwa Mamoru&, will ever make!"
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700670su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700670su">
 "Why did you do it?"
 
 Ayase understood that he was referring to how she'd jumped from the
 school roof&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700680ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700680ay">
 "I've talked about it over and over&. To other detectives&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700690su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700690su">
 "To block the resurrection of the evil king Gladioul&, right?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700700ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700700ay">
 "I hadn't planned on dying&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700710ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700710ay">
 "I only meant to carry my soul to a higher stage&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","hard", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700720su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700720su">
 "Didn't you say something similar in your song&, the one that's such
-a hot topic among all the young people out there?" 
+a hot topic among all the young people out there?"
 
 This was his second question&.
 Ayase took a small breath&.
@@ -871,34 +872,34 @@ Ayase took a small breath&.
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_normal", 200, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 100, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700730ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700730ay">
 "That poem isn't about New-Gen&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700740ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700740ay">
 {#TIPS_ƒOƒ‰ƒWƒI[ƒ‹EƒT[ƒK = true;}"I was inspired by chapter 3&, verse 102 of the <FONT
 incolor="#88abda" outcolor="BLACK">Gladioul Saga</FONT>&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700750ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700750ay">
 "The evil king Gladioul is attempting to materialize in the world&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700760ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700760ay">
 "Seven stakes&, created from the black bloody shed by Gladioul&, are
 needed to block his resurrection&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700770ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700770ay">
 "The stakes transform into swords and arrive in the hands of the seven
 black knights who have overcome celestial punishment&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700780ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700780ay">
 "An eye for an eye&. A tooth for a tooth&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700790ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700790ay">
 "Only humans burdened by evil hearts can destroy the evil king
 Gladioul&."
 
@@ -906,14 +907,14 @@ Gladioul&."
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700800su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700800su">
 "It&, it kinda sounds like a movie&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700810su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700810su">
 "I love that sort of epic setting!"
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 250, @-200);
@@ -922,11 +923,11 @@ Gladioul&."
 Ayase narrowed her eyes when the detective gave her his impressions&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700820ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700820ay">
 "It's not a 'setting&.'"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700830ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700830ay">
 "It's reality&."
 
 </PRE>
@@ -941,7 +942,7 @@ Ayase narrowed her eyes when the detective gave her his impressions&.
 <PRE box00>
 [text012]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700840su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700840su">
 "My final question&, then&."
 
 The detective let Ayase's objection slide without comment&.
@@ -951,7 +952,7 @@ Up until the present&, there had not been a single person who believed
 Ayase's story&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700850su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700850su">
 "We're looking into several Suimei students besides you and
 Nishijou-kun&."
 
@@ -959,10 +960,10 @@ Nishijou-kun&."
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700860su">
-"Nn~&.&.&.&.&.&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700860su">
+"Nn~&.&.&.&.&.&.&."
 
-The detective folded his arms and groaned&. 
+The detective folded his arms and groaned&.
 
 This too seemed theatrical&, but Ayase had no intention of saying so
 to him&.
@@ -971,44 +972,44 @@ to him&.
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 200, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 100, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700870ay">
-"&.&.&.&.What?"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700870ay">
+"&.&.&.What?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700880su">
-"Umm&, this is an incredibly stupid question&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700880su">
+"Umm&, this is an incredibly stupid question&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700890su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700890su">
 "It really isn't the kind of thing a detective ought to be
-asking&.&.&.&."
+asking&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700900su">
-"You could say it's totally childish&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch08/15700900su">
+"You could say it's totally childish&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700910ay">
-"I see&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700910ay">
+"I see&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700920ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700920ay">
 "If you don't feel like asking&, then leave&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700930ay">
-"My head&.&.&.&. aches&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700930ay">
+"My head&.&.&. aches&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","hard", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_hard", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700940su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700940su">
 "Ah&, no&, the truth is&, Ban-san's been saying something weird&."
 
 {	MusicStart("@CH*", 1000, 0, 0, 1000, null, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700950su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700950su">
 "That maybe the lots of you are magic-users&."
 
 {	CreateSE("SE01","SE_”wŒi_•a‰@_Loop");
@@ -1034,18 +1035,18 @@ you&."
 [text013]
 //ŸƒoƒJ‚É‚µ‚½‚æ‚¤‚É
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700960su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700960su">
 "He's wrong&, isn't he?"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700970ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700970ay">
+"&.&.&.&.&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-200);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 200, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 100, false);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15700980ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700980ay">
 "I can use magic&."
 
 Ayase answered without looking at the detective&, instead gazing at
@@ -1056,15 +1057,15 @@ her own hand laid atop the sheets&.
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //Ÿˆ¤‘zÎ‚¢
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15700990su">
+<voice name="z–K" class="z–K" src="voice/ch08/15700990su">
 "Hahaha&, you sure are an interesting one&, Ayase-chan&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15701000ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15701000ay">
 "But"
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch08/15701010ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15701010ay">
 "New-Gen has nothing to do with the knights of Gladioul&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
@@ -1072,11 +1073,11 @@ her own hand laid atop the sheets&.
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //ŸM‚¶‚Ä‚È‚¢‚æ‚¤‚È‘fU‚è
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701020su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701020su">
 "Haa&, that so?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701030su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701030su">
 "Well&, not that it matters much either way&."
 
 {	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 400, false);}
@@ -1094,12 +1095,12 @@ Flustered&, he took his cell phone out of his suit pocket&.
 	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701040su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701040su">
 "Dang&, cell phone use isn't allowed in hospitals&. I forgot to turn
 the power off&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701050su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701050su">
 "Uwah&, and it's from my lady&, too&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
@@ -1107,7 +1108,7 @@ the power off&."
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //ƒJƒmƒWƒ‡—tŒ
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701060su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701060su">
 "Heheh&, I have a lovey-dovey girlfriend who I've been going out with
 for four years now~"
 
@@ -1121,11 +1122,11 @@ He then faced Ayase anew&.
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701070su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701070su">
 "Do you watch many movies&, Ayase-chan?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701080su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701080su">
 "D'you know about 'Spark Wars'? The ringtone just now was the theme
 song for one of the characters in it&, Count Darth Spider&."
 
@@ -1137,21 +1138,21 @@ answer this detective's questions&, she fell silent and shifted her
 gaze to beyond the window&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701090su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701090su">
 "To tell you the truth&, I'm a 'Spark Wars' otaku~"
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701100su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701100su">
 "Ah&, not interested&, huh? Sorry about that&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @200);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 200, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 200, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch08/15701110su">
+<voice name="z–K" class="z–K" src="voice/ch08/15701110su">
 "Anyhoo&, I'm off&."
 
 </PRE>

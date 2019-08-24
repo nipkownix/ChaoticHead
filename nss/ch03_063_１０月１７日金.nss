@@ -59,8 +59,8 @@ function ch03_063_１０月１７日金()
 <PRE box00>
 [text001]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06300010ta">
-"Afaah&.&.&.&. About time to sleep&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/06300010ta">
+"Afaah&.&.&. About time to sleep&.&.&."
 
 {	CreateSE("SE02","SE_日常_家具_イス_軋");
 	SoundPlay("SE02", 0, 1000, false);
@@ -71,7 +71,7 @@ yawn&.
 Today&, too&, I'd spent ages hunting in ESO&, but no monsters had
 dropped the rare item I'd been looking for&.
 
-No success&, even after pulling an eight-hour marathon&.&.&.&.
+No success&, even after pulling an eight-hour marathon&.&.&.
 Well&, but this kind of thing happened a lot&.
 
 I glanced quickly at the side of my desk&.
@@ -81,7 +81,7 @@ enough that I could take it up at any time&.
 
 On a side note&, this sword didn't radiate any light whatsoever&. I
 was hoping that&, sooner or later&, it would metamorphose into one
-with as cool a shape as Sena's&, but&.&.&.&.
+with as cool a shape as Sena's&, but&.&.&.
 
 Inside my monitor&, Grim's avatar happened to be right in the middle
 of leveling up&. My Neidhardt had reached the maximum level&, so he
@@ -91,14 +91,14 @@ Rubbing my sleepy eyes&, I thought to myself that maybe it was getting
 to be time for me to create my next character&, the third after
 Liselotte&.
 
-Experience points&.&.&.&. huh&.
+Experience points&.&.&. huh&.
 
 It was a familiar enough concept in RPGs&, but I thought experience
-points also existed in real life&. 
+points also existed in real life&.
 
-When I first started ESO&, even I was a baby who didn't know right 
-from left&, but now I could boast of being the strongest in Baselard&, 
-with my name of "Neidhardt der Blitzschnelle" known all throughout 
+When I first started ESO&, even I was a baby who didn't know right
+from left&, but now I could boast of being the strongest in Baselard&,
+with my name of "Neidhardt der Blitzschnelle" known all throughout
 the land&.
 
 </PRE>
@@ -115,7 +115,7 @@ the land&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-For example--
+For example―
 
 It wasn't unthinkable that the person behind me might&, by some
 chance&, happen to lose some of the experience points he'd build up&.
@@ -127,22 +127,22 @@ same source&.
 And then there was "Shogun" and the demon girl&.
 
 Before my experience points got cleared&, perhaps it had been
-perfectly normal for me--the person behind me--to post under the
+perfectly normal for me―the person behind me―to post under the
 handle of "Shogun" in chats&, and to spend time IRL with the demon
-girl--with Rimi&.
+girl―with Rimi&.
 
 No&, that was certainly improbable&.
 
 But in the past&, I might've possessed a power capable of letting me
 square off with that demon girl&.
 
-Was I the only person who had thoughts like this? 
+Was I the only person who had thoughts like this?
 Although I also felt like it wasn't a particularly strange or
 mysterious way of thinking&.
 
 Because the only thing human beings have to go by are the fundamental
 standards they've come up with all on their own&, maybe even now
-I--not just me&, but everyone in the whole world--was judging
+I―not just me&, but everyone in the whole world―was judging
 everything wrong while living out my day-to-day life&.
 
 </PRE>
@@ -172,7 +172,7 @@ cavity&. But even with the exact same level of pain&, there might be
 people who could bear it and people who couldn't&.
 
 In other words&, I suspected that people might be utterly different in
-how they recognized and experienced such sensations&. 
+how they recognized and experienced such sensations&.
 
 Take giving birth&, for instance&.
 Online&, I'd often seen people saying that though women are able to
@@ -189,15 +189,15 @@ those who feel pleasure when others hurt them&.
 
 In short&, I figured that the way people felt things&, and the
 strength of their inner nature&, their ability to put up with it&,
-varied from person to person&. 
+varied from person to person&.
 
 Perhaps the level of pain in the toothaches and headaches I endured
 from time to time in truth far surpassed the range of pain an ordinary
-person could take&, 
+person could take&,
 
-and if I passed the same level of pain on to someone else in the 
-same manner as a relay runner passing on his baton&, the agony 
-of it would make them go into shock and die&.&.&.&.
+and if I passed the same level of pain on to someone else in the
+same manner as a relay runner passing on his baton&, the agony
+of it would make them go into shock and die&.&.&.
 
 The conclusion this led to was the selfish delusion that maybe I was a
 very special type of human being&.
@@ -212,8 +212,8 @@ very special type of human being&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06300020ta">
-"A very special type of human being&.&.&.&. What'm I making a big deal
+<voice name="拓巳" class="拓巳" src="voice/ch03/06300020ta">
+"A very special type of human being&.&.&. What'm I making a big deal
 out of?"
 
 Though I'd rejected that idea&, surely everyone had these kinds of
@@ -230,7 +230,7 @@ being self-centered&. Of course I&, too&, had those kinds of desires&.
 
 Indeed&, it might be my destiny to defeat the demon girl&.
 
-But then&, if I were told to carry that out in real life--I'd require
+But then&, if I were told to carry that out in real life―I'd require
 that a number of conditions be met first&.
 
 At the least&, the one thing I really needed was the ability to use
@@ -238,11 +238,11 @@ cheat codes&. For stuff like secret attacks&, or perhaps "invincible
 mode&."
 I didn't want to undergo any pain or fear&.
 
-If I couldn't do that--if&, in other words&, I was supposed to do it
+If I couldn't do that―if&, in other words&, I was supposed to do it
 with my own power&, I definitely wouldn't&.
 
 Which was why&, if the person behind me accidentally let my experience
-points get wiped&, it could cause me tremendous damage&.&.&.&.
+points get wiped&, it could cause me tremendous damage&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■EXTRA [CG Gallery]■
 //=============================================================================//
@@ -107,6 +109,15 @@ chapter main
 			case CG_18{show_pic(18);}
 			case CG_19{show_pic(19);}
 			case CG_20{show_pic(20);}
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}
 		}
 	}
 	Fade("BLK",300,1000,null,false);

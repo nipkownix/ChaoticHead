@@ -45,29 +45,29 @@ function ch09_184_消えてしまいたい()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-I had lost all energy&. 
+I had lost all energy&.
 Before I knew it&, I was at my base&.
 
-I didn't have clear memories of how I'd gotten back here 
+I didn't have clear memories of how I'd gotten back here
 After failing to die on Yamanote Street&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18400010ta">
-"I wonder&.&.&.&. who carried this container up here&, and
-how&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18400010ta">
+"I wonder&.&.&. who carried this container up here&, and
+how&.&.&."
 
 A question that hadn't so much as occurred to me before now&. When I
 thought about it anew&, all these things that seemed a tad odd to me
-kept catching my notice&. They increasingly cornered me&. 
+kept catching my notice&. They increasingly cornered me&.
 
-Once I closed the door&, the room's interior went pitch-black&. 
-Leaning up against the door&, I stood motionless&. 
+Once I closed the door&, the room's interior went pitch-black&.
+Leaning up against the door&, I stood motionless&.
 
 All that echoed through the quiet room was the sound of my PC's fan
-humming and the sound of my shallow breathing&. 
+humming and the sound of my shallow breathing&.
 
 I'd thought maybe&, in the darkness&, I wouldn't have to be as
-conscious of my hideous self&, but it had the reverse effect&. 
+conscious of my hideous self&, but it had the reverse effect&.
 
 In part because I couldn't see anything&, and it was so very quiet&,
 the cruel things Rimi had said to me played on endless repeat in my
@@ -79,16 +79,16 @@ head&.
 
 //ＶＦ//回想セリフ
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch09/18400020ri">
-//"You are&.&.&.&. a delusionary existence&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&.&. a delusionary existence&.");
+//<voice name="梨深" class="梨深" src="voice/ch09/18400020ri">
+//"You are&.&.&. a delusionary existence&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("テキスト１", 0, @13, @0, null, true);
 
 	CreateVOICE("梨深","ch09/18400020ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are&.&.&.&. a delusionary existence&.", "voice/ch09/18400020ri", 梨深);
+	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/18400020ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -105,15 +105,15 @@ head&.
 <PRE box00>
 [text002]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18400030ta">
-"Uuu&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18400030ta">
+"Uuu&.&.&."
 
-My own moan sounded helplessly repellent to me&. It gave me nausea&. 
+My own moan sounded helplessly repellent to me&. It gave me nausea&.
 
 Given that I was already repulsive enough&, I'd be beyond saving if my
-existence itself were the stuff of a freak show&. 
+existence itself were the stuff of a freak show&.
 
-I wanted to disappear--
+I wanted to disappear―
 
 Tripping over the trash scattered across the floor&, I crept my way
 toward the back of the room&.
@@ -159,7 +159,7 @@ I clenched Seira-tan with trembling hands&.
 Harder&, harder&.
 Perhaps enough to break her&.
 
-I wanted to disappear--
+I wanted to disappear―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

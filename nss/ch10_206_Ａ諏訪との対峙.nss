@@ -51,8 +51,8 @@ function ch10_206_‚`z–K‚Æ‚Ì‘Î›³()
 <PRE box00>
 [text001]
 //y½z
-<voice name="½" class="½" src="ch10/20600010ko">
-"&.&.&.&.Takumi-shan!"
+<voice name="½" class="½" src="voice/ch10/20600010ko">
+"&.&.&.Takumi-shan!"
 
 Kozu-pii cried out&.
 Not just in her heart; in reality&.
@@ -61,7 +61,8 @@ out loud&.
 
 It was thanks to Kozu-pii that I'd managed to come running here&.
 
-While near the police box atop Dougen Hill&, I had distinctly heard her inner screams for help in my head&.
+While near the police box atop Dougen Hill&, I had distinctly heard
+her inner screams for help in my head&.
 
 And once I ran off&, relying on her voice&,
 
@@ -69,13 +70,13 @@ And once I ran off&, relying on her voice&,
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-	SetBacklog("There was Sena&, going white as she was forced to witness a delusion I couldn't see&, Kozu-pii&, and--Hatano-san&, blood-drenched and fallen&.", "NULL", NULL);
+	SetBacklog("There was Sena&, going white as she was forced to witness a delusion I couldn't see&, Kozu-pii&, and\Hatano-san&, blood-drenched and fallen&.", "NULL", NULL);
 
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text900]
 There was Sena&, going white as she was forced to witness a delusion
-I couldn't see&, Kozu-pii&, and--Hatano-san&, blood-drenched and fallen&.
+I couldn't see&, Kozu-pii&, and\Hatano-san&, blood-drenched and fallen&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -90,40 +91,41 @@ I couldn't see&, Kozu-pii&, and--Hatano-san&, blood-drenched and fallen&.
 	Stand("stŒì_ƒX[ƒc_’Êí","normal", 200, @+150);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_normal", 500, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600020su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600020su">
 "Man&, here's a stroke of luck&."
 
 A man stood near the crossing with a revolver in his hand&.
 
-Maybe he thought he was some kind of gunman&, going by how he twirled 
+Maybe he thought he was some kind of gunman&, going by how he twirled
 his gun around and around in his fingers&.
 
-Though he was in a suit&, he also wore a rucksack&, and from within it 
+Though he was in a suit&, he also wore a rucksack&, and from within it
 reverberated a nasty mechanical noise&.
 
-Suwa Mamoru&. A detective in the investigative department at police headquarters&.
-I had met this man before&.
+Suwa Mamoru&. A detective in the investigative department at police
+headquarters&. I had met this man before&.
 
-And--I knew what this man had done&.
+And\I knew what this man had done&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600030su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600030su">
 "Originally&, I'd just come to get rid of them eyesore Hatanos&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600040su">
-"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire of your own accord for me&."
+<voice name="z–K" class="z–K" src="voice/ch10/20600040su">
+"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire of your
+own accord for me&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600050su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600050su">
 "See&, they told me to grab ya if I spotted you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600060ta">
-"Who told you&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600060ta">
+"Who told you&.&.&.?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600070su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600070su">
 "It's secret&."
 
 A flippant smile&.
@@ -134,7 +136,8 @@ But there was a decisive difference between them&.
 Detective Ban's smile had been a performance&,
 Meant to set the other person off-guard&, or else irritate them&.
 
-When it came to Suwa&, on the other hand&, this sly smile itself was his true nature&.
+When it came to Suwa&, on the other hand&, this sly smile itself was
+his true nature&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -144,53 +147,53 @@ When it came to Suwa&, on the other hand&, this sly smile itself was his true na
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600080ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600080ta">
 "Hey you&, do you know where Norose is?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600090su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600090su">
 "Look here&, Nishijou-kun&."
 
 Suwa shook his head exaggeratedly and let out a sigh&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600100su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600100su">
 "I'd like you to be a teensy bit more careful about how you talk&.
 I'm your elder&, ya know?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600110ta">
-"Ban&.&.&.&. you're the one who killed him&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600110ta">
+"Ban&.&.&. you're the one who killed him&.&.&."
 
 //Ÿš}Î
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600120su">
-"&.&.&.&.So what?"
+<voice name="z–K" class="z–K" src="voice/ch10/20600120su">
+"&.&.&.So what?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600130ta">
-"Killing someone&, even though you're a detective&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600130ta">
+"Killing someone&, even though you're a detective&.&.&."
 
 //Ÿš}Î
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600140su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600140su">
 "I'd rather not hear it from you&, man&."
 
 I clenched my Di-Sword tightly&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600150ta">
-"I have no obligation to use honorifics&.&.&.&. with a prick like you&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600150ta">
+"I have no obligation to use honorifics&.&.&. with a prick like you&."
 
 {	Stand("stŒì_ƒX[ƒc_’Êí","hard", 200, @+150);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stŒì_ƒX[ƒc_’Êí_normal", 0, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600160su">
-"Hm--m&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch10/20600160su">
+"Hm\m&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600170su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600170su">
 "You think it's okay to talk down at me like that?"
 
 </PRE>
@@ -207,8 +210,8 @@ I clenched my Di-Sword tightly&.
 //ŸˆÈ‰ºAz–K‚ÌŒû’²‚ª•Ï‚í‚è‚Ü‚·
 //Ÿ‰Ÿ‚µE‚µ‚½“{‚è
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600180su">
-"&.&.&.&.I'm gonna fucking kill you&, cherry-boy&."
+<voice name="z–K" class="z–K" src="voice/ch10/20600180su">
+"&.&.&.I'm gonna fucking kill you&, cherry-boy&."
 
 I could tell clearly&, even from this distance&.
 The smile had disappeared from Suwa's face&.
@@ -239,8 +242,8 @@ He made an unexpected gesture&, as if he were shaking out his free hand&.
 <PRE box00>
 [text005]
 //y½z
-<voice name="½" class="½" src="ch10/20600190ko">
-"Takumi-shan&, watch out&.&.&.&.!"
+<voice name="½" class="½" src="voice/ch10/20600190ko">
+"Takumi-shan&, watch out&.&.&.!"
 
 {	CreateSE("SE02","SE_‹[‰¹_Y_“Ë‚«h‚³‚é");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
@@ -254,8 +257,8 @@ He made an unexpected gesture&, as if he were shaking out his free hand&.
 	Delete("back10");}
 //‚r‚d//Y‚ª‘ñ–¤‚É“Ë‚«h‚³‚é
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20600200ta">
-"&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20600200ta">
+"&.&.&.!?"
 
 {	Fade("back05", 500, 0, null, true);
 	Delete("back05");}
@@ -269,11 +272,11 @@ A familiar cross was protruding from it&.
 No&. Not a cross&.
 This was a stake&.
 
-One of the cross-shaped stakes that had been used in the "staking" 
+One of the cross-shaped stakes that had been used in the "staking"
 incident&.
 
 It'd come too fast for me to see it&.
-The dimness of the premises also contributed to how I'd completely 
+The dimness of the premises also contributed to how I'd completely
 failed to notice it flying at me&.
 
 Suwa had thrown it&.
@@ -304,13 +307,13 @@ I couldn't hold onto my Di-Sword&.
 {	Stand("buŒì_ƒX[ƒc_’Êí","cool", 200, @+150);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_cool", 500, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600210su">
-"I'll recreate it for you&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch10/20600210su">
+"I'll recreate it for you&.&.&."
 
 Suwa spoke in a voice tense with repressed fury&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch10/20600220su">
+<voice name="z–K" class="z–K" src="voice/ch10/20600220su">
 "The 'staking' incident&."
 
 </PRE>

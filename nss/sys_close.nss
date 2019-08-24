@@ -10,7 +10,7 @@ chapter main
 		}
 	}
 	
-	if(!$PLACE_title&&!$SL_Exit&&!$SYSTEM_menu_config_enable&&!$SYSTEM_backlog_enable&&!$SYSTEM_menu_save_enable&&!$SYSTEM_menu_load_enable&&!$tps_close){
+	if(!$PLACE_title&&!$SL_Exit&&!$SYSTEM_menu_config_enable&&!$SYSTEM_backlog_enable&&!$SYSTEM_menu_save_enable&&!$SYSTEM_menu_load_enable&&!$SYSTEM_tips_enable){
 		CreateWindow("WND",1010000,0,51,800,419,false);
 	}else{
 		CreateWindow("WND",1010000,0,0,800,600,false);
@@ -66,6 +66,8 @@ chapter main
 	select{
 		if($SYSTEM_r_button_down){break;}
 		case	WND/MSG_no{
+				$SYSTEM_buttondown_close=false;
+				$SYSTEM_keydown_esc=false;
 		}case	WND/MSG_yes{
 			CreateColor("BLACK",1112000,center,middle,800,600,BLACK);
 			Fade("BLACK",0,0,null,true);

@@ -40,32 +40,32 @@ function ch04_093_集団ダイブの映像()
 <PRE box00>
 [text001]
 It felt like it'd been a while&, since the last time I'd gone back to
-my base&. In reality&, though&, I'd only been away for half a day&. 
+my base&. In reality&, though&, I'd only been away for half a day&.
 
 I'd left my PC on&, and the Seira-tan in my screen saver radiated pale
 light and a smile into the rest of the dark room&.
 
 I locked the door from the inside and flung myself heavily down on the
-sofa&. 
+sofa&.
 
 When I closed my eyes&, I couldn't help recalling what had happened
-today&. 
+today&.
 
-Of all things&, to be suspected by the police&.&.&.&. 
+Of all things&, to be suspected by the police&.&.&.
 
 They must be making some kind of mistake&. I wasn't even capable of
-murder&. 
+murder&.
 
-Do a better job of investigating&. This isn't a game&. 
+Do a better job of investigating&. This isn't a game&.
 
 They probably thought that because creepy otaku don't have much social
 knowledge&, I wouldn't be able to object even if they set me up as the
-criminal&. 
+criminal&.
 
 Since they had totally failed to find the true perpetrator&, they
-wanted to maintain their reputations by using me as their scapegoat&. 
+wanted to maintain their reputations by using me as their scapegoat&.
 
-Dammit&, what should I do to clear up their accusations&.&.&.&.
+Dammit&, what should I do to clear up their accusations&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -97,34 +97,34 @@ Dammit&, what should I do to clear up their accusations&.&.&.&.
 <PRE box00>
 [text002]
 I shuddered as I remembered the scen<pre>e</pre> at @Cafe&.
-There was someone out there far more terrifying than the police&. 
+There was someone out there far more terrifying than the police&.
 
-Yua was my enemy&. 
+Yua was my enemy&.
 
 Lately I'd thought I was safe&, because she hadn't shown any signs of
 movement&. I'd been ecstatic&, thinking she wouldn't attempt to make
-contact with me anymore&. 
+contact with me anymore&.
 
 But today I'd been forced to realize my mistake&.
 
-I needed a Di-Sword to resist the likes of her&. 
+I needed a Di-Sword to resist the likes of her&.
 
-I cast a glance at the cheap sword leaning up to one side of my PC&. 
+I cast a glance at the cheap sword leaning up to one side of my PC&.
 
-It was a fake-- 
+It was a fake―
 According to Ayase&, a Di-Sword was "only visible to those with the
-power&." 
+power&."
 
 Nanami had clearly seen my sword on the day I bought it&.
 
-Besides&, unlike Ayase and Sena's swords&, this one didn't glow&. 
+Besides&, unlike Ayase and Sena's swords&, this one didn't glow&.
 
-Where could the real thing be&.&.&.&. 
+Where could the real thing be&.&.&.
 I had to acquire one ASAP&.
 
 If not&, it would be the end of me&.
 There couldn't be anything worse than getting wrapped up in something
-this unreasonable--
+this unreasonable―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -149,12 +149,12 @@ this unreasonable--
 [text003]
 //ＶＦ//回想セリフ
 //【優愛】
-<voice name="優愛" class="優愛" src="ch04/09300010yu">
-"You have--"
+<voice name="優愛" class="優愛" src="voice/ch04/09300010yu">
+"You have―"
 
 //【優愛】
-<voice name="優愛" class="優愛" src="ch04/09300020yu">
-"DID&.&.&.&. multiple personalities&."
+<voice name="優愛" class="優愛" src="voice/ch04/09300020yu">
+"DID&.&.&. multiple personalities&."
 
 {	Fade("色１", 100, 1000, null, true);
 	Delete("back10");
@@ -189,30 +189,30 @@ There's no proof for it anywhere!
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300030ta">
-"She's wrong&.&.&.&. She's all wrong&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300030ta">
+"She's wrong&.&.&. She's all wrong&.&.&."
 
---But that chat log was consistent with what Yua had told me&.
+―But that chat log was consistent with what Yua had told me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300040ta">
-"She fabricated it&.&.&.&. It doesn't count as evidence&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300040ta">
+"She fabricated it&.&.&. It doesn't count as evidence&.&.&."
 
---But nor was there any proof that I didn't have multiple
+―But nor was there any proof that I didn't have multiple
 personalities&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300050ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300050ta">
 "The doctor didn't diagnose me as having multiple
-personalities&.&.&.&." 
+personalities&.&.&."
 
---But for some reason&, Dr&. Takashi went away&.
+―But for some reason&, Dr&. Takashi went away&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300060ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300060ta">
 "I'm me! I know myself better than anyone!"
 
---But I don't understand myself&.
+―But I don't understand myself&.
 
 I was assaulted by a tingling sensation at the back of my neck&.
 
@@ -224,32 +224,32 @@ I was assaulted by a tingling sensation at the back of my neck&.
 <PRE box00>
 [text005]
 The usual presence&.
-The gaze of someone watching me&. 
+The gaze of someone watching me&.
 
 Whose eyes are those eyes?
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300070ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300070ta">
 "Th&, that's right&, it's 'Shogun&,' he's the criminal&,
 the chat log said so&, didn't it&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300080ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300080ta">
 "And Yu&, Yua is 'Shogun's' underling!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300090ta">
-"'Shogun' was behind all the New-Gen cases&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300090ta">
+"'Shogun' was behind all the New-Gen cases&.&.&."
 
---But did "Shogun" truly exist? Was not that itself a delusion?
+―But did "Shogun" truly exist? Was not that itself a delusion?
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300100ta">
-"I&, I&, I'm! I'm normal&.&.&.&.! 
-I'm normal&.&.&.&.! Are&, aren't I!?" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300100ta">
+"I&, I&, I'm! I'm normal&.&.&.!
+I'm normal&.&.&.! Are&, aren't I!?"
 
-Cradling my head&, I shouted at no one&. 
-The one who replied was--
+Cradling my head&, I shouted at no one&.
+The one who replied was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -261,10 +261,10 @@ The one who replied was--
 <PRE box00>
 [text006]
 //【星来】
-<voice name="星来" class="星来" src="ch04/09300110se">
+<voice name="星来" class="星来" src="voice/ch04/09300110se">
 "You've got mail~&, dummy ♪"
 
-Seira&.&.&.&.? 
+Seira&.&.&.?
 
 I dragged myself over to my PC and checked my email&.
 
@@ -314,31 +314,31 @@ being&, I stuck to just reading the text of his mail&.
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300120ta">
-"&.&.&.&.&.&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300120ta">
+"&.&.&.&.&.&.&.!"
 
-A video taken by&.&.&.&. the New-Gen perp!? 
+A video taken by&.&.&. the New-Gen perp!?
 
-My fingers trembled against the mouse&. 
-I couldn't tear my eyes away from the email&. 
+My fingers trembled against the mouse&.
+I couldn't tear my eyes away from the email&.
 
-Did he mean-- 
-The criminal showed up in there--?
+Did he mean―
+The criminal showed up in there-?
 
-Who was it? 
-&.&.&.&.Surely not me? 
+Who was it?
+&.&.&.Surely not me?
 
 My desire to see it warred with my longing not to&.
 
-This was "proof&." 
-Proof that I wasn't the criminal--
-Or else&, proof that I was-- 
+This was "proof&."
+Proof that I wasn't the criminal―
+Or else&, proof that I was―
 
-I didn't know which would turn out to be the case&. 
-It was akin to a gamble&. 
+I didn't know which would turn out to be the case&.
+It was akin to a gamble&.
 
 Sensing the ringing of my internal alarm bells&, I moved my mouse
-cursor up to where the link was located&. 
+cursor up to where the link was located&.
 
 But I couldn't quite work up the courage to click the URL&.
 
@@ -365,8 +365,8 @@ But I couldn't quite work up the courage to click the URL&.
 [text008]
 //ＶＦ//回想セリフ
 //【優愛】
-<voice name="優愛" class="優愛" src="ch04/09300130yu">
-"I want to save you&.&.&.&."
+<voice name="優愛" class="優愛" src="voice/ch04/09300130yu">
+"I want to save you&.&.&."
 
 {	Fade("色１", 100, 1000, null, true);
 	Delete("back10");
@@ -402,14 +402,14 @@ A MewTube page opened up&.
 The word "Loading&.&.&." appeared in the video window&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300140ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300140ta">
 "It'snotmetitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotme
-itsnotmeitsnotmeitsnotme&.&.&.&." 
+itsnotmeitsnotmeitsnotme&.&.&."
 
 In actuality&, it only took about ten seconds to load&, but to me
-those ten seconds felt like eternity&. 
+those ten seconds felt like eternity&.
 
-At last it finished loading&, and the video began playing back--
+At last it finished loading&, and the video began playing back―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -443,7 +443,7 @@ At last it finished loading&, and the video began playing back--
 [text010]
 It was a film of a very dark place&.
 
-The background was pitch-black&. It looked like somewhere indoors&. 
+The background was pitch-black&. It looked like somewhere indoors&.
 
 In an attempt to somehow gather information from within the video
 window&, I brought my face closer to the monitor&.
@@ -456,29 +456,29 @@ emotions of the people on the film were so heightened&, I couldn't
 catch what they were saying&.
 
 On occasion they let out violent shouts&, their voices breaking
-horribly&. 
+horribly&.
 
 After watching for a little while&, I grasped that there were five
 people present&.
-Including the cameraman&, that made six&. 
+Including the cameraman&, that made six&.
 
-The cameraman didn't enter the screen in the slightest&. 
+The cameraman didn't enter the screen in the slightest&.
 
 Though I could tell there were five people&, the darkness prevented me
-from seeing their faces clearly&. 
+from seeing their faces clearly&.
 
 As though to affirm one another&, they caressed each other's heads&,
-Patted each other's shoulders&, and embraced&.  
+Patted each other's shoulders&, and embraced&.
 
 I heard a girl's high-pitched weeping&, as if she'd been overcome by
-emotion&. 
+emotion&.
 
 It was certainly a singular spectacle&, but how was this video related
 to New-Gen?
 
-Was the New-Gen criminal really the one who had filmed it? 
+Was the New-Gen criminal really the one who had filmed it?
 
-&.&.&.&.At least&, I had no recollection of taping something like
+&.&.&.At least&, I had no recollection of taping something like
 this&.
 
 </PRE>
@@ -495,34 +495,34 @@ this&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-After some time&, the camera--no&, the videographer holding the
-camera--began moving forward&. 
+After some time&, the camera―no&, the videographer holding the
+camera―began moving forward&.
 
 His five subjects&, who had been about five meters away&, gradually
-began to show up larger and larger&. 
+began to show up larger and larger&.
 
-The picture was rather grainy&. 
+The picture was rather grainy&.
 
 Maybe someone had lowered the bitrate as much as possible when they
-encoded it&, so as to make the file as smaller&. 
+encoded it&, so as to make the file as smaller&.
 
 Modern video cameras should be night-vision capable&, so I wasn't sure
-why this cameraman hadn't taken advantage of that&. 
+why this cameraman hadn't taken advantage of that&.
 
-Was it an old camera&, maybe? 
+Was it an old camera&, maybe?
 
 The camera panned from side to side&, revealing the surrounding
-scen<pre>e</pre>ry&. 
+scen<pre>e</pre>ry&.
 
 What I'd assumed to be a pitch-black background was in fact the night
-sky&. 
-In other words&, the place being filmed was outside&. 
+sky&.
+In other words&, the place being filmed was outside&.
 
-The reason not a single building appeared on the tape-- 
-Was because this was the roof of a high-rise&. 
+The reason not a single building appeared on the tape―
+Was because this was the roof of a high-rise&.
 
 The five girls and guys were at the edge of the roof of a very tall
-building&. 
+building&.
 
 Close behind them lay a sheer precipice&.
 Below were the lavish lights of Shibuya one could see from tall
@@ -536,43 +536,43 @@ locations&.
 <PRE box00>
 [text012]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300150ta">
-"This&.&.&.&. is&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300150ta">
+"This&.&.&. is&.&.&."
 
-I finally understood&. 
+I finally understood&.
 
 What this video signified&.
 Why he'd said it had been taken by the New-Gen criminal&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300160ta">
-"The group&.&.&.&. diving&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300160ta">
+"The group&.&.&. diving&.&.&."
 
 The case in which five people jumped off the roof of Cornelius Tower&,
 which should have been sealed off like a "locked room situation" in a
-detective novel&. 
+detective novel&.
 
 The first in the sequence of New-Gen incidents&, the one that could
-have been either murder or suicide&. 
+have been either murder or suicide&.
 
-If this film portrayed the five who had jumped to their deaths-- 
+If this film portrayed the five who had jumped to their deaths―
 
-Then it meant there had been a "sixth person" on the scen<pre>e</pre> when it
-happened&. 
+Then it meant there had been a "sixth person" on the
+scen<pre>e</pre> when it happened&.
 
-The five shown here hadn't been acting boisterous&. 
+The five shown here hadn't been acting boisterous&.
 
 All had sunk down on the spot and were screaming and crying as they
 pressed their bodies together&.
 
-Unable to give up&, even though they were fated to die soon&. 
+Unable to give up&, even though they were fated to die soon&.
 
 One shook his head and sobbed no&, no; one fell to her knees and wept
 with her shoulders heaving&, clutching at her hair; one turned to the
-cameraman&, crying&, asking why he was doing something like this; 
+cameraman&, crying&, asking why he was doing something like this;
 
-one had already gone mad and was laughing as tears poured down 
-his face&.&.&.&.
+one had already gone mad and was laughing as tears poured down
+his face&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -581,31 +581,31 @@ his face&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text013]
-There lay 
-A raging desire to live&. 
+There lay
+A raging desire to live&.
 A searing longing not to die&.
 
-Disconsolate anger: Why does this have to happen to us? 
+Disconsolate anger: Why does this have to happen to us?
 Many raw emotions forming a downward spiral&.
 
-In opposition to that&, bizarrely-- 
-The cameraman's voice never entered the video&. 
+In opposition to that&, bizarrely―
+The cameraman's voice never entered the video&.
 
-This cameraman was&.&.&.&. uncannily calm&.&.&.&.
+This cameraman was&.&.&. uncannily calm&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300170ta">
-"Stop it&.&.&.&. Stop it!"
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300170ta">
+"Stop it&.&.&. Stop it!"
 
 Nothing would change&, no matter how much I pleaded with a video that
-had been filmed almost a month earlier&. 
+had been filmed almost a month earlier&.
 
 I knew it was meaningless&, but I found myself unconsciously shouting
 at the monitor&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300180ta">
-"N&, no&, none of them wa&, wants to die&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300180ta">
+"N&, no&, none of them wa&, wants to die&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -623,21 +623,21 @@ at the monitor&.
 <PRE box00>
 [text014]
 But there was no way my words would reach him&, and the camera drew
-even closer to the five of them&. 
+even closer to the five of them&.
 
 Perhaps driven by fear&, they retreated from the camera as though
-crawling&. 
+crawling&.
 
 But escape was impossible&.
-Close behind them was the very edge of the heliport&. 
-It had nothing resembling a safety fence&. 
+Close behind them was the very edge of the heliport&.
+It had nothing resembling a safety fence&.
 
-They no longer had anywhere to run&. 
-If they scooted back a little further&, they'd fall&. 
+They no longer had anywhere to run&.
+If they scooted back a little further&, they'd fall&.
 
 The cameraman&, utterly heedless of how they begged for their lives&,
 continued advancing the camera on them as if he meant to drive them
-distraught&. 
+distraught&.
 
 He had driven them this far into a corner&, but he sought to take no
 other action&.
@@ -647,15 +647,15 @@ other action&.
 	Wait(2000);}
 Though they had neither signaled to each other nor experienced some
 kind of trigger&, the five who had been sobbing in grief suddenly fell
-silent all at once&. They stood up&. 
+silent all at once&. They stood up&.
 
-The wind was strong on the roof of Cornelius Tower&. 
+The wind was strong on the roof of Cornelius Tower&.
 
-Pushed on by the wind&, they seemed about to stumble&. 
+Pushed on by the wind&, they seemed about to stumble&.
 
-One misstep&, and they would fall&. 
+One misstep&, and they would fall&.
 
-As though they had given up&, they joined their hands&. 
+As though they had given up&, they joined their hands&.
 
 They gripped each other's hands firmly&.
 
@@ -672,8 +672,8 @@ They gripped each other's hands firmly&.
 <PRE box00>
 [text015]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300190ta">
-"Qu&, quit it&.&.&.&. stop&.&.&.&. don't be rash&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300190ta">
+"Qu&, quit it&.&.&. stop&.&.&. don't be rash&.&.&.!"
 
 Silence&.
 
@@ -695,32 +695,32 @@ Muttered&.
 //ＶＦ//ＰＣのスピーカーからの音声//音声レート低め
 //◆「今聞こえた“その目だれの目”って誰の声？　あとどういう意味？」というようなニュアンス
 //【男】
-<voice name="男" class="男" src="ch04/09300200ot">
-"Whose eyes are those eyes?" 
+<voice name="男" class="男" src="voice/ch04/09300200ot">
+"Whose eyes are those eyes?"
 
 I froze in front of the monitor&, feeling as though a cold hand had
 grabbed hold of my heart&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300210ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300210ta">
 "Why!?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300220ta">
-"Why those same words again!?" 
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300220ta">
+"Why those same words again!?"
 
-This was the first New-Gen incident&, wasn't it!? 
+This was the first New-Gen incident&, wasn't it!?
 
 The phrase "Whose eyes are those eyes?" was supposed to be the dying
-message from "Vampire House&," the fourth case! 
+message from "Vampire House&," the fourth case!
 
-This was crazy! 
+This was crazy!
 
-The film continued&, ignoring my internal screams&. 
+The film continued&, ignoring my internal screams&.
 
 As they held hands&, the five slowly stepped forward&, as though there
-were a road ahead of them&. They collapsed into the night scen<pre>e</pre>ry of
-the megalopolis&.&.&.&. 
+were a road ahead of them&. They collapsed into the night
+scen<pre>e</pre>ry of the megalopolis&.&.&.
 
 I bit my lip and covered my eyes&.
 
@@ -765,12 +765,12 @@ I bit my lip and covered my eyes&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text016]
-The "group diving" wasn't suicide&. 
+The "group diving" wasn't suicide&.
 
-This&, too&, had been a homicide&. 
-The criminal had been there when it happened&. 
+This&, too&, had been a homicide&.
+The criminal had been there when it happened&.
 
-And I knew 
+And I knew
 
 The cameraman&.
 
@@ -786,25 +786,25 @@ The cameraman&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-Mixed in with the sound of the powerful wind on the rooftop&. 
+Mixed in with the sound of the powerful wind on the rooftop&.
 
 Mixed in with the sound of five people intently weeping&.
 
-Mixed in with the honking of the cars on the expressway below&. 
+Mixed in with the honking of the cars on the expressway below&.
 
-I had distinctly heard another&, fainter sound&. 
+I had distinctly heard another&, fainter sound&.
 
-It was-- 
+It was―
 
-A sound like that of metal creaking&. 
+A sound like that of metal creaking&.
 
-The sound I had heard when the cameraman advanced&. 
+The sound I had heard when the cameraman advanced&.
 
 The sound of a wheelchair&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300230ta">
-"When you appeared before me back then&.&.&.&. it was real&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300230ta">
+"When you appeared before me back then&.&.&. it was real&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -827,11 +827,11 @@ The sound of a wheelchair&.
 <PRE box00>
 [text018]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300240ta">
-"The camera's line of sight is too low&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300240ta">
+"The camera's line of sight is too low&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/09300250ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/09300250ta">
 "'Shogun&.'"
 
 </PRE>

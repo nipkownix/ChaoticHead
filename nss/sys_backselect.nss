@@ -26,8 +26,7 @@ chapter main
 	LoadImage("WND/IMG_no_off","cg/sys/dialog/no-暗い.png");
 	
 	CreateTexture("WND/MSG_bak",1010000,0,0,"cg/sys/dialog/keepout.png");
-	//CreateTexture("WND/MSG_msg",1010000,298,213,"cg/sys/dialog/章の先頭に戻る.png");
-	CreateTexture("WND/MSG_msg",1010000,298,188,"cg/sys/dialog/章の先頭に戻る-.png");
+	CreateTexture("WND/MSG_msg",1010000,298,188,"cg/sys/dialog/章の先頭に戻る.png");
 	CreateChoice("WND/MSG_yes");
 	CreateTexture("WND/MSG_yes/MouseUsual/img",1012000,329,294,"WND/IMG_yes_off");
 	CreateTexture("WND/MSG_yes/MouseOver/img",1011000,329,294,"WND/IMG_yes_on");
@@ -71,13 +70,23 @@ chapter main
 			}
 		}
 		
-		if($SYSTEM_menu_close_enable){
+		//★キーダウン系
+		if($SYSTEM_keydown_f){
+			if(!#SYSTEM_window_full_lock){
+				#SYSTEM_window_full=!#SYSTEM_window_full;
+				#SYSTEM_window_full_lock=false;
+				Wait(300);
+				$SYSTEM_keydown_f=false;
+			}
+		}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 			Fade("WND/MSG_msg",200,0,null,false);
 			Fade("WND/MSG_*/*/*",200,0,null,false);
 			WaitAction("WND/MSG_*/*/*");
 			
 			$InDialog=true;
 			call_chapter nss/sys_close.nss;
+			$SYSTEM_buttondown_close=false;
+			$SYSTEM_keydown_esc=false;
 			$InDialog=false;
 			
 			Fade("WND/MSG_msg",200,1000,null,false);

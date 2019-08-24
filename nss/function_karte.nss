@@ -56,9 +56,19 @@ function SetKarte()
 	$KarteSpace = $KarteBoard * $KarteVertical;
 	$カルテ縦幅 = $KarteSpace - $KarteWindowVertical;
 
-	SetFont("ＭＳ ゴシック", 14, #555555, #000000, 500, NULL);
+	//SetFont("DroidMSGothic", 14, #555555, #000000, 500, NULL);
+	if(#SYSTEM_font_family==MSGothic){
+		$mFamName = "DroidMSGothic";
+		$mnsize = 18;
+		$KarteTextY = -6;
+	}else{
+		$mFamName = "DroidRodinBokutohPro-DB";
+		$mnsize = 18;
+		$KarteTextY = -6;
+	}
+	SetFont($mFamName, $mnsize, #555555, #000000, 500, NULL);
 	$KarteTextX = 42;
-	$KarteTextY = -11;
+	//$KarteTextY = -11;
 
 /*	$KarteText1 = "用事があれば電話よりメールだ";
 	$KarteText2 = "時々、耳鳴りがする";
@@ -207,7 +217,8 @@ function SetKarte()
 
 //■ここから選択肢が回り始めます。
 	SetScrollbar("カルテスクロール","カルテスクロール");
-	while(1)
+	$karteExit=false;
+	while(!$karteExit)
 	{
 		select
 		{
@@ -216,13 +227,8 @@ function SetKarte()
 			$カルテ位置２ = $カルテ位置;
 			Move("カルテベース/カルテウィンドウ/カルテチョイス*/*/*", 0, @0, @$カルテ位置３, null, false);
 			Move("カルテベース/カルテウィンドウ*", 0, @0, @$カルテ位置３, null, true);
-			case カルテスクロール:
-			{
-			}
-			case カルテEXIT:
-			{
-				break;
-			}
+			case カルテスクロール{}
+			case カルテEXIT{$karteExit=true;break;}
 			case カルテベース/カルテウィンドウ/カルテチョイス1:
 			{
 				if($KarteChoiceClick1 == 0)

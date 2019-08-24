@@ -68,13 +68,23 @@ chapter main
 			Reset();
 		}
 		
-		if($SYSTEM_menu_close_enable){
+		//★キーダウン系
+		if($SYSTEM_keydown_f){
+			if(!#SYSTEM_window_full_lock){
+				#SYSTEM_window_full=!#SYSTEM_window_full;
+				#SYSTEM_window_full_lock=false;
+				Wait(300);
+				$SYSTEM_keydown_f=false;
+			}
+		}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 			Fade("WND/MSG_msg",200,0,null,false);
 			Fade("WND/MSG_*/*/*",200,0,null,false);
 			WaitAction("WND/MSG_*/*/*");
 			
 			$InDialog=true;
 			call_chapter nss/sys_close.nss;
+			$SYSTEM_buttondown_close=false;
+			$SYSTEM_keydown_esc=false;
 			$InDialog=false;
 			
 			Fade("WND/MSG_msg",200,1000,null,false);

@@ -46,14 +46,14 @@ function ch08_158_作文と落書き()
 [text001]
 //◆泣きながら
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800010se">
-"You&.&.&.&. dum-dum! I waited for you&.&.&.&. I waited for you this 
-whole time&.&.&.&."
+<voice name="星来" class="星来" src="voice/ch08/15800010se">
+"You&.&.&. dum-dum! I waited for you&.&.&. I waited for you this
+whole time&.&.&."
 
 //◆泣きながら
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800020se">
-"I hate you&.&.&.&. so much&.&.&.&.! But I love you so much!"
+<voice name="星来" class="星来" src="voice/ch08/15800020se">
+"I hate you&.&.&. so much&.&.&.! But I love you so much!"
 
 {	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	Wait(1000);
@@ -72,8 +72,8 @@ whole time&.&.&.&."
 	CreateSE("SE02","SE_日常_家具_イス_軋");
 	SoundPlay("SE02", 0, 1000, false);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800030ta">
+"&.&.&.&.&.&.&."
 
 I dazedly watched Seira-tan move around in the monitor&.
 
@@ -96,17 +96,17 @@ serious&.
 It almost seemed like she was avoiding the topic of anything related
 to New-Gen&.
 
-Maybe she found it to be obnoxious on my part&.&.&.&.
+Maybe she found it to be obnoxious on my part&.&.&.
 Someone she knew had been injured in the earthquake&, and she must
 have her hands full with that&, and maybe she couldn't afford to
 bother with the likes of me&.
 
-No&, but--
+No&, but―
 
 It was certainly possible that I might be overly paranoid&, but
 regardless&, this hazardous situation was the real thing&.
 
-Even today&, he might murder me&.&.&.&.
+Even today&, he might murder me&.&.&.
 
 The reason why "Shogun" insisted on coming after me&.
 If only I knew what it was&, I would be able to come up with some
@@ -134,15 +134,15 @@ small counter strategy&.
 [text002]
 //ＶＦ//回想セリフ
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/15800040ko">
+<voice name="梢" class="こずえ" src="voice/ch08/15800040ko">
 "Now that you mention it&, he said something as we parted&."
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/15800050ko">
+<voice name="梢" class="こずえ" src="voice/ch08/15800050ko">
 "The most special among you is"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/15800060ko">
+<voice name="梢" class="こずえ" src="voice/ch08/15800060ko">
 "The boy who gave birth to 'Whose eyes are those eyes?'"
 
 {	SoundPlay("SE01", 3000, 500, true);
@@ -152,7 +152,7 @@ small counter strategy&.
 	DeleteStand("bu梢_制服_正面_normal", 300, true);
 	Fade("回想フラッシュ", 2000, 0, null, true);
 	Delete("回想フラッシュ");}
---Whose eyes are those eyes?
+―Whose eyes are those eyes?
 
 The words one could now hear all over Shibuya&.
 Online&, they had become synonymous with the New-Gen criminal&.
@@ -185,7 +185,7 @@ called my "treasure box&."
 And so the essay&, too&, might be inside it&.
 
 What should I do? Go to my parents' house?
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -227,8 +227,8 @@ I didn't want to run into Nanami&.
 I didn't know what I should say to her&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800070ta">
-"Haa&, I&.&.&.&. I'm no good&, so beyond helping&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800070ta">
+"Haa&, I&.&.&. I'm no good&, so beyond helping&.&.&."
 
 {	CreateSE("SE02","SE_日常_家具_イス_軋");
 	CreateSE("SE03","SE_人体_動作_尻餅");
@@ -249,20 +249,20 @@ instead&.
 
 //ＶＦ//テレビからの声
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800080se">
+<voice name="星来" class="星来" src="voice/ch08/15800080se">
 "Kyaa! Why're you here!?"
 
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800090se">
+<voice name="星来" class="星来" src="voice/ch08/15800090se">
 "Th&, this&, um&, it isn't what it looks like!　It's not like street
 vendor soba is my favorite food in the world or anything&."
 
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800100se">
+<voice name="星来" class="星来" src="voice/ch08/15800100se">
 "Hey&, what're you smiling at&, you dummy! Ooh&, I'm so mad!"
 
 //【星来】
-<voice name="星来" class="星来" src="ch08/15800110se">
+<voice name="星来" class="星来" src="voice/ch08/15800110se">
 "Roar out&, Samurai ☆ Condenser!"
 
 </PRE>
@@ -288,17 +288,17 @@ face&, as there were in my room at my parents' house&.
 
 {	Rotate("ルーム", 1000, @-20, @0, @20, AxlDxl, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800120ta">
-"&.&.&.&.Hm?"
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800120ta">
+"&.&.&.Hm?"
 
 {	Rotate("ルーム", 700, @20, @0, @-20, Dxl1, true);}
-At the corner of my vision--
+At the corner of my vision―
 A tin with a familiar design to it&, lying atop my loft bed together
 with my piled-up eroge&, caught my eye&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800130ta">
-"Hey&.&.&.&. that's&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800130ta">
+"Hey&.&.&. that's&.&.&."
 
 {	SoundPlay("SE03", 0, 1000, false);
 	Move("背景１", 200, @0, @-5, Dxl1, false);
@@ -366,7 +366,7 @@ Faded grid-style paper&.
 You couldn't have said the letters there were well-written&, not even
 out of flattery&.
 
-Here&.&.&.&. I wondered if some weighty secret were hidden here in
+Here&.&.&. I wondered if some weighty secret were hidden here in
 this essay&.
 
 Something "Shogun" would have good reason to be picky about&.
@@ -382,39 +382,6 @@ not to overlook a single word&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 //おがみ：ここはテキスト？orイメージBG演出？
-
-/*
-//――――――――――――――――――――――――――――――――――――――
-<PRE box00>
-[text006]
-//以下、ＢＧイメージ指定がないため、テキストで括りコメントアウト致します
-//※以下、拓巳の作文
-
-『その目だれの目？』
-
-４年３組　西條拓巳
-
-　ぼくはよく夢を見ます。夢の中では大人になってるぼくがタイムマシンにのって今のぼくのところにワープして来ます。大人のぼくは、ぜんぜんにていませんでした。
-　あと、タイムマシンにはいっぱいボタンがついていて、おすとシャワーが出たりシャンプーも出た。大人のぼくに使いかたを聞いたら、きょうりゅう時代とか、原始時代とかにも行けると言いました。
-　苦手な授業はなにと聞いてきたから算数と言いました。そうしたら算数のべん強ができるようになるスイッチもあると言いました。ぼくがスイッチをおそうとしたら、おこりました。自分でど力をしてがんばらないとだめだそうです。
-　大人のぼくは１回おこっただけで、あとはやさしかったから良かった。あと、ぼくがけっこんする女子とかも教えてくれました。それはひみつです。
-　あと、神さまのことも聞きました。いると言っていました。
-　ぼくもいると思います。神さまはどこでも見ているから、悪いことをすると地ごくに行かされるとお母さんも行っていました。だから悪いことはぜったいにいけないと思う。妹とも仲良くしないとだめです。
-　お母さんは、悪いことをすると神さまじゃなくて、こわい人が見てくると言っていました。
-　こわい人は、その目だれの目というオバケだった。見られると地ごくに行かされます。
-　神さまの目も、その目だれの目も、空にも、家の天じょうにも、かべにも、学校にもいっぱいあって、いつもぼくを見ています。
-　だからべん強も、良いことも、いっぱいやらないといけないと思います。でも、いつも見ているから、おふろとかトイレとかははずかしいです。
-　あと、ぼくは小さい時から、ねてない時も目をつむっただけで、時々ゆめを見る。頭の中がゲームみたいになるし、マンガみたいになります。
-　でもそれをやると、その目だれの目が出てくるのでやりたくない。お母さんに聞いたら、それはやっちゃだめと言いました。
-　でも、今作文を書いている時も、ゆめの中で大人のぼくにタイムマシンのことを聞いたら、知っていると言っていました。でもぼくが子どもだから、おしえてくれませんでした。
-　だからこれからは、良いことをいっぱいして、その目だれの目をたおしたいです。（おわり）
-
-</PRE>
-	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
-	TypeBegin();//――――――――――――――――――――――――――――――
-//※以上、拓巳の作文
-//以上、ＢＧイメージ指定がないためｍテキストで括りコメントアウト致します
-*/
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -463,6 +430,12 @@ game or manga&.
 Every time I do it&, the whose eyes are those eyes monster comes out&,
 so I do not like doing it&. I asked Mom and she said not to do it&.
 
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+
+<PRE box00>
+[text007]
 But while I am writing this essay I asked big me in my dream about the
 time machine and he said he knew all there was to know&.
 He said he would not tell me anything though because I am just a kid&.
@@ -470,18 +443,13 @@ He said he would not tell me anything though because I am just a kid&.
 So from now on I want to do tons of really good things so I can beat
 whose eyes are those eyes&. (The end)&.
 
-</PRE>
-	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
-	TypeBegin();//――――――――――――――――――――――――――――――
-<PRE box00>
-[text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800140ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800140ta">
+"&.&.&.&.&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800150ta">
-"I don't really get it&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800150ta">
+"I don't really get it&.&.&."
 
 The only thing I grasped for sure was that I had sensed "God's gaze"
 back then&.
@@ -566,15 +534,15 @@ I'd seen very recently&.
 
 //◆「あいあーるに」
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch08/15800160ta">
-"I r 2&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch08/15800160ta">
+"I r 2&.&.&."
 
 Was it an equation or something with a separate significance&, or no
 more than a meaningless string of letters and numbers?
 
 I didn't know&.
 
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -622,7 +590,7 @@ Shogun: The world changes if you click it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text117]
-Neidhardt: Whoa&.&.&.&. wait&, why in English? lol
+Neidhardt: Whoa&.&.&. wait&, why in English? lol
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(0,0,false);
@@ -744,7 +712,7 @@ Neidhardt: Shibuya ((((;゜Д゜))) *shudder*
 	MusicStart("@CH06",3000,1000,0,0,null,true);
 	CreateColor("チャット下地色", 1500, 0, 0, 800, 600, "#252525");
 
-	SetFont("ＭＳ ゴシック", 32, #AAFF2D, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 32, #AAFF2D, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1600, 2450, 350, Auto, Auto, "Shogun： ｆｕｎ＾１０×ｉｎｔ＾４０＝Ｉｒ２");
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);
@@ -788,7 +756,7 @@ Key phrases I myself had forgotten&.
 
 If "Shogun" knew them&,
 
-It meant he truly must be making secret recordings of my thoughts--
+It meant he truly must be making secret recordings of my thoughts―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

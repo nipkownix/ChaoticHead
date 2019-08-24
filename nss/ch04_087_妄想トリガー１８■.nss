@@ -77,15 +77,15 @@ if($妄想トリガー１８ == 2)
 [text001]
 No&, it was just my imagination&.
 
-There was no way the police could possibly suspect me&. 
-After all&, I hadn't killed anyone&, and I was as harmless as a fly&. 
+There was no way the police could possibly suspect me&.
+After all&, I hadn't killed anyone&, and I was as harmless as a fly&.
 
-For the moment&, I might as well rest here a little longer&. 
+For the moment&, I might as well rest here a little longer&.
 My pulse was still racing&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700010ta">
-"Haa&, haa&, haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700010ta">
+"Haa&, haa&, haa&.&.&."
 
 {	CreateTextureEX("back13", 100, 0, -100, "cg/bg/bg206_01_3_夜空_a.jpg");
 	Request("back13", Smoothing);
@@ -132,7 +132,7 @@ Standing up&, I took a look at the road under the overhead bridge&.
 Footsteps steadily approached me&. <k>
 In my heart&, I prayed for him to pass me by&.
 
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -144,14 +144,14 @@ But--
 <PRE box00>
 [text002]
 //【警官】
-<voice name="警官" class="警官" src="ch04/08700020po">
-"You there&." 
+<voice name="警官" class="警官" src="voice/ch04/08700020po">
+"You there&."
 
 He spoke&.
 He was clearly referring to me&.
 
 //【警官】
-<voice name="警官" class="警官" src="ch04/08700030po">
+<voice name="警官" class="警官" src="voice/ch04/08700030po">
 "Do you have a moment?"
 
 My heartbeat&, which I'd been working on reining in the whole while&,
@@ -160,15 +160,15 @@ went wild again&, this time because of my tension&.
 {	CreateBG(100, 500, 0, 0, "cg/bg/bg083_02_3_宮下公園_a.jpg");
 	Wait(500);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700040ta">
-"S&, sorry&, I'm in a hurry&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700040ta">
+"S&, sorry&, I'm in a hurry&.&.&."
 
 //【警官】
-<voice name="警官" class="警官" src="ch04/08700050po">
-"Sure doesn't seem that way&." 
+<voice name="警官" class="警官" src="voice/ch04/08700050po">
+"Sure doesn't seem that way&."
 
-Why had he spoken to me? 
-I listed the possible reasons in my head&. 
+Why had he spoken to me?
+I listed the possible reasons in my head&.
 
 ① Because I'm alone in a place like this at night&.<k>
 ② Because I seem like a suspicious character&.<k>
@@ -178,22 +178,22 @@ duty&.<k>
 ④ Because the police view me as a suspect in the New-Gen cases&.
 
 //【警官】
-<voice name="警官" class="警官" src="ch04/08700060po">
-"Some form of ID&.&.&.&. I know&, could you show me your student
-handbook?" 
+<voice name="警官" class="警官" src="voice/ch04/08700060po">
+"Some form of ID&.&.&. I know&, could you show me your student
+handbook?"
 
 Dammit&, I didn't have the time to go along with this&. I had to hide
-somewhere less conspicuous as soon as possible&. 
-Otherwise&, Yua would find me again&. 
+somewhere less conspicuous as soon as possible&.
+Otherwise&, Yua would find me again&.
 
 But if I ran away from the officer&, I might get arrested for
-obstruction of justice&. 
+obstruction of justice&.
 
 Worse still&, if ④ on my list was the reason&, running away would
-force me into an even more dire position&. 
+force me into an even more dire position&.
 
 In any case&, I had to be fast about getting the stuff with the police
-officer over with&. 
+officer over with&.
 
 I reluctantly took my student handbook out of my uniform's inner
 pocket and passed it over to the officer&.
@@ -207,27 +207,27 @@ Accepting it&, he opened it up to confirm my name and headshot&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-Directly after&, his countenance changed&. 
-His expression twitched&. 
+Directly after&, his countenance changed&.
+His expression twitched&.
 
-What was it&.&.&.&.? 
+What was it&.&.&.?
 
-Why had he reacted like that? 
+Why had he reacted like that?
 
-Was my name that much of a problem? 
+Was my name that much of a problem?
 
---Maybe I was being made into the New-Gen suspect&, after all&. 
+―Maybe I was being made into the New-Gen suspect&, after all&.
 
-But that was the police's misunderstanding&. 
+But that was the police's misunderstanding&.
 
 I hadn't done it&.
 
---Yua had decided I was the murderer&. I simply wasn't aware of it
-myself&. 
+―Yua had decided I was the murderer&. I simply wasn't aware of it
+myself&.
 
-Impossible&. 
+Impossible&.
 
-I'm not a sleepwalker&. 
+I'm not a sleepwalker&.
 I don't have multiple personalities&.
 
 I've had enough of people screwing around with me&.
@@ -240,23 +240,23 @@ I've had enough of people screwing around with me&.
 <PRE box00>
 [text004]
 //【警官】
-<voice name="警官" class="警官" src="ch04/08700070po">
-"&.&.&.&.Thanks&." 
+<voice name="警官" class="警官" src="voice/ch04/08700070po">
+"&.&.&.Thanks&."
 
 Unexpectedly&, the police officer returned my student handbook right
-away&. 
+away&.
 
 And swiftly&, as though he were fleeing me&, he headed back toward the
-park&. 
+park&.
 
-There was something suggestive about his attitude&. 
+There was something suggestive about his attitude&.
 I had an amazingly bad feeling about this&.
 
-Was I&.&.&.&. really an object of suspicion&.&.&.&. 
+Was I&.&.&. really an object of suspicion&.&.&.
 
-I stared at the officer from behind&. 
+I stared at the officer from behind&.
 
-He gave a little nod to the older man sitting on the bench&.&.&.&. or
+He gave a little nod to the older man sitting on the bench&.&.&. or
 so it appeared&.
 
 </PRE>
@@ -266,9 +266,9 @@ so it appeared&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
---Strange&.
+―Strange&.
 
-Was I imagining&.&.&.&. things? 
+Was I imagining&.&.&. things?
 
 But he had definitely looked in the direction of the guy on the
 bench&.
@@ -276,15 +276,15 @@ bench&.
 I couldn't determine whether he had actually lowered his head or had
 simply seemed to do so&.
 
-The police officer went on his way out of the park&. 
+The police officer went on his way out of the park&.
 
 The geezer on the bench went on messing around with his cell
-phone&.&.&.&. or so it appeared&. 
+phone&.&.&. or so it appeared&.
 
-But his fingers weren't moving&.&.&.&. or at least&, they appeared not
-to be&. 
+But his fingers weren't moving&.&.&. or at least&, they appeared not
+to be&.
 
-It was dark&, making it hard to tell either way&. 
+It was dark&, making it hard to tell either way&.
 
 Normally&, the phone's LCD display would give off some light&, but the
 old guy's hands remained shadowed&.
@@ -296,7 +296,7 @@ old guy's hands remained shadowed&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
---Something was strange&.
+―Something was strange&.
 
 I began paying careful attention to the other people in the park&.
 
@@ -316,14 +316,14 @@ All they did was sit there in a circle&.
 One of them put a hand to his mouth&.
 
 He covered his mouth with the end of his sleeve and his hand in a
-manner that looked almost deliberate&.&.&.&. or so it appeared&.
+manner that looked almost deliberate&.&.&. or so it appeared&.
 
---I couldn't tell for sure&, but it was strange&.
+―I couldn't tell for sure&, but it was strange&.
 
 A peculiar tension floated in the air of this park&.
 Though even that might have been a figment of my imagination&.
 
-Don't tell me--<k>
+Don't tell me―<k>
 Every single person here is an undercover detective or something&.
 
 I shuddered when that vision rose in my head&.
@@ -332,7 +332,7 @@ I desperately told myself that in the end&, it was only a delusion&.
 
 But in any case&, I didn't want to stay here any longer&.
 
-I'll escape&.&.&.&.
+I'll escape&.&.&.
 
 I started running&.
 
@@ -376,10 +376,10 @@ His stature looked awfully brawny&, to boot&.
 I couldn't tell what his occupation was&, to begin with&. His outward
 appearance made it impossible to come up with a guess&.
 
---That alone wasn't enough to let me determine whether or not he was a
+―That alone wasn't enough to let me determine whether or not he was a
 detective&.
 
-&.&.&.&.No&, he was a detective&.
+&.&.&.No&, he was a detective&.
 He was obviously a detective&.
 
 He was tailing me!
@@ -408,20 +408,20 @@ I hadn't done a thing!
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-Should I assert my innocence!? 
+Should I assert my innocence!?
 
 But the fact of the matter was that I was fleeing the police right
-now&. 
+now&.
 
 Besides&, the police would probably come up with some random reasons
-to attach a crime to my name&, anyway&. 
+to attach a crime to my name&, anyway&.
 
-They wouldn't believe a creepy otaku like me&.&.&.&.! 
+They wouldn't believe a creepy otaku like me&.&.&.!
 
 I didn't have the room to think about what would become of me from
-here on out&. 
+here on out&.
 
-I've gotta escape from Yua and the police--for now&, that feeling
+I've gotta escape from Yua and the police―for now&, that feeling
 alone seized control of my spirit&.
 
 </PRE>
@@ -454,7 +454,7 @@ Unpleasant speculation swirled around in my head&.
 I got up and reassessed my surroundings&.
 
 The old fogey who had been sitting on a bench&, tweaking his cell
-phone&, kept casting little glances my way--or so I thought&.
+phone&, kept casting little glances my way―or so I thought&.
 
 The craggy-faced man who had just entered the park leaned back against
 the plain&, pipe-esque fence&, slowly unfolded a newspaper&, and began
@@ -471,14 +471,14 @@ walkie-talkie&.
 
 Cold sweat ran down my back&.
 
-Don't tell me--
+Don't tell me―
 
 {	CreateSE("SE10","SE_人体_心臓_鼓動_Loop");
 	MusicStart("SE10", 500, 1000, 0, 1000, null, true);}
-These guys were detectives&.&.&.&.?<k>
-Maybe they'd been tailing me&.&.&.&.
+These guys were detectives&.&.&.?<k>
+Maybe they'd been tailing me&.&.&.
 
-If so&.&.&.&. at the moment&, I was completely surrounded&.
+If so&.&.&. at the moment&, I was completely surrounded&.
 
 Yua had decided I was the murderer&.
 With that delusion of hers&, she may have ratted me out to the
@@ -495,43 +495,43 @@ police&.
 [text010]
 //◆小声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700080ta">
-"D&, don't mess with me&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700080ta">
+"D&, don't mess with me&.&.&."
 
 Unable to bear it&, I muttered in a voice too small for anyone to
 hear&.
 
-Was this&, too&, part of the "Shogun" conspiracy!? 
+Was this&, too&, part of the "Shogun" conspiracy!?
 
-I didn't do it! 
-I didn't kill anyone! 
-I'm not the criminal! 
+I didn't do it!
+I didn't kill anyone!
+I'm not the criminal!
 
 Why did someone as meek and bad at talking to people as me have to get
-treated like a murderer and chased by the police&.&.&.&.! 
+treated like a murderer and chased by the police&.&.&.!
 
-Why did I have to get caught up in Yua's megalomania&.&.&.&.! 
+Why did I have to get caught up in Yua's megalomania&.&.&.!
 
-In any case&, I'd be in deep crud if I stayed here&. 
+In any case&, I'd be in deep crud if I stayed here&.
 
 My pulse hadn't slowed down&, and it was hard to breathe&, but I had
-to move&. 
+to move&.
 
 I walked across the overhead bridge&, trying my hardest not to look
 unnatural&. Beyond me were the stairs that went down to Meiji Avenue&.
 
 
-I'd go down them and follow Meiji Avenue as I made my escape&. 
+I'd go down them and follow Meiji Avenue as I made my escape&.
 
 When I reached the middle of the bridge&, a new figure appeared from
-those stairs&. 
+those stairs&.
 
-She was a woman wearing an office lady-style suit&. 
+She was a woman wearing an office lady-style suit&.
 
 Holding a cell phone to her ear&, she spoke into it expressionlessly
-as she climbed the stairs&. 
+as she climbed the stairs&.
 
-Surely this woman wasn't a detective&, too&.&.&.&.?
+Surely this woman wasn't a detective&, too&.&.&.?
 Heart pounding&, I passed her&.
 
 </PRE>
@@ -542,17 +542,17 @@ Heart pounding&, I passed her&.
 <PRE box00>
 [text011]
 //【ＯＬ】
-<voice name="ＯＬ" class="ＯＬ" src="ch04/08700090ol">
-"--Whose eyes are those eyes?"
+<voice name="ＯＬ" class="ＯＬ" src="voice/ch04/08700090ol">
+"―Whose eyes are those eyes?"
 
 //◆棒読みっぽく
 //【ＯＬ】
-<voice name="ＯＬ" class="ＯＬ" src="ch04/08700100ol">
+<voice name="ＯＬ" class="ＯＬ" src="voice/ch04/08700100ol">
 "The T-shirts saying that are all the rage now&."
 
 //◆棒読みっぽく
 //【ＯＬ】
-<voice name="ＯＬ" class="ＯＬ" src="ch04/08700110ol">
+<voice name="ＯＬ" class="ＯＬ" src="voice/ch04/08700110ol">
 "I'm going to go buy one this Sunday&. Since they're being sold on
 Takeshita Street in Harajuku&."
 
@@ -561,7 +561,7 @@ There was an awkwardness in how she spoke&. There was a strange
 theatricality to it&.
 
 Who on earth was she talking to? Did the person at the other end of
-the line really exist? 
+the line really exist?
 
 But when all was said and done&, the woman didn't take any action
 against me&.
@@ -573,22 +573,22 @@ against me&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text012]
-I safely reached the stairs&. 
-Once there&, I looked over my shoulder at the park&. 
+I safely reached the stairs&.
+Once there&, I looked over my shoulder at the park&.
 
-The police officer wasn't chasing me&. 
+The police officer wasn't chasing me&.
 
 Standing in the same place as before&, he was still saying something
-into his walkie-talkie&. 
+into his walkie-talkie&.
 
 One of the homeless people who were sitting in a circle had just begun
-to stand up&. None of the other homeless moved&. 
+to stand up&. None of the other homeless moved&.
 
 The geezer on the bench and the older guy reading the newspaper had
-risen at some point&, and both were walking in my direction&. 
+risen at some point&, and both were walking in my direction&.
 
-The two of them gave each other a short glance&. 
-They exchanged winks&.&.&.&. or so it appeared to me&. 
+The two of them gave each other a short glance&.
+They exchanged winks&.&.&. or so it appeared to me&.
 
 I went on to toss one more look at the office lady&.
 
@@ -619,7 +619,7 @@ The office lady was leaning over the edge&, pointing at me&.
 
 I saw the two geezers run across the bridge&.
 
-I'd been right&, they were detectives&.&.&.&.!
+I'd been right&, they were detectives&.&.&.!
 
 They were all detectives!
 
@@ -640,20 +640,20 @@ She'd laid another trap for me!
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text014]
-Should I assert my innocence!? 
+Should I assert my innocence!?
 
 But the fact of the matter was that I was fleeing the police right
-now&. 
+now&.
 
 Besides&, the police would probably come up with some random reasons
-to attach a crime to my name&, anyway&. 
+to attach a crime to my name&, anyway&.
 
-They wouldn't believe a creepy otaku like me&.&.&.&.! 
+They wouldn't believe a creepy otaku like me&.&.&.!
 
 I didn't have the room to think about what would become of me from
-here on out&. 
+here on out&.
 
-I've gotta escape from Yua and the police--for now&, that feeling
+I've gotta escape from Yua and the police―for now&, that feeling
 alone seized control of my spirit&.
 
 </PRE>
@@ -678,23 +678,23 @@ if($妄想トリガー１８ == 0)
 <PRE box00>
 [text015]
 Even as I thought to myself that I was over thinking things&, I
-scrutinized the police officer's movements intently&. 
+scrutinized the police officer's movements intently&.
 
 But he clearly looked in my direction this time&, perhaps because I'd
 been too blatant about it&.
 
-I was the first one to lower my face&. 
-I didn't feel like I'd win a staring contest with a policeman&. 
+I was the first one to lower my face&.
+I didn't feel like I'd win a staring contest with a policeman&.
 
 Had that officer
-Been looking at me? 
+Been looking at me?
 
-Or had he glanced back at me when I looked at him? 
+Or had he glanced back at me when I looked at him?
 
---Which was it? 
+―Which was it?
 
-I didn't know&. 
-I could interpret it either way&. 
+I didn't know&.
+I could interpret it either way&.
 
 After some time had passed&, I raised my face and checked what the
 policeman was doing once more&.
@@ -707,8 +707,8 @@ policeman was doing once more&.
 <PRE box00>
 [text016]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700120ta">
-"&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700120ta">
+"&.&.&."
 
 {	SoundPlay("@CH01", 1000, 1000, true);}
 Because the officer was still looking at me&, I became flustered and
@@ -719,7 +719,7 @@ Crap&, I was obviously acting suspicious now&.
 I couldn't afford to catch the eyes of the police&, not when Yua was
 driving me into a corner&.
 
-Somehow&, I had to sit this out&.&.&.&.
+Somehow&, I had to sit this out&.&.&.
 
 I wiped away the cold sweat that had sprung up on my forehead&.
 
@@ -734,7 +734,7 @@ Was he making some kind of report?
 But the cars traveling across Meiji Avenue below us were noisy&, and
 from here&, I couldn't pick up on his voice whatsoever&.
 
-I had the feeling&.&.&.&.
+I had the feeling&.&.&.
 This wasn't a positive development&.
 
 I thought maybe I ought to have gotten away from this place&, but it
@@ -747,7 +747,7 @@ suspicious if I didn't continue doing so for a certain period of
 time&.
 
 I had to keep it up&, at least until the policeman stopped watching
-me&.&.&.&.
+me&.&.&.
 
 The instant I thought that&.
 
@@ -762,23 +762,23 @@ policeman&.
 <PRE box00>
 [text017]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700130ta">
-"Ah&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700130ta">
+"Ah&.&.&."
 
-When I confirmed it with a sidelong look&, my eyes went wide&. 
+When I confirmed it with a sidelong look&, my eyes went wide&.
 
-Yua&.&.&.&.! 
-And at the worst timing conceivable&.&.&.&.! 
+Yua&.&.&.!
+And at the worst timing conceivable&.&.&.!
 
 Cold sweat seeped not just from my forehead&, but from my entire
-body&. 
+body&.
 
-This was bad&. This was unbelievably bad&. 
+This was bad&. This was unbelievably bad&.
 
 Since Yua didn't seem to have noticed me yet&, I wanted to pray that
-I'd be able to slip away without her picking up on it&. 
+I'd be able to slip away without her picking up on it&.
 
-But no one answered my prayer&. 
+But no one answered my prayer&.
 
 After all&, the police officer's gaze was currently focused on me in
 the present tense&.
@@ -788,11 +788,11 @@ to the officer and told him something&, to follow his gaze toward me&.
 
 
 I clicked my tongue&, stuffed my textbook back in my bag and raised my
-center of gravity&. 
+center of gravity&.
 I assumed a position from which I could break into a run at any time&.
 
 
-The policeman and Yua exchanged a short conversation&. 
+The policeman and Yua exchanged a short conversation&.
 And the two of them looked in my direction&.
 
 </PRE>
@@ -802,28 +802,28 @@ And the two of them looked in my direction&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text018]
---Don't look at me&. 
+―Don't look at me&.
 
 Yua pointed directly at me&. She was explaining something to the
-policeman&.  
+policeman&.
 
-That bitch! 
-Don't fuck with me! 
-Don't you fuck with me! 
+That bitch!
+Don't fuck with me!
+Don't you fuck with me!
 
 I might have been mild-mannered&, but it was enough to make me go
-crazy with anger&. 
+crazy with anger&.
 
-Yua had ratted me out to the police! 
+Yua had ratted me out to the police!
 
 On top of that&, what she'd tattled about had been the fucked-up
-delusion she'd concocted in her own brain--the preposterous story that
-Nishijou Takumi was the New-Gen perpetrator&. 
+delusion she'd concocted in her own brain―the preposterous story that
+Nishijou Takumi was the New-Gen perpetrator&.
 
 She might be satisfied with that&, but try being the one on the
-receiving end of a false accusation!  
+receiving end of a false accusation!
 
-Of course&, my cri de coeur didn't reach her&. 
+Of course&, my cri de coeur didn't reach her&.
 
 The police officer who had been listening to Yua squared his shoulders
 and began approaching me&.
@@ -841,7 +841,7 @@ Shit! Shit! Shit!
 
 I'd walked right into her trap&. She meant to destroy me&.
 
-What to do&, what should I do&.&.&.&.
+What to do&, what should I do&.&.&.
 
 Should I appeal to the police officer&, telling him the truth?
 
@@ -849,16 +849,16 @@ That all of it was just one of her delusions&.
 
 That I'm an upstanding citizen who hasn't done anything wrong&.
 
-&.&.&.&.It wouldn't work&. It obviously wouldn't work&.
+&.&.&.It wouldn't work&. It obviously wouldn't work&.
 
 In this day and age&, it was as plain as the nose on my face who a
 policeman would believe in&, when asked to choose between me&, a
-creepy otaku&, and Yua&, a healthy high school girl--or one who seemed
+creepy otaku&, and Yua&, a healthy high school girl―or one who seemed
 that way&, at any rate&.
 
 They wouldn't hear me out&.
 
-So I have to run now&.&.&.&.!
+So I have to run now&.&.&.!
 
 {	CreateSE("SE02","SE_人体_動作_足_走る_Loop");
 	MusicStart("SE02", 100, 1000, 0, 1000, null, true);}
@@ -888,28 +888,28 @@ policemen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text020]
-Y&, you're kidding me&.&.&.&. 
+Y&, you're kidding me&.&.&.
 
-The police had been on Yua's side from the very beginning? 
+The police had been on Yua's side from the very beginning?
 
-Miyashita Park had been full of undercover detectives? 
+Miyashita Park had been full of undercover detectives?
 
-I didn't know what to do&. 
+I didn't know what to do&.
 
 I was simply astounded&.
-The sheer ridiculousness of it almost made me cry&. 
+The sheer ridiculousness of it almost made me cry&.
 
-I hadn't done a thing&. I hadn't done anything&. 
+I hadn't done a thing&. I hadn't done anything&.
 
 She was tricking the police; she had them wrapped around her little
-finger&. 
+finger&.
 
 This was too much&.
 
 //◆泣く
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700140ta">
-"Uuh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700140ta">
+"Uuh&.&.&."
 
 Wiping my tears&, I hurried down the stairs&.
 
@@ -950,40 +950,40 @@ glance to either side&.
 I went under the railroad overpass and climbed the stairs to the
 pedestrian bridge&.
 
-There were a lot of people everywhere I went&, blocking my path&. 
+There were a lot of people everywhere I went&, blocking my path&.
 
 It nearly made me think they were hostile toward me&, that they were
 getting in my way on purpose&.
 
-Everyone started to look like a detective&. 
+Everyone started to look like a detective&.
 I was on the brink of panicking&.
 
-When I turned around&, I spotted someone running after me&. 
+When I turned around&, I spotted someone running after me&.
 
 I caught glimpses of a figure cutting its way through the crowd in the
-same way as I had&. 
+same way as I had&.
 
-It was one of the guys from the park&. 
+It was one of the guys from the park&.
 I didn't know which&.
 
-Anyhow&, they were chasing me&. 
+Anyhow&, they were chasing me&.
 The thought of it made me go cold&.
-My life would be all but over if they caught me&.&.&.&.! 
+My life would be all but over if they caught me&.&.&.!
 
 I'd receive a death sentence for something I hadn't even done&, then
 get stuck in prison for multiple decades&. After I'd tasted my fill of
 a living hell&, they'd finally tell me&, "All right&, it's about time
-for you to die&." 
+for you to die&."
 
-Anything but that&. 
-I wouldn't be able to take it&. 
-I didn't want a life like that! 
+Anything but that&.
+I wouldn't be able to take it&.
+I didn't want a life like that!
 
 Even if I managed to prove my innocence at the very end&, the
 invisible brand of criminality wouldn't vanish from me&. Everyone
-around me would be suspicious of me&. 
+around me would be suspicious of me&.
 
-Anything but that&. 
+Anything but that&.
 I haven't done a thing!
 
 </PRE>
@@ -1018,7 +1018,7 @@ At last losing the ability to run&, I halted in place and fell to my
 hands and knees&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700150ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700150ta">
 "Kahaa&, haa&, kahaa&, fuhaa"
 
 I was in a familiar place&.
@@ -1038,34 +1038,34 @@ Outer walls made of a distinctive red brick&. A giant illuminated sign
 that said "GIGANTES&."
 
 I had been here once before&, together with Misumi-kun&. At the time&,
-I'd come to hear Phantasm perform live--or&, more accurately&, to see
-their vocalist&, FES&. 
+I'd come to hear Phantasm perform live―or&, more accurately&, to see
+their vocalist&, FES&.
 
 Now it was utterly quiet and empty of a human presence&, and only the
 light of the vending machine in front of the building feebly
-illuminated the area&. 
+illuminated the area&.
 
-Irritated at how my breathing refused to go back to normal&, 
-I looked over my shoulder at the street I'd run down&. 
+Irritated at how my breathing refused to go back to normal&,
+I looked over my shoulder at the street I'd run down&.
 
-A dim&, narrow road&. 
+A dim&, narrow road&.
 
 A train on the Tokyo-Yokohama line decelerated as it passed close
 overhead&, and the light spilling out from its windows was
 particularly eye-catching&. But even that illumination failed to reach
-the road directly below it&. 
+the road directly below it&.
 
-I squinted at the end of the street&. 
-Had I managed to shake off the police and Yua? 
+I squinted at the end of the street&.
+Had I managed to shake off the police and Yua?
 It was too dark for me to tell&.
 
 //◆ささやき
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch04/08700160ay">
+<voice name="あやせ" class="あやせ" src="voice/ch04/08700160ay">
 "Follow me&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/08700170ta">
+<voice name="拓巳" class="拓巳" src="voice/ch04/08700170ta">
 "Waaahhhh!"
 
 {	CreateSE("SE04","SE_人体_動作_尻餅");
@@ -1087,24 +1087,24 @@ pathetically and whirl around&.
 <PRE box00>
 [text024]
 The one standing there was FES&, garbed in the flashy clothes meant
-for her live shows&. 
+for her live shows&.
 
 As she stood quietly in the darkness&, looking down at me&, her form
 lacked the erupting power it held onstage and instead appeared
-ephemeral&. 
+ephemeral&.
 
-Since it was dim&, I couldn't scope out her expression&. 
+Since it was dim&, I couldn't scope out her expression&.
 
 While I remained stupefied by surprise&, FES quietly extended a hand
 toward me&.
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch04/08700180ay">
+<voice name="あやせ" class="あやせ" src="voice/ch04/08700180ay">
 "Stand&. Quickly&."
 
-Her tone was disinterested&. 
+Her tone was disinterested&.
 
-But she gave off the sense that she wouldn't let me say no&. 
+But she gave off the sense that she wouldn't let me say no&.
 
 Still holding out her hand&, FES slowly turned her head and narrowed
 her eyes&, as if to see through the darkness&.
@@ -1121,12 +1121,12 @@ her eyes&, as if to see through the darkness&.
 <PRE box00>
 [text025]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch04/08700190ay">
+<voice name="あやせ" class="あやせ" src="voice/ch04/08700190ay">
 "You must run&."
 
-Why--
+Why―
 
-Did she know I was fleeing Yua and the police&.&.&.&.
+Did she know I was fleeing Yua and the police&.&.&.
 
 I was wary of her for a second&, but right now&, she was literally
 offering me a helping hand&.
@@ -1159,23 +1159,23 @@ up again and stayed there until the police caught up with me&.
 <PRE box00>
 [text026]
 If possible&, I wanted to rehydrate&.
-But I understood that we couldn't afford to do that&. 
+But I understood that we couldn't afford to do that&.
 
 FES continued steadily&, pulling at my hand&.
 
-We entered narrow alleys and turned at countless intersections&. 
+We entered narrow alleys and turned at countless intersections&.
 
-I had absolutely no clue where I was running&. 
+I had absolutely no clue where I was running&.
 
 Even under normal circumstances&, I had little knowledge of the lay of
-the land in Shibuya&. 
+the land in Shibuya&.
 At this point&, I had no choice but to go wherever FES took me&.
 
-What if this&, too&, were a trap laid by "Shogun"--I started to
-think&, but I shook my head to rid myself of such thoughts&. 
+What if this&, too&, were a trap laid by "Shogun"―I started to
+think&, but I shook my head to rid myself of such thoughts&.
 
 Even if FES were working under "Shogun&," there was nothing I could do
-about it anymore&.&.&.&. 
+about it anymore&.&.&.
 
 Lactic acid had built up in my feet&, making them heavier&, and my
 consciousness was wavering&, as if running too much were keeping
@@ -1193,10 +1193,10 @@ enough oxygen from reaching my brain&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text027]
-I was on the brink of whining things like&.&.&.&. I can't run
-anymore&. 
+I was on the brink of whining things like&.&.&. I can't run
+anymore&.
 
-Maybe I had unconsciously blurted it out countless times already&. 
+Maybe I had unconsciously blurted it out countless times already&.
 
 Even so&, FES devoted herself to continuing forward&, without looking
 back at me once&.
@@ -1214,10 +1214,10 @@ back at me once&.
 <PRE box00>
 [text028]
 Before I knew it&, we'd come out on a road with the Shuto Expressway
-running overhead&. 
+running overhead&.
 
 Though Shibuya Station was right in front of our eyes&, there weren't
-many people around here&. 
+many people around here&.
 
 Without a moment's hesitation&, FES began descending the stairs that
 led to a yawning underground opening&.
@@ -1239,32 +1239,32 @@ led to a yawning underground opening&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text029]
-We stopped at last upon reaching the bottom of the stairs&. 
+We stopped at last upon reaching the bottom of the stairs&.
 
 Wheezing&, I let go of FES's hand and sank into a crouch on the
-stairs&. 
+stairs&.
 
-I wondered exactly how much I had run today&. 
+I wondered exactly how much I had run today&.
 
 It might be the first time in my whole life that I'd performed so much
-physical activity&.&.&.&.
+physical activity&.&.&.
 
 {	Stand("buあやせ_ステージ衣装_自分抱きしめ","ero", 200, @+150);
 	FadeStand("buあやせ_ステージ衣装_自分抱きしめ_ero", 500, true);}
 //◆少し荒い吐息
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch04/08700200ay">
-"Haa&.&.&.&. Haa&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch04/08700200ay">
+"Haa&.&.&. Haa&.&.&."
 
 For some time&, all that could be heard in the dim subway&, with its
-melancholy ambience&, was the sound of FES and I breathing&. 
+melancholy ambience&, was the sound of FES and I breathing&.
 
 I looked up in the direction of the entrance we'd come down from&, but
-I couldn't detect any pursuers&. 
+I couldn't detect any pursuers&.
 
-Did that mean&.&.&.&. we'd somehow managed to escape them&.&.&.&. 
+Did that mean&.&.&. we'd somehow managed to escape them&.&.&.
 
-Even so--
+Even so―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1296,9 +1296,9 @@ It wasn't a place I'd want to visit alone&.
 	FadeStand("buあやせ_ステージ衣装_自分抱きしめ_ero", 500, true);}
 As I went on breathing even harder&, I took a peek at FES's profile&.
 
-The charismatic diva of the indie music scen<pre>e</pre>&, who even now was
-making the young people of Shibuya go crazy about her&.
-A person they called a prophetess&.&.&.&.
+The charismatic diva of the indie music scen<pre>e</pre>&, who even now
+was making the young people of Shibuya go crazy about her&.
+A person they called a prophetess&.&.&.
 
 That FES was together with a gross otaku bastard like me&. It felt
 kind of strange&, somehow&.
@@ -1311,7 +1311,7 @@ camisole&.
 
 A healthy sexiness lay hidden behind her atmosphere of ennui&.
 
-Moe&.&.&.&. no&, that wasn't quite it&. As I'd thought at first&, sexy
+Moe&.&.&. no&, that wasn't quite it&. As I'd thought at first&, sexy
 would be the most appropriate description if I were to put it into
 words&.
 

@@ -88,10 +88,10 @@ if($妄想トリガー３４ == 2)
 <PRE box00>
 [text001]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800010sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800010sn">
+"&.&.&.&.&.&.&."
 
-Sena pursed her lips 
+Sena pursed her lips
 And gingerly accepted the winning popsicle stick&.
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
@@ -99,32 +99,33 @@ And gingerly accepted the winning popsicle stick&.
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 //◆照れくさい
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800020sn">
-"Th&, thank you&.&.&.&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800020sn">
+"Th&, thank you&.&.&."
 
-Surprise left me speechless&. 
+Surprise left me speechless&.
 
 To think I'd hear words of gratitude from Sena's lips; it was a
-situation far exceeeding my imagination&.  
+situation far exceeeding my imagination&.
 
 Perhaps unaware of my startlement&, Sena cast a look at me&, and
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800030sn">
-"You're kind&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800030sn">
+"You're kind&."
 
-Muttered only those two words before whipping her face away&. 
+Muttered only those two words before whipping her face away&.
 Was it a figment of my imagination&, or had she seemed a little bit
-flushed just now? 
+flushed just now?
 
 Well&, I'd changed my view of her a bit now that she'd given me her
-sincere thanks&. 
+sincere thanks&.
 
-I'd thought she was scary&, but parts of her were c<pre>u</pre>te as well&.
+I'd thought she was scary&, but parts of her were
+c<pre>u</pre>te as well&.
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800040ko">
-"You knooow~&, with what happened now&, Sena-shan--" 
+<<voice name="梢" class="こずえ" src="voice/ch07/14800040ko">
+"You knooow~&, with what happened now&, Sena-shan―"
 
 Kozu-pii twirled in place and peered happily at our faces&.
 
@@ -133,29 +134,29 @@ Kozu-pii twirled in place and peered happily at our faces&.
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_normal", 300, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800050ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800050ko">
 "Fell in love with Takumi-shan~"
 
 {	Stand("buセナ_制服_通常","angry", 300, @-200);
 	DeleteStand("buセナ_制服_横向_shy", 500, false);
 	FadeStand("buセナ_制服_通常_angry", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800060sn">
-"Ko&, Kozue! What kind of stupid--"
+<voice name="セナ" class="セナ" src="voice/ch07/14800060sn">
+"Ko&, Kozue! What kind of stupid―"
 
 //◆嬉しそう
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800070ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800070ko">
 "Your face~ is going all blushy-wushy~"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800080sn">
-"Sh&, shut up&, shut up!" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800080sn">
+"Sh&, shut up&, shut up!"
 
-Ohh&.&.&.&. th&, that line's from&.&.&.&.! 
+Ohh&.&.&. th&, that line's from&.&.&.!
 
 It was a speech quirk in the mother of all tsundere games&, "Sougan no
-Jun&." 
+Jun&."
 When I inadvertently broke into a grin&, Sena jabbed a finger at me&.
 
 </PRE>
@@ -171,50 +172,50 @@ When I inadvertently broke into a grin&, Sena jabbed a finger at me&.
 [text002]
 //◆照れくさい
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800090sn">
-"You're smiling&, too&, aren't you?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800090sn">
+"You're smiling&, too&, aren't you?"
 
-It was the first time I'd seen such an adorable&, flustered Sena&. 
+It was the first time I'd seen such an adorable&, flustered Sena&.
 Beginning to feel a tad mischievous&, I asked her an experimental
 question&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800100ta">
-"Do&, do you like&.&.&.&. Crunchy-kuns?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800100ta">
+"Do&, do you like&.&.&. Crunchy-kuns?"
 
 {	Stand("buセナ_制服_通常","hard", 300, @-200);
 	DeleteStand("buセナ_制服_横向_shy", 500, true);
 	FadeStand("buセナ_制服_通常_hard", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800110sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800110sn">
 "You got a problem with that?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800120ta">
-"Wh&, what about them&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800120ta">
+"Wh&, what about them&.&.&.?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800130sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800130sn">
 "Cause they're tasty&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800140ta">
-"I&, is that it&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800140ta">
+"I&, is that it&.&.&.?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800150sn">
-"And they're c<pre>u</pre>te&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800150sn">
+"And they're c<pre>u</pre>te&."
 
 Sena muttered ambiguously&.
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800160ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800160ko">
 "Sooo cuuute&. Sooo cuuute ♪"
 
-Was it possible for a popsicle to be c<pre>u</pre>te or unc<pre>u</pre>te&.&.&.&.
+Was it possible for a popsicle to be c<pre>u</pre>te or unc<pre>u</pre>te&.&.&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800170sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800170sn">
 "I don't mean the popsicle&."
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
@@ -222,26 +223,26 @@ Was it possible for a popsicle to be c<pre>u</pre>te or unc<pre>u</pre>te&.&.&.&
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 //◆照れくさい
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800180sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800180sn">
 "Crunchy-kun is c<pre>u</pre>te&."
 
-I see&. The mascot character&. 
+I see&. The mascot character&.
 
-&.&.&.&.Was it actually c<pre>u</pre>te?
-
-//◆照れくさい
-//【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800190sn">
-"His buzzc<pre>u</pre>t&.&.&.&. is the best&."
+&.&.&.Was it actually c<pre>u</pre>te?
 
 //◆照れくさい
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800200sn">
-"Makes me wanna hug him and rub my cheek against it&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800190sn">
+"His buzzc<pre>u</pre>t&.&.&. is the best&."
 
-Her expression as she spoke was indeed that of a maiden in love&. 
+//◆照れくさい
+//【セナ】
+<voice name="セナ" class="セナ" src="voice/ch07/14800200sn">
+"Makes me wanna hug him and rub my cheek against it&."
+
+Her expression as she spoke was indeed that of a maiden in love&.
 We&, well&, different people have different interests and tastes and
-whatnot&.&.&.&.
+whatnot&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -294,37 +295,37 @@ single glance and immediately proceeded to ignore my suggestion&.
 And for some reason&, she held her own popsicle stick out to me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800210ta">
-"&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800210ta">
+"&.&.&.?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800220sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800220sn">
+"&.&.&.&.&.&.&."
 
 Moreover&, she offered no explanation&.
 Uh&, it doesn't exactly make me happy to be given a blank popsicle
-stick&. 
+stick&.
 
 Maybe she was ordering me to go throw it away in the convenience store
 trash can&.
 
-With her&, such a thing more than conceivable&. 
+With her&, such a thing more than conceivable&.
 
 Sena definitely had a bunch of weak-willed younger brothers&, and she
-probably ordered them around all the time&. 
+probably ordered them around all the time&.
 
-Uuuh&, making a fool of me&. 
+Uuuh&, making a fool of me&.
 But things might get scary if I disobeyed her&, so I bit my lip and
 unwillingly took it from her&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800230sn">
-"I win&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800230sn">
+"I win&."
 
 Said Sena&, her line of sight fixed on the sky that peeped down from
-the gaps between buildings&. 
+the gaps between buildings&.
 
-I sighed&, took a nonchalant glance at the losing stick&, 
+I sighed&, took a nonchalant glance at the losing stick&,
 And sucked in my breath&.
 
 </PRE>
@@ -344,32 +345,32 @@ And sucked in my breath&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-Wha&.&.&.&. what was this&.&.&.&.
+Wha&.&.&. what was this&.&.&.
 
 {	Fade("棒アイス", 1000, 0, null, true);
 	Delete("棒アイス");
 	CreateSE("SE01","SE_日常_雑踏02");
 	MusicStart("SE01", 1000, 1000, 0, 1000, null, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800240sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800240sn">
 "It came out last week&. A limited-edition Shibuya item&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800250sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800250sn">
 "It has greater worth than a regular win&."
 
-Sena explained with a satisfied expression&. 
+Sena explained with a satisfied expression&.
 Maybe this had made her proud of herself&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800260sn">
-"So I win&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800260sn">
+"So I win&."
 
-What were we competing over&, anyway&.&.&.&.? 
-Anyway&.&.&.&. I didn't need a winning stick created in such poor
-taste&.&.&.&. 
+What were we competing over&, anyway&.&.&.?
+Anyway&.&.&. I didn't need a winning stick created in such poor
+taste&.&.&.
 
-I felt like snapping that damn stick in half, but I sucked it up 
+I felt like snapping that damn stick in half, but I sucked it up
 and handed the stick back to Sena.
 
 </PRE>
@@ -404,14 +405,14 @@ if($妄想トリガー３４ == 0)
 <PRE box00>
 [text005]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800270sn">
-"I refuse&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800270sn">
+"I refuse&."
 
-Sh&, she felled me with a single blow&.&.&.&. 
+Sh&, she felled me with a single blow&.&.&.
 
 What an unlikable girl&, ignoring the kindness of someone's heart&.
 Or was this the stubbornness that tsundere characters are guaranteed
-to come equipped with? 
+to come equipped with?
 
 I won't moe over something like that in the third dimension!
 
@@ -419,11 +420,11 @@ I won't moe over something like that in the third dimension!
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_normal", 300, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800280ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800280ko">
 "Okey&, dokey&, let's do it thiiis way&, Sena-shan&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800290ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800290ko">
 "If you use the Shibuya-style talk we studied together before&,
 Takumi-shan will give you his winning stick ♪"
 
@@ -431,30 +432,30 @@ Takumi-shan will give you his winning stick ♪"
 	DeleteStand("buセナ_制服_食事棒_sigh", 500, false);
 	FadeStand("buセナ_制服_通常_hard", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800300sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800300sn">
 "I'm telling you&, I don't need it&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800310ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800310ko">
 "It's fiiine&. Huuurry&. The words you say when you're having fun&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800320ko">
-"Like&, this is the bomb&. Ohmigod&, what a&, like&, total blast--" 
+<<voice name="梢" class="こずえ" src="voice/ch07/14800320ko">
+"Like&, this is the bomb&. Ohmigod&, what a&, like&, total blast―"
 
 Su&, such classic delinquent kogal vocab&. There was some retro slang
-from a few years ago mixed in as well&. 
+from a few years ago mixed in as well&.
 
 They'd studied that together? In a certain sense&, it made for an
-amusing prospect&, but&.&.&.&.
+amusing prospect&, but&.&.&.
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800330ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800330ko">
 "To help get accustomed to Shibuya&."
 
 //◆ささ＝さあさあどうぞ
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800340ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800340ko">
 "Go&, go&, Sena-shan&."
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
@@ -462,29 +463,29 @@ amusing prospect&, but&.&.&.&.
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 //◆恥ずかしくて必死に抵抗
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800350sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800350sn">
 "Impossible&, I&, I can't&, I can't do it now&."
 
 {	Stand("bu梢_制服_武器構え青","normal", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_normal", 300, true);
 	DeleteStand("bu梢_制服_武器構え青_smile", 0, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800360ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800360ko">
 "It's noooot impossible&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800370sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800370sn">
 "I can't!"
 
 {	Stand("bu梢_制服_武器構え青","sad", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_sad", 300, true);
 	DeleteStand("bu梢_制服_武器構え青_normal", 0, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800380ko">
-"&.&.&.&.Uuu&."
+<<voice name="梢" class="こずえ" src="voice/ch07/14800380ko">
+"&.&.&.Uuu&."
 
-Kozu-pii stared steadily at Sena as she began to weep&. 
-If she pulled this trick&, even Sena--
+Kozu-pii stared steadily at Sena as she began to weep&.
+If she pulled this trick&, even Sena―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -499,32 +500,32 @@ If she pulled this trick&, even Sena--
 [text006]
 //◆ひるむ
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800390sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800390sn">
+"&.&.&.&.&.&.&."
 
 {	Stand("buセナ_制服_通常","angry", 300, @-200);
 	FadeStand("buセナ_制服_通常_angry", 300, true);
 	DeleteStand("buセナ_制服_通常_hard", 0, true);}
 //◆ため息
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800400sn">
-"&.&.&.&.Haah&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800400sn">
+"&.&.&.Haah&."
 
 //◆ボソボソと
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800410sn">
-"Like&.&.&.&. this is the bomb&. Omigod&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800410sn">
+"Like&.&.&. this is the bomb&. Omigod&.&.&."
 
 //◆ボソボソと
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800420sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800420sn">
 "What a&, like&, total blast&."
 
 {	Stand("bu梢_制服_武器構え青","smile", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_sad", 300, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800430ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800430ko">
 "Eheh&. You still stutter over it&, Sena-shan&."
 
 {	Stand("buセナ_制服_横向","shy", 300, @-200);
@@ -532,10 +533,10 @@ If she pulled this trick&, even Sena--
 	FadeStand("buセナ_制服_横向_shy", 500, true);}
 Red-faced&, Sena looked away&.
 
-I&, I'd seen something truly valuable&.&.&.&. Totally different from
+I&, I'd seen something truly valuable&.&.&. Totally different from
 how she'd been when she was rattling off stuff about outstandingly
 abstruse theories shortly beforehand&. Dere mode was the absolute
-best&. 
+best&.
 
 I'd had another glimpse of the possibilities available to the third
 dimension&.
@@ -549,15 +550,15 @@ Unexpectedly&, she took it without putting up more resistance&.
 	DeleteStand("buセナ_制服_横向_shy", 500, false);
 	FadeStand("buセナ_制服_通常_angry", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800440sn">
-"I won't thank you&, okay&.&.&.&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800440sn">
+"I won't thank you&, okay&.&.&."
 
 Since she glared at me as she ostentatiously reshouldered her
-Di-Sword&, I soon lowered my eyes&. 
+Di-Sword&, I soon lowered my eyes&.
 
 I'd given her a present&, so why did she have to threaten me? I just
 couldn't deal with her&. I wondered if she'd do me the favor of
-staying forever in dere mode&.&.&.&.
+staying forever in dere mode&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -584,68 +585,68 @@ staying forever in dere mode&.&.&.&.
 <PRE box00>
 [text007]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800450sn">
-"More importantly&, you--"
+<voice name="セナ" class="セナ" src="voice/ch07/14800450sn">
+"More importantly&, you―"
 
 {	Stand("bu梢_制服_武器構え青","smile", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_normal", 300, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800460ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800460ko">
 "He's Takumi-shan&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800470sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800470sn">
 "Takumi-shan&, are you?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800480ta">
-"Wai&, no&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800480ta">
+"Wai&, no&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800490ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800490ta">
 "You&.&.&. d&, don't have to add on -shan&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800500sn">
-"Your name?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800500sn">
+"Your name?"
 
-I felt like I'd told her before&, but&.&.&.&. 
+I felt like I'd told her before&, but&.&.&.
 Apparently she'd forgotten me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800510ta">
-"Ni&, Nishijou Takumi&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800510ta">
+"Ni&, Nishijou Takumi&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800520sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800520sn">
 "Nishijou&, then&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800530sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800530sn">
 "Don't create any more errors&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800540ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800540ta">
 "Hah?"
 
 {	Stand("bu梢_制服_正面","normal", 200, @+200);
 	DeleteStand("bu梢_制服_武器構え青_smile", 500, true);
 	FadeStand("bu梢_制服_正面_normal", 500, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800550ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800550ko">
 "Whyyy?"
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800560ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800560ko">
 "The sword is your own heart&. You mustn't deny it&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800570ko">
-"My sword saved me&, you know?" 
+<<voice name="梢" class="こずえ" src="voice/ch07/14800570ko">
+"My sword saved me&, you know?"
 
-Saved her&.&.&.&. huh&. 
-What had happened in Kozu-pii's past&.&.&.&. 
+Saved her&.&.&. huh&.
+What had happened in Kozu-pii's past&.&.&.
 
 It also bothered me that she had mentioned "wishing to kill&."
 
@@ -657,43 +658,43 @@ It also bothered me that she had mentioned "wishing to kill&."
 <PRE box00>
 [text008]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800580sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800580sn">
 "The action of turning delusions into reality brings with it certain
 risks&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800590sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800590sn">
 "The antiparticles that form together with particles in pair
 production become stocked up in your Di-Sword&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800600sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800600sn">
 "Mathematically speaking&, antiparticles are that which 'leads toward
 the past&.'"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800610sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800610sn">
 "Because of this&, the more of them a Gigalomaniac stocks up&, the
 greater the consequential 'lag' between him and present conditions&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800620sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800620sn">
 "At last those contradictions will lead him toward existential
-self-destruction&." 
+self-destruction&."
 
 You sure you're speaking Japanese?
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800630sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800630sn">
 "Kozue&, you too&, stop drawing your Di-Sword frequently&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800640sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800640sn">
 "Heed my warning if you want to carry out an ordinary lifestyle&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800650sn">
-"This has to do with whether both of you live or die&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14800650sn">
+"This has to do with whether both of you live or die&."
 
 Sena didn't appear to be saying it as a joke&. She wasn't the type to
 joke around&.
@@ -706,64 +707,64 @@ joke around&.
 <PRE box00>
 [text009]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800660sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800660sn">
 "Furthermore&, Nishijou&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800670sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800670sn">
 "You real-booted without a Di-Sword&. That ought to be fundamentally
 impossible&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800680sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800680sn">
 "Because we're able to interfere with the Dirac sea by using Di-Swords
 as our conduit&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800690sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800690sn">
 "You aren't ordinary&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800700sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800700sn">
 "It wouldn't be surprising if you caught their eye&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800710ta">
-"Wh&, who's&.&.&.&. they?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800710ta">
+"Wh&, who's&.&.&. they?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800720sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800720sn">
 "Those who are trying to abuse the power of Gigalomaniacs&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800730ta">
-"Do&, d'you mean&.&.&.&. 'Shogun'!?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800730ta">
+"Do&, d'you mean&.&.&. 'Shogun'!?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800740sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800740sn">
 "Don't know him&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800750sn">
-"Who is that?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800750sn">
+"Who is that?"
 
-&.&.&.&.Kozu-pii&, is Sena lying?
+&.&.&.Kozu-pii&, is Sena lying?
 
 {	Stand("bu梢_制服_武器構え青","normal", 200, @+200);
 	DeleteStand("bu梢_制服_正面_normal", 500, true);
 	FadeStand("bu梢_制服_武器構え青_normal", 500, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800760ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800760ko">
 "Noooope&."
 
 {	Stand("buセナ_制服_通常","angry", 300, @-200);
 	FadeStand("buセナ_制服_通常_angry", 300, false);
 	DeleteStand("buセナ_制服_通常_hard", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800770sn">
-"Nishijou&, who is 'Shogun'?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800770sn">
+"Nishijou&, who is 'Shogun'?"
 
-The chill in her voice made me shudder&. 
+The chill in her voice made me shudder&.
 Naturally&, I couldn't bring myself to meet her eyes&.
 
 </PRE>
@@ -782,7 +783,7 @@ She seized my shirtfront&.
 It became hard to breathe&.
 
 {	Delete("背景０");}
-Uuuh&, why was she so violent&.&.&.&.
+Uuuh&, why was she so violent&.&.&.
 Had I done anything wrong?
 
 </PRE>
@@ -793,65 +794,65 @@ Had I done anything wrong?
 <PRE box00>
 [text010]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800780sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800780sn">
 "Is he a man in his forties?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800790ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800790ta">
 "N&, no&, he's a li&, little old man&."
 
 {	Stand("buセナ_制服_通常","hard", 300, @-200);
 	FadeStand("buセナ_制服_通常_hard", 300, false);
 	DeleteStand("buセナ_制服_通常_angry", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800800sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800800sn">
+"&.&.&.&.&.&.&."
 
 Sena let me go at once&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800810sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14800810sn">
 "Is he a Gigalomaniac?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800820ta">
-"I&, I don't know&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800820ta">
+"I&, I don't know&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800830ta">
-"Bu&, but&, he's the true&.&.&.&. New-Gen criminal&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800830ta">
+"Bu&, but&, he's the true&.&.&. New-Gen criminal&.&.&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800840sn">
-"The true criminal&.&.&.&. you say?" 
+<voice name="セナ" class="セナ" src="voice/ch07/14800840sn">
+"The true criminal&.&.&. you say?"
 
 Sena laid a finger against her chin and lapsed into thought&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800850sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800850sn">
+"&.&.&.&.&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800860ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800860ta">
+"&.&.&.&.&.&.&."
 
-A volatile atmosphere&. 
-Unidentifiable anxiety&. 
-Sena knew something&. 
+A volatile atmosphere&.
+Unidentifiable anxiety&.
+Sena knew something&.
 
-What the heck was it&.&.&.&.? 
+What the heck was it&.&.&.?
 Who were the people trying to abuse the power of Gigalomaniacs?
 
 {	Stand("bu梢_制服_武器構え青","smile", 200, @+200);
 	FadeStand("bu梢_制服_武器構え青_smile", 300, false);
 	DeleteStand("bu梢_制服_武器構え青_normal", 300, true);}
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800870ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800870ko">
 "Ah&, I know&, I knooow! Let's take a commemorative photo&, all three
-of us! See&, over there!" 
+of us! See&, over there!"
 
 Kozu-pii abruptly piped up in a cheery voice&, pointing at something&.
-It was--
+It was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -873,9 +874,9 @@ It was--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-The arcade next to the police box&. 
+The arcade next to the police box&.
 If we were to take a commemorative photo there&, it would inevitably
-end up&.&.&.&.
+end up&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -896,23 +897,23 @@ Yep&, it turned out like this&.
 
 //◆まーんなか＝真ん中
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800880ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800880ko">
 "C'mon&, Takumi-shan&, in the miiidle!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14800890ta">
-"No&, wai&, I&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14800890ta">
+"No&, wai&, I&.&.&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800900ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800900ko">
 "Sena-shan&, you're nooot allowed to look away&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14800910sn">
-"I don't care for this sort of&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14800910sn">
+"I don't care for this sort of&.&.&."
 
 //【梢】
-<<voice name="梢" class="こずえ" src="ch07/14800920ko">
+<<voice name="梢" class="こずえ" src="voice/ch07/14800920ko">
 "It's Kozu-pii's fiiirst time&, too&. Ba-dum&, ba-dum ♪"
 
 Obeying the on-screen instructions&, Kozu-pii kept pressing the
@@ -923,7 +924,7 @@ came out of the screen&.
 
 //ＶＦ//機械の音声
 //【シール機】
-<voice name="シール機" class="シール機" src="ch07/14800930sm">
+<voice name="シール機" class="シール機" src="voice/ch07/14800930sm">
 "Okay! Strike a pose! Click!"
 
 </PRE>
@@ -952,7 +953,7 @@ came out of the screen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text013]
-&.&.&.&.Their Di-Swords didn't show up<k>
+&.&.&.Their Di-Swords didn't show up<k>
 In the photograph we took&.
 
 </PRE>

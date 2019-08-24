@@ -74,7 +74,7 @@ intuition&, but
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @-150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, true);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, true);}
---My intuition is usually on the money&, isn't it&.
+\My intuition is usually on the money&, isn't it&.
 
 Maybe&, in order to distract himself from that premonition&, he had
 ended up thinking about things that one might even call curiously
@@ -119,8 +119,8 @@ through his socks&.
 [text002]
 //Ÿ¬º
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18600010yu">
-"Ban-san&.&.&.&.!"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18600010yu">
+"Ban-san&.&.&.!"
 
 The sliding noise of the automatic doors at the entrance resounded
 through the lobby&.
@@ -147,13 +147,13 @@ area&.
 
 //Ÿ¬º
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600020bn">
+<voice name="”»" class="”»" src="voice/ch09/18600020bn">
 "Hey&, why'd you follow me&. I told you guys to go to ground&."
 
 //Ÿ¬º
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18600030yu">
-"I'm sorry&.&.&.&. but I&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18600030yu">
+"I'm sorry&.&.&. but I&.&.&."
 
 Ban looked around for Momose&. But she wasn't anywhere&.
 
@@ -162,18 +162,18 @@ scratched his head&, his face perplexed&.
 
 //Ÿ¬º
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600040bn">
+<voice name="”»" class="”»" src="voice/ch09/18600040bn">
 "Go back right this instant&. This isnft a game&."
 
 //Ÿ¬º
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/18600050yu">
-"I&, I understand that&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18600050yu">
+"I&, I understand that&.&.&."
 
 //Ÿ¬º
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600060bn">
-"If you understand&, then go home--"
+<voice name="”»" class="”»" src="voice/ch09/18600060bn">
+"If you understand&, then go home\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -194,9 +194,9 @@ scratched his head&, his face perplexed&.
 <PRE box00>
 [text003]
 At that moment&, they heard a creaking sound from the hallway
-extending beyond the lobby&. 
+extending beyond the lobby&.
 
-A dim&, empty corridor&. 
+A dim&, empty corridor&.
 From the center of it rolled a wheelchair without anyone to sit in
 it&, advancing on Ban and Yua&.
 
@@ -212,7 +212,7 @@ up the stairs&.
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600070bn">
+<voice name="”»" class="”»" src="voice/ch09/18600070bn">
 "Anyway&, Yua-chan&, go home! Okay!?"
 
 {	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, false);
@@ -258,14 +258,14 @@ enthusiasm&.
 Chasing the footsteps led him to the roof of the outpatient building&.
 
 
-Like a garden&, it had been provided with plantings&. 
+Like a garden&, it had been provided with plantings&.
 Doubtless it was a space for helping to soothe patients&, but
 unfortunately&, it didn't seem to come with nighttime lighting&, and
 he couldn't see what kinds of flowers were growing there&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600080bn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600080bn">
+"&.&.&.&.&.&.&."
 
 Also&, since it was the roof and all&, it had a strong wind&.
 Short of breath&, Ban quickly studied his surroundings&.
@@ -273,7 +273,7 @@ Short of breath&, Ban quickly studied his surroundings&.
 The man who'd made the footsteps had definitely fled here&, but now
 his form had unexpectedly disappeared&.
 
---Did he do a neat job of luring me up here?
+\Did he do a neat job of luring me up here?
 
 As he ran away&, the man had made so much noise&, it sounded almost
 deliberate&.
@@ -317,7 +317,7 @@ Round&.
 Black&.
 
 //¦ƒxƒ“ƒ`‚É’u‚©‚ê‚Ä‚¢‚é‚Ì‚Íƒ_[ƒXƒXƒpƒCƒ_[‚Ìƒwƒ‹ƒƒbƒg‚Å‚·
-A human's decapitated head--
+A human's decapitated head\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -390,7 +390,7 @@ The unique scent of blood&.
 Pain&, which his brain had begun to acknowledge a little after the
 gunshot&.
 
-He'd been shot--
+He'd been shot\
 
 The instant he became aware of this&, his legs went limp&.
 
@@ -425,58 +425,58 @@ Unable to stand&, he fell there&, shoulders first&.
 	Fade("back11", 500, 0, null, true);
 	Delete("back11");}
 //‚r‚d//‹ß‚Ã‚¢‚Ä‚­‚éŒC‰¹
-The footsteps from before approached him&. 
+The footsteps from before approached him&.
 Desperate&, Ban looked up at the man with eyes that were already
-beginning to fog over&. 
+beginning to fog over&.
 
-A black shadow&. 
+A black shadow&.
 Holding a handgun&.
 The darkness kept him from recognizing that face&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600090su">
-"Ah--ah&." 
+<voice name="z–K" class="z–K" src="voice/ch09/18600090su">
+"Ah\ah&."
 
 A voice&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600100su">
-"I told ya to back out&." 
+<voice name="z–K" class="z–K" src="voice/ch09/18600100su">
+"I told ya to back out&."
 
 He'd heard it before&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600110su">
-"Too bad for you&, Sempai&." 
+<voice name="z–K" class="z–K" src="voice/ch09/18600110su">
+"Too bad for you&, Sempai&."
 
-Suwa Mamoru said mockingly&, 
+Suwa Mamoru said mockingly&,
 Walking past the clumsily fallen Ban&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600120bn">
-"Suwa&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600120bn">
+"Suwa&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600130bn">
-"You&.&.&.&. at me&.&.&.&.?"
+<voice name="”»" class="”»" src="voice/ch09/18600130bn">
+"You&.&.&. at me&.&.&.?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600140su">
+<voice name="z–K" class="z–K" src="voice/ch09/18600140su">
 "Yep&. Man&, guess this is where I oughta get congratulated for firing
-my first shot on the job&, huh&." 
+my first shot on the job&, huh&."
 
 Grinning&, Suwa casually picked up the "object" set on the bench&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600150su">
+<voice name="z–K" class="z–K" src="voice/ch09/18600150su">
 "By the way&, Sempai&, you were focusin' awfully hard on this&. Was it
 that unusual to you?"
 
 {	CreateTextureEX("back10", 500, 0, 0, "cg/bg/bg168_01_3_ƒ_[ƒXƒXƒpƒCƒ_[ƒƒbƒg_a.jpg");
 	Fade("back10", 500, 1000, null, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600160su">
-"A Darth Spider helmet&." 
+<voice name="z–K" class="z–K" src="voice/ch09/18600160su">
+"A Darth Spider helmet&."
 
 Coming back up to Ban's side&, Suwa held the black helmet in front of
 Ban's eyes as though to flaunt it&.
@@ -496,8 +496,8 @@ Ban's eyes as though to flaunt it&.
 <PRE box00>
 [text008]
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600170bn">
-"Ha&, ha&.&.&.&. rubbing it in&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600170bn">
+"Ha&, ha&.&.&. rubbing it in&.&.&."
 
 As Ban smiled bitterly&, most of his sight had already turned hazy&.
 The sensation at the ends of his limbs had gone terribly cold&.
@@ -524,43 +524,43 @@ ability to see them&.
 	MusicStart("SE03", 500, 500, 0, 1000, null, false);}
 //ŸŒŒ‚ğ“f‚­
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600180bn">
-"Hack&, hack&.&.&.&." 
+<voice name="”»" class="”»" src="voice/ch09/18600180bn">
+"Hack&, hack&.&.&."
 
 As he coughed&, the taste of blood spread through his mouth&.
 
 //Ÿu‚·A‚ívuz–Kv
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600190bn">
-"Hey&, Su&, wa&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600190bn">
+"Hey&, Su&, wa&.&.&."
 
 //ŸŒY–ƒfƒJ‚Æ“Ç‚ñ‚Å‚­‚¾‚³‚¢
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600200bn">
-"You're&.&.&.&. a&, a fool&. St&, still a kid&, and a hopelessly
-foolish detective&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600200bn">
+"You're&.&.&. a&, a fool&. St&, still a kid&, and a hopelessly
+foolish detective&.&.&."
 
 //Ÿ‹êÎ
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600210bn">
-"But&.&.&.&. I&, I thought&.&.&.&. pretty damn highly&.&.&.&. of
-you&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600210bn">
+"But&.&.&. I&, I thought&.&.&. pretty damn highly&.&.&. of
+you&.&.&."
 
 //Ÿš}Î‚¤
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600220su">
+<voice name="z–K" class="z–K" src="voice/ch09/18600220su">
 "And you irritated the fuckin' hell out of me&, Sempai&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600230bn">
-"Ha&, ha&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch09/18600230bn">
+"Ha&, ha&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600240bn">
-"Well&, I c&, can understand why&.&.&.&." 
+<voice name="”»" class="”»" src="voice/ch09/18600240bn">
+"Well&, I c&, can understand why&.&.&."
 
 Ban's breathing steadily grew shallower&. Air leaked from his throat
-with a hissing sound&. 
+with a hissing sound&.
 His eyes no longer seized on anything&.
 
 </PRE>
@@ -573,23 +573,23 @@ His eyes no longer seized on anything&.
 <PRE box00>
 [text009]
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600250bn">
-"Who&.&.&.&. are you&.&.&.&." 
+<voice name="”»" class="”»" src="voice/ch09/18600250bn">
+"Who&.&.&. are you&.&.&."
 
 Ban's final question&, as his consciousness faded away&.
 Suwa answered it while pointing the barrel of the gun down at him&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600260su">
+<voice name="z–K" class="z–K" src="voice/ch09/18600260su">
 "A wizard&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/18600270bn">
-"&.&.&.&.You&.&.&.&. fool&.&.&.&." 
+<voice name="”»" class="”»" src="voice/ch09/18600270bn">
+"&.&.&.You&.&.&. fool&.&.&."
 
-At some point&, the wind had stopped&. 
-In the midst of the abruptly calm darkness&. 
-Two figures went still&. 
+At some point&, the wind had stopped&.
+In the midst of the abruptly calm darkness&.
+Two figures went still&.
 
 But that too lasted for only a moment&.
 
@@ -602,7 +602,7 @@ Suwa's finger slowly tightened around the trigger&.
 //‚a‚f//•
 //Ÿ¦‚±‚ÌƒtƒŒ[ƒY‚Í“V¬_Œõ‰ï‚ÌMÒ‚ª‚æ‚­g‚¤Œ¾—tB‚RÍ‚É‚Ä‘q‚ªA‚WÍ‚É‚Ä—tŒ‚ªŒû‚É‚µ‚Ä‚¢‚Ü‚·B
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch09/18600280su">
+<voice name="z–K" class="z–K" src="voice/ch09/18600280su">
 "May the divine light save you&, Sempai&."
 
 </PRE>

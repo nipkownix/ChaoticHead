@@ -54,26 +54,26 @@ function ch08_159_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚R‚T()
 [text001]
 //ŸŠ´S‚µ‚Ä‚¢‚é
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900010bn">
-"Hmm~mm&." 
+<voice name="”»" class="”»" src="voice/ch08/15900010bn">
+"Hmm~mm&."
 
 Ban read a file with ferocious intensity in Freesia's reception
-room--although it was one in name only&, being a narrow space set
+room\although it was one in name only&, being a narrow space set
 apart by shelving&.
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 //Ÿ‚¨‚Ç‚¨‚Ç
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900020yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900020yu">
+"&.&.&.&.&.&.&."
 
 Opposite him&, Yua shrank into herself where she sat&. She had been
 incessantly peeking at Ban's expression for a while now&. She was the
-very picture of a child showing her report card to her parent&. 
+very picture of a child showing her report card to her parent&.
 
 Ban was reading a report on everything Yua had investigated up until
-now regarding the New-Gen cases and Nishijou Takumi&. 
+now regarding the New-Gen cases and Nishijou Takumi&.
 
 Including things like a log of the chat between Takumi and "Shogun" on
 the day before the "staking" incident&.
@@ -84,12 +84,12 @@ Yua had concluded that Takumi really was the true New-Gen culprit&.
 	Stand("buq_ƒX[ƒc_’Êí","normal", 150, @220);
 	FadeStand("buq_ƒX[ƒc_’Êí_normal", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900030mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900030mm">
 "How amazing&. Did you find all of this on your own?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900040yu">
-"Yes&, more or less&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900040yu">
+"Yes&, more or less&.&.&."
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, false);}
 Yua lowered her face apologetically even in response to Momose's words
@@ -122,52 +122,52 @@ But Ban&, like Momose&, was impressed by the high quality of her
 report&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900050bn">
+<voice name="”»" class="”»" src="voice/ch08/15900050bn">
 "You've got a pretty good angle here&. Well done&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900060bn">
+<voice name="”»" class="”»" src="voice/ch08/15900060bn">
 "I'm especially interested in Nishijou Takumi's multiplicity&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900070bn">
+<voice name="”»" class="”»" src="voice/ch08/15900070bn">
 "'Nishijou Takumi has multiple personalities&, and while Nishijou
 Takumi - the original personality is sleeping&, another personality
 becomes active and commits the murders&.'"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900080bn">
+<voice name="”»" class="”»" src="voice/ch08/15900080bn">
 "Man&, it's seriously fascinating stuff&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900090bn">
+<voice name="”»" class="”»" src="voice/ch08/15900090bn">
 "But maybe a little distant from reality&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900100yu">
-"Um&.&.&.&. do you not think Nishijou-kun is the criminal?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900100yu">
+"Um&.&.&. do you not think Nishijou-kun is the criminal?"
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900110bn">
-"&.&.&.&.Can I say it plainly?" 
+<voice name="”»" class="”»" src="voice/ch08/15900110bn">
+"&.&.&.Can I say it plainly?"
 
 Yua nodded&, her face going a bit stiff&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900120bn">
-"We in the police--"
+<voice name="”»" class="”»" src="voice/ch08/15900120bn">
+"We in the police\"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900130bn">
+<voice name="”»" class="”»" src="voice/ch08/15900130bn">
 "Don't view Nishijou Takumi as a suspect&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @-220);
@@ -178,7 +178,7 @@ Yua nodded&, her face going a bit stiff&.
 	Stand("buq_ƒX[ƒc_’Êí","sigh", 150, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900140mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900140mm">
 "Heh&, is that so&."
 
 Not only Yua but also Momose widened her eyes&.
@@ -190,15 +190,15 @@ Ban grinned ruefully&. Leaning against the back of the sofa&, he
 folded his hands behind his head&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900150bn">
+<voice name="”»" class="”»" src="voice/ch08/15900150bn">
 "At least&, he's innocent in the 'staking&.'"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900160bn">
+<voice name="”»" class="”»" src="voice/ch08/15900160bn">
 "There were fingerprints stuck to the stakes pinning the corpse up&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900170bn">
+<voice name="”»" class="”»" src="voice/ch08/15900170bn">
 "We obtained Nishijou's fingerprints and compared them&, but there was
 absolutely zero overlap&."
 
@@ -208,8 +208,8 @@ absolutely zero overlap&."
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);}
 //Ÿ•ğ‘R
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900180yu">
-"No&.&.&.&. way&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900180yu">
+"No&.&.&. way&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -220,7 +220,7 @@ absolutely zero overlap&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-Yua immediately went pale&, and her lips started trembling&. 
+Yua immediately went pale&, and her lips started trembling&.
 
 Now that everything she believed had come clattering down&, guilt over
 the horrible things she'd said to Takumi advanced on her heart&.
@@ -228,34 +228,34 @@ the horrible things she'd said to Takumi advanced on her heart&.
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 400, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900190bn">
+<voice name="”»" class="”»" src="voice/ch08/15900190bn">
 "Thanks to the fingerprints on the stakes&, we're almost certain of
 our suspect&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900200bn">
+<voice name="”»" class="”»" src="voice/ch08/15900200bn">
 "Though&, we haven't made it public to the media yet&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900210bn">
+<voice name="”»" class="”»" src="voice/ch08/15900210bn">
 "By the way&, it was Suwa's achievement&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","sigh", 150, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900220mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900220mm">
 "It's a wonder that you can loiter around here while Suwa-chan tries
-his best out there&.&.&.&."
+his best out there&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900230bn">
+<voice name="”»" class="”»" src="voice/ch08/15900230bn">
 "Truthfully&, I got taken off the case&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","hard", 150, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_sigh", 0, false);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900240mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900240mm">
 "Haa!?"
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @220);
@@ -263,9 +263,9 @@ his best out there&.&.&.&."
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //Ÿ‚Í‚Á‚ÍÎ‚¤
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900250bn">
+<voice name="”»" class="”»" src="voice/ch08/15900250bn">
 "The higher-ups found out that I'd been slacking off on the main
-investigation to go learn about the GE rate and such&, ha-ha&." 
+investigation to go learn about the GE rate and such&, ha-ha&."
 
 That was the reason&, why Ban wanted to tell his junior Suwa that
 there was no need to go as far&, as calling to inform him of the
@@ -275,23 +275,23 @@ seventh case&.
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_hard", 0, false);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900260mm">
-"You really&.&.&.&. you need to conduct yourself better&."
+<voice name="•S£" class="•S£" src="voice/ch08/15900260mm">
+"You really&.&.&. you need to conduct yourself better&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900270mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900270mm">
 "Well&, I'm partly responsible&, since I told you about GE rates&,
-but&.&.&.&."
+but&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900280bn">
+<voice name="”»" class="”»" src="voice/ch08/15900280bn">
 "Don't worry about it&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900290bn">
+<voice name="”»" class="”»" src="voice/ch08/15900290bn">
 "And the thing about the GE rate also bothered me on a personal
 level&."
 
@@ -299,20 +299,20 @@ level&."
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","sad", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 400, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900300yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900300yu">
+"&.&.&.&.&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900310bn">
+<voice name="”»" class="”»" src="voice/ch08/15900310bn">
 "Well&, Nishijou is still under investigation for everything except
 the 'staking' case&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900320bn">
+<voice name="”»" class="”»" src="voice/ch08/15900320bn">
 "Your deductions could be correct&, Yua-chan&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900330mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900330mm">
 "Do the police think New-Gen isn't
 A string of serial killings by the same murderer?"
 
@@ -320,26 +320,26 @@ A string of serial killings by the same murderer?"
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900340bn">
+<voice name="”»" class="”»" src="voice/ch08/15900340bn">
 "Still no idea&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900350bn">
+<voice name="”»" class="”»" src="voice/ch08/15900350bn">
 "Only&, it seems like the seventh incident just happened a little
 while ago&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900360bn">
+<voice name="”»" class="”»" src="voice/ch08/15900360bn">
 "Personally&, I think there are multiple criminals&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900370bn">
+<voice name="”»" class="”»" src="voice/ch08/15900370bn">
 "Whoops&, I sure talked about a lot&.
 I'll get fired if they found out my mouth slipped&. Let's keep it off
-the record&." 
+the record&."
 
 Ban mischievously pressed his pointer finger to his lips&.
 
@@ -356,29 +356,29 @@ Ban mischievously pressed his pointer finger to his lips&.
 <PRE box00>
 [text004]
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900380bn">
+<voice name="”»" class="”»" src="voice/ch08/15900380bn">
 "So&, now for our main topic&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900390yu">
-"Eh&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900390yu">
+"Eh&.&.&.?"
 
 Yua tilted her head in surprise&, as she'd been convinced the previous
 conversation was the reason they had summoned her here&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900400bn">
+<voice name="”»" class="”»" src="voice/ch08/15900400bn">
 "I want to ask something about your school&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900410bn">
+<voice name="”»" class="”»" src="voice/ch08/15900410bn">
 "Yua-chan&, do you know a girl named Aoi Sena?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900420bn">
+<voice name="”»" class="”»" src="voice/ch08/15900420bn">
 "She should be in the same grade as you&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
@@ -387,26 +387,26 @@ conversation was the reason they had summoned her here&.
 After some thought&, Yua shook her head regretfully&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900430yu">
-"I feel like I've heard the name&.&.&.&. but I've never spoken with
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900430yu">
+"I feel like I've heard the name&.&.&. but I've never spoken with
 her&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900440bn">
-"Ah&, I see&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch08/15900440bn">
+"Ah&, I see&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","hard", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_hard", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900450yu">
-"I&, is she&.&.&.&. the criminal?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900450yu">
+"I&, is she&.&.&. the criminal?"
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900460bn">
+<voice name="”»" class="”»" src="voice/ch08/15900460bn">
 "Nah&, it's a totally different affair&.
 I pulled an all-nighter yesterday because I was checking up on her&."
 
@@ -414,9 +414,9 @@ I pulled an all-nighter yesterday because I was checking up on her&."
 	Stand("buq_ƒX[ƒc_’Êí","sigh", 150, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900470mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900470mm">
 "When you were talking about what the lives of high school girls are
-like&.&.&.&."
+like&.&.&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, true);
@@ -428,34 +428,34 @@ turned back to face Yua&.
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900480bn">
+<voice name="”»" class="”»" src="voice/ch08/15900480bn">
 "For example&, have you heard any rumors about a female student at
 your school who can perform incredible magic tricks?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900490yu">
-"No&.&.&.&. I haven't&.&.&.&. but&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900490yu">
+"No&.&.&. I haven't&.&.&. but&.&.&."
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);
 	Stand("buq_ƒX[ƒc_’Êí","sigh", 150, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900500mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900500mm">
 "I really can't see where you're going with this&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900510mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900510mm">
 "What are you talking about?"
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900520bn">
-"For example--"
+<voice name="”»" class="”»" src="voice/ch08/15900520bn">
+"For example\"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900530bn">
+<voice name="”»" class="”»" src="voice/ch08/15900530bn">
 "A magic trick like pulling a sword out of empty space&."
 
 </PRE>
@@ -476,16 +476,16 @@ your school who can perform incredible magic tricks?"
 <PRE box00>
 [text005]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900540yu">
-"&.&.&.&.!"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900540yu">
+"&.&.&.!"
 
 Yua raised her head with a jolt&.
 Her expression was filled with shock&.
 
 //‹Á‚«
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900550yu">
-"Ho&, how do you&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900550yu">
+"Ho&, how do you&.&.&."
 
 Opposite her&, Ban&, too&, put on a surprised face at her reaction&,
 though he'd asked the question himself&.
@@ -496,7 +496,7 @@ though he'd asked the question himself&.
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 400, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 400, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900560bn">
+<voice name="”»" class="”»" src="voice/ch08/15900560bn">
 "Do you have any ideas?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
@@ -505,19 +505,19 @@ though he'd asked the question himself&.
 After some hesitation&, Yua nodded firmly&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900570bn">
+<voice name="”»" class="”»" src="voice/ch08/15900570bn">
 "Where did you see it?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900580yu">
-"&.&.&.&.In a tunnel near the station&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900580yu">
+"&.&.&.In a tunnel near the station&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900590yu">
-"Nishijou-kun&.&.&.&. and Kishimoto&.&.&.&. -san were--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900590yu">
+"Nishijou-kun&.&.&. and Kishimoto&.&.&. -san were\"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900600bn">
+<voice name="”»" class="”»" src="voice/ch08/15900600bn">
 "FES&, you mean&. And?"
 
 {	MusicStart("@CH01",2000,1000,0,1000,null,true);
@@ -529,8 +529,8 @@ After some hesitation&, Yua nodded firmly&.
 	Fade("‰ñ‘z–¾“x", 0, 300, null, true);
 	CreateTexture("”wŒi‚Q", 250, 0, 0, "cg/bg/bg092_01_3_‹Êì’Ê‚è’n‰º“¹_a.jpg");
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 1000, 0, null, true);}
-Yua summed up the chase sc<pre>e</pre>ne that had taken place about two weeks
-ago&.
+Yua summed up the chase sc<pre>e</pre>ne that had taken place
+about two weeks ago&.
 
 How she had gone to a manga cafe to see Nishijou Takumi&.
 
@@ -542,40 +542,40 @@ her in the end&, and just as she was ready to give up&, she saw Takumi
 and Ayase entering the tunnel&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900610yu">
-"S&, so I&, um&.&.&.&. secretly kept an eye on them from the top of
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900610yu">
+"S&, so I&, um&.&.&. secretly kept an eye on them from the top of
 the stairs&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900620yu">
-"They were talking about something on the lowest step&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900620yu">
+"They were talking about something on the lowest step&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900630yu">
-"Ah&, err&, but I couldn't 
-hear what it was&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900630yu">
+"Ah&, err&, but I couldn't
+hear what it was&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900640yu">
-"And then&, all of a sudden--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900640yu">
+"And then&, all of a sudden\"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900650yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900650yu">
 "Kishimoto-san took a sword out of nothingness&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900660yu">
-"It was an incredibly big sword&.&.&.&. one that wouldn't have fit in
-a bag&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900660yu">
+"It was an incredibly big sword&.&.&. one that wouldn't have fit in
+a bag&.&.&."
 
 //‹êÎ
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900670mm">
-"You're kidding&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch08/15900670mm">
+"You're kidding&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900680bn">
-"&.&.&.&.It's the same as what I saw&."
+<voice name="”»" class="”»" src="voice/ch08/15900680bn">
+"&.&.&.It's the same as what I saw&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -596,19 +596,19 @@ a bag&.&.&.&."
 <PRE box00>
 [text006]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900690yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900690yu">
 "Eh?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900700bn">
+<voice name="”»" class="”»" src="voice/ch08/15900700bn">
 "Except I didn't see Kishimoto&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900710bn">
+<voice name="”»" class="”»" src="voice/ch08/15900710bn">
 "It was Aoi Sena&, the girl whose name I mentioned earlier&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900720bn">
+<voice name="”»" class="”»" src="voice/ch08/15900720bn">
 "Actually&, there've been eyewitness reports about Aoi swinging a
 sword around coming in from several places in Shibuya&."
 
@@ -616,7 +616,7 @@ sword around coming in from several places in Shibuya&."
 	Stand("buq_ƒX[ƒc_’Êí","sigh", 150, @220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900730mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900730mm">
 "Maybe that sleight of hand is something trendy among Shibuya
 youngsters&."
 
@@ -624,29 +624,29 @@ youngsters&."
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900740yu">
-"But what I saw&.&.&.&. really didn't look like a magic trick&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900740yu">
+"But what I saw&.&.&. really didn't look like a magic trick&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900750yu">
-"And&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900750yu">
+"And&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900760mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900760mm">
 "Did you see anything else?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","sad", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900770yu">
-"&.&.&.&.I don't know whether or not you'll believe me&, and I haven't
-told anyone else about it&, but&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900770yu">
+"&.&.&.I don't know whether or not you'll believe me&, and I haven't
+told anyone else about it&, but&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900780yu">
-"At the time&, Kishimoto-san&.&.&.&. didn't stop at drawing a
-sword&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900780yu">
+"At the time&, Kishimoto-san&.&.&. didn't stop at drawing a
+sword&.&.&."
 
 Yua c<pre>u</pre>t herself off and slowly licked her lips&.
 
@@ -662,16 +662,16 @@ mind&.
 {	MusicStart("@CH01",1000,0,0,1000,null,false);
 	Wait(1000);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900790yu">
-"She divided in two&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900790yu">
+"She divided in two&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900800yu">
-"Almost like there was really two of her there&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900800yu">
+"Almost like there was really two of her there&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900810yu">
-"I was completely at a loss&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900810yu">
+"I was completely at a loss&.&.&."
 
 {	CreateSE("SE01","SE_”wŒi_ƒtƒŠ[ƒWƒAĞ“à_Loop");
 	MusicStart("SE01", 5000, 500, 0, 1000, null, true);
@@ -680,14 +680,14 @@ mind&.
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 500, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900820bn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch08/15900820bn">
+"&.&.&.&.&.&.&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","sigh", 200, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 500, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900830mm">
-"&.&.&.&.&.&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch08/15900830mm">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 400, false);
 	DeleteStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);}
@@ -705,17 +705,17 @@ All three of them were embarrassed and unsure of what to say&.
 <PRE box00>
 [text007]
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900840bn">
+<voice name="”»" class="”»" src="voice/ch08/15900840bn">
 "At any rate&, I dunno what it's all gonna lead up to&, but apparently
 there are several people in Shibuya who can perform that kind of magic
 trick&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900850bn">
-"Also&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch08/15900850bn">
+"Also&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900860bn">
+<voice name="”»" class="”»" src="voice/ch08/15900860bn">
 "I've confirmed that both Kishimoto Ayase and Aoi Sena have made
 contact with Nishijou Takumi&."
 
@@ -723,22 +723,22 @@ contact with Nishijou Takumi&."
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900870bn">
+<voice name="”»" class="”»" src="voice/ch08/15900870bn">
 "I can't see it as being a coincidence&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900880yu">
-"Nishijou-kun&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900880yu">
+"Nishijou-kun&.&.&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900890bn">
+<voice name="”»" class="”»" src="voice/ch08/15900890bn">
 "Somehow&, it feels like unreal things are all that keep happening
-around him--"
+around him\"
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 As Ban spoke&, he suddenly recalled what he himself had said during
@@ -749,9 +749,9 @@ his phone call with Suwa&.
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //Ÿ¬º‚Å“Æ‚èŒ¾
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900900bn">
+<voice name="”»" class="”»" src="voice/ch08/15900900bn">
 "It'd be so much better if we could attribute it to monsters or
-magic-users&.&.&.&."
+magic-users&.&.&."
 
 {	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, true);}
 His mutter didn't reach the other two&.
@@ -771,21 +771,21 @@ a smile and made an attempt to change the subject by force&.
 <PRE box00>
 [text008]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900910mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900910mm">
 "By the way&, Yua-chan&, those frogs attached to your bag&, had been
 quite popular lately&, haven't they?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 400, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900920yu">
-"Ah&, yes&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900920yu">
+"Ah&, yes&.&.&."
 
 Yua let out a relieved breath&, wearing a face that said this had
 saved her&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900930mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900930mm">
 "What are they called again?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shy", 200, @-220);
@@ -793,29 +793,29 @@ saved her&.
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 0, false);}
 //Ÿ’p‚¸‚©‚µ‚»‚¤
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900940yu">
-"Gero-froggy&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900940yu">
+"Gero-froggy&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900950mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900950mm">
 "Aren't there a bunch of different types? Around ten of them&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shy", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900960yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900960yu">
 "Yes&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15900970yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900970yu">
 "But I&, um&, got them from a friend&, so I don't know much else&."
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_normal", 400, true);
 	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 400, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15900980bn">
+<voice name="”»" class="”»" src="voice/ch08/15900980bn">
 "Why are such sloppy goods becoming the next big thing? I'm way more
 adorable&, man&."
 
@@ -823,15 +823,15 @@ adorable&, man&."
 	Stand("buq_ƒX[ƒc_’Êí","hard", 200, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 400, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15900990mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15900990mm">
 "In your dreams&, Ban-chan&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901000bn">
-"I&, I was joking&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch08/15901000bn">
+"I&, I was joking&.&.&."
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_hard", 400, false);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 400, true);
@@ -840,12 +840,12 @@ adorable&, man&."
 	FadeStand("buq_ƒX[ƒc_’Êí_normal", 400, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí_normal", 400, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15901010yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901010yu">
 "To be honest&, I don't quite understand why they're so popular&,
 either&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15901020mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15901020mm">
 "Oh&, my&, I think they're pretty c<pre>u</pre>te&."
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_normal", 400, false);
@@ -855,33 +855,33 @@ either&."
 	FadeStand("buq_ƒX[ƒc_’Êí_normal", 400, false);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 400, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901030bn">
+<voice name="”»" class="”»" src="voice/ch08/15901030bn">
 "Your eyes are failing you&, Momo-chan&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","sigh", 300, @-220);
 	FadeStand("buq_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("buq_ƒX[ƒc_’Êí_normal", 0, false);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15901040mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15901040mm">
 "Doesn't public opinion prove me correct?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15901050mm">
+<voice name="•S£" class="•S£" src="voice/ch08/15901050mm">
 "You ought to go buy one yourself&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901060bn">
+<voice name="”»" class="”»" src="voice/ch08/15901060bn">
 "Where can you purchase these things?"
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shy", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shy", 400, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15901070yu">
-"Umm&, there are Gero-froggy specialty shops there and there&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901070yu">
+"Umm&, there are Gero-froggy specialty shops there and there&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -896,40 +896,40 @@ either&."
 [text009]
 //ŸƒrƒbƒNƒŠ
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901080bn">
+<voice name="”»" class="”»" src="voice/ch08/15901080bn">
 "Speciality shops?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shy", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15901090yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901090yu">
 "I think you can buy them there if you line up on a Friday&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901100bn">
-"Friday&.&.&.&.?"
+<voice name="”»" class="”»" src="voice/ch08/15901100bn">
+"Friday&.&.&.?"
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 400, false);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 400, true);
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @-50);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 400, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15901110yu">
-"A new design goes on sale every Friday&. 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901110yu">
+"A new design goes on sale every Friday&.
 Girls who like them&, err&, call it getting the complete set&, @
-And collect all of them&.&.&.&."
+And collect all of them&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-50);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 0, false);}
 //Ÿ”»‚Æ•S£‚ªŠç‚ğŒ©‡‚í‚¹‚Äl‚¦‚ñ‚¾‚Ì‚Å¢˜f‚µ‚Ä‚¢‚é
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch08/15901120yu">
-"Um&.&.&.&.?" 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901120yu">
+"Um&.&.&.?"
 
 Yua was in the middle of talking&,
 But Ban stroked his unshaven chin as he put his head together with
@@ -941,24 +941,24 @@ Momose&.
 	FadeStand("buq_ƒX[ƒc_’Êí_hard", 500, false);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901130bn">
+<voice name="”»" class="”»" src="voice/ch08/15901130bn">
 "Friday&, huh&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901140bn">
+<voice name="”»" class="”»" src="voice/ch08/15901140bn">
 "Something that doesn't seem like it would sell well turns out to be a
 big fad&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901150bn">
+<voice name="”»" class="”»" src="voice/ch08/15901150bn">
 "The GE rate goes up every weekend&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch08/15901160mm">
-"It can't be&, Ban-chan&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch08/15901160mm">
+"It can't be&, Ban-chan&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch08/15901170bn">
+<voice name="”»" class="”»" src="voice/ch08/15901170bn">
 "It might very well be worth a shot&."
 
 </PRE>

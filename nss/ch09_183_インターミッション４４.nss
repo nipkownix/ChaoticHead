@@ -46,7 +46,7 @@ function ch09_183_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚S‚S()
 <PRE box00>
 [text001]
 As she walked below the overhead rail at Shibuya Station&, Sakihata
-Rimi took out her cell phone&.  
+Rimi took out her cell phone&.
 
 She had walked straight here after parting with Takumi&.
 
@@ -64,53 +64,53 @@ The recipient soon picked up&.
 
 //ŸˆÈ‰ºA—œ[‚Í“d˜b‚Ì‘Šèi«ŒRj‚ÉŒü‚©‚Á‚Ä˜b‚µ‚Ä‚¢‚é
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300010ri">
 "Ah&, yeah&. It's me&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300020ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300020ri">
 "The truth is&, I've got a wee little something to report to you&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300030ri">
-"&.&.&.&.I think I'm going to go save Nana-chan now&." 
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300030ri">
+"&.&.&.I think I'm going to go save Nana-chan now&."
 
 Rimi had an idea of where Nanami was being imprisoned and who had
-imprisoned her&. 
+imprisoned her&.
 She knew&, for she too had once been in the same environment&.
 
 It was a past she wanted to forget&, but for the sake of saving
 Nanami&, she would readily dare to meet with dark memories for a
-second time&. 
+second time&.
 
 The reaction of the person she'd called was just what she had
 expected&. And so she smiled wryly&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300040ri">
-"Tahaha&. You sure don't have much faith in me&. I'm totally fine&." 
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300040ri">
+"Tahaha&. You sure don't have much faith in me&. I'm totally fine&."
 
-Both her voice and her expression were very bright&. 
+Both her voice and her expression were very bright&.
 They didn't betray a particle of the tragic yet brave resolution
-within her&. To an onlooker&, she would only appear to be 
+within her&. To an onlooker&, she would only appear to be
 making an enjoyable phone call&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300050ri">
 "It happened a long time ago&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300060ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300060ri">
 "Anyway&, between my feelings and saving Nana-chan&, it's beyond
 obvious which one ought to take precedence&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300070ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300070ri">
 "Didn't I tell you? I want to help you&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300080ri">
-"Besides&.&.&.&. I don't want to get Taku involved&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300080ri">
+"Besides&.&.&. I don't want to get Taku involved&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -125,57 +125,57 @@ There&, Rimi's expression clouded over&.
 
 {	SoundPlay("@CH16", 2000, 1000, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300090ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300090ri">
 "Say&, would it be okay if I talked? Just for a moment?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300100ri">
-"I said a whole bunch of cruel things to Taku&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300100ri">
+"I said a whole bunch of cruel things to Taku&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300110ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300110ri">
 "And after having done that&, I know it's really selfish&,
-but&.&.&.&."
+but&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300120ri">
 "I find myself thinking about how the time I spent with him was so
 much fun&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300130ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300130ri">
 "Even though everything about it was nothing more than a
 delusion-drenched game of pretend&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300140ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300140ri">
 "Our school life"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300150ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300150ri">
 "And the way Taku and I went back and forth to school"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300160ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300160ri">
 "And being friends with Daichin"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300170ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300170ri">
 "And how I tried to stay together with Taku"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300180ri">
-"And Taku's existence itself&." 
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300180ri">
+"And Taku's existence itself&."
 
-Little by little&, Rimi's pace grew more relaxed&. 
+Little by little&, Rimi's pace grew more relaxed&.
 People she'd never seen before kept passing her from behind&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300190ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300190ri">
 "Taku is overwhelmingly pathetic&. And overwhelmingly weak&. The kind
-of boy any regular girl definitely wouldn't give a second glance&." 
+of boy any regular girl definitely wouldn't give a second glance&."
 
-As she spoke&. 
+As she spoke&.
 She tightened the hand holding the phone to her ear&.
 
 </PRE>
@@ -192,15 +192,15 @@ She tightened the hand holding the phone to her ear&.
 <PRE box00>
 [text003]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300200ri">
-"Yet&, in my heart--I feel like we had fun&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300200ri">
+"Yet&, in my heart\I feel like we had fun&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300210ri">
-"Yet&, in my heart--I feel like I wanted to be with him longer&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300210ri">
+"Yet&, in my heart\I feel like I wanted to be with him longer&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300220ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300220ri">
 "I wonder&, what is this feeling?"
 
 {	CreateTextureEX("back10", 100, 0, -90, "cg/bg/bg206_01_3_–é‹ó_a.jpg");
@@ -213,27 +213,27 @@ Rimi briefly paused to stand still there&.
 {	SetVolume("@CH16", 1500, 0, NULL);}
 //Ÿ‚©‚·‚©‚É”÷Î‚ŞƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300230ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300230ri">
+"&.&.&.&.&.&.&."
 
 Rimi smiled a tiny bit in response to the person at the other end of
 the line&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300240ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300240ri">
 "Now then&, I've gotta hang up soon&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300250ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300250ri">
 "Ahaha&. Really&, it's all right&. You don't have to worry about a
 thing&. Cause I'll get everything settled for you&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300260ri">
-"Okay--"
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300260ri">
+"Okay\"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/18300270ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/18300270ri">
 "Takumi&."
 
 </PRE>

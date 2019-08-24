@@ -123,9 +123,9 @@ function SetRoll($処理単位名,$ナット名,$待機)
 {
 	#play_speed_plus = #SYSTEM_play_speed;
 	#SYSTEM_play_speed = 3;
-	$SYSTEM_menu_lock = 1;
-	$SYSTEM_text_auto = 0;
-	$SYSTEM_skip=0;
+	$SYSTEM_menu_lock = true;
+	$SYSTEM_text_auto = false;
+	$SYSTEM_skip=false;
 
 	CreateProcess("エンドロールプロセス", 2000, 0, 0, "$処理単位名");
 	SetAlias("エンドロールプロセス", "エンドロールプロセス");
@@ -182,7 +182,6 @@ begin:
 	$残り時間 = RemainTime("$ナット名");
 	$残り時間 += 0;
 
-
 	if($残り時間 < 30000)
 	{
 		$秒数 = DurationTime("$ナット名");
@@ -196,6 +195,7 @@ begin:
 //	WaitKey();
 
 	Move("@エンドロール背景",$残り時間,@0,@$EndMoveB,null,false);
+	Wait($残り時間);
 }
 
 

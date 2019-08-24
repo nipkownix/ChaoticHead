@@ -33,14 +33,14 @@ function ch09_178_^À()
 	CreateColor("back03"&, 500&, 0&, 0&, 800&, 600&, "Black");
 
 
-//"You are&.&.&.&. a delusionary existence&."
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You are&.&.&.&. a delusionary existence&.");
+//"You are&.&.&. a delusionary existence&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("ƒeƒLƒXƒg‚P", 0, @13, @0, null, true);
 	CreateVOICE("—œ[","ch09/17800010ri");
 	SoundPlay("—œ[",0,1000,false);
 
-	SetBacklog("You are&.&.&.&. a delusionary existence&.", "voice/ch09/17800010ri", null);
+	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/17800010ri", null);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 
@@ -60,8 +60,8 @@ function ch09_178_^À()
 <PRE box00>
 [text001]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800010ri">
-"You are&.&.&.&. a delusionary existence&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800010ri">
+"You are&.&.&. a delusionary existence&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -94,10 +94,11 @@ The house that should have been here wasn't&.
 A house that shouldn't have been here was&.
 
 Illuminated by the sunset&, the "gap" between my memories and the
-actual sce<pre>n</pre>ery steadily began to stand out more and more prominently&.
+actual sce<pre>n</pre>ery steadily began to stand out
+more and more prominently&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800020ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800020ta">
 "Th&, there aren't any gaps!"
 
 I let my voice out&, frantic to deny the despair in my heart&.
@@ -116,8 +117,8 @@ Otherwise&, it'd be too strange&.
 I turned back the way I came&, almost tripping over myself&, and ran
 into the next narrow street&.
 
-But the sense of displacement between my memories and the sce<pre>n</pre>ery
-wouldn't go away&.
+But the sense of displacement between my memories and
+the sce<pre>n</pre>ery wouldn't go away&.
 
 Before I knew it&, my whole body was sweating&.
 
@@ -131,25 +132,25 @@ The sensation of it made nausea come rushing up in me&.
 	DrawTransition("back03", 500, 0, 1000, 100, null, "cg/data/right2.png", true);
 	CreateBG(100, 0, 0, 0, "cg/bg/bg057_01_2_‰º–k‘ò‘ñ–¤‚Ì‰Æ_a.jpg");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800030ta">
-"Wh&, why&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800030ta">
+"Wh&, why&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800040ta">
-"I'm not wrong&, I know m&, my house is here&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800040ta">
+"I'm not wrong&, I know m&, my house is here&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800050ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800050ta">
 "I always went to elementary school and mi&, middle school from
-here&.&.&.&."
+here&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800060ta">
-"In elementary school&, I went with Nanami&, holding hands&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800060ta">
+"In elementary school&, I went with Nanami&, holding hands&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800070ta">
-"In middle school&, I went by bi&, bike&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800070ta">
+"In middle school&, I went by bi&, bike&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -163,33 +164,33 @@ here&.&.&.&."
 [text003]
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800020ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800020ri">
 "Where was your middle school?"
 
 Rimi asked quietly&, having caught up with me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800090ta">
-"Wh&, where&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800090ta">
+"Wh&, where&.&.&."
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800100ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800100ri">
 "What was it called?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800110ta">
-"I&, isn't that obvious? &.&.&.&.&.The local&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800110ta">
+"I&, isn't that obvious? &.&.&.&.The local&.&.&."
 
-The school's name was&, errr&.&.&.&.
+The school's name was&, errr&.&.&.
 
 {	CreateSE("SE01","SE_l‘Ì_S‘Ÿ_ŒÛ“®");
 	MusicStart("SE01", 0, 500, 0, 1000, null, false);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800120ta">
-"&.&.&.&.Hu&.&.&.&.h? Eh?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800120ta">
+"&.&.&.Hu&.&.&.h? Eh?"
 
-I couldn't remember&.&.&.&.
+I couldn't remember&.&.&.
 
 I'd gone to middle school&. I had memories of doing so&.
 But the little details remained vague&, like there was a fog in my
@@ -202,40 +203,40 @@ Such as the name of my homeroom teacher&.
 Concrete names wouldn't come out of me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800130ta">
-"Th&, that's impossible&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800130ta">
+"Th&, that's impossible&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800140ta">
-"I've just for&, forgotten&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800140ta">
+"I've just for&, forgotten&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800150ri">
-"Taku&.&.&.&. listen&."
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800150ri">
+"Taku&.&.&. listen&."
 
 {	Stand("st—œ[_§•_³–Ê","sad", 200, @+150);
 	DeleteStand("st—œ[_§•_’Êí_hard", 500, false);
 	FadeStand("st—œ[_§•_³–Ê_sad", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800160ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800160ri">
 "What exists in your memories"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800170ri">
-"Isn't 'there is a house here'--"
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800170ri">
+"Isn't 'there is a house here'\"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800180ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800180ri">
 "But rather the wrong impression that 'there must be a house here&.'"
 
 //Ÿ”ß‚µ‚»‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800190ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800190ri">
 "Right?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800200ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800200ta">
+"&.&.&.&.&.&.&."
 
 It felt like I'd go crazy&.
 
@@ -247,39 +248,39 @@ It felt like I'd go crazy&.
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800210ta">
-"B&, but! I'm&, I&, I! I remembered how to get here&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800210ta">
+"B&, but! I'm&, I&, I! I remembered how to get here&.&.&.!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800220ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800220ta">
 "Doesn't that throw a wrench in it!?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800230ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800230ri">
 "Because those are fabricated memories&."
 
-Don't make that kind of face&.&.&.&.!
+Don't make that kind of face&.&.&.!
 
 Eyes lowered&, her expression so sorrowful&, Rimi flung out words
 meant to mislead me&. Again&, her words were cryptic&.
 Incomprehensible&. I abandoned all thoughts of them&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800240ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800240ri">
 "Taku&, you didn't go to middle school&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800250ta">
-"I get it&.&.&.&. th&, this is like being on Ca&, Candid Camera&,
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800250ta">
+"I get it&.&.&. th&, this is like being on Ca&, Candid Camera&,
 right? Isn't it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800260ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800260ta">
 "That must be it&, yeah&, you and Nanami actually know each other&,
 and th&, the two of you were trying to trick me&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800270ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800270ta">
 "Hehehe&, what&, I see&, I see&, ha~&, you had me pretty freaked out
 there&."
 
@@ -287,7 +288,7 @@ Although I tried to somehow laugh it off&.
 Rimi didn't let out the tiniest giggle&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800280ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800280ri">
 "Sorry&. The next thing I say is going to hurt you&, but I have to say
 it&."
 
@@ -295,26 +296,27 @@ it&."
 	DeleteStand("st—œ[_§•_³–Ê_sad", 500, false);
 	FadeStand("st—œ[_§•_³–Ê_hard", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800290ri">
-"Taku&.&.&.&. you are"
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800290ri">
+"Taku&.&.&. you are"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800300ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800300ri">
 "An existence which should never have been&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800310ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800310ta">
 "D&, do&, don't&, don't lie!"
 
 Rimi was deceiving me!
 Rimi was my enemy&, too!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800320ta">
-"The 'staking' was y&, your work&, wasn't it&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800320ta">
+"The 'staking' was y&, your work&, wasn't it&.&.&.!"
 
-It meant what had happened the first time we met&, at the sce<pre>n</pre>e of the
-'staking&,' hadn't been a delusion or anything&.
+It meant what had happened the first time we met&, at
+the sce<pre>n</pre>e of the 'staking&,' hadn't been
+a delusion or anything&.
 
 The true New-Gen criminal wasn't the man I'd seen earlier on the
 hospital television&.
@@ -338,9 +340,9 @@ That had been her goal in staying together with me!
 <PRE box00>
 [text100]
 //y‘ñ–¤z
-//<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800330ta">
+//<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800330ta">
 "Y&, you were covered in blood ba&, back then&.&.&.!"
-"You're the culprit&.&.&.&.!"
+"You're the culprit&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -352,16 +354,16 @@ That had been her goal in staying together with me!
 <PRE box00>
 [text005]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800340ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800340ri">
 "That was the delusion you wished for&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800350ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800350ri">
 "When Gigalomaniacs have overly strong delusions&, they sometimes
 blend together&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800360ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800360ri">
 "Their delusions synchronize&."
 
 Softly&. <k>
@@ -374,24 +376,24 @@ way&.
 {	SetVolume("@CH01", 500, 500, NULL);
 	SetTrigger("‚S‚O");}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800370ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800370ri">
 "If nothing else&, four delusions synched up then and there&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800380ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800380ri">
 "Yours&, Taku"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800390ri">
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800390ri">
 "And mine"
 
 //Ÿ‚à‚¤‚Ğ‚Æ‚è‚Í«ŒR
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch09/17800400ri">
-"And the New-Gen perp's&, and--"
+<voice name="—œ[" class="—œ[" src="voice/ch09/17800400ri">
+"And the New-Gen perp's&, and\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800410ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800410ta">
 "Like I'm gonna believe you!"
 
 {	SetVolume("@CH01", 500, 0, NULL);
@@ -407,12 +409,12 @@ I covered my ears&. <k>
 I closed my eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800420ta">
-"This is a delusion&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800420ta">
+"This is a delusion&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/17800430ta">
-"Yeah&, a delusion&. Like the ones I'm always having--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17800430ta">
+"Yeah&, a delusion&. Like the ones I'm always having\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

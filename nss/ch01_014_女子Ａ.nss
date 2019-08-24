@@ -73,8 +73,8 @@ loud&.
 <PRE box00>
 [text002]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/01400010ta">
-"Come on&, what's with these guys&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01400010ta">
+"Come on&, what's with these guys&.&.&."
 
 {	CreateSE("SE01","SE_è’åÇ_è’åÇâπ03");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}
@@ -91,7 +91,7 @@ The pair I'd formed a party with were n00bs no matter how you looked
 at it&.
 
 I was being nice enough to try and help them shine&, but they'd dive
-in on their own and die on their own&.&.&.&. and while they kept
+in on their own and die on their own&.&.&. and while they kept
 repeating that&, the other magic user didn't make a single effort to
 provide magical support&.
 
@@ -162,13 +162,13 @@ the edge of my field of sight&, and my eyes opened wide&.
 It said&, "New Gen Wiki&."
 That wasn't all; it also used gaudy&, sensationalistic fonts&.
 
-New Gen&.&.&.&.
+New Gen&.&.&.
 
 I was deliberately trying not to pay attention to news about those
 incidents&. I didn't want to know the details&. That way I could keep
 telling myself it had no connection to me&.
 
-No&, but setting all that aside&.&.&.&.
+No&, but setting all that aside&.&.&.
 Perhaps there was some kind of meaning in the fact that the customer
 in the room next door to me at a net cafe was looking at a New Gen
 wiki site&.
@@ -205,7 +205,7 @@ without a moment's hesitation&.
 Cold Coke soon started pouring in&.
 
 The sun was setting&, and after a little while&, it would begin to get
-crowded&. In the front room&, I saw several customers waiting by the 
+crowded&. In the front room&, I saw several customers waiting by the
 register for someone to guide them to their rooms&.
 
 From here on out&, the number of people would keep increasing as night
@@ -217,7 +217,7 @@ At that point&, I'd probably head home&.
 
 Cup in hand&, I was heading back to my seat&.
 Along the way&, I happened to glance into the corridor that led to the
-bathrooms--
+bathroomsÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -244,8 +244,8 @@ bathrooms--
 <PRE box00>
 [text006]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/01400020ta">
-"Ah&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01400020ta">
+"Ah&.&.&."
 
 I saw a form of a bespectacled girl in a Suimei uniform vanishing into
 the corridor's depths&.
@@ -253,26 +253,26 @@ More to the point&, it was the same Girl A&, who'd come chasing after
 me this morning&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/01400030ta">
-"Eh&.&.&.&. eh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01400030ta">
+"Eh&.&.&. eh&.&.&."
 
 Thinking that my eyes might've been mistaken&, I hid in the shadow of
 some bookshelves and kept looking in the direction of the corridor&.
 But from then onward&, she didn't show herself whatsoever&.
 
-My eyes had been mistaken&, hadn't they&.&.&.&.?
+My eyes had been mistaken&, hadn't they&.&.&.?
 
 Right&, I'd only caught a glimpse of her&.
 
 And a ridiculous number of Suimei girls used this cafe&. Even
 glasses-wearing girls were here in abundance&.
 
-But if it were indeed Girl A&.&.&.&.?
-What could be the meaning behind her being here&.&.&.&.?
+But if it were indeed Girl A&.&.&.?
+What could be the meaning behind her being here&.&.&.?
 
 A mere coincidence?
-Or&.&.&.&. had she come after me?
-&.&.&.&.Somehow&, I was starting to get kind of scared&.
+Or&.&.&. had she come after me?
+&.&.&.Somehow&, I was starting to get kind of scared&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

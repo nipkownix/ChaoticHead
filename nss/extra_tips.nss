@@ -1,8 +1,13 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■EXTRA [Tips]■
 //=============================================================================//
+
+
 chapter main
 {
+	$SYSTEM_tips_enable=true;
 	CreateColor("tps_BLK",1100,0,0,800,600,BLACK);
 	Fade("tps_BLK",0,0,null,false);
 	Fade("tps_BLK",300,1000,null,true);
@@ -24,8 +29,13 @@ chapter main
 	SetScrollbar("tps_TITLE_BAR","tps_TITLE_BAR");
 	
 	extTips_itembtn_set();
-	//SetFont("ＭＳ ゴシック",20,#FFFFFF,#000000,500,LEFTDOWN);
-	SetFont("ＭＳ ゴシック",20,#FFFFFF,#000000,500,LEFTDOWN);
+	//SetFont("DroidMSGothic",20,#FFFFFF,#000000,500,LEFTDOWN);
+	if(#SYSTEM_font_family==RodinBokutoh){
+		$txt_size=18;
+	}else{
+		$txt_size=20;
+	}
+	SetMainFont("DroidMSGothic",$txt_size,#FFFFFF,#000000,500,LEFTDOWN);
 	
 	Fade("tps_BLK",300,0,null,true);
 	$tpsExit=false;
@@ -50,6 +60,7 @@ chapter main
 			}
 			if($SYSTEM_r_button_down){
 				$tpsExit=true;
+				$SYSTEM_tips_enable=false;
 				break;
 			}
 			case tps_TITLE_BAR{}
@@ -152,12 +163,25 @@ chapter main
 			case @tps_ITEM96{extTips_item_select(96);#TIPS_CLICKED_96=true;Fade("@WND_title/tps_ITEM_title_clicked96",0,1000,null,false);Fade("@WND_title/tps_ITEM_title96",0,0,null,false);}
 			case @tps_ITEM97{extTips_item_select(97);}
 			
-			case tps_EXIT{$tpsExit=true;}
+			case tps_EXIT{
+				$SYSTEM_tips_enable=false;
+				$tpsExit=true;
+			}
 			
-			if($SYSTEM_menu_enable&&$SYSTEM_menu_close_enable){
-				$tps_close=true;
-				call_chapter nss/sys_close.nss;
-				$tps_close=false;
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}else if($SYSTEM_menu_enable&&$SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
+				if(!$PLACE_title){
+					call_chapter nss/sys_close.nss;
+				}
+				$SYSTEM_buttondown_close=false;
+				$SYSTEM_keydown_esc=false;
 			}
 		}
 		Wait(8);
@@ -398,21 +422,25 @@ function extTips_itembtn_set()
 
 function extTips_make_itembtn($num,$x,$y,$click,$str)
 {
-	$txt_y=$y-16;
+	if(#SYSTEM_font_family==RodinBokutoh){
+		$txt_y=$y-11;
+	}else{
+		$txt_y=$y-13;
+	}
 	if($num<1000){
 		$str="■"+$str;
 	}
 	if(!$click){
-		SetFont("ＭＳ ゴシック",14,#FFFFFF,#000000,500,LEFTDOWN);
+		SetMainFont("DroidMSGothic",14,#FFFFFF,#000000,500,LEFTDOWN);
 	}else{
-		SetFont("ＭＳ ゴシック",14,#648C96,#000000,500,LEFTDOWN);
+		SetMainFont("DroidMSGothic",14,#648C96,#000000,500,LEFTDOWN);
 	}
 	$nut="@WND_title/tps_ITEM_title"+$num;
 	CreateText($nut,1000,$x,$txt_y,auto,auto,$str);
 	Request($nut,NoLog);
 	Request($nut,PushText);
 	$w=ImageHorizon($nut)-32;
-	SetFont("ＭＳ ゴシック",14,#648C96,#000000,500,LEFTDOWN);
+	SetMainFont("DroidMSGothic",14,#648C96,#000000,500,LEFTDOWN);
 	$nut="@WND_title/tps_ITEM_title_clicked"+$num;
 	CreateText($nut,1000,$x,$txt_y,auto,auto,$str);
 	Request($nut,NoLog);
@@ -549,6 +577,7 @@ function extTips_item_set($itemfunc)
 {
 	LoadText($itemfunc,"@WND_comment","text",370,900,0,29);
 	Move("@WND_comment/*",0,328,34,null,false);
+	Request("@WND_comment/*", Enter);
 	Request("@WND_comment/*",NoLog);
 	Request("@WND_comment/*",PushText);
 	if(ImageVertical("@WND_comment/text")>=430){
@@ -592,9 +621,9 @@ function extTips_item_2()
 ■ＲＭＴ
 リアルマネートレーディング（Real-Money Trading）の略。ＭＭＯＲＰＧなどのオンラインゲームにおいて登場する架空のアイテムなどを、現実の通貨と交換する行為。ゲーム内でアイテムの受け渡しなどができるシステムが存在する場合にはじめて成立する。詐欺行為などのトラブルも多く、この行為には賛否両論ある。
 */
-//----------------------------------
+//――――――――――――――――――――――――――――――――――
 ■ＲＭＴ
-The abbreviation for 
+The abbreviation for
 "Real Money Trading"&.<br>
 In online games such as the MMORPG&,
 it refers to an act of exchange of
@@ -602,8 +631,8 @@ virtual items for a real currency&.
 If an item transfer is possible in
 a game&, RMT system will appear
 eventually&.<br>
-Many risks (frauds etc&.) make 
-this kind of activity less 
+Many risks (frauds etc&.) make
+this kind of activity less
 attractive&.
 // tentative TL
 //■RMT
@@ -674,7 +703,7 @@ function extTips_item_5()
 //記憶の『回復』と『既知』の機能の同期がズレるという、非常に稀で一時的な異常の際に起きる生理現象だとする説。脳の海馬傍回（空間処理と『慣れ』の感覚処理を受け持つ）に、痙攣のようなかすかな発作が起きるのが原因だとする説などがある。<BR>
 //既視感とは逆に、普段見慣れたもののはずなのに、それが初めて見るもののように感じられることを『未視感（仏：Jamais vu）』という。
 ■Deja vu／Jamais vu
-//----------------------------------
+//――――――――――――――――――――――――――――――――――
 Describes the feeling where a person
 feels they've seen a sce<pre>n</pre>e before&,
 but regardless it's the first time
@@ -734,23 +763,23 @@ function extTips_item_7()
 その発現の仕方は人によって違い、フラッシュバック現象としてであったり、
 夢（予知夢）として表れたりする。霊能力者や占い師、古代の巫女にはこの力を有する者がいたと言われているが、一方でこの力を騙って行われる詐欺行為も多い。
 */
-//----------------------------------
+//――――――――――――――――――――――――――――――――――
 ■Precognition
 Knowledge about future event&.
 It's different from prediction
-made from experience or from 
+made from experience or from
 information analysis&.
 It refers to the special sense
-that transcends the usual 
+that transcends the usual
 perception of a human&.
-Its existence isn't 
+Its existence isn't
 scientifically proved&.<br>
 Precognition reveals itself in
 different forms:
-as flashback phenomenon or 
+as flashback phenomenon or
 as dream (a foresight dream)&.
-Mediums&, fortunetellers and 
-ancient sorceresses are ones 
+Mediums&, fortunetellers and
+ancient sorceresses are ones
 with such ability&.
 However&, where are many imposters
 who just pretend to have it&.

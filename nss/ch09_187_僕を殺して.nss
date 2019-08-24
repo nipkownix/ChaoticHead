@@ -243,7 +243,7 @@ Neidhardt: Kill me
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text010]
-Grim-san has entered the room 
+Grim-san has entered the room
 Current members: 2
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
@@ -495,7 +495,7 @@ Neidhardt: KILL ME
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text039]
-Grim: They say something big's gonna start there in about an 
+Grim: They say something big's gonna start there in about an
 hour
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
@@ -574,7 +574,7 @@ Neidhardt: kilme
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text048]
-Grim: You're a celeb&, so you'll be the center of everyone's 
+Grim: You're a celeb&, so you'll be the center of everyone's
 attention
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
@@ -604,8 +604,8 @@ hm?
 <PRE box00>
 [text050]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18700010ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/18700010ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -632,8 +632,8 @@ I shut off the monitor and hugged my knees in my chair&.
 {	CreateVOICE("ななみ１","ch01/01000070na");
 	SoundPlay("ななみ１",0,300,false);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18700020ta">
-"Kill&.&.&.&. me&.&.&.&. somebody&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/18700020ta">
+"Kill&.&.&. me&.&.&. somebody&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -642,20 +642,20 @@ I shut off the monitor and hugged my knees in my chair&.
 /*
 //以下の七海のセリフ、可能ならセリフ表示なしで、拓巳のモノローグ中に挿入
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700030na">
-"Bro--"
+<voice name="七海" class="七海" src="voice/ch09/18700030na">
+"Bro―"
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700040na">
+<voice name="七海" class="七海" src="voice/ch09/18700040na">
 "C'mon&, bro!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700050na">
-"Heeeey! Open up--!"
+<voice name="七海" class="七海" src="voice/ch09/18700050na">
+"Heeeey! Open up-!"
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700060na">
-"Bro-ooooo---!"
+<voice name="七海" class="七海" src="voice/ch09/18700060na">
+"Bro-ooooo-!"
 */
 
 	CreateVOICE("ななみ１","ch01/01000080na");
@@ -681,54 +681,54 @@ And her arm had gotten all bent out of shape&.
 {	SetVolume("ななみ１", 300, 0, NULL);}
 //ＶＦ//ドア越しの声
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700070na">
+<voice name="七海" class="七海" src="voice/ch09/18700070na">
 "Look here! O-PEN-UP-!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18700080ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/18700080ta">
+"&.&.&.&.&.&.&."
 
 {	SetVolume("SE01", 500, 0, null);
 	SetTrigger("４３");}
-This voice&.&.&.&.
+This voice&.&.&.
 
 It couldn't be&.
-How&.&.&.&.?
+How&.&.&.?
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700090na">
-"Bro&, you idiot--!"
+<voice name="七海" class="七海" src="voice/ch09/18700090na">
+"Bro&, you idiot-!"
 
-I hadn't misheard it&. 
+I hadn't misheard it&.
 Out of the girls who visited this base&, there was only one imbecile
-who yelled at the top of her lungs from outside like this&. 
+who yelled at the top of her lungs from outside like this&.
 
-Nanami had come&.&.&.&. 
+Nanami had come&.&.&.
 
 And I was somewhat surprised at myself for experiencing absolutely no
-deep emotion in response&.  
+deep emotion in response&.
 
-Whatever&, it doesn't matter&.&.&.&. was what I'd begun to think&.
-Nothing would change just became Nanami had come over here now&. 
+Whatever&, it doesn't matter&.&.&. was what I'd begun to think&.
+Nothing would change just became Nanami had come over here now&.
 
 Besides&, there was nothing especially mysterious about her coming
 here&. Hadn't Rimi said something about going off to save her?
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700100na">
+<voice name="七海" class="七海" src="voice/ch09/18700100na">
 "Things will get really bad&, if you won't open it!"
 
-Her noisiness ticked me off&. 
+Her noisiness ticked me off&.
 Leave a monster like me in peace&.
 
 Nanami was only thinking about her own right hand&. Not that I had any
-idea what had become of it&.&.&.&. 
+idea what had become of it&.&.&.
 
 I couldn't get in the mood to talk with other people anymore&.
 
 //【七海】
-<voice name="七海" class="七海" src="ch09/18700110na">
-"Bro---ooo---!"
+<voice name="七海" class="七海" src="voice/ch09/18700110na">
+"Bro--ooo--!"
 
 {	CreateSE("SE03","SE_日常_家具_イス_軋_回転");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);

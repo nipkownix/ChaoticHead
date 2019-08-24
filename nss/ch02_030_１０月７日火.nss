@@ -54,45 +54,45 @@ function ch02_030_１０月７日火()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-The university hospital's waiting room was packed with old people 
-waiting their turn to be seen by a doctor&. Nothing about this 
-tableau had changed from several years ago&. 
+The university hospital's waiting room was packed with old people
+waiting their turn to be seen by a doctor&. Nothing about this
+tableau had changed from several years ago&.
 
 It was enough to make me think that time had stopped&.
 
-Worse&, the air was stagnant&, as befitted the stench of disinfectants&, 
+Worse&, the air was stagnant&, as befitted the stench of disinfectants&,
 and everyone had dark looks on their faces&.
 
 Try to spend five minutes in a place like this&, and you'd get depressed
 enough you want to die&.
 
-I don't like hospitals&. 
+I don't like hospitals&.
 
 {	CreateTextureEX("病院怖い", 100, 0, 0, "cg/bg/bg099_01_0_AH廊下_a.jpg");
 	Fade("病院怖い", 1000, 1000, null, true);}
-Since I was little&, I had been terrified of how there are hardly ever 
+Since I was little&, I had been terrified of how there are hardly ever
 any traces of a human presence in the hallways beyond the lobby&.
 
 Although there tend to be lots of people in the lobby itself&.
 
-It was almost as though the scent of death lurked in those hallways&. I 
-thought this itself was the hospital's true face&, and that things far 
+It was almost as though the scent of death lurked in those hallways&. I
+thought this itself was the hospital's true face&, and that things far
 more horrifying and eerie were hidden at the ends of the corridors&.
 
 {	FadeDelete("病院怖い", 1000, 1000, null, true);}
 That was why I hadn't really wanted to come here&.
-But there was something I needed to verify no matter what&, and so&, 
+But there was something I needed to verify no matter what&, and so&,
 unable to avoid visiting&, I intently waited for my turn&.
 
-Even after I entered ESO&, the words Yua had left with me spun around 
+Even after I entered ESO&, the words Yua had left with me spun around
 and around in my head&, making it impossible for me to concentrate&.
 
 As a result&, I worried about this and that all the way until the
-morning&, and became seriously scared that something about me 
+morning&, and became seriously scared that something about me
 might be abnormal&.
 
-By coming to the hospital like this&, I hoped a doctor would give me 
-their official guarantee that "Nishijou Takumi is perfectly normal&." 
+By coming to the hospital like this&, I hoped a doctor would give me
+their official guarantee that "Nishijou Takumi is perfectly normal&."
 I wanted proof that Yua&, not I&, was the one with the issues&.
 
 I was used to coming to the hospital's psych ward&.
@@ -130,18 +130,19 @@ been about four years since my last visit&.
 <PRE box00>
 [text002]
 The doctor I was initially assigned to was Professor Mouroku&, who
-was said to be highly influential in his field&, but he examined me 
-just a few times before switching me to doctor who had been 
-one of his pupils&. 
+was said to be highly influential in his field&, but he examined me
+just a few times before switching me to doctor who had been
+one of his pupils&.
 
 Despite being called a pupil&, he wasn't particularly young;
 if anything&, he looked older than he should have been&.
 
-Last night&, I had suddenly recalled that doctor's--Doctor Takashina's--words&.
+Last night&, I had suddenly recalled that
+doctor's―Doctor Takashina's―words&.
 
 //ＶＦ//回想セリフ
 //【高科】
-<voice name="高科" class="高科" src="ch02/03000010tk">
+<voice name="高科" class="高科" src="voice/ch02/03000010tk">
 "This hospital doesn't just treat injuries and illness&. It's also for
 curing the heart&."
 
@@ -174,8 +175,8 @@ healed&.
 [text003]
 //ＢＧ//総合病院ロビー//昼
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03000020ta">
-"I want him&.&.&.&. to be the one to examine me&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03000020ta">
+"I want him&.&.&. to be the one to examine me&.&.&."
 
 What would he say if he knew I'd turned into a gross otaku? No&, it's
 been too long; he must have forgotten who I was in the first place&.

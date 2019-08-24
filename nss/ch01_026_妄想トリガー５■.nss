@@ -82,17 +82,17 @@ if($ñœëzÉgÉäÉKÅ[ÇT == 2)
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text001]
-Ah&, th&, that's right&.&.&.&. 
+Ah&, th&, that's right&.&.&.
 
 Nanami had used one as her cell phone strap&. That's all there was to
-it&. 
+it&.
 
-Right&, what kind of weird thoughts were going through my head? 
-I'd gotten all suspicious&. How stupid&. 
+Right&, what kind of weird thoughts were going through my head?
+I'd gotten all suspicious&. How stupid&.
 
 Besides&, Nanami had said that Gero-froggies were a big fad among high
 school girls&, so there was absolutely nothing strange about Yua
-possessing some&. Yeah&, that's right&. That's how it was&. 
+possessing some&. Yeah&, that's right&. That's how it was&.
 
 Honestly&, there were times when it sucked to be so overly imaginative&.
 No point in getting cowed by my own delusions&. Hahaha&.
@@ -113,22 +113,22 @@ No point in getting cowed by my own delusions&. Hahaha&.
 <PRE box00>
 [text002]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600010yu">
-"Nishijou-kun?" 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600010yu">
+"Nishijou-kun?"
 
-Still gazing up at me&, Yua tilted her head&. 
+Still gazing up at me&, Yua tilted her head&.
 I hastily gave her a friendly smile&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600020ta">
-"Ah&, er&.&.&.&. um&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600020ta">
+"Ah&, er&.&.&. um&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600030ta">
-"Th&, that's&, re&, really&, a big fad now&.&.&.&. isn't it&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600030ta">
+"Th&, that's&, re&, really&, a big fad now&.&.&. isn't it&.&.&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600040ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600040ta">
 "Ge&, Gero-froggy&."
 
 {	Stand("buóDà§_êßïû_í èÌ","shock", 200, @100);
@@ -136,8 +136,8 @@ I hastily gave her a friendly smile&.
 	DeleteStand("buóDà§_êßïû_í èÌ_normal", 0, false);}
 //ÉnÉbÇ∆ëßÇì€Çﬁ
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600050yu">
-"&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600050yu">
+"&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -150,17 +150,17 @@ I hastily gave her a friendly smile&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text003]
-Eh&.&.&.&.?
+Eh&.&.&.?
 
 {	SoundPlay("@CH12", 2000, 1000, true);}
-What was with that reaction&.&.&.&.
+What was with that reaction&.&.&.
 Why has your expression
-Become so strained&.&.&.&.?
+Become so strained&.&.&.?
 
 Did I say something bad just now?
 
 All I'd done was bring up the character called Gero-Froggy&.
-Yet why&.&.&.&.
+Yet why&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -175,28 +175,28 @@ Yet why&.&.&.&.
 <PRE box00>
 [text004]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600060ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600060ta">
+"&.&.&.&.&.&.&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600070yu">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600070yu">
+"&.&.&.&.&.&.&."
 
 Yua&, who had up until then worn a soft smile&, was now facing
-downward and made no effort to look at me&. 
+downward and made no effort to look at me&.
 I couldn't tell what kind of expression she was making&.
 
-My bad premonition wouldn't go away&. 
+My bad premonition wouldn't go away&.
 The deja vu I had sensed the instant I saw the three Gero-Froggies
 dangling from her bag&.
 
-I had definitely seen these before-- 
+I had definitely seen these beforeÅ\
 
-I'd seen "three Gero-Froggies in a row" somewhere before-- 
-And Yua became frightened when I pointed them out to her-- 
+I'd seen "three Gero-Froggies in a row" somewhere beforeÅ\
+And Yua became frightened when I pointed them out to herÅ\
 
-Mistrust raised its head in me&, surging up to control my heart&. 
-Should I trust Yua or not&.&.&.&.
+Mistrust raised its head in me&, surging up to control my heart&.
+Should I trust Yua or not&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -211,37 +211,37 @@ Should I trust Yua or not&.&.&.&.
 [text005]
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600080yu">
-"So y&, you know about Ge&, Gero-Froggy&, too&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600080yu">
+"So y&, you know about Ge&, Gero-Froggy&, too&."
 
 Her voice was clearly getting shrill&.
 
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600090yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600090yu">
 "They're re&, really popular&, aren't they&. Ahaha&. Although I&, I&,
 um&, don't think they're v&, very cute&, either&."
 
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600100yu">
-"Some friends gave them to me&.&.&.&. B&, before I knew it&, I already
-had three&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600100yu">
+"Some friends gave them to me&.&.&. B&, before I knew it&, I already
+had three&.&.&."
 
 
 The more Yua spoke&, the more unnatural she started to sound&.
 
-She didn't look at me&. 
-She didn't look at me and try to smile&. 
+She didn't look at me&.
+She didn't look at me and try to smile&.
 Though she had spoken to me so kindly and so calmly just a little
-earlier&. 
+earlier&.
 
-I felt hollow&. 
+I felt hollow&.
 I told her in my heart that she didn't need to say anything more&.
 
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600110yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600110yu">
 "Sh&, shall I show them to you?"
 
 </PRE>
@@ -258,26 +258,26 @@ were fastened there&.
 
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600120yu">
-"Ummm&, w&, wait a moment&, please&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600120yu">
+"Ummm&, w&, wait a moment&, please&.&.&."
 
-Her hand was shaking minutely&. 
+Her hand was shaking minutely&.
 Perhaps because she was in such a hurry&, she had trouble taking the
 straps off&.
 
 //è≈ÇË
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600130yu">
-"H&, how strange&, I wonder why they won't come off&.&.&.&. Co&, could
-they be tangled--"
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600130yu">
+"H&, how strange&, I wonder why they won't come off&.&.&. Co&, could
+they be tangledÅ\"
 
 //ÇrÇd//ÉJÉoÉìÇ™ÉxÉìÉ`Ç©ÇÁâ∫Ç…óéÇøÇÈ
 {	CreateSE("SE02","SE_è’åÇ_äì_óéÇøÇÈ");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 	CreateBG(100, 0, 0, 0, "cg/bg/bg041_01_2_óDà§ÉJÉoÉìÇ‘ÇøÇ‹ÇØ_a.jpg");}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600140yu">
-"Ah&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600140yu">
+"Ah&.&.&."
 
 When Yua tried to forcibly pull the straps away&, her bag fell off the
 bench&. Because the fasteners weren't closed&, notebooks and textbooks
@@ -325,8 +325,8 @@ if($ñœëzÉgÉäÉKÅ[ÇT == 1)
 [text007]
 //ÇaÇf//èºü∑åˆâÄ
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600150ta">
-"&.&.&.&.&.&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600150ta">
+"&.&.&.&.&.&.&.!"
 
 Room 36!!
 
@@ -335,10 +335,10 @@ the day I first met Yua&, there had for once been a customer in Room
 36&, and they'd been looking at a Wiki about the "New Gen" incidents&.
 
 At the time&, after spotting Yua in "@Cafe&," I'd hurriedly left the
-store&.&.&.&.
+store&.&.&.
 
-No way&.&.&.&.
-The person in the room next door had been&.&.&.&.
+No way&.&.&.
+The person in the room next door had been&.&.&.
 
 {	SoundPlay("@CH12", 2000, 1000, true);}
 I glanced at her&, sitting on the bench and looking up at me&.
@@ -351,7 +351,7 @@ She was still smiling&. But her expression soon changed to confusion&.
 What kind of face was I making?
 I didn't know&.
 
-I returned my line of sight to her bag--to those stuffed animal
+I returned my line of sight to her bagÅ\to those stuffed animal
 straps&.
 
 </PRE>
@@ -371,24 +371,24 @@ straps&.
 I sensed her sucking in her breath&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600160yu">
-"Nishijou&.&.&.&. kun&.&.&.&.?" 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600160yu">
+"Nishijou&.&.&. kun&.&.&.?"
 
-Rustling&. 
+Rustling&.
 Blown by the wind&, yellow leaves separated from their branches and
-danced&. 
+danced&.
 
-A whole range of thoughts circled around and around in my head&. 
+A whole range of thoughts circled around and around in my head&.
 
 It wouldn't be unusual if multiple people had three of the same
 Gero-Froggies attached to their bags&, given that the "Gero-Froggy"
-character was inexplicably popular&. 
+character was inexplicably popular&.
 
-But-- 
+ButÅ\
 
-Room 36&. 
-That day&, Yua might have been sitting in the room next door to me&. 
-And up until now&, she'd never attempted to mention it once&. 
+Room 36&.
+That day&, Yua might have been sitting in the room next door to me&.
+And up until now&, she'd never attempted to mention it once&.
 
 And then there was "New Gen&."
 
@@ -412,11 +412,11 @@ And then there was "New Gen&."
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text009]
-Though I'd completely forgotten about it&, 
-I'd witnessed the sce<pre>n</pre>e of one of the crimes&. 
+Though I'd completely forgotten about it&,
+I'd witnessed the sce<pre>n</pre>e of one of the crimes&.
 
-That gory spectacle came to life at the back of my brain&. 
-And&, moreover--
+That gory spectacle came to life at the back of my brain&.
+And&, moreoverÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -456,9 +456,9 @@ And&, moreover--
 I'd seen the perpetrator's face&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600170yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600170yu">
 "Is&, is this it? They're called Gero-Froggy&. Some friends gave them
-to me&.&.&.&. B&, before I knew it&, I already had three&.&.&.&."
+to me&.&.&. B&, before I knew it&, I already had three&.&.&."
 
 {	DeleteStand("buóDà§_êßïû_í èÌ_shock", 500, false);}
 Yua showed me a slightly strained smile&.
@@ -466,26 +466,26 @@ Reaching over to her bag&, she began to remove the Gero-froggies that
 were fastened there&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600180yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600180yu">
 "Lately&, they've been super popular among high school girls&. I&, I
-don't think they're very cute&, but&.&.&.&."
+don't think they're very cute&, but&.&.&."
 
-Her hand was shaking minutely&. 
+Her hand was shaking minutely&.
 Perhaps because she was in such a hurry&, she had trouble taking the
 straps off&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600190yu">
-"H&, how strange&, I wonder why they won't come off&.&.&.&. P&, please
-wait a moment&. I'd like to show them to--"
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600190yu">
+"H&, how strange&, I wonder why they won't come off&.&.&. P&, please
+wait a moment&. I'd like to show them toÅ\"
 
 //ÇrÇd//ÉJÉoÉìÇ™ÉxÉìÉ`Ç©ÇÁâ∫Ç…óéÇøÇÈ
 {	CreateSE("SE02","SE_è’åÇ_äì_óéÇøÇÈ");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 	CreateBG(100, 0, 0, 0, "cg/bg/bg041_01_2_óDà§ÉJÉoÉìÇ‘ÇøÇ‹ÇØ_a.jpg");}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600200yu">
-"Ah&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600200yu">
+"Ah&.&.&."
 
 When Yua tried to forcibly pull the straps away&, her bag fell off the
 bench&. Because the fasteners weren't closed&, notebooks and textbooks
@@ -509,31 +509,31 @@ if($ñœëzÉgÉäÉKÅ[ÇT == 0)
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text011]
-I didn't get it&.&.&.&. 
+I didn't get it&.&.&.
 
 I had deja vu&, but I couldn't remember why&.
 
-Had my memory always been this bad? 
+Had my memory always been this bad?
 I'd been confident in my ability to learn stuff by heart&. My one
 skill was getting good grades on tests&. I'm smart&.
 
 Yet to think that I wouldn't be able to remember something so
-important--something that seemed so important&. 
+importantÅ\something that seemed so important&.
 
-Where&, where had I seen them&.&.&.&.? 
+Where&, where had I seen them&.&.&.?
 
 If I examined the Gero-froggies more carefully&, I might be able to
-remember&. 
-Although I didn't know what I would do after remembering&. 
+remember&.
+Although I didn't know what I would do after remembering&.
 
-Simply wanting to escape from the discomfort of "not knowing&," I-- 
+Simply wanting to escape from the discomfort of "not knowing&," IÅ\
 
 Stretched out my hand&,
 All but unconsciously&,
-Toward the three Gero-froggies lined up like they were buddies--
+Toward the three Gero-froggies lined up like they were buddiesÅ\
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600210yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600210yu">
 "Don't!"
 
 </PRE>
@@ -556,27 +556,27 @@ Toward the three Gero-froggies lined up like they were buddies--
 <PRE box00>
 [text012]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600220ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600220ta">
 "!"
 
 Yua suddenly slapped me on the hand&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600230ta">
-"Eh&.&.&.&.?" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600230ta">
+"Eh&.&.&.?"
 
-&.&.&.&.Eh?
+&.&.&.Eh?
 
 {	Stand("stóDà§_êßïû_í èÌ","worry", 200, @0);
 	FadeStand("stóDà§_êßïû_í èÌ_worry", 300, true);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600240yu">
-"Ah&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600240yu">
+"Ah&.&.&."
 
 //êÿÇ»Ç¢ÉuÉåÉX
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600250yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600250yu">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -588,15 +588,15 @@ Yua suddenly slapped me on the hand&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text013]
-&.&.&.&.Eh? 
+&.&.&.Eh?
 
 While I stood there&, dazed&, Yua averted her eyes from me
-And was beginning to jerkily rise from the bench&, 
+And was beginning to jerkily rise from the bench&,
 
-When her hand hit her own bag&, 
-The bag from which those three Gero-froggies dangled&, 
+When her hand hit her own bag&,
+The bag from which those three Gero-froggies dangled&,
 
-And as though I were watching a slow-motion movie&, 
+And as though I were watching a slow-motion movie&,
 
 The bag
 
@@ -612,8 +612,8 @@ To the ground&.
 	CreateBG(200, 0, 0, 0, "cg/bg/bg041_01_2_óDà§ÉJÉoÉìÇ‘ÇøÇ‹ÇØ_a.jpg");
 	DeleteStand("stóDà§_êßïû_í èÌ_worry", 0, false);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600260yu">
-"Ah&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600260yu">
+"Ah&.&.&."
 
 Because the fasteners weren't closed&, notebooks and textbooks came
 tumbling out from inside it&.
@@ -635,14 +635,14 @@ tumbling out from inside it&.
 <PRE box00>
 [text014]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600270yu">
-"Ah&, ahh&, goodness&, what on earth am I doing&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600270yu">
+"Ah&, ahh&, goodness&, what on earth am I doing&.&.&."
 
-If it were several minutes earlier-- 
+If it were several minutes earlierÅ\
 
-I might have moe'd over Yua's clumsy side&. 
-But now all I could do was freeze in place&. 
-Because--
+I might have moe'd over Yua's clumsy side&.
+But now all I could do was freeze in place&.
+BecauseÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -667,10 +667,10 @@ I saw it clearly&.
 "New Gen"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600280ta">
-"Wh&.&.&.&. why&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600280ta">
+"Wh&.&.&. why&.&.&."
 
-My voice was hoarse&. 
+My voice was hoarse&.
 Yua feverishly gathered the scattered memos and clippings and shoved
 them back in her bag&.
 
@@ -692,32 +692,32 @@ them back in her bag&.
 <PRE box00>
 [text016]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600290yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600290yu">
+"&.&.&.&.&.&.&."
 
 Yua rose&, hugging her bag to her chest&. Her smile from before had
 completely vanished&, and she hung her head uncomfortably&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600300ta">
-"Wh&, what was that&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600300ta">
+"Wh&, what was that&.&.&.?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600310yu">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600310yu">
+"&.&.&.&.&.&.&."
 
-Yua didn't answer&. 
+Yua didn't answer&.
 
-Why won't you answer? 
-Answer me&.&.&.&. 
-Say something to me&.&.&.&. 
+Why won't you answer?
+Answer me&.&.&.
+Say something to me&.&.&.
 
 If you don't say anything&, won't I start thinking you must be feeling
-guilty&.&.&.&.? 
+guilty&.&.&.?
 
-Even though I'd started to believe in you&.&.&.&. 
+Even though I'd started to believe in you&.&.&.
 Even though I'd started to think that maybe you would be my
-ally&.&.&.&.
+ally&.&.&.
 
 {	CreateColor("êFÇP", 300, 0, 0, 800, 600, "WHITE");
 	Request("êFÇP", AddRender);
@@ -726,7 +726,7 @@ ally&.&.&.&.
 	Fade("êFÇP", 500, 0, null, true);}
 //ÇuÇe//âÒëzÉZÉäÉt
 //ÅyêØóàÅz
-<voice name="êØóà" class="êØóà" src="ch01/02600320se">
+<voice name="êØóà" class="êØóà" src="voice/ch01/02600320se">
 "You mustn't trust in anyone&. You mustn't listen to anyone&."
 
 {	Fade("êFÇP", 100, 1000, null, true);
@@ -742,8 +742,8 @@ approached me with some goal in mind&.
 Perhaps she meant to hand me over to the police&.
 Perhaps she meant to threaten me&.
 
-This sucks&.&.&.&.
-This fucking sucks&.&.&.&.!
+This sucks&.&.&.
+This fucking sucks&.&.&.!
 
 Even though I'd started to forget all about that incident&.
 
@@ -752,7 +752,7 @@ talk to me about it&, I'd made myself think I would get by without
 having anything to do with it&.
 Even though I hadn't wanted to get wrapped up in it&.
 
-What the hell did Yua want from me&.&.&.&.
+What the hell did Yua want from me&.&.&.
 In any case&, I turned on my heel&, wanting to flee&.
 
 </PRE>
@@ -767,7 +767,7 @@ In any case&, I turned on my heel&, wanting to flee&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text517]
-But--
+ButÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -790,7 +790,7 @@ Yua grabbed my wrist from behind me&.
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
 
-//ÅôCut-97-----------------------------
+//ÅôCut-97Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 //à»â∫ÅAóDà§ÇÃë‘ìxÇ™ï^ïœ
 
 //	Stand("stóDà§_êßïû_ó‚çì","cool", 200, @0);
@@ -801,19 +801,19 @@ Yua grabbed my wrist from behind me&.
 [text017]
 //Ç∑Ç≤Ç≠ó‚ìOÇ…
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600330yu">
-"Are you running away?" 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600330yu">
+"Are you running away?"
 
-Her voice made my blood run cold&. 
+Her voice made my blood run cold&.
 
-A voice so chilly that my spine seemed about to freeze&. 
-I could hardly think of her as being the same Yua as before&. 
+A voice so chilly that my spine seemed about to freeze&.
+I could hardly think of her as being the same Yua as before&.
 
-On top of that--
+On top of thatÅ\
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600340ta">
-"Uuh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600340ta">
+"Uuh&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -824,13 +824,13 @@ On top of that--
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text018]
-Yua's grip on my wrist was abnormally powerful&. 
+Yua's grip on my wrist was abnormally powerful&.
 
 She gripped it so tight that pain shot through me&. Such a violent
 pain that it was enough to made me wonder if she would clench me to
 bits&, all the way down to my bones&.
 
-I tried to shake her off&, but she wouldn't let go&. 
+I tried to shake her off&, but she wouldn't let go&.
 On the contrary&, she pulled me closer&, making me pitch backwards&.
 
 //Ç∑Ç≤Ç≠ó‚ìOÇ…
@@ -838,11 +838,11 @@ On the contrary&, she pulled me closer&, making me pitch backwards&.
 	Fade("îwåiÇP", 300, 1000, null, false);
 	Move("îwåiÇP", 500, @0, @100, Dxl1, true);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600350yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600350yu">
 "Are you running away?"
 
-She whispered from behind me&.&.&.&. more so than that&, right beside
-my ear&, sounding as though all emotion had died in her&. 
+She whispered from behind me&.&.&. more so than that&, right beside
+my ear&, sounding as though all emotion had died in her&.
 
 Shuddering&, I timidly&, timidly turned around&.
 
@@ -863,25 +863,25 @@ Shuddering&, I timidly&, timidly turned around&.
 <PRE box00>
 [text019]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600360yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600360yu">
+"&.&.&.&.&.&.&."
 
 The color residing in the depths of her glaring eyes wasn't sane&.
 
 //Ç∑Ç≤Ç≠ó‚ìOÇ…
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600370yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600370yu">
 "I won't let you run&, you know?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600380yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600380yu">
 "I'll apologize for deceiving you&, but that goes for both of us&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600390yu">
-"You&, too&, hid something from me&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600390yu">
+"You&, too&, hid something from me&."
 
-Hid&.&.&.&. something&.&.&.&. 
+Hid&.&.&. something&.&.&.
 
 I could only come up with one thing&.
 Somehow&, some way&, this girl knew I'd witnessed the corpse and the
@@ -897,33 +897,33 @@ And that was why she had approached me&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text020]
-She was ingenious&, after all&.&.&.&. 
-This meant every single thing she'd told me had been a lie&.&.&.&.! 
+She was ingenious&, after all&.&.&.
+This meant every single thing she'd told me had been a lie&.&.&.!
 
 The fact that she'd been concerned about me since the first time she
 saw me&.
 
-And the fact that she'd said she liked Burachu&. 
+And the fact that she'd said she liked Burachu&.
 And the fact that she'd promised to go together with me to pick up the
-post-awakening Seira figure on the day it was released&. 
+post-awakening Seira figure on the day it was released&.
 
 And the fact that she'd smiled and nodded as though she were having
-fun listening to what I was telling her&. 
+fun listening to what I was telling her&.
 And the fact that she'd said she wanted to become better friends with
-me&. 
+me&.
 
 And the fact that she'd gotten worried about me when I didn't come to
-school&. 
-And the fact that she'd been nice enough to call me admirable&. 
+school&.
+And the fact that she'd been nice enough to call me admirable&.
 
 All of it&, all of it&, had just been her saying whatever came to the
-top of her head&.&.&.&.
+top of her head&.&.&.
 
-I clenched my fists in frustration and grief&. 
+I clenched my fists in frustration and grief&.
 
-Fuck! Fuck! Fuck! 
+Fuck! Fuck! Fuck!
 
-Why did I try so hard to believe in someone like her&.&.&.&.!
+Why did I try so hard to believe in someone like her&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -934,41 +934,41 @@ Why did I try so hard to believe in someone like her&.&.&.&.!
 <PRE box00>
 [text021]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600400yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600400yu">
 "In reality&, I would have liked to spend more time investigating&,
 but since you caught me&, there's no helping it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600410yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600410yu">
 "There's something I want to tell you&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600420yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600420yu">
 "You'll listen&, won't you?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600430yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600430yu">
 "You won't say you won't listen?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600440yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600440yu">
 "You should listen&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600450yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600450yu">
 "Listen&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600460yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600460yu">
 "Won't you listen?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600470yu">
-"If you don't listen&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600470yu">
+"If you don't listen&.&.&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600480yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600480yu">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -977,20 +977,20 @@ but since you caught me&, there's no helping it&."
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text022]
-If I don't listen&, what&.&.&.&. 
+If I don't listen&, what&.&.&.
 
-She was like a different person from the Yua I'd known up till now&. 
+She was like a different person from the Yua I'd known up till now&.
 
-Her gentle&, calm atmosphere had vanished&. 
+Her gentle&, calm atmosphere had vanished&.
 
 Now I sensed an unapproachable atmosphere&. And an indescribable
-tenacity&. 
+tenacity&.
 
 Her tone was absolute in its self-possession&. No&, "cool-headedness"
 might be a better way to put it&.
-Her usual frailty was nowhere to be found&. 
+Her usual frailty was nowhere to be found&.
 
-No&, I don't want to listen&.&.&.&. 
+No&, I don't want to listen&.&.&.
 I tried to cover my ears&.
 
 </PRE>
@@ -1002,10 +1002,10 @@ I tried to cover my ears&.
 <PRE box00>
 [text023]
 //ÅôÅôÅô
-But I couldn't do it&. Yua had captured one of my hands&. 
+But I couldn't do it&. Yua had captured one of my hands&.
 
 She wasn't gripping it as hard as before&, but she showed no sign of
-letting go&. She wouldn't let my hand move freely&. 
+letting go&. She wouldn't let my hand move freely&.
 
 Still holding onto me&, she reached inside her bag and slowly&,
 deliberately pulled out something that shone dully&. She held it out
@@ -1023,27 +1023,27 @@ toward me&.
 <PRE box00>
 [text024]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600490ta">
-"----!" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600490ta">
+"--!"
 
-I was stunned&. 
+I was stunned&.
 
-My heartbeat leapt higher&. 
+My heartbeat leapt higher&.
 
-I couldn't stay calm&. 
+I couldn't stay calm&.
 I was so shocked that I lowered the one hand covering my ear&. That
 was when Yua's accusatory voice reached my ears&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600500yu">
-"You recognize this cross&, don't you?" 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600500yu">
+"You recognize this cross&, don't you?"
 
-Of course I recognized it&. 
+Of course I recognized it&.
 
-I soon saw it for what it was&. 
+I soon saw it for what it was&.
 
-It resembled a cross but was in truth a stake&. 
-One didn't often see stakes with such a distinctive shape&. 
+It resembled a cross but was in truth a stake&.
+One didn't often see stakes with such a distinctive shape&.
 
 At the very least&, I had only seen them once before&.
 
@@ -1056,7 +1056,7 @@ At the very least&, I had only seen them once before&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text525]
---That night&, strewn across the pavement&.
+Å\That night&, strewn across the pavement&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
@@ -1073,7 +1073,7 @@ At the very least&, I had only seen them once before&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text625]
---That night&, as the demon girl hammered them in&.
+Å\That night&, as the demon girl hammered them in&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
@@ -1083,7 +1083,7 @@ At the very least&, I had only seen them once before&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text725]
---That night&, as she pinned a dead body to the wall&.
+Å\That night&, as she pinned a dead body to the wall&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
@@ -1104,31 +1104,31 @@ At the very least&, I had only seen them once before&.
 <PRE box00>
 [text025]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600510yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600510yu">
 "So you do know of it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600520yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600520yu">
 "Surely you must know it?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600530yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600530yu">
 "Of course you know it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600540yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600540yu">
 "I won't let you say you don't know it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600550yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600550yu">
 "It'd be strange if you didn't know it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600560yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600560yu">
 "You know it&, don't you?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600570yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600570yu">
 "You ÅE know ÅE it ÅE don't ÅE you?"
 
 I desperately shook my head&.
@@ -1143,43 +1143,43 @@ being&, as I wiped it&, was shake my head from side to side&.
 <PRE box00>
 [text026]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600580yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600580yu">
 "This was in your room&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600590ta">
-"&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600590ta">
+"&.&.&.!"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600600yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600600yu">
 "In your room&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600610yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600610yu">
 "Under the bed&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600620yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600620yu">
 "On the floor&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600630yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600630yu">
 "It fell there&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600640yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600640yu">
 "Didn't it fall there?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600650yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600650yu">
 "Or did you throw it away?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600660yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600660yu">
 "In any case&, it fell&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600670yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600670yu">
 "It fell&."
 
 </PRE>
@@ -1190,45 +1190,45 @@ being&, as I wiped it&, was shake my head from side to side&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text027]
-You bitch&.&.&.&.! 
+You bitch&.&.&.!
 
-When the hell did she investigate my room!? 
-On the day we first met!? 
+When the hell did she investigate my room!?
+On the day we first met!?
 
-When I hurt my foot&, and she helped me up to my room!? 
+When I hurt my foot&, and she helped me up to my room!?
 When she'd seen my figure of Seira-tan&, and her face had been
 shining&, and she'd called it cute!?
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600680yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600680yu">
 "This stake is extremely unusual&. It's imported&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600690yu">
-"And&.&.&.&. it's the same as the stakes used in the third 'New Gen' case&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600690yu">
+"And&.&.&. it's the same as the stakes used in the third 'New Gen' case&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600700yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600700yu">
 "I'm saying it's the same&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600710yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600710yu">
 "It's the same&, isn't it?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600720yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600720yu">
 "It's unmistakably the same&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600730yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600730yu">
 "It's the same&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600740yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600740yu">
 "As the stakes used to pin the corpse to the wall&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600750yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600750yu">
 "The same&."
 
 </PRE>
@@ -1241,37 +1241,37 @@ shining&, and she'd called it cute!?
 [text028]
 I was positive of it&.
 
-She suspected me of being the "New Gen" perpetrator&. 
-She'd convinced herself I was a murderer&. 
+She suspected me of being the "New Gen" perpetrator&.
+She'd convinced herself I was a murderer&.
 
-Did she think she was some kind of detective? 
+Did she think she was some kind of detective?
 "The high school girl detective&, Kusunoki Yua&," or something like
-that&. 
+that&.
 
-Go die&. I mean it&, you deserve to die&. 
-It might have worked in an anime or a game&. 
+Go die&. I mean it&, you deserve to die&.
+It might have worked in an anime or a game&.
 
-But Yua's reasoning was fatally mistaken&. 
+But Yua's reasoning was fatally mistaken&.
 
-I knew the killer&. 
+I knew the killer&.
 
-I'd seen her with my own eyes&. 
-That demon&. 
+I'd seen her with my own eyes&.
+That demon&.
 
-She was a girl whose name I didn't know&. 
-But she had worn the Suimei uniform&. 
+She was a girl whose name I didn't know&.
+But she had worn the Suimei uniform&.
 The culprit was someone very near to me&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600760ta">
-"So&.&.&.&. so what?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600760ta">
+"So&.&.&. so what?"
 
 //ÉuÉåÉX
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600770yu">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600770yu">
+"&.&.&.&.&.&.&."
 
-Yua lowered her head and let out a small breath&. 
+Yua lowered her head and let out a small breath&.
 Her grip on my wrist weakened&, and at last she released me&.
 
 </PRE>
@@ -1288,10 +1288,10 @@ Her grip on my wrist weakened&, and at last she released me&.
 [text029]
 //óDà§ÇÕà»â∫ÅAå≥Ç…ñﬂÇÈ
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600780yu">
-"&.&.&.&.Nothing more and nothing less than what it seems&. All I
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600780yu">
+"&.&.&.Nothing more and nothing less than what it seems&. All I
 wanted to do was make sure that you knew what it was&. In truth&, I
-hadn't meant to say anything yet&." 
+hadn't meant to say anything yet&."
 
 What the hell was "yet" supposed to mean here!?
 
@@ -1299,29 +1299,29 @@ What the hell was "yet" supposed to mean here!?
 	DeleteStand("stóDà§_êßïû_í èÌ_worry", 300, false);
 	FadeStand("stóDà§_êßïû_í èÌç∂éËâ∫_hard", 300, true);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600790yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600790yu">
 "While we're at it&, let me confirm one other thing&."
 
 //ÅyóDà§Åz
 {#TIPS_ó\ím=true;}
-<voice name="óDà§" class="óDà§" src="ch01/02600800yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600800yu">
 "Do you have <FONT incolor="#88abda" outcolor="BLACK">precognitive powers</FONT>?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600810ta">
-"Haa&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600810ta">
+"Haa&.&.&.?"
 
-I unthinkingly let my mouth fall open&. 
+I unthinkingly let my mouth fall open&.
 
-Precognitive powers? 
-What the heck was that? 
-What did it have to do with the incident? 
+Precognitive powers?
+What the heck was that?
+What did it have to do with the incident?
 
 As I wracked my brain&, Yua plunged a hand into her bag and pulled out
 a piece of paper with a full-color image printed on it&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600820yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600820yu">
 "Because you possessed a piece of image data that can't be explained
 away&, unless you happen to have precognitive powers&."
 
@@ -1329,7 +1329,7 @@ away&, unless you happen to have precognitive powers&."
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
-//ÅôCut-98-----------------------------
+//ÅôCut-98Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
 	CreateTextureEX("ÉOÉç", 1000, 0, 0, "cg/ev/ev006_01_3_ÉOÉçâÊëú_a.jpg");
 	Fade("ÉOÉç", 500, 1000, null, true);
@@ -1339,23 +1339,23 @@ away&, unless you happen to have precognitive powers&."
 <PRE box00>
 [text030]
 //ÉCÉÅÅ[ÉWÇaÇf//ÉOÉçâÊëúÉCÉÅÅ[ÉW
-The guro picture "Shogun" had sent me&.&.&.&.!
+The guro picture "Shogun" had sent me&.&.&.!
 Why did Yua have it!?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600830ta">
-"Th&, this&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600830ta">
+"Th&, this&.&.&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600840yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600840yu">
 "Why do you have a photo that replicates the third 'New Gen' case?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600850yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600850yu">
 "Furthermore&, you sent this image out on the day before the incident&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600860yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600860yu">
 "It was left behind in the cache of the PC you use&."
 
 </PRE>
@@ -1370,27 +1370,27 @@ Why did Yua have it!?
 <PRE box00>
 [text031]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600870ta">
-"Y&, you're wrong&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600870ta">
+"Y&, you're wrong&.&.&.!"
 
 I got this image from a guy called "Shogun&," who I chatted with for
-the first time that day! 
-I didn't make it myself! 
+the first time that day!
+I didn't make it myself!
 
 The fact that I'd downloaded it should still be recorded in my
-browser's history&. Of course&, I'd show that to Yua! 
+browser's history&. Of course&, I'd show that to Yua!
 
 But hold on&, how had Yua gotten her hands on the image in the first
-place&.&.&.&.? 
+place&.&.&.?
 
-How had she known it was left in my computer's cache&.&.&.&. 
+How had she known it was left in my computer's cache&.&.&.
 
 The one time she came to my room&, she couldn't possibly have had any
-time to check out my PC&.&.&.&.!
+time to check out my PC&.&.&.!
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600880ta">
-"You mean&.&.&.&. you're&.&.&.&. Shogun&.&.&.&.!" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600880ta">
+"You mean&.&.&. you're&.&.&. Shogun&.&.&.!"
 
 She was trying to set me up!?
 
@@ -1399,33 +1399,33 @@ criminals&, and she intended to use me as a scapegoat to mislead the
 police investigation!?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600890ta">
-"S&, save me&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600890ta">
+"S&, save me&.&.&."
 
-This was too much for me&.&.&.&. 
+This was too much for me&.&.&.
 
-Why me? 
+Why me?
 
-Because I was gross? 
+Because I was gross?
 Because I didn't have any friends?
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600900yu">
-"&.&.&.&.&.&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600900yu">
+"&.&.&.&.&.&.&."
 
 Yua said nothing&, only shook her head a little&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600910yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600910yu">
 "I took this image from the PC in @Cafe's Room 37&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600920yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600920yu">
 "I also wanted to investigate your PC&, if at all possible&, but I
-didn't have the chance&." 
+didn't have the chance&."
 
-Room 37&.&.&.&. the room I always used&.
-The bitch totally thought she was some kind of detective&.&.&.&.
+Room 37&.&.&. the room I always used&.
+The bitch totally thought she was some kind of detective&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1438,44 +1438,44 @@ The bitch totally thought she was some kind of detective&.&.&.&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text032]
-Yua looked at me with only a faint trace of apology in her face&. 
+Yua looked at me with only a faint trace of apology in her face&.
 I felt that she'd returned to the usual Yua for a moment&.
 
 Still wearing that expression&, she began fishing around inside her
-bag again&. 
-This time she brought out a print-out and pushed it at me&. 
+bag again&.
+This time she brought out a print-out and pushed it at me&.
 
-I had a bad feeling about this&. 
-My reason warned me that it would be better not to look&. 
+I had a bad feeling about this&.
+My reason warned me that it would be better not to look&.
 
-But I had no choice but to look&. 
+But I had no choice but to look&.
 I'd be falsely accused if I didn't find some way to resist&.
 
 {	Stand("stóDà§_êßïû_í èÌ","hard", 200, @0);
 	DeleteStand("stóDà§_êßïû_í èÌç∂éËâ∫_worry", 300, false);
 	FadeStand("stóDà§_êßïû_í èÌ_hard", 300, true);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600930yu">
-"That's--"
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600930yu">
+"That'sÅ\"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600940yu">
-"Your everything&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600940yu">
+"Your everything&."
 
-My everything? 
-Could she have stolen all my personal information? 
-Was Yua a hacker? 
+My everything?
+Could she have stolen all my personal information?
+Was Yua a hacker?
 
-Heart pounding&, I unfolded the print-out&. 
+Heart pounding&, I unfolded the print-out&.
 Contrary to my expectations&, though&, rather than my personal
 information&, what wasprinted there looked like the backlog of an
 online chat&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600950ta">
-"Ah&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600950ta">
+"Ah&.&.&."
 
-The participants in the chat were "Neidhardt" and-- 
+The participants in the chat were "Neidhardt" andÅ\
 
 "Shogun&."
 
@@ -1533,7 +1533,7 @@ Shogun: Whose eyes are those eyes?(09/29 Wed 19:59:53)</pre>
 [text034]
 <pre>Neidhardt: Haha&, look&, are you trying to use Zhuge Liang's
 trap here?(09/28 Sun 03:11:27)
-Neidhardt: Whoa&.&.&.&. wait&, why in English? lol(09/28 Sun
+Neidhardt: Whoa&.&.&. wait&, why in English? lol(09/28 Sun
 03:12:27)
 Neidhardt: Nah&, no prob(09/28 Sun 03:13:30)
 Neidhardt: Why were you lurking? Someone tell you to go f-off and
@@ -1580,7 +1580,7 @@ it? lol(09/28 Sun 03:18:27)</pre>
 	SetBacklog("Shogun: Whose eyes are those eyes?(09/29 Mon 19:59:53)","null", null);
 	
 	SetBacklog("Neidhardt: Haha, look, are you trying to use Zhuge Liang's trap here?(09/28 Sun 03:11:27)","null", null);
-	SetBacklog("Neidhardt: Whoa.... wait, why in English? lol(09/28 Sun 03:12:27)","null", null);
+	SetBacklog("Neidhardt: Whoa... wait, why in English? lol(09/28 Sun 03:12:27)","null", null);
 	SetBacklog("Neidhardt: Nah, no prob(09/28 Sun 03:13:30)","null", null);
 	SetBacklog("Neidhardt: Why were you lurking? Someone tell you to go f-off and lurk for half a year?(09/28 Sun 03:14:10)","null", null);
 	SetBacklog("Neidhardt: Where are you chatting from?(09/28 Sun 03:14:40)","null", null);
@@ -1605,12 +1605,12 @@ it? lol(09/28 Sun 03:18:27)</pre>
 <PRE box00>
 [text035]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600960yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600960yu">
 "Isn't that log strange?"
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02600970ta">
-"Eh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02600970ta">
+"Eh&.&.&."
 
 {	CreateColor("Black", 1000, 0, 0, 800, 600, "Black");
 	Fade("Black", 0, 0, null, false);
@@ -1627,54 +1627,54 @@ It was a normal log&. I certainly remembered having this kind of
 conversation with "Shogun&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600980yu">
-"'Neidhardt' and 'Shogun'--"
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600980yu">
+"'Neidhardt' and 'Shogun'Å\"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02600990yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02600990yu">
 "Their timestamps don't match up in the slightest&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02601000ta">
-"Ah&.&.&.&.!"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02601000ta">
+"Ah&.&.&.!"
 
 {	WaitAction("ÉEÉBÉìÉhÉEÇP/ÉçÉOÇP", null);
 	WaitAction("ÉçÉOÇQ", null);}
 Eh? What was this?
-Why had it ended up like this&.&.&.&.?
+Why had it ended up like this&.&.&.?
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601010yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601010yu">
 "You are 'Neidhardt&,' Nishijou-kun&. The timestamp there starts on
 September 28&, at about 3:00 in the morning&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601020yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601020yu">
 "The next day&, you went to '@Cafe&.'"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601030yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601030yu">
 "You typically go to '@Cafe' after school&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601040yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601040yu">
 "And you go to school 2&.5 times per week&. I heard from your
-classmates that the days you attended school last week were--"
+classmates that the days you attended school last week wereÅ\"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601050yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601050yu">
 "Monday&, Wednesday&, Thursday&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601060yu">
-"Last week's Monday was&.&.&.&. September 29&. The same day as on
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601060yu">
+"Last week's Monday was&.&.&. September 29&. The same day as on
 Shogun's timestamps&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch01/02601070ta">
-"&.&.&.&.&.&.&.&.&.Wha&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02601070ta">
+"&.&.&.&.&.&.&.Wha&.&.&."
 
-What? What&.&.&.&. was she saying?
+What? What&.&.&. was she saying?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1694,22 +1694,22 @@ What? What&.&.&.&. was she saying?
 <PRE box00>
 [text036]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601080yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601080yu">
 "I examined the chat log from the PC in Room 37&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601090yu">
-"What I learned from doing so was that&.&.&.&." 
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601090yu">
+"What I learned from doing so was that&.&.&."
 
-Yua briefly c<pre>u</pre>t herself off-- 
+Yua briefly c<pre>u</pre>t herself offÅ\
 
 Then&, finally catching my gaze straight-on&, she gave voice to the
 relentless truth&.
 
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601100yu">
-"You were putting on a one-man play&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601100yu">
+"You were putting on a one-man play&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1717,10 +1717,10 @@ relentless truth&.
 
 
 	CreateColor("êFÇP", 1000, 0, 0, 800, 600, "Black");
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ÉeÉLÉXÉgÇP", 1000, center, middle, Auto, Auto, "--Don't look at me&.");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ÉeÉLÉXÉgÇP", 1000, center, middle, Auto, Auto, "Å\Don't look at me&.");
 
-	SetBacklog("--Don't look at me&.", "NULL", NULL);
+	SetBacklog("Å\Don't look at me&.", "NULL", NULL);
 
 	Request("ÉeÉLÉXÉgÇP", NoLog);
 	Request("ÉeÉLÉXÉgÇP", Erase);
@@ -1738,7 +1738,7 @@ relentless truth&.
 <PRE box00>
 [text037]
 //à»â∫ÅAâÊñ çïÇ≈ï∂èÕÇÃÇ›âÊñ íÜâõÇ…ÉJÉbÉgÉCÉì
---Don't look at me&. 
+Å\Don't look at me&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1750,18 +1750,18 @@ relentless truth&.
 <PRE box00>
 [text038]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601110yu">
-"'Shogun' is none other than--"
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601110yu">
+"'Shogun' is none other thanÅ\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 
 	CreateColor("êFÇP", 1000, 0, 0, 800, 600, "Black");
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ÉeÉLÉXÉgÇP", 1000, center, middle, Auto, Auto, "--Don't look at me!");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ÉeÉLÉXÉgÇP", 1000, center, middle, Auto, Auto, "Å\Don't look at me!");
 
-	SetBacklog("--Don't look at me!", "NULL", NULL);
+	SetBacklog("Å\Don't look at me!", "NULL", NULL);
 
 	Request("ÉeÉLÉXÉgÇP", NoLog);
 	Request("ÉeÉLÉXÉgÇP", Erase);
@@ -1778,7 +1778,7 @@ relentless truth&.
 <PRE box00>
 [text039]
 //à»â∫ÅAâÊñ çïÇ≈ï∂èÕÇÃÇ›âÊñ íÜâõÇ…ÉJÉbÉgÉCÉì
---Don't look at me!
+Å\Don't look at me!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1790,7 +1790,7 @@ relentless truth&.
 <PRE box00>
 [text040]
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch01/02601120yu">
+<voice name="óDà§" class="óDà§" src="voice/ch01/02601120yu">
 "You yourself&."
 
 </PRE>

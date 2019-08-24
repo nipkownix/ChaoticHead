@@ -66,12 +66,12 @@ A peculiar atmosphere enveloped the nighttime Miyashita Park&.
 [text002]
 //◆※人数は１００人を想定しているのでそう聞こえるようにしていただけると助かります。延々と虚ろな声で繰り返し。以下指定解除があるまで続く。セリフではなくＳＥ扱いにして、テキストでは表示しないようにしたいです。
 //【人々】
-<voice name="人々" class="人々" src="ch05/10000010hb">
+<voice name="人々" class="人々" src="voice/ch05/10000010hb">
 //「その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目その目だれの目――」
-"Whose eyes are those eyes whose eyes are those eyes whose eyes are 
-those eyes whose eyes are those eyes whose eyes are those eyes whose 
-eyes are those eyes whose eyes are those eyes whose eyes are those 
-eyes whose eyes are those eyes whose eyes are those eyes whose eyes--"
+"Whose eyes are those eyes whose eyes are those eyes whose eyes are
+those eyes whose eyes are those eyes whose eyes are those eyes whose
+eyes are those eyes whose eyes are those eyes whose eyes are those
+eyes whose eyes are those eyes whose eyes are those eyes whose eyes―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -84,38 +84,38 @@ eyes whose eyes are those eyes whose eyes are those eyes whose eyes--"
 An enormous group clustered together in the middle of the park&.
 
 //その数は１００人はくだらないだろう。
-There must have been over a hundred people among them&. 
+There must have been over a hundred people among them&.
 
 //ほとんどが１０代と思われる男女ばかりで、高校の制服を着ている者がいたり、おしゃれな私服の少女もいたりする。
 Almost all of them were men and women in their teens; some were wearing
 school uniforms&, others were girls in fashionable casual clothing&.
 
 //オタクっぽい眼鏡をかけた少年や、今の時代には珍しいガングロの女子高生もいた。
-Some were boys wearing otaku-esque glasses; others were ganguro high 
+Some were boys wearing otaku-esque glasses; others were ganguro high
 school girls&, a rarity in these times&.
 
 //傍目からは、なにかのイベントでも行っているかと思われそうなものだが、よく観察してみると彼らの様子が尋常ではないのがよく分かるだろう。
-An onlooker might think some kind of entertainment event was taking 
-place&, but closer observation would reveal that the gatherers' 
+An onlooker might think some kind of entertainment event was taking
+place&, but closer observation would reveal that the gatherers'
 condition was far from normal&.
 
 //誰も彼もうつむき気味で、目は焦点が定まっておらず虚ろだ。
 All of them faced downward&, their eyes empty and unfocused&.
 
 //これだけの人数が集まっていながら、互いに会話を交わすこともなく、その場にたたずんで一歩も動こうとしない。
-Though so many of them had gathered here&, none exchanged conversations 
-with each other&, instead standing in place without attempting to move a
-single step away&.
+Though so many of them had gathered here&, none exchanged
+conversations with each other&, instead standing in place
+without attempting to move a single step away&.
 
 //口元にはいずれもかすかに笑みを浮かべ、ブツブツとなにかをつぶやいている。
-Every single one of them wore faint smiles&, and all were muttering 
+Every single one of them wore faint smiles&, and all were muttering
 something under their breath&.
 
 //彼らが一心不乱に繰り返しつぶやいているその言葉は、
 The words they poured all their heart and soul into repeating were
 
 //――その目だれの目？
---Whose eyes are those eyes?
+―Whose eyes are those eyes?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -125,7 +125,7 @@ The words they poured all their heart and soul into repeating were
 <PRE box00>
 [text903]
 //感情も、抑揚もなく、つぶやく程度の声で１００人の口から発せられるその言葉は、公園内にお経のように響き渡っていた。
-Those words emitted by the mouths of the hundred murmurers resounded 
+Those words emitted by the mouths of the hundred murmurers resounded
 through the park like a Buddhist sutra&, flat and emotionless&.
 
 //当然ながら、彼らの奇異な姿のせいか、宮下公園には他にほとんど人影はなかった。
@@ -134,17 +134,17 @@ to be seen in Miyashita Park&.
 
 //公園内を通り抜けようとした会社帰りのＯＬの女性も、散歩中なのか犬を連れて入ってきた中年女性も、異様な光景を前にギョッとして来た道を引き返していく。
 Office ladies cutting through the park on their way home from work&, and
-middle-aged women taking their dogs for a walk; all grew flustered at 
+middle-aged women taking their dogs for a walk; all grew flustered at
 the unnatural spectacle and turned back the way they had come&.
 
 //唯一、彼ら異様な集団に注目している男がひとりだけいた。
 //どうやら彼もまた集団の関係者のようだが、集団の中には入らず少し離れた場所にポツンとひとりで立っている。
 There was only one man paying attention to the peculiar group&.
-He too appeared to have some connection to them&, but he stood off to 
+He too appeared to have some connection to them&, but he stood off to
 one side by himself&, without joining them&.
 
 //秋葉原なら問題なく溶け込めそうなそのファッション――チェックのシャツにジーパン、ボロボロのスニーカー、指出し手袋、赤いバンダナ、そして背中には緑色の大きなリュックサック。
-With his clothes&, he could have easily blended in at Akihabara--a 
+With his clothes&, he could have easily blended in at Akihabara―a
 check pattern shirt&, jeans&, worn-out sneakers&, fingerless gloves&, a red
 bandanna&, and a big green rucksack on his back&.
 
@@ -153,8 +153,8 @@ bandanna&, and a big green rucksack on his back&.
 He was fairly corpulent&, to the point that his shirt buttons threatened
 to pop apart any moment now&.
 
-Though it was the latter portion of October and should have been 
-rather cool out&, he constantly wiped sweat from his forehead with a 
+Though it was the latter portion of October and should have been
+rather cool out&, he constantly wiped sweat from his forehead with a
 hand towel&.
 
 //周囲をキョロキョロと見回し落ち着かない様子だが、肩を揺らしながらニヤニヤと笑っているようでもある。
@@ -162,7 +162,7 @@ His eyes darted around as if he couldn't calm down&, but his shoulders
 also seemed to be shaking with laughter&.
 
 //さっきから、集団が唱えるお経のような合唱とは別に、公園内には謎の機械音が響いていたが、その音は彼のリュックサックの中から発せられていた。
-Aside from the group's sutra-like chant&, an unidentified mechanical 
+Aside from the group's sutra-like chant&, an unidentified mechanical
 sound echoed through the park&, emerging from his rucksack&.
 
 </PRE>
@@ -176,25 +176,25 @@ sound echoed through the park&, emerging from his rucksack&.
 <PRE box00>
 [text004]
 //そこへまたひとり、今度はブレザーを着崩した女子高生が入ってきた。
-Another high school girl&, this time one wearing an undone blazer&, 
+Another high school girl&, this time one wearing an undone blazer&,
 entered the park&.
 
 //彼女は、異様な集団を見てもひるむどころか、そのまま彼らを見据えてどんどん近づいていく。
-Far from shrinking away from the odd group&, she fixed her eyes on them 
+Far from shrinking away from the odd group&, she fixed her eyes on them
 and steadily drew nearer&.
 
 //長い黒髪を風になびかせながら歩く姿は、凛々しさに満ちていた。
 //それとは対照的に、なぜか手には半分ほど食べかけの棒アイスが握られている。
-She was infused with intimidating poise as she walked&, her long dark 
-hair stirring in the breeze&. 
+She was infused with intimidating poise as she walked&, her long dark
+hair stirring in the breeze&.
 
-In sharp contrast with that&, she for some reason held a half-eaten 
+In sharp contrast with that&, she for some reason held a half-eaten
 popsicle&.
 
 //集団はそんな彼女にまったく注意を向けようとしない。
 //完全に自分の世界に入り込み、ただひたすら同じ言葉を連呼し続けるのみ。
 The group took absolutely no notice of her&.
-Having completely entered their own world&, they focused solely on 
+Having completely entered their own world&, they focused solely on
 continuing to recite the same words&.
 
 //彼女もまた、無視されていることに眉をひそめようともしない。
@@ -210,7 +210,7 @@ Once she had drawn up close to them&, she abruptly stopped&.
 	FadeStand("stセナ_制服_食事かじる_sigh", 300, true);
 	DeleteStand("stセナ_制服_食事減る_sigh", 0, true);}
 //ひどく余裕のある態度で棒アイスをかじる。
-There was a remarkably languorous air to her as she bit down on her 
+There was a remarkably languorous air to her as she bit down on her
 popsicle&.
 
 {	Stand("stセナ_制服_食事棒","normal", 200, @+150);
@@ -223,28 +223,28 @@ The sound of crunching leaked from her mouth when she chewed&.
 	FadeStand("stセナ_制服_食事棒_sigh", 300, true);
 	DeleteStand("stセナ_制服_食事棒_normal", 0, true);}
 //食べ終わって手に残った棒を眺めた少女は、小さく舌打ちをして足許に放り捨てる。
-When she finished eating and glanced at the stick remaining in her 
+When she finished eating and glanced at the stick remaining in her
 hand&, she clicked her tongue a little and tossed it down by her feet&.
 
 {	DeleteStand("stセナ_制服_食事棒_sigh", 500, true);
 	Stand("stセナ_制服_通常","hard", 200, @+150);
 	FadeStand("stセナ_制服_通常_hard", 500, true);}
 //相変わらずその眼差しは鋭く、視線はゆっくりと集団のひとりひとりの顔を移動していった。
-The look in her eyes remained sharp as she moved her gaze across the 
-group&, going one by one&, from face to face&. 
+The look in her eyes remained sharp as she moved her gaze across the
+group&, going one by one&, from face to face&.
 
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000020rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000020rm">
 //「おい、な、なんだよ、お前！」
 "Hey&, wh&, who are you!"
 
 //リュック男が、我慢の限界とばかりに声を上げた。
-The rucksack-wearing man spoke up as if he'd reached the limits of his 
+The rucksack-wearing man spoke up as if he'd reached the limits of his
 endurance&.
 
 //さっきからこの男にだけ観察されていたことに、
 //当然ながら少女――蒼井セナ――は気付いていた。
-Naturally&, the girl--Aoi Sena--was aware that
+Naturally&, the girl―Aoi Sena―was aware that
 This man alone had been studying her for some time now&.
 
 {	DeleteStand("stセナ_制服_通常_hard", 500, true);}
@@ -287,12 +287,12 @@ appeared floating there&.
 
 //それは鍬か、スコップのように見えたが、いずれも形が微妙に違う。
 //先端が二股に分かれた鋭利な刃物だった。
-It might appear to be either a hoe or a shovel&, but its shape differed 
+It might appear to be either a hoe or a shovel&, but its shape differed
 subtly from both of them&.
 The tip of its razor-sharp blade was divided in two&.
 
 //やがてはっきりとした形となったそれを、セナは両手で握りしめる。
-She gripped it with both hands when at last it developed a distinct 
+She gripped it with both hands when at last it developed a distinct
 shape&.
 
 //けれどそれだけでは終わらない。
@@ -303,7 +303,7 @@ But it didn't end there&.
 	Fade("back13", 300, 0, null, true);
 	Delete("back13");}
 //直後に、セナが持った刃物の両端、そして向かって右側の空間に、青い光が灯る。
-Immediately after&, a blue light burned along the double blade she held 
+Immediately after&, a blue light burned along the double blade she held
 and the air to her right at which it pointed&.
 
 {	CreateSE("SE03","SE_擬音_ディソード構える");
@@ -313,12 +313,12 @@ and the air to her right at which it pointed&.
 	FadeDelete("back14", 1000, true);}
 //その青く光った空間に、さっきと同様に金属製のパーツが浮かび上がってきた。
 //形を為したそれは、物々しい音を立てながら最初の刃物状の棒に合体していく。
-In the same way as before&, metal parts floated up out of the 
+In the same way as before&, metal parts floated up out of the
 illuminated space&.
-Upon materializing&, they fused noisily with the long blade&. 
+Upon materializing&, they fused noisily with the long blade&.
 
 //最終的にリングを形成し、そこからさらに右側に長い光の軌跡が伸びる。
-At last there formed a ring&, and another trail of light streaked from 
+At last there formed a ring&, and another trail of light streaked from
 it toward the right&.
 
 //その軌跡をなぞりながら、最後は二股に分かれた長い刃が浮かび上がった。
@@ -335,9 +335,9 @@ It had at some point metamorphosed to a giant sword&.
 //――鋭利にして、流麗。
 //――清冽にして、破壊的。
 //――禍々しくも、美しく。
---Sharp yet lovely&.
---Clean yet destructive&.
---Sinister yet beautiful&.
+―Sharp yet lovely&.
+―Clean yet destructive&.
+―Sinister yet beautiful&.
 
 //圧倒的な存在感を持って、その剣はセナの手に収まっていた。
 With its supreme sense of presence&, the sword settled into Sena's hand&.
@@ -367,21 +367,21 @@ He only narrowed his lips and stared at her&.
 <PRE box00>
 [text006]
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000030rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000030rm">
 //「関係者じゃないだろ。あっち、行けよ」
 "You've got nothing to do with this&. Shoo&, off with you&."
 
 //口調はあくまで威圧的だ。男性にしては甲高い声で、セナとは距離を開けたまま手振りで去るように要求する。
-His tone was thoroughly overbearing&.  His voice&, high for a man's&, 
-demanded that Sena leave even as he stood some distance from her&, 
+His tone was thoroughly overbearing&.  His voice&, high for a man's&,
+demanded that Sena leave even as he stood some distance from her&,
 waving her away&.
 
 //対してセナも、顔色ひとつ変えずに静かに口を開いた。
 Sena&, in contrast&, quietly opened her mouth without the slightest shift
-in expression&. 
+in expression&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000040sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000040sn">
 //「……お前が責任者か？」
 "&.&.&.Are you responsible for this?"
 
@@ -392,10 +392,10 @@ More than a regular question&, it was an inquiry for confirmation&.
 Her eyes were nailed to him&.
 
 //それでリュック男は、それまでとは逆に明らかにうろたえ始めた。
-The rucksack-wearing man showed a previously unseen confusion&. 
+The rucksack-wearing man showed a previously unseen confusion&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000050sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000050sn">
 //「答えろ。“<RUBY text="はたの">波多野</RUBY>”はどこだ？」
 "Answer me&. Where is 'Hatano'?"
 
@@ -404,10 +404,10 @@ He lost interest and pulled back&, but he didn't answer her&.
 
 //そんな２人のやり取りを、“その目だれの目”とつぶやきつづける集団はまったく意に介そうとしない。
 //というよりも、目に入っていないと言うべきだった。
-The group muttering "Whose eyes are those eyes?" made not a single 
+The group muttering "Whose eyes are those eyes?" made not a single
 effort to intervene in their exchange&.
 
-Or maybe it would be more appropriate to say that it hadn't even 
+Or maybe it would be more appropriate to say that it hadn't even
 registered with them&.
 
 //セナとリュック男の間で、視線がぶつかり合う。
@@ -417,19 +417,19 @@ Sena's gaze clashed with that of the rucksack man&.
 He was the first to look away&.
 
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000060rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000060rm">
 //「だ、誰だよ、それ……」
-"Wh&, who's that&.&.&.&."
+"Wh&, who's that&.&.&."
 
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000070rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000070rm">
 //「例え知ってても、教えないけどな」
 "But even if I knew&, I wouldn't tell you&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000080sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000080sn">
 //「…………」
-"&.&.&.&.&.&.&.&.&."
+"&.&.&.&.&.&.&."
 
 {	CreateSE("SE03","SE_擬音_ディソード構える");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);
@@ -438,7 +438,7 @@ He was the first to look away&.
 	FadeStand("stセナ_制服_武器構え青_hard", 400, true);}
 //セナは押し黙ると、持っている大剣を両手で軽々と振り回し、居合いのような構えを取った。
 //グッと腰を落とし、上半身を前のめりにする。
-Falling silent&, Sena swung her huge two-handed sword with ease&, 
+Falling silent&, Sena swung her huge two-handed sword with ease&,
 brandishing it as though to weigh the distance between her and him&.
 She lowered her center of gravity&, and her torso leaned forward&.
 
@@ -467,7 +467,7 @@ She lowered her center of gravity&, and her torso leaned forward&.
 <PRE box00>
 [text007]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000090sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000090sn">
 //「誤解するな」
 "Don't be mistaken&."
 
@@ -523,7 +523,7 @@ The sword's red glow grew dazzlingly vivid&.
 
 //セナは小さく息をつき――
 //奥歯を、ギリリと噛みしめた。
-Sena took a quiet breath--
+Sena took a quiet breath―
 And clenched her back teeth together&.
 
 </PRE>
@@ -594,7 +594,7 @@ A sonic wave had erupted as though to blow away the vibrating air&.
 The vibration soon came under control&.
 
 //だが剣は赤い輝きを明滅させ続けており、それはさながら血の脈動を思わせる。
-But the sword's red glow continued blinking&, reminiscent of the pulse 
+But the sword's red glow continued blinking&, reminiscent of the pulse
 in one's veins&.
 
 //セナは剣の切っ先を、ゆっくりとリュック男へ向けた。
@@ -602,22 +602,22 @@ Sena gradually moved its point toward the man with the rucksack&.
 
 {	MusicStart("逃げ出す", 800, 400, 0, 1000, null, true);}
 //さすがに、ひたすら無関心だった集団も動揺を見せた。みんな我に返ったように驚き、訳も分からないまま我先にと逃げ出していく。
-By now&, even the disinterested group had begun to evince some 
-perplexity&. They began running away&, bewildered&, all of them seeming 
+By now&, even the disinterested group had begun to evince some
+perplexity&. They began running away&, bewildered&, all of them seeming
 startled&, as if they had just come back to themselves&.
 
 //セナはそんな彼らには目もくらず、ひたすらリュック男だけを見据えていた。
-Sena went on focusing on the man alone without sparing a glance for 
+Sena went on focusing on the man alone without sparing a glance for
 the rest of them&.
 
 {	MusicStart("逃げ出す", 3000, 0, 0, 1000, null, false);}
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000100rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000100rm">
 //「ひいいぃぃっ」
 "Hiiiiiii"
 
 //それまで明確な怯えを見せなかったリュック男もまた、激しくうろたえ始める。
-Though he had not previously demonstrated any obvious fear&, he began 
+Though he had not previously demonstrated any obvious fear&, he began
 growing flustered&.
 
 //顔色を青くしながら、一歩ずつ後ずさっていく。
@@ -627,26 +627,26 @@ Going pale&, he retreated one step at a time&.
 He shook his head like a stubborn child&.
 
 //【リュック男】
-<voice name="リュック男" class="リュック男" src="ch05/10000110rm">
+<voice name="リュック男" class="リュック男" src="voice/ch05/10000110rm">
 //「ま、まま、待って！　俺は、波多野なんてヤツ、本当に、し、しし、知らないんだっ！　ただ、し、指示されただけ――」
-"Wa&, wa&, wait! I really don't kn&, know a guy named Hatano! I was ju&, 
-just following orders--"
+"Wa&, wa&, wait! I really don't kn&, know a guy named Hatano! I was ju&,
+just following orders―"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000120sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000120sn">
 //「……誤解するな、と言ったはず」
-"&.&.&.&.I told you not to be mistaken&."
+"&.&.&.I told you not to be mistaken&."
 
 //男の懇願を、セナは一顧だにしようとしなかった。
 Sena took no notice of his plea&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000130sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000130sn">
 //「質問したのはただの挨拶代わりだ」
 "I only asked as a form of greeting&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000140sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000140sn">
 //「お前がなにを答えたって、“それ”を壊すことに、変わりはない」
 "I would have destroyed 'it' regardless of your answer&."
 
@@ -660,8 +660,8 @@ Crying out pathetically&, the rucksack man turned on his heel to flee&.
 But the scattered group&, bolting right and left&, lay ahead of him&.
 
 //逃げ道を塞がれてしまい、焦った男はつんのめるようにして立ち止まる。
-His escape route blocked&, the panicking man pulled to a halt so fast&, 
-he pitched about&. 
+His escape route blocked&, the panicking man pulled to a halt so fast&,
+he pitched about&.
 
 {	Stand("buセナ_制服_武器構え","angry", 200, @+150);
 	FadeStand("buセナ_制服_武器構え_angry", 300, true);
@@ -680,7 +680,7 @@ That was when Sena leapt forward&, closing the distance between them&.
 //ＳＥ//ディソードを振り回す
 //画面エフェクト//斬るエフェクト（なぎ払い）
 //ＳＥ//機械が破壊される音
-	CreateMovie("ムービー１", 2000, 0, 0, false, false, "dx/mv軌跡01.ngs");
+	CreateMovie("ムービー１", 2000, 0, 0, false, false, "dx/mvTrack01.ngs");
 	Request("ムービー１", Play);
 
 	SetVolume("SE01", 0, 0, NULL);
@@ -739,16 +739,16 @@ The impact send him flying as well&.
 
 //地面に倒れ込んだ男は、全身を震わせながら、頭を抱えて丸くなってしまう。
 //もはや逃げる気力すら喪失したようだった。
-Collapsing on the ground&, he rolled into a ball&, holding his head and 
+Collapsing on the ground&, he rolled into a ball&, holding his head and
 shaking all over&.
 He seemed to have lost the energy needed to run away&.
 
 //恐怖のあまり失禁し、男のズボンの股間部分がジワジワと湿っていく。
-He was so frightened that he lost control of his bladder&, and the 
+He was so frightened that he lost control of his bladder&, and the
 crotch area of his pants began to stain itself wet&.
 
 //セナはそこに歩み寄ると、男の方には関心を示さず、ボロボロに引きちぎられたリュックと、その切り口からのぞく中身に視線を落とした。
-Sena walked up to him and&, showing no interest in the man himself&, 
+Sena walked up to him and&, showing no interest in the man himself&,
 dropped her gaze to what lay inside the ripped-open&, broken rucksack&.
 
 {	CreateSE("サウンド１","SE_戦闘_電撃_電気火花");
@@ -762,12 +762,12 @@ Sparks scattered within it&, crackling&.
 A mechanical device had been put inside it&.
 
 //元はモデムを一回り大きくしたような形だったと思われるが、ディソードに抉られていまやメチャメチャに破壊されてしまっている。もう使い物にはならないだろう。
-Originally it might have been about twice as large as a modem&, but the 
-Di-Sword had eaten through it&, shattering it to pieces&. It wouldn't be 
+Originally it might have been about twice as large as a modem&, but the
+Di-Sword had eaten through it&, shattering it to pieces&. It wouldn't be
 of any use anymore&.
 
 //数秒前までこのリュックの中から聞こえていた耳障りな機械音は、今は聞こえない。
-One could no longer hear the irritating mechanical whir that had been 
+One could no longer hear the irritating mechanical whir that had been
 coming out of this rucksack until a few seconds earlier&.
 
 </PRE>
@@ -784,12 +784,12 @@ coming out of this rucksack until a few seconds earlier&.
 <PRE box00>
 [text012]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch05/10000150sn">
+<voice name="セナ" class="セナ" src="voice/ch05/10000150sn">
 //「ＮＯＺＯＭＩ……」
-"NOZOMI&.&.&.&."
+"NOZOMI&.&.&."
 
 //誰にともなくつぶやいたセナの口振りからは、憎悪の感情がにじみ出ていた。
-As she murmured to no one in particular&, Sena's voice was tinged with 
+As she murmured to no one in particular&, Sena's voice was tinged with
 loathing&.
 
 </PRE>

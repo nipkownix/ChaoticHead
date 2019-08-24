@@ -42,17 +42,17 @@ function ch02_044_µŠC‚ÆŒg‘Ñw“ü()
 <PRE box00>
 [text001]
 In the end&, as though all her fretting up until now had been some
-kind of lie&, 
-Nanami picked out a model all too easily&. 
+kind of lie&,
+Nanami picked out a model all too easily&.
 
 After spending an hour dealing with the red tape related to the phone
 plan&, I got my hands on the phone itself and was planning to go
 straight home&, but Nanami stopped me&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400010na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400010na">
 "I'll take care of all the first-time settings and stuff for you&, so
-let's stop by McD's&." 
+let's stop by McD's&."
 
 Ignoring my intentions&, she grabbed me by the collar and dragged me
 to the closest McD's without giving me so much as the chance to
@@ -88,7 +88,7 @@ protest&.
 <PRE box00>
 [text002]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400020na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400020na">
 "In any case&, even if you took your phone home with you&, you'd
 obviously let it lie around there instead of charging it&."
 
@@ -96,12 +96,12 @@ obviously let it lie around there instead of charging it&."
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400030na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400030na">
 "I'll get it ready so you can use it properly&."
 
 Dammit&, just how much did you have to tie me down before you'd be
-satisfied&.&.&.&.
-And bringing me to McD's&, on top of everything else&.&.&.&.
+satisfied&.&.&.
+And bringing me to McD's&, on top of everything else&.&.&.
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 500, true);}
 The inside of the McD's in Shibuya was pure chaos&.
@@ -112,7 +112,7 @@ downright abnormal&.
 
 In the seats not far from mine were a group of gaudy&, blonde-dyed
 mothers and their kids&. Absorbed by their blabbering&, they ignored
-their kids--three in total&, with red-streaked hair&, horrid little
+their kids\three in total&, with red-streaked hair&, horrid little
 brats who shrieked and ran around the store&.
 
 In some other seats were four high schoolers&, equally sketchy-looking
@@ -139,7 +139,7 @@ the kind of people I didn't want to have anything to do with&.
 Nanami sure was something else&, being able to keep her presence of
 mind in a place like this&. As for me&, the sheer number of people
 made my head ache and my stomach turn&, and it was only getting worse
-and worse&.&.&.&.
+and worse&.&.&.
 
 More to the point&, why exactly did I have to come hang out at McD's
 with her?
@@ -156,27 +156,27 @@ with her?
 <PRE box00>
 [text003]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400040na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400040na">
 //¦w’…ƒƒx‚Í¤•W“o˜^‚³‚ê‚Ä‚¢‚é‚Ì‚Å‚à‚µ‚©‚·‚é‚Æg—p‚Í”ğ‚¯‚Ü‚µ‚½
-"Hey&, hey&, what about your ringtone? You want anything specific?" 
+"Hey&, hey&, what about your ringtone? You want anything specific?"
 
 Nanami asked me without looking up&, as she toyed with my cell phone&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400050ta">
-"A&, an anime song&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400050ta">
+"A&, an anime song&.&.&."
 
 //Ÿ‚«‚á‚Á‚©`‹p‰º
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400060na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400060na">
 {	SoundPlay("SE02", 200, 0, false);
 	Stand("buµŠC_§•_X‚Ë","angry", 200, @150);
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 "Vetoed~"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400070na">
-"This is what makes you such an otaku&." 
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400070na">
+"This is what makes you such an otaku&."
 
 Y&, you were the one who asked me what I wanted!
 It's my phone to begin with&, so let me do what I want with it!
@@ -185,21 +185,21 @@ It's my phone to begin with&, so let me do what I want with it!
 	FadeStand("buµŠC_§•_’Êí_normal", 500, false);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400080na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400080na">
 "Ah&, right&. How about using Oomura Karera's new single? It's really
 great&. One of my recent faves&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400090ta">
-"I&, I veto that one&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400090ta">
+"I&, I veto that one&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, false);}
 //‘å‘ºƒJƒŒƒ‰‰Ë‹ó‚Ì‰Ìè
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400100na">
-"Mm--&, well&, Oomura Karera doesn't exactly fit with you&, ahaha&."
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400100na">
+"Mm\&, well&, Oomura Karera doesn't exactly fit with you&, ahaha&."
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 500, false);}
 Nanami said&, showing not a fragment of consideration toward her older
@@ -223,8 +223,8 @@ appetite&.
 <PRE box00>
 [text004]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400110na">
-"Ah&, yeah&, yeah&, one more thing--"
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400110na">
+"Ah&, yeah&, yeah&, one more thing\"
 
 {	DeleteStand("buµŠC_§•_’Êí_normal", 500, false);}
 For some reason&, Nanami pulled her bag up on top of her knees and
@@ -235,10 +235,10 @@ started fishing around inside it&.
 	Wait(1500);
 	SoundPlay("SE02", 500, 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400120na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400120na">
 "Nn~ Oh&, there it is&."
 
-What she proudly pulled out was&.&.&.&.
+What she proudly pulled out was&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -258,36 +258,36 @@ What she proudly pulled out was&.&.&.&.
 <PRE box00>
 [text104]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400130ta">
-"A Ge&, Gero-froggy&.&.&.&. with a manufacturing defect?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400130ta">
+"A Ge&, Gero-froggy&.&.&. with a manufacturing defect?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400140na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400140na">
 "They didn't make it wrong&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400150na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400150na">
 "It came out last week&. He's Pop-Eyed Gero-froggy&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400160ta">
-"Ha&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400160ta">
+"Ha&.&.&.?"
 
 //ŸŸ‚¿ŒÖ‚Á‚Ä
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400170na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400170na">
 "You didn't know~? As expected&, you're behind the times&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400180na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400180na">
 "A new Gero-froggy gets released every Friday&."
 
 //¦ƒQƒƒJƒGƒ‹‚ñ‚ª–ˆTVì‚ğ”­”„‚µ‚Ä‚¢‚é‚Ì‚Í•šü‚Å‚·
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400190na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400190na">
 "There are already twelve kinds in total&."
 
-For real&.&.&.&.?
+For real&.&.&.?
 These things had enough merit to keep selling each week?
 
 </PRE>
@@ -299,48 +299,48 @@ These things had enough merit to keep selling each week?
 <PRE box00>
 [text005]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400200na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400200na">
 "The one on my cell phone is the first kind that came out&, the
 regular Gero-froggy&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400210na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400210na">
 "Next came Fatso Gero-froggy&, and after that was Spazzy
-Gero-froggy&." 
+Gero-froggy&."
 
 Nanami effortlessly recited the names of various Gero-froggies&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400220na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400220na">
 "The fourth was Faceless Gero-froggy&. The fifth was Sparkly
 Gero-froggy&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400230na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400230na">
 "The sixth is the most popular&. It's called Kitty Gero-froggy&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400240na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400240na">
 "Then came Ghost Gero-froggy&, Sleeping Gero-froggy&, Burning
 Gero-froggy&, Zombie Gero-froggy&, and Drunk Gero-froggy&."
 
-She remembered them all&.&.&.&. 
-Hold on&, maybe&.&.&.&.
+She remembered them all&.&.&.
+Hold on&, maybe&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400250ta">
-"Y&, you have a full&.&.&.&. set?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400250ta">
+"Y&, you have a full&.&.&. set?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400260na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400260na">
 "Sure! There's no point if you don't collect all of them&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400270na">
-"Every week&, there's a big line to buy them!" 
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400270na">
+"Every week&, there's a big line to buy them!"
 
-F&, for such a lazily made product&.&.&.&. 
-Frankly&, I could probably design something better&. 
+F&, for such a lazily made product&.&.&.
+Frankly&, I could probably design something better&.
 
 For that matter&, why had she started lecturing me on Gero-froggies
 out of the blue?
@@ -360,59 +360,59 @@ out of the blue?
 <PRE box00>
 [text006]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400280na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400280na">
 "So anyway&, I'm giving you this Pop-Eyed Gero-froggy&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400290ta">
-"Eh&.&.&.&.? Wh&, why&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400290ta">
+"Eh&.&.&.? Wh&, why&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400300na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400300na">
 "Cause if you attach it to your phone&, the girls will look at you and
-think&, 'Oh&, way to go&.'" 
+think&, 'Oh&, way to go&.'"
 
-She said before starting to attach the strap to my cell phone&. 
-I&, I really don't need it&.&.&.&.
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400310ta">
-"Th&, there's no meaning unless you get a full set&, right&.&.&.&."
+She said before starting to attach the strap to my cell phone&.
+I&, I really don't need it&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400320ta">
-"If&, if I take that&, you won't have all of them anymore&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400310ta">
+"Th&, there's no meaning unless you get a full set&, right&.&.&."
+
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400320ta">
+"If&, if I take that&, you won't have all of them anymore&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","normal", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_smile", 300, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400330na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400330na">
 "No need to worry&. I bought two&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400340ta">
-"D&, do you buy two every time&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400340ta">
+"D&, do you buy two every time&.&.&.?"
 
-I was having serious doubts about her sense of aesthetics&.&.&.&.
+I was having serious doubts about her sense of aesthetics&.&.&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400350na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400350na">
 "Just this time&. I got an extra one for you to use on your phone&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400360ta">
-"&.&.&.&.On purpose?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400360ta">
+"&.&.&.On purpose?"
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400370na">
-"On purpose&." 
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400370na">
+"On purpose&."
 
 Having finished attaching the strap&, Nanami gave a satisfied nod and
-put her mouth to the straw for her juice&. 
+put her mouth to the straw for her juice&.
 But she soon stopped with a jerk and leaned toward me&.
 
 </PRE>
@@ -429,25 +429,25 @@ But she soon stopped with a jerk and leaned toward me&.
 <PRE box00>
 [text007]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400380na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400380na">
 "But it wasn't like I stood in line just for you&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400390na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400390na">
 "It was a total afterthought&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400400ta">
-"&.&.&.&.D&, don't want it&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400400ta">
+"&.&.&.D&, don't want it&."
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shy", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400410na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400410na">
 "Haa?"
 
-Still leaning toward me&, Nanami widened her eyes&. 
+Still leaning toward me&, Nanami widened her eyes&.
 With such force that it looked like she might start grabbing at me any
 moment now&.
 
@@ -455,28 +455,28 @@ moment now&.
 	FadeStand("buµŠC_§•_’Êí_angry", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400420na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400420na">
 "You don't want it&. After knowing&, I went to buy it just for you!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400430ta">
-"Y&, you said it was an afterthought&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400430ta">
+"Y&, you said it was an afterthought&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400440ta">
-"Anyway&, I'm not interested in these Gero-froggies&.&.&.&.
-In&, in fact&, they creep me out&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400440ta">
+"Anyway&, I'm not interested in these Gero-froggies&.&.&.
+In&, in fact&, they creep me out&.&.&."
 
 //Ÿƒ€ƒb‚Æ‚·‚é
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400450na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400450na">
+"&.&.&.&.&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","pride", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_angry", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400460na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400460na">
 "This is why you aren't popular with the girls&."
 
 //‚¨‚ª‚İF‘ÜƒKƒTƒKƒTiƒ|ƒeƒgH‚Á‚Ä‚é‰¹j‰¼‘g‚İ
@@ -497,55 +497,55 @@ potato chips&.
 <PRE box00>
 [text008]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400470na">
-"But resistance is futile&, okay? 
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400470na">
+"But resistance is futile&, okay?
 I already attached the Pop-Eyed Gero-froggy&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400480ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400480ta">
+"&.&.&.&.&.&.&."
 
 Her attitude was one of claiming that the initiative here belonged
-solely with her&. Well&, I was a little frustrated about my cell 
+solely with her&. Well&, I was a little frustrated about my cell
 phone&, but it was a fact that Nanami knew more than me about
-what to do with it&.&.&.&.
+what to do with it&.&.&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400490na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400490na">
 "If you take if off without permission&, you'll have to stand in line
 for me every week as punishment&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400500ta">
-"St&, stand in line&.&.&.&. for what&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400500ta">
+"St&, stand in line&.&.&. for what&.&.&.?"
 
 {	Stand("buµŠC_§•_’Êí","pride", 200, @150);
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_angry", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400510na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400510na">
 "Isn't it obvious? The queue to buy the latest Gero-froggy&. It's the
 norm to have to wait two hours or so&."
 
 {	DeleteStand("buµŠC_§•_’Êí_pride", 500, false);}
-Utterly unreasonable&.&.&.&.
+Utterly unreasonable&.&.&.
 Why'd I have to get threatened by my little sister?
 
 //‚¨‚ª‚İFŒg‘Ñ‘€ì‰¹ƒ_ƒ~[
 {	CreateSE("SE02","SE_“úí_Œg‘Ñ‘€ì");
 	SoundPlay("SE02", 200, 500, true);}
 For a little while afterwards&, Nanami went on fiddling with my phone
-without saying a word&. 
+without saying a word&.
 I was grateful&, if only because it made things less noisy&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400520na">
-"This feels kind of weird&, somehow&." 
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400520na">
+"This feels kind of weird&, somehow&."
 
-The next time she opened her mouth&, Nanami's bad mood had vanished&. 
+The next time she opened her mouth&, Nanami's bad mood had vanished&.
 For her it wasn't just a matter of sleeping on it; maybe she had the
 tendency to forget unpleasant and aggravating stuff in a matter of
-minutes&. 
+minutes&.
 
 What an easy-going personality&. In a certain sense&, I was envious&.
 
@@ -562,11 +562,11 @@ What an easy-going personality&. In a certain sense&, I was envious&.
 <PRE box00>
 [text109]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400530na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400530na">
 "Yeah&, it's weird&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400540na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400540na">
 "It's been a long time since just the two of us went out somewhere&."
 
 //¦v‚¢o‚¹‚È‚¢‚Ì‚Å‚Í‚È‚­‚»‚à‚»‚à‚»‚ñ‚È–À‚Í‚È‚¢
@@ -574,11 +574,11 @@ What an easy-going personality&. In a certain sense&, I was envious&.
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400550na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400550na">
 "How long&, I wonder&. I can't remember too well&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400560na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400560na">
 "All you ever do is shut yourself up in your room and watch anime and
 play games&."
 
@@ -587,13 +587,13 @@ play games&."
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400570na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400570na">
 "Well&, this kind of thing might be nice once in a while&. It's a
 breath of fresh air&."
 
 //ŸŒ¾—t‚Æ‚Í— • ‚ÉŠğ‚µ‚»‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400580na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400580na">
 "But I sure wouldn't wanna do it every day&."
 
 </PRE>
@@ -615,16 +615,16 @@ breath of fresh air&."
 <PRE box00>
 [text009]
 Nanami set my phone down on the table and picked up her fish burger
-instead&. 
-Happily opening the wrapper&, she took a hearty bite&. 
+instead&.
+Happily opening the wrapper&, she took a hearty bite&.
 
 Come to think of it&, I had the feeling that she'd told me before how
 the fish burgers here were her favorite food&.
 
 //Ÿƒ{ƒ\ƒb‚Æ
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400590ta">
-"&.&.&.&.Go on&, get as fat as you like&, hehehe&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400590ta">
+"&.&.&.Go on&, get as fat as you like&, hehehe&."
 
 {	MusicStart("@CH05", 100, 0, 0, 1000, null, true);
 	CreateSE("SE01","SE_”wŒi_ƒ}ƒNƒfƒB_Loop");
@@ -641,12 +641,12 @@ fish burger in my direction&.
 	Delete("”wŒi‚P");
 	Wait(500);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400600na">
-"&.&.&.&.Want half?"
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400600na">
+"&.&.&.Want half?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch02/04400610ta">
-"T&, too late&, hehehe&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch02/04400610ta">
+"T&, too late&, hehehe&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","pride", 120, @150);
 	FadeStand("buµŠC_§•_’Êí_pride", 0, true);
@@ -654,11 +654,11 @@ fish burger in my direction&.
 	Delete("”wŒi‚R");}
 //Ÿƒ€ƒb‚Æ‚·‚é
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400620na">
-"Grr&.&.&.&.!"
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400620na">
+"Grr&.&.&.!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch02/04400630na">
+<voice name="µŠC" class="µŠC" src="voice/ch02/04400630na">
 "Say stuff like that&, and girls are gonna hate you&.
 You better try to remember that&, moron!"
 

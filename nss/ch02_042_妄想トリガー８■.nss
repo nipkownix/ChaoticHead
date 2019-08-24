@@ -97,43 +97,43 @@ from the stage into the midst of the spectators&.
 	MusicStart("SE02", 2000, 1000, 0, 1000, null, true);
 	MusicStart("@CH13", 2000, 1000, 0, 0, null, true);
 	Wait(500);}
-The other Phantasm members resumed playing&. 
+The other Phantasm members resumed playing&.
 
-But FES didn't sing&. 
+But FES didn't sing&.
 Swaying as she wandered through the audience&, she langorously
-stripped off her top&, exposing her sexy shoulders&. 
+stripped off her top&, exposing her sexy shoulders&.
 
 Her quiet fans became agitated with excitement again&.
 All of them raised their fists and started jumping wildly&. They made
-the floor shake as if an earthquake were taking place&. 
+the floor shake as if an earthquake were taking place&.
 
-Yet no one attempted to touch FES&. 
-As though they were displaying their awe of a sacred being&. 
+Yet no one attempted to touch FES&.
+As though they were displaying their awe of a sacred being&.
 Under ordinary circumstances&, if a star as compellingly charismatic
 as her went down among her fans&, you'd expect them to mob her&.
 
 //※わざと「儲」
 As part of an unspoken agreement&, a single rule&, and of their own
 accord&, the Phantasm fanboys forbade themselves to make contact with
-FES's body&. 
+FES's body&.
 
 Even so&,
 
-They felt her existence come very near to them&. 
-They tasted the scent of her sweat&. 
-They touched the same air as her&. 
+They felt her existence come very near to them&.
+They tasted the scent of her sweat&.
+They touched the same air as her&.
 
-Those things granted her believers the highest possible joy&. 
+Those things granted her believers the highest possible joy&.
 
-Perhaps she put on this kind of performance every time--or so I
+Perhaps she put on this kind of performance every time―or so I
 thought&, but I doubted my eyes when I caught sight of FES's next
-move&. 
+move&.
 
-She had casually started undoing the belt at her waist&. 
+She had casually started undoing the belt at her waist&.
 When she tossed it away&, her fanboys reached out all at once&, each
-fighting to make it theirs&. 
+fighting to make it theirs&.
 
-Casting a sidelong glance at them&, FES--
+Casting a sidelong glance at them&, FES―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -168,7 +168,7 @@ FES seemed completely unbothered by the fact that her cultists were
 seeing her in a state of indecency&.
 
 Had she gotten high on the ambience&, or was it another type of
-performance&, or else&.&.&.&. pure exhibitionism?
+performance&, or else&.&.&. pure exhibitionism?
 I didn't know&, but everything about her was such a turn-on that my
 eyes became glued to her&.
 
@@ -177,19 +177,19 @@ FES looked at me again&.
 She smiled enticingly&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch02/04200010mi">
-"H&, hey&, she's coming this way&.&.&.&." 
+<voice name="三住" class="三住" src="voice/ch02/04200010mi">
+"H&, hey&, she's coming this way&.&.&."
 
-Her gaze unmoving&, FES looked only at me&. 
-She approached gradually&, as though she had fixed her aim on me&. 
+Her gaze unmoving&, FES looked only at me&.
+She approached gradually&, as though she had fixed her aim on me&.
 
-And having come right up to me--
+And having come right up to me―
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200020ay">
-"&.&.&.&.Fufufu"
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200020ay">
+"&.&.&.Fufufu"
 
-Her sweet sigh grazed my face&, 
+Her sweet sigh grazed my face&,
 And in much the same way as a lover would&,
 
 </PRE>
@@ -211,22 +211,22 @@ And in much the same way as a lover would&,
 She embraced me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200030ta">
-"&.&.&.&.!" 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200030ta">
+"&.&.&.!"
 
 Her skin was damp with sweat&. Her scent and her warmth were so
-alluring&, I almost had vertigo&. 
+alluring&, I almost had vertigo&.
 
 Her chest rose and fell rapidly&, pressed tight against my body&. It
 was said that singing could be exhausting&, but right now her panting
-passed from her skin to mine&, being transmitted to me directly&. 
+passed from her skin to mine&, being transmitted to me directly&.
 
-Her arms clenched tighter around my back&. 
-Her nails ate into the nape of my neck&. 
-Her thighs became entangled with my legs&. 
+Her arms clenched tighter around my back&.
+Her nails ate into the nape of my neck&.
+Her thighs became entangled with my legs&.
 
-I trembled all over&, as if electricity had run through me&. 
-I could neither push her away nor return her embrace&. 
+I trembled all over&, as if electricity had run through me&.
+I could neither push her away nor return her embrace&.
 All I could do was stand stock-still&, eyes wide&.
 
 //ＳＥ//大歓声
@@ -237,28 +237,28 @@ All I could do was stand stock-still&, eyes wide&.
 	Move("背景２", 0, @400, @-300, null, true);
 	Fade("背景２", 1000, 1000, null, true);}
 Her fans cheered again&. This time it sounded as if they were close to
-screaming&. 
-The other members of Phantasm began playing more violently&. 
+screaming&.
+The other members of Phantasm began playing more violently&.
 
-Shouts of FES's name reverberated back and forth in the small club&. 
+Shouts of FES's name reverberated back and forth in the small club&.
 Voices crying "Do it! Do it!" began to appear in the mix more and more
 often&.
 
-What did they mean when they said to do it? 
-I was completely at a loss&. 
-FES&, still holding me&, said nothing&. 
+What did they mean when they said to do it?
+I was completely at a loss&.
+FES&, still holding me&, said nothing&.
 
 Seeking help&, I looked for Misumi-kun&.
 
 And was startled to find him sharing a deep kiss with a female
-spectator I'd never seen before&. 
+spectator I'd never seen before&.
 
-No&.&.&.&. Misumi-kun wasn't the only one&. 
+No&.&.&. Misumi-kun wasn't the only one&.
 The other cultists&, male and female alike&, were throwing away their
 clothes and embracing each other nude and kissing&. Some had already
 begun to take things to their natural conclusion&.
 
-Pandemonium&, debauchery&. 
+Pandemonium&, debauchery&.
 Sultry voices and cheering&, the lewd sound of flesh rubbing up
 against flesh&. Borne up by Phantasm's music&, these were what took
 over the venue&.
@@ -274,20 +274,20 @@ over the venue&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
---A Black Mass&. 
+―A Black Mass&.
 
-I understood at last&. 
-This was an obsce<pre>n</pre>e banquet held by the demon called FES&.  
+I understood at last&.
+This was an obsce<pre>n</pre>e banquet held by the demon called FES&.
 Swearing loyalty to her and the Devil&, her believers became lost in
-their orgy&. 
+their orgy&.
 
-And&.&.&.&. 
-Today&, I was the demon's living sacrifice&. 
+And&.&.&.
+Today&, I was the demon's living sacrifice&.
 FES had chosen me as her partner&.
 
-This was what it meant to go to one of Phantasm's shows&.&.&.&.
+This was what it meant to go to one of Phantasm's shows&.&.&.
 
-I&, too&, was getting swallowed up by the atmosphere&. 
+I&, too&, was getting swallowed up by the atmosphere&.
 I felt my head start to go foggy&.
 
 Anticipation for and dread toward what would happen from here on out&.
@@ -301,24 +301,24 @@ It felt like I was about to go crazy&.
 	Fade("背景１", 0, 1000, null, true);
 	Fade("色１", 1000, 0, null, true);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200040ay">
-"Fufufu&.&.&.&." 
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200040ay">
+"Fufufu&.&.&."
 
-FES laughed again&, close to my ear&. 
+FES laughed again&, close to my ear&.
 
 I heard her clearly despite the fact that we were being swamped in the
-midst of so many overflowing sounds&. 
+midst of so many overflowing sounds&.
 
 She had such a sexy voice&.
-Merely hearing it&, I thought I might faint&. 
+Merely hearing it&, I thought I might faint&.
 
-But FES tempted me further toward the abyss of pleasure&. 
+But FES tempted me further toward the abyss of pleasure&.
 
-She softly bit down on my earlobe&, 
-Blew her breath into my ear&, 
+She softly bit down on my earlobe&,
+Blew her breath into my ear&,
 And
 
-Whispered--
+Whispered―
 
 {	Wait(500);
 	MusicStart("@CH*", 200, 0, 0, 1000, null, false);
@@ -326,7 +326,7 @@ Whispered--
 	Wait(300);}
 //ささやき
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200050ay">
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200050ay">
 "Whose eyes are those eyes?"
 
 </PRE>
@@ -358,24 +358,24 @@ Whispered--
 <PRE box00>
 [text005]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200060ta">
-"&.&.&.&.Hehehe&, FES is so ero&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200060ta">
+"&.&.&.Hehehe&, FES is so ero&."
 
-Absorbed in my fantasies&, I sat in front of my PC&. 
+Absorbed in my fantasies&, I sat in front of my PC&.
 
-The show I'd gone to today had turned out to be nicely stimulating&. 
+The show I'd gone to today had turned out to be nicely stimulating&.
 As far as 3-D girls went&, FES was pretty hot&.
 
 //※「人大杉」＝人が多過ぎ
 But it had been way too packed with people for me to want to go back&.
 
 In the end&, I'd quickly gotten sick from being in the crowd&, and I'd
-gone flying out of the club&. 
+gone flying out of the club&.
 
 Today's fantasy was top-notch&.
-Who knew&, maybe FES and Phantasm really did do that sort of thing&. 
+Who knew&, maybe FES and Phantasm really did do that sort of thing&.
 
-They just hadn't been in the mood for it today&. 
+They just hadn't been in the mood for it today&.
 
 Okay then&, time to get back to ESO or whatever&.
 
@@ -413,7 +413,7 @@ if($妄想トリガー８ == 1)
 	MusicStart("SE02", 2000, 1000, 0, 1000, null, true);
 	Stand("stあやせ_私服_通常","normal", 200, @0);
 
-	CreateMovie("雨１", 500, 0, 0, true, false, "dx/mv雨02.ngs");	
+	CreateMovie("雨１", 500, 0, 0, true, false, "dx/mvRain02.ngs");	
 	Request("雨１", AddRender);
 
 	DelusionIn2();
@@ -424,15 +424,15 @@ if($妄想トリガー８ == 1)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-When I came to myself&, 
+When I came to myself&,
 I was alone&, walking slowly along some rooftop somewhere&. The wind
 was terribly strong&, bringing a slanting rain that hit me as it blew
-in&. 
+in&.
 
-Strangely&, though&, I didn't feel cold&. 
+Strangely&, though&, I didn't feel cold&.
 I recognized this place&. I felt like I'd been here many times
-before&. That's right&, this fenced-in&, Spartan sce<pre>n</pre>ery belonged to
-the school roof&. 
+before&. That's right&, this fenced-in&, Spartan sce<pre>n</pre>ery
+belonged to the school roof&.
 
 I gazed at my surroundings&.
 
@@ -441,11 +441,11 @@ the world itself were becoming misty&.
 
 {	FadeStand("stあやせ_私服_通常_normal", 1000, true);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200070ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200070ay">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("stあやせ_私服_通常_normal", 500, true);}
-At the end of my line of sight--on the other side of the fence--was
+At the end of my line of sight―on the other side of the fence―was
 FES&.
 She stood there&, soaking wet&, facing me through the fence&.
 
@@ -462,7 +462,7 @@ her balance&. Falling from this height would mean an instantaneous
 death&.
 Though I was only watching her&, I went weak in the knees&.
 
-But FES stood there with a beautiful posture and showed no sign 
+But FES stood there with a beautiful posture and showed no sign
 of fear&.
 
 </PRE>
@@ -477,26 +477,26 @@ of fear&.
 <PRE box00>
 [text007]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200080ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200080ay">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("stあやせ_私服_通常_normal", 500, true);}
 Looking as if she were about to start crying any minute&, FES quietly
 extended her empty left hand toward me&.
 
-Let's fly together--
+Let's fly together―
 
 It seemed almost as if she were silently tempting me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200090ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200090ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("stあやせ_私服_通常","normal", 200, @0);
 	FadeStand("stあやせ_私服_通常_normal", 500, true);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch02/04200100ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch02/04200100ay">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("stあやせ_私服_通常_normal", 500, true);}
 I couldn't say anything back to her&.
@@ -600,12 +600,12 @@ At last she disappeared from my field of sight&.
 <PRE box00>
 [text008]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200110ta">
-"&.&.&.&.What a downer&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200110ta">
+"&.&.&.What a downer&."
 
 I'd daydreamed the whole thing myself&, but then it had become
-depressing&. 
-But that simply went to show the power of FES's aura&. 
+depressing&.
+But that simply went to show the power of FES's aura&.
 
 Something about her possessed a destructive type of beauty&.
 
@@ -617,8 +617,8 @@ clue&, either&, haha&. My bad&. lol
 As for the show itself&, I'd quickly gotten sick from being in the
 crowd&, and I'd gone flying out of the club&.
 
-So I'd missed most of it&. 
-Rather&, I didn't want to go to another one&. 
+So I'd missed most of it&.
+Rather&, I didn't want to go to another one&.
 
 Okay then&, time to get back to ESO or whatever to shake off this
 glumness&.
@@ -673,8 +673,8 @@ if($妄想トリガー８ == 0)
 Before I realized what I was doing&, I'd come bursting outside&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200120ta">
-"Haa&, haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200120ta">
+"Haa&, haa&.&.&."
 
 {	SetFrequency("SE02", 1000, 700, Dxl3);
 	Wait(2000);
@@ -685,7 +685,7 @@ I descended the outdoor stairs down from GIGANTES and crouched on the
 lowest step&.
 
 I tried to put my breathing in order&, but it didn't work too well&.
-As I'd thought&, it had been a mistake to go inside&.&.&.&.
+As I'd thought&, it had been a mistake to go inside&.&.&.
 
 I was incredibly agitated&. My body had gone damp with sweat&.
 
@@ -694,8 +694,8 @@ I was incredibly agitated&. My body had gone damp with sweat&.
 	Stand("bu大輔_制服_通常","worry", 200, @+100);
 	FadeStand("bu大輔_制服_通常_worry", 300, true);}
 //【三住】
-<voice name="三住" class="三住" src="ch02/04200130mi">
-"Hey&, what's wrong&, Taku? Leaving all of a sudden&." 
+<voice name="三住" class="三住" src="voice/ch02/04200130mi">
+"Hey&, what's wrong&, Taku? Leaving all of a sudden&."
 
 Misumi-kun came chasing after me&.
 He sounded dissatisfied&.
@@ -704,34 +704,34 @@ He sounded dissatisfied&.
 	FadeStand("bu大輔_制服_通常_sigh", 300, true);
 	DeleteStand("bu大輔_制服_通常_worry", 200, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch02/04200140mi">
+<voice name="三住" class="三住" src="voice/ch02/04200140mi">
 "You're already leaving? Seems like things are gonna get even more
 exciting&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200150ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200150ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("bu大輔_制服_通常","pride", 200, @+100);
 	FadeStand("bu大輔_制服_通常_pride", 300, true);
 	DeleteStand("bu大輔_制服_通常_sigh", 200, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch02/04200160mi">
-"And&, so&, what about FES? Pretty cute&, wasn't she?" 
+<voice name="三住" class="三住" src="voice/ch02/04200160mi">
+"And&, so&, what about FES? Pretty cute&, wasn't she?"
 
-I shook my head without looking up&. 
+I shook my head without looking up&.
 
-I didn't care about that kind of thing&.&.&.&. 
+I didn't care about that kind of thing&.&.&.
 She was certainly cute&, but I didn't have any interest in the third
-dimension&. 
-More importantly&, those lyrics&.&.&.&. 
+dimension&.
+More importantly&, those lyrics&.&.&.
 
 I hadn't managed to catch every word of them&, but it seemed to me
-that they could only be referring to the "staking" incident&. 
+that they could only be referring to the "staking" incident&.
 
-It wasn't a certainty&, of course&. 
+It wasn't a certainty&, of course&.
 
-But FES must know something about it&. I had that sense&. 
+But FES must know something about it&. I had that sense&.
 Though in the end I hadn't found out whether or not she was the demon
 girl's underling&.
 
@@ -751,7 +751,7 @@ girl's underling&.
 
 //――Dyed scarlet below the full moon   The girl turns around
 
-	SetFont("ＭＳ ゴシック", 20, #FF0000, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FF0000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "――Dyed scarlet below the full moon   The girl turns around");
 	SetBacklog("――Dyed scarlet below the full moon   The girl turns around", "NULL", NULL);
 	Request("テキスト１", NoLog);
@@ -770,25 +770,25 @@ girl's underling&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-And she had looked at me&. 
+And she had looked at me&.
 
 That had been neither an illusion nor some kind of mistake on my
-part&. 
+part&.
 
-I was positive that FES had been looking at me&. 
-What could the emotions residing in her eyes have signified? 
+I was positive that FES had been looking at me&.
+What could the emotions residing in her eyes have signified?
 
 Why had she seemed so heartrendingly sad?
 
-I don't know&.&.&.&.
+I don't know&.&.&.
 
 Maybe it would have been best to ask FES herself&, but I couldn't&.
-Entering that club again and speaking to FES--both were impossible for
+Entering that club again and speaking to FES―both were impossible for
 me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200170ta">
-"I'll&.&.&.&. never go back&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200170ta">
+"I'll&.&.&. never go back&.&.&."
 
 Squeezing my voice out in a mutter&, I wiped the sweat off my
 forehead&.
@@ -819,7 +819,7 @@ forehead&.
 <PRE box00>
 [text011]
 I started up ESO soon after coming back home from the Phantasm
-concert&. 
+concert&.
 The halfway eaten potato chips I had nearby were already soggy&, but
 it didn't bother me&. They turned out to be surprisingly edible&.
 
@@ -866,14 +866,14 @@ it didn't bother me&. They turned out to be surprisingly edible&.
 <PRE box00>
 [text012]
 ESO was my daily life&, and a pleasant world&, and my one comfort&,
-what with how it let me escape from reality&. 
+what with how it let me escape from reality&.
 
 As long as I immersed myself in ESO&, I could forget about all the
 bad stuff&. I ceased being myself and ran about in Baselard as
 Neidhardt&.
 
 But Neidhardt wasn't doing too well today&. Of course&, I knew it
-was due to how I used the keyboard and made decisions for him&. 
+was due to how I used the keyboard and made decisions for him&.
 
 But I had trouble accomplishing things I normally performed with
 ease&, and though playing was supposed to comfort me&, I got more and
@@ -897,7 +897,7 @@ more irritated as I continued&.
 <PRE box00>
 [text013]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200180ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200180ta">
 "What's with you!?"
 
 {	CreateSE("SE03","SE_機械_電化製品_パソコン_キーボード_エンター");
@@ -919,8 +919,8 @@ more irritated as I continued&.
 	SoundPlay("SE04", 0, 500, false);
 	Wait(200);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200190ta">
-"I'm so getting rid of you!" 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200190ta">
+"I'm so getting rid of you!"
 
 I knew it was my fault&, but I took it out on Neidhardt&.
 
@@ -928,8 +928,8 @@ I knew it was my fault&, but I took it out on Neidhardt&.
 	CreateSE("SE05","SE_衝撃_衝撃音03");
 	SoundPlay("SE05", 0, 1000, false);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200200ta">
-"Ah--Jeez--! It pisses me off!"
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200200ta">
+"Ah-Jeez-! It pisses me off!"
 
 {	Shake("ルーム", 400, 5, 5, 0, 0, 400, null, false);
 	CreateSE("SE05","SE_人体_動作_足_蹴る_イス");
@@ -953,30 +953,30 @@ back against my chair&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text014]
-I blearily contemplated the monitor&.  
+I blearily contemplated the monitor&.
 Without me to operate him&, Neidhardt stood motionless at the
-entrance to Shangrim City and stared off into space&.  
+entrance to Shangrim City and stared off into space&.
 
 I'd always fought enemies while watching Neidhardt's back like
 this&. Naturally&, he had the maximum possible number of experience
 points&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200210ta">
-"How many experience points do I have&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200210ta">
+"How many experience points do I have&.&.&."
 
 Had the human being named Nishijou Takumi matured at all since he
-first began playing ESO--no&, rather&, since the time he was born? 
+first began playing ESO―no&, rather&, since the time he was born?
 
 If I'd grown up&, why was I so bad at talking to people? Why was I
-carrying on the lifestyle of a borderline hikikomori? 
+carrying on the lifestyle of a borderline hikikomori?
 
-If I didn't log in for several weeks&, 
+If I didn't log in for several weeks&,
 Would Neidhardt become a hikikomori as well?
 
 //――Whose eyes are those eyes?
 {	CreateColor("色１", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "――Whose eyes are those eyes?");
 
 	SetBacklog("――Whose eyes are those eyes?", "NULL", NULL);
@@ -993,14 +993,14 @@ Would Neidhardt become a hikikomori as well?
 As I watched Neidhardt's back&, I suddenly remembered those words&.
 
 I started to become a little curious about what Neidhardt got up to
-when I wasn't controlling him&. 
+when I wasn't controlling him&.
 
 I continued to survey him for some time&, keeping my hands away from
 the keyboard and munching on my potato chips&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200220ta">
-"If Neidhardt were self-aware&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200220ta">
+"If Neidhardt were self-aware&.&.&."
 
 Surely he would go striding through Shangrim City&, shoulders
 squared&. He was the hero everyone worshipped&.
@@ -1015,11 +1015,11 @@ squared&. He was the hero everyone worshipped&.
 <PRE box00>
 [text015]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200230ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200230ta">
 "Say&, Neidhardt&. I'm always watching you&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/04200240ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/04200240ta">
 "have you noticed?"
 
 </PRE>
@@ -1046,7 +1046,7 @@ squared&. He was the hero everyone worshipped&.
 //ような気がしたｗｗｗ
 
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch02/04200250ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch02/04200250ta">
 //「なんつって。ふひひ」
 
 //結局その後１時間以上、ボケーッとモニタを眺めていたけど、ナイトハルトは延々とその場に立ち続けているだけだった。

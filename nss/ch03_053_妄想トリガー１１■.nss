@@ -97,32 +97,32 @@ if($妄想トリガー１１ == 2)
 <PRE box00>
 [text001]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300010ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300010ay">
 "There's already somebody I like&."
 
 //◆冗談めかして
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300020mi">
+<voice name="三住" class="三住" src="voice/ch03/05300020mi">
 "Eh? Really? What's this? Could it be me~?"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300030ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300030ay">
 "The one over there&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300040mi">
-"Over there?" 
+<voice name="三住" class="三住" src="voice/ch03/05300040mi">
+"Over there?"
 
-Over there&.&.&.&.? 
+Over there&.&.&.?
 
 Over where?
 
-FES wasn't pointing anywhere&. 
+FES wasn't pointing anywhere&.
 She simply looked at me&. She was looking only at me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300050ta">
-"Er&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300050ta">
+"Er&.&.&."
 
 {	SoundPlay("SE01", 0, 0, false);}
 Maybe I was the guy she liked!?
@@ -136,7 +136,7 @@ Maybe I was the guy she liked!?
 <PRE box00>
 [text002]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300060ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300060ay">
 "You came to my concert last time&."
 
 {	CreateSE("SE02","SE_背景_教室ざわめき_Loop");
@@ -149,11 +149,11 @@ Apparently everyone had their ears pricked to hear this utterly
 unthinkable confession from Shibuya's charismatic diva&, FES&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300070mi">
-"No&, um~&, I went to your show&, too--"
+<voice name="三住" class="三住" src="voice/ch03/05300070mi">
+"No&, um~&, I went to your show&, too―"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300080ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300080ay">
 "I knew it at a single glance&."
 
 {	DeleteStand("stあやせ_制服_通常_normal", 200, true);
@@ -180,26 +180,26 @@ Nor would it work too well for "family&." Yes&, this was the kind of
 distance that belonged between "lovers&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300090ay">
-"You're the one I'm destined for&." 
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300090ay">
+"You're the one I'm destined for&."
 
 FES stroked my cheek with the tips of her fingers&. She didn't show a
-hint of a smile&. 
+hint of a smile&.
 The seductiveness of that gesture made me shudder&.
 I was becoming enchanted by her&. I couldn't look away&.
 
 {	SoundPlay("SE01", 1000, 0, false);
 	SoundPlay("SE02", 1000, 0, false);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300100ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300100ay">
 "I've made my decision&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300110ay">
-"I'm going to--"
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300110ay">
+"I'm going to―"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300120ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300120ay">
 "Become your bride&."
 
 //ＳＥ//おおきなざわめき
@@ -208,29 +208,29 @@ I was becoming enchanted by her&. I couldn't look away&.
 	SoundPlay("SE01", 500, 1000, true);}
 Although her declaration was something quite remote from the air of
 ennui that FES bore about her&, the gap between the two was&, to the
-contrary&, unbearably cute&. 
+contrary&, unbearably cute&.
 
 As our surroundings burst with excitement over how FES had literally
 just proposed to me&, Misumi-kun was so crestfallen at having "lost"
 to me that he fell to his knees on the spot&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300130ta">
-"U&, um&.&.&.&. W&, what about&.&.&.&. my&.&.&.&. feelings?"
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300130ta">
+"U&, um&.&.&. W&, what about&.&.&. my&.&.&. feelings?"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300140ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300140ay">
 "You don't want me?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300150ta">
-"&.&.&.&.&.&.&.&.&.I don't&.&.&.&. not want you&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300150ta">
+"&.&.&.&.&.&.&.I don't&.&.&. not want you&."
 
 I was getting swept along by the flow of things&.
 I'd end up as one of life's winners simply by becoming engaged to such
-a lovely girl&. 
+a lovely girl&.
 
-And thus began our heart-pounding love story--
+And thus began our heart-pounding love story―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -258,7 +258,7 @@ And thus began our heart-pounding love story--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-&.&.&.&.Yeah&, as if&. 
+&.&.&.Yeah&, as if&.
 
 While I was having my stupid daydream&, FES murmured something in a
 tiny voice and swiftly went away&.
@@ -267,18 +267,18 @@ tiny voice and swiftly went away&.
 {	Stand("bu大輔_制服_通常","sigh", 200, @+100);
 	FadeStand("bu大輔_制服_通常_sigh", 300, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300160mi">
-"I'm gonna lose faith in myself&.&.&.&. Goddamit&." 
+<voice name="三住" class="三住" src="voice/ch03/05300160mi">
+"I'm gonna lose faith in myself&.&.&. Goddamit&."
 
-Having been completely ignored by her&, Misumi-kun was sulky&. 
+Having been completely ignored by her&, Misumi-kun was sulky&.
 
 {#TIPS_百合属性 = true;}Given that she could so cleanly turn down an invitation from a stud
 like him&, perhaps FES was actually the <FONTincolor="#88abda" outcolor="BLACK">yuri type</FONT>&.
 
 //◆スール＝フランス語で「姉妹」。『マリア様がみてる』より
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300170ta">
-"&.&.&.&.Sh&, she'd be&.&.&.&. a great soeur&. Hehehe&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300170ta">
+"&.&.&.Sh&, she'd be&.&.&. a great soeur&. Hehehe&."
 
 Especially if her petite soeur was a loli-type character like Nanami&.
 Yeah&, yeah&.
@@ -286,41 +286,41 @@ Yeah&, yeah&.
 {	Stand("bu大輔_制服_通常","worry", 200, @+100);
 	FadeStand("bu大輔_制服_通常_worry", 300, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300180mi">
+<voice name="三住" class="三住" src="voice/ch03/05300180mi">
 "I won't go after an antisocial chick like her for a second time&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300190mi">
-"Ahh&, what a drag&.&.&.&."
+<voice name="三住" class="三住" src="voice/ch03/05300190mi">
+"Ahh&, what a drag&.&.&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300200mi">
+<voice name="三住" class="三住" src="voice/ch03/05300200mi">
 "Anyway&, what's the stuff about finding a sword? I don't get it&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300210ta">
-"&.&.&.&.Sword?"
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300210ta">
+"&.&.&.Sword?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300220mi">
+<voice name="三住" class="三住" src="voice/ch03/05300220mi">
 "Yeah&, it's what Kishimoto said&, right?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300230mi">
-"'Finding your sword will save you&.'" 
+<voice name="三住" class="三住" src="voice/ch03/05300230mi">
+"'Finding your sword will save you&.'"
 
-Being saved&.&.&.&.
+Being saved&.&.&.
 
 {	Stand("bu大輔_制服_通常","sigh", 200, @+100);
 	FadeStand("bu大輔_制服_通常_sigh", 300, false);
 	DeleteStand("bu大輔_制服_通常_worry", 500, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300240mi">
+<voice name="三住" class="三住" src="voice/ch03/05300240mi">
 "Hey&, Taku&, did any of Phantasm's songs have lyrics like that?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300250ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300250ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -331,14 +331,14 @@ Being saved&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-A sword&.&.&.&.
+A sword&.&.&.
 
 Had she been referring to something like the mic stand-esque thing
-she'd used during her show? 
+she'd used during her show?
 
-Now that she mentioned it&, two days ago&, 
+Now that she mentioned it&, two days ago&,
 A completely different person had interrogated me about a
-"sword"&.&.&.&.
+"sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -379,29 +379,29 @@ if($妄想トリガー１１ == 1)
 [text006]
 //◆呼びかける
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300260ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300260ay">
 "You over there&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300270ta">
-"Ye&, yes&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300270ta">
+"Ye&, yes&.&.&."
 
 When she called me&, I inadvertently snapped to attention and
-answered&. 
+answered&.
 
 The ephemeral aura surrounding her entire body made it so I had to
 view her as being someone older&. But when I thought about it a little
-harder&, we were in the same year&, weren't we&.&.&.&. 
+harder&, we were in the same year&, weren't we&.&.&.
 
 FES signified Misumi-kun&, who was hanging around her&, with a jerk of
 her chin&.
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300280ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300280ay">
 "You'd be better off not spending time with&.&.&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300290ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300290ay">
 "&.&.&.a person like him&."
 
 {	DeleteStand("buあやせ_制服_通常_normal", 500, true);
@@ -411,23 +411,23 @@ her chin&.
 	FadeStand("st大輔_制服_通常_pride", 500, true);}
 //◆冗談めかして
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300300mi">
+<voice name="三住" class="三住" src="voice/ch03/05300300mi">
 "Hey&, hey&, isn't it pretty mean to talk about me like that? And
 anyway&, whaddaya mean by a person like me?"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300310ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300310ay">
 {	Stand("stあやせ_制服_通常","hard", 200, @-150);
 	Move("stあやせ_制服_通常_hard", 0, @0, @50, null, true);
 	FadeStand("stあやせ_制服_通常_hard", 300, false);}
-"&.&.&.&.A bothersome person&."
+"&.&.&.A bothersome person&."
 
 {	Stand("st大輔_制服_通常","worry", 200, @150);
 	Move("st大輔_制服_通常_worry", 0, @0, @50, null, true);
 	FadeStand("st大輔_制服_通常_worry", 300, false);
 	DeleteStand("st大輔_制服_通常_pride", 300, true);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300320mi">
+<voice name="三住" class="三住" src="voice/ch03/05300320mi">
 "Haa?"
 
 </PRE>
@@ -440,22 +440,22 @@ anyway&, whaddaya mean by a person like me?"
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-Uwah&.&.&.&. 
+Uwah&.&.&.
 
-Misumi-kun was clearly becoming disgruntled&. 
+Misumi-kun was clearly becoming disgruntled&.
 But FES let his sharp gaze slide past without evincing much interest&.
 
 
-What a sour atmosphere&. 
+What a sour atmosphere&.
 
-I&, I didn't want to get involved in this&.&.&.&. 
+I&, I didn't want to get involved in this&.&.&.
 
 I had a hard time with both verbal and physical quarrels&, and if I
 caused any problems at school&, it'd have an impact on my
-evaluations&.&.&.&. 
+evaluations&.&.&.
 
 So as not to get caught up in it&, maybe I had better beat a quick
-retreat--
+retreat―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -466,15 +466,15 @@ retreat--
 <PRE box00>
 [text008]
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300330mi">
+<voice name="三住" class="三住" src="voice/ch03/05300330mi">
 "What? Kishimoto-san&, you making fun of me?"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300340ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300340ay">
 "Not really&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300350ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300350ay">
 "But you're a bother&."
 
 {	Stand("st大輔_制服_通常","pride", 200, @150);
@@ -482,15 +482,15 @@ retreat--
 	FadeStand("st大輔_制服_通常_pride", 300, false);
 	DeleteStand("st大輔_制服_通常_worry", 300, true);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300360mi">
+<voice name="三住" class="三住" src="voice/ch03/05300360mi">
 "Hmmm&, ah&, is that so&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300370mi">
+<voice name="三住" class="三住" src="voice/ch03/05300370mi">
 "So you're the sort who says that kinda thing&, Kishimoto-san&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300380mi">
+<voice name="三住" class="三住" src="voice/ch03/05300380mi">
 "Let's try talkin' by ourselves for a little bit&, without anyone else
 around&."
 
@@ -502,27 +502,27 @@ His smile tense with anger&, Misumi-kun put a hand on FES's shoulder&.
 Her eyebrows twitched&.
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300390ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300390ay">
 "Don't touch me&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300400mi">
+<voice name="三住" class="三住" src="voice/ch03/05300400mi">
 "Don't be like that&. It's okay&, just c'mon&, let's talk&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300410ay">
-"&.&.&.&.I'm telling you not to touch me&."
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300410ay">
+"&.&.&.I'm telling you not to touch me&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300420mi">
+<voice name="三住" class="三住" src="voice/ch03/05300420mi">
 "Fuck it&, I'm telling you to come with me&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300430ay">
-"&.&.&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300430ay">
+"&.&.&.&.&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300440ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300440ay">
 "Fool&."
 
 </PRE>
@@ -546,7 +546,7 @@ Her eyebrows twitched&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
-It happened in an instant&. 
+It happened in an instant&.
 
 Though I witnessed it from start to finish&, I didn't understand what
 had happened&.
@@ -562,7 +562,7 @@ had happened&.
 
 	Shake("背景１", 300, , 15, 0, 0, 500, null, false);
 
-	CreateMovie("斬撃", 200, 0, 0, false, false, "dx/mv軌跡02.ngs");	
+	CreateMovie("斬撃", 200, 0, 0, false, false, "dx/mvTrack02.ngs");	
 	SoundPlay("SE02", 0, 1000, false);
 	Fade("斬撃", 0, 1000, null, false);
 	Wait(1000);
@@ -580,16 +580,16 @@ had happened&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-At some point&, that cool-looking mic stand--or perhaps a sword--had
-ended up in FES's hand&. 
+At some point&, that cool-looking mic stand―or perhaps a sword―had
+ended up in FES's hand&.
 
-I didn't know where she had pulled it out from&. 
-But she made it flash in the air with ease&. 
+I didn't know where she had pulled it out from&.
+But she made it flash in the air with ease&.
 
-And--
+And―
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300450mi">
+<voice name="三住" class="三住" src="voice/ch03/05300450mi">
 "Uuh&, gyaaaaa!?"
 
 {	MusicStart("@CH06",1000,1000,0,1000,null,true);}
@@ -611,12 +611,12 @@ All of it had occurred in the blink of an eye&.
 By the time I noticed&, everything was over&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300460mi">
+<voice name="三住" class="三住" src="voice/ch03/05300460mi">
 "Ah&, gaaaaaaah!!"
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300470mi">
-"My hand&.&.&.&.! My&, my arm&, my armmm!"
+<voice name="三住" class="三住" src="voice/ch03/05300470mi">
+"My hand&.&.&.! My&, my arm&, my armmm!"
 
 Misumi-kun collapsed in place&,
 picking his fallen arm up off the floor and desperately trying to
@@ -640,20 +640,20 @@ The students nearby shrieked and fled confusedly&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-As for FES--
+As for FES―
 
 Still holding her sword&, she serenely watched our surroundings fall
 into panic&.
 
-And once again&, she looked at me&. 
+And once again&, she looked at me&.
 
 Deliberately licking her own lips with her red tongue&,
 She flushed a delicate pink and smiled&.
 
 {	SoundPlay("SE02", 500, 0, false);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300480ay">
-"It feels so good&.&.&.&."
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300480ay">
+"It feels so good&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -682,7 +682,7 @@ She flushed a delicate pink and smiled&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text012]
-&.&.&.&.No such carnage unfolded&. 
+&.&.&.No such carnage unfolded&.
 
 While I was having my stupid daydream&, FES murmured something in a
 tiny voice and swiftly went away&.
@@ -690,18 +690,18 @@ tiny voice and swiftly went away&.
 {	Stand("bu大輔_制服_通常","sigh", 200, @+100);
 	FadeStand("bu大輔_制服_通常_sigh", 300, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300490mi">
-"I'm gonna lose faith in myself&.&.&.&. Goddammit&." 
+<voice name="三住" class="三住" src="voice/ch03/05300490mi">
+"I'm gonna lose faith in myself&.&.&. Goddammit&."
 
-Having been completely ignored by her&, Misumi-kun was sulky&. 
+Having been completely ignored by her&, Misumi-kun was sulky&.
 
 {#TIPS_百合属性 = true;}Given that she could so cleanly turn down an invitation from a stud
 like him&, perhaps FES was actually the <FONTincolor="#88abda" outcolor="BLACK">yuri type</FONT>&.
 
 //◆スール＝フランス語で「姉妹」。『マリア様がみてる』より
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300500ta">
-"&.&.&.&.Sh&, she'd be&.&.&.&. a great soeur&. Hehehe&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300500ta">
+"&.&.&.Sh&, she'd be&.&.&. a great soeur&. Hehehe&."
 
 Especially if her petite soeur was a loli-type character like Nanami&.
 Yeah&, yeah&.
@@ -710,30 +710,30 @@ Yeah&, yeah&.
 	FadeStand("bu大輔_制服_通常_worry", 300, false);
 	DeleteStand("bu大輔_制服_通常_sigh", 500, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300510mi">
+<voice name="三住" class="三住" src="voice/ch03/05300510mi">
 "I won't go after an antisocial chick like her for a second time&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300520mi">
-"Ahh&, what a drag&.&.&.&."
+<voice name="三住" class="三住" src="voice/ch03/05300520mi">
+"Ahh&, what a drag&.&.&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300530mi">
+<voice name="三住" class="三住" src="voice/ch03/05300530mi">
 "Anyway&, what's that stuff about finding a sword? I don't get it&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300540ta">
-"&.&.&.&.Sword?"
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300540ta">
+"&.&.&.Sword?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300550mi">
+<voice name="三住" class="三住" src="voice/ch03/05300550mi">
 "Yeah&, it's what Kishimoto said&, right?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300560mi">
-"'Finding your sword will save you&.'" 
+<voice name="三住" class="三住" src="voice/ch03/05300560mi">
+"'Finding your sword will save you&.'"
 
-Being saved&.&.&.&.
+Being saved&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -747,22 +747,22 @@ Being saved&.&.&.&.
 <PRE box00>
 [text013]
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300570mi">
+<voice name="三住" class="三住" src="voice/ch03/05300570mi">
 "Hey&, Taku&, did any of Phantasm's songs have lyrics like that?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/05300580ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch03/05300580ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("bu大輔_制服_通常_sigh", 500, false);}
-A sword&.&.&.&.
+A sword&.&.&.
 
 Had she been referring to something like the mic stand-esque thing I
 myself had fantasized about earlier?
 
 Now that she mentioned it&, two days ago&,
 A completely different person had interrogated me about a
-"sword"&.&.&.&.
+"sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -794,26 +794,26 @@ if($妄想トリガー１１ == 0)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text014]
-Natually&, I averted my eyes&. 
+Natually&, I averted my eyes&.
 As a result&, I only met FES's glance for a second&.
 
 {	Stand("stあやせ_制服_通常","normal", 200, @-100);
 	FadeStand("stあやせ_制服_通常_normal", 500, true);}
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300590ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300590ay">
 "Hurry up&. Find&. Sword&."
 
-FES suddenly spoke&. 
+FES suddenly spoke&.
 
-I couldn't sense much spirit in her flat tone&. 
+I couldn't sense much spirit in her flat tone&.
 I wasn't sure whether her words had been aimed at me or Misumi-kun&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300600mi">
-"A sword&.&.&.&.?"
+<voice name="三住" class="三住" src="voice/ch03/05300600mi">
+"A sword&.&.&.?"
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/05300610ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/05300610ay">
 "Finding your sword will save you&."
 
 {	DeleteStand("stあやせ_制服_通常_normal", 200, true);}
@@ -827,43 +827,43 @@ Both Misumi-kun and I watched her go in consternation&.
 	FadeStand("bu大輔_制服_通常_sigh", 300, false);}
 //◆ふてくされてる
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300620mi">
-"&.&.&.&.Hey&, Taku&." 
+<voice name="三住" class="三住" src="voice/ch03/05300620mi">
+"&.&.&.Hey&, Taku&."
 
-Misumi-kun was clearly sulking&. 
+Misumi-kun was clearly sulking&.
 
 Despite his greatest efforts&, FES wouldn't give him the time of day&.
 It must've been pretty tough for him to see her ignore his existence
-itself&. 
+itself&.
 
-Although I&.&.&.&. was used to that sort of treatment&.
+Although I&.&.&. was used to that sort of treatment&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300630mi">
+<voice name="三住" class="三住" src="voice/ch03/05300630mi">
 "It's the first time my pride's been ripped to shreds like
-this&.&.&.&."
+this&.&.&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300640mi">
-"I'm gonna lose faith in myself&.&.&.&. Goddammit&."
+<voice name="三住" class="三住" src="voice/ch03/05300640mi">
+"I'm gonna lose faith in myself&.&.&. Goddammit&."
 
 {	Stand("bu大輔_制服_通常","worry", 200, @+100);
 	FadeStand("bu大輔_制服_通常_worry", 300, false);
 	DeleteStand("bu大輔_制服_通常_sigh", 500, false);}
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300650mi">
+<voice name="三住" class="三住" src="voice/ch03/05300650mi">
 "She's full of herself just cause she's a little famous&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300660mi">
+<voice name="三住" class="三住" src="voice/ch03/05300660mi">
 "I won't go after an antisocial chick like her for a second time&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300670mi">
-"Ahh&, what a drag&.&.&.&."
+<voice name="三住" class="三住" src="voice/ch03/05300670mi">
+"Ahh&, what a drag&.&.&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch03/05300680mi">
+<voice name="三住" class="三住" src="voice/ch03/05300680mi">
 "Anyway&, what's that stuff about finding a sword? I don't get it&."
 
 </PRE>
@@ -875,14 +875,14 @@ this&.&.&.&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text015]
-A sword&.&.&.&.
+A sword&.&.&.
 
 Had she been referring to something like the mic stand-esque thing
-she'd used during her show? 
+she'd used during her show?
 
-Now that she mentioned it&, two days ago&, 
+Now that she mentioned it&, two days ago&,
 A completely different person had interrogated me about a
-"sword"&.&.&.&.
+"sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -913,15 +913,15 @@ A completely different person had interrogated me about a
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text016]
-The girl called Sena&.&.&.&. had been amazingly scary&.
+The girl called Sena&.&.&. had been amazingly scary&.
 
 I'd thought she'd cu<pre>t</pre> me down for real&.
 
 The sword she'd held had differed in shape from the one FES brought to
 her show&, but they possessed similar atmospheres&.
-I wondered if they were connected in some way&.&.&.&.
+I wondered if they were connected in some way&.&.&.
 
-I don't know&.&.&.&.
+I don't know&.&.&.
 I don't know a thing&.
 
 {	Wait(1000);
@@ -934,7 +934,7 @@ I don't know a thing&.
 
 	Wait(500);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１３", 100, center, middle, Auto, Auto, "・Shogun");
 	Move("テキスト１３", 0, @-10, @-60, null, false);
 	SetBacklog("・Shogun", "NULL", NULL);
@@ -945,7 +945,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "・The demon girl");
 	Move("テキスト１４", 0, @0, @-36, null, false);
 	SetBacklog("・The demon girl", "NULL", NULL);
@@ -956,7 +956,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１５", 100, center, middle, Auto, Auto, "・Yua");
 	Move("テキスト１５", 0, @-10, @-12, null, true);
 	SetBacklog("・Yua", "NULL", NULL);
@@ -967,7 +967,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１６", 100, center, middle, Auto, Auto, "・FES");
 	Move("テキスト１６", 0, @0, @12, null, false);
 	SetBacklog("・FES", "NULL", NULL);
@@ -978,7 +978,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１７", 100, center, middle, Auto, Auto, "・Sena");
 	Move("テキスト１７", 0, @-10, @36, null, false);
 	SetBacklog("・Sena", "NULL", NULL);
@@ -989,7 +989,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１８", 100, center, middle, Auto, Auto, "・A sword");
 	Move("テキスト１８", 0, @-20, @60, null, true);
 	SetBacklog("・A sword", "NULL", NULL);
@@ -1022,7 +1022,7 @@ obvious to anyone&.
 	Fade("色１", 0, 0, null, true);}
 Was FES my ally or my enemy?
 That was all I really needed to find out&.
-But I wasn't brave enough to talk to her&.&.&.&.
+But I wasn't brave enough to talk to her&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

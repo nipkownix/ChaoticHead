@@ -41,23 +41,25 @@ function ch09_177_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚S‚Q()
 //‚a‚f//Rèü“à//—[•û
 
 /*X“‡Movieƒ_ƒ~[*/
-	CreateMovie("ÍƒCƒ“", 25000, 0, 0, false, true, "dx/mvH.ngs");
-	Request("ÍƒCƒ“", Lock);
+	CreateTextureEX("ƒAƒCƒLƒƒƒbƒ`‚P", 100, 0, 0, "cg/sys/title/cards/title_ch09.png");
+	Fade("ƒAƒCƒLƒƒƒbƒ`‚P", 10, 1000, null, true);
 
-	WaitAction("ÍƒCƒ“", 3200);
+	WaitKey(3200);
+	IntermissionCard1();
+	
+	Delete("*");
 
 	DeleteAll();
 
 	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg112_01_2_RèüÔ“à_a.jpg");
 	Fade("back04", 0, 1000, null, true);
+	
+	IntermissionCard2();
 
 	Stand("st—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 0, false);
 	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @-150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, true);
-
-	Request("ÍƒCƒ“", UnLock);
-	Delete("ÍƒCƒ“");
 
 	CreateSE("SE01","SE_”wŒi_Rèü“dÔ“à_Loop");
 	MusicStart("SE01", 1000, 1000, 0, 1000, null, true);
@@ -117,13 +119,13 @@ with Ban&. Such was the result of Yua's self-analysis&.
 [text002]
 //ŸƒIƒ^ƒN‚P‚Ìu”Ôlv‚ÌƒCƒ“ƒgƒl[ƒVƒ‡ƒ“‚É‚Â‚¢‚ÄBu”Ôv‚ğ‹­’²‚µ‚Ä‚­‚¾‚³‚¢
 //yƒIƒ^ƒN‚Pz
-<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="ch09/17700010o1">
+<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="voice/ch09/17700010o1">
 "Use common sense&. You can access the hidden dungeon by defeating the
 guard on the fifteenth underground floor&."
 
 //yƒIƒ^ƒN‚Qz
-<voice name="ƒIƒ^ƒN‚Q" class="ƒIƒ^ƒN‚Q" src="ch09/17700020o2">
-"I dunno where the guard is--"
+<voice name="ƒIƒ^ƒN‚Q" class="ƒIƒ^ƒN‚Q" src="voice/ch09/17700020o2">
+"I dunno where the guard is\"
 
 Since the time they got on the train at Harajuku Station&, two men
 standing near the door had been talking in excessively loud voices&.
@@ -134,17 +136,17 @@ wanted to hear them&.
 
 //ŸƒIƒ^ƒN‚P‚Ìu”Ôlv‚ÌƒCƒ“ƒgƒl[ƒVƒ‡ƒ“‚É‚Â‚¢‚ÄBu”Ôv‚ğ‹­’²‚µ‚Ä‚­‚¾‚³‚¢
 //yƒIƒ^ƒN‚Pz
-<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="ch09/17700030o1">
+<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="voice/ch09/17700030o1">
 "Near the left edge of the map&. You'll know he's the guard as soon as
 you look at him!"
 
 //yƒIƒ^ƒN‚Qz
-<voice name="ƒIƒ^ƒN‚Q" class="ƒIƒ^ƒN‚Q" src="ch09/17700040o2">
-"I can't even tell guards apart from police officers--"
+<voice name="ƒIƒ^ƒN‚Q" class="ƒIƒ^ƒN‚Q" src="voice/ch09/17700040o2">
+"I can't even tell guards apart from police officers\"
 
 //ŸƒIƒ^ƒN‚P‚Ìu”Ôlv‚ÌƒCƒ“ƒgƒl[ƒVƒ‡ƒ“‚É‚Â‚¢‚ÄBu”Ôv‚ğ‹­’²‚µ‚Ä‚­‚¾‚³‚¢
 //yƒIƒ^ƒN‚Pz
-<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="ch09/17700050o1">
+<voice name="ƒIƒ^ƒN‚P" class="ƒIƒ^ƒN‚P" src="voice/ch09/17700050o1">
 "Nah&, he's a guard no matter how you look at him&. How the hell d'you
 get them mixed up with policemen? Guards don't have guns&."
 
@@ -156,9 +158,9 @@ They belonged to the race commonly known as otaku&.
 
 There were times when Yua read manga or watched anime because she
 liked it&, and their appearances didn't induce any particular
-revulsion in her&. 
+revulsion in her&.
 
-It was just that she had never been to Akihabara&, and it was her 
+It was just that she had never been to Akihabara&, and it was her
 first time seeing people garbed like stereotypical otaku&.
 
 Realizing how rude she was being&, taking curious little glances at
@@ -202,7 +204,7 @@ the text&. It looked like so-called kogal slang&, but she couldn't
 perceive it as anything but some kind of secret code&.
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700060co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700060co">
 "Bang!"
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @+150);
@@ -220,7 +222,7 @@ He held a toy water gun and pointed its barrel at Ban&. He was
 actually pulling the trigger&, but no water came out&.
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700070co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700070co">
 "Bang!"
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @-150);
@@ -231,22 +233,22 @@ His eyes weren't smiling&, but the child still didn't shrink back&.
 
 //Ÿ‚Ì‚Ô‚­‚ñq‹Ÿ‚Ì–¼‘O
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700080hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700080hx">
 "Nobu-kun&, stop it&."
 
 A motherly woman soon came running up to the boy&.
 She bowed her head a little to Ban&.
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700090hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700090hx">
 "I'm sorry&."
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700100co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700100co">
 "Bang! Bang!"
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700110hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700110hx">
 "Nobu-kun! You stop that this instant!"
 
 The mother used a fairly strong tone of voice in her efforts to stop
@@ -257,23 +259,23 @@ She didn't confiscate the water pistol or make her son lower his
 hands&.
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700120co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700120co">
 "Bang! Bang! Bang!"
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700130hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700130hx">
 "I'm terribly sorry&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700140bn">
+<voice name="”»" class="”»" src="voice/ch09/17700140bn">
 "Nah&, I don't mind&."
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700150co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700150co">
 "Bang! Bang! Bang!"
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700160hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700160hx">
 "See&, aren't you bothering him? Nobu-kun!"
 
 To Yua&, it seemed like a very unnatural-looking sce<pre>n</pre>e&.
@@ -283,15 +285,15 @@ to Ban&.
 But she did no more&.
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700170co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700170co">
 "Bang! Bang! Bang!"
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700180hx">
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700180hx">
 "Stop it! You'll make me angry!"
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700190co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700190co">
 "Bang! Bang! Bang!"
 
 Undaunted&, the little boy went on repeating the same word over and
@@ -299,11 +301,11 @@ over&, like a broken toy&. Even then&, and in spite of what she said
 to him&, the mother made absolutely no attempt to stop him&.
 
 //y•êe‚Pz
-<voice name="•êe‚P" class="•êe‚P" src="ch09/17700200hx">
-"I'm so&, so very sorry&.&.&.&."
+<voice name="•êe‚P" class="•êe‚P" src="voice/ch09/17700200hx">
+"I'm so&, so very sorry&.&.&."
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700210co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700210co">
 "Bang! Bang! Bang!"
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @-150);
@@ -312,7 +314,7 @@ to him&, the mother made absolutely no attempt to stop him&.
 For some reason Ban&, too&, let the child do as he wished&.
 
 //yq‹Ÿ‚Pz
-<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="ch09/17700220co">
+<voice name="q‹Ÿ‚P" class="q‹Ÿ‚P" src="voice/ch09/17700220co">
 "Bang! Bang! Bang!"
 
 In the end&, it continued all the way until they reached Shibuya
@@ -357,26 +359,26 @@ ruefully&.
 
 //‚u‚e//‰w‚ÌƒAƒiƒEƒ“ƒX
 //y‰wˆõz
-<voice name="‰wˆõ" class="‰wˆõ" src="ch09/17700230ei">
+<voice name="‰wˆõ" class="‰wˆõ" src="voice/ch09/17700230ei">
 "This is an announcement to our ridership&."
 
 //Ÿƒoƒ“ƒSƒEƒ‚ƒ“u”»E‰–âv‚Æ‚©‚¯‚Ä‚Ü‚·cc
 //y‰wˆõz
-<voice name="‰wˆõ" class="‰wˆõ" src="ch09/17700240ei">
-"The Bangoumon subway line--"
+<voice name="‰wˆõ" class="‰wˆõ" src="voice/ch09/17700240ei">
+"The Bangoumon subway line\"
 
 //y‰wˆõz
-<voice name="‰wˆõ" class="‰wˆõ" src="ch09/17700250ei">
+<voice name="‰wˆõ" class="‰wˆõ" src="voice/ch09/17700250ei">
 "Excuse me&. Due to a fatal accident&, passengers on the Hanzoumon
 Line are currently able to opt in for transfers to alternative
 routes&."
 
 //y‰wˆõz
-<voice name="‰wˆõ" class="‰wˆõ" src="ch09/17700260ei">
-"We apologize for the inconvenience--"
+<voice name="‰wˆõ" class="‰wˆõ" src="voice/ch09/17700260ei">
+"We apologize for the inconvenience\"
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700270bn">
+<voice name="”»" class="”»" src="voice/ch09/17700270bn">
 "I've had this sense lately"
 
 The flow of people in the platform was swelling&.
@@ -387,25 +389,25 @@ toward the Hachiko exit's turnstiles&.
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700280bn">
+<voice name="”»" class="”»" src="voice/ch09/17700280bn">
 "Almost like I'm being stalked by an indeterminate number of people&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700290yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700290yu">
 "What do you mean?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700300bn">
+<voice name="”»" class="”»" src="voice/ch09/17700300bn">
 "Like on the train&. That kind of stuff's been happening to me a
 lot&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700310bn">
+<voice name="”»" class="”»" src="voice/ch09/17700310bn">
 "I end up thinking maybe the thoughtless actions of the people around
 me are almost like a form of harassment aimed at me&, or something&."
 
 Which was why Ban had ultimately answered the child's mischief with
-silence&.  
+silence&.
 
 That sort of trouble&, which you couldn't really call trouble&, had
 become an everyday occurrence for him&.
@@ -416,7 +418,7 @@ him&.
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700320bn">
+<voice name="”»" class="”»" src="voice/ch09/17700320bn">
 "Meh&, I'm probably over thinking it&. It's not as if there can be a
 whole lot of people out there with any interest with a plain old guy
 like me&."
@@ -426,8 +428,8 @@ like me&."
 	FadeStand("st—Dˆ¤_§•_’Êí_worry", 500, true);}
 //Ÿ•sˆÀ‚ÈƒuƒŒƒX
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700330yu">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700330yu">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -441,68 +443,68 @@ like me&."
 <PRE box00>
 [text006]
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700340bn">
+<voice name="”»" class="”»" src="voice/ch09/17700340bn">
 {#TIPS_W’cƒXƒg[ƒJ[ = true;}"Except&, <FONT incolor="#88abda" outcolor="BLACK">group stalkers</FONT> definitely do exist&."
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @+150);
 	DeleteStand("st—Dˆ¤_§•_’Êí_worry", 500, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700350yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700350yu">
 "Do they do anything different from normal stalking behavior?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700360bn">
+<voice name="”»" class="”»" src="voice/ch09/17700360bn">
 "From the victim's perspective&, well&, they have no clue what the
 others want with them&, or even who they are&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700370bn">
+<voice name="”»" class="”»" src="voice/ch09/17700370bn">
 "Except they do know for sure that every day&, wherever they go&,
 they'll be on the receiving end of all kinds of harassment&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700380bn">
+<voice name="”»" class="”»" src="voice/ch09/17700380bn">
 "That's what group stalking is like&."
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @+150);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_worry", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 0, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700390yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700390yu">
 "What about the possibility that the victim is simply dwelling on it
-too much&.&.&.&."
+too much&.&.&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @-150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700400bn">
+<voice name="”»" class="”»" src="voice/ch09/17700400bn">
 "It's plenty probable&. They're always a hair's width away from just
 clinging to the idea of it obsessively&, against all reason&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700410bn">
+<voice name="”»" class="”»" src="voice/ch09/17700410bn">
 "But that doesn't seem to be the case with me&. These past few days&,
 they've started using some pretty direct methods&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700420yu">
-"What kind of thing&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700420yu">
+"What kind of thing&.&.&.?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700430bn">
+<voice name="”»" class="”»" src="voice/ch09/17700430bn">
 "I've gotten a number of anonymous calls telling me to back out&."
 
 For some reason&, Ban grinned foolishly as he said it&.
 Yua&, becoming conversely frightened&, hugged her own upper arms&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700440yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700440yu">
 "Um&, are&, are you going to be okay?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700450bn">
+<voice name="”»" class="”»" src="voice/ch09/17700450bn">
 "Meh&, it happens to detectives pretty often&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @-150);
@@ -512,15 +514,15 @@ Ban answered calmly&, then quickly looked at Yua with a stiffer
 expression&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700460bn">
+<voice name="”»" class="”»" src="voice/ch09/17700460bn">
 "Has anything similar happened with you&, Yua-chan?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700470yu">
-"N&, no&. I don't think so&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700470yu">
+"N&, no&. I don't think so&.&.&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700480bn">
+<voice name="”»" class="”»" src="voice/ch09/17700480bn">
 "If you sense something even a little uncomfortable or out of place
 around you&, please tell me right away&."
 
@@ -528,12 +530,12 @@ around you&, please tell me right away&."
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch09/17700490bn">
+<voice name="”»" class="”»" src="voice/ch09/17700490bn">
 "Cause it's the police's job to protect your safety&, Yua-chan&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch09/17700500yu">
-"I will&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/17700500yu">
+"I will&.&.&."
 
 As she listened to him&, she became aware that what she was currently
 involved in was something more dangerous than she'd expected&.

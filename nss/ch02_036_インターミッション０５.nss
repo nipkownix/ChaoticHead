@@ -52,26 +52,26 @@ function ch02_036_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚O‚T()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-It had been three days since Ban Yasuji had last entered the 
+It had been three days since Ban Yasuji had last entered the
 Shibuya Police Department's main conference room&.
 
 The meeting to discuss the investigation of the "Maruyamachou staking
 homicide" had already begun&, and everyone glared at Ban when he came
-in late&. 
+in late&.
 
 Smiling amiably&, Ban lowered himself into a seat at one of the tables
 lined up at the front&. The room didn't have the kind of atmosphere
 where he could say his reason for being late was because he'd gotten
-the runs and had been cooped up in the bathroom&. 
+the runs and had been cooped up in the bathroom&.
 
 In the wee hours of the morning after it occurred&, the "Maruyamachou
 staking homicide" case had been assigned to the Shibuya Police
-Department&, which now housed the headquarters of the investigation&. 
+Department&, which now housed the headquarters of the investigation&.
 
 The investigation division&, already busy with the "Cornelius Tower
 group suicide case" and the "Shibuya Station college student & fetus
 homicide&," were forced to recruit even useless&, third-rate assistant
-inspectors like Ban from the central Tokyo station&. 
+inspectors like Ban from the central Tokyo station&.
 
 Moreover&, since everything had taken place in the area under the
 Shibuya Police Department's jurisdiction&, they were caught in the
@@ -79,7 +79,7 @@ bizarre situation of having three special investigative headquarters
 located in the same station&.
 
 It was thanks to this that the three investigation teams were forced
-to take turns using the station's big conference room&. 
+to take turns using the station's big conference room&.
 
 There were rumors that since the media had been cultivating the "New
 Gen" label&, and the police were short-handed&, the three teams might
@@ -89,17 +89,17 @@ detectives thought this was a moronic idea&, no better than a gag&.
 //Ÿ”»‚É‘Î‚µ‚ÄŒÄ‚Ñ‚©‚¯‚Ä‚¢‚é
 //¼‰iŒx‹’¡ŒY–•”‘{¸ˆê‰ÛŒx•”B”»‚ÌãiB‘{¸–{•”‚ÌÓ”CÒ“Iƒ|ƒWƒVƒ‡ƒ“B
 //y¼‰iz
-<voice name="¼‰i" class="¼‰i" src="ch02/03600010mn">
+<voice name="¼‰i" class="¼‰i" src="voice/ch02/03600010mn">
 "Let's hear your report&, Assistant Inspector&."
 
 Inspector Matsunaga&, Ban's boss and the person responsible for their
-investigative team all looked at Ban sharply as he addressed him&. 
+investigative team all looked at Ban sharply as he addressed him&.
 
 Paying him little heed&, however&, Ban flapped a fan at his face and
 took a breath&.
 
 //y¼‰iz
-<voice name="¼‰i" class="¼‰i" src="ch02/03600020mn">
+<voice name="¼‰i" class="¼‰i" src="voice/ch02/03600020mn">
 "Assistant Inspector&. Assistant Inspector Ban&. Are you listening?"
 
 </PRE>
@@ -115,36 +115,36 @@ took a breath&.
 //‚b‚g//z–K
 //Ÿ¬º
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600030su">
-"They're calling you&.&.&.&.! They're waiting for your report&,
-Ban-san&.&.&.&.! C'mon!"
+<voice name="z–K" class="z–K" src="voice/ch02/03600030su">
+"They're calling you&.&.&.! They're waiting for your report&,
+Ban-san&.&.&.! C'mon!"
 
 //‚¨‚ª‚İFƒ‹ƒr“ü—Í
 When the newbie sitting next to Ban&, who also happened to be his
-partner Suwa&, hissed into his ear&, Ban finally realized he 
+partner Suwa&, hissed into his ear&, Ban finally realized he
 was being called on&.
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @-250);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 500, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600040bn">
+<voice name="”»" class="”»" src="voice/ch02/03600040bn">
 "Ah&, sorry&. Suwa's going to give the report for me&."
 
 //Ÿ¬º
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600050su">
-"M&, me&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch02/03600050su">
+"M&, me&.&.&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @-250);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600060bn">
+<voice name="”»" class="”»" src="voice/ch02/03600060bn">
 "I thought I told you to go on and report to them even if I wasn't
 there&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600070bn">
+<voice name="”»" class="”»" src="voice/ch02/03600070bn">
 "Hop to it&."
 
 {	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 500, true);}
@@ -170,7 +170,7 @@ up energetically&.
 <PRE box00>
 [text003]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600080su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600080su">
 "The analysis of the surveillance camera located near the sce<pre>ne</pre> of the
 crime has finally come back to us&. A suspicious person appears on
 tape at around the time the crime was committed&."
@@ -190,12 +190,12 @@ report&.
 They were desperate&.
 
 After all&, with two savage murders having occurred in a single
-month--though the the group suicide had not yet been conclusively
-labeled a homicide--it was natural for them to become prepared to
+month\though the the group suicide had not yet been conclusively
+labeled a homicide\it was natural for them to become prepared to
 stake everything on seizing the perpetrator&, even their reputations&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600090su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600090su">
 "I'm putting it up on the projector&."
 
 </PRE>
@@ -230,47 +230,47 @@ stake everything on seizing the perpetrator&, even their reputations&.
 <PRE box00>
 [text004]
 As Ban had previously instructed him&, Suwa aimed the projector at the
-screen&. 
+screen&.
 
 A black-and-white film of one of Maruyamachou's narrow&, filthy
-alleyways was reflected there&. 
+alleyways was reflected there&.
 It was hard to see anything&, given it was night&, and there were few
 street lights&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600100su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600100su">
 "This was taken from the security camera of a metered parking lot
 approximately fifty meters from the crime sce<pre>ne</pre>&."
 
 The coin-operated lot was small&, as it had room for only two cars&.
 It had been unjustifiably constructed in the tiny space between
-buildings&. 
+buildings&.
 
 One could not see the crime sce<pre>ne</pre> in the field of the camera's
 picture&. One could not even see the road that crossed in front of it&.
 
 What the film showed was a certain street about a block away from the
-crime sce<pre>ne</pre>&. 
+crime sce<pre>ne</pre>&.
 On a side note&, there was no sound to accompany it&.
 
 The time of recording was neatly displayed in the lower right-hand
-side of the screen&. 
+side of the screen&.
 It currently read 21:34&.
 
 //¦‚½‚Á‚½‚R‚O•ª‚µ‚©“B‚ğ‘Å‚¿•t‚¯‚é‰¹‚ª‚µ‚Ä‚¢‚È‚¢•šü
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600110su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600110su">
 "As I'm sure you recall&, the neighborhood residents testified that
 the sound of something being hammered continued from a little after
 21:00 to around 21:30 hours&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600120su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600120su">
 "This film begins at 21:34&, or&, in other words&, immediately after
 the crime took place&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600130su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600130su">
 "The suspicious figure appears for roughly six seconds&, starting at
 21:34:53&. He or she runs from the back to the front of the road that
 passes by the parking lot&."
@@ -308,20 +308,20 @@ for him&.
 <PRE box00>
 [text005]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600140su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600140su">
 "According to the guys at forensics&, the person on screen is male and
 is in his late teens or early twenties&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600150su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600150su">
 "It proved impossible to discern his facial features&. Since his
 clothing is fairly distinctive&, however&, they were able to determine
 that he's wearing a male student uniform from Suimei Private Academy&,
 located in Shoutou&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600160su">
-"Additionally&, if you take a look at his right hand--"
+<voice name="z–K" class="z–K" src="voice/ch02/03600160su">
+"Additionally&, if you take a look at his right hand\"
 
 The picture zoomed in on the suspicious figure's right hand&.
 He appeared to be gripping something&.
@@ -329,7 +329,7 @@ He appeared to be gripping something&.
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @-150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 200, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600170bn">
+<voice name="”»" class="”»" src="voice/ch02/03600170bn">
 "Upon replaying it in slow-motion&, it became clear that the thing he
 was holding reflected the light from the parking lot as he ran&,
 swinging his arms&."
@@ -340,8 +340,8 @@ swinging his arms&."
 Ban took over for Suwa right when things were getting good&.
 
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600180bn">
-"Judging by its shape&.&.&.&. It may be one of the cross-shaped stakes
+<voice name="”»" class="”»" src="voice/ch02/03600180bn">
+"Judging by its shape&.&.&. It may be one of the cross-shaped stakes
 used in the crime itself&."
 
 {	CreateSE("SE03","SE_”wŒi_Œx@_Loop");
@@ -349,30 +349,30 @@ used in the crime itself&."
 The detectives grew noisy again&.
 
 To think that the perpetrator of the staking homicide might be a high
-schooler&.&.&.&. It was a minor shock to them&.
+schooler&.&.&. It was a minor shock to them&.
 
 It meant that the mass media's inflammatory catchphrase&, "The New
 Generation Madness&," could very well have become reality&.
 
 {	MusicStart("SE03", 2000, 0, 0, 1000, null, false);}
 //y¼‰iz
-<voice name="¼‰i" class="¼‰i" src="ch02/03600190mn">
+<voice name="¼‰i" class="¼‰i" src="voice/ch02/03600190mn">
 "Then is this boy the closest person we have to the criminal?"
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @-150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_pride", 200, false);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 200, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch02/03600200bn">
+<voice name="”»" class="”»" src="voice/ch02/03600200bn">
 "Sure seems so&."
 
-Ban rupped his unshaven chin&. 
+Ban rupped his unshaven chin&.
 It was a habit of his&. Whenever he sensed that he'd driven a wrongdoer
 another step into a corner&, it pleased him to make sure of that
 ever-prickly sensation&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600210su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600210su">
 "That's all for now&."
 
 {	DeleteStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);}
@@ -395,7 +395,7 @@ Suwa let out a deep breath and settled back down&.
 [text006]
 //Ÿ¬º
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch02/03600220su">
+<voice name="z–K" class="z–K" src="voice/ch02/03600220su">
 "You're awful&, sempai&. Swiping all the good parts&."
 
 Disregarding Suwa's complaints&, Ban once again looked at the
@@ -406,9 +406,9 @@ his eyes&.
 //y”»z
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @-250);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 500, true);}
-<voice name="”»" class="”»" src="ch02/03600230bn">
+<voice name="”»" class="”»" src="voice/ch02/03600230bn">
 "So you've finally shown us your tail&.
-I've gotta grab on and make sure not to let go&.&.&.&."
+I've gotta grab on and make sure not to let go&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

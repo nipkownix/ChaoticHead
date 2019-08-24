@@ -47,19 +47,19 @@ function ch07_151_‚P‚PŒ‚S“ú‰Î()
 <PRE box00>
 [text001]
 According to my minimum attendance shift chart&, today wasn't a
-school-going day&. 
-I had one goal in going to school&, all the same&. 
+school-going day&.
+I had one goal in going to school&, all the same&.
 
-To see Rimi&. 
+To see Rimi&.
 
 Surely my juvie classmates would taunt me about this and that today as
-well&. 
+well&.
 
 That was tough enough&, but when you weighed it against the
 possibility of being able to meet Rimi&, I could still put up with
-it&. 
+it&.
 
-I recalled yesterday's events as I passed through the school gate&. 
+I recalled yesterday's events as I passed through the school gate&.
 Sena had emphasized her warning as we parted&.
 
 </PRE>
@@ -92,15 +92,15 @@ Sena had emphasized her warning as we parted&.
 [text002]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch07/15100010sn">
-"If you venture any deeper into this&, whether or not you desire it--"
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch07/15100010sn">
+"If you venture any deeper into this&, whether or not you desire it\"
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch07/15100020sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch07/15100020sn">
 "You'll need a will strong enough to transform evil to good&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch07/15100030sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch07/15100030sn">
 "If you come at it half-heartedly&, you'll only be devoured by your
 delusions&."
 
@@ -139,36 +139,36 @@ In any case&, I couldn't get my hands on a Di-Sword no matter how hard
 I tried&. I'm no hero&. I'm only a waste of space who can't even do a
 decent job of protecting his own little sister&.
 
-Except-- 
+Except\
 
 There remained the possibility that "Shogun" might appear before me
-again&. 
+again&.
 
 Apparently he was targeting me as if we were playing a game&. So the
-next "quest" might begin at his whim anytime now&. 
+next "quest" might begin at his whim anytime now&.
 
-That terrified me&. 
+That terrified me&.
 
 Even my attempts to acquire a Di-Sword had originally been for the
-sake of protecting myself from "Shogun&." 
+sake of protecting myself from "Shogun&."
 
 Swordless&, how could I escape his evil grip?
 
-If Rimi were with me? 
+If Rimi were with me?
 
-But it bothered me that Rimi was taking time off from school&. 
+But it bothered me that Rimi was taking time off from school&.
 What would I do if&, this time around&, Rimi were taken hostage the
-way Nanami had been? 
+way Nanami had been?
 
-Was there anyone around who seemed likely to save me&.&.&.&. 
+Was there anyone around who seemed likely to save me&.&.&.
 
-The candidates would have to be those with Di-Swords&. 
+The candidates would have to be those with Di-Swords&.
 
-Ayase was injured&, so that took her out of the running&. 
+Ayase was injured&, so that took her out of the running&.
 
 I didn't think Sena would help me&.
 
-And Kozu-pii was a little&.&.&.&. no&, considerably weird&.&.&.&.
+And Kozu-pii was a little&.&.&. no&, considerably weird&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -203,7 +203,7 @@ Was she absent today&, too?
 Was she really just skipping?
 Insecurity flickered through me&.
 
-I wanted to meet with her&.&.&.&.
+I wanted to meet with her&.&.&.
 I wanted to see her cheerful face&.
 
 Next&, Kozu-pii's seat&.
@@ -222,10 +222,10 @@ When I remembered the story Sena had told me yesterday&, it made sense
 that Kozue-pii always carried herself this wayB
 
 //y½z
-<voice name="½" class="‚±‚¸‚¦" src="ch07/15100040ko">
+<voice name="½" class="‚±‚¸‚¦" src="voice/ch07/15100040ko">
 "G'moooorning&, Takumi-shan&."
 
---Good morning&, Kozu-pii&.
+\Good morning&, Kozu-pii&.
 
 Our eyes didn't meet&, but we internally exchanged morning greetings&.
 
@@ -244,7 +244,7 @@ our first-period class&. Which was convenient for me&.
 	Delete("”wŒi‚S");}
 I sat down&.
 
-And then that voice--
+And then that voice\
 Called my name&.
 
 </PRE>
@@ -256,12 +256,12 @@ Called my name&.
 [text005]
 //Ÿ–¾‚é‚­
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100050ri">
 "G'morning&, Taku&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/15100060ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/15100060ta">
+"&.&.&."
 
 {	Stand("bu—œ[_§•_’Êí","smile", 600, @+100);
 	FadeStand("bu—œ[_§•_’Êí_smile", 500, True);}
@@ -271,35 +271,35 @@ Rimi stood right before my eyes&.
 She seemed faintly bashful as she gave me a little wave&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100070ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100070ri">
 "Long time&, no see&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/15100080ta">
-"Ri&.&.&.&. mi&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/15100080ta">
+"Ri&.&.&. mi&.&.&."
 
 She wasn't an illusion&.
 
-She had a definite presence&. 
+She had a definite presence&.
 
 She was breathing&.
 
-Her hair stirred&. 
+Her hair stirred&.
 
-She was blinking&. 
+She was blinking&.
 
 She was there&.
 
-She was here&. 
+She was here&.
 
-Something burned in the depths of my nose&. 
+Something burned in the depths of my nose&.
 I was assaulted by a squeezing sensation in my chest&.
-I was about to weep&. 
+I was about to weep&.
 
-Half-standing in my chair&, I went motionless&, head hanging&. 
+Half-standing in my chair&, I went motionless&, head hanging&.
 
-I was so glad&. 
-I'd been able to see her again&.&.&.&.
+I was so glad&.
+I'd been able to see her again&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -313,39 +313,39 @@ I'd been able to see her again&.&.&.&.
 <PRE box00>
 [text006]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100090ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100090ri">
 "Wh&, whoa&, Taku&, what's wrong?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100100ri">
-"Are you crying&.&.&.&.?" 
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100100ri">
+"Are you crying&.&.&.?"
 
-I frantically shook my head&. 
-If the juvies nearby knew I'd cried here&, they'd torment me again&. 
+I frantically shook my head&.
+If the juvies nearby knew I'd cried here&, they'd torment me again&.
 
-I told myself I shouldn't cry&. 
+I told myself I shouldn't cry&.
 But the tears kept overflowing&.
 
 {	DeleteStand("bu—œ[_§•_³–Ê_sad", 500, true);
 	Stand("bu—œ[_§•_’Êí","happy", 600, @+100);
 	FadeStand("bu—œ[_§•_’Êí_happy", 500, True);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100110ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100110ri">
 "Ah&, I get it&. You're happy to be reunited with me&. Right?"
 
 {	Stand("bu—œ[_§•_’Êí","smile", 600, @+100);
 	FadeStand("bu—œ[_§•_’Êí_smile", 500, True);
 	DeleteStand("bu—œ[_§•_’Êí_happy", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100120ri">
 "Tahaha&, just kidding&. Maybe that was a little too self-conscious of
-me&." 
+me&."
 
 Rimi said in a bright&, joking tone&, and all I could do in response
 was go on shaking my head desperately&.
 
-Still more&, I couldn't look at her face properly&. 
-If I did&, I'd definitely start bawling&.&.&.&.
+Still more&, I couldn't look at her face properly&.
+If I did&, I'd definitely start bawling&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -369,21 +369,21 @@ That was when someone tapped me on the back&.
 	Stand("bu‘å•ã_§•_’Êí","sigh", 500, @-240);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100130mi">
-"H&, hey&, Taku&." 
+<voice name="OZ" class="OZ" src="voice/ch07/15100130mi">
+"H&, hey&, Taku&."
 
-It was Misumi-kun&, looking ill at ease&. 
+It was Misumi-kun&, looking ill at ease&.
 The hand he patted me with was considerably more restrained than it
 used to be&.
 
-Even though he'd ignored me before&.&.&.&. 
-I wondered why he was being nice enough to talk to me again&. 
+Even though he'd ignored me before&.&.&.
+I wondered why he was being nice enough to talk to me again&.
 
-Talking with me would definitely bring misfortune on him&. 
-He'd end up being the target of the class juvies' bullying&. 
+Talking with me would definitely bring misfortune on him&.
+He'd end up being the target of the class juvies' bullying&.
 
 Right&, it would be better for them
-If neither Rimi nor Misumi-kun put up with a creepy otaku like me-- 
+If neither Rimi nor Misumi-kun put up with a creepy otaku like me\
 
 When I held my silence&, Misumi-kun put on a forced smile&.
 
@@ -391,27 +391,27 @@ When I held my silence&, Misumi-kun put on a forced smile&.
 	FadeStand("bu‘å•ã_§•_’Êí_normal", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 300);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100140mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100140mi">
 "How dark of you&, being all broody so early in the morning&.
 Hahaha&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100150mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100150mi">
 "Well&, but I know you're that type of guy&."
 
 Those words of his sounded harsh&, but I didn't sense anything like
-sarcasm or hostility in them&. 
+sarcasm or hostility in them&.
 
 If you asked how I knew&, it was because he'd always said such things
 to me&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100160ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100160ri">
 "You say that&, Daichin&, but it's too early in the morning for you to
 be so uselessly breezy&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100170mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100170mi">
 "Don't call it useless&. You come to school for the first time in a
 while and this is what I get?"
 
@@ -419,19 +419,19 @@ while and this is what I get?"
 	FadeStand("bu—œ[_§•_’Êí_smile", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_normal", 300);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100180ri">
-"Then&.&.&.&. false-seeming breeziness!"
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100180ri">
+"Then&.&.&. false-seeming breeziness!"
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 500, @-240);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 300, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_normal", 300);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100190mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100190mi">
 "Hey&, Taku&, whaddaya think of how she's putting things?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/15100200ta">
-"Ye&, yeah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/15100200ta">
+"Ye&, yeah&.&.&."
 
 {	Stand("bu—œ[_§•_’Êí","normal", 600, @+210);
 	FadeStand("bu—œ[_§•_’Êí_normal", 300, true);
@@ -455,21 +455,21 @@ class was becoming something very bad&.
 <PRE box00>
 [text008]
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100210mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100210mi">
 "Come to think of it&, didja hear about Kishimoto?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100220mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100220mi">
 "They say she's still hospitalized&. She wasn't injured much&, but
 apparently she's got it pretty bad psychologically&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100230mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100230mi">
 "Listen up&, Taku&. The fastest way to get a girl is to be nice to her
 in her moment of weakness&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100240mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100240mi">
 "Which is why&, I'm seriously thinking about visiting Kishimoto in the
 hospital&."
 
@@ -478,39 +478,39 @@ hospital&."
 	DeleteStand("bu—œ[_§•_’Êí_normal", 300);}
 //Ÿ‚Ô[‚Ô[ƒu[ƒCƒ“ƒO
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100250ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100250ri">
 "Daichin&, you're the worst&. Booo&, boooo&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100260ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100260ri">
 "This time your girlfriend really is gonna stab you&, you know?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100270mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100270mi">
 "I'm just paying a visit&. Ain't nothing to be ashamed of&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch07/15100280ri">
+<voice name="—œ[" class="—œ[" src="voice/ch07/15100280ri">
 "That's different from what you were saying a few seconds before&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/15100290mi">
+<voice name="OZ" class="OZ" src="voice/ch07/15100290mi">
 "Speaking of which&, Taku&, you know Kishimoto&. Won't you come with
 me?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch07/15100300ta">
-"Eh&, ah&, errr&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/15100300ta">
+"Eh&, ah&, errr&.&.&."
 
-It was a typical topic for Misumi-kun&, sure enough&. 
+It was a typical topic for Misumi-kun&, sure enough&.
 But because I'd been positive he would ask me about psychic powers or
-something&, it startled me&. 
+something&, it startled me&.
 
-Misumi-kun kept chatting afterwards as well&. 
+Misumi-kun kept chatting afterwards as well&.
 
 It was the same as every time before now&, with Misumi-kun rattling on
 by himself&, Rimi occasionally jumping in to poke fun at him&, and me
-only grunting vaguely&. 
+only grunting vaguely&.
 
 But its being the same as before made me happy&.
 

@@ -54,40 +54,42 @@ function ch10_209_‚`ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚T‚S‚()
 [text001]
 Inohana Kouzou&, a member of the Lower House of the Diet&, and
 Kuramochi Yuudai&, the founder of the Cosmic Church of The Divine Light&,
-looked at the huge&, uncannily growling machine before them--Noah II--
+looked at the huge&, uncannily growling machine before them\Noah II\
 and nodded in satisfaction&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900010ih">
-"I wondered how things would turn out when you declared you would kill 5&,000 people&."
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900010ih">
+"I wondered how things would turn out when you declared you would
+kill 5&,000 people&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900020kr">
-"It took backbreaking effort on my part to iron things out for you&. 
-Especially making certain that the Committee of 300 didn't pick up 
+<voice name="‘q" class="‘q" src="voice/ch10/20900020kr">
+"It took backbreaking effort on my part to iron things out for you&.
+Especially making certain that the Committee of 300 didn't pick up
 on it&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900030nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900030nr">
 "I'm most grateful for your cooperation&."
 
 Norose bowed his head slightly&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900040ih">
-"But now that this has been completed&, it makes 5&,000 people seem like a piddling number&."
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900040ih">
+"But now that this has been completed&, it makes 5&,000 people seem like
+a piddling number&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900050kr">
-"We can already witness it taking effect&. The people out there are 
+<voice name="‘q" class="‘q" src="voice/ch10/20900050kr">
+"We can already witness it taking effect&. The people out there are
 beginning to turn into cattle&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900060ih">
-"With this&, the day when the world falls into our hands will at last 
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900060ih">
+"With this&, the day when the world falls into our hands will at last
 become a reality&."
 
-Inohana and Kuramochi exchanged looks with each other and smiled 
+Inohana and Kuramochi exchanged looks with each other and smiled
 disquietingly&.
 
 Norose watched them without lifting an eyebrow&.
@@ -100,56 +102,57 @@ Norose watched them without lifting an eyebrow&.
 <PRE box00>
 [text002]
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900070ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900070ih">
 "That aside&, Norose&, what fascinating taste you have&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900080nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900080nr">
 "Whatever might you be speaking of?"
 
 With a vulgar&, insinuating grin&,
 Inohana jerked his jaw at the "work of art" standing beside Noah II&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900090ih">
-"It's a piece overflowing with such artistry&. I'd very much like you to prepare one for me as well&."
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900090ih">
+"It's a piece overflowing with such artistry&. I'd very much like you to
+prepare one for me as well&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900100kr">
-"If it's ingredients you want&, feel free to select the cream of the 
+<voice name="‘q" class="‘q" src="voice/ch10/20900100kr">
+"If it's ingredients you want&, feel free to select the cream of the
 crop from among my organization's believers&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900110ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900110ih">
 "Kuku&, how lavish of you&, Kuramochi&."
 
 //Ÿœá‘R‚Æ
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900120nr">
-"&.&.&.&.It's bait&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900120nr">
+"&.&.&.It's bait&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900130ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900130ih">
 "Bait?"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900140nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900140nr">
 "To make Noah II reach even greater heights of perfection&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900150ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900150ih">
 "Well&, let's leave it at that&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900160kr">
-"More importantly&, I'd like to see a demonstration of just how much 
+<voice name="‘q" class="‘q" src="voice/ch10/20900160kr">
+"More importantly&, I'd like to see a demonstration of just how much
 Noah II is capable of accomplishing&, in concrete terms&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900170ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900170ih">
 "Good idea&. So show us&, be quick about it&."
 
-Still as expressionless as a Noh mask&, Norose gave a little shrug of 
+Still as expressionless as a Noh mask&, Norose gave a little shrug of
 his shoulders&.
 
 </PRE>
@@ -160,53 +163,53 @@ his shoulders&.
 <PRE box00>
 [text003]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900180nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900180nr">
 "Then how about this?"
 
-By the time Norose finished his sentence&, the "demonstration" had 
+By the time Norose finished his sentence&, the "demonstration" had
 already started&.
 
 Inohana and Kuramochi both came to the sudden realization that they had
 guns in their hands&.
 
-That miraculous occurrence had become reality without any alterations 
+That miraculous occurrence had become reality without any alterations
 or gestures on the part of either Norose or Noah II&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900190ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900190ih">
 "Hoh&, it's exactly the same as the real thing&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900200kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900200kr">
 "Almost like some kind of sleight of hand&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900210nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900210nr">
 "You can't lump it in together with party tricks&, I'm afraid&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900220nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900220nr">
 "Those guns exist in reality&."
 
-As they scrutinized their guns&, Inohana and Kuramochi nodded in 
+As they scrutinized their guns&, Inohana and Kuramochi nodded in
 satisfaction again&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900230ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900230ih">
 "Truly magnificent&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900240kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900240kr">
 "Indeed&. A power transcending God&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900250ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900250ih">
 "I suppose I'll keep this gun for the sake of commemoration&."
 
 //Ÿ¬º
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900260nr">
-"&.&.&.&.Such lightweights you are&."
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900260nr">
+"&.&.&.Such lightweights you are&."
 
 The other two failed to hear Norose's faint murmur&.
 
@@ -218,35 +221,35 @@ The other two failed to hear Norose's faint murmur&.
 <PRE box00>
 [text004]
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900270ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900270ih">
 "Let us move right into considering our plans from here on out&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900280kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900280kr">
 "First comes the elimination of the Committee of 300&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900290ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900290ih">
 "Norose&. You've worked hard&."
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900300kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900300kr">
 "We'll contact you again later with respect to our next step&."
 
-In excellent moods&, the two of them readied themselves to leave the 
+In excellent moods&, the two of them readied themselves to leave the
 planetarium on light-stepping feet&.
-However--
+However\
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900310nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900310nr">
 "There won't be any need for that&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900320ih">
-"&.&.&.&.What?"
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900320ih">
+"&.&.&.What?"
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900330kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900330kr">
 "What do you mean?"
 
 There&, for the first time&, Norose's expression transformed&.
@@ -258,7 +261,7 @@ He narrowed his eyes&, raised his chin minutely&, and fixed his gaze upon
 the two of them from his full height&. His demeanor practically made it
 seem as if he were looking down on them&.
 
-No&, in actuality&, he was looking down on them--
+No&, in actuality&, he was looking down on them\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -268,7 +271,7 @@ No&, in actuality&, he was looking down on them--
 <PRE box00>
 [text005]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900340nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900340nr">
 "I'll inherit your plans&. Not&, however&, for lowbrow goals like the ones
 you have in mind&, but for the sake of something far more sublime&."
 
@@ -277,19 +280,19 @@ Yet when they realized the meaning of what he was saying&, both Inohana
 and Kuramochi naturally became infuriated&.
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900350ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900350ih">
 "You bastard&, you're going to betray us!?"
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900360kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900360kr">
 "Do you perhaps think you've become a god?"
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900370ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900370ih">
 "The Committee of 300 won't stay quiet about this!"
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900380nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900380nr">
 "Are not the two of you waving flags of rebellion against the
 Committee of 300&, even while numbering yourself among its members?"
 
@@ -301,34 +304,34 @@ Committee of 300&, even while numbering yourself among its members?"
 <PRE box00>
 [text006]
 Norose's eyes&, fixed on other two&.
-The emotion in there was--contempt&.
+The emotion in there was\contempt&.
 
 His cold gaze&, as if he were contemplating something dirty&, signified
 the fact that he had merely been using Inohana and Kuramochi all this
 time&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900390nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900390nr">
 "Everything you've done has been according to my plans&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900400nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900400nr">
 "Including how you're going to die here&."
 
 //y’–•@z
-<voice name="’–•@" class="’–•@" src="ch10/20900410ih">
+<voice name="’–•@" class="’–•@" src="voice/ch10/20900410ih">
 "Don't fuck with me!"
 
 //y‘qz
-<voice name="‘q" class="‘q" src="ch10/20900420kr">
+<voice name="‘q" class="‘q" src="voice/ch10/20900420kr">
 "Such nonsense!"
 
 Kuramochi and Inohana simultaneously pointed the barrels of their guns
 at Norose&. They put their fingers on the trigger&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900430nr">
-"It isn't nonsense--"
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900430nr">
+"It isn't nonsense\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -383,7 +386,7 @@ The sound they made thundered around inside the dome&.
 <PRE box00>
 [text008]
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900440nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900440nr">
 "It was foreknowledge&."
 
 Rather than Norose&, the ones who fell were Inohana and Kuramochi&.
@@ -391,29 +394,29 @@ Rather than Norose&, the ones who fell were Inohana and Kuramochi&.
 For some reason&, immediately before pulling the trigger&, they had
 shifted their aim away from Norose and shot at each other&.
 
-Instant death--
+Instant death\
 
-The pair of them&, lying there as comrades with holes open in each 
-other's foreheads&, had already stopped breathing and changed to mere 
+The pair of them&, lying there as comrades with holes open in each
+other's foreheads&, had already stopped breathing and changed to mere
 lumps of flesh&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900450nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900450nr">
 "Noah II is in my hands&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900460nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900460nr">
 "You Philistines seem not to have understood that&."
 
-The "demonstration" that Norose showed the two of them hadn't ended 
-with producing the guns&. He had made them mistake each other for 
+The "demonstration" that Norose showed the two of them hadn't ended
+with producing the guns&. He had made them mistake each other for
 him&, and forced them to kill each other&.
 
 Everything up until then had been part of the "demonstration&."
 
 With the power of Noah II&, he'd accomplished it all too casually&.
 
-Norose turned toward the "work of art&." 
+Norose turned toward the "work of art&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -426,24 +429,24 @@ Norose turned toward the "work of art&."
 [text009]
 There could be found the form of the pinned-up Sakihata Rimi&.
 
-Rimi had entreated Norose to release Nanami&, and in exchange for 
+Rimi had entreated Norose to release Nanami&, and in exchange for
 agreeing to this&, he had taken her hostage instead&.
 
-Perhaps because of the psychological attacks she'd received from 
-Nanami&, most of the vigor had gone out of Rimi&, and now&, 
+Perhaps because of the psychological attacks she'd received from
+Nanami&, most of the vigor had gone out of Rimi&, and now&,
 staked in place&, she hung her head powerlessly&.
 
 But her shoulders shuddered faintly when Norose approached&.
 
 //ŸãX‚µ‚¢º
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900470ri">
-"Without&.&.&.&. dirtying your own hands&.&.&. you do only cowardly 
-things&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900470ri">
+"Without&.&.&. dirtying your own hands&.&.&. you do only cowardly
+things&.&.&."
 
 //ŸãX‚µ‚¢º
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900480ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900480ri">
 "You're the&.&.&. Philistine&."
 
 </PRE>
@@ -467,61 +470,61 @@ things&.&.&.&."
 <PRE box00>
 [text010]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900490ri">
-"&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900490ri">
+"&.&.&."
 
 Norose backhanded Rimi across the cheek&.
 Then he grabbed her by the chin&, forcing her to face him&.
 
-Though her expression was dead-looking&, her scarcely-open eyes alone 
+Though her expression was dead-looking&, her scarcely-open eyes alone
 pierced Norose with a blazing light&, even now&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900500nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900500nr">
 "Why don't you seek Nishijou Takumi's help?"
 
 He whispered by Rimi's ear&.
 
 //ŸãX‚µ‚¢º
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900510ri">
-"Don't&.&.&.&. get him involved in this&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900510ri">
+"Don't&.&.&. get him involved in this&.&.&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900520nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900520nr">
 "Of which 'him' are you speaking?"
 
 //ŸãX‚µ‚¢º
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900530ri">
-"Both&.&.&.&. of them&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900530ri">
+"Both&.&.&. of them&.&.&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900540nr">
-"As far as I'm concerned&, either one would be more than enough by 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900540nr">
+"As far as I'm concerned&, either one would be more than enough by
 himself&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900550nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900550nr">
 "The one who conceived of Ir2&, and his perfect copy&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900560nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900560nr">
 "Both of them possess monstrous power&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900570nr">
-"If I obtain one of their CODE samples&, Noah II will draw even closer 
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900570nr">
+"If I obtain one of their CODE samples&, Noah II will draw even closer
 to perfection&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900580nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900580nr">
 "Achieving a power that surpasses the gods&."
 
 //ŸƒuƒŒƒX
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20900590ri">
-"&.&.&.&.&.&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20900590ri">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -532,23 +535,23 @@ to perfection&."
 [text011]
 Rimi lowered her eyes in apparent pain&.
 
-Norose roughly removed the hand gripping her jaw&, then looked up at 
+Norose roughly removed the hand gripping her jaw&, then looked up at
 Noah II&, a smile playing about the corners of his mouth&.
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900600nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900600nr">
 "Now&, call out to him&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900610nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900610nr">
 "I don't care which one&."
 
 //y–ì˜C£z
-<voice name="–ì˜C£" class="–ì˜C£" src="ch10/20900620nr">
+<voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/20900620nr">
 "I'll welcome him&."
 
 In fact&, Norose was greatly anticipating it&.
-How Nishijou Takumi would come here&, after overcoming the "trials" 
+How Nishijou Takumi would come here&, after overcoming the "trials"
 Norose had readied for him&.
 
 </PRE>

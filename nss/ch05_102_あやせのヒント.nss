@@ -98,12 +98,12 @@ When our eyes met&, she twisted her lips into a thin smile&.
 [text004]
 //‚b‚g//‚ ‚â‚¹
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200010ay">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200010ay">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200020ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200020ta">
+"&.&.&.&.&.&.&."
 
 Ayase was a celebrity&.
 I'd figured I'd hold back on talking to her in school&, since it would
@@ -111,12 +111,12 @@ make me stand out&, but with her standing there as though to block my
 way&, I had no choice but to follow her lead&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200030ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200030ay">
 "Takumi&, what's happened with the police since then?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200040ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200040ta">
+"&.&.&."
 
 On the verge of shrieking&, I clamped a hand over my mouth&.
 
@@ -138,7 +138,7 @@ Normally&, it'd be inconceivable for her to talk to an otaku freak
 like me&.
 
 The onlookers' gazes stung&.
-I wanted to flee&.&.&.&.
+I wanted to flee&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -152,37 +152,37 @@ I wanted to flee&.&.&.&.
 <PRE box00>
 [text005]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200050ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200050ay">
 "Search for your sword&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200060ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200060ay">
 "You have no choice but to do so&."
 
-&.&.&.&.She said the same thing every single time we met&.
+&.&.&.She said the same thing every single time we met&.
 
 Ayase might have been on my side&, but I got pretty sick of her when
-she repeated herself like she was the village idiot&. 
+she repeated herself like she was the village idiot&.
 
 I wanted to get my hands on it more than anyone&.  But I didn't know
 how&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200070ta">
-"I&, I want a hint&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200070ta">
+"I&, I want a hint&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200080ta">
-"Ho&, how did you g&, get yours&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200080ta">
+"Ho&, how did you g&, get yours&.&.&.?"
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","normal", 200, @0);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_normal", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200090ay">
-"&.&.&.&.It was there before I knew it&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200090ay">
+"&.&.&.It was there before I knew it&."
 
-This again&.&.&.&.!
+This again&.&.&.!
 Was she avoiding giving me an answer&, after all?
 
 </PRE>
@@ -193,37 +193,37 @@ Was she avoiding giving me an answer&, after all?
 <PRE box00>
 [text006]
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200100ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200100ay">
 "At first I didn't notice it&."
 
 {	Stand("st‚ ‚â‚¹_§•_’Êí","hard", 200, @0);
 	FadeStand("st‚ ‚â‚¹_§•_’Êí_hard", 300, true);
 	DeleteStand("st‚ ‚â‚¹_§•_’Êí_normal", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200110ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200110ay">
 "But when I changed my perspective a little bit&, I knew it for what
 it was&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200120ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200120ay">
 "Maybe you can already see yours&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch05/10200130ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch05/10200130ay">
 "You just aren't 'seeing' it&."
 
-I had no idea what she meant&.&.&.&.
+I had no idea what she meant&.&.&.
 
 Talking with Ayase always wore me out&.
 Spare me the Zen koans&, would you?
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200140ta">
-"I'm&.&.&.&. looking for it&, real hard&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200140ta">
+"I'm&.&.&. looking for it&, real hard&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200150ta">
-"I&.&.&.&. really want to&, to get one&, too&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200150ta">
+"I&.&.&. really want to&, to get one&, too&.&.&."
 
 {	DeleteStand("st‚ ‚â‚¹_§•_’Êí_hard", 500, true);}
 Having said that much&, I let out a sigh&, and slipped past her&,
@@ -247,7 +247,7 @@ There I became even more depressed&.
 Misumi-kun spearheaded a mix-sexed group of kids&, all staring at me
 dazedly&.
 
-Dammit&, they'd spotted me talking to Ayase&.&.&.&.
+Dammit&, they'd spotted me talking to Ayase&.&.&.
 
 Shit&, who knew what they'd say to me&.
 
@@ -257,7 +257,7 @@ them quarreling with me like a playground gang&.
 I lowered my eyes&, making myself as small as possible&, and went
 toward my seat&.
 
-Please&, I'll do anything&, so leave me alone&.&.&.&.
+Please&, I'll do anything&, so leave me alone&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -270,25 +270,25 @@ Please&, I'll do anything&, so leave me alone&.&.&.&.
 <PRE box00>
 [text008]
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200160mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200160mi">
 "Hey&, hey&, hey&."
 
 My prayer didn't go through&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200170mi">
-"Taku&, when the hell did you--!? You were talking to Kishimoto just
+<voice name="OZ" class="OZ" src="voice/ch05/10200170mi">
+"Taku&, when the hell did you-!? You were talking to Kishimoto just
 now&, right!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200180ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200180ta">
+"&.&.&.&.&.&.&."
 
 All I could do was fall silent&.
 I couldn't lift my face to him&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200190mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200190mi">
 "It's the first time I've seen her have a real conversation with
 anyone! What kinda trick did you use on her!?"
 
@@ -302,11 +302,11 @@ I've got no intention of laying a finger on Ayase&.
 I know I wouldn't be worthy of doing so&, in the first place&.
 
 That's why I'm asking you&, please don't make such a big deal out of
-it&.&.&.&.
+it&.&.&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200200mi">
-"C'mon&, Taku! Tell me--"
+<voice name="OZ" class="OZ" src="voice/ch05/10200200mi">
+"C'mon&, Taku! Tell me\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -320,20 +320,20 @@ it&.&.&.&.
 [text009]
 //Ÿ‚Æ‚ª‚ß‚é‚æ‚¤‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200210ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200210ri">
 "Daichin!"
 
 Rimi dove between us&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200220ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200220ri">
 "Chill out&. You're making it hard for Taku&."
 
 {	Stand("st‘å•ã_§•_’Êí","sigh", 200, @+150);
 	FadeStand("st‘å•ã_§•_’Êí_sigh", 300, true);
 	DeleteStand("st‘å•ã_§•_’Êí_shock", 0, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200230mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200230mi">
 "Ah? Ahh&, my bad&, my bad&."
 
 Misumi-kun lowered his voice and patted me lightly on the back&.
@@ -342,19 +342,19 @@ Misumi-kun lowered his voice and patted me lightly on the back&.
 	FadeStand("st—œ[_§•_’Êí_normal", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_angry", 0, true);}
 Head still hanging&, I sighed quietly&.
-Rimi had saved me yet again&.&.&.&.
+Rimi had saved me yet again&.&.&.
 
 {	DeleteStand("st‘å•ã_§•_’Êí_sigh", 500, true);
 	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+200);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 500, true);}
 //Ÿº‚ğ‚Ğ‚»‚ß‚Ä
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200240mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200240mi">
 "So&, how'd you actually do it?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200250ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200250ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_pride", 500, true);
 	Stand("st‘å•ã_§•_’Êí","pride", 200, @+150);
@@ -365,16 +365,16 @@ The very model of a man driven by his lower half&.
 	FadeStand("st—œ[_§•_’Êí_hard", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200260ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200260ri">
 "Jeez&. Daichin&, you've got no principles&."
 
 //Ÿ‚¢‚½‚¸‚ç‚°‚É
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200270ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200270ri">
 "Don't you think your girlfriend's gonna stab you someday?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200280mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200280mi">
 "No worries&. Sure&, I may look frivolous&, but I give all of 'em
 their TLC&."
 
@@ -382,14 +382,14 @@ their TLC&."
 	FadeStand("st—œ[_§•_’Êí_normal", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_hard", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200290ri">
-"Tahaha&.&.&.&. what's up with that&."
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200290ri">
+"Tahaha&.&.&. what's up with that&."
 
 {	DeleteStand("st‘å•ã_§•_’Êí_pride", 500, true);
 	Stand("bu‘å•ã_§•_’Êí","pride", 200, @+200);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200300mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200300mi">
 "Hey&, Taku&. Tell meee&. What's Kishimoto like?"
 
 Misumi-kun rubbed my shoulders as he persisted in asking me&.
@@ -407,8 +407,8 @@ Left without much of a choice&, I meekly raised my head&.
 <PRE box00>
 [text010]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200310ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200310ta">
+"&.&.&."
 
 About half the people from before were taking quick glances at me as
 they whispered to each other&.
@@ -417,15 +417,15 @@ they whispered to each other&.
 	Stand("st‘å•ã_§•_’Êí","pride", 200, @+150);
 	FadeStand("st—œ[_§•_’Êí_normal", 500, false);
 	FadeStand("st‘å•ã_§•_’Êí_pride", 500, true);}
-Shit&.&.&.&. they were still watching me&.&.&.&.
+Shit&.&.&. they were still watching me&.&.&.
 
---Don't look at me&.
+\Don't look at me&.
 
 The nape of my neck prickled&.
 It'd be the end of me if I caught a delinquent's fancy&.
 Bullying hell would be the one thing awaiting me&.
 
-What to do&.&.&.&. should I run?
+What to do&.&.&. should I run?
 Skip out on classes and hurry on home?
 
 But I couldn't go back alone&.
@@ -471,8 +471,8 @@ Everyone looked over there to see what was happening&.
 	Stand("st½_§•_³–Ê","sad", 1200, @+100);
 	FadeStand("st½_§•_³–Ê_sad", 300, true);}
 //y½z
-<voice name="½" class="½" src="ch05/10200320ko">
-"&.&.&.&."
+<voice name="½" class="½" src="voice/ch05/10200320ko">
+"&.&.&."
 
 The transfer student&.
 
@@ -481,30 +481,30 @@ her&, silent as always&.
 
 The suddenness of what had happened made the classroom fall silent&.
 
-What on earth had&.&.&.&.
+What on earth had&.&.&.
 
 {	DeleteStand("st½_§•_³–Ê_sad", 200, false);
 	FadeDelete("back04", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200330mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200330mi">
 "Did you see that?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200340ri">
-"Yeah&. She barreled into the door all by herself&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200340ri">
+"Yeah&. She barreled into the door all by herself&.&.&."
 
 {	Stand("st‘å•ã_§•_’Êí","smile", 200, @+150);
 	FadeStand("st‘å•ã_§•_’Êí_smile", 300, true);
 	DeleteStand("st‘å•ã_§•_’Êí_shock", 0, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200350mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200350mi">
 "Mm~&, Kozue-chan is such a c<pre>u</pre>tie&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10200360ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10200360ta">
+"&.&.&.&.&.&.&."
 
-Wh&, what a picture-perfect&, real-life klutz&.&.&.&.&.&.
+Wh&, what a picture-perfect&, real-life klutz&.&.&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -520,20 +520,20 @@ Wh&, what a picture-perfect&, real-life klutz&.&.&.&.&.&.
 [text012]
 //Ÿ‹ƒ‚­
 //y½z
-<voice name="½" class="½" src="ch05/10200370ko">
-"&.&.&.&."
+<voice name="½" class="½" src="voice/ch05/10200370ko">
+"&.&.&."
 
 {	DeleteStand("st½_§•_³–Ê_sad", 200, false);
 	FadeDelete("back04", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200380ri">
-"Ah&, she's crying again&.&.&.&."
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200380ri">
+"Ah&, she's crying again&.&.&."
 
 {	Stand("st—œ[_§•_³–Ê","sad", 200, @-150);
 	DeleteStand("st—œ[_§•_’Êí_shock", 500, false);
 	FadeStand("st—œ[_§•_³–Ê_sad", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10200390ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10200390ri">
 "Think she's okay?  It sounded pretty loud&."
 
 {	DeleteStand("st—œ[_§•_³–Ê_sad", 500, true);}
@@ -547,9 +547,9 @@ But maybe I should call it her kindness&.
 	FadeStand("st‘å•ã_§•_’Êí_shock", 300, true);
 	DeleteStand("st‘å•ã_§•_’Êí_smile", 0, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch05/10200400mi">
+<voice name="OZ" class="OZ" src="voice/ch05/10200400mi">
 "Uwah&, Rimi beat me to it! Wait&, wait&, I'm gonna be the one to
-nurse Kozue-chan--!"
+nurse Kozue-chan-!"
 
 {	DeleteStand("st‘å•ã_§•_’Êí_shock", 500, true);}
 Declaring loudly that she didn't have to do anything&, Misumi-kun
@@ -563,20 +563,20 @@ their attention to her&.
 
 GJ&, I needed to tell her&.
 
-Only--
+Only\
 My ears suddenly picked up on what a group of girls near my desk were
 saying&.
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch05/10200410wa">
-"What a pain&.&.&.&."
+<voice name="—q‚`" class="—q‚`" src="voice/ch05/10200410wa">
+"What a pain&.&.&."
 
 //y—q‚az
-<voice name="—q‚a" class="—q‚a" src="ch05/10200420wb">
+<voice name="—q‚a" class="—q‚a" src="voice/ch05/10200420wb">
 "What's with her?"
 
 //y—q‚bz
-<voice name="—q‚b" class="—q‚b" src="ch05/10200430wc">
+<voice name="—q‚b" class="—q‚b" src="voice/ch05/10200430wc">
 "Didn't she do it on purpose?"
 
 Barely audible murmurs&.

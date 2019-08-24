@@ -125,7 +125,7 @@ bishoujo&, lol
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box02>
 [text009]
-Neidhardt>That demon girl&.&.&.&.
+Neidhardt>That demon girl&.&.&.
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(1,1,700);
@@ -135,15 +135,15 @@ Neidhardt>That demon girl&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-I flinched as the dim eyes of the girl I'd spotted at the sce<pre>n</pre>e of the
-staking murder grazed my brain&.
+I flinched as the dim eyes of the girl I'd spotted at the sce<pre>n</pre>e
+of the staking murder grazed my brain&.
 
 I didn't want to keep remembering it like this&, but the second I let
 my guard down&, the ominous memories started to flooding back&.
 
 Yeah&, I'd seen the criminal's face&. I knew who she was&.
 Should I have reported her to the police? But I didn't want to get
-caught up in it&.&.&.&.
+caught up in it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -208,7 +208,7 @@ haven't joined&, man
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-Geh&, seriously&.&.&.&.?
+Geh&, seriously&.&.&.?
 That meant I wouldn't be able to jump in on the conversation when we
 were all chatting&.
 
@@ -288,8 +288,8 @@ Grim>The ultimate SM type stuff
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box02>
 [text025]
-Neidhardt>You're hopeless&.&.&.&. You should hurry up and fix
-yourself up or&.&.&.&.
+Neidhardt>You're hopeless&.&.&. You should hurry up and fix
+yourself up or&.&.&.
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(1,1,700);
@@ -360,15 +360,15 @@ look&, dude
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text030]
-Uuugh&.&.&.&. I don't wanna see it&, because it's scary&.
+Uuugh&.&.&. I don't wanna see it&, because it's scary&.
 
 I wanted escape from reality where I witnessed the sce<pre>n</pre>e of the
-crime&.&.&.&. With that one goal in mind&, I started to block out
+crime&.&.&. With that one goal in mind&, I started to block out
 every piece of New Gen-related news&.
 
 By doing so&, I'd hoped to convince myself that the gruesome
 spectacle I'd seen had been an illusion&.
-But&.&.&.&.
+But&.&.&.
 
 In ESO&, I was on the same level as a god&.
 It wasn't enough merely to be strong; I also had to know about
@@ -379,7 +379,7 @@ had to a leader&. As the person in charge of  everyone's organization&,
 it'd be way too humiliating if I couldn't keep up with their
 conversations&.
 
-I had to avoid that&.&.&.&.
+I had to avoid that&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -409,8 +409,8 @@ I headed over to the wiki Grim had told me about&.
 The title "New Gen Wiki" was displayed in huge letters on the front
 page&.
 
-Compilation sites like this are an example of a type of <FONTincolor="#88abda" outcolor="BLACK">Wiki</FONT>&, 
-where an indeterminate number of people post news and 
+Compilation sites like this are an example of a type of <FONTincolor="#88abda" outcolor="BLACK">Wiki</FONT>&,
+where an indeterminate number of people post news and
 information about a specified topic&.
 
 A New Gen wiki like this was bound to be fairly fast-moving&, with
@@ -487,7 +487,7 @@ The man&, Konoe Chizuo (21)&, was a student of Shibuya area college&,
 and though he had already died by the time his body was discovered&,
 his abdomen had become unnaturally swollen&.
 
-According to the autopsy&, someone had cut open his abdomen&, shoved a 
+According to the autopsy&, someone had cut open his abdomen&, shoved a
 newborn fetus into his stomach and sewn him back together&.
 
 A DNA analysis established the fact that the victim and the fetus were
@@ -508,7 +508,7 @@ approximately 32 weeks old&, it must have been removed from its
 mother's body via C-section&.
 
 But no one knew who the mother was&, where she could be found or what
-she was doing at present&, or even whether she was alive or dead&. 
+she was doing at present&, or even whether she was alive or dead&.
 
 Perhaps the police had tracked down her whereabouts&, but at the very
 least&, they hadn't announced it to the public&.
@@ -532,13 +532,13 @@ least&, they hadn't announced it to the public&.
 <PRE box00>
 [text034]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03500010ta">
-"Uueeeh&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03500010ta">
+"Uueeeh&.&.&."
 
 On the verge of vomiting&, I turned my eyes away from the monitor&.
 
-How revolting&.&.&.&. The perpetrator had to be insane&.
-And on top of all that&.&.&.&. To think that this vicious murder&.&.&.&.
+How revolting&.&.&. The perpetrator had to be insane&.
+And on top of all that&.&.&. To think that this vicious murder&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -589,7 +589,7 @@ And on top of all that&.&.&.&. To think that this vicious murder&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text035]
-might have been committed by that girl&.&.&.&.
+might have been committed by that girl&.&.&.
 
 {	CreateColor("色１", 1000, 0, 0, 800, 600, "Black");
 	DrawTransition("色１", 1000, 0, 1000, 100, null, "cg/data/effect.png", true);
@@ -618,7 +618,7 @@ taking the medicine Dr&. Takashina had given me&, but it looked like I
 could still succeed in getting by with just Seira-tan&.
 
 But it was tough to read about this guro&, even for the sake of
-preserving my reputation as Neidhardt&.&.&.&.
+preserving my reputation as Neidhardt&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -643,7 +643,7 @@ preserving my reputation as Neidhardt&.&.&.&.
 <PRE box00>
 [text037]
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500020se">
+<voice name="星来" class="星来" src="voice/ch02/03500020se">
 "If it's that hard on you&, you don't have to read it&."
 
 {	Stand("bu星来_覚醒前_通常","normal", 90, @-100);
@@ -652,25 +652,25 @@ preserving my reputation as Neidhardt&.&.&.&.
 //以下、拓巳の妄想……と思わせておいて実は現実かもしれない
 //ＢＧ//渋谷路地裏//夜
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500030se">
+<voice name="星来" class="星来" src="voice/ch02/03500030se">
 "If you're a big fat masochist&, I won't stop you&."
 
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500040se">
+<voice name="星来" class="星来" src="voice/ch02/03500040se">
 "But I can't bear to watch you suffer&, Takkii&."
 
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500050se">
+<voice name="星来" class="星来" src="voice/ch02/03500050se">
 "Stop it&, okay? Let's just have fun&."
 
 {	Stand("bu星来_覚醒前_通常","happy", 90, @-100);
 	FadeStand("bu星来_覚醒前_通常_happy", 300, true);
 	DeleteStand("bu星来_覚醒前_通常_normal", 0, true);}
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500060se">
+<voice name="星来" class="星来" src="voice/ch02/03500060se">
 "I'll even let you fap to me like always&."
 
-Uuh&, Seira-tan was so kind to me&.&.&.&.
+Uuh&, Seira-tan was so kind to me&.&.&.
 
 Seira-tan was the only one who would stay as my ally&.
 As expected&, since she was my wife&.
@@ -682,7 +682,7 @@ As expected&, since she was my wife&.
 	DeleteStand("bu星来_覚醒前_通常_happy", 0, true);
 	Wait(500);}
 I rested my chin in my hand and took deep breaths as I gazed at
-Seira-tan's smile&. Haa&, I could feel her healing me&.&.&.&.
+Seira-tan's smile&. Haa&, I could feel her healing me&.&.&.
 
 If I kept an eye on Seira-tan as I read&, maybe I would be able to
 hold out a little longer&.
@@ -732,14 +732,14 @@ committed suicide&.
 
 At that point&, the mass media seized on the fact that both cases had
 occurred in "Shibuya&," and began using "New Generation Madness" in
-their sensationalistic headlines&.&.&.&. Which was said to be how all
+their sensationalistic headlines&.&.&. Which was said to be how all
 got started&.
 
 {	CreateTextureEX("張り付け現場", 100, 0, 0, "cg/bg/bg020_01_3_渋谷路地裏_a.jpg");
 	Fade("背景１", 500, 0, null, false);
 	Fade("張り付け現場", 500, 500, null, true);
 	Delete("背景１");}
-And then&, the third incident&.&.&.&.
+And then&, the third incident&.&.&.
 The one I had witnessed&, commonly known as the "staking"&.
 
 Since few days had passed since the case opened&, the Wiki site didn't
@@ -757,7 +757,7 @@ to pin his corpse to the concrete wall of an abandoned house&.
 [text039]
 
 Residents of the neighborhood where the crime took place reported
-hearing "A sound of someone hammering&," starting at around 
+hearing "A sound of someone hammering&," starting at around
 8 PM&, the time when the murder was estimated to have been
 committed&, and lasting for over an hour&.
 
@@ -772,8 +772,8 @@ very same Shibuya&, people naturally started treating the "staking"
 murder case as part of the New Gen phenomenon&.
 
 The police and the media viewed the three cases as having been the
-work of different people&, but according to online commentary--or&,
-more properly&, online expectations--them having been committed by the
+work of different people&, but according to online commentary―or&,
+more properly&, online expectations―them having been committed by the
 same criminal or by the same group of people was the most popular
 
 explanation&.
@@ -849,7 +849,7 @@ If I hadn't been involved&, I would've certainly joined the "festival"
 and maybe I would've been waiting with bated breath for a fourth
 case&.
 
-Dammit&, those bastards sure have it easy&.&.&.&.
+Dammit&, those bastards sure have it easy&.&.&.
 
 {	Fade("背景１", 0, 0, null, true);
 	Fade("フラッシュ", 0, 0, null, true);
@@ -860,8 +860,8 @@ Dammit&, those bastards sure have it easy&.&.&.&.
 	Fade("ルーム", 1000, 1000, null, true);
 	Wait(1000);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03500070ta">
-"Hurry up and catch the criminal&, please&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03500070ta">
+"Hurry up and catch the criminal&, please&.&.&."
 
 Over a week had passed since the "staking&," but neither that demon
 girl nor the police had showed any signs of movement&. If they were
@@ -871,7 +871,7 @@ come to question me&, but at the moment&, they didn't seem to be
 doing anything about it&.
 
 Th&, thank goodness&.
-Looks like I'm not gonna get dragged into it--
+Looks like I'm not gonna get dragged into it―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -897,14 +897,14 @@ Looks like I'm not gonna get dragged into it--
 <PRE box00>
 [text041]
 //【優愛】
-<voice name="優愛" class="優愛" src="ch02/03500080yu">
+<voice name="優愛" class="優愛" src="voice/ch02/03500080yu">
 "Do you have precognitive powers?"
 
 The words Yua had thrust at me passed through my head&.
 
 //ＶＦ//回想セリフ
 //【優愛】
-<voice name="優愛" class="優愛" src="ch02/03500090yu">
+<voice name="優愛" class="優愛" src="voice/ch02/03500090yu">
 "Because you possessed a piece of image data that can't be explained&,
 unless you happen to have precognitive powers&."
 
@@ -946,8 +946,8 @@ Which was why that guro pic totally had to be a composite&.
 [text042]
 //ＶＦ//妄想セリフ
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500100se">
-"Hey&, c'mon--"
+<voice name="星来" class="星来" src="voice/ch02/03500100se">
+"Hey&, c'mon―"
 
 {	MusicStart("@CH07", 1000, 1000, 0, 1000, null, true);
 	CreateColor("フラッシュ２", 100, 0, 0, 800, 600, "White");
@@ -956,17 +956,17 @@ Which was why that guro pic totally had to be a composite&.
 	Stand("bu星来_覚醒前_通常","normal", 200, @-100);
 	FadeStand("bu星来_覚醒前_通常_normal", 500, true);}
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500110se">
+<voice name="星来" class="星来" src="voice/ch02/03500110se">
 "All ya gotta do is find proof that it's fake&."
 
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500120se">
-"Let's analyze that pic&." 
+<voice name="星来" class="星来" src="voice/ch02/03500120se">
+"Let's analyze that pic&."
 
 B&, but&, it made me sick&, so I didn't want to look at it very much&.
 
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500130se">
+<voice name="星来" class="星来" src="voice/ch02/03500130se">
 "If you prove her wrong&, you can go back to your peaceful everyday
 life without having to be scared of anything&, you know?"
 
@@ -974,20 +974,20 @@ life without having to be scared of anything&, you know?"
 	FadeStand("bu星来_覚醒前_通常_happy", 300, true);
 	DeleteStand("bu星来_覚醒前_通常_normal", 0, false);}
 //【星来】
-<voice name="星来" class="星来" src="ch02/03500140se">
+<voice name="星来" class="星来" src="voice/ch02/03500140se">
 "You've gotta do it&, right-o!"
 
-True enough&.&.&.&. It's just as you say&.&.&.&.
+True enough&.&.&. It's just as you say&.&.&.
 
 Yua talked about it like I was the perpetrator of the "staking&," but
 that was out of the question&.
 
 Because I myself had seen the perp's face&.
-Like I'd let you force guilt for the crime on me&.&.&.&.
+Like I'd let you force guilt for the crime on me&.&.&.
 
 {	Wait(1000);}
-I sucked in a sharp breath and double-clicked the folder where the 
-image should have been cached-- 
+I sucked in a sharp breath and double-clicked the folder where the
+image should have been cached―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -121,14 +121,14 @@ Avenue&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Haa&, I'd finally arrived&.&.&.&.
+Haa&, I'd finally arrived&.&.&.
 Growing ever more impatient&, I'd become irritated at the distance&.
 
 //わざと「オサレ」です
 {#TIPS_オサレ = true;}
 Cat Street had been quiet&, compared to the big shopping district&,
 and its image was far closer to that of Harajuku than Shibuya&. The
-stores lined up there were all <FONT incolor="#88abda"outcolor="BLACK">chic</FONT> shops that of course 
+stores lined up there were all <FONT incolor="#88abda"outcolor="BLACK">chic</FONT> shops that of course
 had nothing to do with me&. Go off and die&.
 
 
@@ -174,12 +174,12 @@ exchange looks with passers-by&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-Town Vanguard was deep within a narrow side road that split 
+Town Vanguard was deep within a narrow side road that split
 off from Cat Street&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch03/06000010ta">
-"Is this it&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch03/06000010ta">
+"Is this it&.&.&.?"
 
 Though I'd only ventured one side street away from the main road&, the
 ambience underwent a dramatic change&.
@@ -193,7 +193,7 @@ Cat Street&, which seemed so clean from the front&, with all its
 high-class brand name stores&, was in the end no more than a flimsy&,
 papier-mache facade&.
 
-Behind that facade lay any number of mercilessly discarded wrecks&. 
+Behind that facade lay any number of mercilessly discarded wrecks&.
 
 Although I personally disliked both the front and the back&. Both were
 unfamiliar territory for me&. The only place I ever wanted to go was
@@ -207,16 +207,16 @@ described it as an underground store&.
 
 Despite the fact that an "OPEN" sign had been hung up&, you couldn't
 say it was doing brisk business even by way of flattery&, and it was
-awfully hard to enter&.&.&.&.
+awfully hard to enter&.&.&.
 
 How was I supposed to go in such a sketchy-seeming store&, when it was
 asking too much of me just to have me go alone to a gyuudon
-shop&.&.&.&.
+shop&.&.&.
 
-I wanna go home&.&.&.&.
+I wanna go home&.&.&.
 
 No&, but I needed to get my hands on a sword&, no matter what&.
-Ugh&, what was I supposed to do&.&.&.&.
+Ugh&, what was I supposed to do&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -239,7 +239,7 @@ me&, causing me to abandon all hope&, and I kept repeating this cycle
 innumerable times&.
 
 But I couldn't go home empty-handed&. This was the only place I could
-obtain a Di-Sword&.&.&.&.
+obtain a Di-Sword&.&.&.
 
 Even though I understood that with my head&, my instincts made me
 reluctant to enter the shop&.
@@ -250,9 +250,9 @@ Of course&, she'd be a cute maid&, and she'd talk to me with the kind
 of voice you hear in anime&.
 
 She'd have a perfect grasp of exactly what I wanted&, and she'd hold a
-Di-Sword out to me in a wonderfully friendly manner&.&.&.&.
+Di-Sword out to me in a wonderfully friendly manner&.&.&.
 
-"Here you are&, please take this sword&, Master&.&.&.&."
+"Here you are&, please take this sword&, Master&.&.&."
 
 Hehehe&, get a hold of yourself&. Chill out&, me&. Hehehe&.
 
@@ -265,9 +265,9 @@ Unlike in my fantasy&, though her clothes were rather gaudy&, the kind
 of thing that made you wonder what kind of nomad camp she'd snagged
 them from&, and her face&, on the other hand&, was amazingly glum&.
 
-Her hair was cu<pre>t</pre> in the bomb-a-head style&, with thin&, frizzy ends&,
-and creepy patterns were drawn on the bandanna twisted around it
-above&.
+Her hair was cu<pre>t</pre> in the bomb-a-head style&, with thin&,
+frizzy ends&, and creepy patterns were drawn on
+the bandanna twisted around it above&.
 
 She said she was a store worker and had come out after seeing me
 wishy-washily going around outside&. My fantasy hadn't exactly become
@@ -297,11 +297,11 @@ I didn't have a chance to turn her down&.
 [text005]
 So in the end&, I came in&.
 It was all very well that I'd cleared the most excruciating hurdle&,
-but&.&.&.&.
+but&.&.&.
 
 If this store were under the demon girl's control&, and everything
 about the Di-Sword had been a trap to lure me in&, I'd have no right
-to complain about getting slaughtered on the spot&.&.&.&.
+to complain about getting slaughtered on the spot&.&.&.
 
 I swiftly surveyed the store's dim interior&.
 
@@ -330,7 +330,7 @@ After bringing me into the store&, the clerk sat down on a stool
 beside the counter&, zoning out as she smoked and showing no
 indication of continuing to meddle with me&.
 
-She must have been one of the sources of the mist in here&.&.&.&.
+She must have been one of the sources of the mist in here&.&.&.
 
 Regardless of the fact that it had been less than a minute since I'd
 first come in&, nervousness&, embarrassment&, a weird sense of
@@ -338,7 +338,7 @@ pressure&, and my feeling physically sick made nasty sweat seep out of
 my forehead&.
 
 I wanted to leave this otherworldly place as fast as possible&.
-I had to be quick about finding a Di-Sword&.&.&.&.
+I had to be quick about finding a Di-Sword&.&.&.
 
 I walked toward the back as I browsed my way through the store&.
 
@@ -359,14 +359,14 @@ been written about in the blog I'd found&.
 <PRE box00>
 [text006]
 That one corner stood apart from the rest&, being the only area with
-conspicuous colors&. 
+conspicuous colors&.
 
 Numerous pole-shaped toys had been neatly put up on display&.
 
 All of the toys were long tubes&. Or rather&, while they might have
 been different colors&, virtually all of them were light sabers&.
 Moreover&, one could tell right away from how badly they were made
-that they were bootleg merchandise&. 
+that they were bootleg merchandise&.
 
 I was skeptical of whether they would really glow&.
 
@@ -397,7 +397,7 @@ was more or less the same as the illustration I'd seen online&.
 I tried picking it up&.
 It was unexpectedly light&.
 I wondered what it was made of&, though it seemed like soft
-vinyl&.&.&.&.
+vinyl&.&.&.
 
 There was no blade&. The edge was slippery&, and of course it didn't
 hurt me in the slightest even when I stroked it with my fingers&.
@@ -407,26 +407,26 @@ lacked a sense of weight&, and more than anything else&, it didn't
 give me the sense that it could sever anything with the lightest of
 touches&.
 
-I wondered if perhaps it was a fake&.&.&.&.
+I wondered if perhaps it was a fake&.&.&.
 
 I was worried about it&, but there wasn't anything else in this store
 you could have called a Di-Sword&.
 
 Would this even shine in the first place?
 
-The Di-Sword FES had swung about at her show had glass parts embedded
-in its blade&, which let off a blue light and looked incredibly
-badass&.
+The Di-Sword FES had swung about at her show had glass parts
+embedded in its blade&, which let off a blue light
+and looked incredibly badass&.
 
 But there was no glass to be seen anywhere on the sword I had in
 hand&.
 
-Maybe I ought to give up on buying it&.&.&.&.
+Maybe I ought to give up on buying it&.&.&.
 
 This Di-Sword was so crudely made as to make me reach that
 conclusion&, never mind how long it had taken me to get here&.
 
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -456,11 +456,11 @@ if($３章あやせ妄想しない分岐 == true)
 <PRE box00>
 [text008]
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/06000020ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/06000020ay">
 "Hurry&. Find Your Sword&."
 
 //【あやせ】
-<voice name="あやせ" class="あやせ" src="ch03/06000030ay">
+<voice name="あやせ" class="あやせ" src="voice/ch03/06000030ay">
 "If you find your sword&, you will be saved&."
 
 </PRE>
@@ -491,7 +491,7 @@ else
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
---Find your sword&. Finding your sword will save you&.
+―Find your sword&. Finding your sword will save you&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -519,13 +519,13 @@ chance of obtaining a Di-Sword&.
 It looked cheap at the moment&, but maybe&, once it recognized me as
 its rightful master&, it would manifest a mysterious power&.
 
-Or maybe I'd seen too many anime and manga&.&.&.&.
+Or maybe I'd seen too many anime and manga&.&.&.
 
 But I had sensed just that sort of unknown power in FES and Sena's
 swords&.
-So even this sword must&.&.&.&.
+So even this sword must&.&.&.
 
-Hmmm&, what to do&.&.&.&.
+Hmmm&, what to do&.&.&.
 
 {	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg134_01_1_武器コーナー_a.jpg");
 	DrawTransition("背景１", 1000, 0, 1000, 100, null, "cg/data/right3.png", true);}
@@ -605,9 +605,9 @@ perform a return&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text012]
-This was a pretty intense type of humiliation play&.&.&.&.
+This was a pretty intense type of humiliation play&.&.&.
 
-Having to haul a huge toy like this down a fashionable street&.&.&.&.
+Having to haul a huge toy like this down a fashionable street&.&.&.
 
 //わざと「おねいさん」です
 As expected&, the delinquent couples and stylish ladies who passed me

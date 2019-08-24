@@ -84,13 +84,28 @@ function ChatPerson("$参加人数")
 ..SetChat
 function SetChat("ボックス名","$テキスト名",テキスト色)
 {
-	SetFont("ＭＳ ゴシック", 12, テキスト色, #000000, 500, LIGHTDOWN);
+	//SetFont("DroidMSGothic", 12, テキスト色, #000000, 500, LIGHTDOWN);
+	if(#SYSTEM_font_family==MSGothic){
+		$cFamName = "DroidMSGothic";
+		$cnsize = 16;
+	}else{
+		$cFamName = "DroidUbuntu";
+		$cnsize = 16;
+	}
+	SetFont($cFamName, $cnsize, テキスト色, #000000, 500, LIGHTDOWN);
 	LoadText("$構文名","ボックス名","$テキスト名",380,400,0,16);
 
-	Request("$テキスト名", NoIcon);
-	Request("$テキスト名", PushText);
-	Request("$テキスト名", NoLog);
-	Fade("$テキスト名", 0, 0, null, true);
+//	Request("$テキスト名", NoIcon);
+//	Request("$テキスト名", PushText);
+//	Request("$テキスト名", NoLog);
+//	Fade("$テキスト名", 0, 0, null, true);
+
+	Request("$SYSTEM_present_preprocess", Enter);
+	Request("$SYSTEM_present_preprocess", NoIcon);
+	Request("$SYSTEM_present_preprocess", PushText);
+	Request("$SYSTEM_present_preprocess", NoLog);
+	
+	Fade("$SYSTEM_present_text", 0, 0, null, true);
 
 	$色名 = "$テキスト名" + "/ChatLine";
 	CreateTexture("$色名", 1000, 0, OutBottom, "box01/ChatColor");
@@ -167,13 +182,6 @@ function TypeChat("タイム")
 
 	Wait(タイム);
 }
-
-
-
-
-
-
-
 
 ..NumberChat
 function NumberChat()

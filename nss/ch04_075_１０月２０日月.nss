@@ -36,45 +36,45 @@ function ch04_075_１０月２０日月()
 	CreateVOICE("星来１","ch04/07500010se");
 	SoundPlay("星来１",0,1000,false);
 
-	SetBacklog(""It's morning--! C'mon&, wake up! Wake u--p!"", "voice/ch04/07500010se", 星来);
+	SetBacklog(""It's morning-! C'mon&, wake up! Wake u―p!"", "voice/ch04/07500010se", 星来);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
 //ＶＦ//目覚ましのボイス
 //【星来】
-<voice name="星来" class="星来" src="ch04/07500010se">
+<voice name="星来" class="星来" src="voice/ch04/07500010se">
 "It's morning~! C'mon&, wake up! Wake uuup~!"
 
-{	SetBacklog("Seira-tan was calling me....", "null", null);}
-Seira-tan was calling me&.&.&.&.
+{	SetBacklog("Seira-tan was calling me...", "null", null);}
+Seira-tan was calling me&.&.&.
 
 {	SetBacklog("Burachu was great yesterday.", "null", null);}
 Burachu was great yesterday&.
 
 {	SetBacklog("Seira-tan played a huge role, and there'd been a sexy kissing scene.", "null", null);
-	SetBacklog("The sakuga quality was way up there&, too....", "null", null);}
+	SetBacklog("The sakuga quality was way up there&, too...", "null", null);}
 Seira-tan played a huge role&, and there'd been a sexy kissing scen<pre>e</pre>&.
-The sakuga quality was way up there&, too&.&.&.&.
+The sakuga quality was way up there&, too&.&.&.
 
 {	SoundStop2("星来１");
 //	CreateVOICE("星来２","ch04/07500020se");
 	SoundPlay("星来２",0,1000,false);
-	SetBacklog("If you wake up&, I'll give you a good-morning kiss, so.... What
+	SetBacklog("If you wake up&, I'll give you a good-morning kiss, so... What
 am I saying, stupid, stupid, just forget it!", "voice/ch04/07500020se", 星来);}
 //ＶＦ//目覚ましのボイス
 //【星来】
-<voice name="星来" class="星来" src="ch04/07500020se">
-"If you wake up&, I'll give you a good-morning kiss&, so&.&.&.&.
-What am I saying&, stupid&, stupid&, just forget it!" 
+<voice name="星来" class="星来" src="voice/ch04/07500020se">
+"If you wake up&, I'll give you a good-morning kiss&, so&.&.&.
+What am I saying&, stupid&, stupid&, just forget it!"
 
-{	SetBacklog("Seira-tan was calling me....!", "null", null);}
-Seira-tan was calling me&.&.&.&.!
+{	SetBacklog("Seira-tan was calling me...!", "null", null);}
+Seira-tan was calling me&.&.&.!
 
-{	SetBacklog("Plus, with her saying such moe things to me, I couldn't avoid 
-getting up....", "null", null);}
+{	SetBacklog("Plus, with her saying such moe things to me, I couldn't avoid
+getting up...", "null", null);}
 Plus&, with her saying such moe things to me&, I couldn't avoid getting
-up&.&.&.&.
+up&.&.&.
 
 {	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	MusicStart("SE01", 1000, 500, 0, 1000, null, true);
@@ -93,19 +93,19 @@ I peeled off the sheets covering me&, groaned&, and rose from the sofa&.
 	SetBacklog(""Hey! How long are you gonna keep sleeping&, you dum-dum!"", "voice/ch04/07500030se", 星来);}
 //ＶＦ//目覚ましのボイス
 //【星来】
-<voice name="星来" class="星来" src="ch04/07500030se">
+<voice name="星来" class="星来" src="voice/ch04/07500030se">
 "Hey! How long are you gonna keep sleeping&, you dum-dum!"
 
 {	SoundStop2("星来３");
 	CreateVOICE("星来４","ch04/07500040se");
 	SoundPlay("星来４",0,1000,false);
 	SetBacklog(""If it's come to this&, I'll hit you awake with my
-'Samurai☆Condenser'--"", "voice/ch04/07500040se", 星来);}
+'Samurai☆Condenser'―"", "voice/ch04/07500040se", 星来);}
 //サムライ☆コンデンサ＝金棒の名前です
 //【星来】
-<voice name="星来" class="星来" src="ch04/07500040se">
+<voice name="星来" class="星来" src="voice/ch04/07500040se">
 "If it's come to this&, I'll hit you awake with my
-'Samurai☆Condenser'--"
+'Samurai☆Condenser'―"
 {	$待ち時間 = RemainTime ("星来４");
 	$待ち時間 -= 200;
 	WaitKey($待ち時間);}
@@ -121,12 +121,12 @@ I peeled off the sheets covering me&, groaned&, and rose from the sofa&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-When I switched off the alarm clock&, Seira-tan's voice got cu<pre>t</pre> off in
-the middle of resounding through my room&.
+When I switched off the alarm clock&, Seira-tan's voice got
+cu<pre>t</pre> off in the middle of resounding through my room&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch04/07500050ta">
-"G'morning&, Seira&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch04/07500050ta">
+"G'morning&, Seira&.&.&."
 
 My Seira voice clock came in quite handy&.
 
@@ -139,7 +139,7 @@ started ringing&.
 
 Up until now&, I'd only failed at it twice&.
 
-It was so easier to wake up with Seira-tan's help&. 
+It was so easier to wake up with Seira-tan's help&.
 
 No&, in actuality&, I usually felt pretty awful from playing games
 till dawn or from how uncomfortable the sofa was&, but being woken
@@ -179,18 +179,18 @@ It was an odd dream&.
 
 It seemed terribly nostalgic&.
 It seemed terribly lonely&.
-It seemed terribly sad&. 
+It seemed terribly sad&.
 
 And it seemed terribly distant&.
 
-Would Rimi&.&.&.&. come to school today&.&.&.&.?
+Would Rimi&.&.&. come to school today&.&.&.?
 
 I had constantly kept thinking about what happened the day before
 yesterday&.
 I thought about it on and on&, to the point of neglecting ESO&.
 
 Not about "Shogun" having appeared&, or the illusion of everyone
-disappearing from Shibuya&.&.&.&.
+disappearing from Shibuya&.&.&.
 I didn't attach tremendous significance to those things&.
 
 Those must have been my delusions&.
@@ -203,7 +203,7 @@ It had been a delusion that particularly felt real&, but I was ashamed
 of myself for being so quick to believe in a situation so far removed
 from reality&.
 
-More than any of that&.&.&.&. Rimi&.
+More than any of that&.&.&. Rimi&.
 The girl I had called a demon until very recently&.
 
 </PRE>
@@ -243,7 +243,7 @@ sight of myself&.
 
 Why had Rimi saved me?
 
-I wondered if it was because&, as she'd said&.&.&.&. we were friends&.
+I wondered if it was because&, as she'd said&.&.&. we were friends&.
 
 I had not a single memory of things like her being in my class since
 freshman year&, or of us going to a movie with Misumi-kun&.
@@ -256,13 +256,13 @@ Rimi had been a little close to crying when she held me&.
 At the very least&, I didn't think it was an act&.
 
 She was the first girl to ever worry about and cry over a gross otaku
-like me&.&.&.&.
+like me&.&.&.
 
 When she acted like that toward me&, it instantly blew away all my
 previous dread and suspicion&.
 
 More than that&, it made me feel like I was on the verge of falling
-for her&.&.&.&. No&, but as you might expect&, I was keeping myself
+for her&.&.&. No&, but as you might expect&, I was keeping myself
 carefully reined in&.
 
 {	CreateColor("白１", 1000, 0, 0, 800, 600, "White");

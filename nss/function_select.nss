@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //======================================================================//
 //　選択肢用の設定
 //======================================================================//
@@ -62,10 +64,10 @@ function InitTrigger()
 
 function SetTrigger("$妄想トリガー名")
 {
-	//Stop skip and auto mode on delusion triggers
-	$SYSTEM_skip = false;
-	$SYSTEM_text_auto = false;
-	
+	if(#StopAutoAndSkip){
+		$SYSTEM_skip = false;
+		$SYSTEM_text_auto = false;
+	}
 	
 	WaitAction("@エンドトリガー");
 	
@@ -1152,7 +1154,7 @@ function StartWhich02()
 
 
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto=false;
+	$SYSTEM_text_auto = false;
 //	$SYSTEM_backselect_lock = true;
 
 }
@@ -1173,7 +1175,7 @@ function PreWhich02()
 	Zoom("セカイドア", 500, 200, 200, Dxl2, true);
 
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto=false;
+	$SYSTEM_text_auto = false;
 //	$SYSTEM_backselect_lock = true;
 }
 
@@ -2009,7 +2011,7 @@ function SetChoice02($テキストデータ１,$テキストデータ２)
 	$SYSTEM_text_erase_lock = true;
 	$SYSTEM_skip_lock = true;
 
-	SetFont("ＭＳ ゴシック", 22, #FFFFFF, #000000, 500, LEFTDOWN);
+	SetMainFont("DroidMSGothic", 22, #FFFFFF, #000000, 500, LEFTDOWN);
 
 	LoadImage("select_img","cg/sys/select/Select001.png");
 
@@ -2123,7 +2125,7 @@ function ChoiceB02()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2168,7 +2170,7 @@ function SetChoice03($テキストデータ１,$テキストデータ２,$テキストデータ３)
 	$SYSTEM_text_erase_lock = true;
 	$SYSTEM_skip_lock = true;
 
-	SetFont("ＭＳ ゴシック", 22, #FFFFFF, #000000, 500, LEFTDOWN);
+	SetMainFont("DroidMSGothic", 22, #FFFFFF, #000000, 500, LEFTDOWN);
 
 	LoadImage("select_img","cg/sys/select/Select001.png");
 
@@ -2222,7 +2224,7 @@ function SetChoice03($テキストデータ１,$テキストデータ２,$テキストデータ３)
 	SetNextFocus("@選択肢３/MouseUsual/選択肢３板１", "@選択肢１/MouseUsual/選択肢１板１", RIGHT);
 	
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto=false;
+	$SYSTEM_text_auto = false;
 //	$SYSTEM_backselect_lock = true;
 
 	Fade("@選択肢板*",0,0,null,false);
@@ -2303,7 +2305,7 @@ function ChoiceB03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2350,7 +2352,7 @@ function ChoiceC03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ３ = "【" + $テキストデータ３ + "】";
 

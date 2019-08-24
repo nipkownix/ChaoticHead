@@ -38,13 +38,17 @@ function ch07_129_インターミッション２７()
 //イメージＢＧ//地下鉄半蔵門線渋谷駅改札前
 //アイキャッチ
 
-	CreateMovie("アイキャッチ", 25000, 0, 0, false, true, "dx/mvF.ngs");	
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch07.png");
+	Fade("アイキャッチ１", 10, 1000, null, true);
+
+	WaitKey(3200);
+	IntermissionCard1();
+	
+	Delete("*");
 
 	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg169_01_3_半蔵門線渋谷駅改札_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
-
-	WaitAction("アイキャッチ", null);
-	Delete("アイキャッチ");
+	IntermissionCard2();
 
 //ＳＥ//半蔵門線ガヤ	
 	CreateSE("SE01","SE_背景_半蔵門線渋谷駅ガヤ_Loop");
@@ -73,9 +77,9 @@ There had been a report from an attendant yesterday morning&.
 
 When they first heard word that a high school girl was menacing
 someone with a colossal bladed object&, the jurisdictional officers
-came running&. 
+came running&.
 
-By the time they arrived&, however&, neither the high school girl 
+By the time they arrived&, however&, neither the high school girl
 nor the man she had allegedly assaulted were anywhere to be seen&.
 
 Upon hearing of the case by happenstance today&, Ban got himself
@@ -124,8 +128,8 @@ of the screen&.
 Located a short ways away from the turnstiles&, it was a place one
 wouldn't set foot in on the way to board or change trains&.
 
-And in fact&, the other passengers only cu<pre>t</pre> across the very front of
-the screen&.
+And in fact&, the other passengers only cu<pre>t</pre> across the
+very front of the screen&.
 
 The awful noise made it difficult to discern the man's appearance&,
 but he was rather skinny and short&. He wore a large rucksack on his
@@ -136,8 +140,8 @@ Ban couldn't figure out what he was doing there&.
 After he fast-forwarded through about an hour of tape&, a small change
 abruptly took place&.
 
-Several of the commuters who had been c<pre>u</pre>tting across the screen walked
-up to the man and halted&.
+Several of the commuters who had been c<pre>u</pre>tting across the
+screen walked up to the man and halted&.
 To Ban&, it almost appeared as though they were being pulled in by the
 man with the rucksack&.
 
@@ -148,9 +152,9 @@ Nor did the several people who had halted appear to be acquainted with
 each other&. They were different genders and ages&, with no common
 ground between them&.
 
-What in the world was going on--?
+What in the world was going on-?
 
-When Ban gazed at the monitor&, cocking his head&.&.&.&.
+When Ban gazed at the monitor&, cocking his head&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -175,7 +179,7 @@ As a matter of fact&, she pushed aside the loiterers and suddenly
 hauled the man up by his collar&.
 
 For some time&, the two of them quarreled&. Or rather&, it appeared
-more as if&.&.&.&. the girl was one-sidedly threatening him&.
+more as if&.&.&. the girl was one-sidedly threatening him&.
 
 Acting as though this had recalled them to themselves&, the people who
 had stopped there set off on their respective ways&.
@@ -190,9 +194,9 @@ hip&.
 She appeared to be carrying something&, but her hands were empty&.
 
 The report had stated that she was swinging around a large bladed
-weapon&, but where could she possibly be hiding such a thing&.&.&.&.
+weapon&, but where could she possibly be hiding such a thing&.&.&.
 
---The answer soon became evident&.
+―The answer soon became evident&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -209,14 +213,14 @@ weapon&, but where could she possibly be hiding such a thing&.&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-Without warning&, the screen--the camera shook&. This wasn't a form of
+Without warning&, the screen―the camera shook&. This wasn't a form of
 noise&. The way the hair and clothing of passing commuters fluttered
 made it clear that the camera doing the recording was actually
 shaking&.
 
 //【判】
-<voice name="判" class="判" src="ch07/12900010bn">
-"Wh&, what&.&.&.&.!?"
+<voice name="判" class="判" src="voice/ch07/12900010bn">
+"Wh&, what&.&.&.!?"
 
 Ban's eyes ate into the screen&.
 
@@ -233,8 +237,8 @@ At least&, the girl had kept her center of gravity low and stayed in
 place without budging an inch&.
 
 //【判】
-<voice name="判" class="判" src="ch07/12900020bn">
-"What kinda party trick is this&.&.&.&."
+<voice name="判" class="判" src="voice/ch07/12900020bn">
+"What kinda party trick is this&.&.&."
 
 The people captured in the monitor saw the sword the girl had
 materialized and burst into a commotion&.
@@ -249,7 +253,7 @@ But the girl wouldn't permit this&.
 Chasing the man with finely honed movements&, she swung that enormous
 sword with ease&.
 
-{	CreateMovie("剣１", 1000, 0, 0, false, false, "dx/mv軌跡01.ngs");
+{	CreateMovie("剣１", 1000, 0, 0, false, false, "dx/mvTrack01.ngs");
 	Fade("剣１", 0, 0, null, true);
 	Fade("剣１", 50, 1000, null, true);
 	Wait(200);
@@ -262,13 +266,13 @@ The force of the impact made him topple over&.
 
 However&, it didn't look like he'd been hurt&.
 
-And in reality&, the officer who came running to examine the sce<pre>n</pre>e
-after receiving a report about it had found not a single remnant of
-blood&.
+And in reality&, the officer who came running to examine
+the sce<pre>n</pre>e after receiving a report about it had found
+not a single remnant of blood&.
 
 //【判】
-<voice name="判" class="判" src="ch07/12900030bn">
-"What the heck&.&.&.&. is this girl&.&.&.&."
+<voice name="判" class="判" src="voice/ch07/12900030bn">
+"What the heck&.&.&. is this girl&.&.&."
 
 {	CreateTextureEX("セナ目アップ", 400, 0, 0, "cg/ev/ev075_01_3_半蔵門駅構内ビデオ_a.jpg");
 	SetVertex("セナ目アップ", 600, 100);
@@ -277,8 +281,8 @@ blood&.
 	Request("セナ目アップ", Smoothing);
 	Fade("セナ目アップ", 0, 1000, null, true);
 	Delete("ビデオ１");}
-As if she had heard his mutter--though it was a recorded tape&, so she
-couldn't have--the girl suddenly turned toward the camera&.
+As if she had heard his mutter―though it was a recorded tape&, so she
+couldn't have―the girl suddenly turned toward the camera&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -296,11 +300,11 @@ couldn't have--the girl suddenly turned toward the camera&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-The screen went slightly jumbled--
+The screen went slightly jumbled―
 
 //【判】
-<voice name="判" class="判" src="ch07/12900040bn">
-"Ah&.&.&.&.!"
+<voice name="判" class="判" src="voice/ch07/12900040bn">
+"Ah&.&.&.!"
 
 The girl's form disappeared instantaneously&.
 
@@ -316,8 +320,8 @@ Ban rewound the film again&.
 There was nothing unnatural-looking about the timestamp displayed at
 the lower right-hand side of the screen&.
 
-In other words&, this tape--
-It hadn't been edited--
+In other words&, this tape―
+It hadn't been edited―
 
 If so&, how was one supposed to explain away that girl and her sword?
 

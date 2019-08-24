@@ -84,7 +84,7 @@ if($妄想トリガー３１ == 2)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-For example--
+For example―
 
 Throwing my arms around one of the girls in the class while blurting
 the sorts of lewd lines one might hear in an eroge&.
@@ -103,7 +103,7 @@ c<pre>u</pre>tie&, someone who didn't seem likely to resist much&.
 Those delinquent harpies were out of the question&. They wore too much
 makeup for being in high school and weren't at all attractive&.
 
-Oh&, yeah&.&.&.&. the transfer student might work out well&.
+Oh&, yeah&.&.&. the transfer student might work out well&.
 
 She looked docile&. And she gave off a loli aura that just kind of
 made you want to bully her&.
@@ -112,7 +112,7 @@ And if I remembered right&, she was the clumsy type&. That part of her
 was pretty moe&, too&. In a certain sense&, it put her rather close to
 2-D characters&.
 
-Mm&, she might be good&.&.&.&. hehehe&.
+Mm&, she might be good&.&.&. hehehe&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -159,11 +159,11 @@ She sat shrunken in her chair&, facing down&.
 	FadeStand("bu梢_制服_正面_sad", 300, false);
 	DeleteStand("bu梢_制服_正面_normal", 300, true);}
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800010ko">
-"&.&.&.&.?" 
+<voice name="梢" class="梢" src="voice/ch07/13800010ko">
+"&.&.&.?"
 
-She looked up dubiously when she noticed me&. 
-For some reason&, she already looked as if she were going to cry&. 
+She looked up dubiously when she noticed me&.
+For some reason&, she already looked as if she were going to cry&.
 
 I abruptly grabbed her slim upper arm&.
 
@@ -181,11 +181,11 @@ I abruptly grabbed her slim upper arm&.
 [text003]
 //◆びっくり
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800020ko">
-"&.&.&.&." 
+<voice name="梢" class="梢" src="voice/ch07/13800020ko">
+"&.&.&."
 
-I pulled her toward me&. 
-She struggled weakly&. 
+I pulled her toward me&.
+She struggled weakly&.
 
 Confused&, or perhaps uncertain of what to do&, she looked back and
 forth between me and those around us&.
@@ -196,8 +196,8 @@ forth between me and those around us&.
 	Fade("huhi2", 1000, 1000, null, true);
 	Delete("huhi1");}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800030ta">
-"Hehe&.&.&.&. Hehehe&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800030ta">
+"Hehe&.&.&. Hehehe&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -221,7 +221,7 @@ She was as remarkably thin as she looked&, enough to make me think
 that she'd break straightaway if I treated her violently&. And she was
 trembling like a Chihuahua&.
 
-But&.&.&.&. she smelled nice&.&.&.&.
+But&.&.&. she smelled nice&.&.&.
 
 She was about a head shorter than me; I rubbed my face against her
 head&.
@@ -236,42 +236,42 @@ I buried my nose in her soft hair and sniffed its scent&.
 [text004]
 //◆怯えるブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800040ko">
-"&.&.&.&.&.&.&.&.!?" 
+<voice name="梢" class="梢" src="voice/ch07/13800040ko">
+"&.&.&.&.&.&.!?"
 
-She seemed too frightened to speak&. 
+She seemed too frightened to speak&.
 Although I'd never actually seen her talk before&, come to think of
-it&. 
+it&.
 
 She twisted her body in an attempt to wriggle out of my grasp&. But
-the strength she put into it was nothing to write home about&. 
+the strength she put into it was nothing to write home about&.
 
 Even I&, who normally performed no physical activity and had zero
-muscular bulk&, was able to easily suppress her&. 
+muscular bulk&, was able to easily suppress her&.
 
 The juvies around us had frozen in place&, unmoving&, as if taken
 aback by my unconventional behavior&.
 
 //◆怯えるブレス
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800050ko">
-"&.&.&.&." 
+<voice name="梢" class="梢" src="voice/ch07/13800050ko">
+"&.&.&."
 
 As the transfer student shook her head&, I licked her earlobe&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800060ko">
-"----" 
+<voice name="梢" class="梢" src="voice/ch07/13800060ko">
+"――"
 
 Her delicate body jolted&.
 
-What a great reaction&. 
+What a great reaction&.
 
 I was getting more and more aroused&. I was ready to go wherever my
-lust led me&, without thinking of the consequences&. 
+lust led me&, without thinking of the consequences&.
 
-First&, some dirty talk&. 
-I'd make the timid transfer student use obsce<pre>n</pre>e words&. 
+First&, some dirty talk&.
+I'd make the timid transfer student use obsce<pre>n</pre>e words&.
 Hehehe&, so erotic&.
 
 </PRE>
@@ -282,61 +282,61 @@ Hehehe&, so erotic&.
 <PRE box00>
 [text005]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800070ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800070ta">
 "Say cock-a-doodle-doo&."
 
 //◆泣く
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800080ko">
-"&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/13800080ko">
+"&.&.&."
 
 Her face instantly went red&. Tears welled in her eyes&, and she shook
 her head more frantically than before&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800090ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800090ta">
 "Say pussycat&."
 
 //◆泣く
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800100ko">
-"&.&.&.&."
+<voice name="梢" class="梢" src="voice/ch07/13800100ko">
+"&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800110ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800110ta">
 "Say sperm whale&."
 
 //◆泣く
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800120ko">
+<voice name="梢" class="梢" src="voice/ch07/13800120ko">
 "gh"
 
-Her gestures of unwillingness incited me to further sadism&. 
+Her gestures of unwillingness incited me to further sadism&.
 
 Public assault was pretty much the only choice left here&. I'd reenact
-my favorite H-sce<pre>n</pre>e from the eroge "Rape Academy Year 2: The Honey
-Class&." 
+my favorite H-sce<pre>n</pre>e from the eroge
+"Rape Academy Year 2: The Honey Class&."
 
 I slowly slid my hands from her breasts to her stomach&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800130ko">
-"--"
+<voice name="梢" class="梢" src="voice/ch07/13800130ko">
+"―"
 
 Her body quivered&.
-The energy with which she resisted was diminishing&. 
+The energy with which she resisted was diminishing&.
 
-"So mortifying&, but I'm feeling it!" or something like that? 
+"So mortifying&, but I'm feeling it!" or something like that?
 
 Hehehe&, she had a c<pre>u</pre>te face&, but what a slut&.
 
 Unable to hold back the laughter rising in me&, I broke into a grin
-and thrust my hand into her skirt--
+and thrust my hand into her skirt―
 
 //◆声にならない悲鳴
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800140ko">
-"Ah--"
+<voice name="梢" class="梢" src="voice/ch07/13800140ko">
+"Ah―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -364,12 +364,12 @@ and thrust my hand into her skirt--
 <PRE box00>
 [text006]
 I immersed myself in such delusions while sitting at my seat&, face
-lowered&. 
+lowered&.
 
 Even now&, the transfer student was writhing indecorously in my head&,
-lovely moans spilling from her mouth&. 
+lovely moans spilling from her mouth&.
 
-Hehehe&. Outta this world&. 
+Hehehe&. Outta this world&.
 
 If my life were gonna end anyway&, I'd like to finish things off by
 experiencing something that enjoyable&.
@@ -400,12 +400,12 @@ if($妄想トリガー３１ == 1)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-For example-- 
+For example―
 
-Screaming wildly&, picking up my chair&, and attacking a juvie&. 
+Screaming wildly&, picking up my chair&, and attacking a juvie&.
 
-It'd feel so good to bust those fools--always getting too carried
-away--with the iron hammer of my wrath&.
+It'd feel so good to bust those fools―always getting too carried
+away―with the iron hammer of my wrath&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -429,7 +429,7 @@ away--with the iron hammer of my wrath&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-I slowly rose from my seat&. 
+I slowly rose from my seat&.
 
 Unaware that they were about to be smitten by God's judgment&, the
 delinquents went on grinning at me&.
@@ -444,11 +444,11 @@ actions&.
 //ガヤ停止
 {	SetVolume("SE01", 500, 0, null);}
 //【生徒Ｃ】
-<voice name="生徒Ｃ" class="生徒Ｃ" src="ch07/13800150ec">
-"&.&.&.&.Ah?"
+<voice name="生徒Ｃ" class="生徒Ｃ" src="voice/ch07/13800150ec">
+"&.&.&.Ah?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800160ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800160ta">
 "AAAAAAAAAHH!"
 
 </PRE>
@@ -487,7 +487,7 @@ He collapsed in place&, and in the blink of an eye&, a pool of blood
 began to spread across the floor&.
 
 {	SetVolume("SE01", 0, 0, null);}
-For a moment&, the classroom was enveloped in silence--
+For a moment&, the classroom was enveloped in silence―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -500,9 +500,9 @@ For a moment&, the classroom was enveloped in silence--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-But disorder soon erupted&. 
+But disorder soon erupted&.
 Both girls and guys screamed&, looking at me with terror in their eyes
-and running away without a thought for anyone else&. 
+and running away without a thought for anyone else&.
 
 While coolly watching them disgrace themselves&, I took the chair one
 more time and slammed it down with all my strength on the delinquent
@@ -528,23 +528,23 @@ who lay collapsed at my feet&, motionless&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-His body convulsed&. 
+His body convulsed&.
 
 But whether because he'd passed out or because he'd already died&, he
-didn't make a sound&. 
+didn't make a sound&.
 
-I got a little freaked out&. 
+I got a little freaked out&.
 
 If I went easy on him here&, who knew when he might get up and launch
-a counterattack&. 
+a counterattack&.
 
 He was a juvie&, so he might be used to walking around with a knife or
-two in his school bag&. 
+two in his school bag&.
 
 I'd already resigned myself to the fact that my life was done with&,
-but I didn't like pain&. 
+but I didn't like pain&.
 
-I had to kill him&.&.&.&. 
+I had to kill him&.&.&.
 I couldn't pull back until I was sure of his death&.
 
 </PRE>
@@ -589,7 +589,7 @@ I crashed the chair into his head for a third time&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text013]
-And again--
+And again―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -610,7 +610,7 @@ And again--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text014]
-And again--
+And again―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -631,7 +631,7 @@ And again--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text015]
-And again--
+And again―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -652,7 +652,7 @@ And again--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text016]
-And another blow--
+And another blow―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -680,12 +680,12 @@ And another blow--
 <PRE box00>
 [text017]
 I immersed myself in such delusions while sitting at my seat&, face
-lowered&. 
+lowered&.
 
 Hehehe&. How pleasurable&.
 
 There was currently a bit of splatter horror playing back in my
-brain&. 
+brain&.
 Ahh&, I seriously wanted to beat them all to death&.
 
 </PRE>
@@ -715,21 +715,21 @@ if($妄想トリガー３１ == 0)
 <PRE box00>
 [text018]
 I had a go at brightening my mood by murdered the juvies in my head&.
-But it wasn't enough to ease my humiliation&. 
+But it wasn't enough to ease my humiliation&.
 
 On top of that&, the juvies from before were still provoking me in
 loud voices that resounded through the classroom&.
 
 //【生徒Ｃ】
-<voice name="生徒Ｃ" class="生徒Ｃ" src="ch07/13800170ec">
+<voice name="生徒Ｃ" class="生徒Ｃ" src="voice/ch07/13800170ec">
 "Hey&, why won't you die?"
 
 //【生徒Ｃ】
-<voice name="生徒Ｃ" class="生徒Ｃ" src="ch07/13800180ec">
+<voice name="生徒Ｃ" class="生徒Ｃ" src="voice/ch07/13800180ec">
 "Isn't it hard&, being alive?"
 
 //【生徒Ａ】
-<voice name="生徒Ａ" class="生徒Ａ" src="ch07/13800190ea">
+<voice name="生徒Ａ" class="生徒Ａ" src="voice/ch07/13800190ea">
 "Want us to help?"
 
 </PRE>
@@ -742,11 +742,11 @@ loud voices that resounded through the classroom&.
 <PRE box00>
 [text019]
 //【生徒Ａ】
-<voice name="生徒Ａ" class="生徒Ａ" src="ch07/13800200ea">
+<voice name="生徒Ａ" class="生徒Ａ" src="voice/ch07/13800200ea">
 "Gyahahahahahaha"
 
 //【生徒Ｂ】
-<voice name="生徒Ｂ" class="生徒Ｂ" src="ch07/13800210eb">
+<voice name="生徒Ｂ" class="生徒Ｂ" src="voice/ch07/13800210eb">
 "Gyahahahahahaha"
 
 </PRE>
@@ -756,19 +756,19 @@ loud voices that resounded through the classroom&.
 
 /*
 //【生徒Ｃ】
-<voice name="生徒Ｃ" class="生徒Ｃ" src="ch07/13800220ec">
+<voice name="生徒Ｃ" class="生徒Ｃ" src="voice/ch07/13800220ec">
 「ギャハハハハハハ」
 
 //【女子Ａ】
-<voice name="女子Ａ" class="女子Ａ" src="ch07/13800230wa">
+<voice name="女子Ａ" class="女子Ａ" src="voice/ch07/13800230wa">
 「ギャハハハハハハ」
 
 //【女子Ｂ】
-<voice name="女子Ｂ" class="女子Ｂ" src="ch07/13800240wb">
+<voice name="女子Ｂ" class="女子Ｂ" src="voice/ch07/13800240wb">
 「ギャハハハハハハ」
 
 //【女子Ｃ】
-<voice name="女子Ｃ" class="女子Ｃ" src="ch07/13800250wc">
+<voice name="女子Ｃ" class="女子Ｃ" src="voice/ch07/13800250wc">
 「ギャハハハハハハ」
 */
 
@@ -778,27 +778,27 @@ loud voices that resounded through the classroom&.
 <PRE box00>
 [text020]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800260ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800260ta">
+"&.&.&.&.&.&.&."
 
-Frantic&, I bore it by covering my ears&. 
+Frantic&, I bore it by covering my ears&.
 
-I wanted to kill them&. 
+I wanted to kill them&.
 
 I wanted to sacrifice them to my Di-Sword&. I imagined the sword I
 swung splitting their heads&, gnawing through their hearts&, and
 c<pre>u</pre>tting their torsos clean in two&.
 
-Die&.&.&.&. 
+Die&.&.&.
 
-Die&.&.&.&.! 
+Die&.&.&.!
 
-Die! 
+Die!
 
-DIE! 
+DIE!
 
 I didn't have a Di-Sword&, but I could buy a long butcher knife
-anywhere&. 
+anywhere&.
 Their lives were worth less than that of a maggot&, and I'd use my own
 hands to crush the life out of them&.
 
@@ -835,7 +835,7 @@ Everyone would totally forget how I'd shamed myself&.
 
 No one would mock me&.
 
---I oughta try it&.
+―I oughta try it&.
 
 My mind went dazed&.
 Maybe I had a small fever&.
@@ -845,7 +845,7 @@ Or a delusion-induced fever? Not that such a phrase existed&.
 
 Meh&, whatever&.
 
---I oughta try it&.
+―I oughta try it&.
 
 Even if I couldn't go back to the previous world&, they'd only think I
 was crazy&. No&, they probably already thought so&. I had nothing left
@@ -881,13 +881,13 @@ I lost the ability to suppress my magma-like urges&.
 I slowly rose from my seat&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800270ta">
-"Hehehe&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800270ta">
+"Hehehe&.&.&."
 
-I couldn't prevent laughter from swelling in me&. 
-Everyone in the class regarded me with strained expressions&. 
+I couldn't prevent laughter from swelling in me&.
+Everyone in the class regarded me with strained expressions&.
 
---Don't look&. 
+―Don't look&.
 
 There's no value in looking at someone like me&.
 
@@ -902,51 +902,51 @@ There's no value in looking at someone like me&.
 <PRE box00>
 [text022]
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800280ko">
-"If you mean value--" 
+<voice name="梢" class="梢" src="voice/ch07/13800280ko">
+"If you mean value―"
 
 Suddenly&,
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800290ko">
-"You have it!" 
+<voice name="梢" class="梢" src="voice/ch07/13800290ko">
+"You have it!"
 
 I heard
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800300ta">
-"&.&.&.&.&.&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800300ta">
+"&.&.&.&.&.&.&.?"
 
-A girl's voice&.&.&.&.
-
-//【梢】
-<voice name="梢" class="梢" src="ch07/13800310ko">
-"You have lots and lots of value!" 
-
-On top of that&, such an anime voice&.&.&.&.
+A girl's voice&.&.&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800320ko">
+<voice name="梢" class="梢" src="voice/ch07/13800310ko">
+"You have lots and lots of value!"
+
+On top of that&, such an anime voice&.&.&.
+
+//【梢】
+<voice name="梢" class="梢" src="voice/ch07/13800320ko">
 "You were the one who saved the girl who tried to jump off and kill
 herself!"
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800330ko">
-"So&, so&, you have lots and loooots of value&." 
+<voice name="梢" class="梢" src="voice/ch07/13800330ko">
+"So&, so&, you have lots and loooots of value&."
 
-Wh&.&.&.&. who? 
-Who the heck was talking to me? 
+Wh&.&.&. who?
+Who the heck was talking to me?
 
-I looked around the classroom one more time&. 
+I looked around the classroom one more time&.
 Everyone had gone petrified&, their mouths closed&, in response to my
-suspicious behavior&. 
-I couldn't spot anyone who seemed to be speaking&. 
+suspicious behavior&.
+I couldn't spot anyone who seemed to be speaking&.
 
-For starters&, this voice-- 
+For starters&, this voice―
 It gave me a weird sensation&, like it was resonating directly inside
-my head&. 
+my head&.
 
-An aural hallucination? 
+An aural hallucination?
 Or had I created a new delusionary girl?
 
 </PRE>
@@ -957,60 +957,60 @@ Or had I created a new delusionary girl?
 <PRE box00>
 [text023]
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800340ko">
+<voice name="梢" class="梢" src="voice/ch07/13800340ko">
 "I'm not a hallucination&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800350ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800350ta">
+"&.&.&.!"
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800360ko">
-"And I'm noooot a delusion&, either&." 
+<voice name="梢" class="梢" src="voice/ch07/13800360ko">
+"And I'm noooot a delusion&, either&."
 
-Eh? Wh&, what just happened&.&.&.&.? 
+Eh? Wh&, what just happened&.&.&.?
 
-She'd answered my thoughts&. 
+She'd answered my thoughts&.
 
-Had she read my mind? 
+Had she read my mind?
 
-No&, it must be imaginary&.&.&.&.
+No&, it must be imaginary&.&.&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800370ko">
+<voice name="梢" class="梢" src="voice/ch07/13800370ko">
 "Kozu-pii is over here&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800380ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800380ta">
 "Whaddaya mean&, Kozu-pii!?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800390ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800390ta">
 "Wh&, where is here!?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/13800400ta">
-"Who are you!?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/13800400ta">
+"Who are you!?"
 
 When I shouted&, my classmates scooted away from me as though
 fleeing&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800410ko">
+<voice name="梢" class="梢" src="voice/ch07/13800410ko">
 "It's totally&, tooootally wrong to say you don't have any value&,
-Nishijou-kun&." 
+Nishijou-kun&."
 
 The voice didn't answer my questions&.
 
 It continued talking&, using peculiar intonation&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800420ko">
+<voice name="梢" class="梢" src="voice/ch07/13800420ko">
 "In fact&, in faaaact&,"
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800430ko">
-"Everyone in the class who says mean things about you--"
+<voice name="梢" class="梢" src="voice/ch07/13800430ko">
+"Everyone in the class who says mean things about you―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1021,29 +1021,29 @@ It continued talking&, using peculiar intonation&.
 [text024]
 //◆明るく
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800440ko">
+<voice name="梢" class="梢" src="voice/ch07/13800440ko">
 "They're worthless&."
 
 I went cold&.
-I had goosebumps&. 
+I had goosebumps&.
 
-This is what she said 
+This is what she said
 In a very bright and cheerful tone&.
 
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800450ko">
+<voice name="梢" class="梢" src="voice/ch07/13800450ko">
 "I think it'd be okay"
 
 //◆明るく
 //【梢】
-<voice name="梢" class="梢" src="ch07/13800460ko">
+<voice name="梢" class="梢" src="voice/ch07/13800460ko">
 "Even if you killed them ♪"
 
 {	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg018_01_0_教室席視線_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
 	DrawTransition("背景１", 300, 0, 1000, 100, null, "cg/data/right.png", true);
 	Delete("背景２");}
-&.&.&.&.Stop it already&.
+&.&.&.Stop it already&.
 
 Hunched over in my seat&, I held my head&.
 

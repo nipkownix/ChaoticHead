@@ -47,53 +47,53 @@ function ch07_150_ÉCÉìÉ^Å[É~ÉbÉVÉáÉìÇRÇPÇÇ()
 <PRE box00>
 [text001]
 Since early age&, Kozue had possessed a unique predisposition to see
-into others' hearts&. 
+into others' hearts&.
 
 Even so&, she faced this ability in her own way&, and somehow&, she
 had managed to lead a peaceful lifestyle by concealing it from other
-people&. 
+people&.
 
-The change began with "mirrors&." 
+The change began with "mirrors&."
 
 Once she entered high school&, Kozue began to frequently spot the
-reflections of "mirrors" as she went about her everyday life&. 
+reflections of "mirrors" as she went about her everyday life&.
 
-At first she had thought it a mere coincidence&. 
+At first she had thought it a mere coincidence&.
 It happened only about once or twice a day&.
 
-But as the months went by&, that frequency gradually increased&. 
+But as the months went by&, that frequency gradually increased&.
 
 She would encounter people in possession of "mirrors" over ten times
-per day&. 
+per day&.
 
-Those encounters themselves were nothing special--she saw people
+Those encounters themselves were nothing specialÅ\she saw people
 passing her on the road carrying mirrors&, or students in the same
-grade as her fixing their makeup in the bathroom&, nothing more&. 
+grade as her fixing their makeup in the bathroom&, nothing more&.
 
 But whether it was a coincidence or something intentional&, the
-reflection in the "mirrors" almost inevitably struck her eye&. 
+reflection in the "mirrors" almost inevitably struck her eye&.
 
 At last those who bore the "mirrors&," all of them&, began speaking to
-her in "voices containing insinuating laughter&." 
+her in "voices containing insinuating laughter&."
 
-They called out to Kozue in her heart&, asking&, "Who are you?" 
+They called out to Kozue in her heart&, asking&, "Who are you?"
 
 In her classroom&, in the school building&, on the way to school&,
-while she was shopping; such people appeared wherever she went&. 
+while she was shopping; such people appeared wherever she went&.
 
-It wasn't any particular person&. 
-On the contrary&, there were different people each time&. 
+It wasn't any particular person&.
+On the contrary&, there were different people each time&.
 
-But to Kozue&, 
+But to Kozue&,
 
 Everyone holding a "mirror" began to seem suspicious&.
-Everyone "laughing insinuatingly" began to seem suspicious&. 
+Everyone "laughing insinuatingly" began to seem suspicious&.
 
 At last she began to have the hallucination that even those without
-"mirrors" were asking her&, "Who are you?" 
+"mirrors" were asking her&, "Who are you?"
 
 She became borderline neurotic&, and those internal voices clung to
-the depths of her ears&, refusing to leave&. 
+the depths of her ears&, refusing to leave&.
 
 One day&, Kozue faced a mirror reflecting her&, and murmured&,
 
@@ -108,7 +108,7 @@ One day&, Kozue faced a mirror reflecting her&, and murmured&,
 <PRE box00>
 [text002]
 //ÅyèΩÅz
-<voice name="èΩ" class="èΩ" src="ch07/15000010ko">
+<voice name="èΩ" class="èΩ" src="voice/ch07/15000010ko">
 "Who are you?"
 
 {	Stand("buèΩ_éÑïû_í èÌ","sad", 200,@0);
@@ -120,20 +120,20 @@ A girl with the same face as her called to her from beyond the
 mirror&.
 
 //ÅyèΩÅz
-<voice name="èΩ" class="èΩ" src="ch07/15000020ko">
-"Who are you?" 
+<voice name="èΩ" class="èΩ" src="voice/ch07/15000020ko">
+"Who are you?"
 
-Ever since&, she ceased speaking&. 
-She became unable to look at mirrors&. 
+Ever since&, she ceased speaking&.
+She became unable to look at mirrors&.
 
-Despite that&, the demands of "Who are you?" continued to reach her&. 
+Despite that&, the demands of "Who are you?" continued to reach her&.
 
-She could no longer even tell whose inner voice it was&. 
+She could no longer even tell whose inner voice it was&.
 
 A broken fax machine&, incapable of blocking incoming transmissions&.
 Considering the conditions set by her unique predisposition to hear
 the voices of other people's hearts&, there was nothing she could do
-about it&. 
+about it&.
 
 Kozue's heart went to pieces&.
 
@@ -176,7 +176,7 @@ She didn't care which&.
 Kozue's heart&, which had been strained for over a year&, broke with
 the sound of something crushing&.
 
-Before she knew it&, she was screaming--rather&, shrieking&.
+Before she knew it&, she was screamingÅ\rather&, shrieking&.
 Her instinctive "desire to kill" controlled her&.
 
 For the first time&, she seized the Di-Sword she could see at the edge
@@ -188,7 +188,7 @@ She attacked her three classmates&.
 	DrawTransition("ê‘", 300, 0, 1000, 100, null, "cg/data/ÉâÉìÉ_ÉÄ.png", true);
 	Wait(500);}
 With her real-booted Di-Sword&, she severed their mirror-holding right
-hands in an instant--
+hands in an instantÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

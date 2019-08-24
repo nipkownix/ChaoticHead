@@ -116,21 +116,21 @@ little&, but she also had an atmosphere with her that made me think
 maybe&, if I stayed with her&, I would start feeling brighter as
 well&.
 
-With what kind of expression should I go meet her&.&.&.&.?
+With what kind of expression should I go meet her&.&.&.?
 
 I definitely didn't think of Rimi as a demon anymore&.
 
-But I didn't think of her as a friend either&. 
+But I didn't think of her as a friend either&.
 
 Misumi-kun had said that Rimi and I had got along well as classmates
-for the past year and a half&, but&.&.&.&. I had no memory of anything
+for the past year and a half&, but&.&.&. I had no memory of anything
 of the sort&.
 
 Perhaps something was going wrong with the person behind me&, after
 all&.
 
 But was it possible for my memories of Rimi
-To disappear like that&, as if they'd been pinpointed&.&.&.&.
+To disappear like that&, as if they'd been pinpointed&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

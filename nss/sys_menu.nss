@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■メニュー■
 //=============================================================================//
@@ -29,14 +31,14 @@ chapter main
 	CreateTexture("mnuAUTOMSG/MouseOver/img",10,440,142,"cg/sys/menu/自動メッセージ送り002.png");
 	CreateTexture("mnuAUTOMSG/MouseClick/img",10,440,142,"cg/sys/menu/自動メッセージ送り003.png");
 	
-	if(!#下着パッチ) {
-		CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
-	}else {
-		CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
-	}
-	CreateTexture("mnuCANCEL/MouseUsual/img",10,440,90,"mnu_img_CANCEL");
-	CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"cg/sys/menu/LCS2.png");
-	CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"cg/sys/menu/LCS3.png");
+	//if(!#下着パッチ) {
+	//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
+	//}else {
+	//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
+	//}
+	//CreateTexture("mnuCANCEL/MouseUsual/img",10,440,90,"mnu_img_CANCEL");
+	//CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"cg/sys/menu/LCS2.png");
+	//CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"cg/sys/menu/LCS3.png");
 	
 	CreateTexture("mnu_img_MESSAGE",10,440,116,"cg/sys/menu/メッセージを消す001.png");
 	CreateTexture("mnuMESSAGE/MouseUsual/img",10,440,116,"cg/sys/menu/メッセージを消す001.png");
@@ -176,12 +178,13 @@ chapter main
 	while($SYSTEM_menu_enable){
 		select{
 			case	mnuCANCEL{
-				#下着パッチ=!#下着パッチ;
-				if(!#下着パッチ) {
-					CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
-				}else {
-					CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
-				}
+				//LCS should be toggled through the config menu
+				//#下着パッチ=!#下着パッチ;
+				//if(!#下着パッチ) {
+				//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
+				//}else {
+				//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
+				//}
 				$SYSTEM_menu_enable=false;
 			}case	mnuMESSAGE{
 				if(!$SYSTEM_text_erase_lock){
@@ -222,8 +225,8 @@ chapter main
 			}case	mnuFULL{
 				#SYSTEM_window_full=!#SYSTEM_window_full;
 			}case	mnuCONFIG{
-				$SYSTEM_menu_enable=false;
 				call_chapter nss/sys_config.nss;
+				$SYSTEM_menu_enable=true;
 			}case	mnuRESET{
 				call_chapter nss/sys_reset.nss;
 				$SYSTEM_menu_enable=true;
@@ -237,7 +240,19 @@ chapter main
 			
 			if(!$SYSTEM_menu_enable){break;}
 			
-			if($SYSTEM_menu_close_enable){call_chapter nss/sys_close.nss;}
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
+			}else if($SYSTEM_menu_enable&&$SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
+				call_chapter nss/sys_close.nss;
+				$SYSTEM_buttondown_close=false;
+				$SYSTEM_keydown_esc=false;
+			}
 		}
 	}
 	Fade("mnu*/*/*",0,0,null,false);

@@ -64,15 +64,15 @@ still lingered inside me&.
 
 It was such a gory and sickening image&.
 Once I looked at it&, I wouldn't be able to keep my mind from calling
-up associated memories of the sce<pre>ne</pre> of the staking murder I'd seen in
-real life&.
+up associated memories of the sce<pre>ne</pre> of the staking
+murder I'd seen in real life&.
 
-No&, but&.&.&.&.
+No&, but&.&.&.
 I had to do it&, to prove Yua wrong&, to guarantee my own safety&, and
 to assert my innocence&.
 
 Seira-tan was watching over me&, so I'd have to try enduring the guro
-factor for a little longer&.&.&.&.
+factor for a little longer&.&.&.
 
 {	CreateSE("SE02","SE_ì˙èÌ_â∆ãÔ_ÉCÉX_Áa");
 	SoundPlay("SE02", 0, 1000, false);
@@ -111,30 +111,30 @@ Mustering my courage&, I double-clicked to open the file&.
 <PRE box00>
 [text002]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700010ta">
-"Urgh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700010ta">
+"Urgh&.&.&."
 
-No matter what&, it was still foul&.&.&.&.
+No matter what&, it was still foul&.&.&.
 But it wasn't such a big deal compared to the "staking" I had seen in
-person&. And if I thought of it as a composite&, I could just barely 
+person&. And if I thought of it as a composite&, I could just barely
 bring myself to tolerate it&.
 
 When he first sent it to me&, I'd only taken a fast look before
 closing it&. I hadn't scrutinized its every nook and cranny&.
 
-This time&, fighting back nausea&, I examined the image closely&. 
+This time&, fighting back nausea&, I examined the image closely&.
 
-I didn't know much about how to tell whether or not an image had 
-been 'shopped&, but I figured it'd be okay if I paid attention to 
-things like the direction of the shadows and if anything in the 
-sce<pre>ne</pre>ry felt off&.&.&.&.
+I didn't know much about how to tell whether or not an image had
+been 'shopped&, but I figured it'd be okay if I paid attention to
+things like the direction of the shadows and if anything in the
+sce<pre>ne</pre>ry felt off&.&.&.
 
 One possibility was that it had been created by combining previously
 taken background photographs with a CG version of the pinned-up
 corpse&.
 
 And the day after "Shogun" sent it to me&, the murderer had put the
-killing method this photo illustrated into action&.&.&.&.
+killing method this photo illustrated into action&.&.&.
 
 Due to the pixellation and the dim lighting of the nailed-up body
 shown in the photograph&, I was only able to make out the stakes and
@@ -143,13 +143,13 @@ couldn't see much of the body itself&.
 The light hit the area "only" around the pinned-up corpse&, making it
 seem as though the staked parts were saying&, come on&, look at me&,
 please&. It felt like the person who "made" the picture had
-intentionally arranged it that way&. 
+intentionally arranged it that way&.
 
 For starters&, it was kind of overdoing it to solely spotlight the
 body&.
 
-Well&, I hadn't closely studied the actual crime sce<pre>ne</pre>&, so I wasn't
-really in a position to say anything&. 
+Well&, I hadn't closely studied the actual crime sce<pre>ne</pre>&,
+so I wasn't really in a position to say anything&.
 
 In the photo&, that demon girl wasn't standing in front of the
 nailed-in body&.
@@ -230,39 +230,39 @@ and brightened the image's dark parts&.&.&.
 <PRE box00>
 [text004]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700020ta">
-"Eh&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700020ta">
+"Eh&.&.&.?"
 
 {	CreateSE("SE02","SE_êlëÃ_êSëü_å€ìÆ_Loop");
 	SoundPlay("SE02", 0, 1000, true);}
 //ÇrÇd//êSëüÇÃå€ìÆ
-What's this&.&.&.&.?
+What's this&.&.&.?
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700030ta">
-"Haa&.&.&.&. Haa&.&.&.&. Eh? Eh? &.&.&.&.Wha&, eh? What is
-this&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700030ta">
+"Haa&.&.&. Haa&.&.&. Eh? Eh? &.&.&.Wha&, eh? What is
+this&.&.&."
 
 The one photographed there&.&.&.
 
 No matter how you looked at it&, the one photographed there&.&.&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700040ta">
-"It's&.&.&.&. me&.&.&.&." 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700040ta">
+"It's&.&.&. me&.&.&."
 
 Why&, why was I there?
 
-It was outlandish&. 
-Because I hadn't gone to that place once since September 29th&.&.&.&. 
+It was outlandish&.
+Because I hadn't gone to that place once since September 29th&.&.&.
 
-This had been 'shopped in&, too&, no question about it&.&.&.&.
+This had been 'shopped in&, too&, no question about it&.&.&.
 I couldn't find the slightest evidence to prove it&, but it was
-obviously a composite! 
+obviously a composite!
 If not&, it'd be crazy!
 
-Besides&, "Shogun" had sent me the image on the 28th&. 
-And the "staking" murder had occurred on the 29th&. 
+Besides&, "Shogun" had sent me the image on the 28th&.
+And the "staking" murder had occurred on the 29th&.
 
 If this picture was a picture of the same place where the crime
 happened on the 29th&, my being there would make it a photo of the
@@ -281,12 +281,12 @@ future!
 
 	MusicStart("@CH*", 100, 0, 0, 0, null, false);
 
-<voice name="óDà§" class="óDà§" src="ch02/03700050yu">
+<voice name="óDà§" class="óDà§" src="voice/ch02/03700050yu">
 
 	CreateColor("êFÇP", 150, 0, 0, 800, 600, "Black");
 	Fade("êFÇP", 0, 1000, null, true);
 	Wait(300);
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ÉeÉLÉXÉgÇP", 200, center, middle, Auto, Auto, "Do you have precognitive powers?");
 
 	CreateVOICE("óDà§","ch02/03700050yu");
@@ -344,7 +344,7 @@ future!
 [text005]
 //ÇaÇf//ëÒñ§ÇÃïîâÆ
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700060ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700060ta">
 "Shut up! Of course I don't!"
 
 {	CreateSE("SE01","SE_ì˙èÌ_PC_ÉnÅ[ÉhÉfÉBÉXÉN_Loop");
@@ -354,7 +354,7 @@ closed the image editing program&.
 
 I opened the jpg file properties to check the date it had been
 created&.
-And&.&.&.&. I've been shocked&.
+And&.&.&. I've been shocked&.
 
 It had been created on the 28th&.
 But that had already stopped mattering to me&.
@@ -376,8 +376,8 @@ nailed to&.
 //ÇaÇf//ëÒñ§ÇÃïîâÆ
 //ÅyëÒñ§Åz
 	Fade("îwåiÇR", 0, 0, null, true);}
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700070ta">
-"Uuuh&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700070ta">
+"Uuuh&.&.&."
 
 {	SoundPlay("SE06", 0, 500, false);
 	Wait(300);
@@ -388,24 +388,24 @@ my head&.
 
 {	Rotate("ÉãÅ[ÉÄ", 2000, @5, @0, @0, AxlDxl, true);}
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700080ta">
-"Uuh&.&.&.&. Seira&, save me&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700080ta">
+"Uuh&.&.&. Seira&, save me&.&.&."
 
 {	Rotate("ÉãÅ[ÉÄ", 1500, @-10, @0, @0, AxlDxl, true);}
 I held back welling tears&.
 
 This whole week had been full of one incomprehensible thing after the
 other&.
-Why was I the only one who had to suffer like this&.&.&.&.
+Why was I the only one who had to suffer like this&.&.&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700090ta">
-"&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700090ta">
+"&.&.&.&.&.&."
 
 Wait a second&.
 
 If he had gotten his hands on my picture and combined it with this
-guro image&.&.&.&.
+guro image&.&.&.
 
 "Shogun" had&, at the least&, either surreptitiously photographed me
 beforehand&, or acquired my picture somewhere or other&.
@@ -414,10 +414,10 @@ Going by how he'd abruptly entered the chat room and waited for Grim
 to leave before he started talking&, he must have been targeting me
 from the start&.
 
-Maybe he had access to&.&.&.&. my personal information&.&.&.&.
+Maybe he had access to&.&.&. my personal information&.&.&.
 
 If so&, it wouldn't be odd if "Shogun" and the demon girl came here to
-my base to attack me at any time&. They'd abduct me&.&.&.&.
+my base to attack me at any time&. They'd abduct me&.&.&.
 
 {	Fade("êFÇP", 10, 700, null, true);
 	Fade("êFÇP", 500, 0, null, true);}
@@ -432,7 +432,7 @@ I was being watched&. By someone&.
 
 //Å\Å\Don't look at me&.
 	CreateColor("êFÇP", 100, 0, 0, 800, 600, "Black");
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ÉeÉLÉXÉgÇP", 100, center, middle, Auto, Auto, "Å\Å\Don't look at me&.");
 
 	SetBacklog("Å\Å\Don't look at me&.", "NULL", NULL);
@@ -503,40 +503,40 @@ began typing in my thoughts&.
 <PRE box00>
 [text006]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700100ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700100ta">
 "This has to be how it is&."
 
 Trembling a little as I looked at the word "demon&," I began to wonder
-if maybe the girl at the sce<pre>ne</pre> of the murder really had been some kind
-of devil&. 
+if maybe the girl at the sce<pre>ne</pre> of the murder really
+had been some kind of devil&.
 
-Yeah&, she couldn't possibly be human&. 
+Yeah&, she couldn't possibly be human&.
 
 If so&, maybe she could see the future&. It'd be a walk in the park
 for her to transfer a vision of the future into a picture via spirit
-photography&. Nor was there anything wondrous about the fact that 
-she'd carried out that dreadful "staking" all by herself&. 
+photography&. Nor was there anything wondrous about the fact that
+she'd carried out that dreadful "staking" all by herself&.
 
 She'd used her subordinate&, "Shogun&," to send me data&, since she
-knew I would coincidentally see her at the crime sce<pre>ne</pre>&. 
+knew I would coincidentally see her at the crime sce<pre>ne</pre>&.
 
 I didn't know the reason why&. Perhaps to intimidate me&. A threat to
-make me think I'd end up the same way if I told anyone&. 
+make me think I'd end up the same way if I told anyone&.
 
-Or rather&.&.&. 
+Or rather&.&.&.
 
-An advance warning of her next murder&. 
+An advance warning of her next murder&.
 
-A death sentence: "I'll kill you next&." 
-If that were really the case&.&.&.&.
-
-//ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700110ta">
-"Th&, there's no way I'd get the upper hand&.&.&.&."
+A death sentence: "I'll kill you next&."
+If that were really the case&.&.&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03700120ta">
-"It wouldn't be strange if they killed me any day now&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700110ta">
+"Th&, there's no way I'd get the upper hand&.&.&."
+
+//ÅyëÒñ§Åz
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700120ta">
+"It wouldn't be strange if they killed me any day now&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

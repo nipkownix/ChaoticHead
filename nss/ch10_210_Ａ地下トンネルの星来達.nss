@@ -44,10 +44,10 @@ function ch10_210_‚`’n‰ºƒgƒ“ƒlƒ‹‚Ì¯—ˆ’B()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-I progressed down the dark tunnel&, relying on the red light of my 
+I progressed down the dark tunnel&, relying on the red light of my
 Di-Sword&.
 
-My pace naturally started to hasten&. 
+My pace naturally started to hasten&.
 It was my first time doing anything like walking along subway tracks&.
 
 Even though I thought there was no way they'd come&, I kept
@@ -62,7 +62,7 @@ Luckily&, it seemed like the Inokashira Line's tunnel hadn't experienced
 many cave-ins&, and at this rate&, I'd probably be able to make it to
 Shibuya Station&.
 
-Except&, I was bothered by the warning Kozu-pii had given me as we 
+Except&, I was bothered by the warning Kozu-pii had given me as we
 parted&. She had said the following&.
 
 </PRE>
@@ -89,17 +89,18 @@ parted&. She had said the following&.
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //ŸS”z‚»‚¤
 //y½z
-<voice name="½" class="½" src="ch10/21000010ko">
-"Lots of mushy-squishy&, sloppy-slushy consciousnesses are lying in wait out there&."
+<voice name="½" class="½" src="voice/ch10/21000010ko">
+"Lots of mushy-squishy&, sloppy-slushy consciousnesses are lying
+in wait out there&."
 
 //ŸS”z‚»‚¤
 //y½z
-<voice name="½" class="½" src="ch10/21000020ko">
-"Kozi-pii can't heeelp you&, but&.&.&.&."
+<voice name="½" class="½" src="voice/ch10/21000020ko">
+"Kozi-pii can't heeelp you&, but&.&.&."
 
 //ŸS”z‚»‚¤
 //y½z
-<voice name="½" class="½" src="ch10/21000030ko">
+<voice name="½" class="½" src="voice/ch10/21000030ko">
 "Be careful&, Takumi-shan&."
 
 </PRE>
@@ -118,7 +119,7 @@ parted&. She had said the following&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text003]
-"Mushy-squishy&, sloppy-slushy consciousnesses&," huh&.&.&.&.
+"Mushy-squishy&, sloppy-slushy consciousnesses&," huh&.&.&.
 At least&, it seemed pretty certain that they weren't something
 favorable to me&.
 
@@ -129,7 +130,7 @@ Continuing all on my own down this pitch-black tunnel&.
 When someone told me there was something dreadful lurking beyond here&,
 of course it made me hesitate to go on&.
 
-My heart whispered to me&, teling me I should turn back right away and 
+My heart whispered to me&, teling me I should turn back right away and
 head to Shibuya Station aboveground&.
 
 But I couldn't afford to lose so much time&.
@@ -152,7 +153,7 @@ seen before&.
 I strained my eyes&.
 
 It wasn't a protrusion&.
-About twenty centimeters tall&, it was--
+About twenty centimeters tall&, it was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -166,10 +167,10 @@ A Seira-tan figure&.
 
 //Ÿ‘§‚ğ“Û‚Ş
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000040ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000040ta">
+"&.&.&.&.&.&.&."
 
-What? 
+What?
 Why had someone left a figure in a spot like this?
 
 It was all too out of place&.
@@ -184,10 +185,10 @@ The figure laid there&.
 It was my current favorite&, the post-awakening version&.
 On top of that&, the area around her chest had been crushed&.
 
-Could it possibly be&.&.&.&.
+Could it possibly be&.&.&.
 
 My figure&, which I'd dropped in the midst of the tumult at the scramble
-crossing yesterday&.&.&.&.?
+crossing yesterday&.&.&.?
 
 Why was it in a place like this?
 
@@ -195,12 +196,12 @@ Plus&, she was standing upright&, and her bewitching smile looked
 straight at me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000050ta">
-"Seira&, why're you&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000050ta">
+"Seira&, why're you&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000060se">
-"Hm--m&, so that's how it looks to you&, Takkii&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000060se">
+"Hm\m&, so that's how it looks to you&, Takkii&."
 
 I heard her voice&.
 Seira's voice&, which I always fantasized about in my head&.
@@ -216,7 +217,7 @@ Seira's voice&, which I always fantasized about in my head&.
 <PRE box00>
 [text005]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000070se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000070se">
 "Well&, I'm okay either way&. Hmm~n ô"
 
 In less than a second&, the amount of time it took me to blink&.
@@ -227,10 +228,10 @@ life-size scale&.
 And&, just like a human being&, she wriggled her smooth and sexy body&.
 Her full breasts shook&, and her hair rippled&.
 
-Was this a delusion of mine&.&.&.&.?
+Was this a delusion of mine&.&.&.?
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000080se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000080se">
 "Hey&, Takkii&. Let's play&."
 
 {	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 500, true);
@@ -241,7 +242,7 @@ When I turned around with a gasp&, another life-sized Seira-tan was
 there&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000090se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000090se">
 "Leave Rimicchi be&."
 
 Not just behind me&.<k>
@@ -286,7 +287,7 @@ At last&, the number of Seira-tans increased to almost three-digits&.
 [text006]
 //‚u‚e//”½‹¿
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000100se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000100se">
 "Wanna do sexy things with me?"
 
 Those hundred Seira-tans surrounded me and spoke simultaneously&.
@@ -296,7 +297,7 @@ Those hundred Seira-tans surrounded me and spoke simultaneously&.
 	Fade("layer", 500, 0, null, true);
 	Delete("layer");}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000110se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000110se">
 "Of course you do&, you dumEmEy ô"
 
 {	CreateTextureEX("¯—ˆ‚P", 200, Center, InBottom, "cg/ev/ev096_02_1_¯—ˆ‘åŒQ_a.png");
@@ -343,8 +344,8 @@ Her slender arms lowered an enormous metal club&.
 <PRE box00>
 [text906]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000120ta">
-"--!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000120ta">
+"-!?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -363,11 +364,11 @@ They ached&.
 
 At that&, I finally knew&.
 
-Reality--
-This wasn't an illusion--
+Reality\
+This wasn't an illusion\
 They were real-booted existences&.
 
-Everyone here was my enemy--
+Everyone here was my enemy\
 
 {	CreateTextureEX("¯—ˆ‚R", 200, Center, Middle, "cg/ev/ev096_04_1_¯—ˆ‘åŒQ_a.png");
 	Move("¯—ˆ‚R", 0, @+150, @-50, null, false);
@@ -376,20 +377,20 @@ Everyone here was my enemy--
 	Fade("¯—ˆ‚Q", 500, 1000, null, true);
 	Fade("¯—ˆ‚R", 500, 1000, null, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000130se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000130se">
 "If you won't play with me&, I'll send ya flying&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000140ta">
-"If you're my wife&.&.&.&. open the way for me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000140ta">
+"If you're my wife&.&.&. open the way for me&.&.&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000150se">
-"Nuh-uh--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000150se">
+"Nuh-uh\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000160ta">
-"Then&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000160ta">
+"Then&.&.&."
 
 I would have to break my way through&.
 I re-clenched my sword tightly&.
@@ -400,7 +401,7 @@ The fiery symbols on the hilt of my Di-Sword blazed&.
 The sword gave off an increasing amount of red light&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000170ta">
 "Aaaaahh!"
 
 I slashed&.
@@ -434,8 +435,8 @@ It traced the orbit I desired&.
 [text008]
 //Ÿa‚ç‚ê‚Äº‚É‚È‚ç‚È‚¢”ß–Â
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000180se">
-"--ah"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000180se">
+"\ah"
 
 I c<pre>u</pre>t her down from shoulder to hip&.
 
@@ -453,48 +454,48 @@ They glistened pink&.
 I shifted my eyes away&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000190ta">
-"I'm sorry&, Seira&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000190ta">
+"I'm sorry&, Seira&.&.&."
 
 I'd killed my favorite character with my own hands&.
 As an otaku&, there could be nothing tougher than this&.
 
-Even so&, I couldn't let myself get held up here&.&.&.&.&.
+Even so&, I couldn't let myself get held up here&.&.&.&.
 
 {	CreateTextureEX("¯—ˆ‚Q", 200, Center, Middle, "cg/ev/ev096_02_1_¯—ˆ‘åŒQ_a.png");
 	Move("¯—ˆ‚Q", 1, @-300, @-150, null, true);
 	Fade("¯—ˆ‚Q", 500, 1000, null, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000200se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000200se">
 "So strong&, so strong!"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000210se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000210se">
 "There's my Takkii ô"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000220se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000220se">
 "I love you when you're like that&, Takkii&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000230se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000230se">
 "Make me feel even hotter&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000240se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000240se">
 "Let's play&."
 
 {	CreateTextureEX("¯—ˆ‚R", 250, Center, Middle, "cg/ev/ev096_06_1_¯—ˆ‘åŒQ_a.png");
 	Move("¯—ˆ‚R", 1, @+400, @-50, null, true);
 	Fade("¯—ˆ‚R", 500, 1000, null, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000250se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000250se">
 "I'll mess ya up real bad&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 500, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 500, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000260se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000260se">
 "So fun&, so fun!"
 
 The individual Seira-tans began talking on their own&, all as they
@@ -507,8 +508,8 @@ In order to continue forward&, I took a swing at the Seiras blocking my
 path&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000270ta">
-"Outta the way&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000270ta">
+"Outta the way&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -568,7 +569,7 @@ Four lined-up Seira-tans turned to dead bodies at the same time&.
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);}
 //Ÿ¦ˆÈ‰ºA¯—ˆ‚Ìuƒ^ƒbƒL[ôv‚Æ‚¢‚¤ƒZƒŠƒt‚ğ‚r‚dˆµ‚¢‚Å‰„X‚Æ‚½‚­‚³‚ñ“¯‚ÉÄ¶‚µ‚½‚¢‚Å‚·
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000280se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000280se">
 "Takkii ô"
 
 Another one of them grabbed for me from behind&.
@@ -576,8 +577,8 @@ She wrapped her arms around my neck&, like a rear naked choke&.
 Her large&, soft breasts pushed against my back&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000290ta">
-"Lemme&.&.&.&. go&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000290ta">
+"Lemme&.&.&. go&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -620,7 +621,7 @@ It seemed like I would asphyxiate&.
 <PRE box00>
 [text012]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000300se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000300se">
 "No cheating on me!"
 
 Her metal bat approached me from the front&.
@@ -655,7 +656,7 @@ Presenting her with my back&.
 <PRE box00>
 [text013]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000310se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000310se">
 "Gueh!"
 
 As Seira-tan shuddered&, her arms weakened around me&.
@@ -665,7 +666,7 @@ As Seira-tan shuddered&, her arms weakened around me&.
 	Fade("¯—ˆ‚P", 300, 1000, null, true);
 	Delete("¯—ˆ‚Q");}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000320se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000320se">
 "Forget about Rimicchi&."
 
 {	CreateSE("SE05","SE_‹[‰¹_ƒfƒBƒ\[ƒh_‹ó‚ğØ‚é1");
@@ -674,8 +675,8 @@ I shed the Seira-tan on my back&.
 Pivoting&, I swung my Di-Sword&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000330ta">
-"&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000330ta">
+"&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -713,7 +714,7 @@ I stepped over their backs&.
 	Move("¯—ˆ‚P", 1, @0, @-100, null, true);
 	Fade("¯—ˆ‚P", 500, 1000, null, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000340se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000340se">
 "I love a strong man ô"
 
 I lowered my sword toward a Seira swinging her bat around further back&.
@@ -756,7 +757,8 @@ Her metal bat caught my Di-Sword&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text015]
-I c<pre>u</pre>t down through her from the crown of her head&, the bat included&.
+I c<pre>u</pre>t down through her from the crown of her head&,
+the bat included&.
 
 To be more precise&, my Di-Sword didn't "c<pre>u</pre>t&."
 
@@ -774,7 +776,7 @@ and burn off&.
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 500, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000350se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000350se">
 "Takkii ô"
 
 I felt the hairs on my body stand on end&.
@@ -784,7 +786,7 @@ Calling my name simultaneously&.
 Attacking me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000360ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000360ta">
 "Uwaaaahh!"
 
 I raised my voice to fire myself up&.
@@ -797,7 +799,7 @@ I lanced the Seira-tan who was right in front of me through the chest&.
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 0, true);}
 //Ÿœ’›
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000370se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000370se">
 "Aaah&, Takkii&."
 
 {	CreateSE("SE05","SE_lŠÔ_“®ì_è_‚Í‚½‚­");
@@ -808,12 +810,12 @@ That Seira-tan seized the Di-Sword&.
 At almost precisely the same time&, her hands evaporated&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000380se">
-"It's hot&, it's so hot&.&.&.&."
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000380se">
+"It's hot&, it's so hot&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000390ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000390ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -827,17 +829,17 @@ At almost precisely the same time&, her hands evaporated&.
 I went speechless&.
 Terror came crawling up from the depths of my body&.
 
-Chills shot through my spine&. 
-I turned rigid&. 
+Chills shot through my spine&.
+I turned rigid&.
 
-This wasn't Seira&. 
-Seira wouldn't turn on me&. 
+This wasn't Seira&.
+Seira wouldn't turn on me&.
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","angry", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_angry", 300, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000400se">
-"Takkii&, you dummy!" 
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000400se">
+"Takkii&, you dummy!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -878,8 +880,8 @@ Seira wouldn't turn on me&.
 <PRE box00>
 [text017]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000410ta">
-"Oguh&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000410ta">
+"Oguh&.&.&.!"
 
 The sound of several of my ribs shattering&.
 The dull noise of the bones in my right arm creaking as well&.
@@ -909,7 +911,7 @@ My vision twisted dizzily&.
 {	Stand("bu¯—ˆ_ŠoÁ‘O_’Êí","happy", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁ‘O_’Êí_happy", 300, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000420se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000420se">
 "Let's fold our arms and think real hard!"
 
 </PRE>
@@ -947,15 +949,15 @@ Everything below the elbow of my left arm turned to mincemeat&.
 She gored right through me and into the wall's concrete&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000430ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000430ta">
 "Gyaaaahhh!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000440ta">
-"My arm&.&.&.&. My arm&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000440ta">
+"My arm&.&.&. My arm&.&.&.!"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000450se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000450se">
 "Takkii&, you can't run away ô"
 
 {	CreateSE("SE01","SE_‹[‰¹_‹à–_U‚è‰ñ‚·");
@@ -964,8 +966,8 @@ She gored right through me and into the wall's concrete&.
 Another metal bat swept toward my leg&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000460ta">
-"----"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000460ta">
+"\\"
 
 My limp right hand&.
 If I moved it even a little bit&, agony would reverberate up to my
@@ -1028,8 +1030,8 @@ I wanted to block all it off&, but I couldn't&.
 Not as long as this "pain" were here&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000470ta">
-"Gah&, haah&, haa&, ah&, gah&.&.&.&. uguh&, haa&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000470ta">
+"Gah&, haah&, haa&, ah&, gah&.&.&. uguh&, haa&.&.&."
 
 {	CreateSE("SE02","SE_l‘Ì_“®ì_“fŒŒ");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
@@ -1075,7 +1077,7 @@ As long as I could destroy Noah II&.
 If all I needed to offer up were parts of this body of mine&, I'd give
 them as much as they wanted&.
 
-So--
+So\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1085,13 +1087,13 @@ So--
 <PRE box00>
 [text020]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000480ta">
-"Open the way&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000480ta">
+"Open the way&.&.&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000490se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000490se">
 "Let's stay together ô"
 
 </PRE>
@@ -1148,7 +1150,8 @@ whatsoever&.
 
 I tripped and fell&.
 As I fell&.
-I used my right hand&, resonant with pain&, to make sure my Di-Sword was still there&.
+I used my right hand&, resonant with pain&, to make sure my
+Di-Sword was still there&.
 
 I clenched my crushed left hand in an effort to push myself back up&.
 {	CreateSE("SE02","SE_ÕŒ‚_‘ÅŒ‚_‰£‚é");
@@ -1266,7 +1269,7 @@ I had the hallucination that Seira would keep multiplying infinitely&.
 	CreateSE("SE02","SE_l‘Ì_’Í‚Ş");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);}
-Seira clung to my right hand&. 
+Seira clung to my right hand&.
 I swung that Seira around along with my Di-Sword&.
 
 {	CreateSE("SE01","SE_‹[‰¹_ƒfƒBƒ\[ƒh_‹ó‚ğØ‚é1");
@@ -1281,8 +1284,8 @@ Instead&, she bent my arm backward&.
 	Fade("F‚P", 0, 1000, null, true);
 	Fade("F‚P", 300, 0, null, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000500ta">
-"Gah&.&.&.&. ah&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000500ta">
+"Gah&.&.&. ah&."
 
 My joint popped out&.
 I couldn't flex it anymore&.
@@ -1321,8 +1324,8 @@ And so this prayer was akin to a little charm for luck&.
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000510se">
-"Shall I wipe your sweat for you?" 
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000510se">
+"Shall I wipe your sweat for you?"
 
 Seira peeked into my face&, smiling widely&.
 I kicked her in the jaw with all my might&.
@@ -1357,8 +1360,8 @@ own mouth&.
 I moved the fingers of my right hand a tiny bit&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000520ta">
-"Aaaaaaaahh!" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000520ta">
+"Aaaaaaaahh!"
 
 I picked up my Di-Sword&.
 A delusion&.
@@ -1376,8 +1379,8 @@ Beyond this darkness&.
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","sad", 200, @0);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_sad", 300, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch10/21000530se">
-"Takkii&, why won't you stay with me?" 
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch10/21000530se">
+"Takkii&, why won't you stay with me?"
 
 {{	CreateColor("F‚P", 500, 0, 0, 800, 600, "RED");
 	Request("F‚P", AddRender);
@@ -1386,11 +1389,11 @@ Beyond this darkness&.
 	CreateSE("SE02","SE_l‘Ì_“®ì_“fŒŒ");
 	MusicStart("SE02", 200, 1000, 0, 1000, null, false);
 	Fade("F‚P", 300, 0, null, true);}}
-I spat out the blood stopped up in my mouth&. 
-Around me were piles of Seira corpses lying prone&. 
+I spat out the blood stopped up in my mouth&.
+Around me were piles of Seira corpses lying prone&.
 
-Other Seiras rushed toward me&, kicking them&. 
-Ripples went through the pools of blood on the ground&. 
+Other Seiras rushed toward me&, kicking them&.
+Ripples went through the pools of blood on the ground&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1403,15 +1406,15 @@ I slowly shook my head&.
 
 //Ÿ‹ê‚µ‚»‚¤‚É
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000540ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000540ta">
 "But&, Seira"
 
 I grit my teeth&.
 
 //Ÿ‹ê‚µ‚»‚¤‚É
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000550ta">
-"Aren't you from an anime--"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000550ta">
+"Aren't you from an anime\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1438,15 +1441,15 @@ All the Seiras instantaneously turned two-dimensional&.
 Those standing became life-sized cardboard c<pre>u</pre>t-outs&.
 The corpses lying down became body pillow covers&.
 
-They had returned to their original dwelling--the second dimension&.
+They had returned to their original dwelling\the second dimension&.
 And they were no longer moving&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000560ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000560ta">
 "Dust has gotta go back to dust&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/21000570ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/21000570ta">
 "I'll join you later&."
 
 I lowered my head for just a little bit&, as though holding a moment of

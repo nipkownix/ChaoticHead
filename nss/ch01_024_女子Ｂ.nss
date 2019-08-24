@@ -27,7 +27,7 @@ function ch01_024_—q‚a()
 
 	CreateColor("back05", 100, 0, 0, 800, 600, "Black");
 
-//™Cut-94-----------------------------
+//™Cut-94\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //‚a‚f//˜L‰º//’‹
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg019_01_1_ŠwZ˜L‰º_a.jpg");
 	DrawTransition("back03", 500, 0, 1000, 100, null, "cg/data/right3.png", true);
@@ -41,11 +41,11 @@ function ch01_024_—q‚a()
 [text001]
 The shortest route to the courtyard involved crossing the corridor to
 the building where the seniors' classes were held&, then going down
-the stairs from there&.&.&.&. probably&. 
+the stairs from there&.&.&. probably&.
 
 Since I didn't come to school much&, I wasn't very knowledgeable about
 which parts of the school building were connected to where&. I wasn't
-sure of where all the specialized classrooms were&, either&. 
+sure of where all the specialized classrooms were&, either&.
 
 So I felt a tad insecure as I went down the corridor&.
 
@@ -69,7 +69,7 @@ Though she was clearly getting in the way of whoever might try to
 pass&, she didn't budge an inch&.
 
 She must have heard my footsteps&. I'm in a hurry&, please move out of
-the way&.&.&.&.
+the way&.&.&.
 
 Something about her gave off the smell of one of those delinquent
 types&. I'd better be careful to stay as far away from her as
@@ -79,12 +79,12 @@ possible&, and to avoid meeting her eyes&.
 With that in mind&, I swiftly tried to skirt around behind "Girl B&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch01/02400010sn">
-"&.&.&.&.&.&.Hey&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch01/02400010sn">
+"&.&.&.&.&.Hey&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400020ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400020ta">
+"&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -100,8 +100,8 @@ Was she going to try to squeeze some money out of me? Or say she
 didn't like the way I looked&, drag me off to a delinquent hangout and
 have me lynched there!?
 
-Gi&, gi&, give me a goddamn break&.&.&.&.
-I haven't done anything wrong&.&.&.&.
+Gi&, gi&, give me a goddamn break&.&.&.
+I haven't done anything wrong&.&.&.
 
 {	Stand("buƒZƒi_§•_’Êí","angry", 200, @+150);
 	FadeStand("buƒZƒi_§•_’Êí_angry", 500, true);}
@@ -119,24 +119,24 @@ When I cautiously surveyed Girl B&, she glared at me&.
 <PRE box00>
 [text004]
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch01/02400030sn">
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch01/02400030sn">
 "Who are you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400040ta">
-"Eh&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400040ta">
+"Eh&.&.&."
 
-Even if she asks me who&.&.&.&. 
+Even if she asks me who&.&.&.
 
 I'm Nishijou Takumi&. Not that she had any way of knowing my name&, of
 course&, given that we'd never met before&.
 
 She was planning on doing something horrible to me&, no doubt about
-it&.&.&.&.!
+it&.&.&.!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400050ta">
-"E&, excuse me&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400050ta">
+"E&, excuse me&.&.&."
 
 Bowing my head so as to avoid looking at Girl B&, I sprinted off at
 top speed&.
@@ -173,12 +173,12 @@ top speed&.
 [text005]
 Once I had dashed down the stairs from the seniors' building and leapt
 outside&, I checked behind my back&. Seemed like the scary-looking
-girl from before hadn't come chasing after me&. 
+girl from before hadn't come chasing after me&.
 
-Thank God&.&.&.&. I hated the third dimension for having traps at
-every turn&. 
+Thank God&.&.&. I hated the third dimension for having traps at
+every turn&.
 
-I looked around the courtyard as I collected my wild breathing&. 
+I looked around the courtyard as I collected my wild breathing&.
 
 Sandwiched between the pool and the school building&, it was so long
 and narrow that it might have been more fitting to call it a pathway&.
@@ -201,32 +201,32 @@ I didn't really know&.
 I spotted Yua standing in front of one of the flowerbeds&, gazing idly
 at the flowers&.
 
-She was really there&.&.&.&. 
-She'd waited for me&.&.&.&. 
+She was really there&.&.&.
+She'd waited for me&.&.&.
 
-She'd waited for me and none other&.&.&.&. 
+She'd waited for me and none other&.&.&.
 
-Yua wouldn't betray me&. 
-It might be all right for me to believe in her&. 
+Yua wouldn't betray me&.
+It might be all right for me to believe in her&.
 Yua might be able to save me&.
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shock", 200, @-150);
 	DeleteStand("st—Dˆ¤_§•_’Êí_sad", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shock", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400060yu">
-"Ah&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400060yu">
+"Ah&.&.&."
 
-Raising her face&, Yua noticed I was there&. 
+Raising her face&, Yua noticed I was there&.
 
-As I watched&, her eyes grew wider and wider&. 
+As I watched&, her eyes grew wider and wider&.
 
 Embarrassed&, I shifted my gaze away and stood in place&. I didn't
-know whether it was okay for me to walk up to her&. 
+know whether it was okay for me to walk up to her&.
 
 Why was she surprised?
 
-Maybe I shouldn't have come&.&.&.&. 
+Maybe I shouldn't have come&.&.&.
 
 As I wavered&, Yua came running up to me&.
 
@@ -242,45 +242,45 @@ As I wavered&, Yua came running up to me&.
 <PRE box00>
 [text007]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400070yu">
-"Th&, that startled me&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400070yu">
+"Th&, that startled me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400080ta">
-"Eh&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400080ta">
+"Eh&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400090yu">
-"You really came&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400090yu">
+"You really came&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400100yu">
-"I'd given up&, thinking you wouldn't show&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400100yu">
+"I'd given up&, thinking you wouldn't show&.&.&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","normal", 200, @-150);
 	FadeStand("st—Dˆ¤_§•_’Êí_normal", 300, true);
 	DeleteStand("st—Dˆ¤_§•_’Êí_shock", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400110yu">
-"But I'm glad I waited&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400110yu">
+"But I'm glad I waited&.&.&."
 
 Maybe Yua actually tended to think along much the same lines as I
-did&. Viewing everything pessimistically&, and so on&. 
+did&. Viewing everything pessimistically&, and so on&.
 
-But one thing about us was radically different&. 
+But one thing about us was radically different&.
 
 I viewed things negatively but did nothing about it&.
-Yua viewed things negatively but took action of her own accord&. 
+Yua viewed things negatively but took action of her own accord&.
 
-I honestly respected her for her ability to be so proactive&. 
+I honestly respected her for her ability to be so proactive&.
 I wanted to be more like her&.
 
 {	Stand("st—Dˆ¤_§•_’Êí¶è‰º","shy", 200, @-150);
 	DeleteStand("st—Dˆ¤_§•_’Êí_normal", 300, false);
 	FadeStand("st—Dˆ¤_§•_’Êí¶è‰º_shy", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400120yu">
-"Er&, w&, will you&.&.&.&. Walk back with me&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400120yu">
+"Er&, w&, will you&.&.&. Walk back with me&.&.&.?"
 
 I answered her hesitant question with a nod&.
 
@@ -306,20 +306,20 @@ I answered her hesitant question with a nod&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-Side by side&, Yua and I headed for the main gate&. 
+Side by side&, Yua and I headed for the main gate&.
 
 Somehow&, it was kind of embarrassing&. I also started to have the
 feeling that the other students leaving school were watching us
-enviously&. 
+enviously&.
 
-The more conscious I became of it&, the jerkier I got&. 
+The more conscious I became of it&, the jerkier I got&.
 Going on home with a girl&, just the two of us&, was impossible after
 all&.
 
 {	Stand("stŒì_ƒX[ƒc_’Êí","normal", 200, @-300);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_normal", 200, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400130ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400130ta">
 "Hm?"
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -333,14 +333,14 @@ all&.
 <PRE box00>
 [text009]
 I passed by an unfamiliar teacher&. Although I only assumed he was a
-teacher because he was wearing a suit instead of a uniform&. 
+teacher because he was wearing a suit instead of a uniform&.
 
-Was there really such a young teacher around here&.&.&.&.?
+Was there really such a young teacher around here&.&.&.?
 
 Since I rarely came to school&, I had no memory of the teachers'
-faces&. 
+faces&.
 There were even times when I'd forgotten what my homeroom teacher
-looked like&. 
+looked like&.
 
 Glancing around all the while&, the suit-clad teacher went toward the
 school building&.
@@ -349,12 +349,12 @@ school building&.
 	FadeStand("bu—Dˆ¤_§•_’Êí_shock", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02400140yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02400140yu">
 "What's the matter?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02400150ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02400150ta">
+"Ah&.&.&."
 
 Flustered&, I shook my head and resumed walking at Yua's side&.
 

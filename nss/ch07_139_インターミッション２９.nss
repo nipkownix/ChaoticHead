@@ -78,46 +78,46 @@ at his gloomy countenance and knit her eyebrows together&.
 <PRE box00>
 [text002]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900010mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900010mm">
 "What is it? Sighing all the way as you came here&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900020bn">
+<voice name="”»" class="”»" src="voice/ch07/13900020bn">
 "Hey&, Momo-chan&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900030bn">
+<voice name="”»" class="”»" src="voice/ch07/13900030bn">
 "Have you ever seen someone perform a magic trick where a sword
 appears out of nowhere?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900040mm">
-"Who knows&.&.&.&. I'm not that familiar with sleight of hand&."
+<voice name="•S£" class="•S£" src="voice/ch07/13900040mm">
+"Who knows&.&.&. I'm not that familiar with sleight of hand&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900050bn">
+<voice name="”»" class="”»" src="voice/ch07/13900050bn">
 "Then what about teleportation?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900060mm">
-"Like going inside a box&.&.&.&. that sort of thing?"
+<voice name="•S£" class="•S£" src="voice/ch07/13900060mm">
+"Like going inside a box&.&.&. that sort of thing?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900070bn">
-"Mm&, no&, that's not it&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch07/13900070bn">
+"Mm&, no&, that's not it&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900080mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900080mm">
 "What're you trying to say? Are you trying to learn a party trick?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900090bn">
+<voice name="”»" class="”»" src="voice/ch07/13900090bn">
 "No&, if you don't know what I mean&, that's fine&. It's probably not
 related&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900100mm">
-"You're an odd one&." 
+<voice name="•S£" class="•S£" src="voice/ch07/13900100mm">
+"You're an odd one&."
 
 Momose shrugged and took one of the bean paste buns that Ban had
 brought as refreshments&, popping it into her mouth&.
@@ -134,97 +134,97 @@ brought as refreshments&, popping it into her mouth&.
 <PRE box00>
 [text003]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900110su">
-"Here's the tea&." 
+<voice name="z–K" class="z–K" src="voice/ch07/13900110su">
+"Here's the tea&."
 
-Suwa brought over two paper cups&. 
+Suwa brought over two paper cups&.
 The green tea he'd poured in them was steaming&.
 
 {	Stand("stq_ƒX[ƒc_’Êí","normal", 200, @-150);
 	FadeStand("stq_ƒX[ƒc_’Êí_normal", 300, false);
 	DeleteStand("stq_ƒX[ƒc_’Êí_sigh", 300, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900120mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900120mm">
 "Oh my&, I'm sorry to make you serve us tea&, Suwa-chan&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900130mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900130mm">
 "Miho-chan has a cold&, and she's taking the day off&, see&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900140su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900140su">
 "Nah&, no problem&."
 
-Smiling breezily&, he handed Momose and Ban their paper cups&. 
+Smiling breezily&, he handed Momose and Ban their paper cups&.
 
 Ban had taken Suwa here in the past&, when they were working on a
 different case&. Ever since&, he had begun looking more to Momose as
-his mentor than to Ban&, his direct superior&. 
+his mentor than to Ban&, his direct superior&.
 
 Momose had also taken a liking to the young and honest Suwa&, and she
 didn't disparage him the way she did Ban&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900150su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900150su">
 "More importantly&, what were you talkin' about?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900160bn">
+<voice name="”»" class="”»" src="voice/ch07/13900160bn">
 "I was asking for advice on the kinds of party performances a
 policewoman might like&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900170su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900170su">
 "Haa&.&.&. how intriguing&."
 
 {	Stand("stq_ƒX[ƒc_’Êí","sigh", 200, @-150);
 	FadeStand("stq_ƒX[ƒc_’Êí_sigh", 300, false);
 	DeleteStand("stq_ƒX[ƒc_’Êí_normal", 300, true);}
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900180mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900180mm">
 "Suwa-chan&, you mustn't always take this no-good detective's bait&. I
 recommend attaching yourself to a more competent superior&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900190mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900190mm">
 "If not&, your upward mobility is going to be severely limited&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900200bn">
+<voice name="”»" class="”»" src="voice/ch07/13900200bn">
 "You make it sound like I've got no hope of getting promoted&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900210mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900210mm">
 "It's true&. If it frustrates you&, take your work more seriously&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900220bn">
-"But I do take it seriously&." 
+<voice name="”»" class="”»" src="voice/ch07/13900220bn">
+"But I do take it seriously&."
 
 Ignoring Ban&, who'd scrunched his face up as if he just couldn't
 accept it&, Momose held the box of bean pastries out to Suwa&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900230mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900230mm">
 "You have some too&, Suwa-chan&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900240su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900240su">
 "Ah&, thanks&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900250bn">
+<voice name="”»" class="”»" src="voice/ch07/13900250bn">
 "For the record&, I paid for those outta my own pocket&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900260su">
-"Thanks for letting me have them&, Sempai&." 
+<voice name="z–K" class="z–K" src="voice/ch07/13900260su">
+"Thanks for letting me have them&, Sempai&."
 
 Watching his junior bow his head neatly and reach a hand toward the
 bean pastries&, Ban sighed yet again&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900270mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900270mm">
 "That aside&, you two should come and look at this&."
 
 </PRE>
@@ -245,53 +245,53 @@ bean pastries&, Ban sighed yet again&.
 <PRE box00>
 [text004]
 A line graph was displayed on her laptop's monitor&. Raising and
-falling like waves&, it drew gentle curves&.  
+falling like waves&, it drew gentle curves&.
 
 Suwa&, who had circled behind Ban&, tilted his head as he peered at
 it&.
 
 //Ÿ‹à‚Â‚Î‚ğH‚×‚È‚ª‚ç
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900280su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900280su">
 "What's this graph of?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900290mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900290mm">
 "The GE rate in the Shibuya area over the past year&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900300mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900300mm">
 "Don't you think it's strange?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900310bn">
+<voice name="”»" class="”»" src="voice/ch07/13900310bn">
 "You're the one who told me that Shibuya's average GE rate is high&,
 even compared to the rest of the world&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900320mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900320mm">
 "No&, not that&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900330mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900330mm">
 "It might be my imagination&, but I have the feeling that the GE rate
 is being manipulated by someone&."
 
 //Ÿ‚·‚Å‚É‹à‚Â‚Î‚ÍH‚×I‚í‚Á‚Ä‚¢‚Ü‚·
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900340su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900340su">
 "Is&, is that even possible?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900350mm">
-"I dunno&. But the graph seems unnatural&, somehow&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch07/13900350mm">
+"I dunno&. But the graph seems unnatural&, somehow&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900360mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900360mm">
 "There are too many small variations in the numbers&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900370mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900370mm">
 "I went back ten years as I researched it&, but it's been like that
 all through the past five years&."
 
@@ -303,43 +303,43 @@ all through the past five years&."
 <PRE box00>
 [text005]
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900380bn">
+<voice name="”»" class="”»" src="voice/ch07/13900380bn">
 "The guy from before&, was Professor Outa his name? He said&, errr&,
 what was it again? Something like how the GE rate had increased
 compared to half a year before&. Is it related to that?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900390mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900390mm">
 "By his research&, the GE rate shouldn't undergo such minute shifts&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900400bn">
+<voice name="”»" class="”»" src="voice/ch07/13900400bn">
 "You mean&, some kind of abnormality is occurring&, and it seems like
 it might be man-made?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900410su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900410su">
 "But five years? If it's continued that long&, couldn't you say those
 are ordinary conditions&, rather than anything abnormal?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900420mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900420mm">
 "There's one more thing&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900430mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900430mm">
 "When you examine the graph closely&, it becomes apparent that the GE
 rate has a tendency to rise every weekend&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900440bn">
+<voice name="”»" class="”»" src="voice/ch07/13900440bn">
 "Salaryman with their two days off would be grateful for that&, I
 guess&. Not that it's got much to do with me&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900450su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900450su">
 "Haa&, I'd love to have Saturday off&. I haven't taken had any breaks
-in two months&." 
+in two months&."
 
 Momose shook her head a little in response to the disappointed-looking
 detectives&, both of whom had hung their heads&.
@@ -352,57 +352,57 @@ detectives&, both of whom had hung their heads&.
 <PRE box00>
 [text006]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900460mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900460mm">
 "This isn't the time for jokes&. You do realize it's fluctuating once
 per week&, on a regular basis&, right? Moreover&, the fluctuations
 come to a halt on New Year's&, the Bon festival&, and so forth&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900470mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900470mm">
 "I can only assume that someone is deliberately making it happen&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900480bn">
+<voice name="”»" class="”»" src="voice/ch07/13900480bn">
 "Yeah&, New Year's and the Bon festival are purely human things&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900490bn">
+<voice name="”»" class="”»" src="voice/ch07/13900490bn">
 "Animals and plants don't celebrate them&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900500su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900500su">
 "Could it be the will of the planet or something?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900510bn">
+<voice name="”»" class="”»" src="voice/ch07/13900510bn">
 "The will of the planet? That's pretty grand-sounding&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900520bn">
+<voice name="”»" class="”»" src="voice/ch07/13900520bn">
 "But even if it hypothetically existed&, d'you think the Earth is
 gonna say 'Happy New Year' to us?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900530su">
-"I&, I was jokin'&.&.&.&."
+<voice name="z–K" class="z–K" src="voice/ch07/13900530su">
+"I&, I was jokin'&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900540mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900540mm">
 "New Year's is one thing&, but the Bon festival is only a custom in
 Japan&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900550bn">
-"It's too well synchronized with Japanese social activity&.&.&.&.
+<voice name="”»" class="”»" src="voice/ch07/13900550bn">
+"It's too well synchronized with Japanese social activity&.&.&.
 huh&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900560su">
-"Isn't that kind of natural for Shibuya&.&.&.&.?"
+<voice name="z–K" class="z–K" src="voice/ch07/13900560su">
+"Isn't that kind of natural for Shibuya&.&.&.?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900570mm">
-"By the way&, look here and here&." 
+<voice name="•S£" class="•S£" src="voice/ch07/13900570mm">
+"By the way&, look here and here&."
 
 Said Momose&, pointing first to the very center of the line graph&,
 and then&, to the most recent date on the far right-hand side&.
@@ -415,43 +415,43 @@ and then&, to the most recent date on the far right-hand side&.
 <PRE box00>
 [text007]
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900580mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900580mm">
 "It goes really high in these two places&, see?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900590bn">
+<voice name="”»" class="”»" src="voice/ch07/13900590bn">
 "The one on the right looks like the peak for the whole year&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900600mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900600mm">
 "Forget a year&. It's the highest in a decade&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900610bn">
+<voice name="”»" class="”»" src="voice/ch07/13900610bn">
 "What's the date?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900620mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900620mm">
 "The one in the center is from three months ago&. Remember? The little
 earthquake?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900630bn">
+<voice name="”»" class="”»" src="voice/ch07/13900630bn">
 "The one where eight people died though its magnitude was 3?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900640bn">
+<voice name="”»" class="”»" src="voice/ch07/13900640bn">
 "They still haven't determined why the victims from it died&, right?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900650su">
-"Huh&, that so?" 
+<voice name="z–K" class="z–K" src="voice/ch07/13900650su">
+"Huh&, that so?"
 
 Ignoring the two detectives' exchange&, Momose continued her
 explanation&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900660mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900660mm">
 "And the one on the far right is from the day of the more recent
 earthquake&."
 
@@ -472,94 +472,94 @@ earthquake&."
 <PRE box00>
 [text008]
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900670bn">
-"Hoh&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch07/13900670bn">
+"Hoh&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900680mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900680mm">
 "You know that there was a large-scale outbreak of electromagnetic
 waves on the same day&, don't you?"
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900690bn">
+<voice name="”»" class="”»" src="voice/ch07/13900690bn">
 "It seems like all computers in Shibuya broke down&. But I'm an analog
 guy&, so I don't know too much about it&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900700su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900700su">
 "My laptop at home got fried&, too&. I don't have time to repair
-it&.&.&.&."
+it&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900710mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900710mm">
 "They say the earthquake generated the rise in electromagnetic waves&,
 but the truth might be the exact opposite&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900720mm">
-"Electromagnetic waves were what caused the earthquake&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch07/13900720mm">
+"Electromagnetic waves were what caused the earthquake&.&.&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, false);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900730bn">
+<voice name="”»" class="”»" src="voice/ch07/13900730bn">
 "Hey&, hey&, they didn't say anything like that in the newspapers or
 on TV&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900740mm">
-"It's my personal deduction through and through&, but&.&.&.&."
+<voice name="•S£" class="•S£" src="voice/ch07/13900740mm">
+"It's my personal deduction through and through&, but&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900750mm">
-"These two earthquakes&.&.&.&. I think they were acts of man&, not
+<voice name="•S£" class="•S£" src="voice/ch07/13900750mm">
+"These two earthquakes&.&.&. I think they were acts of man&, not
 acts of God&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900760mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900760mm">
 "Because neither of them was normal&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900770mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900770mm">
 "The previous earthquake was only magnitude 3&, but eight people died
 in it&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900780mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900780mm">
 "And the one this time around was magnitude 5&, with 118 deaths&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, false);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900790bn">
+<voice name="”»" class="”»" src="voice/ch07/13900790bn">
 "You're saying too many people have died?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900800mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900800mm">
 "You mentioned it yourself earlier&. The cause of death is still
 unknown for over half of those who passed away&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900810mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900810mm">
 "It's irregular&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900820bn">
-"Well&, certainly&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch07/13900820bn">
+"Well&, certainly&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900830mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900830mm">
 "Besides&, there are rumors about how the sky turned white&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900840bn">
+<voice name="”»" class="”»" src="voice/ch07/13900840bn">
 "Now that you mention it&, as time passed&, everyone totally stopped
 reporting on it&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900850mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900850mm">
 "Someone may have been putting pressure on the media&."
 
 </PRE>
@@ -575,48 +575,48 @@ reporting on it&."
 [text009]
 //Ÿ‹êÎ‚µ‚È‚ª‚ç
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900860su">
-"&.&.&.&.No way&."
+<voice name="z–K" class="z–K" src="voice/ch07/13900860su">
+"&.&.&.No way&."
 
 {	DeleteStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);
 	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900870bn">
-"&.&.&.&.The Meiwa Party?"
+<voice name="”»" class="”»" src="voice/ch07/13900870bn">
+"&.&.&.The Meiwa Party?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900880mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900880mm">
 "Probably&."
 
 {	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, true);
 	Stand("stŒì_ƒX[ƒc_’Êí","sigh", 200, @+150);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900890su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900890su">
 "Gehh!? Are you kiddin' me?"
 
 {	DeleteStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);
 	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 500, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900900bn">
+<voice name="”»" class="”»" src="voice/ch07/13900900bn">
 "We may need to take a thorough look at all the businesses and groups
-with connections to the Meiwa Party&.&.&.&."
+with connections to the Meiwa Party&.&.&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900910mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900910mm">
 "Already done&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, false);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900920bn">
+<voice name="”»" class="”»" src="voice/ch07/13900920bn">
 "That's Momo-chan for you&, always fast at work&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900930bn">
+<voice name="”»" class="”»" src="voice/ch07/13900930bn">
 "And?"
 
 {	Stand("stq_ƒX[ƒc_’Êí","sigh", 200, @-150);
@@ -627,7 +627,7 @@ She tilted her head a little&, making the bones in her neck crack
 pleasantly&.
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900940mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900940mm">
 "I didn't hit on anything likely-looking&. I gave up&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @+150);
@@ -635,26 +635,26 @@ pleasantly&.
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_pride", 300, true);}
 //Ÿ•ğ‚ê‚é
 //y”»z
-<voice name="”»" class="”»" src="ch07/13900950bn">
-"Gave up&, you say&.&.&.&. Momo-cha~an&."
+<voice name="”»" class="”»" src="voice/ch07/13900950bn">
+"Gave up&, you say&.&.&. Momo-cha~an&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13900960su">
+<voice name="z–K" class="z–K" src="voice/ch07/13900960su">
 "It isn't that your deductions are off the mark after all&,
-Momo-chan-san&.&.&.&.?"
+Momo-chan-san&.&.&.?"
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900970mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900970mm">
 "That could be the case&."
 
 //Ÿ¬º
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900980mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900980mm">
 "Even then&, I spend a lot of time researching this&. To the point of
 disregarding my real work&."
 
 //y•S£z
-<voice name="•S£" class="•S£" src="ch07/13900990mm">
+<voice name="•S£" class="•S£" src="voice/ch07/13900990mm">
 "But I reached my limits&. Either they're concealing everything with
 particular skill&, or as Suwa-chan suggested&, my conjecture is
 wrong&."
@@ -663,11 +663,11 @@ wrong&."
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, false);
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13901000bn">
+<voice name="”»" class="”»" src="voice/ch07/13901000bn">
 "Hmmm&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch07/13901010bn">
+<voice name="”»" class="”»" src="voice/ch07/13901010bn">
 "At times like this&, it's a detective's iron-clad rule to attack
 things from another angle&."
 
@@ -675,14 +675,14 @@ things from another angle&."
 	Stand("stŒì_ƒX[ƒc_’Êí","sigh", 200, @-150);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch07/13901020su">
-"Sempai&, do you have anything in mind?" 
+<voice name="z–K" class="z–K" src="voice/ch07/13901020su">
+"Sempai&, do you have anything in mind?"
 
 Stopping his fan-waving hand&, Ban licked his lips&.
 
 {	MusicStart("@CH*", 2000, 0, 0, 0, null, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch07/13901030bn">
+<voice name="”»" class="”»" src="voice/ch07/13901030bn">
 "Who would benefit from having the GE rate rise on the weekend?"
 
 </PRE>

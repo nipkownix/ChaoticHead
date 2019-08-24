@@ -99,35 +99,35 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚X == 2)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-But&, Nanami&.&.&.&.
+But&, Nanami&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800010se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800010se">
 "You've done well&, Takkii&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800020se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800020se">
 "You can get along fine from now on&, as a tragic big brother who's
 lost his little sister ô"
 
-A tragic brother&.&.&.&.
+A tragic brother&.&.&.
 
 //Ÿ‚o‚s‚r‚cƒs[ƒeƒB[ƒGƒXƒfƒB[
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800030se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800030se">
 "Tell them it's PTSD&, and they'll forgive you anything&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800040se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800040se">
 "You can become a full-time hikikomori&, fair and square&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800050se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800050se">
 "Ah&, maybe some hypocrite somewhere will sympathize with you and
 become your patron&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800060se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800060se">
 "Write whatever comes to mind in a blog&, catch a publisher's eye&,
 and you could have a bestseller on your hands!"
 
@@ -135,19 +135,19 @@ and you could have a bestseller on your hands!"
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800070se">
-"Stick on a shameless blurb like 'All of Japan wept&,' 
-And all those stupid&, easy-going people out there will get into it 
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800070se">
+"Stick on a shameless blurb like 'All of Japan wept&,'
+And all those stupid&, easy-going people out there will get into it
 And work up a total storm of rave reviews&. 'I was so moved&, I felt
 such empathy&.'"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800080se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800080se">
 "The royalties will come rolling in&. Half a year later&, they'll
 decide to make it into a movie!"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800090se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800090se">
 "It's incredible&. Just leave Nanamicchi to die&, and look what's
 waiting for you&, Takkii: a rose-colored life!"
 
@@ -155,11 +155,11 @@ waiting for you&, Takkii: a rose-colored life!"
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 200, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800100se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800100se">
 "Now&, what're you gonna choose?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800110se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800110se">
 "Keep fighting the good fight here&, but die and let everything go
 back to nothingness"
 
@@ -167,7 +167,7 @@ back to nothingness"
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 200, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800120se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800120se">
 "Or your rose-colored life?"
 
 </PRE>
@@ -217,38 +217,38 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚X == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-But&, Nanami&.&.&.&.
+But&, Nanami&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800130se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800130se">
 "Then I'll say it straight up for you&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800140se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800140se">
 "What's so bad about Nanamicchi being dead?"
 
-Eh&.&.&.&.
+Eh&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800150se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800150se">
 "Is Nanamicchi's life more important to you than your own?"
 
-Na&, Nanami is my beloved little sister&, and&.&.&.&.
+Na&, Nanami is my beloved little sister&, and&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800160se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800160se">
 "But when you get down to the nitty-gritty&, she's just another
 person&, right-o?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800170se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800170se">
 "You'll be sad if she dies&, sure&, but nothing more&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800180se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800180se">
 "How's that gonna harm you?"
 
-&.&.&.&.&.&.&.&.&.&.&.&.It wouldn't&.
+&.&.&.&.&.&.&.&.&.It wouldn't&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -258,51 +258,51 @@ person&, right-o?"
 <PRE box00>
 [text003]
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800190se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800190se">
 "What's more important&, your life or someone else's?"
 
 {	Stand("st¯—ˆ_ŠoÁŒã_’Êí","sad", 200, @0);
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_sad", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800200se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800200se">
 "If you die&, the world's over&, ya know?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800210se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800210se">
 "Your world's gonna be over&. You get it? There's nothing left behind
 once you die&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800220se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800220se">
 "There's no life after death&. There's no such thing as heaven&.
 There's no such thing as reincarnation&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800230se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800230se">
 "All that'll happen is that the biological processes of one little
 animal call Takkii stop working&, and you won't be be able to
 'observe' the world anymore&. That's the same as the world ending&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800240se">
-"Basically--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800240se">
+"Basically\"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800250se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800250se">
 "If you die&, the Nanamicchi you've been observing is gonna disappear
 anyway&. Not only Nanamicchi&. Rimicchi&, and Ayasecchi&, and me&,
 too&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800260se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800260se">
 "Everyone will vanish&."
 
 {	Stand("st¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @0);
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_sad", 0, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800270se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800270se">
 "But if Nanamicchi's the only one to die&, you won't have to
 disappear&, and your world won't have to disappear&, either&."
 
@@ -310,7 +310,7 @@ disappear&, and your world won't have to disappear&, either&."
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 200, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800280se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800280se">
 "You can watch the final episode of Burachu&, and you'll remain in a
 world where you can buy the Burachu game and figures planned for next
 year&, including new figures of me&."
@@ -319,15 +319,15 @@ year&, including new figures of me&."
 	FadeStand("st¯—ˆ_ŠoÁŒã_’Êí_normal", 300, true);
 	DeleteStand("st¯—ˆ_ŠoÁŒã_’Êí_happy", 200, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800290se">
-"Say&, Takkii--"
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800290se">
+"Say&, Takkii\"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800300se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800300se">
 "You wanna die?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800310se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800310se">
 "Do you not want to die?"
 
 </PRE>
@@ -361,10 +361,10 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚X == 0)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-But&, Nanami&.&.&.&.
+But&, Nanami&.&.&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800320se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800320se">
 "Whatever the case&, she's that insolent Nanamicchi&."
 
 {	MusicStart("@CH*",3000,0,0,0,null,true);
@@ -377,11 +377,12 @@ But&, Nanami&.&.&.&.
 	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 200, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800330se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800330se">
 "Even if you try your hardest to save her here&, d'you think she'll be
 grateful?"
 
-I took a sharp breath as Seira's words cu<pre>t</pre> to the core of the matter&.
+I took a sharp breath as Seira's words cu<pre>t</pre> to the
+core of the matter&.
 
 True enough&, regardless of whether I bet my life to help her&, Nanami
 would definitely say:
@@ -392,7 +393,7 @@ would definitely say:
 //Ÿ“{‚Á‚½Œû’²‚Å
 //‚u‚e//–Ï‘zƒZƒŠƒt
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800340na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800340na">
 "It's your fault I ended up in such a mess&, stupidhead!"
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @-100);
@@ -409,31 +410,31 @@ little sister&.
 I didn't moe over her&, and she didn't have the lovely soul of a 2-D
 character&.
 
-She was always looking down at me and secretly&.&.&.&. no&, blatantly
+She was always looking down at me and secretly&.&.&. no&, blatantly
 making a fool out of me&.
 
 It wasn't any of my business what happened to such an impertinent
-sister&.&.&.&.
+sister&.&.&.
 
 Seira-tan was one thing&, but it wasn't worthwhile to gamble my life
 on a shitty little sister like her&.
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800350se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800350se">
 "Takkii&, how about just thinking of yourself?"
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800360se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800360se">
 "I don't want you to die&, Takkii&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800370se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800370se">
 "I want to keep talking with you like this inside your head&, just the
 two of us&, forever&."
 
-Me too&.&.&.&.
+Me too&.&.&.
 I'm never as calm as when I'm talking to Seira-tan&.
-I don't give a crap about Nanami&.&.&.&.
+I don't give a crap about Nanami&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -467,36 +468,36 @@ I don't give a crap about Nanami&.&.&.&.
 <PRE box00>
 [text005]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800380ta">
-"I don't wanna&.&.&.&. die&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800380ta">
+"I don't wanna&.&.&. die&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800390ta">
-"I don't want to suffer&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800390ta">
+"I don't want to suffer&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800400ta">
-"I don't want to die&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800400ta">
+"I don't want to die&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800410ta">
-"I don't want to disappear&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800410ta">
+"I don't want to disappear&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800420ta">
-"It won't bother or hurt me&.&.&.&. no matter what happens to
-Nanami&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800420ta">
+"It won't bother or hurt me&.&.&. no matter what happens to
+Nanami&.&.&."
 
 I muttered
 As though to persuade myself&.
 
-The one in the right&.&.&.&.&. wasn't "Shogun&." It was Seira-tan&.
+The one in the right&.&.&.&. wasn't "Shogun&." It was Seira-tan&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800430ta">
-"That sword&.&.&.&. it looks like a sword&, but it isn't one&. It's
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800430ta">
+"That sword&.&.&. it looks like a sword&, but it isn't one&. It's
 just the way the light reflects off it&, or a trick of the
-eyes&.&.&.&."
+eyes&.&.&."
 
 {	CreateColor("F‚P", 150, 0, 0, 800, 600, "Black");
 	Fade("F‚P", 0, 0, null, true);
@@ -507,7 +508,7 @@ eyes&.&.&.&."
 	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","normal", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 200, true);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800440se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800440se">
 "Exactly&. Shall we go home?"
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","ero", 200, @-100);
@@ -515,27 +516,27 @@ eyes&.&.&.&."
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_normal", 100, false);}
 //Ÿ—D‚µ‚­
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800450se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800450se">
 "Cause once we go home&, it's okay if you look at my panties and jerk
 off to your heart's content&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800460ta">
-"&.&.&.&.&.&.&.&.&.Yeah&. I'm going back&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800460ta">
+"&.&.&.&.&.&.&.Yeah&. I'm going back&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800470ta">
-"I'm gonna go home&.&.&.&. and fap to you&, Seira-tan&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800470ta">
+"I'm gonna go home&.&.&. and fap to you&, Seira-tan&.&.&."
 
 {	Stand("bu¯—ˆ_ŠoÁŒã_’Êí","happy", 200, @-100);
 	FadeStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 200, true);
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_ero", 100, false);}
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800480se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800480se">
 "Oh&, yay&."
 
 //y¯—ˆz
-<voice name="¯—ˆ" class="¯—ˆ" src="ch06/12800490se">
+<voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12800490se">
 "I'll strike lots of ecchi poses for you&, Takkii&."
 
 </PRE>
@@ -564,61 +565,61 @@ That alone made me feel very much at peace&.
 
 I took Seira-tan out of my breast pocket and contemplated her smile&.
 As long as I had Seira-tan's forgiveness&, I didn't need anything
-else&.&.&.&.
+else&.&.&.
 
 I sniffled up the stuff running from my nose&.
 I veered around and walked up to "Shogun&."
 
 //Ÿ‚ ‚­‚Ü‚Å—]—T‚Ì‘Ô“x
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12800500su">
+<voice name="z–K" class="z–K" src="voice/ch06/12800500su">
 "Who gave you permission to move?"
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12800510su">
+<voice name="z–K" class="z–K" src="voice/ch06/12800510su">
 "You haven't cleared the quest yet&, have you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800520ta">
-"I'm&.&.&.&. I'm no hero&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800520ta">
+"I'm&.&.&. I'm no hero&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800530ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800530ta">
 "A screwball&, filthy otaku who can't even save his only little
-sister&.&.&.&. that's what I am&.&.&.&."
+sister&.&.&. that's what I am&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800540ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800540ta">
 "Don't expect anything of me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800550ta">
-"Don't look at me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800550ta">
+"Don't look at me&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800560ta">
-"Leave me be&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800560ta">
+"Leave me be&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch06/12800570su">
+<voice name="z–K" class="z–K" src="voice/ch06/12800570su">
 "Then I'm going to kill Nanami-chan&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800580ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800580ta">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800590ta">
-"She's probably dead anyway&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800590ta">
+"She's probably dead anyway&.&.&."
 
-She was already dead&.&.&.&.
+She was already dead&.&.&.
 
 "Shogun" had brutally murdered her&.
 
 Tomorrow they'd report about it all over the place&, as the sixth
 New-Gen case&.
 
-It saddened me&, but I couldn't do anything about it&.&.&.&.
+It saddened me&, but I couldn't do anything about it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -679,12 +680,12 @@ It saddened me&, but I couldn't do anything about it&.&.&.&.
 [text007]
 //Ÿ‘§‚àâ‚¦â‚¦
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800600na">
-"Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800600na">
+"Bro&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800610na">
-"Bro&.&.&.&. Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800610na">
+"Bro&.&.&. Bro&.&.&."
 
 The sound of water dripping&.
 It wasn't a rivulet of water&.
@@ -694,20 +695,20 @@ Nanami's blood&.
 Pure red blood trickling from the stump of her wrist&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800620na">
-"Why&.&.&.&. wouldn't&.&.&.&. you&.&.&.&. save me&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800620na">
+"Why&.&.&. wouldn't&.&.&. you&.&.&. save me&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800630na">
-"Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800630na">
+"Bro&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800640na">
-"Bro&, you're&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800640na">
+"Bro&, you're&.&.&."
 
 //Ÿ—â‚½‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch06/12800650na">
+<voice name="µŠC" class="µŠC" src="voice/ch06/12800650na">
 "The scum of the earth&."
 
 </PRE>
@@ -736,13 +737,13 @@ Pure red blood trickling from the stump of her wrist&.
 <PRE box00>
 [text008]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800660ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800660ta">
 "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHH!!!!"
 
-I screamed at the top of my lungs--
+I screamed at the top of my lungs\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800670ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800670ta">
 "How dare you!
 Howdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyou!!!!!!!"
 
@@ -756,9 +757,9 @@ Fury and grief and shame ground my thoughts to a pulp&.
 I charged blindly at "Shogun&."
 I grabbed at him&, sitting still in the shadows&.
 
-But--
+But\
 
-There was less of a physical response than I'd expected--
+There was less of a physical response than I'd expected\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -799,10 +800,10 @@ Rather than a once-living head&, it was clearly
 Something akin to a helmet&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800680ta">
-"This is&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800680ta">
+"This is&.&.&."
 
-A pitch-black helmet&.&.&.&.
+A pitch-black helmet&.&.&.
 
 {	Wait(1000);
 	CreateTextureEX("”wŒi‚Q", 100, 0, 0, "cg/bg/bg168_01_3_ƒ_[ƒXƒXƒpƒCƒ_[ƒƒbƒg_a.jpg");
@@ -812,8 +813,8 @@ A pitch-black helmet&.&.&.&.
 	Wait(3000);}
 //ƒCƒ[ƒW‚a‚f//ƒ_[ƒXƒXƒpƒCƒ_[‚Ìƒwƒ‹ƒƒbƒg
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch06/12800690ta">
-"Da&, Darth Spider&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/12800690ta">
+"Da&, Darth Spider&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

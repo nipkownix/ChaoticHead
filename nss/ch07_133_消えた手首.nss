@@ -45,15 +45,15 @@ hospital before my mom arrived&.
 How could I possibly face my family after having been shamed in front
 of the whole nation?
 
-Be&, besides&.&.&.&. if Nanami came&, I was positive I'd be overjoyed
-and start bawling&. 
+Be&, besides&.&.&. if Nanami came&, I was positive I'd be overjoyed
+and start bawling&.
 
 And without any idea of how I felt&, Nanami would yell at me
 straight-faced&, saying&, "Don't make me worry so much&, you moron!"
 
-When I envisioned that sce<pre>n</pre>e&, I almost fainted from embarrassment&.
-As a result&, I decided to beat a strategic retreat before I fell into
-such a situation&.
+When I envisioned that sce<pre>n</pre>e&, I almost fainted
+from embarrassment&. As a result&, I decided to beat a strategic
+retreat before I fell into such a situation&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -77,7 +77,7 @@ furtively left the hospital room&.
 
 I descended to the first floor and crossed the lobby&.
 Since the hospital hadn't opened yet&, the lobby&, which was normally
-bulging at the seams with old people&, was now quiet and still&.  
+bulging at the seams with old people&, was now quiet and still&.
 
 I managed to breeze out through the front entrance&.
 Fortunately&, the automatic doors opened properly for me&.
@@ -143,10 +143,10 @@ wait for me along the way&, I hastened back to my base&.
 <PRE box00>
 [text005]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300010ta">
-"Fuu&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300010ta">
+"Fuu&.&.&."
 
-I'd come back&.&.&.&.
+I'd come back&.&.&.
 
 My emotional state was utterly different from when I'd left here last
 night&.
@@ -155,10 +155,10 @@ Of course&, now I felt refreshed&. In fact&, I wanted to say a word or
 two to yesterday's self&.
 
 You take the bait too easily m9(^ÑD^)Ãﬂ∑ﬁ¨∞
-Nanami's gonna be okay even without you freaking out like that&, lol  
+Nanami's gonna be okay even without you freaking out like that&, lol
 Hehehe&, heh
 
---That kinda thing&.
+Å\That kinda thing&.
 
 But yesterday had been really tough&.
 Anything and everything had been tough&.
@@ -170,9 +170,9 @@ My hard disk data got cleared&.
 I'd been forced to witness Ayase's failed suicide attempt&.
 
 "Shogun" had emailed me&.
-He'd sent me a severed hand--
+He'd sent me a severed handÅ\
 
-A severed hand&.&.&.&.
+A severed hand&.&.&.
 
 {	MusicStart("@CH06", 0, 1000, 0, 1000, null, true);}
 My hyper mood drained away in an instant&.
@@ -184,7 +184,7 @@ I swallowed jerkily and cast my line of sight at the fridge&.
 //ÉYÅ[ÉÄ1.1î{ó‚ë†å…ÇøÇÂÇ¡Ç∆ÉAÉbÉv
 	Zoom("îwåiÇT", 1000, 1100, 1100, null, false);
 	Move("îwåiÇT", 1000, @-80, @-100, null, true);}
---That hand was in there&.
+Å\That hand was in there&.
 
 Yesterday&, before leaving here&, after considering what to do about
 it with my discombobulated mind&, I'd stuck the hand in the fridge for
@@ -211,11 +211,11 @@ they could surgically reattach it&.
 <PRE box00>
 [text006]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300020ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300020ta">
+"&.&.&.&.&.&.&."
 
 If it weren't Nanami's hand&.
-Whose could it be&.&.&.&.
+Whose could it be&.&.&.
 
 And how was I supposed to account for the cell phone and the bangle?
 
@@ -227,11 +227,11 @@ hand's grip&.
 Or else&, everything&, those parts included&, was part of the trap
 "Shogun" had laid for me&.
 
-Was it really possible to so perfectly replicate Nanami's arm&.&.&.&.
+Was it really possible to so perfectly replicate Nanami's arm&.&.&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300030ta">
-"Maybe I ought&, ought to check one more time&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300030ta">
+"Maybe I ought&, ought to check one more time&.&.&."
 
 Although I seriously didn't want to&.
 
@@ -243,7 +243,7 @@ who knew how long&. At this rate&, I wouldn't be able to chill my
 Coke&, either&.
 
 For a second I thought of giving it to the police&, but on second
-thought&, they suspected me of being the New-Gen perpetrator&.  
+thought&, they suspected me of being the New-Gen perpetrator&.
 
 Under those circumstances&, it'd be suicidal to call 110 and tell them
 "Please take a severed hand from me&."
@@ -252,7 +252,7 @@ What should I do?
 Maybe I ought to throw it away&.
 
 But I felt like it'd be bad to chuck it if it were Nanami's arm&,
-hypothetically speaking&.&.&.&.
+hypothetically speaking&.&.&.
 
 For starters&, was it okay to throw a human hand in the garbage?
 If you were going to&, did it belong with burnable garbage? Unburnable
@@ -284,11 +284,11 @@ Rimi might be my ally&, but finding a human hand in my fridge would
 make anyone pull back&. If I screwed up&, she might grow weary of me
 and send me to the police&.
 
-My only option was to do something about it myself&.&.&.&.
+My only option was to do something about it myself&.&.&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300040ta">
-"Uuh&, dammit&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300040ta">
+"Uuh&, dammit&.&.&."
 
 I grit my teeth&.
 I took another two deep breaths&.
@@ -316,8 +316,8 @@ And&, my mind made up&, I pulled the handle&.
 <PRE box00>
 [text008]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300041ta">
-"&.&.&.&.&.&.&.&.&.Hu&.&.&.&.h?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300041ta">
+"&.&.&.&.&.&.&.Hu&.&.&.h?"
 
 Gone&.
 I didn't spot it anywhere&.
@@ -334,8 +334,8 @@ clementines&.
 That was all&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300050ta">
-"Disappeared&.&.&.&. Why&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300050ta">
+"Disappeared&.&.&. Why&.&.&."
 
 It had unexpectedly vanished&.
 
@@ -346,8 +346,8 @@ Anyway&, I couldn't have overlooked it&, given that there wasn't much
 in here&, and it was mostly empty&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300060ta">
-"&.&.&.&.I put it in here yesterday&, didn't I&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300060ta">
+"&.&.&.I put it in here yesterday&, didn't I&.&.&."
 
 Or had I just made myself think that&, and in reality&, I'd left it
 sitting out&.
@@ -361,14 +361,14 @@ sitting out&.
 I closed the fridge and looked around the trash-strewn room&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch07/13300070ta">
-"The cardboard box is gone&.&.&.&. too&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/13300070ta">
+"The cardboard box is gone&.&.&. too&.&.&."
 
 The large cardboard box that the hand had been put in&.
 
-What had I done with it yesterday&.&.&.&.
+What had I done with it yesterday&.&.&.
 I had a sense that I'd tossed it into a corner of the room&,
-but&.&.&.&.
+but&.&.&.
 
 At any rate&, my memories of last night weren't very clear&.
 

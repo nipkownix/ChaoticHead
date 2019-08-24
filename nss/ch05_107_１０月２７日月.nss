@@ -47,7 +47,7 @@ I'd stayed shut up in my base without taking a single step outside&,
 but even then there were countless times when my anxiety almost drove
 me to email Rimi&, saying "Please come over&."<k>
 
-In the end&, I never pressed Send&, but&.&.&.&.
+In the end&, I never pressed Send&, but&.&.&.
 
 I was only freed from my nervousness during the thirty minutes when I
 was watching Burachu's latest episode&.
@@ -56,7 +56,7 @@ Even under these circumstances&, I made sure to keep up with Burachu&.
 
 Because&, if Rimi had become that which held me up in the third
 dimension&, my source of support in the second dimension was
-Burachu--<?>
+Burachu―<?>
 {	Stand("st星来_覚醒後_通常","happy", 200, @+150);
 	FadeStand("st星来_覚醒後_通常_happy", 500, true);}
 Or&, rather&, Seira-tan&.
@@ -78,10 +78,10 @@ Or&, rather&, Seira-tan&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text501]
-On Monday&, when I had somehow made it through the weekend&. 
+On Monday&, when I had somehow made it through the weekend&.
 
 When I browsed the Phantasm comm at Furepara&, it was remarkably full
-of flaming&, and I quickly followed a link to @channel&. 
+of flaming&, and I quickly followed a link to @channel&.
 There was an epic thread in progress&.
 
 </PRE>
@@ -108,12 +108,12 @@ There was an epic thread in progress&.
 [text901]
 //<FONT incolor="#0000ff"><U>1</U></FONT>  名前：<FONT incolor="#228b22">名無し読者の声</FONT>［age］：200X/10/27(月) 10:00:37  <FONT incolor="#0000ff"><U>ID:</U></FONT>eesWjb1L
 <FONT incolor="#0000ff"><U>1</U></FONT>  Name:<FONT incolor="#228b22"> Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:00:37  <FONT incolor="#0000ff"><U>ID:</U></FONT>eesWjb1L
-Kishimoto is the real name of FES from Phantasm&. 
-In the past&, she was a patient in a psychiatric ward&. 
-The hospital was called AHM&. 
+Kishimoto is the real name of FES from Phantasm&.
+In the past&, she was a patient in a psychiatric ward&.
+The hospital was called AHM&.
 　
 　
-P H A N T A S M   I S   O V E R 
+P H A N T A S M   I S   O V E R
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -128,7 +128,7 @@ P H A N T A S M   I S   O V E R
 [text902]
 <FONT incolor="#0000ff"><U>2</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:01:54  <FONT incolor="#0000ff"><U>ID:</U></FONT>qUl5/M9d
 <FONT incolor="#0000ff"><U><PRE>>>1</PRE></U></FONT>
-Good job making shit up 
+Good job making shit up
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -199,9 +199,9 @@ For real?
 <PRE @box03>
 [text908]
 <FONT incolor="#0000ff"><U>8</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:22:13  <FONT incolor="#0000ff"><U>ID:</U></FONT>K5o0oa4h
-Another anti-fan? 
-This is pretty sucky trolling 
-If you're gonna start a thread&, at least link to a source 
+Another anti-fan?
+This is pretty sucky trolling
+If you're gonna start a thread&, at least link to a source
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -211,10 +211,10 @@ If you're gonna start a thread&, at least link to a source
 <PRE @box03>
 [text909]
 <FONT incolor="#0000ff"><U>9</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［sage］：200X/10/27(M) 10:28:57  <FONT incolor="#0000ff"><U>ID:</U></FONT>72TttsCR
-Of course it's a lie that FES was hospitalized! 
-Don't you get embarrassed slandering her like that!? 
-I've never heard of AHM! 
-Fuck off! 
+Of course it's a lie that FES was hospitalized!
+Don't you get embarrassed slandering her like that!?
+I've never heard of AHM!
+Fuck off!
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -224,7 +224,7 @@ Fuck off!
 <PRE @box03>
 [text910]
 <FONT incolor="#0000ff"><U>10</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:31:43  <FONT incolor="#0000ff"><U>ID:</U></FONT>at2kQR1P
-<PRE>|д<◎>)&.｡oO(</PRE>The one watching you was me&.&.&.&. FES)
+<PRE>|д<◎>)&.｡oO(</PRE>The one watching you was me&.&.&. FES)
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -234,9 +234,9 @@ Fuck off!
 <PRE @box03>
 [text911]
 <FONT incolor="#0000ff"><U>11</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［sage］：200X/10/27(M) 10:36:44  <FONT incolor="#0000ff"><U>ID:</U></FONT>UYJ7cxFn
-Strike the stake! Strike the stake! 
-Strike it into the assholes spewing BS! 
-The next New-Gen victim is gonna be one of you! 
+Strike the stake! Strike the stake!
+Strike it into the assholes spewing BS!
+The next New-Gen victim is gonna be one of you!
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -248,13 +248,13 @@ The next New-Gen victim is gonna be one of you!
 <FONT incolor="#0000ff"><U>12</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:37:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>y2qPmwnX
 <FONT incolor="#0000ff"><U><PRE>>></PRE>1</U></FONT> is right&.
 　
-FES was hospitalized for a long time&, for psychological reasons&. 
+FES was hospitalized for a long time&, for psychological reasons&.
 Cause the hospital put out a free publication with patients' drawings
-and essays and poems&, and her poetry got introduced there&. 
-By the way&, the same thing's up on the hospital website&. 
+and essays and poems&, and her poetry got introduced there&.
+By the way&, the same thing's up on the hospital website&.
 　
 Her real name is Kishimoto A**se
-AHM = Ark Heart Medical Group 
+AHM = Ark Heart Medical Group
 　
 <FONT incolor="#0000ff"><U><PRE>http://www.arkheart-m.com/</PRE></U></FONT>
 　
@@ -276,9 +276,9 @@ Here we go――――(ﾟ∀ﾟ)――――！！！！！！！
 <PRE @box03>
 [text914]
 <FONT incolor="#0000ff"><U>14</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［sage］：200X/10/27(M) 10:38:33  <FONT incolor="#0000ff"><U>ID:</U></FONT>Z3P/lVlGe
-So that's as far as your love for her goes&. 
-Whatever&, I have fewer rivals now&. 
-Which is why FES is gonna be my bride&. 
+So that's as far as your love for her goes&.
+Whatever&, I have fewer rivals now&.
+Which is why FES is gonna be my bride&.
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -298,8 +298,8 @@ It's here――――――！！１！！！！！１
 <PRE @box03>
 [text916]
 <FONT incolor="#0000ff"><U>16</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:39:46  <FONT incolor="#0000ff"><U>ID:</U></FONT>a/919sdWu
-What lol 
-It's true lololol 
+What lol
+It's true lololol
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -322,7 +322,7 @@ Ohyesyesyes――――(ﾟ∀ﾟ)――――！！１１！１！！１
 [text918]
 <FONT incolor="#0000ff"><U>18</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:40:04  <FONT incolor="#0000ff"><U>ID:</U></FONT>vTSTxtoJ
 Fuel on the fire――――！！！！１！！
-There's a picture posted&, laughed myself shitless 
+There's a picture posted&, laughed myself shitless
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -334,7 +334,7 @@ There's a picture posted&, laughed myself shitless
 <FONT incolor="#0000ff"><U>19</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:41:37  <FONT incolor="#0000ff"><U>ID:</U></FONT>Rs6Q4Yri
 　
 　
---Notification: Phantasm is through-- 
+―Notification: Phantasm is through―
 　
 　
 </PRE>
@@ -345,8 +345,8 @@ There's a picture posted&, laughed myself shitless
 <PRE @box03>
 [text920]
 <FONT incolor="#0000ff"><U>20</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:41:15  <FONT incolor="#0000ff"><U>ID:</U></FONT>CEFd6ozz
-Is Phantasm gonna disband over this? 
-I liked FES a lot&, though (in a sexual sense 
+Is Phantasm gonna disband over this?
+I liked FES a lot&, though (in a sexual sense
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -366,7 +366,7 @@ Ohyesyesyes━━━━(ﾟ∀ﾟ)━━━━!!
 <PRE @box03>
 [text922]
 <FONT incolor="#0000ff"><U>22</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:41:26  <FONT incolor="#0000ff"><U>ID:</U></FONT>yAGLbP/i
-This must be someone's 'guidance' too&, lol 
+This must be someone's 'guidance' too&, lol
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -376,7 +376,7 @@ This must be someone's 'guidance' too&, lol
 <PRE @box03>
 [text923]
 <FONT incolor="#0000ff"><U>23</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:41:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>iouPUu/8
-<FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT> the poem there doesn't get used in her songs&, does it? 
+<FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT> the poem there doesn't get used in her songs&, does it?
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -387,8 +387,8 @@ This must be someone's 'guidance' too&, lol
 [text924]
 <FONT incolor="#0000ff"><U>24</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:42:54  <FONT incolor="#0000ff"><U>ID:</U></FONT>cc23WrJm
 　
-<PRE>|д<◎>)&.｡oO</PRE>(The one watching you was me&.&.&.&. Kishimoto
-Ayase) 
+<PRE>|д<◎>)&.｡oO</PRE>(The one watching you was me&.&.&. Kishimoto
+Ayase)
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -409,8 +409,8 @@ I'm seriously gOnnA cRy (･_･、)</PRE>
 <PRE @box03>
 [text926]
 <FONT incolor="#0000ff"><U>26</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:44:46  <FONT incolor="#0000ff"><U>ID:</U></FONT>MQdD6tiZ
-I can kind of understand it&. 
-They say there's a fine line between genius and madness&. 
+I can kind of understand it&.
+They say there's a fine line between genius and madness&.
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -420,8 +420,8 @@ They say there's a fine line between genius and madness&.
 <PRE @box03>
 [text927]
 <FONT incolor="#0000ff"><U>27</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:44:47  <FONT incolor="#0000ff"><U>ID:</U></FONT>7hVuUapR
-Disbandment flag&, here it comes!!!1!!1 
-Tonight'll be a Black Mass---!!1!!11! 
+Disbandment flag&, here it comes!!!1!!1
+Tonight'll be a Black Mass-!!1!!11!
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -434,9 +434,9 @@ Tonight'll be a Black Mass---!!1!!11!
 <FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT>
 <PRE>Young FES-tan (;ﾟ∀ﾟ)=3ﾊｧﾊｧ</PRE>
 　
-But this means Phantasm is dead for sure&. 
+But this means Phantasm is dead for sure&.
 Part of me thinks it fits them to end like this before going
-mainstream&. 
+mainstream&.
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -446,7 +446,7 @@ mainstream&.
 <PRE @box03>
 [text929]
 <FONT incolor="#0000ff"><U>29</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:45:40  <FONT incolor="#0000ff"><U>ID:</U></FONT>3Co3c7i7
-Still no comment on FES's official site? 
+Still no comment on FES's official site?
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -457,7 +457,7 @@ Still no comment on FES's official site?
 [text930]
 <FONT incolor="#0000ff"><U>30</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:46:11  <FONT incolor="#0000ff"><U>ID:</U></FONT>+k1PC04
 Nothing's gonna happen no matter how much @channel virgins make a
-ruckus online&, hahahahahahaha 
+ruckus online&, hahahahahahaha
 FES looks at the future&, not the past&. She's gonna predict your
 deaths hahahahaha
 　
@@ -469,7 +469,7 @@ deaths hahahahaha
 <PRE @box03>
 [text931]
 <FONT incolor="#0000ff"><U>31</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［sage］：200X/10/27(M) 10:46:28  <FONT incolor="#0000ff"><U>ID:</U></FONT>jbkzDIA0
-Wait&, is there some kind of problem with this? 
+Wait&, is there some kind of problem with this?
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -480,7 +480,8 @@ Wait&, is there some kind of problem with this?
 [text932]
 <FONT incolor="#0000ff"><U>32</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:46:37  <FONT incolor="#0000ff"><U>ID:</U></FONT>mfqH7MW3
 <FONT incolor="#0000ff"><U><PRE>>>9</PRE></U> <U><PRE>>>11</PRE></U></FONT>
-Nice try&, we know you're one of them&. Must be desperate to keep the band going&, lol 
+Nice try&, we know you're one of them&. Must be desperate to
+keep the band going&, lol
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -490,7 +491,7 @@ Nice try&, we know you're one of them&. Must be desperate to keep the band going
 <PRE @box03>
 [text933]
 <FONT incolor="#0000ff"><U>33</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader</FONT>［age］：200X/10/27(M) 10:48:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>KSP4inc
-We knew all along that FES was a little weird in the head&. 
+We knew all along that FES was a little weird in the head&.
 What's the big deal now?
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -515,7 +516,7 @@ But that's a good thing&.
 <PRE @box03>
 [text935]
 <FONT incolor="#0000ff"><U>35</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader</FONT>［sage］：200X/10/27(M) 10:49:43  <FONT incolor="#0000ff"><U>ID:</U></FONT>29tmBiNS
-Calm down&, you guys! 
+Calm down&, you guys!
 It's all a huge hoax by FES-tan!
 
 </PRE>
@@ -527,8 +528,8 @@ It's all a huge hoax by FES-tan!
 [text936]
 <FONT incolor="#0000ff"><U>36</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader</FONT>［sage］：200X/10/27(M) 10:50:16  <FONT incolor="#0000ff"><U>ID:</U></FONT>p4gEJAwl
 FES must've broken down because of the malice filling the world&.
-That was the power that awoke her punk-rocker soul&. 
-Those keen&, aggressive lyrics are the sublimated cries of her soul&. 
+That was the power that awoke her punk-rocker soul&.
+Those keen&, aggressive lyrics are the sublimated cries of her soul&.
 On the contrary&, we ought to unconditionally bless the facts given
 out by <FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT>
 
@@ -541,8 +542,8 @@ out by <FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT>
 <PRE @box03>
 [text937]
 <FONT incolor="#0000ff"><U>37</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader</FONT>［sage］：200X/10/27(M) 10:54:33  <FONT incolor="#0000ff"><U>ID:</U></FONT>s7OxTiTA
-The site's down&. 
-They running away? 
+The site's down&.
+They running away?
 
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -634,14 +635,14 @@ picture of the young Kishimoto Ayase and a poem she had written&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch05/10700010ta">
-"Ayase's a mental patient&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch05/10700010ta">
+"Ayase's a mental patient&.&.&."
 
-It wasn't that it particularly shocked me&. 
+It wasn't that it particularly shocked me&.
 
 When I was in elementary school&, I myself had regularly gone to a
-hospital's psychiatric ward&. 
-That was why&, on the contrary&, I sympathized with her&. 
+hospital's psychiatric ward&.
+That was why&, on the contrary&, I sympathized with her&.
 
 Ayase was the same as me&.
 
@@ -649,27 +650,27 @@ She was the same as me&, even with her incredible aura and her
 charismatic way of drawing Shibuya's youth to her&.
 
 This common point between the two of us lent a certain veracity to the
-hypothesis that she and I might possess the same power--the ability to
-project delusions into reality&. 
+hypothesis that she and I might possess the same power―the ability to
+project delusions into reality&.
 
-It would be safe to say that this lent me courage and hope&. 
+It would be safe to say that this lent me courage and hope&.
 
-Only-- 
+Only―
 
-There was just one problem&. 
+There was just one problem&.
 
 Up until now&, I'd taken everything Ayase told me at face value&, but
 that might have been a mistake on my part&.
 
-How to obtain a Di-Sword&. 
+How to obtain a Di-Sword&.
 
-That I would be saved if I obtained one&. 
+That I would be saved if I obtained one&.
 
 I began to have doubts&, not about the "phenomena" she had shown me&,
 but rather about the "words" she had spoken&.
 
-Should I believe her? 
-Or--
+Should I believe her?
+Or―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -687,7 +688,7 @@ Or--
 <PRE box00>
 [text005]
 The abrupt sound of my phone's ringtone made me jerk&. Cell phones
-sure seemed to enjoy catching me by surprise&.&.&.&.
+sure seemed to enjoy catching me by surprise&.&.&.
 
 This was what I hated about them&.
 
@@ -698,7 +699,7 @@ The caller had to be Nanami&.
 
 She was definitely gonna shower me with her useless and belated
 complaints again&.
-Ahh&, what a pain&.&.&.&.
+Ahh&, what a pain&.&.&.
 
 
 {	SetVolume("@CH04", 0, 0, NULL);
@@ -709,9 +710,9 @@ Was what I thought as I pressed the button to put me through&, and
 laid the phone against my ear&, all without checking the caller's
 number&.
 
-Why hadn't I--
+Why hadn't I―
 
-Why&, just this one time&, hadn't I checked the caller's number--
+Why&, just this one time&, hadn't I checked the caller's number―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -732,12 +733,12 @@ Why&, just this one time&, hadn't I checked the caller's number--
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch05/10700020ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch05/10700020ta">
+"&.&.&.!"
 
-The incredibly loud melody I heard coming through the phone&.&.&.&. 
+The incredibly loud melody I heard coming through the phone&.&.&.
 
-"Let Me Pass"&.&.&.&. 
+"Let Me Pass"&.&.&.
 
 I hastily confirmed the number displayed on the LCD screen&.
 
@@ -758,11 +759,11 @@ I hastily confirmed the number displayed on the LCD screen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-This number&, as I'd thought&.&.&.&. 
+This number&, as I'd thought&.&.&.
 
 No&, why!?
 
-Wasn't it supposed to be out of use!? 
+Wasn't it supposed to be out of use!?
 
 When I had Nanami call it to make sure&, hadn't that announcement
 played at us!?
@@ -780,36 +781,36 @@ Or else&, had the prankster brought the number back?
 <PRE box00>
 [text008]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch05/10700030ta">
-"Wh&, what should I do&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch05/10700030ta">
+"Wh&, what should I do&.&.&.?"
 
-Panicking&, I turned back toward the center of the room&. 
+Panicking&, I turned back toward the center of the room&.
 
-Surely Rimi would be there&, and she'd give me some kind of advice-- 
+Surely Rimi would be there&, and she'd give me some kind of advice―
 
 She wasn't&.
 
-Of course not&. 
-Rimi was taking classes at school right now&. 
+Of course not&.
+Rimi was taking classes at school right now&.
 
 Because I'd told her ahead of time that I wouldn't be going to school
-today&, she hadn't come to pick me up in the morning&. 
+today&, she hadn't come to pick me up in the morning&.
 
 As I stood there&, shaken up&, "Let Me Pass" continued playing through
-the cell phone&. 
+the cell phone&.
 A full minute had already gone by&.
 
 I'd only caught a little bit of it before&, but I'd heard some noise
 aside from "Let Me Pass&."
 
 Even if you limited it to only the sounds I could recognize&, there
-were car engines and people's footsteps&, so it must be outdoors&. 
+were car engines and people's footsteps&, so it must be outdoors&.
 
-Who the hell was the person calling me? 
+Who the hell was the person calling me?
 
-I could only think of one who might set up this kind of hoax-- 
+I could only think of one who might set up this kind of hoax―
 
-"Shogun"&.&.&.&. 
+"Shogun"&.&.&.
 
 Troubled&, I looked at the Seira-tan standing next to my PC&.
 
@@ -821,37 +822,37 @@ Troubled&, I looked at the Seira-tan standing next to my PC&.
 <PRE box00>
 [text009]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch05/10700040ta">
-"Wh&, wh&, wh&, what should I do&, Seira&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch05/10700040ta">
+"Wh&, wh&, wh&, what should I do&, Seira&.&.&."
 
-Seira-tan faced me with the exact same smile as always--
+Seira-tan faced me with the exact same smile as always―
 
 //ＶＦ//妄想セリフ
 //【星来】
-<voice name="星来" class="星来" src="ch05/10700050se">
+<voice name="星来" class="星来" src="voice/ch05/10700050se">
 "C<pre>u</pre>t the line&. Ignore him&, ignore him!"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch05/10700060ta">
-"I&, I see&.&.&.&. you're right&.&.&.&. I could do that&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch05/10700060ta">
+"I&, I see&.&.&. you're right&.&.&. I could do that&.&.&."
 
 Of course&, I should've done so from the start&.
 
-I laid my thumb against the phone's End Call button&. 
+I laid my thumb against the phone's End Call button&.
 
-But&, for some reason&. 
+But&, for some reason&.
 
-Before I c<pre>u</pre>t it off&, I thought I'd listen to "Let Me Pass" one more
-time&, for a little bit longer&. 
+Before I c<pre>u</pre>t it off&, I thought I'd listen to "Let Me Pass"
+one more time&, for a little bit longer&.
 
 It felt strange even to me&.
 
 It creeped me out&, so I should have wanted to end it as soon as
-possible&. 
+possible&.
 
-I 
+I
 Mostly unconsciously
-Took the cell phone in my grip 
+Took the cell phone in my grip
 And lifted it to my ear&.
 
 </PRE>
@@ -911,32 +912,32 @@ And lifted it to my ear&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-It came surging out of the phone&. 
+It came surging out of the phone&.
 
-Ghastly pain&. 
+Ghastly pain&.
 
 The violence of a noise like ultrasonic waves&.
 
-That sound infected my body&. 
+That sound infected my body&.
 
-An impact like lightning struck my head&. 
+An impact like lightning struck my head&.
 
-My whole body went petrified&. 
+My whole body went petrified&.
 
-I screamed my lungs out&, but I couldn't hear my own voice&. 
+I screamed my lungs out&, but I couldn't hear my own voice&.
 
-It boiled&. 
+It boiled&.
 
-My brain&. 
+My brain&.
 
-My heart&. 
+My heart&.
 
-They boiled&, they bubbled&, they melted in glops-- 
+They boiled&, they bubbled&, they melted in glops―
 
-Pain chewed through my body from the inside&, crawling around me-- 
+Pain chewed through my body from the inside&, crawling around me―
 
 My consciousness went liquid and coursed through me until&, in the
-end&, it arrived at my heart and exploded and scattered into mist-- 
+end&, it arrived at my heart and exploded and scattered into mist―
 
 Those incoherent sensations controlled me&, leaving me unable to think
 about what was happening&.

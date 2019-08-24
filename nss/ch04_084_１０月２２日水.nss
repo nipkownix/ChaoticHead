@@ -49,38 +49,38 @@ function ch04_084_ÇPÇOåéÇQÇQì˙êÖ()
 [text001]
 The usual Room 37&.
 As I sank my hips into its reclining chair&, I chewed on my nails to
-distract myself from my irritation&. 
+distract myself from my irritation&.
 
 There was a reason I had come to @Cafe yesterday and today in
-succession&. 
+succession&.
 
-The night of the day before yesterday&. 
+The night of the day before yesterday&.
 After I found out from Grim's investigation that Sena had been telling
-me the truth&, I got an email from Yua&. 
+me the truth&, I got an email from Yua&.
 
 Plus&, she was presumptuous enough to mention that she wanted to talk
-with me one more time&. 
+with me one more time&.
 
-Don't fuck around with me&, I'd like to say to her&. 
+Don't fuck around with me&, I'd like to say to her&.
 
 What's with saying "I want to talk with you" after deceiving me?
-There's nothing you could possibly have to tell me&. 
+There's nothing you could possibly have to tell me&.
 
 Anyway&, she must've come up with a new plan to entrap me or
-something&. I'm not gonna play along with her&. 
+something&. I'm not gonna play along with her&.
 
-Yes&, I wasn't used to conversing with girls&. 
-As a result&, I'd been totally taken in when Yua made a play for me&. 
+Yes&, I wasn't used to conversing with girls&.
+As a result&, I'd been totally taken in when Yua made a play for me&.
 
-Seeing me like that&, she'd been secretly mocking me&. 
+Seeing me like that&, she'd been secretly mocking me&.
 
-And then there were her incomprehensible delusions&. 
+And then there were her incomprehensible delusions&.
 
 I have plenty of delusions myself&, but mine doesn't cause any
-inconvenience to other people&. 
+inconvenience to other people&.
 
 But she'd regurgitated her theories at me in a way that almost made it
-seem like I was the New Gen criminal&. 
+seem like I was the New Gen criminal&.
 
 I'd never forgive her&.
 
@@ -94,40 +94,40 @@ I'd never forgive her&.
 And so I'd ignored her email&, but one thing still concerned me&.
 
 In the email&, Yua had written that she was going to my base&.
-Indeed&, she did know my address&. 
+Indeed&, she did know my address&.
 
 Which was why I'd taken refuge in @Cafe&, even though today wasn't a
-school day for me&. 
+school day for me&.
 
 If possible&, I'd have liked to bring my Di-Sword for good luck&, but
 unlike Sena&, I didn't have the guts to walk around the shopping
-district carrying it with me&. 
+district carrying it with me&.
 
 All that aside&, it was pretty tiring to spend almost half the day at
 a net cafe&.
 
 The reclining seat was comfortable&, and the store interior even came
 equipped with showers&, but I certainly couldn't make myself feel as
-at home as in my base&. 
+at home as in my base&.
 
-Besides&, the biggest problem was Seira-tan's absence&. 
+Besides&, the biggest problem was Seira-tan's absence&.
 
 Spending these past two days shut up in @Cafe had really made me see
-just how vital Seira-tan's existence was to me&. 
+just how vital Seira-tan's existence was to me&.
 
-I wanted to return to my base fast&. 
+I wanted to return to my base fast&.
 
 But I had decided to go home late at night&, after one day changed to
-the next&. 
+the next&.
 
-By that time&, the last train would have run&, 
-And I didn't think even Yua would be lying in wait for me&. 
+By that time&, the last train would have run&,
+And I didn't think even Yua would be lying in wait for me&.
 
-I had another four hours to kill before midnight&. 
+I had another four hours to kill before midnight&.
 
-It'd go by quickly if I played ESO&, but&.&.&.&.
+It'd go by quickly if I played ESO&, but&.&.&.
 
-I shifted my gaze to the PC monitor&. 
+I shifted my gaze to the PC monitor&.
 
 My secondary character&, Liselotte&, was standing there with nothing
 to do&.
@@ -158,7 +158,7 @@ to do&.
 [text003]
 //ÇuÇe//âÒëzÉZÉäÉt
 //ÅyÉZÉiÅz
-<voice name="ÉZÉi" class="ÉZÉi" src="ch04/08400010sn">
+<voice name="ÉZÉi" class="ÉZÉi" src="voice/ch04/08400010sn">
 "&.&.&.Is the view you see the real thing?"
 
 {	Fade("back10", 100, 1000, null, true);
@@ -183,7 +183,7 @@ skillful and effective method by which to threaten someone&.
 
 Though I understood that with my reason&, the unexplainable phenomena
 that had occurred to me over these past few weeks kept flitting across
-my brain&, and they remained terrifying no matter what I did&.&.&.&.
+my brain&, and they remained terrifying no matter what I did&.&.&.
 
 I absentmindedly contemplated Liselotte inside the screen&.
 
@@ -195,7 +195,7 @@ I absentmindedly contemplated Liselotte inside the screen&.
 <PRE box00>
 [text004]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch04/08400020ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08400020ta">
 "Liselotte&, is the view you see the real thing?"
 
 I muttered in a soft voice&, so as to keep anyone nearby from hearing
@@ -222,7 +222,7 @@ under her own power&.
 Then what about me?
 
 Would I even be able to rise from this reclining seat if "the person
-behind me" chose not to intervene&.&.&.&.
+behind me" chose not to intervene&.&.&.
 
 {	CreateSE("SE10","SE_êlëÃ_ìÆçÏ_êKñ›");
 	MusicStart("SE10", 0, 1000, 0, 1000, null, false);}
@@ -250,14 +250,14 @@ I had no way to determine which was which&, and
 <PRE box00>
 [text005]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch04/08400030ta">
-"Eh&.&.&.&.?" 
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08400030ta">
+"Eh&.&.&.?"
 
 The door that set apart this private room was opening; I heard it at
-my back&. 
+my back&.
 I simultaneously sensed someone enter&.
 
-Startled&, I turned--
+Startled&, I turnedÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -278,7 +278,7 @@ Startled&, I turned--
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text006]
-Kusunoki&.&.&.&. Yua&.&.&.&.!
+Kusunoki&.&.&. Yua&.&.&.!
 
 I was about to cry out in dread&.
 
@@ -308,44 +308,44 @@ scent of her sweat&.
 //Åüà»â∫ÅAóDà§ÇÃê∫ÇÕÇ∑Ç◊Çƒè¨ê∫
 //Åüå˚í≤ÇÕó‚ìOÇ…
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400040yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400040yu">
 "Shut up&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400050yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400050yu">
 "Don't make a sound&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400060yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400060yu">
 "Promise me you won't&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400070yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400070yu">
 "You'll promise&, won't you?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400080yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400080yu">
 "You won't say you aren't going to?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400090yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400090yu">
 "Promise me&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400100yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400100yu">
 "You'll do it&, right?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400110yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400110yu">
 "Do it&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400120yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400120yu">
 "Please&."
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch04/08400130ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08400130ta">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -358,11 +358,11 @@ scent of her sweat&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text008]
-The small private room&. 
-Yua blocked off my escape route&. 
+The small private room&.
+Yua blocked off my escape route&.
 
 Before I knew it&, Yua had pressed down on my shoulders with stunning
-strength&, and I couldn't get up from my chair&, either&. 
+strength&, and I couldn't get up from my chair&, either&.
 
 Yua's gaze pierced me coldly at point-blank range&.
 
@@ -370,15 +370,15 @@ When I averted my eyes&, unable to endure it&, I saw the three
 Gero-froggies attached to the bag hanging from her shoulder&.
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400140yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400140yu">
 "Okay?"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400150yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400150yu">
 "Don't make-"
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch04/08400160yu">
+<voice name="óDà§" class="óDà§" src="voice/ch04/08400160yu">
 "-a sound&."
 
 </PRE>

@@ -51,11 +51,11 @@ function ch03_061_µŠC‚Æƒoƒ“ƒOƒ‹()
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-Haa&, haa&, I'd made it back at last&.&.&.&.
+Haa&, haa&, I'd made it back at last&.&.&.
 
 Partway through&, I'd broken into a run and had kept at it ever
 since&, so I was breathing hard by the time I reached my base&.
-The cold looks from the other pedestrians had really stung&.&.&.&.
+The cold looks from the other pedestrians had really stung&.&.&.
 
 I was impressed with Sena for being able to endure this
 embarrassment&. In a certain sense&, it made me respect her&. I stood
@@ -79,13 +79,13 @@ no chance of following in her footsteps&.
 <PRE box00>
 [text002]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100010ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100010ta">
 "Nn!?"
 
 An abrupt sound came from my blind spot&, a place I couldn't see from
 here in the shadow of my base&.
 
-Was someone there&.&.&.&.?
+Was someone there&.&.&.?
 
 {	CreateSE("SE01","SE_l‘Ì_S‘Ÿ_ŒÛ“®_Loop");
 	SoundPlay("SE01", 0, 1000, true);}
@@ -112,12 +112,12 @@ Sena's sword had possessed a mysterious formidability and an
 overwhelming kind of pressure that refused to let anyone near it&.
 
 But the Di-Sword in my hands didn't have anything of the sort&. Maybe
-it really was a fake&.&.&.&.
+it really was a fake&.&.&.
 
 Could I fight with something like this?
 
-O&, of course I couldn't&.&.&.&. I couldn't do it even if I had the
-real thing&.&.&.&.
+O&, of course I couldn't&.&.&. I couldn't do it even if I had the
+real thing&.&.&.
 
 Plus&, I hadn't understood until I tried holding it the way I was
 now&, but it was pretty heavy&. Maybe I was gripping it wrong&.
@@ -139,8 +139,8 @@ It was approaching me&.
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100020ta">
-"St&, stay away&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100020ta">
+"St&, stay away&.&.&."
 
 //‚¨‚ª‚İFSE—~‚µ‚¢
 {	CreateSE("SE03","SE_l‘Ì_“®ì_è_–_‚ğU‚è‰ñ‚·");
@@ -157,16 +157,16 @@ My enemy didn't say anything&.
 
 Could it be that a single strike from my Di-Sword had utterly
 destroyed the demon girl?
-If so&, it'd be beyond amazing--
+If so&, it'd be beyond amazing\
 
 {	SoundPlay("SE01", 500, 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100030na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100030na">
 "Bro&, what's with the sword?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100040ta">
-"Eh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100040ta">
+"Eh&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -192,15 +192,15 @@ She was looking at me a tad derisively&.
 
 {	MusicStart("@CH03", 0, 1000, 0, 1000, null, true);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100050ta">
-"Wh&, wha&, wha&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100050ta">
+"Wh&, wha&, wha&.&.&."
 
 All the strength went out of me at once&. I flopped right down where
 I'd been standing&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100060ta">
-"Y&, you&.&.&.&. Don't scare me&.&.&.&. like that&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100060ta">
+"Y&, you&.&.&. Don't scare me&.&.&. like that&.&.&."
 
 She was the worst&. The worst little sister ever&.
 It's in horribly poor taste to enjoy freaking out your brother&.
@@ -213,16 +213,16 @@ would never hold a candle to the second&.
 	Stand("buµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_angry", 400, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100070na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100070na">
 "I wasn't trying to scare you&. I only came to see if you were alive&,
 like usual&. But you weren't here&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100080na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100080na">
 "Why do I have to wait for half an hour&, worrying about you the whole
 time? You've made my precious time go poof&, stupid&."
 
-Worrying&.&.&.&.?
+Worrying&.&.&.?
 She'd been worrying about me?
 Like I'd be fooled by such an obvious lie&.
 
@@ -230,7 +230,7 @@ Like I'd be fooled by such an obvious lie&.
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_angry", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100090na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100090na">
 "So&, where'd ya go? You almost never head out&, right? You didn't
 pick up when I called your cell&, either&."
 
@@ -242,11 +242,11 @@ point in holding onto it&.
 	FadeStand("buµŠC_§•_’Êí_shock", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100100na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100100na">
 "For starters&, what's that sword?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100110na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100110na">
 "Did you just get back from buying it?"
 
 Nanami gazed curiously at the sword&.
@@ -255,25 +255,25 @@ Nanami gazed curiously at the sword&.
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100120na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100120na">
 "Ah&, I get it&. It's an anime toy or something&, isn't it? Since
 you're an otaku and all&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100130na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100130na">
 "But this toy doesn't suit you at all&, you know&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100140na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100140na">
 "Before&, you were standing there hunched over&, holding it
-ready&.&.&.&. Pfft&, I'm gonna crack up just thinking about it&."
+ready&.&.&. Pfft&, I'm gonna crack up just thinking about it&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100150ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100150ta">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 200, false);}
 Ignoring Nanami&, I undid the lock on the container house's door and
@@ -290,12 +290,12 @@ began to go in&.
 <PRE box00>
 [text005]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100160na">
-"W&, wait! Don't ignore me--!"
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100160na">
+"W&, wait! Don't ignore me-!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100170ta">
-"G&, go home&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100170ta">
+"G&, go home&.&.&."
 
 If she'd come to check on my survival&, she didn't have anything left
 to do here&.
@@ -309,41 +309,41 @@ well&.
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, false);
 	DeleteStand("buµŠC_§•_’Êí_pride", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100180na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100180na">
 "Um&, hey&, since I came all the way out here to see how you were&,
 try to be a little more grateful&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100190na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100190na">
 //ŸX‚Ë‚½Œû’²
-"I even brought you a present and everything&.&.&.&."
+"I even brought you a present and everything&.&.&."
 
 Nanami spoke sulkily&, pouting&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100200ta">
-"A present&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100200ta">
+"A present&.&.&.?"
 
 {	Stand("buµŠC_§•_’Êí","normal", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_normal", 500, false);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100210na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100210na">
 "Yeah! Mom told me to bring it&. Here&."
 
 Nanami handed me clementines&.
 There were about ten of them&, held in red netting&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100220ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100220ta">
+"&.&.&.&.&.&.&."
 
-I had mixed feelings about this&.&.&.&.
+I had mixed feelings about this&.&.&.
 I'd eat clementines if they were there in front of me&, but they
 weren't my favorite food or whatever&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100230na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100230na">
 //ŸuH‚×‚½‚°‚évuH‚×‚Ä‚ ‚°‚év
 {	Stand("buµŠC_§•_’Êí","smile", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
@@ -352,14 +352,14 @@ weren't my favorite food or whatever&.
 with you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100240ta">
-"Go home&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100240ta">
+"Go home&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_angry", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_smile", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100250na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100250na">
 "Sheesh! Your sister's brought you a present&, and she's saying she'll
 help you eat it&, you know!? Be a little happier!"
 
@@ -400,10 +400,10 @@ followed after her&.
 <PRE box00>
 [text006]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100260na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100260na">
 "Do you have tea? Something warm would be the best&."
 
-As if I would&.&.&.&. Basically&, I don't drink anything besides
+As if I would&.&.&. Basically&, I don't drink anything besides
 Coke&.
 
 {	DeleteStand("buµŠC_§•_’Êí_smile", 500, false);
@@ -414,7 +414,7 @@ Sighing&, I leaned the Di-Sword up against my computer desk&. I didn't
 need the bangle in my pocket&, so I lobbed it&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100270na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100270na">
 "Huh? What's that?"
 
 Quickly spotting the bangle I'd tossed away at the floor&, Nanami
@@ -435,61 +435,61 @@ picked it up&.
 <PRE box00>
 [text007]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100280na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100280na">
 "Heehh~ It's a cute bangle&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100290na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100290na">
 "Did you come from buying this&, too? It's in pretty good taste&, at
 least for you&."
 
 Cute&, she says?
 What about it? No matter how I looked at it&, it was a piece of kitsch
 one could buy for the likes of 500 yen&.
-Nanami was the one with bad taste&. 
+Nanami was the one with bad taste&.
 
 Disregarding her&, I took one of the clementines and went to sit in
 front of my PC&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100300na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100300na">
 "Hey&, hey&. Why're you throwing this away?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100310ta">
-"Be&, because&, I don't need it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100310ta">
+"Be&, because&, I don't need it&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100320na">
-"Hmmm&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100320na">
+"Hmmm&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100330na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100330na">
 "Then I'll take it!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100340ta">
-"Haa&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100340ta">
+"Haa&.&.&.?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100350na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100350na">
 "It's fine&. You were gonna get rid of it anyway&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100360na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100360na">
 "One in a while&, act more brotherly and give your little sister a
 present&."
 
 You call it a present&, but it's an unneeded item that you started
-coveting all on your own&.&.&.&.
+coveting all on your own&.&.&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100370ta">
-"T&, then go ahead and take it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100370ta">
+"T&, then go ahead and take it&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100380na">
-"Really!? Whee--"
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100380na">
+"Really!? Whee\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -504,60 +504,60 @@ coveting all on your own&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-What an uncontrollable chick&. 
+What an uncontrollable chick&.
 Gotten the go-ahead from me&, she put the bangle around her wrist
 right away&. She was a pretty cheap sister to get delighted over such
 a cheap item&, hehehe&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100390na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100390na">
 //ŸŠğ‚µ‚»‚¤
 "Heheh~ Bro&, whaddaya think? Does it look good on me?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100400ta">
-"N&, not at all&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100400ta">
+"N&, not at all&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100410na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100410na">
 "Oh&, really&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100420na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100420na">
 //ŸŠğ‚µ‚»‚¤‚É
 "Stupidhead&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100430ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100430ta">
+"&.&.&.&.&.&.&."
 
-I was supposed to have been giving her a present&, wasn't I&.&.&.&.
+I was supposed to have been giving her a present&, wasn't I&.&.&.
 So what was with this treatment?
-Little sisters weren't supposed to call their brothers stupid&.&.&.&. 
+Little sisters weren't supposed to call their brothers stupid&.&.&.
 
 What kind of education have you been receiving&, huh!?
 Go play a hundred eroge!
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100440na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100440na">
 //ŸŠğ‚µ‚»‚¤‚É
 "Heheh~&, dummy&."
 
 She was grinning perkily&.
-I was getting really pissed off here&.&.&.&.
+I was getting really pissed off here&.&.&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100450na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100450na">
 //ŸŠğ‚µ‚»‚¤
 "I like this&, so I'm not gonna return it anymore&, okay?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100460na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100460na">
 "Actually&, I feel like this might be the first time I've ever gotten
 a present from you&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100470na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100470na">
 "Well&, that can't be helped&, so I'll take real good care of it for
 you&."
 
@@ -566,13 +566,13 @@ No one asked you to treasure it&.
 I hadn't gotten it for Nanami's sake&, to begin with&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100480ta">
-"If&, if you're done here&, go home&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100480ta">
+"If&, if you're done here&, go home&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100490ta">
-"I&, I have things&.&.&.&. to do&.&.&.&. D&, don't get in my
-way&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100490ta">
+"I&, I have things&.&.&. to do&.&.&. D&, don't get in my
+way&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -593,61 +593,61 @@ way&.&.&.&."
 [text009]
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100500na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100500na">
+"&.&.&.&.&.&.&."
 
 The moment I said it&, Nanami pursed her lips&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100510na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100510na">
 "You don't have to say it like that&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100520na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100520na">
 "And we haven't eaten the clementines yet&, and you haven't poured me
 any tea yet&."
 
 //Ÿ¦‚í‚´‚Æ‚±‚ñ‚ÈƒZƒŠƒt‚Å‚·
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100530ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100530ta">
 "I&, I don't have any tea for you to drink&."
 
 {	Stand("buµŠC_§•_’Êí","angry", 200, @-150);
 	FadeStand("buµŠC_§•_’Êí_angry", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_pride", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100540na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100540na">
 "So~ pissed~"
 
 Nanami glared at me fixedly&, her shoulders tense with anger&. At last
-her eyes started to well up--
+her eyes started to well up\
 
 {	Stand("buµŠC_§•_X‚Ë","sad", 200, @-150);
 	FadeStand("buµŠC_§•_X‚Ë_sad", 500, false);
 	DeleteStand("buµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100550na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100550na">
 "I got it! If I'm that much of a bother&, I'll leave!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06100560ta">
-"Yeah&, make it fast&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06100560ta">
+"Yeah&, make it fast&.&.&."
 
 //Ÿ•s–‚°‚É‚¤‚È‚é
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100570na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100570na">
 "Urrggh~~~"
 
 {	Stand("buµŠC_§•_ƒLƒŒ","mad", 200, @-150);
 	FadeStand("buµŠC_§•_ƒLƒŒ_mad", 400, false);
 	DeleteStand("buµŠC_§•_X‚Ë_sad", 400, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100580na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100580na">
 "You big nitwit!
 Get clementine skin in your eyes and go blind!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch03/06100590na">
+<voice name="µŠC" class="µŠC" src="voice/ch03/06100590na">
 "And I'm not gonna give back the bangle! Idiot!"
 
 {	CreateSE("SE01","SE_l‘Ì_“®ì_‘«_‘–‚é_Loop");
@@ -668,7 +668,7 @@ Get clementine skin in your eyes and go blind!"
 Yelling in a voice that resounded piercingly through the room&, Nanami
 grabbed her bag and bolted out with tremendous energy&.
 
-Haa&, that storm-like time had finally come to an end&.&.&.&.
+Haa&, that storm-like time had finally come to an end&.&.&.
 
 //¦‚í‚´‚Æu‰Åv‚Å‚·B
 Hanging out with Nanami always wore me out&. Why did she come here

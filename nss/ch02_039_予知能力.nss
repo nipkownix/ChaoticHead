@@ -88,31 +88,31 @@ function ch02_039_予知能力()
 <PRE box00>
 [text001]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900010ta">
-"Haa&.&.&.&. Haa&.&.&.&. Haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900010ta">
+"Haa&.&.&. Haa&.&.&. Haa&.&.&."
 
 It was hard to breathe&. Though all I'd been doing was looking things
-up on my PC&. 
-I felt my heart pulsing more violently than usual&. 
+up on my PC&.
+I felt my heart pulsing more violently than usual&.
 
 As before&, the presence of "something" watching me refused to
-disappear&. 
+disappear&.
 I was still just barely holding out&, keeping myself from turning
 around&, but my limits were approaching&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900020ta">
-"What's with you!? Skulking around me!" 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900020ta">
+"What's with you!? Skulking around me!"
 
-I howled at that "something&." 
-Its true identity wasn't that demon girl&, was it?  
+I howled at that "something&."
+Its true identity wasn't that demon girl&, was it?
 
-Maybe she was using {#TIPS_千里眼 = true;}X-ray vision or <FONTincolor="#88abda" outcolor="BLACK">clairvoyance</FONT>&, or some similar 
-demonic power&, to keep me under surveillance&.&.&.&.
+Maybe she was using {#TIPS_千里眼 = true;}X-ray vision or <FONTincolor="#88abda" outcolor="BLACK">clairvoyance</FONT>&, or some similar
+demonic power&, to keep me under surveillance&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900030ta">
-"Kahaah&.&.&.&. Haa&.&.&.&. Haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900030ta">
+"Kahaah&.&.&. Haa&.&.&. Haa&.&.&."
 
 {	CreateColor("色１", 100, 0, 0, 800, 600, "Red");
 	Fade("色１", 0, 700, null, true);
@@ -124,8 +124,8 @@ I had been sweating copiously for a while now&. The collar of my
 T-shirt had gotten completely drenched&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900040ta">
-"&.&.&.&.Shit!"
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900040ta">
+"&.&.&.Shit!"
 
 {	Fade("背景１", 300, 0, null, true);
 	CreateSE("SE02","SE_日常_家具_イス_軋");
@@ -139,7 +139,7 @@ All I saw was the same old room&, with no indication that it had
 undergone any change whatsoever&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900050ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900050ta">
 "Why aren't you there!? Who are you!?"
 
 {	CreateSE("SE02","SE_日常_物音");
@@ -201,31 +201,31 @@ I had been researching precognition&.
 <PRE box00>
 [text002]
 When I was a child&, I had seriously believed that precognitive
-abilities really existed&. 
+abilities really existed&.
 To be one hundred percent honest with you&, I still believe in them a
-little bit&, even now&. 
+little bit&, even now&.
 
 As a result&, I had the instinctive notion that the image the demon
 girl and "Shogun" had send me was one that foretold the future&,
 And I'd been left with no choice but to look deeper into the matter&.
 
 Perhaps&, without my knowing it&,
-The world was already full of prophets&. 
+The world was already full of prophets&.
 
 I myself had done something similar to seeing the future when I was a
 child&, before the bus accident&.
-Because of that&, I couldn't completely deny it&. 
+Because of that&, I couldn't completely deny it&.
 
 But no matter how much I researched it&, everything I came up was
 related to the occult or magic&,
-all kinds of sketchy-looking stuff&. 
+all kinds of sketchy-looking stuff&.
 
 There was nothing purporting to scientifically prove that such powers
 existed&, or&, on the flip side&, that they didn't&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900060ta">
-"All I want is one&, haa&, haa&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900060ta">
+"All I want is one&, haa&, haa&.&.&."
 
 {	Fade("検索画面", 500, 1000, null, false);
 	SoundPlay("SE03", 0, 1000, false);}
@@ -234,10 +234,10 @@ If things stayed so vague&, anxiety would make me lose the ability to
 hold myself together&.
 
 At this rate&, was I supposed to keep waiting for demons that might or
-might not come for me? My nerves wouldn't be able to stand it&. 
+might not come for me? My nerves wouldn't be able to stand it&.
 
-Of course&, it'd be best to have evidence that they weren't coming&, 
-but for the time being&, I just wanted things to become black and 
+Of course&, it'd be best to have evidence that they weren't coming&,
+but for the time being&, I just wanted things to become black and
 white&. Clear and understandable&.
 
 Now I didn't have much of a choice left except to take a look at
@@ -263,7 +263,7 @@ impressive news leads and information&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-Suppressing my impatience&, I opened @channel's main page&. 
+Suppressing my impatience&, I opened @channel's main page&.
 
 I jumped to the occult board and ran a search for "telling the
 future&."
@@ -275,7 +275,7 @@ And&.&.&.
 	SoundPlay("SE05", 1000, 500, true);
 	Fade("背景１", 0, 1000, null, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900070ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900070ta">
 "Hm&.&.&.?"
 
 I got an awfully large number of hits&. About 30&.
@@ -309,7 +309,7 @@ Gulping&, I checked the thread titles one by one&.
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900080ta">
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900080ta">
 "Phantasm? FES?"
 
 Most of the threads I'd come up with contained the words "Phantasm"
@@ -329,8 +329,8 @@ Googling it taught me that Phantasm was a four-man Gothic punk band
 currently on tour&, with Shibuya as their home field&.
 
 They were such a popular group that they monopolized people's
-conversations about the indie music sce<pre>n</pre>e&, and their vocalist was a
-girl by the name of "FES"&.
+conversations about the indie music sce<pre>n</pre>e&, and their
+vocalist was a girl by the name of "FES"&.
 
 For the moment&, wanting to find out how they were connected to
 precognition&,
@@ -340,7 +340,6 @@ Phantasm【New Gen】43" and started skimming it&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
-
 	SoundPlay("SE03", 500, 0, false);
 	Wait(500);
 
@@ -352,8 +351,7 @@ Phantasm【New Gen】43" and started skimming it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">【Predictions&,
-Prophecies】All About Phantasm【New Gen】43</FONT>
+　　　 <FONT size="26" incolor="#ff0000">【Predictions&, Prophecies】All About Phantasm【New Gen】43</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TitleBoard("【1:538】");
@@ -389,8 +387,8 @@ Otherwise&, you'll get staked to death lol
 <FONT incolor="#0000ff"><U>526</U></FONT>  Name:<FONT
 incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(T)
 10:25:27  <FONT incolor="#0000ff"><U>ID:</U></FONT>O983t+Tt
-I read the lyrics&, but I couldn't really take them in 
-They say stuff too vaguely&, makes for a pretty shitty prophecy 
+I read the lyrics&, but I couldn't really take them in
+They say stuff too vaguely&, makes for a pretty shitty prophecy
 But spare me from being staked&, heh
 　
 </PRE>
@@ -406,7 +404,7 @@ incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
 10:40:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>e7dNY8Ks
 lol&. Precognition&, prophecies&, you're making too big a deal out of
 it
-She's not Nostradamus&. Just enjoy the music 
+She's not Nostradamus&. Just enjoy the music
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -418,7 +416,7 @@ She's not Nostradamus&. Just enjoy the music
 <FONT incolor="#0000ff"><U>528</U></FONT>  Name:<FONT
 incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
 10:49:59  <FONT incolor="#0000ff"><U>ID:</U></FONT>RiFvdjz1
-I don't mind FES's lyrics 
+I don't mind FES's lyrics
 New Gen indeed
 　
 </PRE>
@@ -446,7 +444,7 @@ RYO wrote the songs&, what about him （´・ω・） Poor guy
 <FONT incolor="#0000ff"><U>530</U></FONT>  Name:<FONT
 incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S)
 13:17:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>5fW1O7Mv
-FES-tan (;´Д`)ﾊｧﾊｧ 
+FES-tan (;´Д`)ﾊｧﾊｧ
 Got tricked into finding the meaning of life in her lyrics
 　
 </PRE>
@@ -477,11 +475,11 @@ incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S)
 14:17:38  <FONT incolor="#0000ff"><U>ID:</U></FONT>Zxe5HzC7
 Even so&, I want FES-sama to deride me in her cool voice
 while grinding her boots into my ass
-till it hurts so much it feels like my eyes are gonna fall out 
+till it hurts so much it feels like my eyes are gonna fall out
 Then get drunk on the feeling of stopping at the last moment
 like&, will she spit on my face from above or not
 I want her to slowly cu<pre>t</pre> my throat apart with a knife
-I want to breathe my last as she says&, you're an eyesore 
+I want to breathe my last as she says&, you're an eyesore
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -507,7 +505,7 @@ incolor="#228b22">A Nameless ORacle</FONT>［age］：200X/10/7(S)
 15:39:40  <FONT incolor="#0000ff"><U>ID:</U></FONT>PxKlJxQv
 <FONT incolor="#0000ff"><U><PRE>>>532</PRE></U></FONT>
 　
-Save that for the masochist thread 
+Save that for the masochist thread
 Also&, FES is my wife
 　
 </PRE>
@@ -579,8 +577,8 @@ incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
 16:38:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>c4TD+zP9
 <FONT incolor="#0000ff"><U><PRE>>>536</PRE></U></FONT>
 　
-Don't expose the lyrics&, stupid 
-Really can't read between the lines&, kids these days 
+Don't expose the lyrics&, stupid
+Really can't read between the lines&, kids these days
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -594,24 +592,24 @@ Really can't read between the lines&, kids these days
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900090ta">
-"Cross-shaped stake&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900090ta">
+"Cross-shaped stake&.&.&."
 
-These lyrics&.&.&.&.
+These lyrics&.&.&.
 
 No matter what&, I couldn't believe they signified anything other than
-the "staking" I'd seen with my own eyes&. 
+the "staking" I'd seen with my own eyes&.
 
 Furthermore&, these lyrics were from a song that had come out two
-months ago&. 
+months ago&.
 In other words&, she hadn't written them after the "staking" murder
-took place&.&.&.&.
+took place&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900100ta">
-"Is this a prophecy&.&.&.&.?" 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900100ta">
+"Is this a prophecy&.&.&.?"
 
-Was it a mere culmination of coincidences? 
+Was it a mere culmination of coincidences?
 Or was Phantasm&, too&, among the demon girl's underlings?
 
 </PRE>
@@ -669,8 +667,8 @@ FES's face&. They were all cell phone pics taken during concerts&, so
 shaky that I couldn't discern anything about what she looked like&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900110ta">
-"Haa haa&.&.&.&. Dammit&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900110ta">
+"Haa haa&.&.&. Dammit&.&.&."
 
 I wiped the sweat seeping out of my forehead with the hem of my
 T-shirt&.
@@ -707,52 +705,52 @@ perhaps frightening atmosphere&.
 
 The site contained almost no news and not a single photograph&. All
 that was written there was information about their shows and their
-discography&. There wasn't a single bit about band members' profiles 
+discography&. There wasn't a single bit about band members' profiles
 or the lyrics to their songs&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900120ta">
-"Haa&.&.&.&. haa&, I guess a criminal wouldn't want pictures of her
-face going around the Net&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900120ta">
+"Haa&.&.&. haa&, I guess a criminal wouldn't want pictures of her
+face going around the Net&.&.&."
 
-She sure knew what she was doing&.&.&.&. 
+She sure knew what she was doing&.&.&.
 
 When I looked at their itinerary of shows&, it appeared that they
 performed about once every two weeks&. Their next live performance
-was&.&.&.&.
+was&.&.&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900130ta">
-"The day after tomorrow&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900130ta">
+"The day after tomorrow&.&.&."
 
 If I went to see it&, I'd be able to confirm whether or not FES was
 the demon girl&.
-But once I confirmed it&, where would that get me? 
+But once I confirmed it&, where would that get me?
 
-Would I give FES over to the police? 
-Would I weep and plead with her not to get me involved? 
-Would I go bearing a cross and pretend to perform an exorcism? 
+Would I give FES over to the police?
+Would I weep and plead with her not to get me involved?
+Would I go bearing a cross and pretend to perform an exorcism?
 
-All those options were asking the impossible&.&.&.&. 
+All those options were asking the impossible&.&.&.
 
 She was a demon&. A nasty otaku like me stood no chance of surpassing
 her&.
 
-And if I lost to the demon girl&, I'd die&. 
+And if I lost to the demon girl&, I'd die&.
 My body would metamorphose into a ruthless work of art&, and I'd get
 put up on some Wiki site as one of the "New Gen" cases&.
 
 {	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg000_01_1_チャットサンプル.jpg");
 	Fade("背景１", 0, 1000, null, true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900140ta">
-"I&, I don't want that!" 
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900140ta">
+"I&, I don't want that!"
 
 I didn't&, but if things continued this way&, I'd never understand how
-I had ended up as part of the image data "Shogun" had sent me&. 
+I had ended up as part of the image data "Shogun" had sent me&.
 
 But if FES had nothing to do with the demon girl&, maybe I could ask
-her for help&, and find some way to fight back&.&.&.&.
+her for help&, and find some way to fight back&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -763,10 +761,10 @@ her for help&, and find some way to fight back&.&.&.&.
 <PRE box00>
 [text009]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900150ta">
-"But I can't&.&.&.&. I could never go to a concert&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900150ta">
+"But I can't&.&.&. I could never go to a concert&.&.&."
 
-In my whole life up until now&, I'd never gone to one even once&. 
+In my whole life up until now&, I'd never gone to one even once&.
 It'd be the equivalent of playing an away game&.
 Concerts were small and dark and noisy and packed with people&. Simply
 imagining it made me nauseous&.
@@ -782,8 +780,8 @@ burning&.
 And even if I turned around&, no one was there&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900160ta">
-"Uuh&.&.&.&. Just stop it&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900160ta">
+"Uuh&.&.&. Just stop it&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -801,16 +799,16 @@ I squeezed my eyes shut and waited fervently for my sense of the
 "gaze" to vanish&.
 
 I wouldn't stand for having to fret about this sensation for the rest
-of my life&. 
+of my life&.
 Someday the gaze alone might be enough to kill me&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900170ta">
-"Haa&, haa&.&.&.&. Th&, think&, Takumi&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900170ta">
+"Haa&, haa&.&.&. Th&, think&, Takumi&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03900180ta">
-"Think of something you can do about this&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch02/03900180ta">
+"Think of something you can do about this&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

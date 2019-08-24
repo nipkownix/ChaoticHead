@@ -40,15 +40,15 @@ function ch02_033_葉月志乃■()
 //	FadeStand("bu志乃_白衣_通常_normal", 200, false);
 //	DeleteStand("bu志乃_白衣_通常_worry", 200, false);
 //【葉月】
-//<voice name="葉月" class="葉月" src="ch02/03300010hd">
+//<voice name="葉月" class="葉月" src="voice/ch02/03300010hd">
 //「チェックシートは、質問に対してＹＥＳかＮＯかだけを答える簡単なものですから」
 
 //【葉月】
-//<voice name="葉月" class="葉月" src="ch02/03300020hd">
+//<voice name="葉月" class="葉月" src="voice/ch02/03300020hd">
 //「当てはまる点があったら、ＹＥＳにチェックしてくださいね」
 
 //【葉月】
-//<voice name="葉月" class="葉月" src="ch02/03300030hd">
+//<voice name="葉月" class="葉月" src="voice/ch02/03300030hd">
 //「今後の西條さんの治療に対する参考にしますから、じっくり考えて答えてください」
 
 //わざわざ懇切丁寧に、葉月さんは説明してくれた。
@@ -59,7 +59,7 @@ function ch02_033_葉月志乃■()
 //こんな質問に答えたぐらいで、なにか分かるのかな？
 
 //【葉月】
-//<voice name="葉月" class="葉月" src="ch02/03300040hd">
+//<voice name="葉月" class="葉月" src="voice/ch02/03300040hd">
 //「…………」
 
 //葉月さんが、じっと僕を見ている。
@@ -124,7 +124,7 @@ function ch02_033_葉月志乃■()
 //梅干しを見ただけで口の中に唾液が充満してしまう
 //人のアクビがうつりやすい気がする
 
-
+	
 	SetKarte();
 
 //ＢＧ//診察室
@@ -141,7 +141,7 @@ function ch02_033_葉月志乃■()
 <PRE box00>
 [text003]
 //【葉月】
-<voice name="葉月" class="葉月" src="ch02/03300050hd">
+<voice name="葉月" class="葉月" src="voice/ch02/03300050hd">
 "All right&, good work&."
 
 Though I hadn't said anything&, Hazuki-san spoke to me at exactly the
@@ -155,25 +155,25 @@ Hazuki-san's direction&. I didn't have enough time to write down my
 symptoms on the back of the page&.
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch02/03300060hd">
+<voice name="葉月" class="葉月" src="voice/ch02/03300060hd">
 "Now&, please stay in the waiting room&."
 
 //【葉月】
-<voice name="葉月" class="葉月" src="ch02/03300070hd">
+<voice name="葉月" class="葉月" src="voice/ch02/03300070hd">
 "I'll carry out your medicine&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch02/03300080ta">
-"Eh? M&, medicine&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch02/03300080ta">
+"Eh? M&, medicine&.&.&.?"
 
 I was getting medicine?
-Dr&. Takashina hadn't said a single word to that effect&, but&.&.&.&.
+Dr&. Takashina hadn't said a single word to that effect&, but&.&.&.
 
 {	Stand("bu志乃_白衣_通常","smile", 200, @150);
 	FadeStand("bu志乃_白衣_通常_smile", 300, true);
 	DeleteStand("bu志乃_白衣_通常_normal", 0, false);}
 //【葉月】
-<voice name="葉月" class="葉月" src="ch02/03300090hd">
+<voice name="葉月" class="葉月" src="voice/ch02/03300090hd">
 "Yes&, doctor's orders&. It's a weak tranquilizer&. It'll help you
 sleep soundly&, and there aren't any side effects&."
 

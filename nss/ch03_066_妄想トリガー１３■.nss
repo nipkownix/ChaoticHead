@@ -87,7 +87,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚R == 2)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text001]
-For now&, I might as well listen to it&.&.&.&.
+For now&, I might as well listen to it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -109,58 +109,60 @@ For now&, I might as well listen to it&.&.&.&.
 [text002]
 //‚u‚e//ˆÈ‰ºA—q‚`‚ÌƒZƒŠƒt‚Í‚·‚×‚Ä“d˜b‚Ìº
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600010wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600010wa">
 "Uh&, um&, it's me&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600020wa">
-"I didn't call you just because I wanted to hear your voice&, okay? 
-I was bored&, that's all&, and there's no real reason for it! 
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600020wa">
+"I didn't call you just because I wanted to hear your voice&, okay?
+I was bored&, that's all&, and there's no real reason for it!
 You got it?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600030wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600030wa">
 //ŸØ‚È‚¢ƒuƒŒƒX
-"&.&.&.&.&.&.&.&.&."
+"&.&.&.&.&.&.&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600040wa">
-"But now that we're in different classes&, we don't have many chances to talk&."
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600040wa">
+"But now that we're in different classes&, we don't have
+many chances to talk&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600050wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600050wa">
 "What do you think of me?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600060wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600060wa">
 "For instance&, haven't you ever thought about asking me out?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600070wa">
-"Ah&, b&, but it's not like it'd make me happy or anything if you asked 
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600070wa">
+"Ah&, b&, but it's not like it'd make me happy or anything if you asked
 me&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600080wa">
-"And for starters&, the chances of me saying yes would be about one in a thousand&."
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600080wa">
+"And for starters&, the chances of me saying yes would be about
+one in a thousand&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600090wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600090wa">
 "But don't you think that nothing'll ever get started unless
 someone moves into action?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600100wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600100wa">
 "S&, so&, try and ask me out! Okay?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600110wa">
-"Well&, a&, after school today&, I'll be waiting for you under the 
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600110wa">
+"Well&, a&, after school today&, I'll be waiting for you under the
 le&, legendary tree&."
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch03/06600120wa">
-"You'd better come quickly&. I won't be held responsible for 
+<voice name="—q‚`" class="—q‚`" src="voice/ch03/06600120wa">
+"You'd better come quickly&. I won't be held responsible for
 what happens if you don't!"
 
 </PRE>
@@ -208,11 +210,11 @@ what happens if you don't!"
 <PRE box00>
 [text003]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600130ta">
-"&.&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600130ta">
+"&.&.&.&.&.&.&.&."
 
 //‚í‚´‚Æu‚ ‚é‚ ‚’cc‚Ë[‚æv‚Å‚·B
-Hey&, it could happe&.&.&.&. Naaah&, it couldn't&. lol
+Hey&, it could happe&.&.&. Naaah&, it couldn't&. lol
 
 We don't have a legendary tree or whatever at our school&.
 
@@ -221,12 +223,12 @@ Who is this tsundere supposed to be&, anyway? lol
 I hadn't tried hard enough with respect to the character's setting&.
 I should've at least made her be Seira-tan&.
 
-&.&.&.&.It's not the time to be having daydreams&, is it&.
+&.&.&.It's not the time to be having daydreams&, is it&.
 
-Feeling hollow&, I let out a sigh and decided to listen to the real 
+Feeling hollow&, I let out a sigh and decided to listen to the real
 voice message&.
 
-I scoped out my surroundings&, verifying that the demon girl wasn't 
+I scoped out my surroundings&, verifying that the demon girl wasn't
 there&, then put the phone to my ear&.
 
 </PRE>
@@ -263,7 +265,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚R == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-For now&, I might as well listen to it&.&.&.&.
+For now&, I might as well listen to it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -285,76 +287,77 @@ For now&, I might as well listen to it&.&.&.&.
 [text005]
 //‚u‚e//ˆÈ‰ºA—Dˆ¤‚ÌƒZƒŠƒt‚Í‚·‚×‚Ä“d˜b‚Ìº
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600140yu">
-"This is Kusunoki&.&.&.&. Yua&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600140yu">
+"This is Kusunoki&.&.&. Yua&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600150yu">
-"Um&, I'm sorry&.&.&.&. Calling you all of a sudden&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600150yu">
+"Um&, I'm sorry&.&.&. Calling you all of a sudden&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600160yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600160yu">
 "Except&, there was something I wanted to talk to you about&,
-no matter what&.&.&.&."
+no matter what&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600170yu">
-"&.&.&.&.&.I managed to buy&.&.&.&. the new Seira-chan figure&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600170yu">
+"&.&.&.&.I managed to buy&.&.&. the new Seira-chan figure&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600180yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600180yu">
 "I owe it all to you&, Nishijou-kun&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600190yu">
-"Thank you&.&.&.&. very much&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600190yu">
+"Thank you&.&.&. very much&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600200yu">
-"It's very c<pre>u</pre>te&, but&.&.&.&. a little ecchi&.&.&.&. isn't it&. Ahaha&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600200yu">
+"It's very c<pre>u</pre>te&, but&.&.&. a little ecchi&.&.&.
+isn't it&. Ahaha&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600210yu">
-"I was really embarrassed&.&.&.&. when I bought it&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600210yu">
+"I was really embarrassed&.&.&. when I bought it&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600220yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600220yu">
 "Ah&, I know&, did you see this week's Burachu?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600230yu">
-"That was an amazing plot twist&.&.&.&. I was excited the whole time I 
-watched it--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600230yu">
+"That was an amazing plot twist&.&.&. I was excited the whole time I
+watched it\"
 
 {	MusicStart("@CH*",300,0,0,1000,null,true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600240yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600240yu">
 //Ÿ‚¢‚«‚È‚è—â’W‚Èº‚É‚È‚é
 "You multiple personality freak&."
 
 {	MusicStart("@CH01",0,1000,0,1000,null,true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600250yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600250yu">
 "You killed someone&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600260yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600260yu">
 "Murderer&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600270yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600270yu">
 "You're the real criminal&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600280yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600280yu">
 "Pay for your sins&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600290yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600290yu">
 "Because I won't let you escape&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch03/06600300yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch03/06600300yu">
 "Whose eyes are those eyes?"
 
 </PRE>
@@ -401,19 +404,19 @@ watched it--"
 <PRE box00>
 [text006]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600310ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600310ta">
 //Ÿ‹°•|‚Å‚¤‚ß‚­
-"&.&.&.&.&.&.&.&.&."
+"&.&.&.&.&.&.&."
 
 It was no more than my own delusion&, but it terrified me&.
 
-For it was entirely possible that Yua had actually looked up my cell 
+For it was entirely possible that Yua had actually looked up my cell
 phone number somewhere and called me&.
 
 I wanted to avoid listening to the voice message&.
 
-But because I'd simulated the worst possible outcome through 
-my delusions&, I should be able to put up with anything&, as 
+But because I'd simulated the worst possible outcome through
+my delusions&, I should be able to put up with anything&, as
 long as it only involved listening&.
 
 Shaking off my melancholy&, I made the message play back&. Scoping out
@@ -447,19 +450,19 @@ if($–Ï‘zƒgƒŠƒK[‚P‚R == 0)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
-Who could it be&.&.&.&.
+Who could it be&.&.&.
 Maybe it really was the police&.
 
-It wasn't Misumi-kun or the demon girl&. They had been there before my 
+It wasn't Misumi-kun or the demon girl&. They had been there before my
 eyes when my phone rang&.
 
-If I ruled them out&, the remaining possibility was&.&.&.&. Yua?
+If I ruled them out&, the remaining possibility was&.&.&. Yua?
 
 But she shouldn't be aware of my cell phone number&.
 Besides&, I didn't have anything to discuss with Yua anymore&.
 
-For now&, I might as well listen to it&.&.&.&.
-I scoped out my surroundings&, verifying that the demon girl wasn't 
+For now&, I might as well listen to it&.&.&.
+I scoped out my surroundings&, verifying that the demon girl wasn't
 there&, then put the phone to my ear&.
 
 </PRE>
@@ -484,11 +487,11 @@ there&, then put the phone to my ear&.
 [text008]
 //‚u‚e//ƒP[ƒ^ƒC‚ÌƒAƒiƒEƒ“ƒXƒƒbƒZ[ƒW
 //yƒP[ƒ^ƒCƒAƒiƒEƒ“ƒXz
-<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="ch03/06600320ia">
+<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="voice/ch03/06600320ia">
 "This is the voicemail service center&. You have 1 new message&."
 
 //yƒP[ƒ^ƒCƒAƒiƒEƒ“ƒXz
-<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="ch03/06600330ia">
+<voice name="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" class="ƒP[ƒ^ƒCƒAƒiƒEƒ“ƒX" src="voice/ch03/06600330ia">
 "Message number 1&. Friday&, October 17th&, 8:28 AM&."
 
 </PRE>
@@ -521,7 +524,7 @@ there&, then put the phone to my ear&.
 <PRE box00>
 [text009]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600340ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600340ta">
 //Ÿ¦‚í‚´‚Æu‚È‚ñ‚¼‚±‚êv‚Å‚·
 "What's this?"
 
@@ -531,7 +534,7 @@ I had the sense that it was ringing out from a slight distance&.
 Perhaps the person on the other end of the line had been near a
 traffic light&.
 
-This song was often played at pedestrian crosswalks&, in order to let 
+This song was often played at pedestrian crosswalks&, in order to let
 people with visual disabilities know when the light turned green&.
 
 By the way&, it was a children's song called "Let Me Pass&."
@@ -564,7 +567,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 //’Ê‚è‚á‚ñ‚¹@’Ê‚è‚á‚ñ‚¹
 //‚±‚±‚Í‚Ç‚±‚Ì@×“¹‚¶‚á
 //“V_‚³‚Ü‚Ì@×“¹‚¶‚á
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "Let me pass  Let me pass<BR>Where will this  path take me?<BR>It's the path@to the Tenjin shrine");
 
 	SetBacklog("Let me pass  Let me pass", "NULL", NULL);
@@ -582,7 +585,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 //‚¿‚å‚Á‚Æ’Ê‚µ‚Ä@‚­‚¾‚µ‚á‚ñ‚¹
 //Œä—p‚Ì‚È‚¢‚à‚Ì@’Ê‚µ‚á‚¹‚Ê
 //‚±‚Ìq‚Ìµ‚Â‚Ì@‚¨j‚¢‚É
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "Will you please@let me pass?<BR>Not if you@have no business here<BR>To celebrate my child@turning seven");
 
 	SetBacklog("Will you please@let me pass?", "NULL", NULL);
@@ -599,8 +602,8 @@ Well&, but it wasn't as though I remembered them perfectly&.
 
 //‚¨D‚ğ”[‚ß‚É@Q‚è‚Ü‚·
 //s‚«‚Í‚æ‚¢‚æ‚¢@‹A‚è‚Í\\
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "I've come to@present a tithe<BR>Going there is easy&,@but coming home is--");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "I've come to@present a tithe<BR>Going there is easy&,@but coming home is\");
 
 	$s‚«‚Í = PassageTime("SE20");
 	if($s‚«‚Í < 23000)
@@ -611,7 +614,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 	}
 
 	SetBacklog("I've come to@present a tithe", "NULL", NULL);
-	SetBacklog("Going there is easy&,@but coming home is--", "NULL", NULL);
+	SetBacklog("Going there is easy&,@but coming home is\", "NULL", NULL);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);
@@ -641,12 +644,12 @@ Well&, but it wasn't as though I remembered them perfectly&.
 <PRE box00>
 [text011]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600350ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600350ta">
 "Wha!"
 
-It sounded like "Coming home is beeeep booop beeeep booop--" It wasn't
+It sounded like "Coming home is beeeep booop beeeep booop\" It wasn't
 very auspicious&, what with how it reminded me of an ambulance&. Meh&,
-it must've been a coincidence&, but it was creepy all the same&.&.&.&.
+it must've been a coincidence&, but it was creepy all the same&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -678,37 +681,37 @@ it must've been a coincidence&, but it was creepy all the same&.&.&.&.
 <PRE box00>
 [text012]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600360ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600360ta">
 "Wah!"
 
 The instant after the traffic signal's melody got c<pre>u</pre>t off&, there came a
 massively high-volume sound akin to that of a buzzer&.
 
 {	MusicStart("SE*", 500, 0, 0, 1000, null, true);}
-It was so loud&, I didn't waste a second in taking the phone away from 
+It was so loud&, I didn't waste a second in taking the phone away from
 my ear&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600370ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600370ta">
 "Wh&, what!?"
 
 {	CreateSE("SE05","SE_©‘R_•—‰¹_Loop");
 	SoundPlay("SE05", 2000, 300, true);
 	CreateSE("SE01","SE_“úí_G“¥_‰“‚¢");
 	MusicStart("SE01", 0, 200, 0, 1000, null, true);}
-When I gingerly returned the phone to my ear&, the message had 
+When I gingerly returned the phone to my ear&, the message had
 already finished playing&.
 
 What had it been? At the very end&, I might've faintly heard a roar like
-the ground rumbling&.&.&.&.
+the ground rumbling&.&.&.
 
-That buzzer was something completely separate from the melody of the 
+That buzzer was something completely separate from the melody of the
 traffic light&. For it to have such tremendous volume&, all I could
 assume was that the phone's receiver had been deliberately placed
 close to the source of the sound&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch03/06600380ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/06600380ta">
 "A&, a prank?"
 
 </PRE>
@@ -722,13 +725,13 @@ My heart began to race when I thought that&.
 
 Had I done anything to earn someone's dislike?
 
-Who had made this call to me&, anyway&.&.&.&.
+Who had made this call to me&, anyway&.&.&.
 
 I could return the call&, using the number displayed on my phone&,
-but I wouldn't be able to bring myself to redial a prank caller&.&.&.&.
+but I wouldn't be able to bring myself to redial a prank caller&.&.&.
 
 In the end&, my only available choice was to leave it be&.
-Besides&, my current situation was far worse than a prank call like 
+Besides&, my current situation was far worse than a prank call like
 this&.
 
 I put the phone away in my pocket and left school&, carefully&,

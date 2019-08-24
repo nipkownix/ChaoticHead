@@ -60,17 +60,17 @@ When she was mad&, she'd puff her cheeks up in a big pout&, and when
 she was happy&, she'd smile so much&, I got embarrassed just from
 looking at her&.
 
-Each of those expressions in my memory set my heart into a tumult&.  
+Each of those expressions in my memory set my heart into a tumult&.
 
 The phone call&.
-What exactly had the words Nanami conveyed to me meant&.&.&.&.
+What exactly had the words Nanami conveyed to me meant&.&.&.
 
 The bandage I'd seen her wearing wrapped around her wrist before at
-school&, was it really&.&.&.&.
+school&, was it really&.&.&.
 
 Where was Nanami now?
-At school&.&.&.&.?
-Or had she already gone home&.&.&.&.
+At school&.&.&.?
+Or had she already gone home&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -97,7 +97,7 @@ Or had she already gone home&.&.&.&.
 <PRE box00>
 [text002]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16800010ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16800010ri">
 "Taku&, come on&, you have to look ahead of you when you walk&. You're
 gonna trip&."
 
@@ -105,35 +105,35 @@ We came out onto the roof&, Rimi supporting me as we went&.
 
 {	SetTrigger("‚R‚X");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16800020ta">
-"Um&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16800020ta">
+"Um&.&.&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16800030ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16800030ri">
 "What's up?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16800040ta">
-"&.&.&.&.I&, I think I'm go&, going to go to my parents' home next&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16800040ta">
+"&.&.&.I&, I think I'm go&, going to go to my parents' home next&."
 
 {	Stand("bu—œ[_§•_’Êí","normal", 250, @50);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 200, false);
 	FadeStand("bu—œ[_§•_’Êí_normal", 300, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16800050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16800050ri">
 "Now? That's pretty sudden&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16800060ta">
-"E&, even walking&, it takes less than half an hour&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16800060ta">
+"E&, even walking&, it takes less than half an hour&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16800070ta">
-"A&, and&, um&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16800070ta">
+"A&, and&, um&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16800080ta">
-"I'd like you to co&, come with me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16800080ta">
+"I'd like you to co&, come with me&.&.&."
 
 I made my request to her&, so nervous it felt like my heart would
 leapt out of my mouth&. I myself was a tad surprised I'd been able to

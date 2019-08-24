@@ -92,7 +92,7 @@ only a magnitude 3 earthquake&.
 "Perhaps Shibuya is cursed"
 {	CreateColor("F‚P", 150, 0, 0, 800, 600, "Black");
 	Delete("”wŒi‚R");
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "gPerhaps Shibuya is cursedh");
 	Move("ƒeƒLƒXƒg‚P", 0, @10, @0, null, true);
 	SetBacklog("gPerhaps Shibuya is cursedh", "NULL", NULL);
@@ -126,7 +126,7 @@ stating:
 "According to an announcement by the Fire and Disaster
 Management Agency&, thirty-one fatalities have been confirmed at
 present and it is believed that the number will continue to rise&.
-Furthermore&, the cause of death is currently unknown&.&.&.&."
+Furthermore&, the cause of death is currently unknown&.&.&."
 
 Additionally&, news kept coming in about the mysterious white light
 that had attacked Shibuya&, and the ensuing shock wave and the
@@ -160,7 +160,7 @@ covered in a somber blue&, as though nothing had happened&.
 
 {	CreateTextureEX("”wŒi‚Q", 100, 0, 0, "cg/bg/bg084_01_1_a’JƒZƒ“ƒ^[ŠX_a.jpg");
 	Fade("”wŒi‚Q", 1000, 1000, null, true);}
-The asphalt of Dougen Hill bore extremely miniscule fissues--each of
+The asphalt of Dougen Hill bore extremely miniscule fissues\each of
 them hardly more than a millimeter&.
 
 Moreover&, mixed-use buildings and other structures in the shopping

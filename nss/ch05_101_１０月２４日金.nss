@@ -133,7 +133,7 @@ We were two people of the opposite sex and the same age&, and we'd
 been in the same small room for hours all by ourselves&, but there
 hadn't been a single bit of innuendo in our conversations&.
 
-&.&.&.&.If I had the ability to talk about such things&, I'd already
+&.&.&.If I had the ability to talk about such things&, I'd already
 be living a full-fledged life&.
 
 No&, more than that&, the part of me with ulterior motives made me
@@ -202,9 +202,9 @@ Shefd seemed much too real for a delusion&.
 <PRE box00>
 [text003]
 It remained incredibly hot no matter how much I reflected back on
-it&.&.&.&.
+it&.&.&.
 
-I hadn't exactly surveyed every inch of her&, but&.&.&.&. I'd
+I hadn't exactly surveyed every inch of her&, but&.&.&. I'd
 certainly spied things like the wrinkles in her panties&.
 
 As a self-appointed panty meister (only when it came to figures)&, I'd
@@ -322,13 +322,13 @@ and lawsuit-related things I'd looked up yesterday&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
---The power to project delusions into reality&.
+\The power to project delusions into reality&.
 
-Did something like that truly exist&.&.&.&.
+Did something like that truly exist&.&.&.
 
 Was "Shogun" targeting me because I possessed it?
 
-If I did have such a power--
+If I did have such a power\
 
 One of my childhood memories came back to life&.
 
@@ -356,18 +356,18 @@ One of my childhood memories came back to life&.
 The day I hadn't been able to go on the field trip&.
 The day I alone hadn't met with an accident&.
 
-The bus rolled over&, and my classmates had gotten hurt&. 
+The bus rolled over&, and my classmates had gotten hurt&.
 
 Mr&. Saitou&, my teacher&, died&.
 
 Those images had appeared vividly inside my head&.
 
 I'd seen them clearly&.
-Were they--
+Were they\
 
 just a form of "precognition"?
 
-What if--
+What if\
 
 It wasn't precognition&.
 If it was one of my delusions&.
@@ -378,8 +378,8 @@ My body threatened to start quaking&, and I wrapped my arms around
 myself to suppress it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10100010ta">
-"Then I'd be&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10100010ta">
+"Then I'd be&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -398,7 +398,7 @@ myself to suppress it&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text009]
-A murderer&.&.&.&.
+A murderer&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -412,8 +412,8 @@ A murderer&.&.&.&.
 <PRE box00>
 [text010]
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100020ri">
-"Good morning--!"
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100020ri">
+"Good morning-!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -434,24 +434,24 @@ Rimi was there&.
 Cheerful despite how early it was&, she gave me a huge smile&.
 When I saw her smile&, my shaking stopped&.
 
-It was strange&.&.&.&.
+It was strange&.&.&.
 
 I was supposed to have a hard time with 3-D girls&, but for some
 reason&, I could relax if I were together with Rimi&.
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100030ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100030ri">
 "I came to pick you up&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch05/10100040ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch05/10100040ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("st—œ[_§•_’Êí","normal", 200, @100);
 	FadeStand("st—œ[_§•_’Êí_normal", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_smile", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100050ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100050ri">
 "What're you looking all blank for?"
 
 </PRE>
@@ -461,14 +461,14 @@ reason&, I could relax if I were together with Rimi&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text012]
-Ah&, right&. 
+Ah&, right&.
 
 According to my minimum attendance shift chart&, I'd have to go to
 school today as well&.
-When I mentioned that to Rimi yesterday--
+When I mentioned that to Rimi yesterday\
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100060ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100060ri">
 "I told you I'd come pick you up&, didn't I&."
 
 Right&. Thanks to "Shogun&," I was now afraid to so much as walk
@@ -481,27 +481,27 @@ She was sticking to her promise&.
 	FadeStand("st—œ[_§•_’Êí_rage", 300, true);
 	DeleteStand("st—œ[_§•_’Êí_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100070ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100070ri">
 "Did you think I wouldn't really come or something?"
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","normal", 200, @100);
 	DeleteStand("st—œ[_§•_’Êí_rage", 500, false);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_normal", 500, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100080ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100080ri">
 "Salute!"
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","happy", 200, @100);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_happy", 300, true);
 	DeleteStand("st—œ[_§•_’ÊíƒrƒVƒbI_normal", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100090ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100090ri">
 "Fu~fu~fu~&, too bad for you&. Contrary to appearances&, I'm the
-devoted type--"
+devoted type\"
 
 Rimi said&, winking impishly&.
 
-Um&, ummm&.&.&.&.
+Um&, ummm&.&.&.
 
 What eroge is this from?
 
@@ -518,7 +518,7 @@ Although the ultimate best pattern would be if she
 Rimi&, standing beside me as I had that kind of idiotic daydream&,
 abruptly tipped her head back to look at the sky&.
 
-Her eyes grew distant again--
+Her eyes grew distant again\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -533,13 +533,13 @@ Her eyes grew distant again--
 [text013]
 //ŸƒAƒ“ƒjƒ…ƒC‚ÈŠ´‚¶‚Å
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100100ri">
-"Why do you think--"
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100100ri">
+"Why do you think\"
 
 //ŸƒAƒ“ƒjƒ…ƒC‚ÈŠ´‚¶‚Å
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100110ri">
-"Winter skies appear faded?" 
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100110ri">
+"Winter skies appear faded?"
 
 There had been seven colors in sunlight&. The familiar colors of the
 rainbow&.
@@ -567,24 +567,24 @@ absence of romance&.
 
 //ŸƒAƒ“ƒjƒ…ƒC‚ÈŠ´‚¶‚Å
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100120ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100120ri">
 "It must be because it's cold&, and everyone looks down&."
 
 //ŸƒAƒ“ƒjƒ…ƒC‚ÈŠ´‚¶‚Å
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100130ri">
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100130ri">
 "Fewer people desire blue&."
 
 I had the feeling that I'd heard her say something similar
-before&.&.&.&. when was it again?
+before&.&.&. when was it again?
 
 {	Stand("st—œ[_§•_’Êí","happy", 200, @100);
 	DeleteStand("st—œ[_§•_³–Ê_normal", 500, false);
 	FadeStand("st—œ[_§•_’Êí_happy", 500, true);}
 //ŸŒ³‹C‚¢‚Á‚Ï‚¢‚Å
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch05/10100140ri">
-"So even if it's cold&, let's hold our heads up and go--!"
+<voice name="—œ[" class="—œ[" src="voice/ch05/10100140ri">
+"So even if it's cold&, let's hold our heads up and go-!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -614,16 +614,16 @@ I hastily changed outfits and left the Kurenai building with Rimi&.
 
 {	CreateVOICE("—œ[•@‰Ì","ch05/10100150ri");
 	SoundPlay("—œ[•@‰Ì",0,700,false);}
-Going to school together&.&.&.&. huh&.
+Going to school together&.&.&. huh&.
 No matter how I looked at it&, this was the essence of being IRL&.
 
 "Shogun" and Yua were scary and obnoxious and the "Die&. No&, really&,
 go die" type&, but it was thanks to them that I was able to undergo
 this sort of real-life experience&.
 
-Maybe I should be a tiny bit grateful to them&.&.&.&.
+Maybe I should be a tiny bit grateful to them&.&.&.
 
-I tried to compell myself&, but--
+I tried to compell myself&, but\
 
 Dr&. Takashina's face revived at the back of my mind&, and my crazy
 mood soon drained away&.
@@ -631,7 +631,7 @@ mood soon drained away&.
 It might be my fault that he'd been killed&.
 
 "Shogun" had murdered the doctor with a connection to me&, either as a
-sign to me or a form of provocation&.&.&.&.
+sign to me or a form of provocation&.&.&.
 
 Fear and insecurity overwhelmed me&.
 
@@ -641,7 +641,7 @@ I gradually began to lag behind Rimi's walking pace&.
 I glanced at the back of Rimi's head from behind her and a little off
 to the side&.
 
-What kind of expression was she making&.&.&.&.?
+What kind of expression was she making&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -650,7 +650,7 @@ What kind of expression was she making&.&.&.&.?
 //‚r‚d‰»‚Ìˆ×AƒRƒƒ“ƒgƒAƒEƒgB
 //Ÿ•@‰ÌB‰Â”\‚È‚çgƒtƒ@ƒ“ƒ^ƒYƒ€h‚Ì‰Ì‚Å‚¨Šè‚¢‚µ‚Ü‚·
 //y—œ[z
-//<voice name="—œ[" class="—œ[" src="ch05/10100150ri">
+//<voice name="—œ[" class="—œ[" src="voice/ch05/10100150ri">
 //u`ôv
 
 
@@ -667,14 +667,14 @@ This was a song from the "Phantasm" CD I'd loaned her yesterday&.
 Her footsteps seemed light&.
 
 We weren't even talking&, so why did she appear to be having so much
-fun&.&.&.&.
+fun&.&.&.
 
 As I watched her&, my anxiety decreased a little&.
 
-&.&.&.&.But honestly&, I wondered why Rimi was this kind to me&.
+&.&.&.But honestly&, I wondered why Rimi was this kind to me&.
 
 Could the reason for it be found in my time spent with her&, the time
-of which I had only blank memories&.&.&.&.
+of which I had only blank memories&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

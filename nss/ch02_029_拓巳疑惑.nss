@@ -61,7 +61,7 @@ function ch02_029_ëÒñ§ã^òf()
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text001]
---Everything feels like a lie&.
+Å\Everything feels like a lie&.
 
 The world is full of fiction&.
 
@@ -78,22 +78,22 @@ Furthermore&, it seemed like everyoneÅfs ill will was directed at me&.
 	Fade("ÉãÅ[ÉÄ", 0, 0, null, true);
 	Wait(500);}
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/02900010yu">
+<voice name="óDà§" class="óDà§" src="voice/ch02/02900010yu">
 "Please log in to the chat room you usually use and check it out for
 yourself&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/02900020yu">
+<voice name="óDà§" class="óDà§" src="voice/ch02/02900020yu">
 "You'll come to see that what I'm saying isn't wrong&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/02900030yu">
-"And one more thing&.&.&.&."
+<voice name="óDà§" class="óDà§" src="voice/ch02/02900030yu">
+"And one more thing&.&.&."
 
 //ÅyóDà§Åz
-<voice name="óDà§" class="óDà§" src="ch02/02900040yu">
-"Everything I said to you&.&.&.&. Came from the bottom of my heart&.
-If nothing else&.&.&.&. Believe that&."
+<voice name="óDà§" class="óDà§" src="voice/ch02/02900040yu">
+"Everything I said to you&.&.&. Came from the bottom of my heart&.
+If nothing else&.&.&. Believe that&."
 
 {	DeleteStand("buóDà§_êßïû_í èÌç∂éËâ∫_hard", 300, true);
 	SoundPlay("SE01", 1000, 500, true);
@@ -122,9 +122,9 @@ wrong about the timestamps not matching&.
 	Fade("îwåiÇQ", 1000, 1000, null, true);}
 //ÅyëÒñ§Åz
 {#TIPS_ñ≤óVïa = true;}
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/02900050ta">
-"Am I&.&.&.&. a <FONT incolor="#88abda"
-outcolor="BLACK">sleepwalker</FONT>&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/02900050ta">
+"Am I&.&.&. a <FONT incolor="#88abda"
+outcolor="BLACK">sleepwalker</FONT>&.&.&.?"
 
 I hadn't been sleeping when "Shogun" posted his parts of the chat&.
 
@@ -135,11 +135,11 @@ Then what did it mean that I don't have any memory of posting as
 "Shogun"?
 
 Alternatively&, someone other than myself could control my
-body&.&.&.&.
+body&.&.&.
 
 {	MusicStart("@CH*", 1000, 0, 0, 0, null, true);
 	Fade("îwåiÇQ", 500, 0, null, true);}
-Ridiculous&.&.&.&.
+Ridiculous&.&.&.
 
 {	CreateSE("SE02","SE_ì˙èÌ_â∆ãÔ_ÉCÉX_Áa");
 	SoundPlay("SE02", 0, 1000, false);
@@ -157,10 +157,10 @@ I wanted to stay here&, I thought&.
 
 What's wrong with that?
 
-Or maybe--
+Or maybeÅ\
 
 ESO itself was the "real thing&,"
-And this world was fake--perhaps a game&, for instance&.
+And this world was fakeÅ\perhaps a game&, for instance&.
 
 Maybe Nishijou Takumi was the fictional existence&,
 And Neidhardt was my true self&.
@@ -180,15 +180,15 @@ And Neidhardt was my true self&.
 <PRE box00>
 [text002]
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/02900060ta">
-"Hey&, Neidhardt&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/02900060ta">
+"Hey&, Neidhardt&.&.&."
 
 I called to the paladin in the center of my monitor&.
 
-Am I controlling you&, or are you controlling me? Which is it? 
+Am I controlling you&, or are you controlling me? Which is it?
 Are you real&, and am I the avatar?
 
-What if the world I was in right now was a game? 
+What if the world I was in right now was a game?
 That would explain everything&.
 
 If&, in the same way that I was watching the Neidhardt inside my
@@ -197,7 +197,7 @@ If I too were being watched by someone&.
 
 //Whose eyes are those eyes?
 {	CreateColor("êFÇP", 500, 0, 0, 800, 600, "Black");
-	SetFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ÉeÉLÉXÉgÇP", 600, center, middle, Auto, Auto, "Whose eyes are those eyes?");
 
 	SetBacklog("Whose eyes are those eyes?", "NULL", NULL);
@@ -268,13 +268,13 @@ The image "Shogun" had sent me flickered across my mind&, and I held
 my head&.
 I shook it despairingly from side to side&.
 
-I want to run away from everything--
+I want to run away from everythingÅ\
 
 If there's really a player out there controlling me&,
 
 I'm begging you&, please reset me&,
 
-And rebuild me once more from scratch--
+And rebuild me once more from scratchÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

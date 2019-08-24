@@ -50,7 +50,7 @@ function ch10_207_Ａインターミッション５３ａ()
 [text001]
 At some point&, Suwa had come to grip a cross-shaped stake in his hand&.
 
-Forcibly suppressing his explosive anger&, he unleashed that stake at 
+Forcibly suppressing his explosive anger&, he unleashed that stake at
 Nishijou Takumi&.
 
 {	CreateSE("SE02","SE_擬音_杭_飛ぶ");
@@ -96,18 +96,20 @@ It utterly ignored the laws of physics and air resistance&.
 [text002]
 //◆苦痛
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch10/20700010ta">
-"Gah&.&.&.&. ah&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch10/20700010ta">
+"Gah&.&.&. ah&.&.&."
 
-As though it had a will of its own&, it shot in a straight line to stab through Takumi's arm&.
+As though it had a will of its own&, it shot in a straight line to stab
+through Takumi's arm&.
 
 So far&, fifteen stakes had hit their marks&. Not a single miss&.
 Takumi's shoulders&, upper arms&, wrists&, palms&, waist&, thighs&, knees&,
 shins&. Blood lapped idly out of his deeply pierced wounds&.
 
 //【諏訪】
-<voice name="諏訪" class="諏訪" src="ch10/20700020su">
-"Not that it's all that interesting&, playing a game of darts where you never miss&."
+<voice name="諏訪" class="諏訪" src="voice/ch10/20700020su">
+"Not that it's all that interesting&, playing a game of darts where you
+never miss&."
 
 The next stake was already in Suwa's hand&.
 He repeated the same motion&, flinging it&.
@@ -139,10 +141,10 @@ He repeated the same motion&, flinging it&.
 
 	Wait(1000);
 
-//"Uuh&.&.&.&. guh&.&.&.&.!" 
+//"Uuh&.&.&. guh&.&.&.!"
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Uuh&.&.&.&. guh&.&.&.&.!");
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Uuh&.&.&. guh&.&.&.!");
 //	Move("テキスト１",0,@40,@0,null,true);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", NoIcon);
@@ -152,16 +154,16 @@ He repeated the same motion&, flinging it&.
 	CreateVOICE("拓巳","ch10/20700030ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Uuh&.&.&.&. guh&.&.&.&.!" ", "voice/ch10/20700030ta", 拓巳);
-	SetBacklog("Uuh&.&.&.&. guh&.&.&.&.!" ", "NULL", NULL);
+	SetBacklog("Uuh&.&.&. guh&.&.&.!" ", "voice/ch10/20700030ta", 拓巳);
+	SetBacklog("Uuh&.&.&. guh&.&.&.!" ", "NULL", NULL);
 
 //画面中央とテキストウインドウ（画面下方）に以下の同じテキストを表示
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700030ta">
-"Uuh&.&.&.&. guh&.&.&.&.!" 
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700030ta">
+"Uuh&.&.&. guh&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -176,9 +178,9 @@ He repeated the same motion&, flinging it&.
 
 	Wait(1000);
 
-//"Feels like I've become an omnipotent god&." 
+//"Feels like I've become an omnipotent god&."
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Feels like I've become an omnipotent god&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -198,8 +200,8 @@ He repeated the same motion&, flinging it&.
 <PRE box00>
 [text004]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700040su">
-"Feels like I've become an omnipotent god&." 
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700040su">
+"Feels like I've become an omnipotent god&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -227,7 +229,7 @@ He repeated the same motion&, flinging it&.
 /*森島おそらくこちらなので変更*/
 //What an amazingly strange feeling&, I thought&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "What an amazingly strange feeling&, I thought&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -255,7 +257,7 @@ He probably isn't listening anyway&, Suwa thought&.
 
 //Every shard of pain engraved on me like this gave me a genuine feeling of life&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Every shard of pain engraved on me like this gave me a genuine feeling of<BR>life&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -299,7 +301,7 @@ way to resist what was happening&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //"I'm just a regular human being&, but I got my hands on a power equivalent to<BR>what you guys have&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I'm just a regular human being&, but I got my hands on a power<BR>equivalent to what you guys have&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -319,7 +321,7 @@ way to resist what was happening&.
 <PRE box00>
 [text007]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700050su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700050su">
 "I'm just a regular human being&, but I got my hands on a power
 equivalent to what you guys have&."
 
@@ -334,7 +336,7 @@ equivalent to what you guys have&."
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Everything was the work of the Noah II terminal inside the rucksack that<BR>bastard wore on his back&. ");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -350,7 +352,8 @@ equivalent to what you guys have&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-Everything was thanks to the Noah II terminal inside the rucksack Suwa wore on his back&.
+Everything was thanks to the Noah II terminal inside the rucksack
+Suwa wore on his back&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -359,7 +362,7 @@ Everything was thanks to the Noah II terminal inside the rucksack Suwa wore on h
 	FadeDelete("テキスト１", 0, true);
 
 //As long as he had that with him&, he could enjoy the benefits of Noah II's power even without being near it&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As long as he had that with him&, he could enjoy the benefits of<BR>Noah II's power even without being near it&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -384,7 +387,7 @@ Noah II's power even without being nearby it&.
 	FadeDelete("テキスト１", 0, true);
 
 //人工のギガロマニアックスになるんだ。
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "He would become an artificial Gigalomaniac&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -408,7 +411,7 @@ He would become an artificial Gigalomaniac&.
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa was being completely possessed by power&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa was being completely possessed by power&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -449,7 +452,7 @@ Suwa had been completely entranced by power&.
 
 //A religious fanatic who would do anything&, no matter how filthy&, for the sake of the teachings he followed and for their founder&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "A religious fanatic who would do anything&, no matter how filthy&,<BR>for the sake of the teachings he followed and for their founder&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -473,8 +476,8 @@ for the sake of the teachings he followed and for their founder&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"This power is a gift from God&." 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+//"This power is a gift from God&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "This power is a gift from God&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -494,7 +497,7 @@ for the sake of the teachings he followed and for their founder&.
 <PRE box00>
 [text013]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700060su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700060su">
 "This power is a gift from God&."
 
 </PRE>
@@ -503,8 +506,8 @@ for the sake of the teachings he followed and for their founder&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"Because it allow me to fight for the divine light&, for what I believe in&." 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+//"Because it allow me to fight for the divine light&, for what I believe in&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Because it allows me to fight for the divine light&, for what I believe in&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -524,7 +527,7 @@ for the sake of the teachings he followed and for their founder&.
 <PRE box00>
 [text014]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700070su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700070su">
 "Because it allows me to fight for the divine light&, for what I believe
 in&."
 
@@ -535,8 +538,8 @@ in&."
 
 	FadeDelete("テキスト１", 0, true);
 
-//Suwa hurled yet another stake&. 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+//Suwa hurled yet another stake&.
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa hurled yet another stake&. ");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -578,7 +581,7 @@ Suwa hurled yet another stake&.
 
 //It penetrated all the way to the back of my neck&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It penetrated all the way to the back of my neck&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -603,7 +606,7 @@ It penetrated to the back of Takumi's neck&.
 	FadeDelete("テキスト１", 0, true);
 
 //Pain so intense&, it felt like my whole body would tear apart&. Maddening pain&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Pain so intense&, it felt like my whole body would tear apart&.<BR>Maddening pain&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -629,7 +632,7 @@ withstand it&.
 	FadeDelete("テキスト１", 0, true);
 
 //It was like torture; bit by bit&, I advanced toward death&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was like torture; bit by bit&, I advanced toward death&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -653,9 +656,9 @@ bit by bit&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"Haa&.&.&.&. haa&.&.&.&. haa&.&.&.&." 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Haa&.&.&.&. haa&.&.&.&. haa&.&.&.&.");
+//"Haa&.&.&. haa&.&.&. haa&.&.&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Haa&.&.&. haa&.&.&. haa&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -664,8 +667,8 @@ bit by bit&.
 	CreateVOICE("拓巳","ch10/20700080ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Haa&.&.&.&. haa&.&.&.&. haa&.&.&.&.", "voice/ch10/20700080ta", 拓巳);
-	SetBacklog("Haa&.&.&.&. haa&.&.&.&. haa&.&.&.&.", "NULL", NULL);
+	SetBacklog("Haa&.&.&. haa&.&.&. haa&.&.&.", "voice/ch10/20700080ta", 拓巳);
+	SetBacklog("Haa&.&.&. haa&.&.&. haa&.&.&.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -674,8 +677,8 @@ bit by bit&.
 <PRE box00>
 [text019]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700080ta">
-"Haa&.&.&.&. haa&.&.&.&. haa&.&.&.&."
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700080ta">
+"Haa&.&.&. haa&.&.&. haa&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -683,8 +686,8 @@ bit by bit&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//Though incapable of resistance&, I tensed my legs to keep from falling over&, and went on taking stakes in every part of my body&. 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+//Though incapable of resistance&, I tensed my legs to keep from falling over&, and went on taking stakes in every part of my body&.
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Though incapable of resistance&, I tensed my legs to keep from falling over&,");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -709,7 +712,7 @@ Incapable of resistance&, yet still not falling over&,
 	FadeDelete("テキスト１", 0, true);
 
 //I went on taking stakes in every part of my body&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I went on taking stakes in every part of my body&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -751,7 +754,7 @@ He went on receiving stakes in every part of his body&.
 
 //My chest&. Stomach&. The tips of my toes&. All throughout my body&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "My chest&. Stomach&. The tips of my toes&. All throughout my body&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -777,7 +780,7 @@ his body&.
 	FadeDelete("テキスト１", 0, true);
 
 //Thick&, sharp stakes kept pounding into me without mercy&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Thick&, sharp stakes kept pounding into me without mercy&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -819,7 +822,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 
 //「虫ピンで標本にされた昆虫みたいだな」
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Like an insect pinned up as a specimen&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -839,7 +842,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 <PRE box00>
 [text023]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700090su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700090su">
 "Like an insect pinned up as a specimen&."
 
 </PRE>
@@ -849,7 +852,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //"And you ain't no rhinoceros beetle or butterfly&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "And you ain't no rhinoceros beetle or butterfly&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -869,7 +872,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 <PRE box00>
 [text024]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700100su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700100su">
 "And you ain't no rhinoceros beetle or butterfly&."
 
 </PRE>
@@ -879,7 +882,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //"A brat like you is more like the dung beetle type&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "A brat like you is more like the dung beetle type&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -900,7 +903,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 <PRE box00>
 [text025]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700110su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700110su">
 "A brat like you is more like the dung beetle type&."
 
 </PRE>
@@ -910,7 +913,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //I had already reached the point at which it was impossible for me to stand&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I had already reached the point at which it was impossible for me to stand&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -936,7 +939,7 @@ for him to stand&.
 	FadeDelete("テキスト１", 0, true);
 
 //Willpower alone was what kept me from collapsing&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Willpower alone was what kept me from collapsing&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -978,19 +981,19 @@ Suwa couldn't help but find it strange that he hadn't collapsed yet&.
 	FadeDelete("back11", 200, true);
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-//But&, I'll hit my limit soon&.&.&.&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "But&, I'll hit my limit soon&.&.&.&.");
+//But&, I'll hit my limit soon&.&.&.
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "But&, I'll hit my limit soon&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("But&, I'll hit my limit soon&.&.&.&.", "NULL", NULL);
+	SetBacklog("But&, I'll hit my limit soon&.&.&.", "NULL", NULL);
 	SetBacklog("But he would have to hit his limit soon&. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
-//※「But&, I'll hit my limit soon&.&.&.&.」は画面中央に表示
+//※「But&, I'll hit my limit soon&.&.&.」は画面中央に表示
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text028]
@@ -1003,7 +1006,7 @@ But he would have to hit his limit soon&.
 	FadeDelete("テキスト１", 0, true);
 
 //I couldn't see clearly&, as if there were a mosaic filter laid over my vision&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I couldn't see clearly&, as if there were a mosaic filter laid over my<BR>vision&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1029,7 +1032,7 @@ anymore&.
 	FadeDelete("テキスト１", 0, true);
 
 //"If you've got any last words&, go on and say 'em&. But keep it to twenty letters or less&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you've got any last words&, go on and say 'em&. But keep it to twenty<BR>letters or less&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1049,7 +1052,7 @@ anymore&.
 <PRE box00>
 [text030]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700120su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700120su">
 "If you've got any last words&, go on and say 'em&. But keep it to twenty
 letters or less&."
 
@@ -1060,7 +1063,7 @@ letters or less&."
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa said to me gloatingly&, holding the next stake in his hand&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa said to me gloatingly&, holding the next stake in his hand&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1083,9 +1086,9 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"Ha&.&.&.&. ah&.&.&.&. ha&, ah&.&.&.&. ha&.&.&.&. ah&.&.&.&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Ha&.&.&.&. ah&.&.&.&. ha&, ah&.&.&.&. ha&.&.&.&. ah&.&.&.&.");
+//"Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1094,8 +1097,8 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	CreateVOICE("拓巳","ch10/20700130ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Ha&.&.&.&. ah&.&.&.&. ha&, ah&.&.&.&. ha&.&.&.&. ah&.&.&.&.", "voice/ch10/20700130ta", 拓巳);
-	SetBacklog("Ha&.&.&.&. ah&.&.&.&. ha&, ah&.&.&.&. ha&.&.&.&. ah&.&.&.&.", "NULL", NULL);
+	SetBacklog("Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.", "voice/ch10/20700130ta", 拓巳);
+	SetBacklog("Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1104,8 +1107,8 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 <PRE box00>
 [text032]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700130ta">
-"Ha&.&.&.&. ah&.&.&.&. ha&, ah&.&.&.&. ha&.&.&.&. ah&.&.&.&."
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700130ta">
+"Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1114,7 +1117,7 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	FadeDelete("テキスト１", 0, true);
 
 //With the next one&, he'll kill me&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "With the next one&, he'll kill me&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1137,9 +1140,9 @@ Suwa will kill him with the next one&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"Earlier&.&.&.&. you called me a cherry-boy&.&.&.&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Earlier&.&.&.&. you called me a cherry-boy&.&.&.&.");
+//"Earlier&.&.&. you called me a cherry-boy&.&.&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Earlier&.&.&. you called me a cherry-boy&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1148,8 +1151,8 @@ Suwa will kill him with the next one&.
 	CreateVOICE("拓巳","ch10/20700140ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Earlier&.&.&.&. you called me a cherry-boy&.&.&.&.", "voice/ch10/20700140ta", 拓巳);
-	SetBacklog("Earlier&.&.&.&. you called me a cherry-boy&.&.&.&.", "NULL", NULL);
+	SetBacklog("Earlier&.&.&. you called me a cherry-boy&.&.&.", "voice/ch10/20700140ta", 拓巳);
+	SetBacklog("Earlier&.&.&. you called me a cherry-boy&.&.&.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1159,8 +1162,8 @@ Suwa will kill him with the next one&.
 [text034]
 //◆息も絶え絶え
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700140ta">
-"Earlier&.&.&.&. you called me a cherry-boy&.&.&.&."
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700140ta">
+"Earlier&.&.&. you called me a cherry-boy&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1169,7 +1172,7 @@ Suwa will kill him with the next one&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Did I hurt your feelings?"
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Did I hurt your feelings?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1190,7 +1193,7 @@ Suwa will kill him with the next one&.
 [text035]
 //◆嘲笑
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700150su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700150su">
 "Did I hurt your feelings?"
 
 </PRE>
@@ -1200,7 +1203,7 @@ Suwa will kill him with the next one&.
 	FadeDelete("テキスト１", 0, true);
 
 //I glared at Suwa&, relying on his far-off voice to find him&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I glared at Suwa&, relying on his far-off voice to find him&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1223,8 +1226,8 @@ Takumi glared at Suwa with lightless eyes&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"This is the last one&." 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+//"This is the last one&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "This is the last one&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1244,7 +1247,7 @@ Takumi glared at Suwa with lightless eyes&.
 <PRE box00>
 [text037]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700160su">
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700160su">
 "This is the last one&."
 
 </PRE>
@@ -1253,9 +1256,9 @@ Takumi glared at Suwa with lightless eyes&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"As for the salvation of the divine light&.&.&.&. I'm sure as hell not givin' it to you!" 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As for the salvation of the divine light&.&.&.&. I'm sure as hell not<BR>givin' it to you!");
+//"As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!"
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As for the salvation of the divine light&.&.&. I'm sure as hell not<BR>givin' it to you!");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1264,8 +1267,8 @@ Takumi glared at Suwa with lightless eyes&.
 	CreateVOICE("諏訪","ch10/20700170su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("As for the salvation of the divine light&.&.&.&. I'm sure as hell not givin' it to you!", "voice/ch10/20700170su", 諏訪);
-	SetBacklog("As for the salvation of the divine light&.&.&.&. I'm sure as hell not givin' it to you!", "NULL", NULL);
+	SetBacklog("As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!", "voice/ch10/20700170su", 諏訪);
+	SetBacklog("As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1274,8 +1277,8 @@ Takumi glared at Suwa with lightless eyes&.
 <PRE box00>
 [text038]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700170su">
-"As for the salvation of the divine light&.&.&.&. I'm sure as hell not
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700170su">
+"As for the salvation of the divine light&.&.&. I'm sure as hell not
 givin' it to you!"
 
 </PRE>
@@ -1295,7 +1298,7 @@ givin' it to you!"
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //I sensed the stake Suwa had flung as it sliced through the air&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I sensed the stake Suwa had flung as it sliced through the air&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1319,9 +1322,9 @@ Suwa flung the stake in his grasp&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"&.&.&.&.Did you know?"
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "&.&.&.&.Did you know?");
+//"&.&.&.Did you know?"
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "&.&.&.Did you know?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1330,8 +1333,8 @@ Suwa flung the stake in his grasp&.
 	CreateVOICE("拓巳","ch10/20700180ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("&.&.&.&.Did you know?", "voice/ch10/20700180ta", 拓巳);
-	SetBacklog("&.&.&.&.Did you know?", "NULL", NULL);
+	SetBacklog("&.&.&.Did you know?", "voice/ch10/20700180ta", 拓巳);
+	SetBacklog("&.&.&.Did you know?", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1341,8 +1344,8 @@ Suwa flung the stake in his grasp&.
 [text040]
 //◆息も絶え絶え
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700180ta">
-"&.&.&.&.Did you know?"
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700180ta">
+"&.&.&.Did you know?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1361,7 +1364,7 @@ Suwa flung the stake in his grasp&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //It was the stake of certain death&. A cross to bring me the promised Gospel&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was the stake of certain death&. A cross to bring me the promised Gospel&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1390,15 +1393,15 @@ Gospel&.
 	Move("back10", 3000, 0, -650, Axl2, true);
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-//The one who would die with this single blow was-- 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The one who would die with this single blow was--");
+//The one who would die with this single blow was―
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The one who would die with this single blow was―");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("The one who would die with this single blow was--", "NULL", NULL);
-	SetBacklog("The one who would die with this single blow was--", "NULL", NULL);
+	SetBacklog("The one who would die with this single blow was―", "NULL", NULL);
+	SetBacklog("The one who would die with this single blow was―", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1406,7 +1409,7 @@ Gospel&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text042]
-The one who would die with this single blow was--
+The one who would die with this single blow was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1418,9 +1421,9 @@ The one who would die with this single blow was--
 	Wait(1000);
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-//"Virgins have incredible imaginations--" 
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Virgins have incredible imaginations--");
+//"Virgins have incredible imaginations―"
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Virgins have incredible imaginations―");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1429,16 +1432,16 @@ The one who would die with this single blow was--
 	CreateVOICE("拓巳","ch10/20700190ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Virgins have incredible imaginations--", "voice/ch10/20700190ta", 拓巳);
-	SetBacklog("Virgins have incredible imaginations--", "NULL", NULL);
+	SetBacklog("Virgins have incredible imaginations―", "voice/ch10/20700190ta", 拓巳);
+	SetBacklog("Virgins have incredible imaginations―", "NULL", NULL);
 
 //画面中央とテキストウインドウ（画面下方）に以下の同じテキストを表示
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text043]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700190ta">
-"Virgins have incredible imaginations--"
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700190ta">
+"Virgins have incredible imaginations―"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1463,7 +1466,7 @@ The one who would die with this single blow was--
 
 //With a dull sound&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "With a dull sound&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1508,7 +1511,7 @@ With a dull sound&.
 	Wait(1000);
 
 //The stake plunged deep into his forehead&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The stake plunged deep into his forehead&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1531,20 +1534,20 @@ The stake plunged deep into his forehead&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//Agony erupted throughout Suwa's body--gushing up from within him&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Agony erupted throughout Suwa's body--<BR>gushing up from within him&.");
+//Agony erupted throughout Suwa's body―gushing up from within him&.
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Agony erupted throughout Suwa's body―<BR>gushing up from within him&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Agony erupted throughout Suwa's body--gushing up from within him&.", "NULL", NULL);
+	SetBacklog("Agony erupted throughout Suwa's body―gushing up from within him&.", "NULL", NULL);
 	SetBacklog("All of the agony devouring my whole body went away&, almost like it had been an illusion&.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
-//※「Agony erupted throughout Suwa's body--gushing up from within him&.」は画面中央に表示
+//※「Agony erupted throughout Suwa's body―gushing up from within him&.」は画面中央に表示
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text046]
@@ -1557,7 +1560,7 @@ All of the agony devouring my whole body went away&, almost like it had been an 
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa let out a voiceless scream&, moaning&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa let out a voiceless scream&, moaning&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1580,7 +1583,7 @@ I let out a deep breath and licked my parched lips&.
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa's entire body was impaled with cross-shaped stakes&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa's entire body was impaled with cross-shaped<BR>stakes&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1605,7 +1608,7 @@ In my hand was a single cross-shaped stake&.
 	FadeDelete("テキスト１", 0, true);
 
 //When he looked up&, there was a cross stuck in his forehead&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "When he looked up&, there was a cross stuck in his<BR>forehead&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1629,7 +1632,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //"The miracle of the Resurrection is a story&, and a delusion&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The miracle of the Resurrection is a story&,<BR>and a delusion&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1649,7 +1652,7 @@ When I looked up at the sky&, there were leaden clouds&.
 <PRE box00>
 [text050]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700200ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700200ta">
 "The miracle of the Resurrection is a story&, and a delusion&."
 
 </PRE>
@@ -1658,9 +1661,9 @@ When I looked up at the sky&, there were leaden clouds&.
 
 	FadeDelete("テキスト１", 0, true);
 
-//"What&.&.&.&. did you do&.&.&.&.?"
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "What&.&.&.&. did you do&.&.&.&.?");
+//"What&.&.&. did you do&.&.&.?"
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "What&.&.&. did you do&.&.&.?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1669,8 +1672,8 @@ When I looked up at the sky&, there were leaden clouds&.
 	CreateVOICE("諏訪","ch10/20700210su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("What&.&.&.&. did you do&.&.&.&.?", "voice/ch10/20700210su", 諏訪);
-	SetBacklog("What&.&.&.&. did you do&.&.&.&.?", "NULL", NULL);
+	SetBacklog("What&.&.&. did you do&.&.&.?", "voice/ch10/20700210su", 諏訪);
+	SetBacklog("What&.&.&. did you do&.&.&.?", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1679,8 +1682,8 @@ When I looked up at the sky&, there were leaden clouds&.
 <PRE box00>
 [text051]
 //【諏訪】
-//<voice name="諏訪" class="諏訪" src="ch10/20700210su">
-"What&.&.&.&. did you do&.&.&.&.?"
+//<voice name="諏訪" class="諏訪" src="voice/ch10/20700210su">
+"What&.&.&. did you do&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1690,7 +1693,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Delusion synchronization&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Delusion synchronization&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1710,7 +1713,7 @@ When I looked up at the sky&, there were leaden clouds&.
 <PRE box00>
 [text052]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700220ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700220ta">
 "Delusion synchronization&."
 
 </PRE>
@@ -1721,7 +1724,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //Assimilation with delusions&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Assimilation with delusions&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1745,7 +1748,7 @@ An invasion of the heart&.
 	FadeDelete("テキスト１", 0, true);
 
 //Like two sets of ripples canceling each other out&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Like two sets of ripples canceling each other out&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1769,7 +1772,7 @@ Like two wavelengths resonating&.
 	FadeDelete("テキスト１", 0, true);
 
 //Entwining with one another&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Entwining with one another&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1794,7 +1797,7 @@ Melting together&.
 	FadeDelete("テキスト１", 0, true);
 
 //The fate you created would be warped&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The fate you created would be warped&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1819,7 +1822,7 @@ Warping the fates created by others&.
 	FadeDelete("テキスト１", 0, true);
 
 //And switched out&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "And switched out&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1843,7 +1846,7 @@ Switching them in&.
 	FadeDelete("テキスト１", 0, true);
 
 //No one could do that&, Suwa thought disbelievingly&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "No one could do that&, Suwa thought disbelievingly&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1868,7 +1871,7 @@ No one could do that&, said Suwa's expression&.
 	Delete("@text058");
 
 //"If you're God's vanguard&, then crumble to dust like the Messiah&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you're God's vanguard&, then crumble to dust<BR>like the Messiah&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", NoIcon);
@@ -1889,7 +1892,7 @@ No one could do that&, said Suwa's expression&.
 <PRE box00>
 [text059]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700230ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700230ta">
 "If you're God's vanguard&, then crumble to dust like the <FONT incolor="#88abda" outcolor="BLACK">Messiah</FONT>&."
 
 </PRE>
@@ -1902,7 +1905,7 @@ No one could do that&, said Suwa's expression&.
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
 //Takumi tossed the stake away&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Takumi tossed the stake away&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1926,7 +1929,7 @@ I tossed the stake away&.
 	FadeDelete("テキスト１", 0, true);
 
 //Colors were rapidly vanishing from Suwa's vision&.
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Colors were rapidly vanishing from Suwa's vision&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1950,7 +1953,7 @@ Suwa's eyes were rapidly losing their light&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Also"
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Also");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1970,7 +1973,7 @@ Suwa's eyes were rapidly losing their light&.
 <PRE box00>
 [text062]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700240ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700240ta">
 "Also"
 
 </PRE>
@@ -1980,7 +1983,7 @@ Suwa's eyes were rapidly losing their light&.
 	FadeDelete("テキスト１", 0, true);
 
 //"I don't need salvation&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I don't need salvation&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -2000,7 +2003,7 @@ Suwa's eyes were rapidly losing their light&.
 <PRE box00>
 [text063]
 //【拓巳】
-//<voice name="拓巳" class="拓巳" src="ch10/20700250ta">
+//<voice name="拓巳" class="拓巳" src="voice/ch10/20700250ta">
 "I don't need salvation&."
 
 </PRE>
@@ -2042,8 +2045,8 @@ function TypeBegin10()
 
 function SetText2("ボックス名","$テキスト名")
 {
-	SetFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
-	LoadText("$構文名","ボックス名","$テキスト名",720,130,0,29);
+	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
+	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);
 	Request("$テキスト名", Lock);

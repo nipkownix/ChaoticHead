@@ -139,20 +139,20 @@ relax&.
 
 Without blaming anyone&, Dr&. Takashina persevered in trying to treat
 me&. He was the only one who noticed that it wasn't that I couldn't
-speak&, it was simply that I chose not to&. 
+speak&, it was simply that I chose not to&.
 
 My mother talked to me about all kinds of things in a falsely bright
 voice&.
 
 Dr&. Takashina always greeted me with a refreshing smile&.
 The nurses were nice to me&, too&.
-And--
+AndÅ\
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03400010ta">
-"Hm&.&.&.&.?"
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03400010ta">
+"Hm&.&.&.?"
 
-And&.&.&.&.
+And&.&.&.
 I had the feeling that there had always been one more person in the
 room&.
 
@@ -183,8 +183,8 @@ I'd internally called him "Nozomi-san&." Not because he'd said it was
 his name&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03400020ta">
-"NOZOMI&.&.&.&."
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03400020ta">
+"NOZOMI&.&.&."
 
 The suit-clad man always wore a small badge on his chest&.
 
@@ -195,7 +195,7 @@ tag&.
 Right&, "NOZOMI" had also been printed on the checksheet I'd filled
 out earlier&.
 
-I'd felt like I'd seen it somewhere before&, but now I finally 
+I'd felt like I'd seen it somewhere before&, but now I finally
 remembered&.
 At last I felt a little refreshed&.
 
@@ -203,7 +203,7 @@ That aside&, what was this "NOZOMI"?
 The only certainty was that it must be the name of a corporation&.
 
 //ÅyëÒñ§Åz
-<voice name="ëÒñ§" class="ëÒñ§" src="ch02/03400030ta">
+<voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03400030ta">
 "It could be a counterterrorist organization founded by a gorgeous
 company president&, a lady named Nozomi-san&. Hehehehe&, just like a
 manga&."
@@ -269,7 +269,7 @@ who had made the aforementioned checklist&, or maybe a salesman who
 had come to the hospital with his wares&, that kind of thing&.
 
 And lately they'd finally started to make use of his stuff&, including
-the sheet they'd had me fill out today&.&.&.&.
+the sheet they'd had me fill out today&.&.&.
 
 Nah&, the chances of that were pretty damn slim&.
 I'd never heard of them letting an outsider like that sit in on a
@@ -280,7 +280,7 @@ patient's session&.
 	Fade("êFÇP", 500, 1000, null, true);
 	Fade("åüçı", 0, 0, null, true);
 	SoundPlay("SE02", 500, 0, false);}
-In the end&, who or what had Nozomi-san been&.&.&.&.?
+In the end&, who or what had Nozomi-san been&.&.&.?
 I got fed up once again at the emergence of these nagging memories&.
 
 {	CreateSE("SE02","SE_ì˙èÌ_â∆ãÔ_ÉCÉX_Áa");
@@ -296,7 +296,7 @@ After seeing him&, I'd shut myself up again and stop going to school&.
 
 I couldn't go to school&, not when it was full of people trying to
 hurt me&. Truthfully&, I didn't really want to get my "minimum
-attendance shift chart" too messed up&.&.&.&. But it wasn't worth
+attendance shift chart" too messed up&.&.&. But it wasn't worth
 dying for&.
 
 I stopped running searches about "NOZOMI" and began browsing for

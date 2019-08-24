@@ -61,13 +61,13 @@ function ch06_115_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚Q‚Q()
 [text001]
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500010ay">
-"Shadow of a wicked heart lurks within you&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500010ay">
+"Shadow of a wicked heart lurks within you&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500020ay">
-"That&, which cannot be seen&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500020ay">
+"That&, which cannot be seen&.&.&."
 
 
 Kishimoto Ayase felt the wind&.
@@ -78,22 +78,22 @@ anguished&, and drops of sweat rolled down her cheeks&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500030ay">
-"No matter how I try to leave&, no matter how I try to leave&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500030ay">
+"No matter how I try to leave&, no matter how I try to leave&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500040ay">
-"Unending nightmares&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500040ay">
+"Unending nightmares&.&.&."
 
 The Suimei Academy roof was surrounded by a metal fence nearly two
 meters high&. Ayase was currently standing in the barely 30-centimeter
 space that lay outside it&.
 
-She had already been standing there for over ten minutes&. 
+She had already been standing there for over ten minutes&.
 
 If she took another step forward&, she would fall from the
-four-story-high school roof&. 
+four-story-high school roof&.
 
 Many students had gathered below&,
 They watched Ayase with bated breath&.
@@ -107,41 +107,41 @@ They watched Ayase with bated breath&.
 [text002]
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500050ay">
-"Become a sword in the end&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500050ay">
+"Become a sword in the end&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500060ay">
-"And come to slash me apart&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500060ay">
+"And come to slash me apart&.&.&."
 
 People had long since contacted the police and emergency medical
 services&, but they hadn't arrived on the spot yet&, due in part to
-their needing to respond to the earthquake of several hours earlier&. 
+their needing to respond to the earthquake of several hours earlier&.
 
 The teachers darted around to prepare a landing mat&, in case worst
 came to worst&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500070ay">
-"With the shield called apathy&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500070ay">
+"With the shield called apathy&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500080ay">
-"People evade the flames of war&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500080ay">
+"People evade the flames of war&.&.&."
 
 But Ayase herself stretched out her back&, standing up straight as if
 the ruckus below had nothing to do with her&. It appeared&, in fact&,
 as if she were deliberately attempting to sever anything tying her
-interest to the world below&. 
+interest to the world below&.
 
 Raising her chin to look up at the sky&, she closed both eyes&. She
-resembled a shrine maiden praying to heaven&. 
+resembled a shrine maiden praying to heaven&.
 
 Perhaps because she had a good sense of balance&, her body didn't
-waver whatsoever in the small wind&. 
+waver whatsoever in the small wind&.
 
 Never mind the fact that she was carrying a colossal sword&, one
 approximately as tall as she was&, in her right hand&.
@@ -155,30 +155,30 @@ approximately as tall as she was&, in her right hand&.
 [text003]
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500090ay">
-"My reborn battlefield enemies&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500090ay">
+"My reborn battlefield enemies&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500100ay">
-"Are those with spite in their hearts&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500100ay">
+"Are those with spite in their hearts&.&.&."
 
-That sword--her Di-Sword--was radiating a pale light&, blinking
+That sword\her Di-Sword\was radiating a pale light&, blinking
 painfully on and off&. As though synchronizing with its blinking&,
-agonized sighs fell from Ayase's lips&.&.&.&. and a weak&, thin
+agonized sighs fell from Ayase's lips&.&.&. and a weak&, thin
 whisper came leaking out with them&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500110ay">
-"At times malice possesses its own will&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500110ay">
+"At times malice possesses its own will&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500120ay">
-"And&.&.&.&. shows us&.&.&.&. its form&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500120ay">
+"And&.&.&. shows us&.&.&. its form&.&.&."
 
-The poetry woven by her whisper-- 
+The poetry woven by her whisper\
 Soon was erased in the wind&.
 
 Ayase opened her eyes and ran her gaze across the subdued sky that lay
@@ -186,28 +186,28 @@ over Shibuya's clustered buildings&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500130ay">
-"This world is overflowing with malicious delusions&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500130ay">
+"This world is overflowing with malicious delusions&.&.&."
 
 //Ÿ‹ê‚µ‚°//‘¼l‚Ğ‚ÆA‚Æ“Ç‚ñ‚Å‚­‚¾‚³‚¢
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500140ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500140ay">
 "Everyone adores the unhappiness of others&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500150ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500150ay">
 "Even if I close my eyes&, even if I cover my ears&, it does no
-good&.&.&.&."
+good&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500160ay">
-"Long ago&.&.&.&. they refused to leave my side&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500160ay">
+"Long ago&.&.&. they refused to leave my side&."
 
-As she murmured&, she brought her enormous sword up to her chest&. 
+As she murmured&, she brought her enormous sword up to her chest&.
 
-She embraced it gently with both arms&. 
+She embraced it gently with both arms&.
 
 Mysteriously&, that sharp-looking sword placed not a single wound on
 her body&.
@@ -221,25 +221,25 @@ her body&.
 [text004]
 //Ÿ‹ê‚µ‚°//ŠÒ‚è‚©‚¦‚è
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500170ay">
-"I wanted return&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500170ay">
+"I wanted return&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500180ay">
-"To the other world where the Great Will reside&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500180ay">
+"To the other world where the Great Will reside&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500190ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500190ay">
 "For the sake of it&, I cu<pre>t</pre> up my heart&, I accepted everything&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500200ay">
-"Dreams&.&.&.&. as a vessel of chaos&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500200ay">
+"Dreams&.&.&. as a vessel of chaos&."
 
-Ayase's expression contorted in grief&. 
+Ayase's expression contorted in grief&.
 Quiet tears spilled from her eyes&.
 
 Those voicelessly wept teardrops danced into space&, borne away by the
@@ -254,56 +254,56 @@ wind&.
 [text005]
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500210ay">
-"But&.&.&.&. Gladioul grows restless in the womb&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500210ay">
+"But&.&.&. Gladioul grows restless in the womb&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500220ay">
-"Though there's no time left&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500220ay">
+"Though there's no time left&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500230ay">
-"I can't find it&.&.&.&. I can't find it&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500230ay">
+"I can't find it&.&.&. I can't find it&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500240ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500240ay">
 "Neither door to Heaven&, nor wise man&, nor hand of guidance&, nor
 seven forms of divine punishment&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500250ay">
-"Is the legend of the black knights true&.&.&.&.?"
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500250ay">
+"Is the legend of the black knights true&.&.&.?"
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500260ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500260ay">
 "I've sung many songs&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500270ay">
-"Do you mean to tell me it wasn't enough&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500270ay">
+"Do you mean to tell me it wasn't enough&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500280ay">
-"O&, Great Will&.&.&.&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500280ay">
+"O&, Great Will&.&.&."
 
 Ayase slowly spread her arms out on either side&.
 
-As though to embrace the sky itself&. 
+As though to embrace the sky itself&.
 
 As though to indicate her existence to a distant and high-up god&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500290ay">
-"I'm going to fly&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500290ay">
+"I'm going to fly&."
 
-The pale pulsing of her sword increased in ferocity&. 
+The pale pulsing of her sword increased in ferocity&.
 
 Ayase closed her eyes for a second time&. At that moment&, a final
 tear overflowed from the corners of her eyes&.
@@ -317,26 +317,26 @@ tear overflowed from the corners of her eyes&.
 [text006]
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500300ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500300ay">
 "Since I offer you this vessel of mine"
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500310ay">
-"Please take my soul away with you&." 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500310ay">
+"Please take my soul away with you&."
 
-And she-- 
+And she\
 
-Stepped forward without a moment's hesitation-- 
+Stepped forward without a moment's hesitation\
 
-And with nothing there to hold up her body--
+And with nothing there to hold up her body\
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch06/11500320ay">
-"To the place where I must return--" 
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500320ay">
+"To the place where I must return\"
 
 Ayase sensed the chilly wind tenderly stroking her cheek and felt that
-she had been freed from everything--
+she had been freed from everything\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

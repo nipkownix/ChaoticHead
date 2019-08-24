@@ -26,7 +26,7 @@ function ch01_013_１０月１日水()
 	SystemInit();
 	SystemSet();
 
-//☆Cut-65-----------------------------
+//☆Cut-65――――――――――――――――――――――――――――――
 //ＢＧ//神泉町の町並み//朝
 //１０月１日（水）//日付は表示しない
 	CreateBG(100, 500, 0, 0, "cg/bg/bg014_01_0_神泉町並み_a.jpg");
@@ -45,16 +45,16 @@ nerves plummeted back into the worst shape imaginable&.
 Why did I have to go to school?
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01300010ta">
-"Why today? This sucks&, this blows&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch01/01300010ta">
+"Why today? This sucks&, this blows&.&.&."
 
 But I couldn't take the day off&. Take even a single day off&, and
 abnormalities would emerge in the system imposed by my "minimum
 attendance shift chart&." Then I wouldn't be able to graduate&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01300020ta">
-"Graduate&, graduate&.&.&.&. What's with the insistence on
+<voice name="拓巳" class="拓巳" src="voice/ch01/01300020ta">
+"Graduate&, graduate&.&.&. What's with the insistence on
 graduating?"
 
 It was something I'd decided on myself&, but I couldn't help griping
@@ -110,13 +110,14 @@ As I rounded the corner&, I used my eyes alone to look behind me&,
 without turning my head&. For a second&, I glimpsed a girl wearing the
 Suimei uniform&.
 
-Could it be the demon from the day before yesterday&.&.&.&.!?
+Could it be the demon from the day before yesterday&.&.&.!?
 
 I immediately lost my calm; my heart began beating wildly&.
 A supreme tension controlled my movements&, making me walk jerkily&.
 
-The serene morning sce<pre>n</pre>ery metamorphosed&, leaving me with the sense
-that everything around me was rejecting me&.
+The serene morning sce<pre>n</pre>ery metamorphosed&,
+leaving me with the sense that everything around
+me was rejecting me&.
 
 Birds chirped atop telephone wires&, and I could faintly hear the
 relaxed BGM of morning news programs playing in the houses I was
@@ -133,13 +134,13 @@ dying hideously&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-No&, get a grip&.&.&.&.
+No&, get a grip&.&.&.
 
 I hadn't clearly identified her face&.
 Also&, if she were a Suimei student&, it would be natural for her to
 keep following after me&. Our destination was the same&, after all&.
 
-&.&.&.&.Okay then&.
+&.&.&.Okay then&.
 
 {	CreateColor("色１", 500, 0, 0, 800, 600, "BLACK");
 	DrawTransition("色１", 300, 0, 1000, 100, null, "cg/data/left2.png", false);}
@@ -175,8 +176,8 @@ around with all my might&.
 [text004]
 //ＣＨ//優愛
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01300030ta">
-"&.&.&.&.!"
+<voice name="拓巳" class="拓巳" src="voice/ch01/01300030ta">
+"&.&.&.!"
 
 Our eyes were about to meet&, so I hastily faced forward again&.
 
@@ -184,7 +185,7 @@ Why was she following me!?
 
 This road was obviously the long way to school&.
 
-In the end&, was she really tailing me&.&.&.&.?
+In the end&, was she really tailing me&.&.&.?
 In any case&, I didn't recognize her face&. The fact that she was
 wearing glasses made it instantly clear that she wasn't the demon from
 the day before yesterday&.
@@ -196,7 +197,7 @@ I had to cancel my daily routine of eating breakfast in the park&, but
 it couldn't be helped&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/01300040ta">
+<voice name="拓巳" class="拓巳" src="voice/ch01/01300040ta">
 "Damn you&, Girl A!"
 
 To me&, your existence is no more than the equivalent of "Passerby 1"
@@ -246,7 +247,7 @@ Was she trying to torment me? Had I done something to earn her spite?
 No&, I hadn't&. There was no way I had&. Since at school&, my
 existence is like air&.
 
-Then what could possibly be her goal&.&.&.&.?
+Then what could possibly be her goal&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

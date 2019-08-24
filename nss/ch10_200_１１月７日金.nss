@@ -41,12 +41,13 @@ function ch10_200_‚P‚PŒ‚V“ú‹à()
 //‚a‚f//ŠC‚ÆÂ‚¢‹ó
 //¦«ŒR‚Ì¸_¢ŠE‚Å‚·
 
-	CreateMovie("ÍƒCƒ“", 25000, 0, 0, false, true, "dx/mvI.ngs");
-	Request("ÍƒCƒ“", Lock);
+	CreateTextureEX("ƒAƒCƒLƒƒƒbƒ`‚P", 100, 0, 0, "cg/sys/title/cards/title_ch10.png");
+	Fade("ƒAƒCƒLƒƒƒbƒ`‚P", 10, 1000, null, true);
 
-	WaitAction("ÍƒCƒ“", 3200);
-
-	DeleteAll();
+	WaitKey(3200);
+	IntermissionCard1();
+	
+	Delete("*");
 
 	CreateTextureEX("back01", 100, 0, 0, "cg/bg/bg113_01_6_ŠC‚ÆÂ‚¢‹ó_a.jpg");
 	Fade("back01", 0, 1000, null, true);
@@ -54,9 +55,7 @@ function ch10_200_‚P‚PŒ‚V“ú‹à()
 	CreateSE("SE01","SE_©‘R_”g‰¹_Loop");
 	MusicStart("SE01", 1200, 1000, 0, 1000, null, true);
 
-	Request("ÍƒCƒ“", UnLock);
-	WaitAction("ÍƒCƒ“", null);
-	Delete("ÍƒCƒ“");
+	IntermissionCard2();
 
 	WaitKey();
 
@@ -69,25 +68,26 @@ It was very clear&, transparent water&.
 A shallow shoal&, no higher than one's ankles&.
 I didn't feel any coldness&.
 
-The sound of the waves whispered intermittently in my ears&. 
+The sound of the waves whispered intermittently in my ears&.
 
 I was holding the handlebars on the back of a wheelchair&.
 
-"Shogun"&.&.&.&. No&, the real Nishijou Takumi's head&, clad in a knit cap&, 
-was close before me&. He sat in the wheelchair with his back hunched a 
-little&.
+"Shogun"&.&.&. No&, the real Nishijou Takumi's head&, clad in
+a knit cap&, was close before me&. He sat in the wheelchair
+with his back hunched a little&.
 
 There was nothing around us&.
 
-Shells buried in the sand&, for instance&, or seabirds flying gracefully through the sky; I couldn't see anything of the sort&.
+Shells buried in the sand&, for instance&, or seabirds flying gracefully
+through the sky; I couldn't see anything of the sort&.
 
 Life had no presence here&.
 There was only the blue ocean and the absolutely clear sky&.
 
-The land was flat&, and no matter which way I faced&, I could look out 
-across the horizon in every direction&, 360 degrees around&.  
+The land was flat&, and no matter which way I faced&, I could look out
+across the horizon in every direction&, 360 degrees around&.
 
-This wasn't the real world&. 
+This wasn't the real world&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -100,7 +100,7 @@ This wasn't the real world&.
 <PRE box00>
 [text002]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000010jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000010jn">
 "I'm going to die soon&."
 
 I heard Shogun's voice&, mingling with the sound of the breaking waves&.
@@ -112,74 +112,75 @@ His was not a voice filled with any particular sense of lamentation&.
 It was truly as though he had said it offhand&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000020jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000020jn">
 "I think you'll understand if you take a look at my body&."
 
 Tiny&, and covered in wrinkles&, and underweight&.
 All of his hair had fallen out&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000030jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000030jn">
 "It's a hereditary disease&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000040jn">
-"My body stopped developing when I was ten years old&, and the symptoms first emerged&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000040jn">
+"My body stopped developing when I was ten years old&, and the symptoms
+first emerged&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000050jn">
-"And then&.&.&.&. it began aging&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000050jn">
+"And then&.&.&. it began aging&."
 
 Was this one of those illnesses known as premature aging?
 It was supposed to be a rare disease&, one that affected only
 about 1 in every 8 million people&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000060ta">
-"When you were ten&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000060ta">
+"When you were ten&.&.&."
 
-A certain gruesome spectacle engraved in my memory rose to the 
+A certain gruesome spectacle engraved in my memory rose to the
 forefront&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000070jn">
-"I started having symptoms about three months before that bus 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000070jn">
+"I started having symptoms about three months before that bus
 accident&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000080ta">
-"The bus accident&, did you&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000080ta">
+"The bus accident&, did you&.&.&.?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000090jn">
-"&.&.&.&.Maybe so&. But at the time&, I had little awareness of my power&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000090jn">
+"&.&.&.Maybe so&. But at the time&, I had little awareness of my power&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000100ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000100ta">
+"&.&.&.&.&.&.&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000110jn">
-"Long before my illness manifested&.&.&.&. as long as I can remember&, in 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000110jn">
+"Long before my illness manifested&.&.&. as long as I can remember&, in
 fact&, I was able to use my abilities as a Gigalomaniac&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000120jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000120jn">
 "I thought it was normal&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000130jn">
-"Consciously or unconsciously&, I've used my power countless 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000130jn">
+"Consciously or unconsciously&, I've used my power countless
 times before now&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000140jn">
-"Which is why the 'contradictions' in my existence have grown too 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000140jn">
+"Which is why the 'contradictions' in my existence have grown too
 large&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000150jn">
-"You heard about it from Aoi Sena&, did you not?" 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000150jn">
+"You heard about it from Aoi Sena&, did you not?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -209,22 +210,23 @@ large&."
 [text003]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000160sn">
-"The antiparticles that form together with particles in pair production become stocked up in your Di-Sword&."
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000160sn">
+"The antiparticles that form together with particles in pair production
+become stocked up in your Di-Sword&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000170sn">
-"Mathematically speaking&, antiparticles are that which 'leads 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000170sn">
+"Mathematically speaking&, antiparticles are that which 'leads
 toward the past&.'"
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000180sn">
-"Because of this&, the more of them a Gigalomaniac stocks up&, the 
-greater the consequential 'lag' between him and present conditions&." 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000180sn">
+"Because of this&, the more of them a Gigalomaniac stocks up&, the
+greater the consequential 'lag' between him and present conditions&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000190sn">
-"At last those contradictions will lead him toward existential 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000190sn">
+"At last those contradictions will lead him toward existential
 self-destruction&."
 
 {	Fade("back10", 100, 1000, null, true);
@@ -241,51 +243,53 @@ I wondered what he was looking at&.
 I wondered if he saw anything&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000200jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000200jn">
 "The more I use my abilities&, the more this disease advances&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000210ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000210ta">
 "Can't you just cure yourself with your power as a Gigalomaniac?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000220jn">
-"If I use my power&, the disease progresses&. To put it bluntly&, even if I make use of my power&, the balance of plus and minus adds up to zero&. Nothing changes&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000220jn">
+"If I use my power&, the disease progresses&. To put it bluntly&,
+even if I make use of my power&, the balance of plus and
+minus adds up to zero&. Nothing changes&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000230ta">
-"&.&.&.&.Why?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000230ta">
+"&.&.&.Why?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000240ta">
-"Why did you make someone like me&, an otaku freak&, a 
-good-for-nothing jerkoff? You should've gone with someone 
-stronger&, and more proactive&, and cooler&, and better-looking&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000240ta">
+"Why did you make someone like me&, an otaku freak&, a
+good-for-nothing jerkoff? You should've gone with someone
+stronger&, and more proactive&, and cooler&, and better-looking&.&.&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000250jn">
-"It isn't an easy task to create an individual person--not to mention 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000250jn">
+"It isn't an easy task to create an individual person\not to mention
 one capable of using the power of a Gigalomaniac&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000260jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000260jn">
 "In fact&, creating you sent me into a coma for close to a year&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000270ta">
-"&.&.&.&.Are you saying I'm incomplete?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000270ta">
+"&.&.&.Are you saying I'm incomplete?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000280jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000280jn">
 "That itself is what makes you so very human&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000290ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000290ta">
 "You don't have to follow through like that for me&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000300jn">
-"I'm in earnest&." 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000300jn">
+"I'm in earnest&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -298,29 +302,29 @@ I clicked my tongue&.
 I didn't like this guy&, after all&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000310jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000310jn">
 "Rimi always got angry at me&, telling me not to use my power&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000320ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000320ta">
 "She wants to save you&, doesn't she?"
 
 //Ÿ‚©‚·‚©‚ÉÎ‚¤
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000330jn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000330jn">
+"&.&.&.&.&.&.&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000340jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000340jn">
 "But I can't afford to obey Rimi's warnings&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000350jn">
-"Because my Ir2 was the trigger leading to the current critical 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000350jn">
+"Because my Ir2 was the trigger leading to the current critical
 situation&."
 
-I r 2&.&.&.&.
-That peculiar doodle drawn on the reverse side of the essay&. 
+I r 2&.&.&.
+That peculiar doodle drawn on the reverse side of the essay&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -330,48 +334,49 @@ That peculiar doodle drawn on the reverse side of the essay&.
 <PRE box00>
 [text005]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000360jn">
-"Ir2 caught the eye of a certain scientist&, and at last the Nozomi 
-Technology Company began researching it&."  
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000360jn">
+"Ir2 caught the eye of a certain scientist&, and at last the Nozomi
+Technology Company began researching it&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000370jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000370jn">
 "The result was Project Noah&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000380jn">
-"You could describe it as a device to artificially generate the 
-abilities of Gigalomaniacs&."   
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000380jn">
+"You could describe it as a device to artificially generate the
+abilities of Gigalomaniacs&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000390jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000390jn">
 "I only picked up on their plans after meeting Rimi&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000400jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000400jn">
 "The terrible torture she went through was one aspect of the project&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000410jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000410jn">
 "They needed CODE samples to make the Noah System more efficient&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000420jn">
-"They're unique brain waves emitted by Gigalomaniacs in the process of using their powers&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000420jn">
+"They're unique brain waves emitted by Gigalomaniacs in the
+process of using their powers&."
 
 //ŸŠó‚Ì‚¼‚İ
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000430jn">
-"In order to obtain them&, Nozomi's president--Norose--inflicted harsh 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000430jn">
+"In order to obtain them&, Nozomi's president\Norose\inflicted harsh
 torture on Rimi&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000440jn">
-"Because the power of Gigalomaniacs awakens when they harbor 
-intensely negative emotions&, and then they come into possession 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000440jn">
+"Because the power of Gigalomaniacs awakens when they harbor
+intensely negative emotions&, and then they come into possession
 of their Di-Swords&."
 
-I again recalled what Sena had said&. 
+I again recalled what Sena had said&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -401,20 +406,20 @@ I again recalled what Sena had said&.
 [text006]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000450sn">
-"When your biorhythms rise&, leading to the excessive secretion 
-of dopamine in the neurons of your midbrain limbic system&, your 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000450sn">
+"When your biorhythms rise&, leading to the excessive secretion
+of dopamine in the neurons of your midbrain limbic system&, your
 Di-Sword will appear&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000460sn">
-"Depending on the person&, it could be when they're in a hazardous 
-situation&, when they're agitated&, sad&, filled with 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000460sn">
+"Depending on the person&, it could be when they're in a hazardous
+situation&, when they're agitated&, sad&, filled with
 hate&, or laughing&."
 
 //yƒZƒiz
-<voice name="ƒZƒi" class="ƒZƒi" src="ch10/20000470sn">
-"The higher the amount of dopamine produced&, the easier it becomes 
+<voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000470sn">
+"The higher the amount of dopamine produced&, the easier it becomes
 to observe&."
 
 {	Fade("back10", 100, 1000, null, true);
@@ -427,28 +432,29 @@ to observe&."
 	MusicStart("SE01", 500, 1000, 0, 1000, null, true);
 	Delete("back10");}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000480ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000480ta">
 "Was that also why you kept interfering with me?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000490jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000490jn">
 "Yes&. To coerce you into awakening&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000500jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000500jn">
 "I'm sorry&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000510ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000510ta">
+"&.&.&.&.&.&.&."
 
 It wasn't only me and Rimi&.
 
-Those who had been forced to awaken as Gigalomaniacs because of the 
+Those who had been forced to awaken as Gigalomaniacs because of the
 psychological or physical torture involved in Project Noah&, they were:
 
 //Ÿ¦—Dˆ¤‚ÍœŠO‚µ‚Ä‚ ‚è‚Ü‚·
-Ayase&. Sena&. Kozu-pii&. And even Nanami&. They had been through horrific trials&. 
+Ayase&. Sena&. Kozu-pii&. And even Nanami&. They had been
+through horrific trials&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -458,71 +464,72 @@ Ayase&. Sena&. Kozu-pii&. And even Nanami&. They had been through horrific trial
 <PRE box00>
 [text007]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000520jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000520jn">
 "Ir2 gave rise to Noah II&, and I have to stop it with my own hands&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000530jn">
-"But I'm stuck in this body&. I can't so much as move to my 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000530jn">
+"But I'm stuck in this body&. I can't so much as move to my
 satisfaction&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000540jn">
-"In addition&, Nozomi has started targeting me&, wanting to take my CODE sample&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000540jn">
+"In addition&, Nozomi has started targeting me&, wanting to take
+my CODE sample&."
 
-The place where he'd been hospitalized was indeed AH Tokyo General 
+The place where he'd been hospitalized was indeed AH Tokyo General
 Hospital&. It had hidden ties to the Nozomi Group&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000550jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000550jn">
 "So I had to hide myself&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000560ta">
-"The 'Ami-chan' in the illusionary hospital room&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000560ta">
+"The 'Ami-chan' in the illusionary hospital room&.&.&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000570jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000570jn">
 "Rimi was the only one able to come in there&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000580jn">
-"I became incapable of moving about&, and then--"
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000580jn">
+"I became incapable of moving about&, and then\"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000590ta">
-"You made me&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000590ta">
+"You made me&.&.&."
 
 "Shogun" gave a small nod&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000600jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000600jn">
 "Rimi told me to erase you over and over&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000610jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000610jn">
 "She told me to stop&, because it would whittle away at my life&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000620jn">
-"But there isn't much time left to me anyway&. Whether or not I use my 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000620jn">
+"But there isn't much time left to me anyway&. Whether or not I use my
 power now won't make much of a difference&."
 
 His voice was very calm&.
-He had the philosophical view of things possessed only by those whose 
+He had the philosophical view of things possessed only by those whose
 deaths have been declared to them years before&, perhaps&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000630jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000630jn">
 "Besides&, once you awoke and became capable of using your power&,
 my life would surely fail to hold out any longer&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000640ta">
-"You mean&, we're&.&.&.&. one in self and soul?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000640ta">
+"You mean&, we're&.&.&. one in self and soul?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000650jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000650jn">
 "Indeed&."
 
 </PRE>
@@ -547,27 +554,28 @@ my life would surely fail to hold out any longer&."
 [text008]
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20000660ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20000660ri">
 "But make me a single promise&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20000670ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20000670ri">
 "'I won't have any more delusions&.'"
 
 {	Stand("bu—œ[_§•_’Êí","normal", 200, @+150);
 	FadeStand("bu—œ[_§•_’Êí_normal", 300, true);
 	DeleteStand("bu—œ[_§•_’Êí_hard", 0, true);}
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20000680ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20000680ri">
 "Okay?"
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20000690ri">
+<voice name="—œ[" class="—œ[" src="voice/ch10/20000690ri">
 "Because you have a very powerful imagination&."
 
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch10/20000700ri">
-"The more you delude yourself&, the more it shaves away the life of the real you&."
+<voice name="—œ[" class="—œ[" src="voice/ch10/20000700ri">
+"The more you delude yourself&, the more it shaves away the life
+of the real you&."
 
 {	Fade("back10", 500, 1000, null, true);
 	Delete("back03");
@@ -579,22 +587,23 @@ my life would surely fail to hold out any longer&."
 	Delete("back10");
 	Wait(500);}
 If I were to keep my promise to Rimi&, I couldn't go save her&. Even if
-I went&, they'd turn the tables on me&, and I wouldn't be able to 
+I went&, they'd turn the tables on me&, and I wouldn't be able to
 accomplish anything&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000710ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000710ta">
 "How much longer will your life last?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000720jn">
-"Most likely&.&.&.&. until sometime today or tomorrow&, maybe&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000720jn">
+"Most likely&.&.&. until sometime today or tomorrow&, maybe&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000730ta">
-"That soon&.&.&.&.!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000730ta">
+"That soon&.&.&.!?"
 
-The time left to him was so much shorter than I'd expected&, it stunned me&. 
+The time left to him was so much shorter than I'd expected&,
+it stunned me&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -604,59 +613,61 @@ The time left to him was so much shorter than I'd expected&, it stunned me&.
 <PRE box00>
 [text009]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000740ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000740ta">
 "Because I awoke?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000750jn">
-"Don't worry about it&. Because I longed for your awakening from the 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000750jn">
+"Don't worry about it&. Because I longed for your awakening from the
 bottom of my heart&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000760ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000760ta">
 "What'll happen to me if you die?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000770jn">
-"At the same time that you share my heart and body&, you have also 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000770jn">
+"At the same time that you share my heart and body&, you have also
 become a real human being by means of real-booting&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000780jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000780jn">
 "Your manner of birth may be unique&, but you're a human being&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000790ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000790ta">
+"&.&.&.&.&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000800ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000800ta">
 "If I disappear&, will it save you?"
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000810jn">
-"It'd be pointless&. At most&, I think my remaining lifespan would extend from a few days to a few weeks&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000810jn">
+"It'd be pointless&. At most&, I think my remaining lifespan would extend
+from a few days to a few weeks&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000820jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000820jn">
 "But don't make such foolish choices&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000830jn">
-"I'd like you to destroy Noah II&. With that goal in mind&, I don't want you to hold back on using your power&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000830jn">
+"I'd like you to destroy Noah II&. With that goal in mind&, I don't want
+you to hold back on using your power&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000840ta">
-"&.&.&.&.You don't have to tell me&. I know&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000840ta">
+"&.&.&.You don't have to tell me&. I know&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000850ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000850ta">
 "I'm not such a good person that I'd hold back for your sake&."
 
 //ŸÎ‚¤
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000860jn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000860jn">
+"&.&.&.&.&.&.&."
 
 "Shogun" laughed&, his shoulders shaking faintly&.
 It kind of offended me&, since I hadn't meant to be funny&.
@@ -669,17 +680,18 @@ It kind of offended me&, since I hadn't meant to be funny&.
 <PRE box00>
 [text010]
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000870jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000870jn">
 "I'm glad you awoke&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000880jn">
-"It may be selfish of me&, and troublesome for you&, but I leave the rest to you&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000880jn">
+"It may be selfish of me&, and troublesome for you&, but I
+leave the rest to you&."
 
 {	DeleteStand("bu«ŒR_ÔˆÖq_’Êí_normal", 500, true);
 	Stand("st«ŒR_ÔˆÖq_’Êí","normal", 200, @0);
 	FadeStand("st«ŒR_ÔˆÖq_’Êí_normal", 500, true);}
-The sensation of the wheelchair handlebars I was holding abruptly 
+The sensation of the wheelchair handlebars I was holding abruptly
 vanished&.
 
 {	DeleteStand("st«ŒR_ÔˆÖq_’Êí_normal", 500, true);}
@@ -691,16 +703,16 @@ I had no intention of chasing after him&.
 I hazily saw him off&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000890jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000890jn">
 "My role has ended&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000900ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000900ta">
 "Pretty selfish of you&. Gonna just shove it off on me?"
 
 //Ÿ‹êÎ
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000910jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000910jn">
 "I'm a little bit tired&. Let me sleep&."
 
 In his wheelchair&, he turned back toward me&.
@@ -708,17 +720,17 @@ As usual&, I couldn't read his expression&.
 But his voice was urgent&.
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000920jn">
-"There's no time&. Be fast&. Norose has moved Noah II into full-scale 
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000920jn">
+"There's no time&. Be fast&. Norose has moved Noah II into full-scale
 operation&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000930jn">
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000930jn">
 "At this point&, our only choice is to destroy Noah II directly&."
 
 //y«ŒRz
-<voice name="«ŒR" class="«ŒR" src="ch10/20000940jn">
-"I'm counting on you&.&.&.&."
+<voice name="«ŒR" class="«ŒR" src="voice/ch10/20000940jn">
+"I'm counting on you&.&.&."
 
 {	CreateColor("back10", 500, 0, 0, 800, 600, "White");
 	Request("back10", AddRender);
@@ -729,12 +741,12 @@ The very colors of this psychologically generated world began to slowly
 fade away&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000950ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000950ta">
 "You've got no right to rely on me&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch10/20000960ta">
-"I'm only doing what I myself decided on&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000960ta">
+"I'm only doing what I myself decided on&."
 
 The sound of the waves retreated into the distance&.
 

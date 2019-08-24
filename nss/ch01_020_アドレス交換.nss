@@ -25,7 +25,7 @@ function ch01_020_ƒAƒhƒŒƒXŒğŠ·()
 	SystemInit();
 	SystemSet();
 
-//™Cut-71-----------------------------
+//™Cut-71\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 	CreateColor("back04", 100, 0, 0, 800, 600, "Black");
 
@@ -42,16 +42,16 @@ function ch01_020_ƒAƒhƒŒƒXŒğŠ·()
 <PRE box00>
 [text001]
 As I lectured Yua on this and that about anime&, we arrived in front
-of Animeight&. 
-Wow&, we'd gotten there way faster than I'd thought&. 
+of Animeight&.
+Wow&, we'd gotten there way faster than I'd thought&.
 
-I'd gotten so into it that I'd talked way too much&.&.&.&.
+I'd gotten so into it that I'd talked way too much&.&.&.
 
 It was because Yua was good at listening&. She heard me out with true
-interest while I showed off my knowledge in all kinds of areas&. 
+interest while I showed off my knowledge in all kinds of areas&.
 
 That was why&, even though I was aware it had to be a trap&, I found
-myself wanting to tell her everything I knew&. 
+myself wanting to tell her everything I knew&.
 
 I was supposed to be bad at talking&. This was a first for me&. I
 could converse with her almost as if I were chatting online&. What a
@@ -62,20 +62,20 @@ strange sensation&.
 	FadeStand("st—Dˆ¤_§•_’Êí_worry", 300, true);}
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000010yu">
-"Haa&. My heart's kind of started racing&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000010yu">
+"Haa&. My heart's kind of started racing&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000200ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000200ta">
+"&.&.&.&.&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000030yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000030yu">
 "Um&, please don't leave before me&, okay?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000040ta">
-"O&, okay&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000040ta">
+"O&, okay&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -96,13 +96,13 @@ strange sensation&.
 [text901]
 Her demeanor growing increasingly nervous&, Yua asked one of the
 clerks about pre-ordering the post-awakening version of Seira&.
-I simply watched from beside her&. 
+I simply watched from beside her&.
 
 I'd been casing the place for a chance to escape&, but Yua kept
-throwing anxious looks at me&, so I couldn't move an inch&. 
+throwing anxious looks at me&, so I couldn't move an inch&.
 
 Afterward&, at Yua's request&, we looked around the rest of the
-store&. 
+store&.
 
 An overjoyed Yua told me&, "No matter how much money I brought here&,
 I'd want to buy more&," but I didn't have the energy to smile back at
@@ -125,23 +125,23 @@ her&.
 <PRE box00>
 [text002]
 Apparently Yua took the train to and from school&. As a result&, I had
-to accompany her to the Shinsen train station&. 
+to accompany her to the Shinsen train station&.
 
 She seemed gentle and timid&, but she was actually pretty stubborn&.
 She'd couch her demands in such a way that they didn't seem at all
-demanding or selfish&. 
+demanding or selfish&.
 
 That was dark of her&, man&. Yua had to be of those dark characters&.
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","normal", 200, @100);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_normal", 500, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000050yu">
-"Nishijou-kun&, do you have a cell phone?" 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000050yu">
+"Nishijou-kun&, do you have a cell phone?"
 
-Yua abruptly asked me right as we arrived at the station&. 
+Yua abruptly asked me right as we arrived at the station&.
 
-A cell phone&, huh&.&.&.&.
+A cell phone&, huh&.&.&.
 I feebly shook my head&.
 
 </PRE>
@@ -156,58 +156,58 @@ I feebly shook my head&.
 <PRE box00>
 [text003]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000060yu">
-"You don't have one&.&.&.&. is there no other way to contact you?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000060yu">
+"You don't have one&.&.&. is there no other way to contact you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000070ta">
-"C&, contact&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000070ta">
+"C&, contact&.&.&.?"
 
-What did she plan to accomplish by contacting me? 
+What did she plan to accomplish by contacting me?
 Surely she didn't intend to make me mail her over every little thing?
 
 {	Stand("bu—Dˆ¤_§•_’Êí","normal", 200, @+100);
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 300, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí_normal", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000080yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000080yu">
 "Ah&, but Nishijou-kun&, don't you have a computer?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000090yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000090yu">
 "I have one&, too&, so could we exchange email addresses?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000100ta">
-"Wh&, why&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000100ta">
+"Wh&, why&.&.&.?"
 
 {	Stand("bu—Dˆ¤_§•_’Êí","worry", 200, @+100);
 	FadeStand("bu—Dˆ¤_§•_’Êí_worry", 300, true);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_normal", 0, false);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000110yu">
-"Eh&, um&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000110yu">
+"Eh&, um&.&.&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000120yu">
-"When the figure comes out--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000120yu">
+"When the figure comes out\"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000130yu">
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000130yu">
 "I'll have to go pick it up&."
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000140yu">
-"Could we&, well&, go together again&.&.&.&.?"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000140yu">
+"Could we&, well&, go together again&.&.&.?"
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000150yu">
-"I still don't quite have the courage to go to Animeight&.&.&.&. by
-myself&, so&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000150yu">
+"I still don't quite have the courage to go to Animeight&.&.&. by
+myself&, so&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000160ta">
-"&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000160ta">
+"&.&.&.&.&.&."
 
 How skillfully done&.
 
@@ -223,41 +223,41 @@ How skillfully done&.
 <PRE box00>
 [text004]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000170yu">
-"Besides&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000170yu">
+"Besides&.&.&."
 
 This girl was ingenious&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000180yu">
-"Nishijou-kun&, I want to--" 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000180yu">
+"Nishijou-kun&, I want to\"
 
 Even though I understood that&, I couldn't refuse her&. I'd feel bad
-if I turned her down&.&.&.&.
+if I turned her down&.&.&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000190yu">
-"Become--"
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000190yu">
+"Become\"
 
-The third dimension was truly terrifying&.&.&.&.
+The third dimension was truly terrifying&.&.&.
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","shy", 200, @+100);
 	DeleteStand("bu—Dˆ¤_§•_’Êí_normal", 300, false);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shy", 300, true);}
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch01/02000200yu">
-"Better friends with you&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02000200yu">
+"Better friends with you&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/02000210ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02000210ta">
+"&.&.&.&.&.&.&."
 
 Was it because I wasn't used to talking to people? Or because her
-conversational skills were just that good&.&.&.? 
+conversational skills were just that good&.&.&.?
 
 Whatever the case&, it didn't seem like Yua would be ready to return
 until I gave her my email address&. Yet she anxiously looked up at me
-through her glasses&. 
+through her glasses&.
 
 For some reason&, it stole away my will to resist&.
 
@@ -265,11 +265,11 @@ Despite the fact that goose bumps covered my whole body&, and chills
 were running down my spine&, I could neither run away nor reject her&.
 
 
-There was something bizarre about Yua&.&.&.&. 
-This atmosphere&.&.&.&. wasn't normal&.&.&.&. 
+There was something bizarre about Yua&.&.&.
+This atmosphere&.&.&. wasn't normal&.&.&.
 
-I couldn't clearly explain why it wasn't in normal words&.&.&.&.
-But in any case&, it was abnormal&.&.&.&.
+I couldn't clearly explain why it wasn't in normal words&.&.&.
+But in any case&, it was abnormal&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -299,7 +299,7 @@ After happily accepting it&, Yua nodded to me and and disappeared into
 the station&.
 
 I stood there&, dazed&, for a full ten minutes&, feeling as though my
-soul had been sucked out of me--
+soul had been sucked out of me\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

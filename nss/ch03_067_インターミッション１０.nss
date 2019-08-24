@@ -59,16 +59,16 @@ function ch03_067_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚P‚O()
 <PRE box00>
 [text001]
 //u–k‘ò‘æ“ñ¬ŠwZv‚Í‰Ë‹ó‚ÌZ–¼‚Å‚·
-Nishijou Takumi's alma mater&, Second Kitazawa Elementary School&, was 
-about five minutes' walking distance from a private railway station&. 
+Nishijou Takumi's alma mater&, Second Kitazawa Elementary School&, was
+about five minutes' walking distance from a private railway station&.
 
-Thinking that he'd like to speak with the teacher who had been 
-responsible for Nishijou Takumi during elementary school&, Ban 
-Yasuji attempted to contact him via phone&, but was told that&, 
+Thinking that he'd like to speak with the teacher who had been
+responsible for Nishijou Takumi during elementary school&, Ban
+Yasuji attempted to contact him via phone&, but was told that&,
 sadly&, he had passed away&.
 
-Ban&, resorting to speaking instead with the one who had answered the 
-phone--the head teacher&, Kamio--went to the school together with 
+Ban&, resorting to speaking instead with the one who had answered the
+phone\the head teacher&, Kamio\went to the school together with
 his partner&.
 
 
@@ -78,9 +78,9 @@ Ban and Suwa&, stopped there and looked over at the school building&.
 An extraordinarily eye-catching&, brilliantly colored mural was painted
 on the white outer wall&.
 
-Without any knowledge of art or aesthetics&, Ban had no idea what it 
-signified&, but the way the spiral-shaped painting changed to seven 
-different colors as it went from top to bottom reminded him of a 
+Without any knowledge of art or aesthetics&, Ban had no idea what it
+signified&, but the way the spiral-shaped painting changed to seven
+different colors as it went from top to bottom reminded him of a
 rainbow&.
 
 While Ban gazed at the mural and fanned himself with his handheld fan&,
@@ -99,7 +99,7 @@ It was a particularly clingy and unpleasant gaze&.
 	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","pride", 300, @-150);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 500, true);}
 //y”»z
-<voice name="”»" class="”»" src="ch03/06700010bn">
+<voice name="”»" class="”»" src="voice/ch03/06700010bn">
 "Am I as cool-looking as all that?"
 
 He tried striking a casual pose&.
@@ -109,19 +109,19 @@ One that was dandy&, cool&, refined&.
 	Move("stŒì_ƒX[ƒc_’Êí_sigh", 0, @0, @50, null, true);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700020su">
-"Sempai&, why're you making a weird pose like that?" 
+<voice name="z–K" class="z–K" src="voice/ch03/06700020su">
+"Sempai&, why're you making a weird pose like that?"
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","shock", 300, @-150);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch03/06700030bn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="”»" class="”»" src="voice/ch03/06700030bn">
+"&.&.&.&.&.&.&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700040su">
-"They say to go around to the back&. There's supposed to be a side 
+<voice name="z–K" class="z–K" src="voice/ch03/06700040su">
+"They say to go around to the back&. There's supposed to be a side
 door&."
 
 {	DeleteStand("stŒì_ƒX[ƒc_’Êí_sigh", 500, true);
@@ -153,12 +153,12 @@ Ban stopped posing&, sighed once&, and began to walk&.
 [text002]
 They were quick to locate the staff room&.
 
-The side door soon led to the school's rear entrance hallway&, and 
+The side door soon led to the school's rear entrance hallway&, and
 getting to the staff room only required turning down one corridor&.
 
-Naturally&, there were no children present in the building&, and to the 
-two detectives&, it felt chillier than when they'd been outside&, 
-although this could have been an illusion created by the slick 
+Naturally&, there were no children present in the building&, and to the
+two detectives&, it felt chillier than when they'd been outside&,
+although this could have been an illusion created by the slick
 linoleum floor&.
 
 {	CreateSE("SE05","SE_“úí_‹³º”à_ŠJ‚­");
@@ -187,52 +187,52 @@ It was Suwa's role to ask him questions&.
 <PRE box00>
 [text003]
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700050su">
-"If possible&, we'd like you to tell us about Nishijou Takumi&, one of 
+<voice name="z–K" class="z–K" src="voice/ch03/06700050su">
+"If possible&, we'd like you to tell us about Nishijou Takumi&, one of
 this school's graduates&."
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700060jo">
-"I recall him&. I wasn't his teacher myself&, however&, so I can't 
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700060jo">
+"I recall him&. I wasn't his teacher myself&, however&, so I can't
 give you any real details&. Are you all right with that?"
 
 Suwa nodded&, taking out his notebook and readying himself to jot things
 down&.
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700070su">
+<voice name="z–K" class="z–K" src="voice/ch03/06700070su">
 "What kind of child was Nishijou-kun?"
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700080jo">
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700080jo">
 "I heard that he was difficult to handle&. He was unique&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @-220);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 300, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_normal", 0, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700090su">
+<voice name="z–K" class="z–K" src="voice/ch03/06700090su">
 "Unique?"
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700100jo">
-"He had a&, um&, illness&, one that would normally have made it 
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700100jo">
+"He had a&, um&, illness&, one that would normally have made it
 problematic for him to study together with other students&."
 
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700110su">
+<voice name="z–K" class="z–K" src="voice/ch03/06700110su">
 "Could you explain it in more concrete terms?"
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700120jo">
-"I'm not sure if it's permissible for me to say that much&.&.&.&.
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700120jo">
+"I'm not sure if it's permissible for me to say that much&.&.&.
 Could you ask his family or his doctor?"
 
 In recent times&, all schools had begun responding with this
 don't-rock-the-boat attitude&.
 
-They wouldn't cooperate fully when it came to anything that might 
-result in a lawsuit from a parent or guardian&. It made doing one's 
+They wouldn't cooperate fully when it came to anything that might
+result in a lawsuit from a parent or guardian&. It made doing one's
 job as a policeman much harder&.
 
 </PRE>
@@ -246,62 +246,63 @@ job as a policeman much harder&.
 <PRE box00>
 [text004]
 //y”»z
-<voice name="”»" class="”»" src="ch03/06700130bn">
+<voice name="”»" class="”»" src="voice/ch03/06700130bn">
 "Why did his teacher pass away?"
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700140jo">
-"It was an accident&. During a field trip&, the bus they were on ran into a collapsing&.&.&.&."
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700140jo">
+"It was an accident&. During a field trip&, the bus they were on ran
+into a collapsing&.&.&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","normal", 200, @-220);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_sigh", 0, false);}
 //yz–Kz
-<voice name="z–K" class="z–K" src="ch03/06700150su">
+<voice name="z–K" class="z–K" src="voice/ch03/06700150su">
 "Ah&, I know about that&. They showed it on the news&."
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700160jo">
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700160jo">
 "The children were only injured&, thank god&, all of their lives ended up
-being saved&, but&.&.&.&."
+being saved&, but&.&.&."
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700170jo">
-"Mr&. Saitou ended up as the sole victim&.&.&.&. It's so hard to bear 
-thinking about it&." 
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700170jo">
+"Mr&. Saitou ended up as the sole victim&.&.&. It's so hard to bear
+thinking about it&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, false);}
 //y”»z
-<voice name="”»" class="”»" src="ch03/06700180bn">
+<voice name="”»" class="”»" src="voice/ch03/06700180bn">
 "Did Nishijou-kun become caught up in the accident as well?"
 
 Kamio gave a small side-to-side shake of his head in response to Ban's
 question&.
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700190jo">
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700190jo">
 "He stayed home from school that day&, and so he wasn't on the bus&."
 
 //y”»z
-<voice name="”»" class="”»" src="ch03/06700200bn">
+<voice name="”»" class="”»" src="voice/ch03/06700200bn">
 "Why did he stay home?"
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700210jo">
-"I seem to remember hearing something about his illness having 
-worsened&, but&.&.&.&."
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700210jo">
+"I seem to remember hearing something about his illness having
+worsened&, but&.&.&."
 
 Ban&, too&, had a faint recollection of that accident&.
 
-After the accident&, glancing at the TV had shown him the mass media 
-swarming day after day around the house of the one male child who 
+After the accident&, glancing at the TV had shown him the mass media
+swarming day after day around the house of the one male child who
 hadn't been involved&.
 
 //y_”öz
-<voice name="_”ö" class="_”ö" src="ch03/06700220jo">
-"It was a very sad accident&.&.&.&."
+<voice name="_”ö" class="_”ö" src="voice/ch03/06700220jo">
+"It was a very sad accident&.&.&."
 
 {	Stand("buŒì_ƒX[ƒc_’Êí","sigh", 200, @-220);
 	FadeStand("buŒì_ƒX[ƒc_’Êí_sigh", 300, true);

@@ -86,44 +86,44 @@ if($–Ï‘zƒgƒŠƒK[‚S‚R == 2)
 <PRE box00>
 [text001]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800010na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800010na">
 "Ah&, you finally came out&."
 
 {	Move("back03", 1000, @0, @+600, null, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800020na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800020na">
 "Survival confirma~tion ™"
 
 As I opened the door&, Nanami waved her hand with a smile&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800030ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800030ta">
+"&.&.&.&.&.&.&."
 
 I froze&.
-Because Nanami's attitude was all too ordinary&. 
-Because her energy level was all too usual&. 
+Because Nanami's attitude was all too ordinary&.
+Because her energy level was all too usual&.
 
 And because I saw that there was a white bandage wrapped around her
-right wrist&, after all&. 
+right wrist&, after all&.
 
-The phone call she'd made to me only a few hours ago&. 
-The agonized voice saying&, "Give back Nana's right hand&." 
+The phone call she'd made to me only a few hours ago&.
+The agonized voice saying&, "Give back Nana's right hand&."
 
-The smile she now pointed at me from right in front of me&. 
+The smile she now pointed at me from right in front of me&.
 The bandage wound around her right hand&.
 
-They contradicted each other&. 
-Nanami was contradicting herself&. 
+They contradicted each other&.
+Nanami was contradicting herself&.
 
-Ahh&, I see&. 
+Ahh&, I see&.
 
-This must surely be one of the delusions I'm always having&. 
+This must surely be one of the delusions I'm always having&.
 
-I'd never had a sister like Nanami in the first place&. 
+I'd never had a sister like Nanami in the first place&.
 
-That's it&. 
-That's obviously it&.&.&.&.
+That's it&.
+That's obviously it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -143,20 +143,20 @@ That's obviously it&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text002]
-Ignoring her&, I went back into the room and sat down on the sofa&. 
+Ignoring her&, I went back into the room and sat down on the sofa&.
 
-I gave the Seira-tan figure another tight squeeze&. 
+I gave the Seira-tan figure another tight squeeze&.
 I clenched her so hard&, it made my hand hurt a little&. But even that
 pain was delusionary&, anyway&.
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800040na">
-"Bro&, what's wrong? You're looking down&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800040na">
+"Bro&, what's wrong? You're looking down&."
 
-Everything in this world was made of delusions&. 
-Delusions that unfolded solely within my brain&. 
+Everything in this world was made of delusions&.
+Delusions that unfolded solely within my brain&.
 
 Both me and the delusions I viewed like this&, everything was false&.
 
@@ -164,47 +164,47 @@ Both me and the delusions I viewed like this&, everything was false&.
 	FadeStand("buµŠC_§•_’Êí_pride", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shock", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800050na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800050na">
 "Did you stay up all night playing a game or something? How about
 living more like a regular human being?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800060ta">
-"&.&.&.&.up&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800060ta">
+"&.&.&.up&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","normal", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_pride", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800070na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800070na">
 "Eh? What&, what?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800080ta">
-"&.&.&.&.Shuddup&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800080ta">
+"&.&.&.Shuddup&.&.&."
 
 {	Stand("buµŠC_§•_X‚Ë","angry", 200, @+150);
 	DeleteStand("buµŠC_§•_’Êí_normal", 500, false);
 	FadeStand("buµŠC_§•_X‚Ë_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800090na">
-"Look here&. You don't have to put it like that&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800090na">
+"Look here&. You don't have to put it like that&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800100na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800100na">
 "D'you think I'll let you get away with saying whatever you like&,
 just cause you're my brother?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800110ta">
-"Shut up&.&.&.&. you delusionary&.&.&.&. sister&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800110ta">
+"Shut up&.&.&. you delusionary&.&.&. sister&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @+150);
 	DeleteStand("buµŠC_§•_X‚Ë_angry", 500, false);
 	FadeStand("buµŠC_§•_’Êí_shock", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800120na">
-"Delooo--shon--?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800120na">
+"Delooo-shon-?"
 
 {	DeleteStand("buµŠC_§•_’Êí_shock", 300, false);
 	Rotate("ƒ‹[ƒ€", 2000, 80, -90, 0, Axl1, true);}
@@ -217,7 +217,7 @@ I didn't want to let Nanami into my sight&.
 Because she'd only make me grow hollower&.
 
 Well&, not that it made a big difference whether or not I went empty
-inside&, given that I was a delusionary existence and all&.&.&.&.
+inside&, given that I was a delusionary existence and all&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -228,62 +228,62 @@ inside&, given that I was a delusionary existence and all&.&.&.&.
 <PRE box00>
 [text003]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800130na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800130na">
 "Hey&, Bro&. Are you really okay? You seem totally different from
-normal&.&.&.&." 
+normal&.&.&."
 
-Acting all grown up and concerned over me&.&.&.&.
-My imaginary little sister was worrying about me&. 
-It made irritation seethe up within me&. 
+Acting all grown up and concerned over me&.&.&.
+My imaginary little sister was worrying about me&.
+It made irritation seethe up within me&.
 
 No&, rather&, why had she barged into my room without asking?
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800140na">
-"Ah&, I get it! You're hungry&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800140na">
+"Ah&, I get it! You're hungry&."
 
 I gritted my molars&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800150na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800150na">
 "Then should I make something for you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800160ta">
-"Chuck it&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800160ta">
+"Chuck it&.&.&."
 
 //ŸŒ{‚Æ‚è
 //Ÿu‚Æ‚êv‚Æu‚Æ‚èv‚Ì•·‚«ŠÔˆá‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800170na">
-"Mm? Did you say chicken? Like&, the meat?" 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800170na">
+"Mm? Did you say chicken? Like&, the meat?"
 
 No one had said a word about chicken&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800180na">
-"If it's chicken you want&.&.&.&. then I oughta fry it&. But I've
-never cooked it like that on my own before&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800180na">
+"If it's chicken you want&.&.&. then I oughta fry it&. But I've
+never cooked it like that on my own before&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800190na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800190na">
 "Ah&, but it's not like I'm making it cause you requested it&, okay&.
 I was just thinking I kinda wanted to cook something with chicken
-today&, too&." 
+today&, too&."
 
-This Nanami got on my nerves&. 
+This Nanami got on my nerves&.
 What I couldn't forgive her for was how she resembled the real thing&.
 
 
-No&, err&, huh&.&.&.&. "the real Nanami" didn't exist at all&, right? 
+No&, err&, huh&.&.&. "the real Nanami" didn't exist at all&, right?
 Then this Nanami herself was the real one? The real Nanami?
 
-My head got all tangled up&. 
+My head got all tangled up&.
 
-So I 
+So I
 
-Gave up on thinking&. 
-I didn't give a crap about it&. 
+Gave up on thinking&.
+I didn't give a crap about it&.
 Everything was a delusion in the end&.
 
 </PRE>
@@ -294,37 +294,37 @@ Everything was a delusion in the end&.
 <PRE box00>
 [text004]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800200ta">
-"Chuck&.&.&.&. the bandage&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800200ta">
+"Chuck&.&.&. the bandage&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800210ta">
-"Take it off&.&.&.&. you twit&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800210ta">
+"Take it off&.&.&. you twit&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800220na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800220na">
 "Bandage&, ahh&, you mean this?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800230na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800230na">
 "It's just a bruise from when I tripped&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800240ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800240ta">
+"&.&.&.&.&.&.&."
 
-A bruise&.&.&.&. 
+A bruise&.&.&.
 
-The truth? 
-A lie? 
+The truth?
+A lie?
 I'd know if she took it off&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800250na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800250na">
 "Really&, you're so willful&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800260na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800260na">
 "Then make me a promise&. That if I take my bandage off for you&,
 you'll cheer up&, too&."
 
@@ -341,19 +341,19 @@ you'll cheer up&, too&."
 <PRE box00>
 [text005]
 The sound of cloth rubbing against itself echoed through the quiet
-room&. 
-My ears rang&. 
-My head ached&. 
+room&.
+My ears rang&.
+My head ached&.
 
 Even those things were delusions&. So I didn't concern myself with
 them&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800270na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800270na">
 "Okay&. You satisfied now?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800280na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800280na">
 "Hey&, c'mon&, Bro! I went to the trouble of taking it off&, so take a
 good look&."
 
@@ -363,7 +363,7 @@ I slowly lowered my line of sight&.
 
 Nanami rolled up the sleeve of her uniform and thrust her right hand
 in my direction&.
-From her slender arm--
+From her slender arm\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -395,7 +395,7 @@ The words slashed into her wrist as wounds were
 	FadeDelete("back10", 500, true);}
 //Ÿ–³Š´î‚Å‚³‚³‚â‚«
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800290na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800290na">
 "Whose eyes are those eyes?"
 
 </PRE>
@@ -424,17 +424,17 @@ The words slashed into her wrist as wounds were
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text007]
-A flash of light shot through my sight&. 
+A flash of light shot through my sight&.
 By the time the flash died down&, the grotesque wounds I'd seen on her
-wrist had utterly vanished&. 
+wrist had utterly vanished&.
 
-I collected my disordered breaths&. 
-I gnawed hard at my lip&. 
+I collected my disordered breaths&.
+I gnawed hard at my lip&.
 
 Nanami massaged her own unbandaged hand&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800300na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800300na">
 "The bruising is mostly gone now&. It got really swollen up at
 first&."
 
@@ -451,21 +451,21 @@ Nor did I want to think about it&.
 I leaned my neck back against the sofa again&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800310ta">
-"Say&, Nanami&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800310ta">
+"Say&, Nanami&.&.&."
 
-I spoke to my sister--to the female who may or may not have been
-her--without turning my gaze on her&.
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800320ta">
-"I don't care if you're the real thing or a stand-in&.&.&.&." 
-
-Now I sought only one thing--
+I spoke to my sister\to the female who may or may not have been
+her\without turning my gaze on her&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800330ta">
-"Would you kill me&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800320ta">
+"I don't care if you're the real thing or a stand-in&.&.&."
+
+Now I sought only one thing\
+
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800330ta">
+"Would you kill me&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -489,55 +489,55 @@ if($–Ï‘zƒgƒŠƒK[‚S‚R == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-The one standing there was unmistakably Nanami&. 
+The one standing there was unmistakably Nanami&.
 
 Yet though it wasn't raining&, her body was for some reason soaking
-wet&. Water droplets dripped ceaselessly from the sleeves of her 
-uniform&. She had her head lowered&, and her bangs kept me from 
-seeing her expression clearly&. 
+wet&. Water droplets dripped ceaselessly from the sleeves of her
+uniform&. She had her head lowered&, and her bangs kept me from
+seeing her expression clearly&.
 
 As though her previous overabundance of hollering had been a lie&, she
-didn't attempt to say a word&. 
+didn't attempt to say a word&.
 
-Nanami ponderously reached toward me&. 
+Nanami ponderously reached toward me&.
 That right wrist of hers&.
-Had no hand&. 
+Had no hand&.
 
-Her sleeve got in the way&, and I couldn't see too well&. 
+Her sleeve got in the way&, and I couldn't see too well&.
 But it wasn't there&.
 Her hand&.
 
 //Ÿ’á‚¢º
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800340na">
-"Br&.&.&.&. o&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800340na">
+"Br&.&.&. o&.&.&."
 
 A low voice&, one that hardly sounded like Nanami's&.
 
 //Ÿ’á‚¢º
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800350na">
-"Br&.&.&.&. o&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800350na">
+"Br&.&.&. o&.&.&."
 
-She slowly lifted her face&. 
+She slowly lifted her face&.
 
 Her skin was ashen&, and dessicated&, and devastated&.
 Her lips had turned tar-black&.
 
-The depths of her eyes were empty caverns&. 
-She didn't have eyeballs&. 
-A deep black&. 
+The depths of her eyes were empty caverns&.
+She didn't have eyeballs&.
+A deep black&.
 
-From that sunken&, hollow space&. 
-A single maggot crawled forth&. 
+From that sunken&, hollow space&.
+A single maggot crawled forth&.
 
-This was a corpse&. 
+This was a corpse&.
 Nanami's dead body was moving and speaking&.
 
 //Ÿ’á‚¢º
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800360na">
-"Br&.&.&.&. o&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800360na">
+"Br&.&.&. o&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -558,19 +558,19 @@ It hurt to breathe&.
 I broke out coughing&.
 The pressure of Nanami's hand steadily racheted up&.
 
-I'm going to die--
+I'm going to die\
 
 I flailed my hands around&.
 But I soon stopped struggling&.
 
 If you're going to kill me&,
-Then come&, kill me&.&.&.&.
+Then come&, kill me&.&.&.
 
 It would put me a little at ease to be killed by your ghost&.
 Because it was my fault you ended up in that form&.
 There's no one more suitable to kill me than you yourself&.
 
-So hurry--
+So hurry\
 
 {	CreateColor("BlackAll", 200, 0, 0, 800, 600, "Black");
 	Fade("BlackAll", 0, 0, null, false);
@@ -578,7 +578,7 @@ So hurry--
 I shut my eyes&.
 I entrusted myself to her&.
 
-Please hurry and crush all the bones in my neck--
+Please hurry and crush all the bones in my neck\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -605,65 +605,65 @@ Please hurry and crush all the bones in my neck--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text010]
-Nanami's corspe vanished in an instant&. 
+Nanami's corspe vanished in an instant&.
 
 I should've been standing by the door&, but at some point&, I'd ended
-up sitting on the sofa&. Clutching Seira-tan in my hand&. 
+up sitting on the sofa&. Clutching Seira-tan in my hand&.
 
-Nanami stood in the center of the room&, chattering normally&. 
+Nanami stood in the center of the room&, chattering normally&.
 
 There was a bandage wrapped around her right wrist&, but her hand was
-properly connected there&. 
+properly connected there&.
 
 Her complexion was regular&, and she wasn't soaked&, and her eyes were
-right where they belonged&. 
+right where they belonged&.
 
-Realizing it had all been a delusion&, I became crestfallen&. 
-Why did it have to be a delusion? 
+Realizing it had all been a delusion&, I became crestfallen&.
+Why did it have to be a delusion?
 Why hadn't it been reality?
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800370na">
-"Bro&, could it be that you're hungry?" 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800370na">
+"Bro&, could it be that you're hungry?"
 
 Noticing my sighs&, Nanami stooped forward to take a closer took at my
 face&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800380na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800380na">
 "Cause you haven't been looking too great&."
 
 {	Stand("buµŠC_§•_’Êí","shy", 200, @+200);
 	FadeStand("buµŠC_§•_’Êí_shy", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_normal", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800390na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800390na">
 "You're helpless&, so I'll make something for ya&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800400na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800400na">
 "Hmm&, I wonder what'd be good&."
 
 {	Stand("buµŠC_§•_’Êí","smile", 200, @+200);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_shy", 0, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800410na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800410na">
 "Ah&, I know&. How about an omelette with rice?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800420na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800420na">
 "Lately&, I've been totally obsessed with having half-done eggs&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800430na">
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800430na">
 "You've have been able to eat my yummy&, yummy half-done omelettes
 with rice&, too&, if you didn't go off to live on your own or
 whatever&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800440na">
-"What a waste--"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800440na">
+"What a waste\"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -673,48 +673,48 @@ whatever&."
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text011]
-Nanami talked on and on and on&. 
-Plus&, she appeared to be in a good mood&, somehow&.  
+Nanami talked on and on and on&.
+Plus&, she appeared to be in a good mood&, somehow&.
 Despite how she always peppered me with complaints whenever she came
-here&. 
+here&.
 
-Was this Nanami the real thing? 
+Was this Nanami the real thing?
 Her hyperness was totally different from when she'd called me
-earlier&. 
-So different&, it seemed feigned&. 
+earlier&.
+So different&, it seemed feigned&.
 
 Which was why I found myself thinking this Nanami before my eyes might
 be a delusion&.
 
-Everything in this world was made of delusions&. 
-Delusions that unfolded solely within my brain&. 
+Everything in this world was made of delusions&.
+Delusions that unfolded solely within my brain&.
 Both me and the delusions I viewed like this&, everything was false&.
 
-But even if she were her real self&, I didn't care anymore&. 
+But even if she were her real self&, I didn't care anymore&.
 
 Because I was an illusionary existence&, not her true brother&.
-Because there were no blood ties between us&. 
+Because there were no blood ties between us&.
 
 I didn't want to think about anything anymore&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800450ta">
-"Say&, Nanami&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800450ta">
+"Say&, Nanami&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","normal", 200, @+200);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_smile", 0, true);}
-I spoke to my sister--to the female who may or may not 
-have been her--without turning my gaze on her&. 
+I spoke to my sister\to the female who may or may not
+have been her\without turning my gaze on her&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800460ta">
-"I don't care if you're the real thing or a stand-in&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800460ta">
+"I don't care if you're the real thing or a stand-in&.&.&."
 
-Now I sought only one thing--
+Now I sought only one thing\
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800470ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800470ta">
 "Would you kill me&.&.&.?"
 
 </PRE>
@@ -741,15 +741,15 @@ if($–Ï‘zƒgƒŠƒK[‚S‚R == 0)
 <PRE box00>
 [text012]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800480na">
-"Ah&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800480na">
+"Ah&.&.&."
 
 Upon my opening the door&, Nanami shivered minutely and fell silent&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800490na">
-"Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800490na">
+"Bro&.&.&."
 
 Although she'd wailed at me so much before&, she abruptly switched to
 a meek attitude&.
@@ -762,13 +762,13 @@ About whether or not this Nanami was the real thing&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800500na">
-"If you're here&, come out faster&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800500na">
+"If you're here&, come out faster&.&.&."
 
 //Ÿ‚¨‚¸‚¨‚¸‚Æ
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800510na">
-"&.&.&.&.Can I come in?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800510na">
+"&.&.&.Can I come in?"
 
 I couldn't say anything in answer&.
 
@@ -798,8 +798,8 @@ pain was delusionary&, anyway&.
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800520na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800520na">
+"&.&.&.&.&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -817,8 +817,8 @@ some of the magazines scattered around and crouched on the floor&.
 
 //ŸØ‚È‚¢ƒuƒŒƒX
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800530na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800530na">
+"&.&.&.&.&.&.&."
 
 She didn't say anything&.
 Even though she always started giving me some spiel at me right off
@@ -868,13 +868,13 @@ Maybe those memories&, too&, were delusions&.
 [text014]
 //Ÿâ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800540na">
-"Hey&, Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800540na">
+"Hey&, Bro&.&.&."
 
 //Ÿâ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800550na">
-"Say something&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800550na">
+"Say something&.&.&."
 
 A listless voice&.
 This wasn't the usual Nanami&, after all&.
@@ -882,17 +882,17 @@ So it meant she was a delusion&.
 
 //Ÿâ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800560na">
-"Why wouldn't you say anything to me&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800560na">
+"Why wouldn't you say anything to me&.&.&.?"
 
 //Ÿâ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800570na">
-"My bandage and stuff&.&.&.&. doesn't it bother you?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800570na">
+"My bandage and stuff&.&.&. doesn't it bother you?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800580ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800580ta">
+"&.&.&.&.&.&.&."
 
 I concentrated on the business of tallying up the flecks of rust on
 the ceiling&.
@@ -907,8 +907,8 @@ blood ties&.
 
 //Ÿâ‚µ‚»‚¤
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800590na">
-"Say something&.&.&.&. please&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800590na">
+"Say something&.&.&. please&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -939,61 +939,61 @@ That was the conclusion to everything&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800600na">
-"Here&.&.&.&. look&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800600na">
+"Here&.&.&. look&.&.&."
 
 I didn't look&.
 I was scared of looking&.
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800610na">
-"The bruising is mostly gone now&.&.&.&. It got really swollen up at
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800610na">
+"The bruising is mostly gone now&.&.&. It got really swollen up at
 first&."
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800620na">
-"I was playing basketball&, and I tripped and hit myself&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800620na">
+"I was playing basketball&, and I tripped and hit myself&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800630ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800630ta">
+"&.&.&.&.&.&.&."
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800640na">
-"&.&.&.&.You won't even look at it?"
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800640na">
+"&.&.&.You won't even look at it?"
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800650na">
-"You've never worried about me&, not once&, have you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800650na">
+"You've never worried about me&, not once&, have you&.&.&."
 
 //ŸŒ³‹C‚È‚¢
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch09/18800660na">
-"Though I'm always fretting about you&.&.&.&." 
+<voice name="µŠC" class="µŠC" src="voice/ch09/18800660na">
+"Though I'm always fretting about you&.&.&."
 
-I didn't want to see anything anymore&. 
+I didn't want to see anything anymore&.
 I didn't want to think about anything&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800670ta">
-"Say&, Nanami&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800670ta">
+"Say&, Nanami&.&.&."
 
-I spoke to my sister--to the female who may or may not have been
-her--without turning my gaze on her&.
-
-//y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800680ta">
-"I don't care if you're the real thing or a stand-in&.&.&.&." 
-
-Now I sought only one thing--
+I spoke to my sister\to the female who may or may not have been
+her\without turning my gaze on her&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch09/18800690ta">
-"Would you kill me&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800680ta">
+"I don't care if you're the real thing or a stand-in&.&.&."
+
+Now I sought only one thing\
+
+//y‘ñ–¤z
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800690ta">
+"Would you kill me&.&.&.?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -89,8 +89,8 @@ Nanami's white throat rose and fell alluringly&.
 I heard the sound of her swallowing&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200010ta">
-"At&, at least&.&.&.&. use a cup&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200010ta">
+"At&, at least&.&.&. use a cup&.&.&."
 
 Girls shouldn't drink straight from the bottle&. How vulgar&.
 Geez&, this is why the third dimension is a piece of shit&.
@@ -108,8 +108,8 @@ Geez&, this is why the third dimension is a piece of shit&.
 <PRE box00>
 [text002]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200020na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200020na">
+"&.&.&.&.&.&.&."
 
 Nanami stopped drinking and scowled&.
 Was it my imagination&, or had her face turned faintly red?
@@ -129,12 +129,12 @@ Was it my imagination&, or had her face turned faintly red?
 [text003]
 //‚¿‚å‚Á‚ÆX‚Ë‚é‚æ‚¤‚É
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200030na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200030na">
 "But Nana wanted to have an indirect kiss with you&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200040ta">
-"&.&.&.&.Huh?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200040ta">
+"&.&.&.Huh?"
 
 She threw a bombshell at me without any warning&.
 
@@ -144,26 +144,26 @@ eyelashes&.
 Electricity shot through my entire body&. I couldn't tear my sight
 away from my little sister's teary eyes&.
 
-Thi&.&.&.&. this is&.&.&.&. what a stunningly classic eroge flag&.&.&.&.!
+Thi&.&.&. this is&.&.&. what a stunningly classic eroge flag&.&.&.!
 A capturable blood-related little sister!?
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200050na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200050na">
 "Do you despise me?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200060na">
-"If you did&.&.&.&. It would make me very sad&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200060na">
+"If you did&.&.&. It would make me very sad&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200070na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200070na">
 "For the record&, I wouldn't do this with anyone else&."
 
 Nanami's voice gradually grew smaller and smaller&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200080na">
-"You dummy&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200080na">
+"You dummy&.&.&."
 
 She hung her head&, her usual impertinent attitude having vanished&,
 and her whisper was as soft as the hum of a housefly&.
@@ -183,13 +183,13 @@ and her whisper was as soft as the hum of a housefly&.
 [text004]
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200090na">
-"Hey&, Bro&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200090na">
+"Hey&, Bro&.&.&."
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200100na">
-"Indirectly&.&.&.&. isn't enough&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200100na">
+"Indirectly&.&.&. isn't enough&.&.&."
 
 I caught my breath&, but saliva lay thick in my throat&, and I
 couldn't swallow well&.
@@ -199,13 +199,13 @@ I didn't fully understand what Nanami meant&.
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200110na">
-"I want&.&.&.&. to kiss you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200110na">
+"I want&.&.&. to kiss you&.&.&."
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200120na">
-"I&.&.&.&. want you&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200120na">
+"I&.&.&. want you&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -221,24 +221,24 @@ Nanami took a little step toward me as I stood there&, motionless&.
 Why? Though she was the same Nanami I'd always seen as being a
 babyish&, runty brat&,
 
-My heart was pounding incredibly hard now&.&.&.&.
+My heart was pounding incredibly hard now&.&.&.
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200130na">
-"Nothing wrong with it&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200130na">
+"Nothing wrong with it&.&.&."
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200140na">
-"I've held back for 16 years&, haven't I&.&.&.&.?"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200140na">
+"I've held back for 16 years&, haven't I&.&.&.?"
 
 Reaching out&, Nanami wrapped both arms around my neck&.
 
 //ƒEƒBƒXƒp[
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200150na">
-"Kiss me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200150na">
+"Kiss me&.&.&."
 
 As though urging me on&,
 She raised her chin a fraction&.
@@ -250,15 +250,15 @@ She raised her chin a fraction&.
 She softly closed her eyes&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200160ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200160ta">
+"&.&.&.&.&.&.&."
 
-My answer was&.&.&.&.
+My answer was&.&.&.
 
 {	SetVolume("@CH05", 500, 0, NULL);}
 //¦‚í‚´‚Æ‚·‚×‚Ä‚Ğ‚ç‚ª‚È‚Å‚·
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200170ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200170ta">
 "No&, there's something wrong with that reasoning&."
 
 </PRE>
@@ -292,9 +292,9 @@ Though I'd imagined it myself&, I snapped right out of it&. I was
 deeply disgusted with myself&.
 
 //¦u‚«‚ñ‚à[‚Ávu‹C‚¿ˆ«‚¢v
-In other words&, siiiiick--™@I make myself sick--™
+In other words&, siiiiick\™@I make myself sick\™
 
-I gave the matter careful thought&. 
+I gave the matter careful thought&.
 
 If Nanami were my sister by adoption and possessed more of the
 endearing qualities you'd expect from a little sister&, I might have
@@ -304,16 +304,16 @@ ended up as one of life's winners&.
 	Stand("stµŠC_§•_’Êí","pride", 200, @+100);
 	FadeStand("stµŠC_§•_’Êí_pride", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200180na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200180na">
 "??"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200190na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200190na">
 "What's the matter?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200200ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200200ta">
+"&.&.&.&.&.&.&."
 
 Having finished drinking her Coke&, Nanami looked over at me
 curiously&.
@@ -346,14 +346,14 @@ if($–Ï‘zƒgƒŠƒK[‚Q == 1)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-Dammit&, just who did that Nanami think she was&.&.&.&.
+Dammit&, just who did that Nanami think she was&.&.&.
 
 Someone like you deserves to drink too much Coke&, ruin your stomach&,
 and get carried off to the hospital&.
 If so&, I'd be able to get by without you threatening my peaceful time
 to myself&.
 
-Haa&, would it ever really happen&.&.&.&.
+Haa&, would it ever really happen&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -371,10 +371,10 @@ Haa&, would it ever really happen&.&.&.&.
 [text009]
 //ˆù‚ñ‚Å‚¢‚é“r’†‚Å‹ê’É‚Ì‚¤‚ß‚«º
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200210na">
-"Uuh&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200210na">
+"Uuh&.&.&.&.&."
 
-The second I thought I heard Nanami suddenly let out a groan--
+The second I thought I heard Nanami suddenly let out a groan\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -392,15 +392,15 @@ all over the floor&.
 It got on the manga magazines and CDs I'd left down there&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200220ta">
-"Hey&, you&.&.&.&.!"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200220ta">
+"Hey&, you&.&.&.!"
 
 I started to tell her not to contaminate my room&, but instead I took
 a startled breath&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200230na">
-"Uuu&.&.&.&. uuh&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200230na">
+"Uuu&.&.&. uuh&.&.&."
 
 {	SoundPlay("@CH06", 800, 1000, true);}
 Nanami's eyes peeled wide open as she pressed painfully at her own
@@ -408,16 +408,16 @@ neck&.
 Her mouth puckered open and shut like that of a carp&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200240na">
-"Cough&.&.&.&. Aaah&.&.&.&. guh&.&.&.&. uuh&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200240na">
+"Cough&.&.&. Aaah&.&.&. guh&.&.&. uuh&.&.&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200250ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200250ta">
 "Na&, Nanami?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200260na">
-"Geh&.&.&.&.!"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200260na">
+"Geh&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -430,7 +430,7 @@ Her mouth puckered open and shut like that of a carp&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text011]
-She spat out blood&. Red--no&, more blackish than red--blood mingled
+She spat out blood&. Red\no&, more blackish than red\blood mingled
 with the Coke on the floor&.
 
 </PRE>
@@ -455,49 +455,49 @@ Her whole body convulsed&, and she began writhing in anguish&.
 She dug her nails into her neck as though to tear it to bits&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200270na">
-"Haa&, haa&, gaaaah--"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200270na">
+"Haa&, haa&, gaaaah\"
 
 Careless of the fact that her skirt had flipped up&, and I could see
 her panties&, Nanami kicked around convulsively&.
 
-It was a flippant analogy&, but&.&.&.&. I thought blurrily that she
+It was a flippant analogy&, but&.&.&. I thought blurrily that she
 was like a fish thrown up on deck&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200280na">
-"Aaah&, aaaaaah&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200280na">
+"Aaah&, aaaaaah&.&.&."
 
-I--
+I\
 Not knowing what to do&, I covered my ears&.
 
 But even then&, I could hear my little sister's dying screams&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200290na">
-"Geh&, gah&, ha&, geh&, uuuah&, aa&.&.&. ouh&.&.&.&. hah&.&.&.&.
-aah&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200290na">
+"Geh&, gah&, ha&, geh&, uuuah&, aa&.&.&. ouh&.&.&. hah&.&.&.
+aah&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200300na">
-"Degh&.&.&.&. iih&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200300na">
+"Degh&.&.&. iih&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200310na">
-"&.&.&.&.&.&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200310na">
+"&.&.&.&.&.&.&."
 
 Her face plastered with tears and drool and blood&, Nanami finally
 stopped shuddering&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200320ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200320ta">
 "Nanami&.&.&.?"
 
 I tentatively called out to her&. No reaction&. She lay splayed there
-unbecomingly&. 
+unbecomingly&.
 
 The smell of ammonia stung my nose&. Had it been Nanami who pissed
-herself&, or had it been me&.&.&.&.?
+herself&, or had it been me&.&.&.?
 
 I tried poking her lightly in the shoulder&. She didn't so much as
 twitch&.
@@ -518,7 +518,7 @@ I had poisoned the Coke to kill Nanami&. Of course I had&.
 {	SetVolume("@CH06", 500, 0, NULL);}
 //¦‚í‚´‚Æ‚±‚¤‚¢‚¤ƒZƒŠƒt‚Å‚·
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200330ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200330ta">
 "Why did I kill her?"
 
 </PRE>
@@ -537,8 +537,8 @@ I had poisoned the Coke to kill Nanami&. Of course I had&.
 <PRE box00>
 [text013]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200340ta">
-"Uueeh&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200340ta">
+"Uueeh&.&.&."
 
 Though I'd imagined it myself&, it certainly made me feel pretty bad&.
 
@@ -546,43 +546,43 @@ In other words&, I'd overdone it&.
 
 {#TIPS_ƒtƒ‹ƒ{ƒbƒR = true;}
 No matter how impertinent Nanami might act&, I shouldn't have envisioned
-such a realistic manner of death for her&. I should've stopped at 
+such a realistic manner of death for her&. I should've stopped at
 something like whacking her with a wet noodle&.
 
 {	SoundPlay("@CH08", 2000, 1000, true);
 	Stand("stµŠC_§•_’Êí","pride", 200, @+100);
 	FadeStand("stµŠC_§•_’Êí_pride", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200350na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200350na">
 "??"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200360na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200360na">
 "What's the matter?"
 
 Having finished drinking her Coke&, Nanami looked over at me
 curiously&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200370na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200370na">
 "You're kind of pale&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200380ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200380ta">
+"&.&.&.&.&.&.&."
 
 I shook my head a little and said&,
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200390ta">
-"Sor&, sorry&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200390ta">
+"Sor&, sorry&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200400na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200400na">
 "About what?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200410ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200410ta">
 "A&, anyway&, sor&, sorry&."
 
 Though it may have been part of a daydream&, I put you through some
@@ -593,15 +593,15 @@ response to your insolence&.
 I'd like you to understand that&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200420na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200420na">
 "There's nothing to apologize for&. I won't get mad just cause you
 don't have any milk tea&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200430na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200430na">
 "And I might complain about it&, but I like Coke&, too&."
 
-Ah&, wait&, she'd dr&, drunk the rest of my Coke&.&.&.&.!
+Ah&, wait&, she'd dr&, drunk the rest of my Coke&.&.&.!
 
 I take back what I said earlier&. I had no reason to apologize to
 her&.
@@ -640,14 +640,14 @@ I'd better throw away the rest of that Coke once Nanami has left&.
 
 //ˆù‚Ş
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200440na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200440na">
 "Nnn&, Nnn"
 
-Hey&, hold up&, you&.&.&.&.
+Hey&, hold up&, you&.&.&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200450na">
-"Buhaaa&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200450na">
+"Buhaaa&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -659,27 +659,27 @@ Hey&, hold up&, you&.&.&.&.
 [text015]
 //ˆù‚İI‚¦‚Äˆê‘§‚Â‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200460na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200460na">
 "Fuuu"
 
 {	Stand("stµŠC_§•_’Êí","smile", 200, @+100);
 	FadeStand("stµŠC_§•_’Êí_smile", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200470na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200470na">
 "That was great&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200480na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200480na">
 "It's true&, there's nothing better having something to drink after
 you exercise&. I ran all the way here from school&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200490ta">
-"&.&.&.&.Y&, you drank it all? &.&.&.&.&.A&, and in one breath&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200490ta">
+"&.&.&.Y&, you drank it all? &.&.&.&.A&, and in one breath&.&.&."
 
 Never mind that I'd bought that Coke with my own money&.<k>
 Just because she's my little sister&, she thinks she can do whatever
-she wants&, oh yes she does&.&.&.&.
+she wants&, oh yes she does&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -693,17 +693,17 @@ she wants&, oh yes she does&.&.&.&.
 <PRE box00>
 [text016]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200500na">
-"Ah&.&.&.&. Cr&, crud&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200500na">
+"Ah&.&.&. Cr&, crud&.&.&."
 
 Nanami paled as she looked at the empty bottle&. Apparently she saw
-how rude she'd been to her brother&. So she'd finally picked up on--
+how rude she'd been to her brother&. So she'd finally picked up on\
 
 {	Stand("stµŠC_§•_’Êí","angry", 200, @+100);
 	DeleteStand("stµŠC_§•_’Êí_shock", 300, false);
 	FadeStand("stµŠC_§•_’Êí_angry", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200510na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200510na">
 "Oh&, no&, I'm gonna gain weight again!"
 
 Haah? (@ß„tß)
@@ -712,8 +712,8 @@ Haah? (@ß„tß)
 	DeleteStand("stµŠC_§•_’Êí_angry", 300, false);
 	FadeStand("stµŠC_§•_X‚Ë_angry", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200520na">
-"You're to blame&, you know--"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200520na">
+"You're to blame&, you know\"
 
 For some reason&, Nanami decided to take it out on me&.
 She's incomprehensible&.
@@ -721,35 +721,35 @@ She's incomprehensible&.
 //ƒR[ƒ‰D‚«‚È‚¹‚¢‚±[‚ç‚¸‚«‚È‚¹‚¢
 //‘åD‚«‚Á–º‚¾‚¢‚·‚«‚Á‚±
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200530na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200530na">
 "Cause you love Coke&, even I ended up turning into a huge Coke fan&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200540ta">
-"D&, don't&.&.&.&. make it my fault&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200540ta">
+"D&, don't&.&.&. make it my fault&.&.&."
 
 {	Stand("stµŠC_§•_’Êí","pride", 200, @+100);
 	DeleteStand("stµŠC_§•_X‚Ë_angry", 300, false);
 	FadeStand("stµŠC_§•_’Êí_pride", 300, true);}
 //‰ÆƒEƒ`
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200550na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200550na">
 "C'mon&, didn't we always have Coke in the fridge at home?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200560na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200560na">
 "Mom's such a softie when it comes to you&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200570na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200570na">
 "Did you know? Coke has a huge amount of calories&. You should try not
 to drink so much of it&, either&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200580na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200580na">
 "Stick to milk tea from here on out&."
 
-Doesn't milk tea have about the same number of calories as Coke&.&.&.&.
+Doesn't milk tea have about the same number of calories as Coke&.&.&.
 Plus&, I don't plan on letting you control my diet&, dammit&.
 
 Way to say that after finishing off my Coke all on your own&. Was what
@@ -777,8 +777,8 @@ the kind of thing you came here to tell me?
 <PRE box00>
 [text017]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200590ta">
-"G&, go home&.&.&.&. already&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200590ta">
+"G&, go home&.&.&. already&.&.&."
 
 She'd confirmed that I was still alive&, so she had no reason to stay
 here&.
@@ -796,8 +796,8 @@ Why did she have to come up into my room each and every time?
 <PRE box00>
 [text018]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200600na">
-"Bro&.&.&.&. you're so cold to me&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200600na">
+"Bro&.&.&. you're so cold to me&."
 
 //™™™
 It looked like my words had hit her where it hurt&.
@@ -805,41 +805,41 @@ Glaring at me&, she pouted&. It would be a hassle to deal with her&,
 so I looked away&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200610na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200610na">
 "I was so worried about you&, and I went out of my way to see how you
-were doing&.&.&.&."
+were doing&.&.&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200620na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200620na">
 "Aren't there times when you spend the entire day shut up in here&,
 without talking to anyone?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200630na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200630na">
 "You never even have the chance to talk to any girls&, do you?"
 
-Sh&, shut up&, stop jeering at me&.&.&.&.
+Sh&, shut up&, stop jeering at me&.&.&.
 I'm not into 3-D girls&, so there's no need for me to talk with them&.
 
 {	Stand("stµŠC_§•_’Êí","normal", 200, @+100);
 	DeleteStand("stµŠC_§•_X‚Ë_angry", 300, false);
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200640na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200640na">
 "In fact&, now that I think about it&, aren't I the only girl you ever
 talk to?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200650na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200650na">
 "That's why you ought to treat me better&. That way&, you'll learn a
 little about how to make contact with girls&."
 
 {	DeleteStand("stµŠC_§•_’Êí_normal", 300, false);}
 //wŒõ‚Ö‚ÌƒX[ƒTƒCƒhxƒAƒjƒ‚Ìƒ^ƒCƒgƒ‹B“K“–B
-As she spoke&, Nanami picked up one of my figures--Hikaru-tan from
-"Suicide for the Light"--and scrutinized her intently&.
+As she spoke&, Nanami picked up one of my figures\Hikaru-tan from
+"Suicide for the Light"\and scrutinized her intently&.
 
-Argh&, don't unilaterally decide to touch one of my wives&.&.&.&.
+Argh&, don't unilaterally decide to touch one of my wives&.&.&.
 I'll knock your lights out if you get fingerprints on her&.
 
 </PRE>
@@ -853,24 +853,24 @@ I'll knock your lights out if you get fingerprints on her&.
 <PRE box00>
 [text019]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200660na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200660na">
 "Also&, you should take better care of yourself&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200670na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200670na">
 "This isn't the time to escape the real world with your dollies&.
 I don't wanna be the first one to discover your dead body&."
 
 What on earth was this sister of mine trying to say?
 Lately&, she'd somehow started to give off the same kind of feeling as
 our mom&.
-Which is to say&, in conclusion--
+Which is to say&, in conclusion\
 
 She's still obnoxiousssss!
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200680ta">
-"I&, I'm fine&, so&.&.&.&. go back&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200680ta">
+"I&, I'm fine&, so&.&.&. go back&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -884,16 +884,16 @@ She's still obnoxiousssss!
 <PRE box00>
 [text020]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200690na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200690na">
 "Don't keep saying 'go home&, go back' like that&, you idiot!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200700na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200700na">
 "I've still got something to do here!"
 
-Ugh&.&.&.&. she was getting more and more hysterical&.
+Ugh&.&.&. she was getting more and more hysterical&.
 If I pissed her off any more than this&, she'd go out of control&.
-Chill out&, self&.&.&.&.
+Chill out&, self&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -907,22 +907,22 @@ Chill out&, self&.&.&.&.
 <PRE box00>
 [text021]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200710na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200710na">
 "Let's go buy you a cell&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200720ta">
-"Ha&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200720ta">
+"Ha&.&.&.?"
 
 What's she saying?
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200730na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200730na">
 "Dad told me to&. If you owned a cell phone&, I could check whether
 you were alive anytime I wanted&, couldn't I?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200740na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200740na">
 "He gave the money to me&, so let's go buy it now&. Nowadays&,
 practically everyone owns a cell phone&. You're gonna get left behind
 by the rest of the modern world&."
@@ -943,7 +943,7 @@ use&.
 	FadeStand("stµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("stµŠC_§•_’Êí_angry", 0, false);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200750na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200750na">
 "So why don't we get going?"
 
 </PRE>
@@ -961,7 +961,7 @@ Nanami returned the figure to its shelf and peered at my face&.
 {	Stand("buµŠC_§•_’Êí","smile", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_smile", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200760na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200760na">
 "You probably don't know about the different models&, so just go with
 the same kind as me&."
 
@@ -985,16 +985,16 @@ held it out toward me as if she were offering me a pill box&.
 <PRE box00>
 [text023]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200770na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200770na">
 "See! This is mine&. Isn't the color adorable?"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200780na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200780na">
 "While I'm at it&, I'll give you the same strap as me&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200790ta">
-"Uwah&.&.&.&. wh&, what a sloppily designed mascot&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200790ta">
+"Uwah&.&.&. wh&, what a sloppily designed mascot&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1015,61 +1015,61 @@ Dude&, this wasn't anywhere near the level of "lazily made" or
 "disturbing but cute"!
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200800na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200800na">
 "It's not sloppy! That's just the Gero-froggy design&. It's super
 popular right now!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200810na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200810na">
 "Haa&, of course you wouldn't know what's hot among high school
-girls--"
+girls\"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200820na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200820na">
 "If we fix that about you&, I think you'd definitely be a little more
-successful at talking to girls&." 
+successful at talking to girls&."
 
 That's why I'm telling you to shut up&, trend-worshipper!
 What is this Gero-froggy crap? Logically speaking&, no matter how you
 look at it&, this kind of thing would never start a fad&.
 
 How sad for her&, failing to realize that she's being controlled by
-the media&.&.&.&.
+the media&.&.&.
 
 {	Move("Œg‘Ñ", 1000, @+400, @+70, null,false);
 	Zoom("Œg‘Ñ", 1000, 500, 500, null, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200830na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200830na">
 "But wait&, we weren't supposed to be talking about Gero-froggy!"
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200840na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200840na">
 "C'mon&, let's go and get you a cell phone&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200850na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200850na">
 "Ah&, but it's not like I'm saying I want us to have matching ones&,
 okay? It's cause there are plans that offer lower fees if family
 members get the same model&."
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200860na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200860na">
 "You're the only one in the family who doesn't have one&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200870ta">
-"D&, don't wanna&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200870ta">
+"D&, don't wanna&.&.&."
 
 {	Stand("buµŠC_§•_’Êí","shock", 200, @+150);
 	FadeStand("buµŠC_§•_’Êí_shock", 0, false);
 	FadeDelete("Œg‘Ñ", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200880na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200880na">
 "Wh&, why!? Dad's paying for it&, you know!?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200890ta">
-"Don't&.&.&.&. need one&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200890ta">
+"Don't&.&.&. need one&.&.&."
 
 If anything&, it would only get in the way&.
 If I had a cell phone&, Mom would make sure to call me every single
@@ -1094,12 +1094,12 @@ I couldn't put up with that&.
 <PRE box00>
 [text025]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200900na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200900na">
 "Sheesh! I can't believe you&, you moron! I'm leaving!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200910ta">
-"Yeah&.&.&.&. please do so&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200910ta">
+"Yeah&.&.&. please do so&.&.&."
 
 {	CreateSE("SE01","SE_“úí_”à_ŠJ‚¯‚é");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
@@ -1114,43 +1114,43 @@ me&.
 	Fade("ƒhƒAŠJ‚«", 500, 0, null, false);
 	FadeStand("stµŠC_§•_’Êí_angry", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200920na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200920na">
 "You're seriously a moron! Brainless idiot! See me off to the station
 or something!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200930ta">
-"N&, no way&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200930ta">
+"N&, no way&.&.&."
 
 Why did I have to see her off today? I'd never done so any of the
 other times she'd dropped by&.
 
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200940na">
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200940na">
 "It's getting dangerous around here&, with the murders and everything!
 Siblings are supposed to worry about each other in times like this!"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200950ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200950ta">
+"&.&.&.&.&.&.&."
 
 For an instant&, yesterday's events seemed about to revive at the back
 of my mind&, and I frantically shook my head&, sending that gruesome
 spectacle flying away&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01200960ta">
-"It&, it doesn't matter either way&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01200960ta">
+"It&, it doesn't matter either way&.&.&."
 
 Surely the "New Gen" perpetrator wasn't so idle and curious as to
-attack a babyish kid like Nanami&.&.&.&.
+attack a babyish kid like Nanami&.&.&.
 
 {	Stand("stµŠC_§•_’Êí","shock", 200, @100);
 	DeleteStand("stµŠC_§•_’Êí_angry", 300, false);
 	FadeStand("stµŠC_§•_’Êí_shock", 300, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200970na">
-"You&, you've gotta be kidding me&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200970na">
+"You&, you've gotta be kidding me&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1164,8 +1164,8 @@ attack a babyish kid like Nanami&.&.&.&.
 <PRE box00>
 [text026]
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200980na">
-"You're saying you don't care if I die&.&.&.&."
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200980na">
+"You're saying you don't care if I die&.&.&."
 
 Nanami was on the verge of tears&. Looked like my words had seriously
 gotten her down&.
@@ -1176,15 +1176,15 @@ apples?
 
 //‹ƒ‚­
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01200990na">
-"&.&.&.&.&.&.sob"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01200990na">
+"&.&.&.&.&.sob"
 
 {	Stand("stµŠC_§•_ƒLƒŒ","mad", 200, @0);
 	DeleteStand("stµŠC_§•_X‚Ë_cry", 500, true);
 	FadeStand("stµŠC_§•_ƒLƒŒ_mad", 500, true);}
 //yµŠCz
-<voice name="µŠC" class="µŠC" src="ch01/01201000na">
-"Idiot! Rot and die! Get carved up by a serial killer--!"
+<voice name="µŠC" class="µŠC" src="voice/ch01/01201000na">
+"Idiot! Rot and die! Get carved up by a serial killer-!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1217,8 +1217,8 @@ and hurtled out of the room&.
 	FadeDelete("ƒhƒAŠJ‚«", 500, true);
 	CreateSE("SE01","SE_“úí_PC_ƒn[ƒhƒfƒBƒXƒN_Loop");
 	MusicStart("SE01", 1000, 1000, 0, 1000, null, true);}
-Haa&.&.&.&.&.&. that stormy period of time had finally come to an
-end&.&.&.&.&.&.
+Haa&.&.&.&.&. that stormy period of time had finally come to an
+end&.&.&.&.&.
 The room went silent as soon as Nanami left&.
 
 It had to be like this&, after all&. This was my base&. I couldn't let
@@ -1242,15 +1242,15 @@ I tried to drink the Coke left on the table straight from the bottle&.
 But it was empty&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch01/01201010ta">
-"Ah&.&.&.&. sh&, shit&, Nanami drank from this earlier&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01201010ta">
+"Ah&.&.&. sh&, shit&, Nanami drank from this earlier&.&.&."
 
-Urrgh&, that sucks&.&.&.&. I had an indirect kiss with my little
-sister&.&.&.&.
+Urrgh&, that sucks&.&.&. I had an indirect kiss with my little
+sister&.&.&.
 
 If Nanami were a little cuter&, I might've been able to fap to this
 eroge-esque situation&, but that personality of hers only made me go
-flaccid&.&.&.&.
+flaccid&.&.&.
 
 I put the lid back on the Coke bottle and threw it at the giant
 garbage bag that sat in the corner of my room&.
@@ -1262,7 +1262,7 @@ Instead of going in the bag&, it bounced off the wall and rolled under
 the bed&. Meh&, whatever&.
 
 Let's see&. Better get back to immersing myself in ESO&.
-I had to forget about reality and its aggravations ASAP&.&.&.&.
+I had to forget about reality and its aggravations ASAP&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

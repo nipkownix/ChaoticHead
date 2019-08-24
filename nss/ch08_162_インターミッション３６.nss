@@ -52,11 +52,11 @@ function ch08_162_インターミッション３６()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-The rooftop of an aged building in Shinsen&. 
+The rooftop of an aged building in Shinsen&.
 The container housing where Nishijou Takumi dwelt was now steeped in
-silence&. 
+silence&.
 
-It was the second time Aoi Sena had visited this place&. 
+It was the second time Aoi Sena had visited this place&.
 
 The first time had been several days ago&. After happening to come
 across Takumi with Kozue in the shopping district&, she had covertly
@@ -66,23 +66,23 @@ tailed him&. And so she had pinpointed this location&.
 	FadeStand("st梢_制服_正面_sad", 300, false);}
 //以下、梢の声はすべて心の声です
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200010ko">
-"Sena-shan&, I think you'd better stop&.&.&.&."
+<voice name="梢" class="こずえ" src="voice/ch08/16200010ko">
+"Sena-shan&, I think you'd better stop&.&.&."
 
 //◆ふみゅー＝落ち込む
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200020ko">
-"Kozu-pii doesn't like burglars~&. Fumyuu--"
+<voice name="梢" class="こずえ" src="voice/ch08/16200020ko">
+"Kozu-pii doesn't like burglars~&. Fumyuu―"
 
 {	DeleteStand("st梢_制服_正面_sad", 300, true);
 	Stand("stセナ_制服_通常","hard", 200, @-150);
 	FadeStand("stセナ_制服_通常_hard", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200030sn">
-"Then why did you come with me?" 
+<voice name="セナ" class="セナ" src="voice/ch08/16200030sn">
+"Then why did you come with me?"
 
 She said coldly and perfunctorily&, without turning around to look at
-the slump-shouldered and dismal-faced Kozue&.   
+the slump-shouldered and dismal-faced Kozue&.
 
 Sena had come here with the intention of stealing into Takumi's room&.
 
@@ -95,7 +95,7 @@ Sena had come here with the intention of stealing into Takumi's room&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Nishijou Takumi wasn't normal--
+Nishijou Takumi wasn't normal―
 
 Sena had reached that conclusion after speaking with him several
 times&.
@@ -111,7 +111,7 @@ Nagged at Sena insistently&.
 
 She was searching for a man called Hatano&.
 It was possible that Nishijou Takumi was connected to him in some
-way--
+way―
 
 There was no positive proof&.
 
@@ -137,12 +137,12 @@ Di-Sword&.
 The padlock smashed to bits instantaneously&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200040ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200040ko">
 "Takumi-shan's gonna be mad at you when he comes back&, you
-know&.&.&.&.?" 
+know&.&.&.?"
 
 Sena had confirmed that Takumi had left school and headed toward the
-station with two friends&. 
+station with two friends&.
 
 Besides&, she wouldn't care even if Takumi caught her&. If that was
 what it took to achieve her aim&, Sena thought nothing of being hated
@@ -179,8 +179,8 @@ Flinging the door open&, they walked inside the room&.
 	FadeStand("stセナ_制服_通常_rage", 300, true);}
 //◆うんざりしたようなうめき声
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200050sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/16200050sn">
+"&.&.&.&.&.&.&."
 
 Sena grimaced and groaned at the disastrous state of the room's
 interior&, so much like a garbage heap&.
@@ -188,21 +188,21 @@ interior&, so much like a garbage heap&.
 {	Stand("st梢_制服_通常","smile", 200, @+150);
 	FadeStand("st梢_制服_通常_smile", 300, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200060ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200060ko">
 "Diiirty ♪"
 
 {	Stand("stセナ_制服_通常","normal", 200, @-150);
 	FadeStand("stセナ_制服_通常_normal", 300, true);
 	DeleteStand("stセナ_制服_通常_rage", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200070sn">
+<voice name="セナ" class="セナ" src="voice/ch08/16200070sn">
 "You seem to enjoying this&, Kozue?"
 
 {	Stand("st梢_制服_通常","normal", 200, @+150);
 	FadeStand("st梢_制服_通常_normal", 200, false);
 	DeleteStand("st梢_制服_通常_smile", 200, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200080ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200080ko">
 "Do you think we should taaake off our shoes?"
 
 {	DeleteStand("st梢_制服_通常_normal", 300, true);
@@ -213,14 +213,14 @@ Sighing&, Sena continued into the room without removing hers&.
 {	Stand("st梢_制服_通常","shy", 200, @+150);
 	FadeStand("st梢_制服_通常_shy", 300, true);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200090ko">
-"Sooo many dollies&. Upuu--"
+<voice name="梢" class="こずえ" src="voice/ch08/16200090ko">
+"Sooo many dollies&. Upuu―"
 
 {	Stand("st梢_制服_通常","smile", 200, @+150);
 	FadeStand("st梢_制服_通常_smile", 200, true);
 	DeleteStand("st梢_制服_通常_shy", 200, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200100ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200100ko">
 "So Takumi-shan's a perveeert&. Amaaazing&."
 
 {	DeleteStand("st梢_制服_通常_smile", 200, false);}
@@ -234,8 +234,8 @@ eyes across the items on top of the desk as she waited for it to start
 up&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200110sn">
-"&.&.&.&.?" 
+<voice name="セナ" class="セナ" src="voice/ch08/16200110sn">
+"&.&.&.?"
 
 Furrowing her eyebrows&, she picked up an essay he had left there&.
 
@@ -258,43 +258,43 @@ Furrowing her eyebrows&, she picked up an essay he had left there&.
 [text004]
 //◆興奮
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200120ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200120ko">
 "Aah! Aah! Aaaaah!"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200130ko">
-"It's 'Whose eyes are those eyes?'!" 
+<voice name="梢" class="こずえ" src="voice/ch08/16200130ko">
+"It's 'Whose eyes are those eyes?'!"
 
 Kozue&, peeking at the essay from behind Sena&, bounced in place in
 her overexcitement&.
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200140ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200140ko">
 "Takumi-shan was the 'Whose eyes are those eyes?' guy after all!"
 
 //◆ぱんぱかぱーん＝正解、という意味。
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200150ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200150ko">
 "Kozu-pii was righty-right right-right! Right-pon!"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200160sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/16200160sn">
+"&.&.&.&.&.&.&."
 
 In stark contrast to Kozue&, Sena disinterestedly skimmed the essay&,
 and casually looked at the other side of the paper&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200170sn">
-"&.&.&.&.!" 
+<voice name="セナ" class="セナ" src="voice/ch08/16200170sn">
+"&.&.&.!"
 
 A split-second later&, her eyes went wide with shock&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200180sn">
-"This&.&.&.&. is&.&.&.&.!" 
+<voice name="セナ" class="セナ" src="voice/ch08/16200180sn">
+"This&.&.&. is&.&.&.!"
 
-That which was drawn there&. It was--
+That which was drawn there&. It was―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -315,11 +315,11 @@ That which was drawn there&. It was--
 <PRE box00>
 [text005]
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200190ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200190ko">
 "Upiii? Looots of people&. Is this a robot-san?"
 
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200200ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200200ko">
 "It says I r 2&."
 
 {	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg026_02_3_拓巳部屋_a.jpg");
@@ -327,13 +327,13 @@ That which was drawn there&. It was--
 	Wait(1000);}
 //◆憎しみのこもったブレス
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200210sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/16200210sn">
+"&.&.&.&.&.&.&."
 
 {	Stand("st梢_制服_正面","sad", 200, @+150);
 	FadeStand("st梢_制服_正面_sad", 300, false);}
 //【梢】
-<voice name="梢" class="こずえ" src="ch08/16200220ko">
+<voice name="梢" class="こずえ" src="voice/ch08/16200220ko">
 "Sena-shan?"
 
 {	DeleteStand("st梢_制服_正面_sad", 300, true);}
@@ -345,14 +345,14 @@ held the essay was trembling minutely with rage&.
 {	Stand("stセナ_制服_通常","angry", 200, @-150);
 	FadeStand("stセナ_制服_通常_angry", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200230sn">
-"I see&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch08/16200230sn">
+"I see&.&.&."
 
 //◆Ｉｒ２＝アイアールツー
 //【セナ】
-<voice name="セナ" class="セナ" src="ch08/16200240sn">
-"Nishijou Takumi&.&.&.&. he was the culprit&, the one who brought Ir2
-into the world&.&.&.&.!"
+<voice name="セナ" class="セナ" src="voice/ch08/16200240sn">
+"Nishijou Takumi&.&.&. he was the culprit&, the one who brought Ir2
+into the world&.&.&.!"
 
 {	DeleteStand("stセナ_制服_通常_angry", 500, true);}
 Sena let out a low&, suppressed voice&.

@@ -57,7 +57,7 @@ if($GameDebugSelect == 1)
 }
 
 
-//☆Cut-72-----------------------------
+//☆Cut-72――――――――――――――――――――――――――――――
 //ＳＥ//ハードデスク
 	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	MusicStart("SE01", 0, 500, 0, 1000, null, true);
@@ -124,7 +124,7 @@ Neidhardt: Hey&, you listening? >Grim
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text006]
-Grim: W H A T  I S   T H E   N A M E   O F   T H I S   
+Grim: W H A T  I S   T H E   N A M E   O F   T H I S
 E R O G E?
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
@@ -133,20 +133,20 @@ E R O G E?
 
 //わざとスペース開けてます
 
-//☆Cut-73-----------------------------
+//☆Cut-73――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/02100010ta">
-"&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch01/02100010ta">
+"&.&.&.&.&."
 
 That night&. As we chatted&, I tried Grim's advice on what to do about
 Yua&.
 
 I didn't think anything would come of it if I went around suspecting
-everyone and everything&, all on my own&. 
+everyone and everything&, all on my own&.
 
 But there was his answer&. To be fair&, I'd had the exact same
 reaction the first time I spoke with Yua&.
@@ -155,7 +155,7 @@ reaction the first time I spoke with Yua&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-74-----------------------------
+//☆Cut-74――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -207,7 +207,7 @@ Neidhardt: Look&, it's not that kind of relationship
 	TypeChat("1000");
 
 
-//☆Cut-75-----------------------------
+//☆Cut-75――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -220,7 +220,7 @@ What if&, contrary to all expectations&, they were the same person?
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-//☆Cut-76-----------------------------
+//☆Cut-76――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -260,7 +260,7 @@ if($競泳水着 == 1)
 [text017]
 //顔文字平気でしょうか？
 Neidhardt: I'm more into racing suits than school swimsuits
-(`･ω･´) 
+(`･ω･´)
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,key);
@@ -295,8 +295,8 @@ Neidhardt: What's wrong with fapping to school swimsuits!?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text818]
-Grim: You're hopeless&.&.&.&. Better do something about that
-quick&.&.&.&.
+Grim: You're hopeless&.&.&. Better do something about that
+quick&.&.&.
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	SoundChat(0,0,false);
@@ -320,8 +320,8 @@ Neidhardt: What's wrong with fapping to school swimsuits!? (#ﾟДﾟ)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text918]
-Grim: You're hopeless&.&.&.&. Better do something about that
-quick&.&.&.&.
+Grim: You're hopeless&.&.&. Better do something about that
+quick&.&.&.
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	SoundChat(0,0,false);
@@ -330,34 +330,34 @@ quick&.&.&.&.
 }
 
 
-//☆Cut-77-----------------------------
+//☆Cut-77――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text019]
 //ＶＦ//ＰＣのスピーカーからの音声
 //【星来】
-<voice name="星来" class="星来" src="ch01/02100020se">
+<voice name="星来" class="星来" src="voice/ch01/02100020se">
 "You've got mail～&, dummy ♪"
 
-Oh? I could hear Seira-tan's voice&. 
+Oh? I could hear Seira-tan's voice&.
 I'd changed my settings so that she'd say the same line whenever I got
-a new email&. 
+a new email&.
 
 When I casually checked my email client&, the field for the sender's
-name said-- 
+name said―
 
 Kusunoki Yua
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/02100030ta">
-"Uwah&.&.&.&. that was fast&."
+<voice name="拓巳" class="拓巳" src="voice/ch01/02100030ta">
+"Uwah&.&.&. that was fast&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-78-----------------------------
+//☆Cut-78――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -389,12 +389,12 @@ Grim: Here it comes━(ﾟ∀ﾟ)━(∀ﾟ )━(ﾟ　 )━(　　)━(　　)
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-79-----------------------------
+//☆Cut-79――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text023]
-An email from a 3-D girl&.&.&.&. I'd never received one before&.&.&.&.
+An email from a 3-D girl&.&.&. I'd never received one before&.&.&.
 
 I took a gulp and opened it&.
 
@@ -402,7 +402,7 @@ I took a gulp and opened it&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-80-----------------------------
+//☆Cut-80――――――――――――――――――――――――――――――
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -430,7 +430,7 @@ I took a gulp and opened it&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-81-----------------------------
+//☆Cut-81――――――――――――――――――――――――――――――
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -438,10 +438,10 @@ I took a gulp and opened it&.
 [text025]
 The contents were completely infused with her neatness and good
 breeding&. However&, she also used emoticons to create a sense of
-friendliness&. 
+friendliness&.
 
-But&.&.&.&. With parts like&, "Because you were there with me&," and
-"I'd like to greet you in the morning&," and&.&.&.&.
+But&.&.&. With parts like&, "Because you were there with me&," and
+"I'd like to greet you in the morning&," and&.&.&.
 
 You could also interpret it as being part of some scheme of hers&.
 
@@ -449,7 +449,7 @@ You could also interpret it as being part of some scheme of hers&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-82-----------------------------
+//☆Cut-82――――――――――――――――――――――――――――――
 
 	FadeDelete("back05", 100, true);
 
@@ -491,7 +491,7 @@ Grim: C'mon&, just post it! Post it!
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-83-----------------------------
+//☆Cut-83――――――――――――――――――――――――――――――
 
 	CreateColor("色１", 2000, 0, 0, 800, 600, "BLACK");
 	Fade("色１", 0, 0, null, true);
@@ -550,8 +550,8 @@ Neidhardt: It was my first time going to a store like that&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text507]
-Neidhardt: It might also have been because you were there 
-with me&.&.&.&. (lol)
+Neidhardt: It might also have been because you were there
+with me&.&.&. (lol)
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	TypeChat("0");
@@ -567,7 +567,7 @@ Neidhardt: When are you coming to school tomorrow?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text509]
-Neidhardt: Ah&, if you were to ask why I want to know such a 
+Neidhardt: Ah&, if you were to ask why I want to know such a
 thing&,
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
@@ -576,7 +576,7 @@ thing&,
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text510]
-Neidhardt: Well&, I'd like to greet you in the morning&.&.&.&.
+Neidhardt: Well&, I'd like to greet you in the morning&.&.&.
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	TypeChat("0");
@@ -608,7 +608,7 @@ Neidhardt: Good night&. (^ _ ^)/~~
 
 	FadeDelete("色１", 500, true);
 
-//☆Cut-84-----------------------------
+//☆Cut-84――――――――――――――――――――――――――――――
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -763,7 +763,7 @@ Neidhardt: Answer seriously once in a while ヽ(`Д´)ﾉ
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text045]
-Grim: Yeah&, yeah&, that's why I'm saying you're overthinking 
+Grim: Yeah&, yeah&, that's why I'm saying you're overthinking
 things
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
@@ -786,19 +786,19 @@ Grim: You have the same interests and stuff&, don't you?
 <PRE @box01>
 [text047]
 //わざと「いないお」
-Grim: Nowadays&, it'll be hard for you to find another nice&, 
+Grim: Nowadays&, it'll be hard for you to find another nice&,
 healthy girl like her
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-85-----------------------------
+//☆Cut-85――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text048]
-I knew that much already&.&.&.&. 
+I knew that much already&.&.&.
 But she was such a good girl that it was actually kind of
 disagreeable&.
 
@@ -806,7 +806,7 @@ disagreeable&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-86-----------------------------
+//☆Cut-86――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -881,12 +881,12 @@ Grim: Go on and make her adapt to your tastes
 //☆☆☆☆071011
 //※『グリム：競泳水着だって着てくれるかもだぜ』←カットしました
 
-//☆Cut-87-----------------------------
+//☆Cut-87――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text056]
-Th&, that might not be so bad&.&.&.&. 
+Th&, that might not be so bad&.&.&.
 
 No&, no&, no! That was exactly what she wanted me to think!
 
@@ -894,7 +894,7 @@ No&, no&, no! That was exactly what she wanted me to think!
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-88-----------------------------
+//☆Cut-88――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -929,7 +929,7 @@ help it&, right?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text060]
-Grim: If you wanna get out of your otaku cocoon&, now's your 
+Grim: If you wanna get out of your otaku cocoon&, now's your
 chance
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
@@ -946,20 +946,20 @@ Grim: Make no mistake&, you won't get this kind of chance again
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-89-----------------------------
+//☆Cut-89――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text062]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/02100040ta">
-"That's true&, but&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch01/02100040ta">
+"That's true&, but&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-90-----------------------------
+//☆Cut-90――――――――――――――――――――――――――――――
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -994,13 +994,13 @@ Grim: Just act like Neidhardt&, except in real life
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text066]
-Grim: All lights green ahead--------!
+Grim: All lights green ahead---!
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-91-----------------------------
+//☆Cut-91――――――――――――――――――――――――――――――
 
 	SetVolume("@CH03", 1000, 0, NULL);
 
@@ -1008,19 +1008,20 @@ Grim: All lights green ahead--------!
 <PRE box00>
 [text067]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch01/02100050ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch01/02100050ta">
+"&.&.&.&.&.&.&."
 
 If I could do that&, it wouldn't be such a struggle&.
 
 And there was something I'd learned from talking to Yua yesterday and
-the day before yesterday&. 
+the day before yesterday&.
 
 It was enjoyable&, and it made me happy&, but more so than that&, it
-wore me out&, and it was a huge bother&. 
+wore me out&, and it was a huge bother&.
 
 Rather than continuing to be forced to go through all that&, I might
-as well stick to the 2-D world&, where I could live however I wanted&.&.&.&. 
+as well stick to the 2-D world&, where I could live
+however I wanted&.&.&.
 
 Which was why I didn't send a reply to Yua's mail&.
 

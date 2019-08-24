@@ -52,8 +52,8 @@ Once I entered the school building and climbed the stairs&, an
 unfamiliar girl passing me said "Ah" and looked at me with faint
 sympathy in her eyes&.
 
-When I reached the hallway with my classroom in it--several of the
-windows there were broken--I sensed whispers and frank gazes from all
+When I reached the hallway with my classroom in it\several of the
+windows there were broken\I sensed whispers and frank gazes from all
 around me&.
 
 At that point&, I had a bad premonition&.
@@ -91,16 +91,16 @@ seat&.
 {	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg018_01_0_‹³ºÈ‹ü_a.jpg");
 	Fade("”wŒi‚P", 500, 1000, null, true);
 	Delete("back*");}
-Taking that as his cue&, a thuggish guy in the last row--I didn't know
-his name--became the first to raise his voice&.
+Taking that as his cue&, a thuggish guy in the last row\I didn't know
+his name\became the first to raise his voice&.
 
 //ŸƒoƒJ‚É‚µ‚½‚æ‚¤‚É
 //y¶“k‚bz
-<voice name="¶“k‚b" class="¶“k‚b" src="ch07/13700010ec">
+<voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700010ec">
 "Oi&, Nishijou&. How about showing us your superpowers?"
 
 That single sentence set the classroom's stopped time back in
-motion&.&.&.&.
+motion&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -115,54 +115,54 @@ motion&.&.&.&.
 //Ÿ¦¶“k‚`A¶“k‚a\\‚UÍ‚É“oêÏ‚İ
 //Ÿ¦—q‚`A—q‚aA—q‚b\\‚TÍ‚É“oêÏ‚İ
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch07/13700020ea">
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch07/13700020ea">
 "Don't you feel sorry for him&, saying that?"
 
 //y¶“k‚bz
-<voice name="¶“k‚b" class="¶“k‚b" src="ch07/13700030ec">
+<voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700030ec">
 "Ehh&, but dude&, doesn't he have Yuri's acknowledgment?"
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch07/13700040eb">
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch07/13700040eb">
 "Buhah&, yeah&, yeah&. I saw it on TV&. He's way awesome&, that fake
 psychic&."
 
 //y—q‚az
-<voice name="—q‚a" class="—q‚a" src="ch07/13700050wb">
+<voice name="—q‚a" class="—q‚a" src="voice/ch07/13700050wb">
 "Nishijou's gotta be a faker too&, right?"
 
 //y—q‚bz
-<voice name="—q‚b" class="—q‚b" src="ch07/13700060wc">
+<voice name="—q‚b" class="—q‚b" src="voice/ch07/13700060wc">
 "He was just cuddling a biiiiig doll and a real little one&.
 Gyahaha&."
 
 //Ÿƒjƒ„ƒjƒ„Î‚¢‚È‚ª‚ç
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch07/13700070ea">
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch07/13700070ea">
 "Give it a rest&. I'm tellin' ya&, Nishijou ain't well&. Leave him
 be&."
 
 //y¶“k‚bz
-<voice name="¶“k‚b" class="¶“k‚b" src="ch07/13700080ec">
+<voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700080ec">
 "But he's supposed to be able to fly&. And what was the other thing&,
 X-ray vision?"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch07/13700090wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch07/13700090wa">
 "Gehh&, what'll I do if he uses it on me!? He'll see right through my
 clothes!"
 
 //y—q‚az
-<voice name="—q‚a" class="—q‚a" src="ch07/13700100wb">
+<voice name="—q‚a" class="—q‚a" src="voice/ch07/13700100wb">
 "Cause Nishijou's a perv&."
 
 //y¶“k‚bz
-<voice name="¶“k‚b" class="¶“k‚b" src="ch07/13700110ec">
+<voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700110ec">
 "Oh&, crap! He looked this way! You'll turn to stone if you don't look
 away!"
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch07/13700120eb">
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch07/13700120eb">
 "No worries&. After all&, he's actually just an otaku freak&."
 
 </PRE>
@@ -172,19 +172,19 @@ away!"
 //‚ ‚â‚×F‚r‚dor‰¹º‰»Ÿ‘æAƒeƒLƒXƒg•\¦–³‚µ‚É’v‚µ‚Ü‚·B
 /*=================================================
 //y¶“k‚bz
-<voice name="¶“k‚b" class="¶“k‚b" src="ch07/13700150ec">
+<voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700150ec">
 "Gyahahahahahaha"
 
 //y—q‚`z
-<voice name="—q‚`" class="—q‚`" src="ch07/13700160wa">
+<voice name="—q‚`" class="—q‚`" src="voice/ch07/13700160wa">
 "Gyahahahahahaha"
 
 //y—q‚az
-<voice name="—q‚a" class="—q‚a" src="ch07/13700170wb">
+<voice name="—q‚a" class="—q‚a" src="voice/ch07/13700170wb">
 "Gyahahahahahaha"
 
 //y—q‚bz
-<voice name="—q‚b" class="—q‚b" src="ch07/13700180wc">
+<voice name="—q‚b" class="—q‚b" src="voice/ch07/13700180wc">
 "Gyahahahahahaha"
 =============================================*/
 
@@ -193,11 +193,11 @@ away!"
 <PRE box00>
 [text004]
 //y¶“k‚`z
-<voice name="¶“k‚`" class="¶“k‚`" src="ch07/13700130ea">
+<voice name="¶“k‚`" class="¶“k‚`" src="voice/ch07/13700130ea">
 "Gyahahahahahaha"
 
 //y¶“k‚az
-<voice name="¶“k‚a" class="¶“k‚a" src="ch07/13700140eb">
+<voice name="¶“k‚a" class="¶“k‚a" src="voice/ch07/13700140eb">
 "Gyahahahahahaha"
 
 </PRE>
@@ -212,7 +212,7 @@ away!"
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text005]
---This blows&.
+\This blows&.
 
 The situation I'd feared more than any other&.
 The delinquents honing in on me as their target&.
@@ -264,7 +264,7 @@ deliverance&, for Rimi&.
 {	Stand("st‘å•ã_§•_’Êí","shock", 250, @+200);
 	FadeStand("st‘å•ã_§•_’Êí_shock", 300, true);}
 Then my eyes met Misumi-kun's&.
-Right away&, he--
+Right away&, he\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -278,28 +278,28 @@ Right away&, he--
 <PRE box00>
 [text006]
 //yOZz
-<voice name="OZ" class="OZ" src="ch07/13700190mi">
-"&.&.&.&.&.&.&.&.&."
+<voice name="OZ" class="OZ" src="voice/ch07/13700190mi">
+"&.&.&.&.&.&.&."
 
 {	DeleteStand("st‘å•ã_§•_’Êí_worry", 300, true);}
 He averted his eyes&.
 
-&.&.&.&.Well&, yeah&.
+&.&.&.Well&, yeah&.
 
 If he acted friendly with the likes of me&, even Misumi-kun would be
 shunned by the rest of the class&. Yeah&. That's right&. It was only
 natural&.
 
-In any case&, a gross otaku like me and a pretty-boy like him--we
+In any case&, a gross otaku like me and a pretty-boy like him\we
 lived in different worlds&.
 It was strange enough that we'd gotten along until now&.
 
-&.&.&.&.Feeling the threat of crying start to come on&, I made my line
+&.&.&.Feeling the threat of crying start to come on&, I made my line
 of sight circle around&.
 As though to cling to her&,
 I searched for Rimi's form&.
 
-But--
+But\
 
 She wasn't there&.
 Rimi wasn't there&.
@@ -316,7 +316,7 @@ I'd probably never be reunited with her for the rest of my life&.
 
 I had that feeling&.
 
---It had been the same when she first appeared&.
+\It had been the same when she first appeared&.
 
 One day&, out of the blue&, Rimi had been in this class&.
 
@@ -324,7 +324,7 @@ And now&, just as suddenly&, she was gone&.
 
 Maybe
 She'd gotten caught in the earthquake
-And died&.&.&.&.?
+And died&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -357,14 +357,14 @@ Rimi always treated me gently&, despite my being a filthy otaku&.
 Did I think a 3-D girl so convenient to me&, and so ideal for me&,
 truly existed?
 
-I--
+I\
 
 {	SetTrigger("‚R‚P");}
 No longer had any reason to come to school&.
 My sole reason had disappeared&.
 
 I was alone&, after all&.
-I'd been alone from the start&.&.&.&.
+I'd been alone from the start&.&.&.
 
 I wept&. Internally&, I wept&.
 
@@ -382,9 +382,9 @@ I wanted to run away&, but I was petrified by the thought that if I
 moved around foolishly&, they'd take it as a reason to pick a fight
 with me&.
 
-They should die&, every one of them&.&.&.&.
+They should die&, every one of them&.&.&.
 It's not like I've got anything left to lose&, so how about I end my
-life as it pleases me&.&.&.&.
+life as it pleases me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

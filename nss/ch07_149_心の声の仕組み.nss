@@ -44,7 +44,7 @@ function ch07_149_心の声の仕組み()
 <PRE box00>
 [text001]
 //【梢】
-<voice name="梢" class="こずえ" src="ch07/14900010ko">
+<voice name="梢" class="こずえ" src="voice/ch07/14900010ko">
 "Alwighty then&, buh-bye&. See ya tomorrow~"
 
 {	DeleteStand("st梢_制服_武器構え青_shy", 500, true);}
@@ -61,30 +61,30 @@ I'd have liked leave at once&, but beforehand&, there was just one
 thing I wanted to ask the Gigalomaniacs Ph&.D&. no matter what&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14900020ta">
-"U&, um&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14900020ta">
+"U&, um&.&.&."
 
 {	Stand("buセナ_制服_通常","hard", 200, @+100);
 	FadeStand("buセナ_制服_通常_hard", 500, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900030sn">
-"&.&.&.&.&.&.&.&.&."
+<voice name="セナ" class="セナ" src="voice/ch07/14900030sn">
+"&.&.&.&.&.&.&."
 
 Even if I called out to her&, Sena retained her ill-humored
-expression&.  
+expression&.
 
 It had been better when Kozu-pii was here&, but she remained
-off-putting&.&.&.&.
+off-putting&.&.&.
 
 Heart thumping&, I asked my question&, deciding to assume my voice had
 reached her&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14900040ta">
+<voice name="拓巳" class="拓巳" src="voice/ch07/14900040ta">
 "I&, is Kozue's inner voice pa&, part of her power as a
-Gigalomaniac&, too?" 
+Gigalomaniac&, too?"
 
-I didn't expect her to give me an answer&. 
+I didn't expect her to give me an answer&.
 Whatever the case&, I figured it would end with her going "Hmph" and
 laughing at me&.
 
@@ -95,8 +95,8 @@ the pedestrian scramble&.
 	FadeStand("buセナ_制服_通常_angry", 300, false);
 	DeleteStand("buセナ_制服_通常_hard", 300, true);}
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900050sn">
-"The voice of one's heart is&, so to speak&, a delusion&." 
+<voice name="セナ" class="セナ" src="voice/ch07/14900050sn">
+"The voice of one's heart is&, so to speak&, a delusion&."
 
 She responded thus&.
 
@@ -108,73 +108,73 @@ She responded thus&.
 <PRE box00>
 [text002]
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900060sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900060sn">
 "All Kozue does is send her voice into other people's dead spots&. The
 mechanism isn't any different from what I explained previously&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900070sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900070sn">
 "The particles she transmits are converted to sound&, not images&.
 It's same as with a telephone&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900080sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900080sn">
 "And when Kozue sent you the delusion of her mental voice&, a local
 shared recognition was born between the two of you&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900090sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900090sn">
 "It seems as if you're conversing via telepathy&, but it's utterly
 different&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14900100ta">
-"If&, if so&, how did my inner voice reach Kozu-pii?" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14900100ta">
+"If&, if so&, how did my inner voice reach Kozu-pii?"
 
-I myself hadn't delivered any delusions to Kozu-pii's dead spots&. 
+I myself hadn't delivered any delusions to Kozu-pii's dead spots&.
 
 If that were the case&, Kozu-pii should only have been able to send a
-one-way transmission&. 
+one-way transmission&.
 
 Yet we'd carried out a successful conversation with the voices of our
 hearts&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900110sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900110sn">
 "Gigalomaniacs can 'see' the delusions of others&. Kozue is
 especially gifted in this area&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900120sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900120sn">
 "One could also say that she is all but forcibly 'made to see' the
-delusions expelled by others&." 
+delusions expelled by others&."
 
-'Seeing' delusions? 
-Could someone really do that? 
+'Seeing' delusions?
+Could someone really do that?
 
-I couldn't&. So I didn't think I was a Gigalomaniac&.&.&.&. 
+I couldn't&. So I didn't think I was a Gigalomaniac&.&.&.
 
 With a suddenly distant look in her eyes&, Sena transferred her line
 of sight from the jumbotron to the crowd walking in the pedestrian
 scramble&.
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900130sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900130sn">
 "No matter who they are&, those who end up as Gigalomaniacs have
 become broken at least once in the past&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14900140ta">
-"Br&, broken&.&.&.&. what breaks?"
+<voice name="拓巳" class="拓巳" src="voice/ch07/14900140ta">
+"Br&, broken&.&.&. what breaks?"
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900150sn">
-"&.&.&.&.The heart&."
+<voice name="セナ" class="セナ" src="voice/ch07/14900150sn">
+"&.&.&.The heart&."
 
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14900160sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14900160sn">
 "Before she came to Tokyo&, 'they' drove Kozue into a corner and broke
-her heart&." 
+her heart&."
 
 And Sena began speaking of what Kozu-pii had experienced before she
 transferred&. Sena said she had 'seen' it&, like a film&, the first

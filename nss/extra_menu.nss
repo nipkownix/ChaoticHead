@@ -1,3 +1,5 @@
+#include "nss/function.nss"
+
 //=============================================================================//
 //■EXTRA [Menu]■
 //=============================================================================//
@@ -105,6 +107,15 @@ chapter main
 				SetVolume("extSND_B",300,1000,null);
 			}case ext_EXIT{
 				$extExit=true;
+			}
+			//★キーダウン系
+			if($SYSTEM_keydown_f){
+				if(!#SYSTEM_window_full_lock){
+					#SYSTEM_window_full=!#SYSTEM_window_full;
+					#SYSTEM_window_full_lock=false;
+					Wait(300);
+					$SYSTEM_keydown_f=false;
+				}
 			}
 		}
 	}

@@ -121,18 +121,18 @@ if($–Ï‘zƒgƒŠƒK[‚R‚U == 2)
 <PRE box00>
 [text001]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100010mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100010mi">
 "Where'd she go?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100020ta">
-"D&, dunno&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100020ta">
+"D&, dunno&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","smile", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_smile", 200, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_shock", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100030mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100030mi">
 "Guess we'll have to wait till she gets back&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_smile", 500, true);}
@@ -148,26 +148,26 @@ Going in her room without permission while she was out discomforted
 me&, making me feel like we were peeking in on her private affairs&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100040ta">
-"Y&, you shouldn't do that&.&.&.&. we oughta w&, wait outside&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100040ta">
+"Y&, you shouldn't do that&.&.&. we oughta w&, wait outside&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 200, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100050mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100050mi">
 "I'm only takin' a little look&. Don't you wanna know about FES's
 personal life&, too?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100060ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100060ta">
+"&.&.&.&.&.&.&."
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100070mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100070mi">
 "You're interested&, right?"
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_pride", 500, true);}
-In&, indeed&.&.&.&.
+In&, indeed&.&.&.
 Ayase's private affairs were enveloped in mystery&.
 This might be a good chance to take a look&.
 
@@ -176,7 +176,7 @@ I had second thoughts when I saw his unapologetic demeanor&.
 
 I turned back toward the door to the room once&, making sure no one
 was coming&.
-And&, heart pounding&, the first thing I checked out was--
+And&, heart pounding&, the first thing I checked out was\
 
 The bed&.
 Slightly rumpled sheets&.
@@ -222,7 +222,7 @@ They weren't unused&. She'd worn them&, hehehe&.
 And this was an individual room&.
 I couldn't imagine that anyone other than Ayase had put them on&.
 
-S&, s&, s&, so hot&.&.&.&.
+S&, s&, s&, so hot&.&.&.
 
 {	Fade("”wŒi‚R", 0, 0, null, true);
 	Wait(500);}
@@ -249,7 +249,7 @@ panties&.
 
 For some reason&, there was a strange&, soft sensuality to them&.
 
-This is&.&.&.&. kind of weird&.&.&.&.
+This is&.&.&. kind of weird&.&.&.
 
 {	CreateTextureEX("”wŒi‚Q", 100, 0, 0, "cg/bg/bg102_01_2_‚ ‚â‚¹‚Ì•aº_a.jpg");
 	Stand("bu‘å•ã_§•_’Êí","pride", 250, @0);
@@ -259,15 +259,15 @@ This is&.&.&.&. kind of weird&.&.&.&.
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 0, true);}
 //Ÿ¦‚ ‚¦‚Äu„v‚Å‚·
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100080mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100080mi">
 "Those are my family jewels&."
 
 {	CreateSE("SE02","SE_ÕŒ‚_ƒKƒ‰ƒX_Š„‚ê‚é_”­–C");
 	SoundPlay("SE02", 0, 1000, true);}
 //ŸƒrƒbƒNƒŠ‚µ‚Ä‚¢‚é
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100090ta">
-"GEEHHH--!?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100090ta">
+"GEEHHH-!?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -301,19 +301,19 @@ This is&.&.&.&. kind of weird&.&.&.&.
 <PRE box00>
 [text003]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100100mi">
-"Lookie&, Taku&. There's a weird book&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16100100mi">
+"Lookie&, Taku&. There's a weird book&."
 
 Misumi-kun called to me&, startling me&.
 
-I was standing in a corner of the hospital room&. 
+I was standing in a corner of the hospital room&.
 The bedsheets hadn't been turned back&, and naturally I didn't see any
 sexy lingerie there&.
 
-Haa&, a delusion&.&.&.&. 
+Haa&, a delusion&.&.&.
 
 I had a sense that the final development had been unbelievably
-disgusting&, but I decided I'd be better off not remembering&.&.&.&.
+disgusting&, but I decided I'd be better off not remembering&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -347,12 +347,12 @@ if($–Ï‘zƒgƒŠƒK[‚R‚U == 1)
 <PRE box00>
 [text004]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100110mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100110mi">
 "Where'd she go?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100120ta">
-"D&, dunno&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100120ta">
+"D&, dunno&.&.&."
 
 The window was open&.
 White curtains fluttered in the wind&.
@@ -365,7 +365,7 @@ Nor had I thought of closing the window&.
 It truly was something I'd done for no particular reason&.
 
 I stood by the windowsill&.
-And when I made as if to look up at the sky--
+And when I made as if to look up at the sky\
 
 {	CreateColor("F‚P", 150, 0, 0, 800, 600, "Black");
 	DrawTransition("F‚P", 100, 0, 1000, 100, null, "cg/data/down2.png", true);}
@@ -407,34 +407,34 @@ The shadow soon vanished&.
 The sound of a violent impact reverberated from directly below&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100130mi">
-"Wh&, what!?" 
+<voice name="OZ" class="OZ" src="voice/ch08/16100130mi">
+"Wh&, what!?"
 
-I sank down in place&. 
-My body had started shaking&. 
+I sank down in place&.
+My body had started shaking&.
 
 I'd realized
-What it was that had just fallen&. 
+What it was that had just fallen&.
 
-Kishimoto Ayase&. 
+Kishimoto Ayase&.
 
-She'd plummeted from above&. 
-And crashed&. 
+She'd plummeted from above&.
+And crashed&.
 
 If I looked down from the window&, she would surely be there&. Covered
-in blood&, fallen&, her brain fluids spraying across the ground&. 
+in blood&, fallen&, her brain fluids spraying across the ground&.
 
 My eyes had met hers the second before she died&.
 
-I was the last person she'd seen in her life&. 
+I was the last person she'd seen in her life&.
 The last one to see Ayase alive was me&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100140ta">
-"Uu&, aaaahh--" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100140ta">
+"Uu&, aaaahh\"
 
-Like a moan&. 
-A scream surged from my mouth&, unobstructed&. 
+Like a moan&.
+A scream surged from my mouth&, unobstructed&.
 I cradled my head&.
 
 </PRE>
@@ -468,17 +468,17 @@ I cradled my head&.
 <PRE box00>
 [text006]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100150mi">
-"Lookie&, Taku&. There's a weird book&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16100150mi">
+"Lookie&, Taku&. There's a weird book&."
 
 Misumi-kun called to me&, startling me&.
 
-I was standing in a corner of the hospital room&, not by the window&. 
+I was standing in a corner of the hospital room&, not by the window&.
 
-I ran to the window&, frantic&, and looked down&. 
-But Ayase wasn't lying there&. 
+I ran to the window&, frantic&, and looked down&.
+But Ayase wasn't lying there&.
 
-Haa&, a delusion&.&.&.&. 
+Haa&, a delusion&.&.&.
 Finding myself close to crumpling weakly in place&, I barely managed
 to keep myself up by clutching the windowsill&.
 
@@ -503,47 +503,47 @@ if($–Ï‘zƒgƒŠƒK[‚R‚U == 0)
 <PRE box00>
 [text007]
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100160mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100160mi">
 "Where'd she go?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100170ta">
-"Wh&, who knows&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100170ta">
+"Wh&, who knows&.&.&."
 
-The window was open&. 
+The window was open&.
 White curtains fluttered in the wind&.
 
-It had bothered me oddly since I first entered this hospital room&. 
+It had bothered me oddly since I first entered this hospital room&.
 
-I seemed to be on the verge of having a negative delusion&. 
-Like one about Ayase jumping from that window&. 
+I seemed to be on the verge of having a negative delusion&.
+Like one about Ayase jumping from that window&.
 
 If I looked down&, maybe Ayase would be lying there&, covered in
 blood&, her brain fluids sprayed everywhere&.
 
 I couldn't stop myself from checking&.
 As though possessed&, I went forward step by step&, on trembling
-legs&. 
+legs&.
 
 I stood by the window&.
-The sunset sky&. 
-A refreshing autumn day&. 
+The sunset sky&.
+A refreshing autumn day&.
 
 Ultimately&, what was down there?
-A hellish tableau? 
+A hellish tableau?
 
 I caught my breath&, quietly stuck my head out of the window&, and
 peered down&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100180ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100180ta">
+"&.&.&.&.&.&.&."
 
-No abnormalities&. 
-I didn't see Ayase's dead body anywhere&. 
+No abnormalities&.
+I didn't see Ayase's dead body anywhere&.
 
-Apparently I'd been over thinking it&. 
-Relieved&, I was about to pull my head back in&, 
+Apparently I'd been over thinking it&.
+Relieved&, I was about to pull my head back in&,
 
 When I noticed it&.
 
@@ -561,22 +561,22 @@ When I noticed it&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text008]
-The window one floor below&. 
+The window one floor below&.
 A single hand towel was rippling in the wind&.
 
-I'd thought it was merely a white towel&, 
+I'd thought it was merely a white towel&,
 But something resembling letters were written all over it in dark
-blue&. 
+blue&.
 
-Because it was waving&, I had a hard time reading what it said&. 
+Because it was waving&, I had a hard time reading what it said&.
 
-It wasn't that I was interested&. 
+It wasn't that I was interested&.
 The letters on a towel like that shouldn't have mattered to me either
-way&. 
+way&.
 
-But part of me was desperately trying to read it&. 
+But part of me was desperately trying to read it&.
 
-When I looked harder&, 
+When I looked harder&,
 The words written there were
 
 </PRE>
@@ -595,9 +595,9 @@ The words written there were
 	SoundPlay("SE02", 0, 1000, false);
 	Wait(2500);
 
-//--Whose eyes are those eyes?
+//\Whose eyes are those eyes?
 	CreateColor("F‚P", 500, 0, 0, 800, 600, "Black");
-	SetFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "\\Whose eyes are those eyesH");
 
 	SetBacklog("\\Whose eyes are those eyes?", "NULL", NULL);
@@ -617,10 +617,10 @@ The words written there were
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text009]
-I was speechless&. 
-I couldn't take my eyes off it&. 
+I was speechless&.
+I couldn't take my eyes off it&.
 
-Immediately after--
+Immediately after\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -646,7 +646,7 @@ Immediately after--
 [text010]
 Someone yanked the towel back inside&.
 
-As if they knew I'd seen that towel just now&.&.&.&.
+As if they knew I'd seen that towel just now&.&.&.
 
 No&, it couldn't be&.
 
@@ -661,7 +661,7 @@ There weren't any surveillance cameras in the room&, either&.
 
 A mere coincidence&. It had to be&.
 
-But what if it weren't a coincidence&.&.&.&.?
+But what if it weren't a coincidence&.&.&.?
 
 {	SoundPlay("•—‰¹", 2000, 0, false);
 	CreateSE("SE01","SE_”wŒi_”’‚¢•aº_Loop");
@@ -681,8 +681,8 @@ It was a coincidence&. Only a coincidence&. So I told myself&.
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100190mi">
-"Lookie&, Taku&. There's a weird book&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16100190mi">
+"Lookie&, Taku&. There's a weird book&."
 
 Misumi-kun called to me&, startling me&.
 
@@ -714,17 +714,17 @@ intently&.
 	FadeStand("bu‘å•ã_§•_’Êí_shock", 200, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100200mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100200mi">
 "It's 'Gnu&,' dude&, 'Gnu&.'"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100210mi">
-"I didn't realize this mag was still running&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16100210mi">
+"I didn't realize this mag was still running&."
 
 "Gnu" was a specialty publication that focused on general information
 about anything occult-related&, like UFOs&, aliens&,
 psychics&, religion&, urban legends&, strange phenomena&, advanced
-ancient cultures like Atlantis&, and O-parts&. 
+ancient cultures like Atlantis&, and O-parts&.
 
 It made a lot of sense that Ayase&, who only ever talked about weird
 stuff&, would read this magazine&.
@@ -733,23 +733,23 @@ stuff&, would read this magazine&.
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 200, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_shock", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100220mi">
-"The paperback over here is&.&.&.&. what&, 'The Gladioul Saga'? Sounds
-like a fantasy novel&." 
+<voice name="OZ" class="OZ" src="voice/ch08/16100220mi">
+"The paperback over here is&.&.&. what&, 'The Gladioul Saga'? Sounds
+like a fantasy novel&."
 
 I didn't know about that novel&, but I remembered hearing the word
-"Gladioul&." 
+"Gladioul&."
 
-Where had I heard it again? 
-I thought it'd been rather recently&, but&.&.&.&.
+Where had I heard it again?
+I thought it'd been rather recently&, but&.&.&.
 
 {	Stand("bu‘å•ã_§•_’Êí","worry", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 200, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100230mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100230mi">
 "Haa&, if I were gonna go out with Kishimoto&, I'd have match these
-tastes of hers&. Seems like a lot of work&.&.&.&." 
+tastes of hers&. Seems like a lot of work&.&.&."
 
 Had he still not given up on dating Kishimoto yet? Even though&, she'd
 rejected him with an instant K&.O&. before&.
@@ -757,8 +757,8 @@ rejected him with an instant K&.O&. before&.
 {	DeleteStand("bu‘å•ã_§•_’Êí_worry", 500, true);
 	Wait(1000);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100240ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100240ta">
+"Ah&.&.&."
 
 {	Request("”wŒi‚P", Smoothing);
 	Zoom("”wŒi‚P", 1500, 2000, 2000, AxlDxl, false);
@@ -772,7 +772,7 @@ both beauty and cruelty&. It was simply sitting there&, but it gave
 off the same amazing sense of presence as ever&.
 
 Misumi-kun didn't appear to have noticed the sword&.
-Ordinary people couldn't see it&, after all&.&.&.&.
+Ordinary people couldn't see it&, after all&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -781,29 +781,29 @@ Ordinary people couldn't see it&, after all&.&.&.&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text012]
-If-- 
+If\
 If I took it away without saying anything to Ayase&, would it become
-my sword? 
+my sword?
 
 If it meant I could get my hands on a Di-Sword without any effort&,
-this wasn't the time to care about appearances&. 
-Desire rose within me&. 
+this wasn't the time to care about appearances&.
+Desire rose within me&.
 
-I gulped and timidly reached my hand toward the sword&. 
-I gripped its handle&. 
+I gulped and timidly reached my hand toward the sword&.
+I gripped its handle&.
 
-I had meant to grip the handle&. 
+I had meant to grip the handle&.
 
 But my hand passed through it&. All my fingers closed around was air&.
-I tried it again&, but the result was the same&. 
+I tried it again&, but the result was the same&.
 
-I couldn't grasp it&. I couldn't even touch it&. 
+I couldn't grasp it&. I couldn't even touch it&.
 
 Did that mean this sword wasn't real-booted now?
 Because it hadn't achieved local shared recognition&, it remained as
 nothing more than a delusion of Ayase's&.
 
-An illusion&. 
+An illusion&.
 A dream&.
 An afterimage
 
@@ -812,7 +812,7 @@ An afterimage
 	Stand("bu‘å•ã_§•_’Êí","sigh", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_sigh", 200, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100250mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100250mi">
 "What're you doing?"
 
 Misumi-kun put on a puzzled face when he saw me&.
@@ -832,12 +832,12 @@ up&. I wondered where she'd gone&.
 	Stand("bu‘å•ã_§•_’Êí","worry", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100260mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100260mi">
 "Does Rimi know where this room is?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100270ta">
-"Ah&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100270ta">
+"Ah&.&.&."
 
 We'd asked about the location of the hospital room at the nurses'
 station after parting from Rimi&. Maybe she was wandering around
@@ -856,53 +856,53 @@ somewhere&, unsure of where to go&.
 [text013]
 //ŸÎ‚¢‚È‚ª‚ç
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100280mi">
-"Cause she's not too bright&, 
+<voice name="OZ" class="OZ" src="voice/ch08/16100280mi">
+"Cause she's not too bright&,
 it wouldn't occur to her to ask someone&, the way we did&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100290ta">
-"&.&.&.&.Sh&, should look for her&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100290ta">
+"&.&.&.Sh&, should look for her&.&.&."
 
-I'd be insecure if Rimi weren't with me&. 
+I'd be insecure if Rimi weren't with me&.
 I couldn't state for sure that even this hospital was safe&.
 
-If "Shogun" were peeping in on my thoughts&, 
+If "Shogun" were peeping in on my thoughts&,
 He must know about my being here&.
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100300mi">
-"Yeah&, you're right&. I'm tired of waiting&, 
+<voice name="OZ" class="OZ" src="voice/ch08/16100300mi">
+"Yeah&, you're right&. I'm tired of waiting&,
 And you've gotta be lonely without her&. Haha&."
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100310ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100310ta">
+"&.&.&.&.&.&.&."
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @100);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 200, true);
 	DeleteStand("bu‘å•ã_§•_’Êí_smile", 200, false);}
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100320mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100320mi">
 "Hey&, to c<pre>u</pre>t to the chase&, what's going on with you and Rimi?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100330ta">
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100330ta">
 "Eh?"
 
 //yOZz
-<voice name="OZ" class="OZ" src="ch08/16100340mi">
+<voice name="OZ" class="OZ" src="voice/ch08/16100340mi">
 "I'm asking you if you're going out&.
 Haven't there been some real nice vibes between you lately?"
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100350ta">
-"&.&.&.&.We&, we're not going out&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100350ta">
+"&.&.&.We&, we're not going out&."
 
 My face went hot as I spoke&.
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_pride", 500, true);}
-Me and Rimi going out&.&.&.&. huh&.
+Me and Rimi going out&.&.&. huh&.
 
 I'd certainly envisioned it countless times&.
 
@@ -928,7 +928,7 @@ She'd also said&,
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 1000, 0, null, true);}
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y—œ[z
-<voice name="—œ[" class="—œ[" src="ch08/16100360ri">
+<voice name="—œ[" class="—œ[" src="voice/ch08/16100360ri">
 "Because we're friends&, obviously&."
 
 {	SoundPlay("SE01", 3000, 200, true);
@@ -975,7 +975,7 @@ Anyway&, Rimi was dense when it came to that sort of thing&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text014]
-Misumi-kun and I split up to look for Rimi and Ayase&. 
+Misumi-kun and I split up to look for Rimi and Ayase&.
 
 Misumi-kun had gone down the stairs&, so I decided to search on the
 upper floors&.
@@ -987,51 +987,51 @@ upper floors&.
 //Ÿu‚ ‚İ‚¡‚¿‚á‚ñvu‚½‚­‚İ‚¿‚á‚ñv‚ÆŒ¾‚Á‚Ä‚¢‚é‚ªã‘«‚ç‚¸‚Å‚ ‚İ‚¡‚É•·‚±‚¦‚éB
 //Ÿu‚ë‚±‚§v‚Ç‚±
 //yRˆäz
-<voice name="Rˆä" class="Rˆä" src="ch08/16100370yi">
+<voice name="Rˆä" class="Rˆä" src="voice/ch08/16100370yi">
 "Ami-chan! Where are you!? Ami-chan!"
 
 In the hallway&, I passed an aging inpatient who looked to be in his
 fifties&. As he tottered along&, he never stopped calling a person
-named "Ami-chan&." 
+named "Ami-chan&."
 
-Ignoring him&, I continued toward the far end of the corridor&. 
+Ignoring him&, I continued toward the far end of the corridor&.
 
 I didn't have that much resistance to the idea of walking around the
-hospital&. 
-It must've been because I'd often come here in the past&. 
+hospital&.
+It must've been because I'd often come here in the past&.
 
 Except&, my heart pounded at the thought that "Shogun" might appear
 around corners in the hallway or from inside hospital bedrooms with
-flung-open doors&. 
+flung-open doors&.
 
 Besides&, the strange&, scream-like cries I heard once in a while from
-somewhere or other were bad for my heart&. 
+somewhere or other were bad for my heart&.
 
-The corridor was completely cream-colored&. 
+The corridor was completely cream-colored&.
 
 Some of the hospital rooms had their doors open&, and some didn't&.
-I peeked into many of them to make sure "Shogun" wasn't there&. 
+I peeked into many of them to make sure "Shogun" wasn't there&.
 
 Two beds were lined up in all the rooms&, with human shapes puffed up
 under the sheets&. Patients were probably sleeping there&. Except&,
-their faces were in my blind spot&, and I couldn't see them&. 
+their faces were in my blind spot&, and I couldn't see them&.
 
-Few people were walking down the hallway&. 
+Few people were walking down the hallway&.
 
 The aging man who'd called "Ami-chan&," and a single nurse: at
-present&, those two were the only ones I'd passed&. 
+present&, those two were the only ones I'd passed&.
 
 For some reason&, I felt like
-I didn't really want to be here&. 
+I didn't really want to be here&.
 
 The atmosphere was weighty&. It wasn't unpleasant&, but I got the
-feeling that I wasn't supposed to be here&.  
+feeling that I wasn't supposed to be here&.
 
 As I went further&, the hall turned as if it were breaking to the
-right&.  
+right&.
 
 While I tentatively rounded the corner&, I wondered if hospital rooms
-continued beyond there--
+continued beyond there\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1053,7 +1053,7 @@ continued beyond there--
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text015]
-Without warning&, there was a wall in front of me&. 
+Without warning&, there was a wall in front of me&.
 
 Moreover&, as if the cream color throughout the rest of the hallway
 had been a lie&, only the area at the end of the turn was coated in
@@ -1067,10 +1067,10 @@ black paint&.
 	SoundPlay("SE01", 0, 1000, true);
 	Wait(1500);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100380ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100380ta">
+"&.&.&.&.&.&.&."
 
-For some reason--
+For some reason\
 My pulse quickened&.
 
 I became incapable of moving a single step away&.
@@ -1122,7 +1122,7 @@ Its presence was beyond comparison to when I was in my base&.
 	Zoom("”wŒi‚Q", 2000, 1200, 1200, Dxl2, false);
 	Fade("”wŒi‚Q", 2000, 0, null, false);
 	Wait(1000);}
-Don't look--
+Don't look\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1143,8 +1143,8 @@ Don't look--
 <PRE box00>
 [text016]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100390ta">
-"&.&.&.&."
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100390ta">
+"&.&.&."
 
 Using all the emotional strength left to me&, I closed my eyes&.
 
@@ -1164,7 +1164,7 @@ Panting&, I hurried back to the floor with Ayase's hospital room&.
 When I touched the nape of my neck&, sticky sweat had started oozing
 out&. Not just my neck; my whole body was sweaty&.
 
-What the hell was it&.&.&.&.
+What the hell was it&.&.&.
 "Shogun" looking in my thoughts?
 
 "God's gaze" wouldn't go away&.
@@ -1198,13 +1198,13 @@ blatant ulterior motives&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text017]
-Then I'll go home--
+Then I'll go home\
 
-Before "Shogun" and Yua appear&. 
+Before "Shogun" and Yua appear&.
 
-They came and went without warning&. 
+They came and went without warning&.
 
-They pinned down my location with ease&. 
+They pinned down my location with ease&.
 
 I had to stay braced no matter where I went&.
 
@@ -1213,29 +1213,29 @@ to the wall as I went&. Praying&, that I would be able to join up with
 Rimi&, I slowly creeped along&.
 
 //yŠÅŒìt‚`z
-<voice name="ŠÅŒìt‚`" class="ŠÅŒìt‚`" src="ch08/16100400n1">
-"--Yamai-san is calling the same name again&, Ami-chan&." 
+<voice name="ŠÅŒìt‚`" class="ŠÅŒìt‚`" src="voice/ch08/16100400n1">
+"\Yamai-san is calling the same name again&, Ami-chan&."
 
-I heard a nurse talking from ahead&. 
-When I looked up&, two nurses were walking this way&. 
+I heard a nurse talking from ahead&.
+When I looked up&, two nurses were walking this way&.
 One was still young&, while the other was a plump&, middle-aged lady&.
 
 //yŠÅŒìt‚`z
-<voice name="ŠÅŒìt‚`" class="ŠÅŒìt‚`" src="ch08/16100410n1">
-"Who on earth could he be looking for&.&.&.&."
+<voice name="ŠÅŒìt‚`" class="ŠÅŒìt‚`" src="voice/ch08/16100410n1">
+"Who on earth could he be looking for&.&.&."
 
 //yŠÅŒìt’·z
-<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="ch08/16100420n2">
+<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="voice/ch08/16100420n2">
 "It's a famous ghost story in this hospital&."
 
 //yŠÅŒìt’·z
-<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="ch08/16100430n2">
+<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="voice/ch08/16100430n2">
 "They say there's an illusionary room no one knows about&, and
 'Ami-chan' is hospitalized there&."
 
 //yŠÅŒìt’·z
-<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="ch08/16100440n2">
-"It's a rumor from years ago&." 
+<voice name="ŠÅŒìt’·" class="ŠÅŒìt’·" src="voice/ch08/16100440n2">
+"It's a rumor from years ago&."
 
 I faced down and waited for the two of them to pass me by&. I held my
 breath to keep them from noticing my wild panting&.
@@ -1256,25 +1256,25 @@ for now&, all I could do was ignore them&.
 <PRE box00>
 [text018]
 After passing the two nurses and walking even more desperately&, I
-reached the nurses' station&. 
+reached the nurses' station&.
 
 I should've reached Ayase's hospital room before this&, but apparently
-I'd overshot it&. 
+I'd overshot it&.
 
-I clicked my tongue and wiped sweat off my forehead&. 
-I sensed someone watching me again&. 
+I clicked my tongue and wiped sweat off my forehead&.
+I sensed someone watching me again&.
 
-The depths of my chest throbbed painfully&. 
-My ears were ringing&, too&. 
+The depths of my chest throbbed painfully&.
+My ears were ringing&, too&.
 
-I felt incredibly sick&. 
-My body was in the worst possible condition&. 
+I felt incredibly sick&.
+My body was in the worst possible condition&.
 
-Though it hadn't been like this&, when I arrived here&. 
-What was happening to me&.&.&.&.? 
+Though it hadn't been like this&, when I arrived here&.
+What was happening to me&.&.&.?
 
 It was amazingly agonizing&,
-And I couldn't put up with it any longer&, 
+And I couldn't put up with it any longer&,
 
 And I went to seek help from the nurses in the nurses' station&.
 
@@ -1298,10 +1298,10 @@ And I went to seek help from the nurses in the nurses' station&.
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text019]
-But only one was there&. 
+But only one was there&.
 
 She stood with her back to me&, seeming not to realize I was there&,
-and muttered something as she immersed herself in her work&. 
+and muttered something as she immersed herself in her work&.
 
 She had a clipboard in hand&. Something was written on the paper stuck
 in it&.
@@ -1313,7 +1313,7 @@ in it&.
 //¦‚±‚ÌƒZƒŠƒtAƒeƒLƒXƒg‚È‚µ‚Å‚r‚dˆµ‚¢‚İ‚½‚¢‚ÈŠ´‚¶‚É‚µ‚½•û‚ª‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñ
 //Ÿ¬º‚Å‚Ô‚Â‚Ô‚Â‚Æ
 //y—tŒz
-//<voice name="—tŒ" class="—tŒ" src="ch08/16100450hd">
+//<voice name="—tŒ" class="—tŒ" src="voice/ch08/16100450hd">
 //u_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êA_Œõ‚Ì‹~‚¢‚ ‚êccv
 
 
@@ -1328,17 +1328,17 @@ May the divine light save us May the divine light save us
 May the divine light save us May the divine light save us
 May the divine light save us May the divine light save us"
 
-Ah&.&.&.&.! 
+Ah&.&.&.!
 
-I'd met her number of times before&. 
-Nurse Hazuki-san&. 
+I'd met her number of times before&.
+Nurse Hazuki-san&.
 
 Of course&, this was AH General Hospital's psychiatric department&. It
 was natural for her to be here&. I myself had been under her care
-twice in only the past month&. 
+twice in only the past month&.
 
 That was convenient; if I addressed her&, she'd soon come attend to
-me--
+me\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1395,21 +1395,21 @@ Finding a stool where Hazuki-san had previously been standing&, I sat
 down on it&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100460ta">
-"Haa&.&.&.&. haa&.&.&.&." 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100460ta">
+"Haa&.&.&. haa&.&.&."
 
-My head ached&. 
+My head ached&.
 Similar to during the earthquake last week&.
 
-But I thought&.&.&.&. the nature of the pain back then had differed&. 
+But I thought&.&.&. the nature of the pain back then had differed&.
 
-I wanted to drink something&. 
+I wanted to drink something&.
 Perhaps because I'd been panting repeatedly&, breathing alone was
-enough to make my throat hurt&. 
+enough to make my throat hurt&.
 
-I looked around idly&. 
+I looked around idly&.
 
-The clipboard Hazuki-san had been carrying&. 
+The clipboard Hazuki-san had been carrying&.
 The drawing on it entered my field of sight&.
 
 {	CreateTextureEX("”wŒi‚R", 100, 0, 0, "cg/bg/bg187_01_3_ƒJƒ‹ƒe‚Í‚è‚Â‚¯_a.jpg");
@@ -1419,8 +1419,8 @@ The drawing on it entered my field of sight&.
 	SoundPlay("SE01", 1000, 0, false);
 	Wait(1000);}
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100470ta">
-"Eh&.&.&.&.&.&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100470ta">
+"Eh&.&.&.&.&.&.&.?"
 
 As she helped examine me&, Hazuki-san was always writing something
 down on this clipboard&, a gentle smile on her face&.
@@ -1429,8 +1429,8 @@ I'd thought it'd be temperature measurements or the names of medicines
 for prescriptions&.
 
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100480ta">
-"Eh&.&.&.&.?" 
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100480ta">
+"Eh&.&.&.?"
 
 Which was why I couldn't comprehend
 Why it was drawn there&.
@@ -1453,15 +1453,15 @@ Why it was drawn there&.
 <PRE box00>
 [text021]
 //y‘ñ–¤z
-<voice name="‘ñ–¤" class="‘ñ–¤" src="ch08/16100490ta">
-"This&.&.&.&. is&.&.&.&.?"
+<voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16100490ta">
+"This&.&.&. is&.&.&.?"
 
-Somewhere before--
+Somewhere before\
 
-I'd seen this crappy doodle--
+I'd seen this crappy doodle\
 
 Where?
-Where had I seen it&.&.&.&.?
+Where had I seen it&.&.&.?
 
 {	CreateTextureEX("”wŒi‚R", 100, 0, 0, "cg/ev/ev014_01_1_ƒXƒv[_a.jpg");
 	CreateSE("SE03","SE_ÕŒ‚_ƒtƒ‰ƒbƒVƒ…ƒoƒbƒN");
@@ -1496,7 +1496,7 @@ A tingling sensation at the back of my neck&.
 	Wait(50);
 	Fade("F‚P", 1000, 0, null, true);
 	Wait(1000);}
---Don't look at me!
+\Don't look at me!
 
 I took the clipboard in hand&.
 Several papers that looked like patients' records were held there&.
@@ -1543,7 +1543,7 @@ All of them were scribbles repeating the same drawing&.
 	CreateColor("F‚P", 150, 0, 0, 800, 600, "RED");
 	Fade("F‚P", 0, 0, null, true);
 	Wait(500);}
-This drawing was--
+This drawing was\
 
 {	CreateSE("SE03","SE_ÕŒ‚_ÕŒ‚‰¹02");
 	CreateTextureEX("”wŒi‚S", 100, 0, 0, "cg/ev/ev014_01_1_ƒXƒv[_a.jpg");
@@ -1582,7 +1582,7 @@ if($‚VÍƒGƒ“ƒhƒtƒ‰ƒO‡@ == true)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text022]
-And on the seventh page was--
+And on the seventh page was\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

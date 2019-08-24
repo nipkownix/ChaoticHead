@@ -86,7 +86,7 @@ When all of the text had at last been erased&, Yua picked up the
 stuffed "Gero-froggy" set on her bed and hugged it to her chest&.
 
 //¦uÅ‹ß‚É‚È‚Á‚Äv‘oq‚Ì–…‚ª€‚ñ‚Å‚©‚ç
-This had become a habit of hers as of late&. 
+This had become a habit of hers as of late&.
 If she weren't embracing something like this&, she would grow
 unbearably anxious&.
 
@@ -98,8 +98,8 @@ unbearably anxious&.
 <PRE box00>
 [text002]
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch04/08300010yu">
-"Haaa&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08300010yu">
+"Haaa&.&.&."
 
 {	SetVolume("SE01", 500, 300, NULL);
 	CreateColor("back03", 100, 0, 0, 800, 600, "Black");
@@ -110,8 +110,8 @@ Burying her chin in the stuffed animal&, Yua simultaneously sighed
 again and gave a little shake of her head&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch04/08300020yu">
-"&.&.&.&.Please&.&.&.&. Give me courage&.&.&.&."
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08300020yu">
+"&.&.&.Please&.&.&. Give me courage&.&.&."
 
 Yua's expression was strained as she murmured quietly to no one in
 particular&.
@@ -140,7 +140,7 @@ with graceful gestures&.
 //ˆÈ‰ºAƒ[ƒ‹•¶Í‚Ì‚½‚ßˆê“I‚ÉƒRƒƒ“ƒgƒAƒEƒg’v‚µ‚Ü‚·B
 //¦ˆÈ‰ºA—Dˆ¤‚ª‘‚¢‚Ä‚¢‚éƒ[ƒ‹‚Ì“à—e
 Hello&. This is Kusunoki&.
-I would like to talk with you one more time&, Nishijou-kun&. 
+I would like to talk with you one more time&, Nishijou-kun&.
 I will go to your place tomorrow&, at 5:00&.
 
 //¦ˆÈãA—Dˆ¤‚ª‘‚¢‚Ä‚¢‚éƒ[ƒ‹‚Ì“à—e
@@ -163,16 +163,16 @@ previously erased&.
 After some hesitation&, Yua went ahead and clicked the "Send" icon&.
 
 //y—Dˆ¤z
-<voice name="—Dˆ¤" class="—Dˆ¤" src="ch04/08300030yu">
-"Ah&.&.&.&. I sent it&.&.&.&." 
+<voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08300030yu">
+"Ah&.&.&. I sent it&.&.&."
 
-The mail finished sending without giving her a chance to stop it&. 
+The mail finished sending without giving her a chance to stop it&.
 
 Yua embraced the Gero-froggy on her knees again&, harder&. From then
-on&, she continued staring at her monitor for over an hour&. 
+on&, she continued staring at her monitor for over an hour&.
 
 Though she hadn't expected much of an answer from the recipient&,
-there was absolutely no indication that one was coming--
+there was absolutely no indication that one was coming\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

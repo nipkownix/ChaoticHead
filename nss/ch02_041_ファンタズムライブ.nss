@@ -70,7 +70,7 @@ standing&.
 {#TIPS_ƒIƒ^Œ| = true;}
 All of them swayed to the beat&, shaking their upraised fists and
 shouting&, "FES!" "Fehsu!" with perfect timing&. It didn't quite
-measure up to the level of <FONT incolor="#88abda"outcolor="BLACK">audience participation</FONT> you'd find 
+measure up to the level of <FONT incolor="#88abda"outcolor="BLACK">audience participation</FONT> you'd find
 at an otaku concert&, though&.
 
 It was incredibly overheated&. The stuffiness made me feel like
@@ -141,15 +141,15 @@ She was obviously a different person from the demon&.
 [text003]
 //‚u‚e//ƒ}ƒCƒN
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100010ay">
-"Today&.&.&.&. I feel far better than usual&.&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100010ay">
+"Today&.&.&. I feel far better than usual&.&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100020ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100020ay">
 "I can hear the voices clearly&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100030ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100030ay">
 "The world is extremely transparent&."
 
 The voice I heard through her mic was both similar and dissimilar to
@@ -174,16 +174,16 @@ But the fans learned from her example&, going silent and listening
 intently to FES's words as she emceed&.
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100040ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100040ay">
 {#TIPS_ƒRƒLƒ…[ƒgƒX = true;}"Perhaps it's because the gates to <FONT
 incolor="#88abda" outcolor="BLACK">Cocytus</FONT> are closed&."
 
-wh&, what'd she say&.&.&.&.?
+wh&, what'd she say&.&.&.?
 Cocytus?@What language was that?
 
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100050ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100050ay">
 "After the birth of the 'Great Will&,' the world maintained its
 equilibrium for several thousand years&."
 
@@ -191,20 +191,20 @@ equilibrium for several thousand years&."
 	FadeStand("bu‚ ‚â‚¹_ƒXƒe[ƒWˆß‘•_’Êí_hard", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒXƒe[ƒWˆß‘•_’Êí_normal", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100060ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100060ay">
 "But now that balance is in the midst of collapsing&. It's highly
-unstable&.&.&.&."
+unstable&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒXƒe[ƒWˆß‘•_’Êí","normal", 200, @0);
 	FadeStand("bu‚ ‚â‚¹_ƒXƒe[ƒWˆß‘•_’Êí_normal", 300, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒXƒe[ƒWˆß‘•_’Êí_hard", 0, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100070ay">
-"And so I sing&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100070ay">
+"And so I sing&.&.&."
 
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100080ay">
-"I'll take in all of your chaos&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100080ay">
+"I'll take in all of your chaos&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -248,7 +248,7 @@ for contributing to her stage persona&, it was sublime&.
 My eyes became weirdly fastened to it&.
 
 Next&, FES lightly hoisted up that colossal mic stand with her right
-hand alone--
+hand alone\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -277,32 +277,32 @@ Still holding it with a reverse grip&, she swept it out in a wide
 slash to the side&.
 The blue light from the glassy parts traced an arc&.
 
-That's so dangerous&.&.&.&.!
+That's so dangerous&.&.&.!
 What would she have done if she'd hit a spectator?
 
-What if it weren't a mic stand&, but instead a sword&.&.&.&.
+What if it weren't a mic stand&, but instead a sword&.&.&.
 
 And in order to offer fresh blood up to the demon girl&, she used that
-sword to cu<pre>t</pre> the throat of a single audience member each night&.&.&.&.
-Or something&.&.&.&.
+sword to cu<pre>t</pre> the throat of a single audience member each night&.&.&.
+Or something&.&.&.
 
 If so&, it would indeed make this live show a Black Mass hosted by
-devils&.&.&.&.
+devils&.&.&.
 
 A chill shot through me&, and goosebumps rose all over my body&.
-It might be best to get out of here as fast as possible&.&.&.&. As I
+It might be best to get out of here as fast as possible&.&.&. As I
 began to think that&, FES murmured softly&,
 
 {	SetVolume("SE01", 2000, 0, NULL);
 	SetVolume("SE02", 2000, 0, NULL);
 	Fade("ƒXƒe[ƒW‘¤‚Q", 2000, 0, null, true);}
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100090ay">
-"Next is our third song&.&.&.&."
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100090ay">
+"Next is our third song&.&.&."
 
 //‘}“ü‰Ìƒ^ƒCƒgƒ‹‚Í‚±‚ê‚ÅŠm’è‚Å‚·
 //y‚ ‚â‚¹z
-<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="ch02/04100100ay">
+<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch02/04100100ay">
 "The Blood of the Contract for Our Sins&."
 
 //‚r‚d//‘åŠ½º
@@ -324,10 +324,9 @@ Even vaster cheers of delight rose from the audience&.
 //	SoundPlay("@CH_INS_FES_ƒ‰ƒCƒ”",0,1000,true);
 
 	$Y‘Å‚¿ = 1;
-	CreateSound("Y‚ğ‘Å‚Ä‚P", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-	SoundPlay("Y‚ğ‘Å‚Ä‚P",0,1,false);
-	SetStream("Y‚ğ‘Å‚Ä‚P", 12000);
-	SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 1000, NULL);
+	CreateBGM("Y‚ğ‘Å‚Ä‚P","CH_INS_FES_ƒ‰ƒCƒ”");
+	SetStream("Y‚ğ‘Å‚Ä‚P", 24300);
+	MusicStart("Y‚ğ‘Å‚Ä‚P", 1000, 1000, 0, 1000, null, false);
 
 	Wait(1000);
 
@@ -386,7 +385,7 @@ Immediately afterward&, the other Phantasm members started moving
 simultaneously&, and for a second time&, their sounds came flooding
 into my ears&.
 
-The roar seemed like it would rupture my eardrums&.&.&.&.!
+The roar seemed like it would rupture my eardrums&.&.&.!
 Won't everyone's ears go all funny from being in a place like this?
 
 When I looked over&, Misumi-kun was totally into it&, pumping his
@@ -420,12 +419,9 @@ The lyrics made me go tense&.
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
 	
 		$Y‘Å‚¿ = 2;
-		CreateSound("Y‚ğ‘Å‚Ä‚Q", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-		SetVolume("Y‚ğ‘Å‚Ä‚Q", 0, 0, NULL);
-		SetAlias("Y‚ğ‘Å‚Ä‚Q", "Y‚ğ‘Å‚Ä‚Q");
-		SoundPlay("Y‚ğ‘Å‚Ä‚Q",0,1,false);
-		SetStream("Y‚ğ‘Å‚Ä‚Q", 33000);
-		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 1000, NULL);
+		CreateBGM("Y‚ğ‘Å‚Ä‚Q","CH_INS_FES_ƒ‰ƒCƒ”");
+		SetStream("Y‚ğ‘Å‚Ä‚Q", 24300);
+		MusicStart("Y‚ğ‘Å‚Ä‚Q", 1000, 1000, 0, 1000, null, false);
 	}
 
 	Wait(3000);
@@ -486,12 +482,9 @@ At the end&, she repeated the chorus over and over&.
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
 		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 0, NULL);
 
-		CreateSound("Y‚ğ‘Å‚Ä‚R", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-		SetVolume("Y‚ğ‘Å‚Ä‚R", 0, 0, NULL);
-		SetAlias("Y‚ğ‘Å‚Ä‚R", "Y‚ğ‘Å‚Ä‚R");
-		SoundPlay("Y‚ğ‘Å‚Ä‚R",0,1,false);
-		SetStream("Y‚ğ‘Å‚Ä‚R", 286000);
-		SetVolume("Y‚ğ‘Å‚Ä‚R", 1000, 1000, NULL);
+		CreateBGM("Y‚ğ‘Å‚Ä‚R","CH_INS_FES_ƒ‰ƒCƒ”");
+		SetStream("Y‚ğ‘Å‚Ä‚R", 24300);
+		MusicStart("Y‚ğ‘Å‚Ä‚R", 1000, 1000, 0, 1000, null, false);
 	}
 
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -499,7 +492,7 @@ At the end&, she repeated the chorus over and over&.
 [text805]
 Strike the stake
 Strike the stake
-Tear open the darkest night 
+Tear open the darkest night
 Bathe in moonlight
 
 As I listened to that phrase&.
@@ -537,7 +530,7 @@ The song was over&.
 FES soaked in the reverberation of her performance&, gazing down and
 softly swaying her body from side to side&.
 
-Then she abruptly raised her head--
+Then she abruptly raised her head\
 Without warning&, without any hesitation in her gaze&, she&.&.&.
 
 </PRE>

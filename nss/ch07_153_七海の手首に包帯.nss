@@ -49,28 +49,28 @@ function ch07_153_七海の手首に包帯()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-Lunch break&. 
+Lunch break&.
 I always skipped lunch&, because I didn't want to eat by myself in the
-classroom&. I had no one to eat together with&. 
+classroom&. I had no one to eat together with&.
 
 Lately Rimi had been inviting me to eat with her&, but as you might
-well imagine&, I became embarrassed and ended up refusing&. 
+well imagine&, I became embarrassed and ended up refusing&.
 
 Which was why&, when we reached lunch break&, I left the classroom and
 retreated to a place where I could find peace&.
 
-At times it was the library&, and at times it was the courtyard&. 
+At times it was the library&, and at times it was the courtyard&.
 
 But after the previously mentioned disturbance&, everyone in the
 school had come to recognize my face&, and I couldn't calm down no
-matter where I went&. 
+matter where I went&.
 
-Gazes stabbing into me without mercy&. 
-Sneers and insults thrown my way&. 
+Gazes stabbing into me without mercy&.
+Sneers and insults thrown my way&.
 
 Today&, too&, I walked around school&, but it had the opposite effect
 of exposing me to even more disparagement&, and when I thought I had
-no other option but to flee to the bathroom--
+no other option but to flee to the bathroom―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -85,34 +85,34 @@ no other option but to flee to the bathroom--
 <PRE box00>
 [text002]
 I spotted Nanami from behind in the passage&, leading to the freshman
-building&.  
-She appeared to be walking to her classroom alone&. 
+building&.
+She appeared to be walking to her classroom alone&.
 
 Come to think of it&, I hadn't spoken to Nanami once since that
-incident&. 
-I'd avoided bumping heads with her all week long&. 
+incident&.
+I'd avoided bumping heads with her all week long&.
 
 Because I hadn't known what kind of expression to make when I saw
-her&. 
+her&.
 
 I was the worst kind of brother&, one who had prioritized my own life
-over hers&. 
+over hers&.
 
 It was no more than a miracle that Nanami had been safely released&. I
-hadn't done a thing&. 
+hadn't done a thing&.
 
-Maybe "Shogun" had told Nanami it was my fault he'd abducted her&. 
+Maybe "Shogun" had told Nanami it was my fault he'd abducted her&.
 
-If so&, she'd definitely be furious at me&. 
-She'd disdain me&, and maybe she wouldn't listen to me&. 
+If so&, she'd definitely be furious at me&.
+She'd disdain me&, and maybe she wouldn't listen to me&.
 
-That was why I didn't have the courage to go see her&. 
+That was why I didn't have the courage to go see her&.
 
 But now that I'd spied her like this&, of all times&, I started to get
-worried&.  
+worried&.
 
-He hadn't done anything unthinkable to her&, had he? 
-He hadn't hurt her in some way&, had he? 
+He hadn't done anything unthinkable to her&, had he?
+He hadn't hurt her in some way&, had he?
 She wasn't psychologically wounded&, was she?
 
 </PRE>
@@ -204,9 +204,9 @@ I halted&.
 I'd seen it&.
 
 It was a very minute sense of wrongness&, one that truly didn't matter
-at all&, but--
+at all&, but―
 
-But--
+But―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -246,7 +246,7 @@ On her right hand&.
 	Fade("七海手首アップ２", 0, 1000, null, true);
 	Delete("七海手首アップ１");
 	Fade("黒", 250, 0, null, false);}
-Her wrist--
+Her wrist―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

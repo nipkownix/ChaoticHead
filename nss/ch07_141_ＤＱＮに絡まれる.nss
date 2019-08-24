@@ -37,12 +37,12 @@ function ch07_141_ＤＱＮに絡まれる()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-I left school and stumbled around aimlessly&. 
+I left school and stumbled around aimlessly&.
 
-Nothing seemed to matter anymore&. 
+Nothing seemed to matter anymore&.
 
 My anxiety about the possibility of being attacked by "Shogun" and Yua
-had drifted off somewhere as well&. 
+had drifted off somewhere as well&.
 
 On the contrary&, I hoped they would be kind enough to kill me
 painlessly&.
@@ -52,34 +52,34 @@ My mind had gone into utter depression mode&.
 As I regarded the central district of Shibuya from this perspective of
 mine&, its atmosphere was brutal enough to accelerate my gloom&. No
 one walking along the road was smiling; they glared harshly at their
-surroundings&. 
+surroundings&.
 
 Something in the air made it seem as if it wouldn't be strange if the
-people passing me started fighting with me at any moment&. 
+people passing me started fighting with me at any moment&.
 
 Simply walking along like this&, I spotted a number of stores with
 closed shutters&, though they would normally have been boisterous with
-customers&. 
+customers&.
 
 And I had a vague sense that the number of cars on the road had
-decreased as well&. 
+decreased as well&.
 
-The jumbotron that always noisily blared out sound was now silent&. 
+The jumbotron that always noisily blared out sound was now silent&.
 
 In exchange came incessant&, far-off police sirens&, cars honking
-their horns&, and squealing&. 
+their horns&, and squealing&.
 
 There were no signs of how I'd caused such a riot at the plaza a week
-ago&. 
+ago&.
 
 Though it hadn't yet vanished from people's memories&, perhaps I was
 already gone from the city's memory&, chased beyond the far side of
-forgetfulness&. 
+forgetfulness&.
 
 It would've been nice if I could forget every one of my memories as
-well&. 
+well&.
 
-Knowing nothing&. Being ignorant&. Remaining a fool&. 
+Knowing nothing&. Being ignorant&. Remaining a fool&.
 
 People like that must surely live rose-colored lives and relish every
 single day&.
@@ -103,7 +103,7 @@ single day&.
 [text002]
 //ＶＦ//回想セリフ
 //【セナ】
-<voice name="セナ" class="セナ" src="ch07/14100010sn">
+<voice name="セナ" class="セナ" src="voice/ch07/14100010sn">
 "Ignorance is a sin&. There are people who say&, 'There are some
 things you'll be happier not knowing&,' but that's simply naive&."
 
@@ -114,7 +114,7 @@ things you'll be happier not knowing&,' but that's simply naive&."
 I had a feeling that Sena had told me so&.
 What's wrong with being naive?
 
-People aren't--I'm not--all that strong&.
+People aren't―I'm not―all that strong&.
 We're always seeking someone else's salvation&.
 
 I couldn't do anything on my own&. Nor did I want to&.
@@ -131,41 +131,41 @@ I couldn't do anything on my own&. Nor did I want to&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-I stood in the center of the street and closed my eyes&. 
+I stood in the center of the street and closed my eyes&.
 
 Knowing only part of the truth&, as I did now&, was the most
-burdensome of all possible situations&. 
+burdensome of all possible situations&.
 
 "Shogun" and Di-Swords for instance&. I hadn't wanted to know about
 them&, but I'd found out&. That said if someone asked me&, "So what
-are they really&," I wouldn't be able to come up with an answer&. 
+are they really&," I wouldn't be able to come up with an answer&.
 
-I didn't know the answer&. 
+I didn't know the answer&.
 
---Shall I try to die?
-I thought as I looked up at the roof of O-Front&. 
+―Shall I try to die?
+I thought as I looked up at the roof of O-Front&.
 
 If I died&, perhaps my memories would be reset&, and it would be
 possible to replay everything&.
 
-Say&, Person Behind Me&, what do you think? 
+Say&, Person Behind Me&, what do you think?
 
 Your role-playing utterly failed this time around&. You were wrong in
-how you cultivated your character&. 
+how you cultivated your character&.
 
 You should've gone with a cooler&, more heroic character&. It had to
 be someone sociable and kind to girls&, one who would challenge the
-strong and aid the weak&, one with a fiery sense of justice&. 
+strong and aid the weak&, one with a fiery sense of justice&.
 
 You can't defeat the last boss with me&. You can't use me to clear
 your game&.
 
-Don't expect anything of me&. 
-Reset me&. 
+Don't expect anything of me&.
+Reset me&.
 
-I'm begging you&, 
+I'm begging you&,
 Take this worthless self of mine
-And erase it--
+And erase it―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -180,41 +180,41 @@ And erase it--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-No one erased me&. 
+No one erased me&.
 
 Instead came the impact of someone banging into my shoulder&.
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100020hu">
-"Hey&, you're in the way&." 
+<voice name="藤田" class="藤田" src="voice/ch07/14100020hu">
+"Hey&, you're in the way&."
 
-I thought I was hallucinating&. 
+I thought I was hallucinating&.
 
 I'd heard the female version in the morning&, so this time it must be
 the male version&. Not that I'd asked for one&. I'd rather have a more
-moe-voiced hallucination&, one I could fap to&.  
+moe-voiced hallucination&, one I could fap to&.
 
 But if they whispered sexy lines by my ear&, I'd have a boner right in
 the middle of town&, hehehe&.
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100030hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100030hu">
 "Dude&, don't ignore me&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100040yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100040yz">
 "Hey&, you&, aren't you Nishijou?"
 
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100050tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100050tg">
 "How's it feel to be the fake psychic boy?"
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100060yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100060yz">
 "You were on TV a little while ago&. Had a big audience&, didn't you?"
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100070hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100070hu">
 "Lend us a moment&, ESPer-kun&."
 
 </PRE>
@@ -230,56 +230,56 @@ the middle of town&, hehehe&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-I opened my eyes&. 
+I opened my eyes&.
 
-Three guys stood there&, surrounding me&. 
+Three guys stood there&, surrounding me&.
 
 They wore baggy clothes and had yellow&, silver and red hair&. Two had
 piercings in their ears or their nose&. One had a piercing in just his
-ear&. One was the type of ganguro man who're so rare nowadays&, 
-they're practically an protected species&. 
+ear&. One was the type of ganguro man who're so rare nowadays&,
+they're practically an protected species&.
 
-Ahh&.&.&.&. here's my death flag&, I thought&.
-Was this another "unhappiness trap"? 
-Really&, they came one after the other&.&.&.&. 
+Ahh&.&.&. here's my death flag&, I thought&.
+Was this another "unhappiness trap"?
+Really&, they came one after the other&.&.&.
 
-I'm telling you&, I don't care anymore-- 
+I'm telling you&, I don't care anymore―
 Hurry up and kill me&. Because then I'll get reset and become reborn&.
 
 
-Do you have a knife or two ready with you? 
+Do you have a knife or two ready with you?
 Stab me properly&, so I die right away&.
 
 My knees began to shake from fear&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100080ta">
-"Help!" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100080ta">
+"Help!"
 
-I yelled on instinct&. 
-It was close to a scream&. 
+I yelled on instinct&.
+It was close to a scream&.
 But I couldn't pay attention to appearances&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100090ta">
-"Somebody&, help!" 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100090ta">
+"Somebody&, help!"
 
 IdontwannadieIdontwannadieIdontwannadie!
 
-I was lying about not caring! 
+I was lying about not caring!
 
 Even in such desperate circumstances&, I don't want to die!
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100100hu">
-"Shut the fuck up&." 
+<voice name="藤田" class="藤田" src="voice/ch07/14100100hu">
+"Shut the fuck up&."
 
-They covered my mouth&. 
-I couldn't say anything&. 
+They covered my mouth&.
+I couldn't say anything&.
 They grabbed my arms on either side&.
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100110hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100110hu">
 "Make a fuss&, and you're dead&."
 
 That was when I stopped resisting&.
@@ -304,86 +304,86 @@ That was when I stopped resisting&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-They dragged me to an uninhabited alleyway&. 
+They dragged me to an uninhabited alleyway&.
 I launched a preemptive strike against the leering trio&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100120ta">
-"Fo&, forgive me&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100120ta">
+"Fo&, forgive me&.&.&."
 
 Apologizing in a quavering voice&, I prostrated myself&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100130ta">
-"If it's money you want&, I'll give you all of mine&, so&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100130ta">
+"If it's money you want&, I'll give you all of mine&, so&.&.&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100140ta">
-"So please le&, le&, let me go&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100140ta">
+"So please le&, le&, let me go&.&.&."
 
-I held my wallet out to them&. 
+I held my wallet out to them&.
 The delinquents snatched it&.
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100150hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100150hu">
 "Heh&, you're loaded&. There's what I'd expect from a boy psychic&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100160yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100160yz">
 "Gyahaha!"
 
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100170tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100170tg">
 "Gyahaha!"
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100180hu">
-"Aren't you a nice guy&. I like ya&." 
+<voice name="藤田" class="藤田" src="voice/ch07/14100180hu">
+"Aren't you a nice guy&. I like ya&."
 
-Prostrated&, I let out a breath of relief&. 
-Apparently they were going to let me escape--
+Prostrated&, I let out a breath of relief&.
+Apparently they were going to let me escape―
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100190hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100190hu">
 "I'll let you be one of my buds&. There's a million-yen fee for
 joining up with us&. And it ain't optional&. I oughta have you pay up
 straight off the bat&, but I'll give you until tonight&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100200ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100200ta">
+"&.&.&.&.&.&.&."
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100210hu">
-"Well&, I'll cu<pre>t</pre> it down by half if you show us your superpowers at
-work or something&."
+<voice name="藤田" class="藤田" src="voice/ch07/14100210hu">
+"Well&, I'll cu<pre>t</pre> it down by half if you show us
+your superpowers at work or something&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100220ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100220ta">
+"&.&.&.&.&.&.&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100230yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100230yz">
 "How's about sayin' something&, ah?"
 
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100240tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100240tg">
 "I'm tellin' ya to show us your superpowers&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100250ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100250ta">
+"&.&.&.&.&.&.&."
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100260hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100260hu">
 "Can't do it?"
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch07/14100270ta">
-"&.&.&.&.&.&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch07/14100270ta">
+"&.&.&.&.&.&.&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100280yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100280yz">
 "I'm askin' you if you can't do it!"
 
 </PRE>
@@ -398,15 +398,15 @@ work or something&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-Pain ran through my side&. 
+Pain ran through my side&.
 
-I thought I might've broken a rib&. 
+I thought I might've broken a rib&.
 
 I couldn't breathe&.
-I began to feel faint&. I had vertigo&. 
+I began to feel faint&. I had vertigo&.
 
-The foot of the thug in front of me entered my field of sight&. 
-The tip of his shoe came flying toward my face with incredible force--
+The foot of the thug in front of me entered my field of sight&.
+The tip of his shoe came flying toward my face with incredible force―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -434,9 +434,9 @@ The tip of his shoe came flying toward my face with incredible force--
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-&.&.&.&.&.&.&.&.&.&.&.&.
+&.&.&.&.&.&.&.&.&.
 
-I wondered what had happened&. 
+I wondered what had happened&.
 
 I thought I'd felt enough pain in my face to make me pass out&, but it
 might've been my imagination&.
@@ -445,27 +445,27 @@ I figured I'd open my eyes&, but my eyelids wouldn't move&. The
 darkness wouldn't disappear for me&.
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100290yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100290yz">
 "What&, already gone limp?"
 
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100300tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100300tg">
 "What'll we do? Leave it at this?"
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100310hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100310hu">
 "Shouldn't we make 'im hurt a little more?"
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100320hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100320hu">
 "It's what that Darth Spider guy told us to do&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100330yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100330yz">
 "Yeah&, he said to mess him up real bad&."
 
 //【怖いお兄さんＣ】
-<voice name="怖いお兄さんＣ" class="怖いお兄さんＣ" src="ch07/14100340qg">
+<voice name="怖いお兄さんＣ" class="怖いお兄さんＣ" src="voice/ch07/14100340qg">
 "He must really hate him to pay us money just for fucking him up&."
 
 </PRE>
@@ -480,15 +480,15 @@ darkness wouldn't disappear for me&.
 <PRE box00>
 [text009]
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100350hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100350hu">
 "Gyahahaha!"
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100360yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100360yz">
 "Gyahahaha!"
 
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100370tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100370tg">
 "Gyahahaha!"
 
 </PRE>
@@ -500,11 +500,11 @@ darkness wouldn't disappear for me&.
 <PRE box00>
 [text010]
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100380hu">
+<voice name="藤田" class="藤田" src="voice/ch07/14100380hu">
 "And so&, it's time for the sequel&."
 
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100390yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100390yz">
 "Don't hold a grudge against us&. Hehehe&."
 
 </PRE>
@@ -526,10 +526,10 @@ darkness wouldn't disappear for me&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-I'm sorry&.&.&.&. I'm sorry&.&.&.&.
+I'm sorry&.&.&. I'm sorry&.&.&.
 
-//--I wanna kill them&.
-{	SetFont("ＭＳ ゴシック", 20, #ffffff, #000000, 500, LIGHTDOWN);
+//―I wanna kill them&.
+{	SetMainFont("DroidMSGothic", 20, #ffffff, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "――I wanna kill them&.");
 	Move("テキスト１", 0, @13, @0, null, true);
 	Request("テキスト１", Erase);
@@ -540,10 +540,10 @@ I'm sorry&.&.&.&. I'm sorry&.&.&.&.
 	WaitKey(1000);
 	Fade("テキスト１", 1000, 0, null, true);
 	Delete("テキスト１");}
-I'm sorry&.&.&.&. I'm&, sorry&.&.&.&.
+I'm sorry&.&.&. I'm&, sorry&.&.&.
 
-//--I wanna kill them&.
-{	SetFont("ＭＳ ゴシック", 20, #ffffff, #000000, 500, LIGHTDOWN);
+//―I wanna kill them&.
+{	SetMainFont("DroidMSGothic", 20, #ffffff, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト２", 1000, center, middle, Auto, Auto, "――I wanna kill them&.");
 	Move("テキスト２", 0, @13, @0, null, true);
 	Request("テキスト２", Erase);
@@ -579,7 +579,7 @@ I'm sorry&.&.&.&. I'm&, sorry&.&.&.&.
 [text012]
 //◆棒のようなものでぶん殴られる。強烈な一撃を食らった
 //【鷹木】
-<voice name="鷹木" class="鷹木" src="ch07/14100400tg">
+<voice name="鷹木" class="鷹木" src="voice/ch07/14100400tg">
 "Gueeh!"
 
 //ＳＥ//振り回した棒のようなものが空を切る
@@ -590,24 +590,24 @@ I'm sorry&.&.&.&. I'm&, sorry&.&.&.&.
 	MusicStart("SE02", 0, 500, 0, 1000, null, false);}
 //◆棒のようなものでぶん殴られる。強烈な一撃を食らった
 //【安沢】
-<voice name="安沢" class="安沢" src="ch07/14100410yz">
+<voice name="安沢" class="安沢" src="voice/ch07/14100410yz">
 "Gyaa!"
 
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100420hu">
-"H&, hey&, what're you fucking around for&.&.&.&. you're kidding
-me&.&.&.&."
+<voice name="藤田" class="藤田" src="voice/ch07/14100420hu">
+"H&, hey&, what're you fucking around for&.&.&. you're kidding
+me&.&.&."
 
 //◆怯え
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100430hu">
-"Hii&.&.&.&. wh&, what's that&.&.&.&. hey&, sto&.&.&.&. quit
-it&.&.&.&."
+<voice name="藤田" class="藤田" src="voice/ch07/14100430hu">
+"Hii&.&.&. wh&, what's that&.&.&. hey&, sto&.&.&. quit
+it&.&.&."
 
 //◆泣きそう
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100440hu">
-"St&, stop it&.&.&.&. no&.&.&.&."
+<voice name="藤田" class="藤田" src="voice/ch07/14100440hu">
+"St&, stop it&.&.&. no&.&.&."
 
 //ＳＥ//振り回した棒のようなものが空を切る
 {	CreateSE("SE05","SE_人体_動作_手_棒を振り回す");
@@ -622,8 +622,8 @@ it&.&.&.&."
 	MusicStart("SE03", 0, 500, 0, 1000, null, false);}
 //◆棒のようなもので２～３発殴られる
 //【藤田】
-<voice name="藤田" class="藤田" src="ch07/14100450hu">
-"Gobah! Gugah! Ah&, gobohh&.&.&.&. uuh&, uuu&.&.&.&."
+<voice name="藤田" class="藤田" src="voice/ch07/14100450hu">
+"Gobah! Gugah! Ah&, gobohh&.&.&. uuh&, uuu&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

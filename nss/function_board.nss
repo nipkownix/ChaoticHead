@@ -5,7 +5,6 @@
 //定義
 function CreateBoard($BoardX,$BoardY)
 {
-
 	$BoardText001_use = "";
 	$BoardText002_use = "";
 	$BoardText003_use = "";
@@ -123,21 +122,45 @@ function CreateBoard($BoardX,$BoardY)
 
 function TitleBoard($タイトルテキスト)
 {
-	SetFont("ＭＳ ゴシック", 16, #660099, #999999, 100, NULL);
+	//SetFont("DroidMSGothic", 16, #660099, #999999, 100, NULL);
+	if(#SYSTEM_font_family==MSGothic){
+		$cFamName = "DroidMSGothic";
+		$cnsize = 20;
+	}else{
+		$cFamName = "DroidUbuntu";
+		$cnsize = 20;
+	}
+	SetFont($cFamName, $cnsize, #660099, #999999, 100, NULL);
 	CreateText("BoardMain/BoardTitle1", 1002, 45, 355, 720, Auto, "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　■▲▼");
 
 	Request("BoardMain/BoardTitle1", NoIcon);
 	Request("BoardMain/BoardTitle1", PushText);
 	Request("BoardMain/BoardTitle1", NoLog);
 
-	SetFont("ＭＳ ゴシック", 16, #660099, #999999, 100, NULL);
+	//SetFont("DroidMSGothic", 16, #660099, #999999, 100, NULL);
+	if(#SYSTEM_font_family==MSGothic){
+		$cFamName = "DroidMSGothic";
+		$cnsize = 20;
+	}else{
+		$cFamName = "DroidUbuntu";
+		$cnsize = 20;
+	}
+	SetFont($cFamName, $cnsize, #660099, #999999, 100, NULL);
 	CreateText("BoardMain/BoardTitle3", 1002, 46, 355, 720, Auto, "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　______");
 
 	Request("BoardMain/BoardTitle3", NoIcon);
 	Request("BoardMain/BoardTitle3", PushText);
 	Request("BoardMain/BoardTitle3", NoLog);
 
-	SetFont("ＭＳ ゴシック", 16, #000000, #999999, 100, NULL);
+	//SetFont("DroidMSGothic", 16, #000000, #999999, 100, NULL);
+	if(#SYSTEM_font_family==MSGothic){
+		$cFamName = "DroidMSGothic";
+		$cnsize = 20;
+	}else{
+		$cFamName = "DroidUbuntu";
+		$cnsize = 20;
+	}
+	SetFont($cFamName, $cnsize, #000000, #999999, 100, NULL);
 	CreateText("BoardMain/BoardTitle2", 1002, 37, 381, Auto, Auto, "$タイトルテキスト");
 
 	Request("BoardMain/BoardTitle2", NoIcon);
@@ -158,11 +181,19 @@ function EndBoard()
 ..SetBoard
 function SetBoard(ボックス名,$テキスト名)
 {
-	SetFont("ＭＳ ゴシック", 16, #000000, #999999, 100, NULL);
+	//SetFont("DroidMSGothic", 16, #000000, #999999, 100, NULL);
+	if(#SYSTEM_font_family==MSGothic){
+		$cFamName = "DroidMSGothic";
+		$cnsize = 20;
+	}else{
+		$cFamName = "DroidUbuntu";
+		$cnsize = 20;
+	}
+	SetFont($cFamName, $cnsize, #000000, #999999, 100, NULL);
 	LoadText("$構文名","ボックス名","$テキスト名",720,600,0,16);
 
 //		$テキスト名２ = "$テキスト名" + "a";
-//		SetFont("ＭＳ ゴシック", 16, #FFFFFF00, #FFFFFF00, 100, NULL);
+//		SetFont("DroidMSGothic", 16, #FFFFFF00, #FFFFFF00, 100, NULL);
 //		LoadText("$構文名","ボックス名","$テキスト名２",720,600,0,16);
 //		Request("$テキスト名２", NoIcon);
 //		Request("$テキスト名２", PushText);
@@ -173,9 +204,14 @@ function SetBoard(ボックス名,$テキスト名)
 //		NumberLine();
 //		DeleteLine();
 
-	Request("$テキスト名", NoIcon);
-	Request("$テキスト名", PushText);
-	Request("$テキスト名", NoLog);
+//	Request("$テキスト名", NoIcon);
+//	Request("$テキスト名", PushText);
+//	Request("$テキスト名", NoLog);
+	
+	Request("$SYSTEM_present_preprocess", Enter);
+	Request("$SYSTEM_present_preprocess", PushText);
+	Request("$SYSTEM_present_preprocess", NoLog);
+	
 	Move("$テキスト名", 0, @45, @$BoardBaseVertical, null, true);
 	Move("$テキスト名", 0, @0, @$BoardVertical, null, true);
 	$BoardVerticalPre = ImageVertical("$SYSTEM_present_text");

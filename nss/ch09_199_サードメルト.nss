@@ -38,34 +38,34 @@ function ch09_199_サードメルト()
 <PRE box00>
 [text001]
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch09/19900010ga">
-"He's a psychic&.&.&.&."
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900010ga">
+"He's a psychic&.&.&."
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch09/19900020gb">
-"He's the&.&.&.&. Messiah&.&.&.&." 
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch09/19900020gb">
+"He's the&.&.&. Messiah&.&.&."
 
-Someone murmured&. 
+Someone murmured&.
 
 I realized they were speaking about me because of the countless gazes
-piercing me&. 
+piercing me&.
 
-Before a vast number of people&. 
+Before a vast number of people&.
 Hazuki Shino had committed suicide by slitting her throat&.
 
-Perhaps it would be more appropriate to say she'd become a martyr&. 
-The choking smell of blood hovered in this place&. 
+Perhaps it would be more appropriate to say she'd become a martyr&.
+The choking smell of blood hovered in this place&.
 
-The riot had now completely subsided&. 
+The riot had now completely subsided&.
 
 Hazuki Shino's memories of her crimes&, which I had projected onto the
 jumbotrons&, had been ideal for silencing the agitated crowd&.
 
-Every last one of them lost all words in shock at the video&. 
+Every last one of them lost all words in shock at the video&.
 
-Hazuki Shino's corpse&, still trailing blood&. 
+Hazuki Shino's corpse&, still trailing blood&.
 Several people had walked up to it&.
-They began kicking her dead body&. 
+They began kicking her dead body&.
 
 The dead body of a violent murderer&.
 So they were saying they didn't need to pay it any respect&.
@@ -74,7 +74,7 @@ What would they do next&, decapitate her and hang her head up like we
 were in the Warring States era?
 
 What difference was there between her and the people kicking her
-corpse? 
+corpse?
 
 People were helplessly ugly&.
 Myself included&.
@@ -101,73 +101,73 @@ Myself included&.
 <PRE box00>
 [text002]
 The press swarmed around like hyenas to snap pictures for their next
-big scoop&. 
+big scoop&.
 
-About half of them went to Hazuki Shino's body&. 
+About half of them went to Hazuki Shino's body&.
 The remaining half were near me&.
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch09/19900030ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900030ga">
 "Nishijou-kun! Splendid work!"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch09/19900040gb">
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch09/19900040gb">
 "Did you just use a supernatural power!?
 You were an ESPer after all! How amazing!"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch09/19900050ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900050ga">
 "Was the gathering today intended from the start to draw out the real
 culprit?"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch09/19900060gb">
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch09/19900060gb">
 "At what age did your supernatural abilities first appear?"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch09/19900070ga">
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900070ga">
 "What were your childhood nicknames? Have you ever been called a
 wonder child or something?"
 
 //【芸能レポーターＢ】
-<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="ch09/19900080gb">
+<voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch09/19900080gb">
 "Do you have any future plans to cooperate with police
 investigations?"
 
 //【芸能レポーターＡ】
-<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="ch09/19900090ga">
-"Won't you appear on one of our station's programs?" 
+<voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900090ga">
+"Won't you appear on one of our station's programs?"
 
-They tossed them at me&, one after the other&. 
+They tossed them at me&, one after the other&.
 Words of praise&.
 
 //◆↓男
 //【祭参加者１】
-<voice name="祭参加者１" class="祭参加者１" src="ch09/19900100m1">
+<voice name="祭参加者１" class="祭参加者１" src="voice/ch09/19900100m1">
 "Nishijou! Great work!"
 
 //◆↓女
 //【祭参加者２】
-<voice name="祭参加者２" class="祭参加者２" src="ch09/19900110m2">
+<voice name="祭参加者２" class="祭参加者２" src="voice/ch09/19900110m2">
 "Kyaa! Nishijou-kuuun&, look over here!"
 
 //◆↓男
 //【祭参加者７】
-<voice name="祭参加者７" class="祭参加者７" src="ch09/19900120m7">
+<voice name="祭参加者７" class="祭参加者７" src="voice/ch09/19900120m7">
 "You're incredible!"
 
 //◆↓女
 //【祭参加者３】
-<voice name="祭参加者３" class="祭参加者３" src="ch09/19900130n3">
+<voice name="祭参加者３" class="祭参加者３" src="voice/ch09/19900130n3">
 "I love you! Please go out with me!"
 
-Words of good will&, tossed at me one after the other&. 
+Words of good will&, tossed at me one after the other&.
 
-I-- 
+I―
 
-Felt hollow&, hearing those voices&. 
+Felt hollow&, hearing those voices&.
 A false image sculpted by public opinion&, and a delusionary
-existence&. 
+existence&.
 They weren't all that different&, were they?
 
 </PRE>
@@ -183,7 +183,7 @@ They weren't all that different&, were they?
 [text003]
 //◆複数でコール
 //【祭参加者コール】
-<voice name="祭参加者コール" class="祭参加者コール" src="ch09/19900140m9">
+<voice name="祭参加者コール" class="祭参加者コール" src="voice/ch09/19900140m9">
 "Takumi! Takumi! Takumi!"
 
 </PRE>
@@ -193,7 +193,7 @@ They weren't all that different&, were they?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-That mirth returned&. 
+That mirth returned&.
 The enthusiasm they'd shown when looking up at me on the roof of
 O-Front&.
 
@@ -206,7 +206,7 @@ O-Front&.
 [text005]
 //◆複数でコール
 //【祭参加者コール】
-<voice name="祭参加者コール" class="祭参加者コール" src="ch09/19900150m9">
+<voice name="祭参加者コール" class="祭参加者コール" src="voice/ch09/19900150m9">
 "Takumi! Takumi! Takumi!"
 
 </PRE>
@@ -225,57 +225,57 @@ O-Front&.
 <PRE box00>
 [text006]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900160ta">
-"Shut the fuck up!" 
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900160ta">
+"Shut the fuck up!"
 
 Unable to take it&, I yelled&.
 
 {	CreateTextureEX("back03", 100, 0, 0, "cg/bg/bg165_03_3_O-FRONT見上げ_a.jpg");
 	Fade("back03", 500, 1000, null true);}
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900170ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900170ta">
 "You're gonna double back now and treat me like a hero!? That's so
-moronic!" 
+moronic!"
 
-Tears came out&. 
+Tears came out&.
 
-I was terribly grief-stricken&. 
-And it was so terribly ridiculous&. 
+I was terribly grief-stricken&.
+And it was so terribly ridiculous&.
 
-I couldn't get by without crying&. 
+I couldn't get by without crying&.
 
 I'm not a hero&.
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900180ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900180ta">
 "I'm a creepy otaku! A perv who faps to sexy figures of Seira-tan!"
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900190ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900190ta">
 "I'm a guy who plays eroge and goes way moe~ over them&, never mind
 that I'm not eighteen yet!"
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900200ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900200ta">
 "In my head&, I take all you bitches walking around town&, and strip
-you naked&, and have ero fantasies! That's me!" 
+you naked&, and have ero fantasies! That's me!"
 
-My face went messy with tears and snot&. 
-I forgot I was being broadcast live to the whole nation&. 
-It didn't even occur to me that I was disgracing myself again&. 
+My face went messy with tears and snot&.
+I forgot I was being broadcast live to the whole nation&.
+It didn't even occur to me that I was disgracing myself again&.
 I was incorrigible in my failure to read the atmosphere&.
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900210ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900210ta">
 "So how d'you like them apples? Tell me&, am I still a hero!?"
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900220ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900220ta">
 "No&. I'm not anything like a hero&. At the end of the day&, I'm a
 delusionary existence&, an otaku creep&, a good-for-nothing who can't
 do a single damn thing on his own!"
@@ -287,46 +287,46 @@ do a single damn thing on his own!"
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-The voices in the area went quiet&. 
+The voices in the area went quiet&.
 
-The silent spectators&. 
-The reporters showing me dubious faces&. 
+The silent spectators&.
+The reporters showing me dubious faces&.
 
-At the heart of Shibuya&. 
-In this wide pedestrian scramble&. 
+At the heart of Shibuya&.
+In this wide pedestrian scramble&.
 My voice alone rang out&.
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900230ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900230ta">
 "That's me! I won't let you people&, you strangers&, decide what kind
 of person I am! I'll be the one who decides what I'm really like!"
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900240ta">
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900240ta">
 "I'm not your toy! I'm not gonna be your exhibition!"
 
 //◆涙声
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900250ta">
-"There's something I need to do! 
-I'm not gonna act for the sake of people like you!" 
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900250ta">
+"There's something I need to do!
+I'm not gonna act for the sake of people like you!"
 
 Rimi's smile rose at the back of my head&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/19900260ta">
-"I only--" 
+<voice name="拓巳" class="拓巳" src="voice/ch09/19900260ta">
+"I only―"
 
-For the sake of the one I loved&. I would fight&. And disappear&. 
+For the sake of the one I loved&. I would fight&. And disappear&.
 
-Before I could declare so&. 
+Before I could declare so&.
 Suddenly&, I noticed how the night sky reflected at the corner of my
 sight&.
 Was going white&.
 
-Not from clouds&. 
+Not from clouds&.
 And certainly not from out-of-season snow&.
 
 By the time I realized it was the same phenomenon as what had happened
@@ -334,8 +334,8 @@ along with the earthquake&, it was already too late&.
 
 //ＶＦ//心の声
 //【将軍】
-<voice name="将軍" class="将軍" src="ch09/19900270jn">
-"The Third Melt!? Earlier than planned&.&.&.&.!"
+<voice name="将軍" class="将軍" src="voice/ch09/19900270jn">
+"The Third Melt!? Earlier than planned&.&.&.!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -359,8 +359,8 @@ along with the earthquake&, it was already too late&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-In the beginning&, the ground rumbled&.  
-The earth began shaking&. 
+In the beginning&, the ground rumbled&.
+The earth began shaking&.
 The "white" in the sky steadily spread&.
 
 </PRE>
@@ -374,11 +374,11 @@ The "white" in the sky steadily spread&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text009]
-Next&, I was assaulted by a fierce ringing in my ears&. 
-A shrill&, head-splitting resonance&. 
-Everyone around me covered their ears as well&. 
+Next&, I was assaulted by a fierce ringing in my ears&.
+A shrill&, head-splitting resonance&.
+Everyone around me covered their ears as well&.
 
-And then--
+And then―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

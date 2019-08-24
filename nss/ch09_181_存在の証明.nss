@@ -93,10 +93,10 @@ to prove I wasn't an imposter&.
 	Fade("back10", 0, 1000, null, true);
 //ＶＦ//回想セリフ
 //【梨深】
-//<voice name="梨深" class="梨深" src="ch09/18100010ri">
-//"You are&.&.&.&. a delusionary existence&."
-	SetFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&.&. a delusionary existence&.");
+//<voice name="梨深" class="梨深" src="voice/ch09/18100010ri">
+//"You are&.&.&. a delusionary existence&."
+	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("テキスト１", 0, @13, @0, null, true);
 
 //	CreateVOICE("梨深","ch09/18100010ri");
@@ -105,7 +105,7 @@ to prove I wasn't an imposter&.
 	CreateVOICE("梨深","ch09/18100010ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are&.&.&.&. a delusionary existence&", "voice/ch09/18100010ri", 梨深);
+	SetBacklog("You are&.&.&. a delusionary existence&", "voice/ch09/18100010ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -123,35 +123,35 @@ to prove I wasn't an imposter&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-No&.&.&.&. 
+No&.&.&.
 
 I'm not a delusionary existence or anything of the sort&.
 
 I'm the real thing&.
 
-I'm Nishijou Takumi&. 
+I'm Nishijou Takumi&.
 
-I'm seventeen years old&. 
+I'm seventeen years old&.
 
-I'm a junior at Suimei Academy&. 
+I'm a junior at Suimei Academy&.
 
-I'm a member of a four-person family&. 
+I'm a member of a four-person family&.
 
-I'm--
+I'm―
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100020ta">
-"Help me&.&.&.&. Prove I'm me&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100020ta">
+"Help me&.&.&. Prove I'm me&.&.&."
 
 My trembling kept my teeth from coming together properly&.
 
-They rattled&. 
-It wasn't cold&. 
+They rattled&.
+It wasn't cold&.
 Yet I was shaking&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100030ta">
-"Help me&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100030ta">
+"Help me&.&.&."
 
 Out of the four recorded numbers&, the one I picked belong to
 Misumi-kun&.
@@ -175,53 +175,53 @@ Misumi-kun&.
 [text003]
 //ＶＦ//三住のセリフは以下すべて電話の声
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100040mi">
+<voice name="三住" class="三住" src="voice/ch09/18100040mi">
 "Yes&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100050ta">
-"Ah&, Mi&, Misu&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100050ta">
+"Ah&, Mi&, Misu&.&.&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100060mi">
+<voice name="三住" class="三住" src="voice/ch09/18100060mi">
 "Takumi&, right? What's up?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100070mi">
+<voice name="三住" class="三住" src="voice/ch09/18100070mi">
 "Things go well with Rimi? Guess you must've graduated from being a
 virgin&. Hahaha&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100080mi">
+<voice name="三住" class="三住" src="voice/ch09/18100080mi">
 "Be grateful to me&. Since I was considerate enough to leave you two
-by yourselves&." 
+by yourselves&."
 
 To my relief&, Misumi-kun was the same as always&.
 
-He knew of me&, the way he was supposed to&. 
-He recognized me as Nishijou Takumi&. 
+He knew of me&, the way he was supposed to&.
+He recognized me as Nishijou Takumi&.
 
-That's why I'm not a delusionary existence or whatever&. 
+That's why I'm not a delusionary existence or whatever&.
 Rimi had only been lying after all&.
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100090mi">
+<voice name="三住" class="三住" src="voice/ch09/18100090mi">
 "Come to think of it&, Minako told me something a little while ago&."
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100100ta">
-"Eh&, Minako&.&.&.&.?"
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100100ta">
+"Eh&, Minako&.&.&.?"
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100110mi">
+<voice name="三住" class="三住" src="voice/ch09/18100110mi">
 "Yeah&, my girl&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100120mi">
+<voice name="三住" class="三住" src="voice/ch09/18100120mi">
 "Anyway&, Minako said"
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100130mi">
+<voice name="三住" class="三住" src="voice/ch09/18100130mi">
 "This past month&, why did you become so friendly with Nishijou all of
 a sudden?"
 
@@ -229,34 +229,34 @@ a sudden?"
 	MusicStart("SE03", 0, 800, 0, 1000, null, false);}
 //ＳＥ//心臓の鼓動
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100140mi">
+<voice name="三住" class="三住" src="voice/ch09/18100140mi">
 "At first I wondered what the heck she was talking about&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100150mi">
+<voice name="三住" class="三住" src="voice/ch09/18100150mi">
 "But normally&, I'd never try getting involved with a guy like you&."
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100160mi">
+<voice name="三住" class="三住" src="voice/ch09/18100160mi">
 "I sort of have memories getting to know you through Rimi&, but for
-some reason&, I can't remember the details&." 
+some reason&, I can't remember the details&."
 
-It was the same&.&.&.&.
+It was the same&.&.&.
 The same condition I'd experienced moments ago&.
 
-No&. I don't want that&. 
-Please don't say anything more&.&.&.&. 
+No&. I don't want that&.
+Please don't say anything more&.&.&.
 
 Though all he had to do was talk about girls in his usual manner and
-leave it at that&, why only today&, of all days--
+leave it at that&, why only today&, of all days―
 
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100170mi">
-"Say&, you--"
+<voice name="三住" class="三住" src="voice/ch09/18100170mi">
+"Say&, you―"
 
 //◆ダチ＝友達
 //【三住】
-<voice name="三住" class="三住" src="ch09/18100180mi">
+<voice name="三住" class="三住" src="voice/ch09/18100180mi">
 "When did you become friends with me?"
 
 </PRE>
@@ -271,18 +271,18 @@ leave it at that&, why only today&, of all days--
 <PRE box00>
 [text004]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100190ta">
-"&.&.&.&."
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100190ta">
+"&.&.&."
 
-I became frightened&. 
+I became frightened&.
 I c<pre>u</pre>t the line in a hurry&.
 
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100200ta">
-"Uu&, uuh&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100200ta">
+"Uu&, uuh&.&.&."
 
-I was about to cry&. 
-But no tears came out&. 
+I was about to cry&.
+But no tears came out&.
 There was only the sensation of my heart being pulled to shreds&.
 
 </PRE>
@@ -325,32 +325,32 @@ Or would my mom pick up?
 Would Nanami be there?
 
 //ＳＥ//電話呼び出し音
-What should I say if it went through&.&.&.&. 
+What should I say if it went through&.&.&.
 
-Would I ask them if I were their son? 
+Would I ask them if I were their son?
 
-They might think I was being an idiot&. 
+They might think I was being an idiot&.
 It was actually a pretty stupid question&.
 
-What if they said no? 
+What if they said no?
 
 Or what if they told me&, "Right now&, our son Takumi is having dinner
-with his sister Nanami in the living room"? 
+with his sister Nanami in the living room"?
 
 What if a phone call I'd made to verify I was the real thing ended up
-verifying the fact that I was an impostor? 
+verifying the fact that I was an impostor?
 
-What if they asked me&, "Who are you"? 
+What if they asked me&, "Who are you"?
 
-One negative thought rose after the other&, terrifying me&. 
+One negative thought rose after the other&, terrifying me&.
 
 I didn't want to know the result&.
-I was helplessly scared&. 
+I was helplessly scared&.
 
-I was going out of my mind&. 
-My breaths started to hurt me&. I couldn't breathe well&. 
+I was going out of my mind&.
+My breaths started to hurt me&. I couldn't breathe well&.
 
-That was when--
+That was when―
 
 {	SetVolume("SE02", 0, 0, NULL);}
 //ＳＥ//電話が繋がる
@@ -365,16 +365,16 @@ Holding the phone to my ear&, I braced myself&.
 	SoundPlay("携帯アナウンス",0,1000,false);
 
 	SetBacklog(""The current number of confirmed casualties is 233 people&, but it's
-believed the final count will surpass 3&,000--"", "voice/ch09/18100210ia", ケータイアナウンス);
+believed the final count will surpass 3&,000―"", "voice/ch09/18100210ia", ケータイアナウンス);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
 //◆「お掛け直しください」というアナウンスの途中で切った
 //【ケータイアナウンス】
-//<voice name="ケータイアナウンス" class="ケータイアナウンス" src="ch09/18100210ia">
+//<voice name="ケータイアナウンス" class="ケータイアナウンス" src="voice/ch09/18100210ia">
 "The phone number you have placed a call to is currently out of use&.
-Please double-check the number before calling agai--"
+Please double-check the number before calling agai―"
 {	$待ち時間 = RemainTime ("携帯アナウンス");
 	$待ち時間 -= 300;
 	WaitKey($待ち時間);}
@@ -401,12 +401,12 @@ Please double-check the number before calling agai--"
 <PRE box00>
 [text007]
 //【拓巳】
-<voice name="拓巳" class="拓巳" src="ch09/18100220ta">
-"Hehe&.&.&.&. hehe&.&.&.&." 
+<voice name="拓巳" class="拓巳" src="voice/ch09/18100220ta">
+"Hehe&.&.&. hehe&.&.&."
 
-No one would verify that I was me&. 
-No one was there to prove it for me&. 
-I wanted to die&.&.&.&.
+No one would verify that I was me&.
+No one was there to prove it for me&.
+I wanted to die&.&.&.
 
 {	SetVolume("SE01", 500, 800, NULL);}
 //ＳＥ//車が行き交う音
@@ -417,7 +417,8 @@ number of cars coming and going across it&.
 Maybe I would be better off dead&.
 There was no value to an impostor's life&.
 
-Even if a monster stayed in this world&, he'd only be persec<pre>u</pre>ted&.
+Even if a monster stayed in this world&, he'd only be
+persec<pre>u</pre>ted&.
 
 I had neither hopes nor dreams&.
 
