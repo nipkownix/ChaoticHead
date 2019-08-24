@@ -1194,7 +1194,7 @@ after day was pretty stressful&.
 [text026]
 {#TIPS_アバター=true;}
 //というわけでこうして別<FONT incolor="#88abda" outcolor="BLACK">アバター</FONT>を作ってプレイしてるんだ。
-//Which was why I'd made a different avatar for playing with&.
+Which was why I'd made a different <FONT incolor="#88abda" outcolor="BLACK">avatar</FONT> for playing with&.
 
 //こっちで使ってるのは『リーゼロッテ』っていう女キャラ。
 //ただ、リーゼロッテの戦歴は今ひとつパッとしない。徹底して引き立て役をやらせているからね。
