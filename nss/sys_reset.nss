@@ -83,8 +83,6 @@ chapter main
 			
 			$InDialog=true;
 			call_chapter nss/sys_close.nss;
-			$SYSTEM_buttondown_close=false;
-			$SYSTEM_keydown_esc=false;
 			$InDialog=false;
 			
 			Fade("WND/MSG_msg",200,1000,null,false);

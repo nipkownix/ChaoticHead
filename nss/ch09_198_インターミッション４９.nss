@@ -150,7 +150,7 @@ Blood sprayed out&, landing on her face&.
 //Ÿœ’›
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="ch09/19800040hd">
-"Fufu&.&.&.&. May the light of God save you&.&.&.&." 
+"Fufu&.&.&.&. May the Divine Light save you&.&.&.&." 
 
 She put both hands to her victim's wound&. 
 

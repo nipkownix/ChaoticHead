@@ -298,7 +298,7 @@ future!
 	Request("テキスト１", Enter);
 	WaitAction("テキスト１", null);
 
-	SetBacklog("「あなたには、予知能力がありますか？」", "voice/ch02/03700050yu", 優愛);
+	SetBacklog("Do you have precognitive powers?", "voice/ch02/03700050yu", 優愛);
 
 	$待ち時間 = RemainTime ("優愛");
 	$待ち時間 += 500;

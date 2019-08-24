@@ -29,16 +29,6 @@ chapter main
 //ＳＥ//雨
 //冒頭はルックアップレインのMPEG
 
-function testey()
-{
-	$lpfcount=0;
-	$Loopf=true;
-	while($Loopf)
-	{
-		Wait(300);
-	}
-}
-
 function Lfull()
 {
 	$lpfcount=0;
@@ -234,9 +224,8 @@ WaitKey($待ち時間);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin3(0);//――――――――――――――――――――――――――――――
-	WaitKey();
-	CreateProcess("testey", 150, 0, 0, "testey");
-	Request("Lfull", Start);
+
+
 	Delete("タクミ３");
 
 if(#voice_skip_拓巳 != 1)

@@ -175,6 +175,8 @@ chapter main
 	WaitFade("mnu_img_*",null);
 	$SYSTEM_menu_enable=true;
 	$SYSTEM_menu_close_enable=false;
+	$SYSTEM_buttondown_close=false;
+	$SYSTEM_keydown_esc=false;
 	while($SYSTEM_menu_enable){
 		select{
 			case	mnuCANCEL{
@@ -250,8 +252,6 @@ chapter main
 				}
 			}else if($SYSTEM_menu_enable&&$SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 				call_chapter nss/sys_close.nss;
-				$SYSTEM_buttondown_close=false;
-				$SYSTEM_keydown_esc=false;
 			}
 		}
 	}

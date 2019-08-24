@@ -61,8 +61,7 @@ function ch04_074_óúê[ÇÃñœëzê¢äE()
 
 Å\I wished for it&.
 
-{	
-	CreateMovie("movie01", 200, Center, -100, true, false, "dx/mvSea.ngs");
+{	CreateMovie("movie01", 200, Center, -100, true, false, "dx/mvSea.ngs");
 	Fade("movie01", 0, 0, null, false);
 	Request("movie01", Play);
 	Move("movie01", 3000, @+0, -50, null, false);

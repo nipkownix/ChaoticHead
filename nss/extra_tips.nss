@@ -7,7 +7,6 @@
 
 chapter main
 {
-	$SYSTEM_tips_enable=true;
 	CreateColor("tps_BLK",1100,0,0,800,600,BLACK);
 	Fade("tps_BLK",0,0,null,false);
 	Fade("tps_BLK",300,1000,null,true);
@@ -60,7 +59,6 @@ chapter main
 			}
 			if($SYSTEM_r_button_down){
 				$tpsExit=true;
-				$SYSTEM_tips_enable=false;
 				break;
 			}
 			case tps_TITLE_BAR{}
@@ -163,10 +161,7 @@ chapter main
 			case @tps_ITEM96{extTips_item_select(96);#TIPS_CLICKED_96=true;Fade("@WND_title/tps_ITEM_title_clicked96",0,1000,null,false);Fade("@WND_title/tps_ITEM_title96",0,0,null,false);}
 			case @tps_ITEM97{extTips_item_select(97);}
 			
-			case tps_EXIT{
-				$SYSTEM_tips_enable=false;
-				$tpsExit=true;
-			}
+			case tps_EXIT{$tpsExit=true;}
 			
 			//★キーダウン系
 			if($SYSTEM_keydown_f){
@@ -178,10 +173,10 @@ chapter main
 				}
 			}else if($SYSTEM_menu_enable&&$SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 				if(!$PLACE_title){
+					$tps_close=true;
 					call_chapter nss/sys_close.nss;
+					$tps_close=false;
 				}
-				$SYSTEM_buttondown_close=false;
-				$SYSTEM_keydown_esc=false;
 			}
 		}
 		Wait(8);

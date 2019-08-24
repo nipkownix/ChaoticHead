@@ -389,6 +389,8 @@ chapter main
 	Fade("video",300,0,null,true);
 	$SYSTEM_menu_config_enable=true;
 	$SYSTEM_menu_close_enable=false;
+	$SYSTEM_buttondown_close=false;
+	$SYSTEM_keydown_esc=false;
 	$SYSTEM_r_button_down=false;
 	while($SYSTEM_menu_config_enable)
 	{
@@ -480,11 +482,11 @@ chapter main
 				}case TAB1_select_MessageSpeed{
 					#SYSTEM_text_speed=(1-ScrollbarValue("TAB1_select_MessageSpeed"))*1000;
 				}case TAB1_select_CancelAutoAndSkipON{
-					#StopAutoAndSkip=true;
+					#keep_auto_and_skip=false;
 					Fade("TAB1_check_CancelAutoAndSkipOFF",200,0,null,false);
 					Fade("TAB1_check_CancelAutoAndSkipON",200,1000,null,false);
 				}case TAB1_select_CancelAutoAndSkipOFF{
-					#StopAutoAndSkip=false;
+					#keep_auto_and_skip=true;
 					Fade("TAB1_check_CancelAutoAndSkipON",200,0,null,false);
 					Fade("TAB1_check_CancelAutoAndSkipOFF",200,1000,null,false);
 				}case TAB1_select_AbsoluteSkipON{
@@ -530,8 +532,6 @@ chapter main
 					if(!$PLACE_title){
 						call_chapter nss/sys_close.nss;
 					}
-					$SYSTEM_buttondown_close=false;
-					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else if($cfgtab==2){
@@ -708,8 +708,6 @@ chapter main
 					if(!$PLACE_title){
 						call_chapter nss/sys_close.nss;
 					}
-					$SYSTEM_buttondown_close=false;
-					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else if($cfgtab==3){
@@ -802,8 +800,6 @@ chapter main
 					if(!$PLACE_title){
 						call_chapter nss/sys_close.nss;
 					}
-					$SYSTEM_buttondown_close=false;
-					$SYSTEM_keydown_esc=false;
 				}
 			}
 		}else{
@@ -938,10 +934,10 @@ function cfgHighlight()
 		}
 		$pos=1000*(1-(#SYSTEM_text_speed/1000));
 		CreateScrollbar("TAB1_select_MessageSpeed",10100,505,380,646,380,$pos,HORIZON,"IMG_csr");
-		if(#StopAutoAndSkip){
-			Fade("TAB1_check_CancelAutoAndSkipON",0,1000,null,false);
-		}else{
+		if(#keep_auto_and_skip){
 			Fade("TAB1_check_CancelAutoAndSkipOFF",0,1000,null,false);
+		}else{
+			Fade("TAB1_check_CancelAutoAndSkipON",0,1000,null,false);
 		}
 		if(#SYSTEM_skip_absolute){
 			Fade("TAB1_check_AbsoluteSkipON",0,1000,null,false);
@@ -1090,12 +1086,11 @@ function cfgCharacterVoice()
 function cfgDefault()
 {
 	#SYSTEM_play_speed=3;
-	#SYSTEM_font_family=RodinBokutoh;
+	#SYSTEM_font_family=MSGothic;
 	#SYSTEM_text_speed=500;
 	#SYSTEM_break_play_movie=true;
 	#‰º’…ƒpƒbƒ`=false;
-	#StopAutoAndSkip=true;
-	#keep_auto_and_skip=true;
+	#keep_auto_and_skip=false;
 	#SYSTEM_skip_absolute=false;
 	#SYSTEM_click_break_voice=false;
 	#SYSTEM_sound_bgm=true;

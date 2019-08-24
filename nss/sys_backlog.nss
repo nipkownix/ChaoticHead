@@ -63,6 +63,8 @@ chapter main
 	
 	$SYSTEM_backlog_enable=TRUE;
 	$SYSTEM_menu_close_enable=FALSE;
+	$SYSTEM_buttondown_close=false;
+	$SYSTEM_keydown_esc=false;
 	while(EnableBacklog()&&$SYSTEM_backlog_enable)
 	{
 		select
@@ -85,8 +87,6 @@ chapter main
 				}
 			}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 				call_chapter nss/sys_close.nss;
-				$SYSTEM_buttondown_close=false;
-				$SYSTEM_keydown_esc=false;
 			}else if($bklg_line!=BacklogLine()){
 				Wait(8);
 			}

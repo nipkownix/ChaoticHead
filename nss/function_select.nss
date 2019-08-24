@@ -64,7 +64,7 @@ function InitTrigger()
 
 function SetTrigger("$–Ï‘zƒgƒŠƒK[–¼")
 {
-	if(#StopAutoAndSkip){
+	if(!#keep_auto_and_skip){
 		$SYSTEM_skip = false;
 		$SYSTEM_text_auto = false;
 	}

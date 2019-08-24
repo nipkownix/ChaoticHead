@@ -260,6 +260,8 @@ function savemanage()
 	WaitMove("@savenum_*/MouseUsual/*");
 	WaitMove("@savenum_empty_*");
 	$SYSTEM_menu_close_enable=false;
+	$SYSTEM_buttondown_close=false;
+	$SYSTEM_keydown_esc=false;
 	$SYSTEM_r_button_down=false;
 	while($SYSTEM_menu_save_enable)
 	{
@@ -319,8 +321,6 @@ function savemanage()
 				if(!$PLACE_title){
 					call_chapter nss/sys_close.nss;
 				}
-				$SYSTEM_buttondown_close=false;
-				$SYSTEM_keydown_esc=false;
 			}
 			}
 		}
@@ -401,8 +401,6 @@ function do_save($num)
 					if(!$PLACE_title){
 						call_chapter nss/sys_close.nss;
 					}
-					$SYSTEM_buttondown_close=false;
-					$SYSTEM_keydown_esc=false;
 					$InDialog=false;
 					
 					Fade("MSGWND/MSG_msg",200,1000,null,false);
