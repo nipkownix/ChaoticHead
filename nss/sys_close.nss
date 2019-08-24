@@ -1,0 +1,88 @@
+//=============================================================================//
+//■終了確認■
+//=============================================================================//
+chapter main
+{
+	$SYSTEM_menu_close_enable=true;
+	if((!$Title_Exit&&$PLACE_title)||(!$Title_Exit&&!$SL_Exit&&!$SYSTEM_menu_config_enable&&!$SYSTEM_menu_save_enable&&!$SYSTEM_menu_load_enable&&!$SYSTEM_menu_enable&&!$SYSTEM_backlog_enable)){
+		if(!$InDialog){
+			CreateTexture("video",1010000,center,middle,"VIDEO");
+		}
+	}
+	
+	if(!$PLACE_title&&!$SL_Exit&&!$SYSTEM_menu_config_enable&&!$SYSTEM_backlog_enable&&!$SYSTEM_menu_save_enable&&!$SYSTEM_menu_load_enable&&!$tps_close){
+		CreateWindow("WND",1010000,0,51,800,419,false);
+	}else{
+		CreateWindow("WND",1010000,0,0,800,600,false);
+	}
+	
+	if($Title_Exit&&!$SL_Exit){
+		CreateColor("BLACK",1112000,center,middle,800,600,BLACK);
+		Fade("BLACK",0,0,null,true);
+		Fade("BLACK",500,1000,null,true);
+		
+		Exit();
+	}
+	
+	LoadImage("WND/IMG_yes_on","cg/sys/dialog/yes-明るい.png");
+	LoadImage("WND/IMG_yes_off","cg/sys/dialog/yes-暗い.png");
+	LoadImage("WND/IMG_no_on","cg/sys/dialog/no-明るい.png");
+	LoadImage("WND/IMG_no_off","cg/sys/dialog/no-暗い.png");
+	
+	if(!$InDialog){
+		CreateTexture("WND/MSG_bak",1010000,0,0,"cg/sys/dialog/keepout.png");
+	}
+	CreateTexture("WND/MSG_msg",1010000,298,213,"cg/sys/dialog/ゲームを終了しますか？.png");
+	CreateChoice("WND/MSG_yes");
+	CreateTexture("WND/MSG_yes/MouseUsual/img",1012000,329,294,"WND/IMG_yes_off");
+	CreateTexture("WND/MSG_yes/MouseOver/img",1011000,329,294,"WND/IMG_yes_on");
+	CreateTexture("WND/MSG_yes/MouseClick/img",1011000,329,294,"WND/IMG_yes_on");
+	CreateChoice("WND/MSG_no");
+	CreateTexture("WND/MSG_no/MouseUsual/img",1012000,408,294,"WND/IMG_no_off");
+	CreateTexture("WND/MSG_no/MouseOver/img",1011000,408,294,"WND/IMG_no_on");
+	CreateTexture("WND/MSG_no/MouseClick/img",1011000,408,294,"WND/IMG_no_on");
+	SetNextFocus("WND/MSG_yes/MouseUsual/img","WND/MSG_no/MouseUsual/img",LEFT);
+	SetNextFocus("WND/MSG_yes/MouseUsual/img","WND/MSG_no/MouseUsual/img",RIGHT);
+	SetNextFocus("WND/MSG_yes/MouseUsual/img","WND/MSG_no/MouseUsual/img",DOWN);
+	SetNextFocus("WND/MSG_yes/MouseUsual/img","WND/MSG_no/MouseUsual/img",UP);
+	SetNextFocus("WND/MSG_no/MouseUsual/img","WND/MSG_yes/MouseUsual/img",LEFT);
+	SetNextFocus("WND/MSG_no/MouseUsual/img","WND/MSG_yes/MouseUsual/img",RIGHT);
+	SetNextFocus("WND/MSG_no/MouseUsual/img","WND/MSG_yes/MouseUsual/img",DOWN);
+	SetNextFocus("WND/MSG_no/MouseUsual/img","WND/MSG_yes/MouseUsual/img",UP);
+	
+	Fade("WND/MSG_*",0,0,null,false);
+	Fade("WND/MSG_*/*/*",0,0,null,false);
+	
+	Move("WND/MSG_*/*/*",0,@0,@-8,null,true);
+	Move("WND/MSG_msg",0,@0,@-8,null,true);
+	Fade("WND/MSG_bak",200,1000,null,false);
+	Move("WND/MSG_*/*/*",300,@0,@8,null,false);
+	Move("WND/MSG_msg",300,@0,@8,null,false);
+	Fade("WND/MSG_*",300,1000,null,false);
+	Fade("WND/MSG_*/MouseUsual/*",200,1000,null,false);
+	
+	WaitAction("WND/MSG_*");
+	$SYSTEM_r_button_down=false;
+	select{
+		if($SYSTEM_r_button_down){break;}
+		case	WND/MSG_no{
+		}case	WND/MSG_yes{
+			CreateColor("BLACK",1112000,center,middle,800,600,BLACK);
+			Fade("BLACK",0,0,null,true);
+			Fade("BLACK",500,1000,null,true);
+			
+			Wait(300);
+			Exit();
+		}
+		
+		if(!$SYSTEM_menu_close_enable){break;}
+	}
+	
+	Fade("WND/MSG_*",200,0,null,false);
+	Fade("WND/MSG_*/*/*",100,0,null,false);
+	WaitAction("WND/MSG_*");
+	
+	Delete("*");
+	
+	$SYSTEM_menu_close_enable=FALSE;
+}
