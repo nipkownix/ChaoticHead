@@ -324,9 +324,10 @@ Even vaster cheers of delight rose from the audience&.
 //	SoundPlay("@CH_INS_FES_ƒ‰ƒCƒ”",0,1000,true);
 
 	$Y‘Å‚¿ = 1;
-	CreateBGM("Y‚ğ‘Å‚Ä‚P","CH_INS_FES_ƒ‰ƒCƒ”");
-	SetStream("Y‚ğ‘Å‚Ä‚P", 24300);
-	MusicStart("Y‚ğ‘Å‚Ä‚P", 1000, 1000, 0, 1000, null, false);
+	CreateSound("Y‚ğ‘Å‚Ä‚P", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
+	SoundPlay("Y‚ğ‘Å‚Ä‚P",0,1,false);
+	SetStream("Y‚ğ‘Å‚Ä‚P", 12000);
+	SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 1000, NULL);
 
 	Wait(1000);
 
@@ -419,9 +420,12 @@ The lyrics made me go tense&.
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
 	
 		$Y‘Å‚¿ = 2;
-		CreateBGM("Y‚ğ‘Å‚Ä‚Q","CH_INS_FES_ƒ‰ƒCƒ”");
-		SetStream("Y‚ğ‘Å‚Ä‚Q", 24300);
-		MusicStart("Y‚ğ‘Å‚Ä‚Q", 1000, 1000, 0, 1000, null, false);
+		CreateSound("Y‚ğ‘Å‚Ä‚Q", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
+		SetVolume("Y‚ğ‘Å‚Ä‚Q", 0, 0, NULL);
+		SetAlias("Y‚ğ‘Å‚Ä‚Q", "Y‚ğ‘Å‚Ä‚Q");
+		SoundPlay("Y‚ğ‘Å‚Ä‚Q",0,1,false);
+		SetStream("Y‚ğ‘Å‚Ä‚Q", 33000);
+		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 1000, NULL);
 	}
 
 	Wait(3000);
@@ -482,9 +486,12 @@ At the end&, she repeated the chorus over and over&.
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
 		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 0, NULL);
 
-		CreateBGM("Y‚ğ‘Å‚Ä‚R","CH_INS_FES_ƒ‰ƒCƒ”");
-		SetStream("Y‚ğ‘Å‚Ä‚R", 24300);
-		MusicStart("Y‚ğ‘Å‚Ä‚R", 1000, 1000, 0, 1000, null, false);
+		CreateSound("Y‚ğ‘Å‚Ä‚R", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
+		SetVolume("Y‚ğ‘Å‚Ä‚R", 0, 0, NULL);
+		SetAlias("Y‚ğ‘Å‚Ä‚R", "Y‚ğ‘Å‚Ä‚R");
+		SoundPlay("Y‚ğ‘Å‚Ä‚R",0,1,false);
+		SetStream("Y‚ğ‘Å‚Ä‚R", 286000);
+		SetVolume("Y‚ğ‘Å‚Ä‚R", 1000, 1000, NULL);
 	}
 
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
