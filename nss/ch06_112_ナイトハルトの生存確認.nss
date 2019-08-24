@@ -224,7 +224,7 @@ flicked my eyes toward the chat window&.
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", PushText);
-	Zoom("テキスト１", 0, 8000, 8000, null, true);
+	Zoom("テキスト１", 0, 7000, 7000, null, true);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 	WaitAction("テキスト１", null);

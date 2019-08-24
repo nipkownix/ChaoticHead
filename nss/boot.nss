@@ -1354,7 +1354,7 @@ function TitleSelect()
 
 				CreateTexture("タイトルブラー１", 1000, 0, 0, "SCREEN");
 				Fade("タイトルカラー", 0, 1000, null, true);
-				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mvSandstormAN.ngs");
+				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mvStart.ngs");
 				Fade("タイトルムービー", 0, 0, null, true);
 				CreateColor("タイトルカラー２", 1000, 0, 0, 800, 600, "BLACK");
 				Fade("タイトルカラー２", 0, 0, null, true);
