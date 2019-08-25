@@ -205,16 +205,13 @@ But all of them formed the same sentence―
 */
 
 	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "<BR><BR>634  Name: Shogun [age] ：07/30(M) 04:47:51  ID:5/scZ8Gg<BR>Whose eyes are those eyes?");
-	Move("テキスト１", 0, @13, @0, null, true);
-	Request("テキスト１", Erase);
-	Request("テキスト１", Enter);
+	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "634  Name: Shogun [age] ：07/30(M) 04:47:51  ID:5/scZ8Gg<BR>Whose eyes are those eyes?");
+	Move("テキスト１", 0, @13, @80, null, true);
+	Request("テキスト１", PushText);
+	Request("テキスト１", NoLog);
 	Request("テキスト１", NoIcon);
-	WaitAction("テキスト１", null);
 
-	WaitKey(1000);
-	Fade("テキスト１", 1000, 0, null, true);
-	Delete("テキスト１");
+	Wait(3000);
 
 //※「その目だれの目？」というレスを、書き込みウインドウに実際にローマ字入力するように１文字ずつ表示させていき、最後にそのウインドウが消えてスレ表示ウインドウにそのレスが新たに表示されるといいかも
 
@@ -224,7 +221,7 @@ But all of them formed the same sentence―
 
 //ＳＥ//衝撃音
 //～～Ｆ・Ｏ
-	/*WaitKey();*/
+	
 	SoundPlay("SE*", 2000, 0, false);
 
 	ClearAll(2000);

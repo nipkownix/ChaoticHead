@@ -3120,9 +3120,19 @@ And what leapt into my relieved sight was―
 	CreateMovie("ムービー２", 2000, 0, 0, true, false, "dx/mvEye02.ngs");
 
 //――――――――――――――――――――――――――――――――――――――
-<PRE box00>
+<PRE @box01>
 [text166]
 //将軍：その目だれの目？
+Shogun: Whose eyes are those eyes?
+</PRE>
+	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#AAFF2D);
+	SoundChat(0,0,false);
+	TypeChat("0");
+	
+	//WaitKey();
+	
+<PRE box00>
+[text167]
 Shogun: Whose eyes are those eyes?
 
 </PRE>
@@ -3131,8 +3141,6 @@ Shogun: Whose eyes are those eyes?
 	//SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#AAFF2D);
 	//SoundChat(0,0,false);
 	//TypeChat("0");
-
-	WaitKey();
 
 //しばらくウェイトしてＦ・Ｏ～～
 	ClearAll(2000);
