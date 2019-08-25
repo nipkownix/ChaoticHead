@@ -90,16 +90,10 @@ function SetMmo("ボックス名","$テキスト名",テキスト色)
 	SetFont($mFamName, $mnsize, テキスト色, #000000, 500, LIGHTDOWN);
 	LoadText("$構文名","ボックス名","$テキスト名",540,200,0,25);
 
-//	Request("$テキスト名", NoIcon);
-//	Request("$テキスト名", PushText);
-//	Fade("$テキスト名", 0, 0, null, true);
-
-	Request("$SYSTEM_present_preprocess", Enter);
-	Request("$SYSTEM_present_preprocess", NoIcon);
-	Request("$SYSTEM_present_preprocess", PushText);
-	Request("$SYSTEM_present_preprocess", NoLog);
-	
-	Fade("$SYSTEM_present_text", 0, 0, null, true);
+	Request("$テキスト名", Enter);
+	Request("$テキスト名", NoIcon);
+	Request("$テキスト名", PushText);
+	Fade("$テキスト名", 0, 0, null, true);
 
 //	$色名 = "$テキスト名" + "/ChatLine";
 //	CreateTexture("$色名", 1000, 0, OutBottom, "MmoWindow/MmoColor");

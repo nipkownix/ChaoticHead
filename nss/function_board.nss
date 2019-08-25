@@ -204,14 +204,10 @@ function SetBoard(ボックス名,$テキスト名)
 //		NumberLine();
 //		DeleteLine();
 
-//	Request("$テキスト名", NoIcon);
-//	Request("$テキスト名", PushText);
-//	Request("$テキスト名", NoLog);
-	
-	Request("$SYSTEM_present_preprocess", Enter);
-	Request("$SYSTEM_present_preprocess", PushText);
-	Request("$SYSTEM_present_preprocess", NoLog);
-	
+	Request("$テキスト名", Enter);
+	Request("$テキスト名", NoIcon);
+	Request("$テキスト名", PushText);
+	Request("$テキスト名", NoLog);
 	Move("$テキスト名", 0, @45, @$BoardBaseVertical, null, true);
 	Move("$テキスト名", 0, @0, @$BoardVertical, null, true);
 	$BoardVerticalPre = ImageVertical("$SYSTEM_present_text");
