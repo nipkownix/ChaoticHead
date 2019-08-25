@@ -387,8 +387,7 @@ This must be someone's 'guidance' too&, lol
 [text924]
 <FONT incolor="#0000ff"><U>24</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:42:54  <FONT incolor="#0000ff"><U>ID:</U></FONT>cc23WrJm
 　
-<PRE>|д<◎>)&.｡oO</PRE>(The one watching you was me&.&.&. Kishimoto
-Ayase)
+<PRE>|д<◎>)&.｡oO</PRE>(The one watching you was me&.&.&. Kishimoto Ayase)
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -435,8 +434,7 @@ Tonight'll be a Black Mass-!!1!!11!
 <PRE>Young FES-tan (;ﾟ∀ﾟ)=3ﾊｧﾊｧ</PRE>
 　
 But this means Phantasm is dead for sure&.
-Part of me thinks it fits them to end like this before going
-mainstream&.
+Part of me thinks it fits them to end like this before going mainstream&.
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -456,10 +454,8 @@ Still no comment on FES's official site?
 <PRE @box03>
 [text930]
 <FONT incolor="#0000ff"><U>30</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:46:11  <FONT incolor="#0000ff"><U>ID:</U></FONT>+k1PC04
-Nothing's gonna happen no matter how much @channel virgins make a
-ruckus online&, hahahahahahaha
-FES looks at the future&, not the past&. She's gonna predict your
-deaths hahahahaha
+Nothing's gonna happen no matter how much @channel virgins make a ruckus online&, hahahahahahaha
+FES looks at the future&, not the past&. She's gonna predict your deaths hahahahaha
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -480,8 +476,7 @@ Wait&, is there some kind of problem with this?
 [text932]
 <FONT incolor="#0000ff"><U>32</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader </FONT>［age］：200X/10/27(M) 10:46:37  <FONT incolor="#0000ff"><U>ID:</U></FONT>mfqH7MW3
 <FONT incolor="#0000ff"><U><PRE>>>9</PRE></U> <U><PRE>>>11</PRE></U></FONT>
-Nice try&, we know you're one of them&. Must be desperate to
-keep the band going&, lol
+Nice try&, we know you're one of them&. Must be desperate to keep the band going&, lol
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -493,6 +488,7 @@ keep the band going&, lol
 <FONT incolor="#0000ff"><U>33</U></FONT>  Name: <FONT incolor="#228b22">Voice of a nameless reader</FONT>［age］：200X/10/27(M) 10:48:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>KSP4inc
 We knew all along that FES was a little weird in the head&.
 What's the big deal now?
+
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBoard(500,true);//――――――――――――――――――――――――――――――
@@ -530,9 +526,7 @@ It's all a huge hoax by FES-tan!
 FES must've broken down because of the malice filling the world&.
 That was the power that awoke her punk-rocker soul&.
 Those keen&, aggressive lyrics are the sublimated cries of her soul&.
-On the contrary&, we ought to unconditionally bless the facts given
-out by <FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT>
-
+On the contrary&, we ought to unconditionally bless the facts given out by <FONT incolor="#0000ff"><U><PRE>>></PRE>12</U></FONT>
 
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -213,10 +213,7 @@ fatalities</FONT>
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text901]
-<FONT incolor="#0000ff"><U>684</U></FONT>  Name: <FONT
-incolor="#228b22">Sketchy editor (Tokyo
-area)</FONT>［age］：200X/10/27(M) 17:06:33  <FONT
-incolor="#0000ff"><U>ID:</U></FONT>KibAyAsHI
+<FONT incolor="#0000ff"><U>684</U></FONT>  Name: <FONT incolor="#228b22">Sketchy editor (Tokyo area)</FONT>［age］：200X/10/27(M) 17:06:33  <FONT incolor="#0000ff"><U>ID:</U></FONT>KibAyAsHI
 Didn't "Whose eyes are those eyes" cause this earthquake?
 　
 </PRE>
@@ -226,9 +223,7 @@ Didn't "Whose eyes are those eyes" cause this earthquake?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>685</U></FONT>  Name: <FONT
-incolor="#228b22">Plumber (Alaska)</FONT>［age］：200X/10/27(M)
-17:07:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>FoxnWoV91
+<FONT incolor="#0000ff"><U>685</U></FONT>  Name: <FONT incolor="#228b22">Plumber (Alaska)</FONT>［age］：200X/10/27(M) 17:07:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>FoxnWoV91
 <PRE>Ω ΩΩ< </PRE>Wh&, what're you saying-!!
 　
 </PRE>
@@ -238,10 +233,7 @@ incolor="#228b22">Plumber (Alaska)</FONT>［age］：200X/10/27(M)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text903]
-<FONT incolor="#0000ff"><U>686</U></FONT>  Name: <FONT
-incolor="#228b22">Sea angel breeder (West
-Kantou)</FONT>［age］：200X/10/27(M) 17:08:43  <FONT
-incolor="#0000ff"><U>ID:</U></FONT>Wr3mqsBI0
+<FONT incolor="#0000ff"><U>686</U></FONT>  Name: <FONT incolor="#228b22">Sea angel breeder (West Kantou)</FONT>［age］：200X/10/27(M) 17:08:43  <FONT incolor="#0000ff"><U>ID:</U></FONT>Wr3mqsBI0
 Whose eyes are those eyes  AWESOOOOMMMEEE!!1!!11
 　
 </PRE>
@@ -251,10 +243,7 @@ Whose eyes are those eyes  AWESOOOOMMMEEE!!1!!11
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text904]
-<FONT incolor="#0000ff"><U>687</U></FONT>  Name: <FONT
-incolor="#228b22">Minister of Education (Iriomote
-Island)</FONT>［age］：200X/10/27(M) 17:08:57  <FONT
-incolor="#0000ff"><U>ID:</U></FONT>GaF0rUkB4
+<FONT incolor="#0000ff"><U>687</U></FONT>  Name: <FONT incolor="#228b22">Minister of Education (Iriomote Island)</FONT>［age］：200X/10/27(M) 17:08:57  <FONT incolor="#0000ff"><U>ID:</U></FONT>GaF0rUkB4
 <FONT incolor="#0000ff"><U>>>684</U></FONT>
 That's it! That's the reason 118 people died in a magnitude 5
 earthquake&, lololololol urgh lolololol

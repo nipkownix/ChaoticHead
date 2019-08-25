@@ -361,9 +361,7 @@ Phantasm【New Gen】43" and started skimming it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text901]
-<FONT incolor="#0000ff"><U>525</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(T)
-10:24:27  <FONT incolor="#0000ff"><U>ID:</U></FONT>O983t+Tt
+<FONT incolor="#0000ff"><U>525</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(T) 10:24:27  <FONT incolor="#0000ff"><U>ID:</U></FONT>O983t+Tt
 Calm down&, guys(-_-)
 For now&, just go to the show on Sunday
 And enjoy FES-sama's Black Mass to the fullest
@@ -384,9 +382,7 @@ Otherwise&, you'll get staked to death lol
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>526</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(T)
-10:25:27  <FONT incolor="#0000ff"><U>ID:</U></FONT>O983t+Tt
+<FONT incolor="#0000ff"><U>526</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(T) 10:25:27  <FONT incolor="#0000ff"><U>ID:</U></FONT>O983t+Tt
 I read the lyrics&, but I couldn't really take them in
 They say stuff too vaguely&, makes for a pretty shitty prophecy
 But spare me from being staked&, heh
@@ -399,11 +395,8 @@ But spare me from being staked&, heh
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text903]
-<FONT incolor="#0000ff"><U>527</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-10:40:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>e7dNY8Ks
-lol&. Precognition&, prophecies&, you're making too big a deal out of
-it
+<FONT incolor="#0000ff"><U>527</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 10:40:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>e7dNY8Ks
+lol&. Precognition&, prophecies&, you're making too big a deal out of it
 She's not Nostradamus&. Just enjoy the music
 　
 </PRE>
@@ -413,9 +406,7 @@ She's not Nostradamus&. Just enjoy the music
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text904]
-<FONT incolor="#0000ff"><U>528</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-10:49:59  <FONT incolor="#0000ff"><U>ID:</U></FONT>RiFvdjz1
+<FONT incolor="#0000ff"><U>528</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 10:49:59  <FONT incolor="#0000ff"><U>ID:</U></FONT>RiFvdjz1
 I don't mind FES's lyrics
 New Gen indeed
 　
@@ -428,9 +419,7 @@ New Gen indeed
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>529</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-11:54:33  <FONT incolor="#0000ff"><U>ID:</U></FONT>yTZXOh31
+<FONT incolor="#0000ff"><U>529</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 11:54:33  <FONT incolor="#0000ff"><U>ID:</U></FONT>yTZXOh31
 All people talk about is FES
 RYO wrote the songs&, what about him （´・ω・） Poor guy
 　
@@ -441,9 +430,7 @@ RYO wrote the songs&, what about him （´・ω・） Poor guy
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text906]
-<FONT incolor="#0000ff"><U>530</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S)
-13:17:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>5fW1O7Mv
+<FONT incolor="#0000ff"><U>530</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S) 13:17:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>5fW1O7Mv
 FES-tan (;´Д`)ﾊｧﾊｧ
 Got tricked into finding the meaning of life in her lyrics
 　
@@ -457,9 +444,7 @@ Got tricked into finding the meaning of life in her lyrics
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text907]
-<FONT incolor="#0000ff"><U>531</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-14:04:05  <FONT incolor="#0000ff"><U>ID:</U></FONT>LGuS9tPg
+<FONT incolor="#0000ff"><U>531</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 14:04:05  <FONT incolor="#0000ff"><U>ID:</U></FONT>LGuS9tPg
 FEStards are fucking nasty
 　
 </PRE>
@@ -470,9 +455,7 @@ FEStards are fucking nasty
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text908]
-<FONT incolor="#0000ff"><U>532</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S)
-14:17:38  <FONT incolor="#0000ff"><U>ID:</U></FONT>Zxe5HzC7
+<FONT incolor="#0000ff"><U>532</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S) 14:17:38  <FONT incolor="#0000ff"><U>ID:</U></FONT>Zxe5HzC7
 Even so&, I want FES-sama to deride me in her cool voice
 while grinding her boots into my ass
 till it hurts so much it feels like my eyes are gonna fall out
@@ -488,9 +471,7 @@ I want to breathe my last as she says&, you're an eyesore
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text909]
-<FONT incolor="#0000ff"><U>533</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-14:59:09  <FONT incolor="#0000ff"><U>ID:</U></FONT>i05H9ght
+<FONT incolor="#0000ff"><U>533</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 14:59:09  <FONT incolor="#0000ff"><U>ID:</U></FONT>i05H9ght
 *raises hand* FES-tan is my wife
 　
 </PRE>
@@ -500,9 +481,7 @@ incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text910]
-<FONT incolor="#0000ff"><U>534</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless ORacle</FONT>［age］：200X/10/7(S)
-15:39:40  <FONT incolor="#0000ff"><U>ID:</U></FONT>PxKlJxQv
+<FONT incolor="#0000ff"><U>534</U></FONT>  Name:<FONT incolor="#228b22">A Nameless ORacle</FONT>［age］：200X/10/7(S) 15:39:40  <FONT incolor="#0000ff"><U>ID:</U></FONT>PxKlJxQv
 <FONT incolor="#0000ff"><U><PRE>>>532</PRE></U></FONT>
 　
 Save that for the masochist thread
@@ -516,9 +495,7 @@ Also&, FES is my wife
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text911]
-<FONT incolor="#0000ff"><U>535</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-15:41:00  <FONT incolor="#0000ff"><U>ID:</U></FONT>RwNCA7t0
+<FONT incolor="#0000ff"><U>535</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 15:41:00  <FONT incolor="#0000ff"><U>ID:</U></FONT>RwNCA7t0
 Don't bump the thread
 　
 </PRE>
@@ -531,19 +508,15 @@ Don't bump the thread
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text912]
-<FONT incolor="#0000ff"><U>536</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S)
-16:00:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>otG3PXDG
+<FONT incolor="#0000ff"><U>536</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［age］：200X/10/7(S) 16:00:52  <FONT incolor="#0000ff"><U>ID:</U></FONT>otG3PXDG
 <FONT incolor="#0000ff"><U><PRE>>>510</PRE></U></FONT>
 This what they mean by the New Gen prophecy?
 　
 　
-Strike the stake  Strike the stake  Tear open the darkest night  Bathe
-in moonlight
+Strike the stake  Strike the stake  Tear open the darkest night  Bathe in moonlight
 Thousands of hammers  Become your pain  And are now released
 At last screams float in space  The night sky will surely run red
-With the cross-shaped stake as your strength  You will finally reach
-sacred land
+With the cross-shaped stake as your strength  You will finally reach sacred land
 　
 By the way&, I'm anti-Phanta 凸(-_-#)
 Fanboys are scary&, lol
@@ -557,9 +530,7 @@ Aren't you all getting brainwashed?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text913]
-<FONT incolor="#0000ff"><U>537</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-16:12:43  <FONT incolor="#0000ff"><U>ID:</U></FONT>EfryPhhD
+<FONT incolor="#0000ff"><U>537</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 16:12:43  <FONT incolor="#0000ff"><U>ID:</U></FONT>EfryPhhD
 <FONT incolor="#0000ff"><U><PRE>>>536</PRE></U></FONT>
 　
 Idiot&, you're gonna get erased&, haha
@@ -572,9 +543,7 @@ Idiot&, you're gonna get erased&, haha
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text914]
-<FONT incolor="#0000ff"><U>538</U></FONT>  Name:<FONT
-incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S)
-16:38:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>c4TD+zP9
+<FONT incolor="#0000ff"><U>538</U></FONT>  Name:<FONT incolor="#228b22">A Nameless Oracle</FONT>［sage］：200X/10/7(S) 16:38:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>c4TD+zP9
 <FONT incolor="#0000ff"><U><PRE>>>536</PRE></U></FONT>
 　
 Don't expose the lyrics&, stupid

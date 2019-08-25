@@ -98,8 +98,7 @@ committed by the same murderer&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42
-<FONT incolor="#0000ff"><U>ID:</U></FONT>WbOw0ibQ0
+<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42 <FONT incolor="#0000ff"><U>ID:</U></FONT>WbOw0ibQ0
 The guy who put it on MewTube has to be the perp
 Awesome stuff&, whose eyes are (etc)
 　
@@ -136,8 +135,7 @@ Crap&, getting way too excited about this
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22
-<FONT incolor="#0000ff"><U>ID:</U></FONT>/pkGqtA8
+<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22 <FONT incolor="#0000ff"><U>ID:</U></FONT>/pkGqtA8
 <PRE>|д<◎>)&.｡oO</PRE>(Whose eyes are those eyes?)
 　
 </PRE>
@@ -255,8 +253,7 @@ Get a hold of yourselves&. It's not that funny anymore
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text914]
-<FONT incolor="#0000ff"><U>136</U></FONT> Name: <FONT incolor="#228b22">Film festival participant （Inland Sea）</FONT>［age］：200X/10/22(W) 20:55:29
-<FONT incolor="#0000ff"><U>ID:</U></FONT>ecZZ4Itq0
+<FONT incolor="#0000ff"><U>136</U></FONT>  Name: <FONT incolor="#228b22">Film festival participant （Inland Sea）</FONT>［age］：200X/10/22(W) 20:55:29  <FONT incolor="#0000ff"><U>ID:</U></FONT>ecZZ4Itq0
 I live in Shibuya<FONT incolor="#0000ff"><U><PRE>>></PRE>131</U></FONT>*sob* haha
 <FONT incolor="#0000ff"><U><PRE>>></PRE>133</U></FONT>
 Don't look this way
@@ -292,8 +289,7 @@ Here it is!! The top story on MHK News!!!111!!
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text917]
-<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24
-<FONT incolor="#0000ff"><U>ID:</U></FONT>t11D9z5a0
+<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24 <FONT incolor="#0000ff"><U>ID:</U></FONT>t11D9z5a0
 No declaration of responsibility from whose eyes (etc) yet-?
 　
 </PRE>
