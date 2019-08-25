@@ -529,9 +529,7 @@ chapter main
 					}
 				}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					if(!$PLACE_title){
-						call_chapter nss/sys_close.nss;
-					}
+					call_chapter nss/sys_close.nss;
 				}
 			}
 		}else if($cfgtab==2){
@@ -705,9 +703,7 @@ chapter main
 				if(!$SYSTEM_menu_config_enable){break;}
 				if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					if(!$PLACE_title){
-						call_chapter nss/sys_close.nss;
-					}
+					call_chapter nss/sys_close.nss;
 				}
 			}
 		}else if($cfgtab==3){
@@ -797,9 +793,7 @@ chapter main
 				if(!$SYSTEM_menu_config_enable){break;}
 				if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
 					cfgCharacterVoice();
-					if(!$PLACE_title){
-						call_chapter nss/sys_close.nss;
-					}
+					call_chapter nss/sys_close.nss;
 				}
 			}
 		}else{

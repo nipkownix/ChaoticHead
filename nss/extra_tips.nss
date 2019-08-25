@@ -172,11 +172,9 @@ chapter main
 					$SYSTEM_keydown_f=false;
 				}
 			}else if($SYSTEM_menu_enable&&$SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
-				if(!$PLACE_title){
-					$tps_close=true;
-					call_chapter nss/sys_close.nss;
-					$tps_close=false;
-				}
+				$tps_close=true;
+				call_chapter nss/sys_close.nss;
+				$tps_close=false;
 			}
 		}
 		Wait(8);

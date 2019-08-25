@@ -321,9 +321,7 @@ function savemanage()
 					$SYSTEM_keydown_f=false;
 				}
 			}else if($SYSTEM_keydown_esc||$SYSTEM_buttondown_close){
-				if(!$PLACE_title){
-					call_chapter nss/sys_close.nss;
-				}
+				call_chapter nss/sys_close.nss;
 			}
 		}
 	}
@@ -400,9 +398,7 @@ function do_load($num)
 				WaitAction("MSGWND/MSG_*/*/*");
 				
 				$InDialog=true;
-				if(!$PLACE_title){
-					call_chapter nss/sys_close.nss;
-				}
+				call_chapter nss/sys_close.nss;
 				$InDialog=false;
 				
 				Fade("MSGWND/MSG_msg",200,1000,null,false);

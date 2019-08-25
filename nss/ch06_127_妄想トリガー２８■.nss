@@ -780,7 +780,7 @@ When he said that&, I lost the ability to retreat or turn around&.
 
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12700370se">
-"Takkii&, Nanacchi is dead&.&.&."
+"Takkii&, Nanamicchi is dead&.&.&."
 
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/12700380se">
