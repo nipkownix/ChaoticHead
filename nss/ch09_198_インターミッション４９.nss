@@ -91,7 +91,7 @@ She sat down on the operating table and took up a scalpel&.
 [text002]
 //◆恍惚
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800030hd">
+<voice name="葉月" class="葉月" src="voice/ch09/19800030hd">
 "Haa&, haa&.&.&.&. salvation&.&.&.&."
 
 {	CreateSE("SE05","SE_擬音_杭_突き刺さる");
@@ -149,7 +149,7 @@ Blood sprayed out&, landing on her face&.
 
 //◆恍惚
 //【葉月】
-<voice name="葉月" class="葉月" src="ch09/19800040hd">
+<voice name="葉月" class="葉月" src="voice/ch09/19800040hd">
 "Fufu&.&.&.&. May the Divine Light save you&.&.&.&." 
 
 She put both hands to her victim's wound&. 
