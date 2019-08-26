@@ -170,7 +170,7 @@ chapter main
 	CreateScrollbar("TAB1_select_WaitAtOneWord",10100,505,476,646,476,$pos,HORIZON,"IMG_csr");
 	
 	CreateChoice("TAB1_select_StopVoiceInAutoON");
-	CreateTexture("TAB1_check_StopVoiceInAutoON",10100,584,474,"IMG_check");
+	CreateTexture("TAB1_check_StopVoiceInAutoON",10100,584,499,"IMG_check");
 	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseUsual/img",0,575,499,"IMG_check_hit");
 	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseOver/img",0,575,499,"IMG_check_hit");
 	CreateTexture("TAB1_select_StopVoiceInAutoON/MouseClick/img",0,575,499,"IMG_check_hit");

@@ -998,9 +998,7 @@ I reluctantly clicked his links and bit down hard on my lip&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text901]
-<FONT incolor="#0000ff"><U>946</U></FONT> Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T)
-16:29:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>TtIxacRy8
+<FONT incolor="#0000ff"><U>946</U></FONT> Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T) 16:29:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>TtIxacRy8
 Another Moob-Gen!!!
 　
 　
@@ -1013,9 +1011,7 @@ Another Moob-Gen!!!
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>947</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T)
-16:29:50  <FONT incolor="#0000ff"><U>ID:</U></FONT>wZGbSvjkO
+<FONT incolor="#0000ff"><U>947</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T) 16:29:50  <FONT incolor="#0000ff"><U>ID:</U></FONT>wZGbSvjkO
 Wait&, lol&, DQN&.&.&. delinquent? lol
 Of course it's got nothing to do with the other cases&, hahaha
 lol&, stupid police
@@ -1027,14 +1023,11 @@ lol&, stupid police
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text903]
-<FONT incolor="#0000ff"><U>948</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/11/4(T)
-16:30:48  <FONT incolor="#0000ff"><U>ID:</U></FONT>MOsurvPq0
+<FONT incolor="#0000ff"><U>948</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/11/4(T) 16:30:48  <FONT incolor="#0000ff"><U>ID:</U></FONT>MOsurvPq0
 <FONT incolor="#0000ff"><U><PRE>>></PRE>920</U></FONT>
 　
 You trying to say it's one of us delinquent-haters?
-With their lower bodies switched up&, it really makes it like a puzzle
-with corpses
+With their lower bodies switched up&, it really makes it like a puzzle with corpses
 I wanna trade in my upper half for some stud's&, heh
 　
 </PRE>
@@ -1046,9 +1039,7 @@ I wanna trade in my upper half for some stud's&, heh
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text904]
-<FONT incolor="#0000ff"><U>949</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T)
-16:31:22  <FONT incolor="#0000ff"><U>ID:</U></FONT>KnYohrpd0
+<FONT incolor="#0000ff"><U>949</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［age］：200X/11/4(T) 16:31:22  <FONT incolor="#0000ff"><U>ID:</U></FONT>KnYohrpd0
 ESPer Nishijou needs to get a move on and pin down the criminal&, haha
 　
 </PRE>
@@ -1064,9 +1055,7 @@ ESPer Nishijou needs to get a move on and pin down the criminal&, haha
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>950</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/11/4(T)
-17:41:59  <FONT incolor="#0000ff"><U>ID:</U></FONT>Hmaeicj30
+<FONT incolor="#0000ff"><U>950</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/11/4(T) 17:41:59  <FONT incolor="#0000ff"><U>ID:</U></FONT>Hmaeicj30
 <PRE>Moob-Gen News Flash Bear (ll´（エ）｀ll)
 　
 Moob-Gen No&. 1 = Group Dive　ﾉﾉﾉ---(ollllll´▽｀)oﾉ

@@ -300,9 +300,7 @@ feral boy!?★２</FONT>
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text901]
-<FONT incolor="#0000ff"><U>579</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
-01:14:36  <FONT incolor="#0000ff"><U>ID:</U></FONT>QA4nAsfn0
+<FONT incolor="#0000ff"><U>579</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T) 01:14:36  <FONT incolor="#0000ff"><U>ID:</U></FONT>QA4nAsfn0
 Wasn't that Nishijou dude's uniform from Suimei?
 Hey&, anyone in this thread a Suimei student?
 　
@@ -313,9 +311,7 @@ Hey&, anyone in this thread a Suimei student?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>580</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
-01:16:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>XhK8Uj9W0
+<FONT incolor="#0000ff"><U>580</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T) 01:16:01  <FONT incolor="#0000ff"><U>ID:</U></FONT>XhK8Uj9W0
 Boy N&, too stupid&, lol
 Die you ass lol
 　
@@ -327,9 +323,7 @@ Die you ass lol
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text903]
-<FONT incolor="#0000ff"><U>581</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
-01:17:54  <FONT incolor="#0000ff"><U>ID:</U></FONT>8pP2LNI60
+<FONT incolor="#0000ff"><U>581</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T) 01:17:54  <FONT incolor="#0000ff"><U>ID:</U></FONT>8pP2LNI60
 Chill out&, Nishijou&. For real&.
 Otaku are gonna get bashed again because of you&.
 　
@@ -344,9 +338,7 @@ Otaku are gonna get bashed again because of you&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text904]
-<FONT incolor="#0000ff"><U>582</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
-01:20:49  <FONT incolor="#0000ff"><U>ID:</U></FONT>UFidZFrf0
+<FONT incolor="#0000ff"><U>582</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T) 01:20:49  <FONT incolor="#0000ff"><U>ID:</U></FONT>UFidZFrf0
 They found out what figure he was holding&.
 Seira from Burachu hahahahaha urgh&, lol&, so creepy hahaha
 　
@@ -357,12 +349,9 @@ Seira from Burachu hahahahaha urgh&, lol&, so creepy hahaha
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>583</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T)
-01:23:30  <FONT incolor="#0000ff"><U>ID:</U></FONT>Ha66kS2U0
+<FONT incolor="#0000ff"><U>583</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous!</FONT>［age］：200X/10/28(T) 01:23:30  <FONT incolor="#0000ff"><U>ID:</U></FONT>Ha66kS2U0
 Otaku freaks are crying over this&, lol
-That Nishijou guy should've just shut himself up instead of getting on
-TV or whatever&.
+That Nishijou guy should've just shut himself up instead of getting on TV or whatever&.
 　
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -371,9 +360,7 @@ TV or whatever&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text906]
-<FONT incolor="#0000ff"><U>584</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/10/28(T)
-01:23:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>OKbjWWs90
+<FONT incolor="#0000ff"><U>584</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/10/28(T) 01:23:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>OKbjWWs90
 Seira: "Nishijou&, you dummy! I'm gonna send you flying with my
 Awakening Rocket Body Blow!" (etc)
 　
@@ -384,9 +371,7 @@ Awakening Rocket Body Blow!" (etc)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text907]
-<FONT incolor="#0000ff"><U>585</U></FONT>  Name: <FONT
-incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/10/28(T)
-01:26:15  <FONT incolor="#0000ff"><U>ID:</U></FONT>awranyYF9
+<FONT incolor="#0000ff"><U>585</U></FONT>  Name: <FONT incolor="#228b22">It's me&, Anonymous! </FONT>［sage］：200X/10/28(T) 01:26:15  <FONT incolor="#0000ff"><U>ID:</U></FONT>awranyYF9
 <FONT incolor="#0000ff"><U><PRE>>></PRE>579</U></FONT>
 Already done&. One of his classmates from last year came out and
 exposed all his personal information&.
