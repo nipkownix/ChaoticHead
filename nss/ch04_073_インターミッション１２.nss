@@ -506,7 +506,7 @@ guys and creeps&."
 	CreateVOICE("á‚¢—‚`","ch04/07300070yg");
 	SoundPlay("á‚¢—‚`", 0, 1000, false);
 
-	SetBacklog("They aren't creepy&. I can totally relate to that song of theirs&.", "voice/ch04/07300070yg", á‚¢—‚`);
+	SetBacklog("They aren't creepy. I can totally relate to that song of theirs.", "voice/ch04/07300070yg", á‚¢—‚`);
 
 	FadeDelete("textf*", 3000, false);
 	Wait(500);

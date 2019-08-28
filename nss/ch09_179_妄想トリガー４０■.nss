@@ -87,7 +87,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 2)
 	CreateVOICE("—œ[‚O‚P","ch09/17900010ri");
 	SoundPlay("—œ[‚O‚P",0,1000,false);
 
-	SetBacklog("You mustn't have any more delusions&.", "voice/ch09/17900010ri", —œ[);
+	SetBacklog("You mustn't have any more delusions.", "voice/ch09/17900010ri", —œ[);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);
@@ -167,7 +167,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 1)
 	CreateVOICE("—œ[‚O‚Q","ch09/17900020ri");
 	SoundPlay("—œ[‚O‚Q",0,1000,false);
 
-	SetBacklog("You mustn't have any more delusions&.", "voice/ch09/17900020ri", —œ[);
+	SetBacklog("You mustn't have any more delusions.", "voice/ch09/17900020ri", —œ[);
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);

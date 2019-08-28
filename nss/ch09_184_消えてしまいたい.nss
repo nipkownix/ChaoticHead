@@ -88,7 +88,7 @@ head&.
 	CreateVOICE("梨深","ch09/18400020ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/18400020ri", 梨深);
+	SetBacklog("You are... a delusionary existence.", "voice/ch09/18400020ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);

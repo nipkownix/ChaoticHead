@@ -457,7 +457,7 @@ I couldn't see a thing&.
 	CreateVOICE("ナイトハルト","ch02/04300100kh");
 	SoundPlay("ナイトハルト", 0, 1000, false);
 
-	SetBacklog("I've had enough&. I'm leaving you behind.", "voice/ch02/04300100kh", ナイトハルト);
+	SetBacklog("I've had enough. I'm leaving you behind.", "voice/ch02/04300100kh", ナイトハルト);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);

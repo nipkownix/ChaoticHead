@@ -105,7 +105,7 @@ to prove I wasn't an imposter&.
 	CreateVOICE("梨深","ch09/18100010ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are&.&.&. a delusionary existence&", "voice/ch09/18100010ri", 梨深);
+	SetBacklog("You are... a delusionary existence", "voice/ch09/18100010ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -364,8 +364,8 @@ Holding the phone to my ear&, I braced myself&.
 	CreateVOICE("携帯アナウンス","ch09/18100210ia");
 	SoundPlay("携帯アナウンス",0,1000,false);
 
-	SetBacklog(""The current number of confirmed casualties is 233 people&, but it's
-believed the final count will surpass 3&,000―"", "voice/ch09/18100210ia", ケータイアナウンス);
+	SetBacklog(""The current number of confirmed casualties is 233 people, but it's
+believed the final count will surpass 3,000―"", "voice/ch09/18100210ia", ケータイアナウンス);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

@@ -484,8 +484,8 @@ Yua held her head and shook it like a child throwing a tantrum&.
 	Fade("back04", 100, 1000, null, true);
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900320ma">
-"Who are you?"
+//<voice name="美愛" class="美愛" src="voice/ch09/18900320ma">
+//"Who are you?"
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Who are you?");
 	Request("テキスト１", NoLog);
@@ -506,7 +506,7 @@ Yua held her head and shook it like a child throwing a tantrum&.
 <PRE box00>
 [text005]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900310yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900310yu">
 "Who am I?"
 
 </PRE>
@@ -539,8 +539,8 @@ loathing&, though she had brought it all upon herself?
 
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900340ma">
-"Now&, you too"
+//<voice name="美愛" class="美愛" src="voice/ch09/18900340ma">
+//"Now&, you too"
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Now&, you too");
 	Request("テキスト１", NoLog);
@@ -554,8 +554,8 @@ loathing&, though she had brought it all upon herself?
 	SoundPlay("美愛２",0,1000,false);
 	SoundPlay("優愛２",0,1000,false);
 
-	SetBacklog("Now&, you too", "voice/ch09/18900340ma", 美愛);
-	SetBacklog("Now&, I too", "voice/ch09/18900330yu", 優愛);
+	SetBacklog("Now, you too", "voice/ch09/18900340ma", 美愛);
+	SetBacklog("Now, I too", "voice/ch09/18900330yu", 優愛);
 
 //以下のセリフ、同時に音声出したいです
 //※美愛のセリフは画面中央に表示
@@ -563,7 +563,7 @@ loathing&, though she had brought it all upon herself?
 <PRE box00>
 [text007]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900330yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900330yu">
 "Now&, I too"
 
 </PRE>
@@ -589,8 +589,8 @@ way for Yua―or perhaps Mia&.
 	Fade("back04", 100, 1000, null, true);
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900360ma">
-"Shall meet the same fate as me&."
+//<voice name="美愛" class="美愛" src="voice/ch09/18900360ma">
+//"Shall meet the same fate as me&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Shall meet the same fate as me&.");
 	Request("テキスト１", NoLog);
@@ -604,8 +604,8 @@ way for Yua―or perhaps Mia&.
 	SoundPlay("美愛３",0,1000,false);
 	SoundPlay("優愛３",0,1000,false);
 
-	SetBacklog("Shall meet the same fate as me&.", "voice/ch09/18900360ma", 美愛);
-	SetBacklog("Shall meet the same fate as you&.", "voice/ch09/18900350yu", 優愛);
+	SetBacklog("Shall meet the same fate as me.", "voice/ch09/18900360ma", 美愛);
+	SetBacklog("Shall meet the same fate as you.", "voice/ch09/18900350yu", 優愛);
 
 
 //以下のセリフ、同時に音声出したいです
@@ -614,7 +614,7 @@ way for Yua―or perhaps Mia&.
 <PRE box00>
 [text009]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900350yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900350yu">
 "Shall meet the same fate as you&."
 
 </PRE>
@@ -690,8 +690,8 @@ of their clothing flutter fiercely&.
 	Fade("back04", 100, 1000, null, true);
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900380ma">
-"Because we were originally one&."
+//<voice name="美愛" class="美愛" src="voice/ch09/18900380ma">
+//"Because we were originally one&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Because we were originally one&.");
 	Request("テキスト１", NoLog);
@@ -706,8 +706,8 @@ of their clothing flutter fiercely&.
 	SoundPlay("美愛４",0,1000,false);
 	SoundPlay("優愛４",0,1000,false);
 
-	SetBacklog("Because we were originally one&.", "voice/ch09/18900380ma", 美愛);
-	SetBacklog("Because we were originally one&.", "voice/ch09/18900370yu", 優愛);
+	SetBacklog("Because we were originally one.", "voice/ch09/18900380ma", 美愛);
+	SetBacklog("Because we were originally one.", "voice/ch09/18900370yu", 優愛);
 
 //以下のセリフ、同時に音声出したいです
 //※美愛のセリフは画面中央に表示
@@ -715,7 +715,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text012]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900370yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900370yu">
 "Because we were originally one&."
 
 </PRE>
@@ -725,8 +725,8 @@ of their clothing flutter fiercely&.
 	Delete("テキスト１");
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900400ma">
-"We're only going back there&."
+//<voice name="美愛" class="美愛" src="voice/ch09/18900400ma">
+//"We're only going back there&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "We're only going back there&.");
 	Request("テキスト１", NoLog);
@@ -741,15 +741,15 @@ of their clothing flutter fiercely&.
 	SoundPlay("美愛５",0,1000,false);
 	SoundPlay("優愛５",0,1000,false);
 
-	SetBacklog("We're only going back there&.", "voice/ch09/18900400ma", 美愛);
-	SetBacklog("We're only going back there&.", "voice/ch09/18900390yu", 優愛);
+	SetBacklog("We're only going back there.", "voice/ch09/18900400ma", 美愛);
+	SetBacklog("We're only going back there.", "voice/ch09/18900390yu", 優愛);
 
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text013]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900390yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900390yu">
 "We're only going back there&."
 
 </PRE>
@@ -759,8 +759,8 @@ of their clothing flutter fiercely&.
 	Delete("テキスト１");
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900420ma">
-"Take one step forward"
+//<voice name="美愛" class="美愛" src="voice/ch09/18900420ma">
+//"Take one step forward"
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Take one step forward");
 	Request("テキスト１", NoLog);
@@ -782,7 +782,7 @@ of their clothing flutter fiercely&.
 <PRE box00>
 [text014]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900410yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900410yu">
 "Take one step forward"
 
 </PRE>
@@ -792,8 +792,8 @@ of their clothing flutter fiercely&.
 	Delete("テキスト１");
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900440ma">
-"And you will become me&."
+//<voice name="美愛" class="美愛" src="voice/ch09/18900440ma">
+//"And you will become me&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "And you will become me&.");
 	Request("テキスト１", NoLog);
@@ -807,15 +807,15 @@ of their clothing flutter fiercely&.
 	SoundPlay("美愛７",0,1000,false);
 	SoundPlay("優愛７",0,1000,false);
 
-	SetBacklog("And you will become me&.", "voice/ch09/18900440ma", 美愛);
-	SetBacklog("And I will become you&.", "voice/ch09/18900430yu", 優愛);
+	SetBacklog("And you will become me.", "voice/ch09/18900440ma", 美愛);
+	SetBacklog("And I will become you.", "voice/ch09/18900430yu", 優愛);
 
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text015]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900430yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900430yu">
 "And I will become you."
 
 </PRE>
@@ -887,8 +887,8 @@ looked in her direction and smiled&.
 	Fade("back04", 100, 1000, null, true);
 
 //【美愛】
-<voice name="美愛" class="美愛" src="voice/ch09/18900530ma">
-"You will jump&."
+//<voice name="美愛" class="美愛" src="voice/ch09/18900530ma">
+//"You will jump&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 500, center, Middle, Auto, Auto, "You will jump&.");
 	Request("テキスト１", NoLog);
@@ -911,7 +911,7 @@ looked in her direction and smiled&.
 <PRE box00>
 [text017]
 //【優愛】
-<voice name="優愛" class="優愛" src="voice/ch09/18900540yu">
+//<voice name="優愛" class="優愛" src="voice/ch09/18900540yu">
 "I will jump&."
 
 </PRE>

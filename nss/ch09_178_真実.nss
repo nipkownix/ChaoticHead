@@ -40,7 +40,7 @@ function ch09_178_真実()
 	CreateVOICE("梨深","ch09/17800010ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/17800010ri", null);
+	SetBacklog("You are... a delusionary existence.", "voice/ch09/17800010ri", null);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 
@@ -334,7 +334,8 @@ That had been her goal in staying together with me!
 	CreateVOICE("拓巳","ch09/17800330ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("「き、君は、あの、あのとき、血まみれだった……！　だから君が犯人だ……！」", "voice/ch09/17800330ta", 拓巳);
+	SetBacklog("Y, you were covered in blood ba, back then...!
+	You're the culprit...!", "voice/ch09/17800330ta", 拓巳);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

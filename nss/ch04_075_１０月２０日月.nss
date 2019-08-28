@@ -36,7 +36,7 @@ function ch04_075_１０月２０日月()
 	CreateVOICE("星来１","ch04/07500010se");
 	SoundPlay("星来１",0,1000,false);
 
-	SetBacklog(""It's morning-! C'mon&, wake up! Wake u―p!"", "voice/ch04/07500010se", 星来);
+	SetBacklog(""It's morning-! C'mon, wake up! Wake u―p!"", "voice/ch04/07500010se", 星来);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -53,14 +53,14 @@ Seira-tan was calling me&.&.&.
 Burachu was great yesterday&.
 
 {	SetBacklog("Seira-tan played a huge role, and there'd been a sexy kissing scene.", "null", null);
-	SetBacklog("The sakuga quality was way up there&, too...", "null", null);}
+	SetBacklog("The sakuga quality was way up there, too...", "null", null);}
 Seira-tan played a huge role&, and there'd been a sexy kissing scen<pre>e</pre>&.
 The sakuga quality was way up there&, too&.&.&.
 
 {	SoundStop2("星来１");
 //	CreateVOICE("星来２","ch04/07500020se");
 	SoundPlay("星来２",0,1000,false);
-	SetBacklog("If you wake up&, I'll give you a good-morning kiss, so... What
+	SetBacklog("If you wake up, I'll give you a good-morning kiss, so... What
 am I saying, stupid, stupid, just forget it!", "voice/ch04/07500020se", 星来);}
 //ＶＦ//目覚ましのボイス
 //【星来】
@@ -90,7 +90,7 @@ I peeled off the sheets covering me&, groaned&, and rose from the sofa&.
 {	SoundStop2("星来２");
 	CreateVOICE("星来３","ch04/07500030se");
 	SoundPlay("星来３",0,1000,false);
-	SetBacklog(""Hey! How long are you gonna keep sleeping&, you dum-dum!"", "voice/ch04/07500030se", 星来);}
+	SetBacklog(""Hey! How long are you gonna keep sleeping, you dum-dum!"", "voice/ch04/07500030se", 星来);}
 //ＶＦ//目覚ましのボイス
 //【星来】
 <voice name="星来" class="星来" src="voice/ch04/07500030se">
@@ -99,7 +99,7 @@ I peeled off the sheets covering me&, groaned&, and rose from the sofa&.
 {	SoundStop2("星来３");
 	CreateVOICE("星来４","ch04/07500040se");
 	SoundPlay("星来４",0,1000,false);
-	SetBacklog(""If it's come to this&, I'll hit you awake with my
+	SetBacklog(""If it's come to this, I'll hit you awake with my
 'Samurai☆Condenser'―"", "voice/ch04/07500040se", 星来);}
 //サムライ☆コンデンサ＝金棒の名前です
 //【星来】

@@ -484,7 +484,7 @@ function cg_init($c,$p)
 				}else if($i==8){
 					if(#ev038_01_3_—Dˆ¤ROOM37—“ü_a){
 						$thum="ev038_01_3_—Dˆ¤ROOM37—“ü_a";
-						$pic_name8_1="ev/ev044_03_2_—œ[‰º’…YƒVƒƒƒc_a";
+						$pic_name8_1="ev/ev038_01_3_—Dˆ¤ROOM37—“ü_a";
 						$pic_num8=1;
 						$act8=0;
 					}

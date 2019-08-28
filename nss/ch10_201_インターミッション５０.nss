@@ -55,7 +55,7 @@ through the radio&.
 	CreateVOICE("キャスターＡ","ch10/20100010ka");
 	SoundPlay("キャスターＡ",0,1000,false);
 
-	SetBacklog("233 casualties have been confirmed at present&, but the final count is expected to surpass 30&,000―", "voice/ch10/20100010ka", キャスターＡ);
+	SetBacklog("233 casualties have been confirmed at present, but the final count is expected to surpass 30,000―", "voice/ch10/20100010ka", キャスターＡ);
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text200]
@@ -68,7 +68,7 @@ expected to surpass 30&,000―"
 {	SoundStop2("キャスターＡ");
 	CreateVOICE("キャスターＡ２","ch10/20100020ka");
 	SoundPlay("キャスターＡ２",0,1000,false);
-	SetBacklog("According to an announcement by the Meteorological Agency&, this latest earthquake was a 7 on the Japanese earthquake scale―the highest level possible―and magnitude 7&.8&, which puts it on par with the Great Kantou Earthquake of 1923&.", "voice/ch10/20100020ka", キャスターＡ);}
+	SetBacklog("According to an announcement by the Meteorological Agency, this latest earthquake was a 7 on the Japanese earthquake scale―the highest level possible―and magnitude 7.8, which puts it on par with the Great Kantou Earthquake of 1923.", "voice/ch10/20100020ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100020ka">
 "According to an announcement by the Meteorological Agency&, this latest
@@ -79,7 +79,7 @@ Kantou Earthquake of 1923&."
 {	SoundStop2("キャスターＡ２");
 	CreateVOICE("キャスターＡ３","ch10/20100030ka");
 	SoundPlay("キャスターＡ３",0,1000,false);
-	SetBacklog("Some of the buildings in Shibuya have been destroyed&, and there is also an emerging pattern of large-scale cave-ins&.", "voice/ch10/20100030ka", キャスターＡ);}
+	SetBacklog("Some of the buildings in Shibuya have been destroyed, and there is also an emerging pattern of large-scale cave-ins.", "voice/ch10/20100030ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100030ka">
 "Some of the buildings in Shibuya have been destroyed&, and there is
@@ -88,7 +88,7 @@ also an emerging pattern of large-scale cave-ins&."
 {	SoundStop2("キャスターＡ３");
 	CreateVOICE("キャスターＡ４","ch10/20100040ka");
 	SoundPlay("キャスターＡ４",0,1000,false);
-	SetBacklog("The Shibuya portion of the Shuto Expressway has been completely closed down due to the collapse of overhead structures&.", "voice/ch10/20100040ka", キャスターＡ);}
+	SetBacklog("The Shibuya portion of the Shuto Expressway has been completely closed down due to the collapse of overhead structures.", "voice/ch10/20100040ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100040ka">
 "The Shibuya portion of the Shuto Expressway has been completely closed
@@ -97,7 +97,7 @@ down due to the collapse of overhead structures&."
 {	SoundStop2("キャスターＡ４");
 	CreateVOICE("キャスターＡ５","ch10/20100050ka");
 	SoundPlay("キャスターＡ５",0,1000,false);
-	SetBacklog("As for public transportation&, all railways&, such as the Yamanote Line&, have been―", "voice/ch10/20100050ka", キャスターＡ);}
+	SetBacklog("As for public transportation, all railways, such as the Yamanote Line, have been―", "voice/ch10/20100050ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100050ka">
 "As for public transportation&, all railways&, such as the Yamanote Line&,

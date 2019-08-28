@@ -1075,7 +1075,7 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 	SoundPlay("葉月",0,1000,false);
 
 	CenterNoLog1("You've held up so well&.");
-	SetBacklog("You've held up so well&.", "voice/ch10/21700280hd", 葉月);
+	SetBacklog("You've held up so well.", "voice/ch10/21700280hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月");
 	$待ち時間 += 1000;
@@ -1399,7 +1399,7 @@ He was the victim of the "staking" incident&.
 
 	CenterNoLog1("'Aaah&.&.&.'");
 
-	SetBacklog("'Aaah&.&.&.'", "voice/ch10/21700290oo", 太田);
+	SetBacklog("'Aaah...'", "voice/ch10/21700290oo", 太田);
 
 	$待ち時間 = RemainTime ("太田");
 	$待ち時間 += 1000;
@@ -1830,7 +1830,7 @@ I felt that sensation distinctly&.
 	SoundPlay("葉月",0,1000,false);
 
 	CenterNoLog1("'Doctor&, I've removed your cranium&.'");
-	SetBacklog("'Doctor&, I've removed your cranium&.'", "voice/ch10/21700340hd", 葉月);
+	SetBacklog("'Doctor, I've removed your cranium.'", "voice/ch10/21700340hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月");
 	$待ち時間 += 1000;
@@ -1844,7 +1844,7 @@ I felt that sensation distinctly&.
 	SoundPlay("葉月２", 0, 1000, false);
 
 	CenterNoLog1("'Your dura mater is so very lovely&, Doctor&.'", 3000);
-	SetBacklog("'Your dura mater is so very lovely&, Doctor&.'", "voice/ch10/21700350hd", 葉月);
+	SetBacklog("'Your dura mater is so very lovely, Doctor.'", "voice/ch10/21700350hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月２");
 	$待ち時間 += 1000;
@@ -1874,7 +1874,7 @@ I felt that sensation distinctly&.
 
 	CenterNoLog3("'There are examples of human beings", "who have lived for over a week&, despite being braindead&,", "and without the help of artificial respiration&. Did you know?'");
 
-	SetBacklog("'There are examples of human beings who have lived for over a week&, despite being braindead&,", "and without the help of artificial respiration&. Did you know?'", "voice/ch10/21700360hd", 葉月);
+	SetBacklog("'There are examples of human beings who have lived for over a week, despite being braindead,", "and without the help of artificial respiration. Did you know?'", "voice/ch10/21700360hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月３");
 	$待ち時間 += 1000;
@@ -1892,7 +1892,7 @@ I felt that sensation distinctly&.
 
 	CenterNoLog2("'In other words&, doesn't that mean one can continue living for some time&,", "even 'without a brain'?'");
 
-	SetBacklog("'In other words&, doesn't that mean one can continue living for some time&,", "even 'without a brain'?'", "voice/ch10/21700370hd", 葉月);
+	SetBacklog("'In other words, doesn't that mean one can continue living for some time,", "even 'without a brain'?'", "voice/ch10/21700370hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月４");
 	$待ち時間 += 1000;
@@ -1907,7 +1907,7 @@ I felt that sensation distinctly&.
 
 	CenterNoLog1("'I do wonder how long you'll be able to live&, Doctor&.&.&.'");
 
-	SetBacklog("'I do wonder how long you'll be able to live&, Doctor&.&.&.'", "voice/ch10/21700380hd", 葉月);
+	SetBacklog("'I do wonder how long you'll be able to live, Doctor...'", "voice/ch10/21700380hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月５");
 	$待ち時間 += 1000;
@@ -1927,7 +1927,7 @@ I felt that sensation distinctly&.
 	SoundPlay("葉月６", 0, 1000, false);
 
 	CenterLog1("'May the divine light save you&, Dr&. Takashina&.&.&.'");
-	SetBacklog("'May the divine light save you&, Dr&. Takashina&.&.&.'", "voice/ch10/21700390hd", 葉月);
+	SetBacklog("'May the divine light save you, Dr. Takashina...'", "voice/ch10/21700390hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月６");
 	$待ち時間 += 1000;
@@ -1968,7 +1968,7 @@ I felt that sensation distinctly&.
 	SoundPlay("葉月７", 0, 1000, false);
 
 	CenterNoLog1("'Haa&, haa&.&.&. Salvation&.&.&.'");
-	SetBacklog("'Haa&, haa&.&.&. Salvation&.&.&.'", "voice/ch10/21700400hd", 葉月);
+	SetBacklog("'Haa, haa... Salvation...'", "voice/ch10/21700400hd", 葉月);
 
 	$待ち時間 = RemainTime ("葉月７");
 	$待ち時間 += 1000;

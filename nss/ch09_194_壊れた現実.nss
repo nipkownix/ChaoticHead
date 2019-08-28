@@ -133,7 +133,7 @@ she'll be a good girl like Se&, Seira-tan&.&.&. hehehe&.&.&.&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("テキスト１", 0, @13, @0, null, true);
-	SetBacklog("You are&.&.&. a delusionary existence&.", "voice/ch09/18100010ri", 梨深);
+	SetBacklog("You are... a delusionary existence.", "voice/ch09/18100010ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 

@@ -614,7 +614,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 	}
 
 	SetBacklog("I've come to　present a tithe", "NULL", NULL);
-	SetBacklog("Going there is easy&,　but coming home is―", "NULL", NULL);
+	SetBacklog("Going there is easy,　but coming home is―", "NULL", NULL);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);

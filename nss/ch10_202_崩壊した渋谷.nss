@@ -352,7 +352,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 {	SoundStop2("Ç†Ç‚ÇπÇR");
 	CreateVOICE("Ç†Ç‚ÇπÇS","ch10/20200130ay");
 	SoundPlay("Ç†Ç‚ÇπÇS",0,1000,false);
-	SetBacklog("If my ode of gratitude is rewarded   Hallelujah&.  Glory be to God&.", "voice/ch10/20200130ay", Ç†Ç‚Çπ);}
+	SetBacklog("If my ode of gratitude is rewarded   Hallelujah.  Glory be to God.", "voice/ch10/20200130ay", Ç†Ç‚Çπ);}
 //ÅyÇ†Ç‚ÇπÅz
 //<voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch10/20200130ay">
 "If my ode of gratitude is rewarded   Hallelujah&.  Glory be to God&."

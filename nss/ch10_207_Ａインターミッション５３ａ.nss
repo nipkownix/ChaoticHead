@@ -154,8 +154,8 @@ He repeated the same motion&, flinging it&.
 	CreateVOICE("拓巳","ch10/20700030ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Uuh&.&.&. guh&.&.&.!" ", "voice/ch10/20700030ta", 拓巳);
-	SetBacklog("Uuh&.&.&. guh&.&.&.!" ", "NULL", NULL);
+	SetBacklog("Uuh... guh...!" ", "voice/ch10/20700030ta", 拓巳);
+	SetBacklog("Uuh... guh...!" ", "NULL", NULL);
 
 //画面中央とテキストウインドウ（画面下方）に以下の同じテキストを表示
 //――――――――――――――――――――――――――――――――――――――
@@ -190,8 +190,8 @@ He repeated the same motion&, flinging it&.
 	CreateVOICE("諏訪","ch10/20700040su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("Feels like I've become an omnipotent god&.", "voice/ch10/20700040su", 諏訪);
-	SetBacklog("Feels like I've become an omnipotent god&.", "NULL", NULL);
+	SetBacklog("Feels like I've become an omnipotent god.", "voice/ch10/20700040su", 諏訪);
+	SetBacklog("Feels like I've become an omnipotent god.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -235,8 +235,8 @@ He repeated the same motion&, flinging it&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("What an amazingly strange feeling&, I thought&.", "NULL", NULL);
-	SetBacklog("He probably isn't listening anyway&, Suwa thought&.", "NULL", NULL);
+	SetBacklog("What an amazingly strange feeling, I thought.", "NULL", NULL);
+	SetBacklog("He probably isn't listening anyway, Suwa thought.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -264,8 +264,8 @@ He probably isn't listening anyway&, Suwa thought&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Every shard of pain engraved on me like this gave me a genuine feeling of life&.", "NULL", NULL);
-	SetBacklog("Suwa hurled another stake at Takumi&, whose head was hanging&,who had no way to resist what was happening&.", "NULL", NULL);
+	SetBacklog("Every shard of pain engraved on me like this gave me a genuine feeling of life.", "NULL", NULL);
+	SetBacklog("Suwa hurled another stake at Takumi, whose head was hanging,who had no way to resist what was happening.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -311,8 +311,8 @@ way to resist what was happening&.
 	CreateVOICE("諏訪","ch10/20700050su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("I'm just a regular human being&, but I got my hands on a power equivalent to what you guys have&.", "voice/ch10/20700050su", 諏訪);
-	SetBacklog("I'm just a regular human being&, but I got my hands on a power equivalent to what you guys have&.", "NULL", NULL);
+	SetBacklog("I'm just a regular human being, but I got my hands on a power equivalent to what you guys have.", "voice/ch10/20700050su", 諏訪);
+	SetBacklog("I'm just a regular human being, but I got my hands on a power equivalent to what you guys have.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -343,8 +343,8 @@ equivalent to what you guys have&."
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Everything was the work of the Noah II terminal inside the rucksack that bastard wore on his back&. ", "NULL", NULL);
-	SetBacklog("Everything was thanks to the Noah II terminal inside the rucksack Suwa wore on his back&. ", "NULL", NULL);
+	SetBacklog("Everything was the work of the Noah II terminal inside the rucksack that bastard wore on his back. ", "NULL", NULL);
+	SetBacklog("Everything was thanks to the Noah II terminal inside the rucksack Suwa wore on his back. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -368,8 +368,8 @@ Suwa wore on his back&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("As long as he had that with him&, he could enjoy the benefits of Noah II's power even without being near it&.", "NULL", NULL);
-	SetBacklog("As long as he had this with him&, he could enjoy the benefits of Noah II's power even without being near it&.", "NULL", NULL);
+	SetBacklog("As long as he had that with him, he could enjoy the benefits of Noah II's power even without being near it.", "NULL", NULL);
+	SetBacklog("As long as he had this with him, he could enjoy the benefits of Noah II's power even without being near it.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -393,8 +393,8 @@ Noah II's power even without being nearby it&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("He could become an artificial Gigalomaniac&.", "NULL", NULL);
-	SetBacklog("He could become an artificial Gigalomaniac&.", "NULL", NULL);
+	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
+	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -417,8 +417,8 @@ He would become an artificial Gigalomaniac&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Suwa was being completely possessed by power&.", "NULL", NULL);
-	SetBacklog("Suwa had been completely entranced by power&.", "NULL", NULL);
+	SetBacklog("Suwa was being completely possessed by power.", "NULL", NULL);
+	SetBacklog("Suwa had been completely entranced by power.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -458,8 +458,8 @@ Suwa had been completely entranced by power&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("A religious fanatic who would do anything&, no matter how filthy&, for the sake of the teachings he followed and for their founder&.", "NULL", NULL);
-	SetBacklog("A member of the vanguard who would do anything&, no matter how filthy&, for the sake of the teachings he followed and for their founder&.", "NULL", NULL);
+	SetBacklog("A religious fanatic who would do anything, no matter how filthy, for the sake of the teachings he followed and for their founder.", "NULL", NULL);
+	SetBacklog("A member of the vanguard who would do anything, no matter how filthy, for the sake of the teachings he followed and for their founder.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -487,8 +487,8 @@ for the sake of the teachings he followed and for their founder&.
 	CreateVOICE("諏訪","ch10/20700060su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("This power is a gift from God&.", "voice/ch10/20700060su", 諏訪);
-	SetBacklog("This power is a gift from God&.", "NULL", NULL);
+	SetBacklog("This power is a gift from God.", "voice/ch10/20700060su", 諏訪);
+	SetBacklog("This power is a gift from God.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -517,8 +517,8 @@ for the sake of the teachings he followed and for their founder&.
 	CreateVOICE("諏訪","ch10/20700070su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("Because it allows me to fight for the divine light&, for what I believe in&.", "voice/ch10/20700070su", 諏訪);
-	SetBacklog("Because it allows me to fight for the divine light&, for what I believe in&.", "NULL", NULL);
+	SetBacklog("Because it allows me to fight for the divine light, for what I believe in.", "voice/ch10/20700070su", 諏訪);
+	SetBacklog("Because it allows me to fight for the divine light, for what I believe in.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -545,8 +545,8 @@ in&."
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Suwa hurled yet another stake&. ", "NULL", NULL);
-	SetBacklog("Suwa hurled yet another stake&. ", "NULL", NULL);
+	SetBacklog("Suwa hurled yet another stake. ", "NULL", NULL);
+	SetBacklog("Suwa hurled yet another stake. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -587,8 +587,8 @@ Suwa hurled yet another stake&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("It penetrated all the way to the back of my neck&.", "NULL", NULL);
-	SetBacklog("It penetrated to the back of Takumi's neck&.", "NULL", NULL);
+	SetBacklog("It penetrated all the way to the back of my neck.", "NULL", NULL);
+	SetBacklog("It penetrated to the back of Takumi's neck.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -612,8 +612,8 @@ It penetrated to the back of Takumi's neck&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Pain so intense&, it felt like my whole body would tear apart&. Maddening pain&.", "NULL", NULL);
-	SetBacklog("Brutality seethed in Suwa's heart as he wondered how long he could withstand it&.", "NULL", NULL);
+	SetBacklog("Pain so intense, it felt like my whole body would tear apart. Maddening pain.", "NULL", NULL);
+	SetBacklog("Brutality seethed in Suwa's heart as he wondered how long he could withstand it.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -638,8 +638,8 @@ withstand it&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("It was like torture; bit by bit&, I advanced toward death&.", "NULL", NULL);
-	SetBacklog("As though torturing him&, Suwa would make him advance toward death bit by bit&.", "NULL", NULL);
+	SetBacklog("It was like torture; bit by bit, I advanced toward death.", "NULL", NULL);
+	SetBacklog("As though torturing him, Suwa would make him advance toward death bit by bit.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -667,8 +667,8 @@ bit by bit&.
 	CreateVOICE("拓巳","ch10/20700080ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Haa&.&.&. haa&.&.&. haa&.&.&.", "voice/ch10/20700080ta", 拓巳);
-	SetBacklog("Haa&.&.&. haa&.&.&. haa&.&.&.", "NULL", NULL);
+	SetBacklog("Haa... haa... haa...", "voice/ch10/20700080ta", 拓巳);
+	SetBacklog("Haa... haa... haa...", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -693,8 +693,8 @@ bit by bit&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Though incapable of resistance&, I tensed my legs to keep from falling over&,", "NULL", NULL);
-	SetBacklog("Incapable of resistance&, yet still not falling over&,", "NULL", NULL);
+	SetBacklog("Though incapable of resistance, I tensed my legs to keep from falling over,", "NULL", NULL);
+	SetBacklog("Incapable of resistance, yet still not falling over,", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -718,8 +718,8 @@ Incapable of resistance&, yet still not falling over&,
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("I went on taking stakes in every part of my body&.", "NULL", NULL);
-	SetBacklog("He went on receiving stakes in every part of his body&. ", "NULL", NULL);
+	SetBacklog("I went on taking stakes in every part of my body.", "NULL", NULL);
+	SetBacklog("He went on receiving stakes in every part of his body. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -760,8 +760,8 @@ He went on receiving stakes in every part of his body&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("My chest&. Stomach&. The tips of my toes&. All throughout my body&.", "NULL", NULL);
-	SetBacklog("Takumi's chest&. His stomach&. The tips of his toes&. All throughout his body&.", "NULL", NULL);
+	SetBacklog("My chest. Stomach. The tips of my toes. All throughout my body.", "NULL", NULL);
+	SetBacklog("Takumi's chest. His stomach. The tips of his toes. All throughout his body.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -786,8 +786,8 @@ his body&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Thick&, sharp stakes kept pounding into me without mercy&.", "NULL", NULL);
-	SetBacklog("Suwa kept making thick&, sharp stakes pound into him without mercy&. ", "NULL", NULL);
+	SetBacklog("Thick, sharp stakes kept pounding into me without mercy.", "NULL", NULL);
+	SetBacklog("Suwa kept making thick, sharp stakes pound into him without mercy. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -832,8 +832,8 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	CreateVOICE("諏訪","ch10/20700090su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("Like an insect pinned up as a specimen&.", "voice/ch10/20700090su", 諏訪);
-	SetBacklog("Like an insect pinned up as a specimen&.", "NULL", NULL);
+	SetBacklog("Like an insect pinned up as a specimen.", "voice/ch10/20700090su", 諏訪);
+	SetBacklog("Like an insect pinned up as a specimen.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -862,8 +862,8 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	CreateVOICE("諏訪","ch10/20700100su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("And you ain't no rhinoceros beetle or butterfly&", "voice/ch10/20700100su", 諏訪);
-	SetBacklog("And you ain't no rhinoceros beetle or butterfly&.", "NULL", NULL);
+	SetBacklog("And you ain't no rhinoceros beetle or butterfly", "voice/ch10/20700100su", 諏訪);
+	SetBacklog("And you ain't no rhinoceros beetle or butterfly.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -893,8 +893,8 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	CreateVOICE("諏訪","ch10/20700110su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("A brat like you is more like the dung beetle type&.", "voice/ch10/20700110su", 諏訪);
-	SetBacklog("A brat like you is more like the dung beetle type&.", "NULL", NULL);
+	SetBacklog("A brat like you is more like the dung beetle type.", "voice/ch10/20700110su", 諏訪);
+	SetBacklog("A brat like you is more like the dung beetle type.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -920,8 +920,8 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("I had already reached the point at which it was impossible for me to stand&.", "NULL", NULL);
-	SetBacklog("Takumi had already reached the point at which it would be impossible for him to stand&.", "NULL", NULL);
+	SetBacklog("I had already reached the point at which it was impossible for me to stand.", "NULL", NULL);
+	SetBacklog("Takumi had already reached the point at which it would be impossible for him to stand.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -946,8 +946,8 @@ for him to stand&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Willpower alone was what kept me from collapsing&. ", "NULL", NULL);
-	SetBacklog("Suwa couldn't help but find it strange that he hadn't collapsed yet&.", "NULL", NULL);
+	SetBacklog("Willpower alone was what kept me from collapsing. ", "NULL", NULL);
+	SetBacklog("Suwa couldn't help but find it strange that he hadn't collapsed yet.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -988,8 +988,8 @@ Suwa couldn't help but find it strange that he hadn't collapsed yet&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("But&, I'll hit my limit soon&.&.&.", "NULL", NULL);
-	SetBacklog("But he would have to hit his limit soon&. ", "NULL", NULL);
+	SetBacklog("But, I'll hit my limit soon...", "NULL", NULL);
+	SetBacklog("But he would have to hit his limit soon. ", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1013,8 +1013,8 @@ But he would have to hit his limit soon&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("I couldn't see clearly&, as if there were a mosaic filter laid over my vision&.", "NULL", NULL);
-	SetBacklog("His eyes were empty&, and in all likelihood&, he wasn't seeing anything anymore&.", "NULL", NULL);
+	SetBacklog("I couldn't see clearly, as if there were a mosaic filter laid over my vision.", "NULL", NULL);
+	SetBacklog("His eyes were empty, and in all likelihood, he wasn't seeing anything anymore.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1042,8 +1042,8 @@ anymore&.
 	CreateVOICE("諏訪","ch10/20700120su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("If you've got any last words&, go on and say 'em&. But keep it to twenty letters or less&.", "voice/ch10/20700120su", 諏訪);
-	SetBacklog("If you've got any last words&, go on and say 'em&. But keep it to twenty letters or less&.", "NULL", NULL);
+	SetBacklog("If you've got any last words, go on and say 'em. But keep it to twenty letters or less.", "voice/ch10/20700120su", 諏訪);
+	SetBacklog("If you've got any last words, go on and say 'em. But keep it to twenty letters or less.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1069,8 +1069,8 @@ letters or less&."
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Suwa said to me gloatingly&, holding the next stake in his hand&.", "NULL", NULL);
-	SetBacklog("Suwa said to Takumi gloatingly&, holding the next stake in his hand&.", "NULL", NULL);
+	SetBacklog("Suwa said to me gloatingly, holding the next stake in his hand.", "NULL", NULL);
+	SetBacklog("Suwa said to Takumi gloatingly, holding the next stake in his hand.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1097,8 +1097,8 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	CreateVOICE("拓巳","ch10/20700130ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.", "voice/ch10/20700130ta", 拓巳);
-	SetBacklog("Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.", "NULL", NULL);
+	SetBacklog("Ha... ah... ha, ah... ha... ah...", "voice/ch10/20700130ta", 拓巳);
+	SetBacklog("Ha... ah... ha, ah... ha... ah...", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1123,8 +1123,8 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("With the next one&, he'll kill me&.", "NULL", NULL);
-	SetBacklog("Suwa will kill him with the next one&.", "NULL", NULL);
+	SetBacklog("With the next one, he'll kill me.", "NULL", NULL);
+	SetBacklog("Suwa will kill him with the next one.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1151,8 +1151,8 @@ Suwa will kill him with the next one&.
 	CreateVOICE("拓巳","ch10/20700140ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("Earlier&.&.&. you called me a cherry-boy&.&.&.", "voice/ch10/20700140ta", 拓巳);
-	SetBacklog("Earlier&.&.&. you called me a cherry-boy&.&.&.", "NULL", NULL);
+	SetBacklog("Earlier... you called me a cherry-boy...", "voice/ch10/20700140ta", 拓巳);
+	SetBacklog("Earlier... you called me a cherry-boy...", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1209,8 +1209,8 @@ Suwa will kill him with the next one&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("I glared at Suwa&, relying on his far-off voice to find him&.", "NULL", NULL);
-	SetBacklog("Takumi glared at Suwa with lightless eyes&.", "NULL", NULL);
+	SetBacklog("I glared at Suwa, relying on his far-off voice to find him.", "NULL", NULL);
+	SetBacklog("Takumi glared at Suwa with lightless eyes.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1237,8 +1237,8 @@ Takumi glared at Suwa with lightless eyes&.
 	CreateVOICE("諏訪","ch10/20700160su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("This is the last one&.", "voice/ch10/20700160su", 諏訪);
-	SetBacklog("This is the last one&.", "NULL", NULL);
+	SetBacklog("This is the last one.", "voice/ch10/20700160su", 諏訪);
+	SetBacklog("This is the last one.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1267,8 +1267,8 @@ Takumi glared at Suwa with lightless eyes&.
 	CreateVOICE("諏訪","ch10/20700170su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!", "voice/ch10/20700170su", 諏訪);
-	SetBacklog("As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!", "NULL", NULL);
+	SetBacklog("As for the salvation of the divine light... I'm sure as hell not givin' it to you!", "voice/ch10/20700170su", 諏訪);
+	SetBacklog("As for the salvation of the divine light... I'm sure as hell not givin' it to you!", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1304,8 +1304,8 @@ givin' it to you!"
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("I sensed the stake Suwa had flung as it sliced through the air&.", "NULL", NULL);
-	SetBacklog("Suwa flung the stake in his grasp&.", "NULL", NULL);
+	SetBacklog("I sensed the stake Suwa had flung as it sliced through the air.", "NULL", NULL);
+	SetBacklog("Suwa flung the stake in his grasp.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1333,8 +1333,8 @@ Suwa flung the stake in his grasp&.
 	CreateVOICE("拓巳","ch10/20700180ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("&.&.&.Did you know?", "voice/ch10/20700180ta", 拓巳);
-	SetBacklog("&.&.&.Did you know?", "NULL", NULL);
+	SetBacklog("...Did you know?", "voice/ch10/20700180ta", 拓巳);
+	SetBacklog("...Did you know?", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1371,8 +1371,8 @@ Suwa flung the stake in his grasp&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("It was the stake of certain death&. A cross to bring me the promised Gospel&.", "NULL", NULL);
-	SetBacklog("It was the stake of certain death&. A cross to bring me the promised Gospel&.", "NULL", NULL);
+	SetBacklog("It was the stake of certain death. A cross to bring me the promised Gospel.", "NULL", NULL);
+	SetBacklog("It was the stake of certain death. A cross to bring me the promised Gospel.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1472,8 +1472,8 @@ The one who would die with this single blow was―
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("With a dull sound&.", "NULL", NULL);
-	SetBacklog("With a dull sound&.", "NULL", NULL);
+	SetBacklog("With a dull sound.", "NULL", NULL);
+	SetBacklog("With a dull sound.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1517,8 +1517,8 @@ With a dull sound&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("The stake plunged deep into his forehead&.", "NULL", NULL);
-	SetBacklog("The stake plunged deep into his forehead&.", "NULL", NULL);
+	SetBacklog("The stake plunged deep into his forehead.", "NULL", NULL);
+	SetBacklog("The stake plunged deep into his forehead.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1542,8 +1542,8 @@ The stake plunged deep into his forehead&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Agony erupted throughout Suwa's body―gushing up from within him&.", "NULL", NULL);
-	SetBacklog("All of the agony devouring my whole body went away&, almost like it had been an illusion&.", "NULL", NULL);
+	SetBacklog("Agony erupted throughout Suwa's body―gushing up from within him.", "NULL", NULL);
+	SetBacklog("All of the agony devouring my whole body went away, almost like it had been an illusion.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1567,8 +1567,8 @@ All of the agony devouring my whole body went away&, almost like it had been an 
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Suwa let out a voiceless scream&, moaning&.", "NULL", NULL);
-	SetBacklog("I let out a deep breath and licked my parched lips&.", "NULL", NULL);
+	SetBacklog("Suwa let out a voiceless scream, moaning.", "NULL", NULL);
+	SetBacklog("I let out a deep breath and licked my parched lips.", "NULL", NULL);
 
 //※「Suwa let out a voiceless scream&, moaning&.」は画面中央に表示
 //――――――――――――――――――――――――――――――――――――――
@@ -1589,8 +1589,8 @@ I let out a deep breath and licked my parched lips&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Suwa's entire body was impaled with cross-shaped stakes&.", "NULL", NULL);
-	SetBacklog("In my hand was a single cross-shaped stake&.", "NULL", NULL);
+	SetBacklog("Suwa's entire body was impaled with cross-shaped stakes.", "NULL", NULL);
+	SetBacklog("In my hand was a single cross-shaped stake.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1614,8 +1614,8 @@ In my hand was a single cross-shaped stake&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("When he looked up&, there was a cross stuck in his forehead&.", "NULL", NULL);
-	SetBacklog("When I looked up at the sky&, there were leaden clouds&.", "NULL", NULL);
+	SetBacklog("When he looked up, there was a cross stuck in his forehead.", "NULL", NULL);
+	SetBacklog("When I looked up at the sky, there were leaden clouds.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1642,8 +1642,8 @@ When I looked up at the sky&, there were leaden clouds&.
 	CreateVOICE("拓巳","ch10/20700200ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("The miracle of the Resurrection is a story&, and a delusion&.", "voice/ch10/20700200ta", 拓巳);
-	SetBacklog("The miracle of the Resurrection is a story&, and a delusion&.", "NULL", NULL);
+	SetBacklog("The miracle of the Resurrection is a story, and a delusion.", "voice/ch10/20700200ta", 拓巳);
+	SetBacklog("The miracle of the Resurrection is a story, and a delusion.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1672,8 +1672,8 @@ When I looked up at the sky&, there were leaden clouds&.
 	CreateVOICE("諏訪","ch10/20700210su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("What&.&.&. did you do&.&.&.?", "voice/ch10/20700210su", 諏訪);
-	SetBacklog("What&.&.&. did you do&.&.&.?", "NULL", NULL);
+	SetBacklog("What... did you do...?", "voice/ch10/20700210su", 諏訪);
+	SetBacklog("What... did you do...?", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1703,8 +1703,8 @@ When I looked up at the sky&, there were leaden clouds&.
 	CreateVOICE("拓巳１","ch10/20700220ta");
 	SoundPlay("拓巳１",0,1000,false);
 
-	SetBacklog("Delusion synchronization&.", "voice/ch10/20700220ta", 拓巳);
-	SetBacklog("Delusion synchronization&.", "NULL", NULL);
+	SetBacklog("Delusion synchronization.", "voice/ch10/20700220ta", 拓巳);
+	SetBacklog("Delusion synchronization.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1730,8 +1730,8 @@ When I looked up at the sky&, there were leaden clouds&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Assimilation with delusions&.", "NULL", NULL);
-	SetBacklog("An invasion of the heart&.", "NULL", NULL);
+	SetBacklog("Assimilation with delusions.", "NULL", NULL);
+	SetBacklog("An invasion of the heart.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1754,8 +1754,8 @@ An invasion of the heart&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Like two sets of ripples canceling each other out&.", "NULL", NULL);
-	SetBacklog("Like two wavelengths resonating&.", "NULL", NULL);
+	SetBacklog("Like two sets of ripples canceling each other out.", "NULL", NULL);
+	SetBacklog("Like two wavelengths resonating.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1778,8 +1778,8 @@ Like two wavelengths resonating&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Entwining with one another&.", "NULL", NULL);
-	SetBacklog("Melting together&.", "NULL", NULL);
+	SetBacklog("Entwining with one another.", "NULL", NULL);
+	SetBacklog("Melting together.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1803,8 +1803,8 @@ Melting together&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("The fate you created would be warped&.", "NULL", NULL);
-	SetBacklog("Warping the fates created by others&.", "NULL", NULL);
+	SetBacklog("The fate you created would be warped.", "NULL", NULL);
+	SetBacklog("Warping the fates created by others.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1828,8 +1828,8 @@ Warping the fates created by others&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("And switched out&.", "NULL", NULL);
-	SetBacklog("Switching them in&.", "NULL", NULL);
+	SetBacklog("And switched out.", "NULL", NULL);
+	SetBacklog("Switching them in.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1852,8 +1852,8 @@ Switching them in&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("No one could do that&, Suwa thought disbelievingly&.", "NULL", NULL);
-	SetBacklog("No one could do that&, said Suwa's expression&.", "NULL", NULL);
+	SetBacklog("No one could do that, Suwa thought disbelievingly.", "NULL", NULL);
+	SetBacklog("No one could do that, said Suwa's expression.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1882,8 +1882,8 @@ No one could do that&, said Suwa's expression&.
 	CreateVOICE("拓巳","ch10/20700230ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("If you're God's vanguard&, then crumble to dust like the Messiah&.", "voice/ch10/20700230ta", 拓巳);
-	SetBacklog("If you're God's vanguard&, then crumble to dust like the Messiah&.", "NULL", NULL);
+	SetBacklog("If you're God's vanguard, then crumble to dust like the Messiah.", "voice/ch10/20700230ta", 拓巳);
+	SetBacklog("If you're God's vanguard, then crumble to dust like the Messiah.", "NULL", NULL);
 
 #TIPS_メシア = true;
 
@@ -1911,8 +1911,8 @@ No one could do that&, said Suwa's expression&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Takumi tossed the stake away&.", "NULL", NULL);
-	SetBacklog("I tossed the stake away&.", "NULL", NULL);
+	SetBacklog("Takumi tossed the stake away.", "NULL", NULL);
+	SetBacklog("I tossed the stake away.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1935,8 +1935,8 @@ I tossed the stake away&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Colors were rapidly vanishing from Suwa's vision&.", "NULL", NULL);
-	SetBacklog("Suwa's eyes were rapidly losing their light&.", "NULL", NULL);
+	SetBacklog("Colors were rapidly vanishing from Suwa's vision.", "NULL", NULL);
+	SetBacklog("Suwa's eyes were rapidly losing their light.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1993,8 +1993,8 @@ Suwa's eyes were rapidly losing their light&.
 	CreateVOICE("拓巳","ch10/20700250ta");
 	SoundPlay("拓巳",0,1000,false);
 
-	SetBacklog("I don't need salvation&.", "ch10/20700250ta", 拓巳);
-	SetBacklog("I don't need salvation&.", "NULL", NULL);
+	SetBacklog("I don't need salvation.", "ch10/20700250ta", 拓巳);
+	SetBacklog("I don't need salvation.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 

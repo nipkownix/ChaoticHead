@@ -70,7 +70,7 @@ And once I ran off&, relying on her voice&,
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	SetBacklog("There was Sena&, going white as she was forced to witness a delusion I couldn't see&, Kozu-pii&, and―Hatano-san&, blood-drenched and fallen&.", "NULL", NULL);
+	SetBacklog("There was Sena, going white as she was forced to witness a delusion I couldn't see, Kozu-pii, and―Hatano-san, blood-drenched and fallen.", "NULL", NULL);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

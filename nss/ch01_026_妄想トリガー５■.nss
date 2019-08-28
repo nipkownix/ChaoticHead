@@ -1720,7 +1720,7 @@ relentless truth&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "―Don't look at me&.");
 
-	SetBacklog("―Don't look at me&.", "NULL", NULL);
+	SetBacklog("―Don't look at me.", "NULL", NULL);
 
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
