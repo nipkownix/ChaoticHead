@@ -221,7 +221,7 @@ But all of them formed the same sentence\
 
 //‚r‚d//ÕŒ‚‰¹
 //``‚eE‚n
-	
+
 	SoundPlay("SE*", 2000, 0, false);
 
 	ClearAll(2000);

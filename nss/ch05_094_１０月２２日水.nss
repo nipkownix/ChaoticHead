@@ -86,7 +86,7 @@ committed by the same murderer&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text901]
-<FONT incolor="#0000ff"><U>123</U></FONT> Name: <FONT incolor="#228b22">Miser (Connectic<pre>u</pre>t)</FONT>［age］：200X/10/22(W) 20:38:11 <FONT incolor="#0000ff"><U>ID:</U></FONT>OlkKqUBO0
+<FONT incolor="#0000ff"><U>123</U></FONT> Name: <FONT incolor="#228b22">Miser (Connectic<pre>u</pre>t)</FONT>［age］：200X/10/22(W) 20:38:11  <FONT incolor="#0000ff"><U>ID:</U></FONT>OlkKqUBO0
 "Whose eyes are those eyes" is the New-Gen criminal's signature
 　
 </PRE>
@@ -98,7 +98,7 @@ committed by the same murderer&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text902]
-<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42 <FONT incolor="#0000ff"><U>ID:</U></FONT>WbOw0ibQ0
+<FONT incolor="#0000ff"><U>124</U></FONT> Name: <FONT incolor="#228b22">School drop-out （Shizuoka）</FONT>［age］：200X/10/22(W) 20:38:42  <FONT incolor="#0000ff"><U>ID:</U></FONT>WbOw0ibQ0
 The guy who put it on MewTube has to be the perp
 Awesome stuff&, whose eyes are (etc)
 　
@@ -109,7 +109,7 @@ Awesome stuff&, whose eyes are (etc)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text903]
-<FONT incolor="#0000ff"><U>125</U></FONT> Name: <FONT incolor="#228b22">Night Guard （Hyogo）</FONT>［age］：200X/10/22(W) 20:39:47 <FONT incolor="#0000ff"><U>ID:</U></FONT>HHn4LeUp0
+<FONT incolor="#0000ff"><U>125</U></FONT> Name: <FONT incolor="#228b22">Night Guard （Hyogo）</FONT>［age］：200X/10/22(W) 20:39:47  <FONT incolor="#0000ff"><U>ID:</U></FONT>HHn4LeUp0
 Alrighty&, I'll report it to―uwah&, whose eyes are asdfadsghsfhhjk
 　
 </PRE>
@@ -120,7 +120,7 @@ Alrighty&, I'll report it to―uwah&, whose eyes are asdfadsghsfhhjk
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text904]
-<FONT incolor="#0000ff"><U>126</U></FONT> Name: <FONT incolor="#228b22">White Color （Oregon）</FONT>［age］：200X/10/22(W) 20:41:56 <FONT incolor="#0000ff"><U>ID:</U></FONT>ot5WPXVG
+<FONT incolor="#0000ff"><U>126</U></FONT> Name: <FONT incolor="#228b22">White Color （Oregon）</FONT>［age］：200X/10/22(W) 20:41:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>ot5WPXVG
 The message of Vampire was "Whose eyes are (etc)&."
 That makes a connection between the first and last New-Gen cases&.
 Even though everyone used to say they weren't related&.
@@ -135,7 +135,7 @@ Crap&, getting way too excited about this
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text905]
-<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22 <FONT incolor="#0000ff"><U>ID:</U></FONT>/pkGqtA8
+<FONT incolor="#0000ff"><U>127</U></FONT> Name: <FONT incolor="#228b22">Grass-lot baseball player （Ibaraki）</FONT>［age］：200X/10/22(W) 20:42:22  <FONT incolor="#0000ff"><U>ID:</U></FONT>/pkGqtA8
 <PRE>|д<◎>)&.｡oO</PRE>(Whose eyes are those eyes?)
 　
 </PRE>
@@ -145,7 +145,7 @@ Crap&, getting way too excited about this
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text906]
-<FONT incolor="#0000ff"><U>128</U></FONT> Name: <FONT incolor="#228b22">Lion dancer （city in the sky）</FONT>［age］：200X/10/22(W) 20:43:56 <FONT incolor="#0000ff"><U>ID:</U></FONT>r1TH+bP8
+<FONT incolor="#0000ff"><U>128</U></FONT> Name: <FONT incolor="#228b22">Lion dancer （city in the sky）</FONT>［age］：200X/10/22(W) 20:43:56  <FONT incolor="#0000ff"><U>ID:</U></FONT>r1TH+bP8
 <FONT incolor="#0000ff"><U><PRE>>></PRE>126</U></FONT>
 Plus&, whose eyes (etc) first showed up in Vampire House&, so whoever
 did it couldn't have been imitating the group diving&.
@@ -157,7 +157,7 @@ did it couldn't have been imitating the group diving&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text907]
-<FONT incolor="#0000ff"><U>129</U></FONT> Name: <FONT incolor="#228b22">Secretary （Kanagawa）</FONT>［age］：200X/10/22(W) 20:45:10 <FONT incolor="#0000ff"><U>ID:</U></FONT>ZheTK2L10
+<FONT incolor="#0000ff"><U>129</U></FONT> Name: <FONT incolor="#228b22">Secretary （Kanagawa）</FONT>［age］：200X/10/22(W) 20:45:10  <FONT incolor="#0000ff"><U>ID:</U></FONT>ZheTK2L10
 <FONT incolor="#0000ff"><U><PRE>>></PRE>127</U></FONT>
 Don't look this way&, lol
 Whose eyes (etc)
@@ -175,7 +175,7 @@ Whose eyes (etc)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text908]
-<FONT incolor="#0000ff"><U>130</U></FONT> Name: <FONT incolor="#228b22">Low-income earner （Niigata）</FONT>［age］：200X/10/22(W) 20:46:07 <FONT incolor="#0000ff"><U>ID:</U></FONT>3S3h/NC89
+<FONT incolor="#0000ff"><U>130</U></FONT> Name: <FONT incolor="#228b22">Low-income earner （Niigata）</FONT>［age］：200X/10/22(W) 20:46:07  <FONT incolor="#0000ff"><U>ID:</U></FONT>3S3h/NC89
 I saw the vid&, but doesn't it seem kinda fake?
 I bet 1 cent that some acting troupe did it to get press
 　
@@ -186,7 +186,7 @@ I bet 1 cent that some acting troupe did it to get press
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text909]
-<FONT incolor="#0000ff"><U>131</U></FONT> Name: <FONT incolor="#228b22">Pilot （the stratosphere）</FONT>［age］：200X/10/22(W) 20:48:42 <FONTincolor="#0000ff"><U>ID:</U></FONT>e6dCF8Ps
+<FONT incolor="#0000ff"><U>131</U></FONT> Name: <FONT incolor="#228b22">Pilot （the stratosphere）</FONT>［age］：200X/10/22(W) 20:48:42  <FONT incolor="#0000ff"><U>ID:</U></FONT>e6dCF8Ps
 Don't overuse the whose eyes phrase or whatever&, you twerps
 All it'll do is make the perp get even more into it
 　
@@ -197,7 +197,7 @@ All it'll do is make the perp get even more into it
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text910]
-<FONT incolor="#0000ff"><U>132</U></FONT> Name: <FONT incolor="#228b22">Plastic surgeon （Mie）</FONT>［age］：200X/10/22(W) 20:50:38 <FONT incolor="#0000ff"><U>ID:</U></FONT>DVtxTrYu0
+<FONT incolor="#0000ff"><U>132</U></FONT> Name: <FONT incolor="#228b22">Plastic surgeon （Mie）</FONT>［age］：200X/10/22(W) 20:50:38  <FONT incolor="#0000ff"><U>ID:</U></FONT>DVtxTrYu0
 So are we like totally sure it's all the same guy now? (((( ；ﾟДﾟ)))
 　
 </PRE>
@@ -207,7 +207,7 @@ So are we like totally sure it's all the same guy now? (((( ；ﾟДﾟ)))
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text911]
-<FONT incolor="#0000ff"><U>133</U></FONT> Name: <FONT incolor="#228b22">Dunce （Chichi-jima）</FONT>［age］：200X/10/22(W) 20:50:51 <FONT incolor="#0000ff"><U>ID:</U></FONT>dETOb6pw
+<FONT incolor="#0000ff"><U>133</U></FONT> Name: <FONT incolor="#228b22">Dunce （Chichi-jima）</FONT>［age］：200X/10/22(W) 20:50:51  <FONT incolor="#0000ff"><U>ID:</U></FONT>dETOb6pw
 　<PRE>(  < ◎> 皿< ◎>)</PRE>Whose~ Eyes~
 　
 　
@@ -223,7 +223,7 @@ So are we like totally sure it's all the same guy now? (((( ；ﾟДﾟ)))
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text912]
-<FONT incolor="#0000ff"><U>134</U></FONT> Name: <FONT incolor="#228b22">Taking a siesta (Yamanashi)</FONT>［age］：200X/10/22(W) 20:51:04 <FONT incolor="#0000ff"><U>ID:</U></FONT>i07S8ghy
+<FONT incolor="#0000ff"><U>134</U></FONT> Name: <FONT incolor="#228b22">Taking a siesta (Yamanashi)</FONT>［age］：200X/10/22(W) 20:51:04  <FONT incolor="#0000ff"><U>ID:</U></FONT>i07S8ghy
 <FONT incolor="#0000ff"><U><PRE>>>130</PRE></U></FONT>
 Like&, it's actually just 2 meters tall&,
 and they had a landing mat spread out right below it&, rofl
@@ -235,7 +235,7 @@ and they had a landing mat spread out right below it&, rofl
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text913]
-<FONT incolor="#0000ff"><U>135</U></FONT> Name: <FONT incolor="#228b22">Psychometrer（Kamchatka Peninsula）</FONT>［age］：200X/10/22(W) 20:54:00 <FONT incolor="#0000ff"><U>ID:</U></FONT>yoepHMBk0
+<FONT incolor="#0000ff"><U>135</U></FONT> Name: <FONT incolor="#228b22">Psychometrer（Kamchatka Peninsula）</FONT>［age］：200X/10/22(W) 20:54:00  <FONT incolor="#0000ff"><U>ID:</U></FONT>yoepHMBk0
 <FONT incolor="#0000ff"><U><PRE>>>131</PRE></U></FONT>
 Agreed
 More people are gonna get killed while you guys keep using those words
@@ -255,6 +255,7 @@ Get a hold of yourselves&. It's not that funny anymore
 [text914]
 <FONT incolor="#0000ff"><U>136</U></FONT>  Name: <FONT incolor="#228b22">Film festival participant （Inland Sea）</FONT>［age］：200X/10/22(W) 20:55:29  <FONT incolor="#0000ff"><U>ID:</U></FONT>ecZZ4Itq0
 I live in Shibuya<FONT incolor="#0000ff"><U><PRE>>></PRE>131</U></FONT>*sob* haha
+　
 <FONT incolor="#0000ff"><U><PRE>>></PRE>133</U></FONT>
 Don't look this way
 　
@@ -265,7 +266,7 @@ Don't look this way
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text915]
-<FONT incolor="#0000ff"><U>137</U></FONT> Name: <FONT incolor="#228b22">17 year old office lady （Kantou region）</FONT>［age］：200X/10/22(W) 20:56:08 <FONT incolor="#0000ff"><U>ID:</U></FONT>EMD4gjlgO
+<FONT incolor="#0000ff"><U>137</U></FONT> Name: <FONT incolor="#228b22">17 year old office lady （Kantou region）</FONT>［age］：200X/10/22(W) 20:56:08  <FONT incolor="#0000ff"><U>ID:</U></FONT>EMD4gjlgO
 The MewTube vid
 It's racked up the top number of views
 　
@@ -279,7 +280,7 @@ Whoa lol&, don't look my way&, hahaha
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text916]
-<FONT incolor="#0000ff"><U>138</U></FONT> Name: <FONT incolor="#228b22">Chief （Tokyo area）</FONT>［age］：200X/10/22(W) 21:01:03 <FONT incolor="#0000ff"><U>ID:</U></FONT>6ReQ/N/dO
+<FONT incolor="#0000ff"><U>138</U></FONT> Name: <FONT incolor="#228b22">Chief （Tokyo area）</FONT>［age］：200X/10/22(W) 21:01:03  <FONT incolor="#0000ff"><U>ID:</U></FONT>6ReQ/N/dO
 Here it is!! The top story on MHK News!!!111!!
 　
 </PRE>
@@ -289,7 +290,7 @@ Here it is!! The top story on MHK News!!!111!!
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text917]
-<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24 <FONT incolor="#0000ff"><U>ID:</U></FONT>t11D9z5a0
+<FONT incolor="#0000ff"><U>139</U></FONT> Name: <FONT incolor="#228b22">Interior designer （western Japan）</FONT>［age］：200X/10/22(W) 21:02:24  <FONT incolor="#0000ff"><U>ID:</U></FONT>t11D9z5a0
 No declaration of responsibility from whose eyes (etc) yet-?
 　
 </PRE>
@@ -299,7 +300,7 @@ No declaration of responsibility from whose eyes (etc) yet-?
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text918]
-<FONT incolor="#0000ff"><U>140</U></FONT> Name: <FONT incolor="#228b22">Clam farmer (Tokyo area)</FONT>［age］：200X/10/22(W) 21:02:41 <FONT incolor="#0000ff"><U>ID:</U></FONT>NObrf8P20
+<FONT incolor="#0000ff"><U>140</U></FONT> Name: <FONT incolor="#228b22">Clam farmer (Tokyo area)</FONT>［age］：200X/10/22(W) 21:02:41  <FONT incolor="#0000ff"><U>ID:</U></FONT>NObrf8P20
 Special programs on all the commercial stations━━━━<PRE>＜◎＞ ∀ ＜◎＞</PRE>━━━━!!!11!!11
 Except for Tokyo TV&, hahaha
 　

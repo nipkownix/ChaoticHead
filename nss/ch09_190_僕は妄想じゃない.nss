@@ -83,7 +83,14 @@ away&.
 	DeleteStand("bu七海_制服_通常_normal", 300, true);
 	Rotate("ルーム", 2000, -40, -90, 0, AxlDxl, true);
 
-	CreateTextureEX("星来", 200, Center, InBottom, "cg/bu/bu星来_覚醒後_通常_normal.png");
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("星来", 200, Center, InBottom, "ex/bu/bu星来_覚醒後_通常_下着_normal.png");
+	}else{
+		CreateTextureEX("星来", 200, Center, InBottom, "cg/bu/bu星来_覚醒後_通常_normal.png");
+	}
+
+
 
 	Move("星来", 0, @-200, @0, null, false);
 	Fade("星来", 500, 1000, null, true);

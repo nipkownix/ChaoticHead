@@ -651,7 +651,15 @@ leave the classroom―
 //ＣＧ//教室のドアにたたずむ優愛
 //※優愛は悲しそうな顔
 
-	CreateTextureEX("back04", 100, Center, Middle, "cg/ev/ev041_01_2_優愛教室ドアから見ている_a.jpg");
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back04", 100, Center, Middle, "ex/ev/ev041_01_2_優愛教室ドアから見ている_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back04", 100, Center, Middle, "cg/ev/ev041_01_2_優愛教室ドアから見ている_a.jpg");
+	}
+
 	Request("back04", Smoothing);
 	Zoom("back04", 0, 2000, 2000, null, true);
 	Zoom("back04", 1000, 1000, 1000, Dxl2, false);

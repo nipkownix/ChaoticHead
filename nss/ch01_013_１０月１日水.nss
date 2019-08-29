@@ -88,8 +88,16 @@ growing twitchy&.
 //‚a‚f//¼Ÿ·‚Ì’¬•À‚İ//’©
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg039_02_1_¼Ÿ·_a.jpg");
 	CreateTexture("back04", 250, 0, 0, "cg/bg/bg039_02_1_¼Ÿ·_b.png");
-//	CreateTexture("back05", 200, -230, -100, "cg/bg/bg039_02_1_¼Ÿ·_—Dˆ¤.png");
-	CreateTexture("back05", 200, 0, 0, "cg/bg/bg039_02_1_¼Ÿ·_—Dˆ¤.png");
+
+	if(#‰º’…ƒpƒbƒ`==true)
+	{
+		CreateTexture("back05", 200, 0, 0, "ex/bg/bg039_02_1_¼Ÿ·_—Dˆ¤.png");
+	}
+	else
+	{
+		CreateTexture("back05", 200, 0, 0, "cg/bg/bg039_02_1_¼Ÿ·_—Dˆ¤.png");
+	}
+
 	SetVertex("back05", 0, 0);
 	Request("back05", Smoothing);
 //	Zoom("back05", 0, 800, 800, null, true);
@@ -161,7 +169,17 @@ around with all my might&.
 
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg039_01_2_¼Ÿ·_a.jpg");
 	CreateTexture("back04", 250, 0, 0, "cg/bg/bg039_01_2_¼Ÿ·_b.png");
-	CreateTexture("back05", 200, 0, 0, "cg/bg/bg039_01_2_¼Ÿ·_—Dˆ¤.png");
+
+
+	if(#‰º’…ƒpƒbƒ`==true)
+	{
+		CreateTexture("back05", 200, 0, 0, "ex/bg/bg039_01_2_¼Ÿ·_—Dˆ¤.png");
+	}
+	else
+	{
+		CreateTexture("back05", 200, 0, 0, "cg/bg/bg039_01_2_¼Ÿ·_—Dˆ¤.png");
+	}
+
 	SetVertex("back05", 0, 0);
 	Request("back05", Smoothing);
 	Zoom("back05", 0, 500, 500, null, true);

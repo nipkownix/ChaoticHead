@@ -85,7 +85,15 @@ if($あやせ白下着 == true)
 //ＣＧ//あやせが２人いる（白下着ｖｅｒ）
 //※可能なら、２人のあやせが同時に同じセリフを喋っているような演出がほしいです。
 
-	CreateBG(100, 1000, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+
+	if(#下着パッチ==true)
+	{
+		CreateBG(100, 1000, 0, 0, "ex/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateBG(100, 1000, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -99,8 +107,25 @@ FES suddenly leapt to completely unrelated topic&. I'd thought she'd
 start treating me like I was a perv&, but instead she'd disregarded
 it&.&.&.
 
-{	CreateTextureEX("back03", 200, -1600, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
-	Fade("back03", 500, 1000, null, true);}
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back03", 200, -1600, 0, "ex/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back03", 200, -1600, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+
+	Fade("back03", 500, 1000, null, true);
+
+
+//――――――――――――――――――――――――――――――――――――――
+<PRE box00>
+[text501]
 //【あやせ】
 <voice name="あやせ" class="あやせ" src="voice/ch04/09000020ay">
 "In Japan&.&.&. No&, even if you searched the whole world&, you
@@ -249,7 +274,15 @@ else if($あやせスク水 == true)
 //ＣＧ//あやせが２人いる（スク水ｖｅｒ）
 //※可能なら、２人のあやせが同時に同じセリフを喋っているような演出がほしいです。
 
-	CreateBG(100, 1000, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	if(#下着パッチ==true)
+	{
+		CreateBG(100, 1000, 0, 0, "ex/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateBG(100, 1000, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -263,8 +296,24 @@ FES suddenly leapt to completely unrelated topic&. I'd thought she'd
 start treating me like I was a perv&, but instead she'd disregarded
 it&.&.&.
 
-{	CreateTextureEX("back03", 200, -1600, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
-	Fade("back03", 500, 1000, null, true);}
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back03", 200, -1600, 0, "ex/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back03", 200, -1600, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+
+	Fade("back03", 500, 1000, null, true);
+
+//――――――――――――――――――――――――――――――――――――――
+<PRE box00>
+[text604]
 //【あやせ】
 <voice name="あやせ" class="あやせ" src="voice/ch04/09000180ay">
 "In Japan&.&.&. No&, even if you searched the whole world&, you

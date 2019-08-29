@@ -908,7 +908,16 @@ if($あやせ白下着 == true)
 //分岐１６
 //ＣＧ//あやせが２人いる（下着ｖｅｒ）
 
-	CreateTextureEX("back10", 100, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back10", 100, 0, 0, "ex/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back10", 100, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+
 	Request("back10", Smoothing);
 	Fade("back10", 500, 1000, null, true);
 	Delete("back0*");
@@ -1012,7 +1021,15 @@ else if($あやせスク水 == true)
 //分岐１７
 //ＣＧ//あやせが２人いる（スク水ｖｅｒ）
 
-	CreateTextureEX("back10", 100, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back10", 100, 0, 0, "ex/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back10", 100, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+
 	Request("back10", Smoothing);
 	Fade("back10", 500, 1000, null, true);
 	Delete("back0*");

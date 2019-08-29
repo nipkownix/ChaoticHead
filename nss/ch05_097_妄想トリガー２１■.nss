@@ -1637,7 +1637,16 @@ if($あやせ白下着 == true)
 	Fade("back14", 300, 1000, null, true);
 	CreateColor("back15", 300, 0, 0, 800, 600, "Black");
 	Fade("back15", 0, 300, null, false);
-	CreateTextureEX("back16", 100, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back16", 100, 0, 0, "ex/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back16", 100, 0, 0, "cg/ev/ev039_01_3_あやせ白下着_a.jpg");
+	}
+
 	Fade("back16", 0, 1000, null, false);
 	FadeDelete("back14", 200, true);
 
@@ -1732,7 +1741,16 @@ else if($あやせスク水 == true)
 	Fade("back14", 300, 1000, null, true);
 	CreateColor("back15", 300, 0, 0, 800, 600, "Black");
 	Fade("back15", 0, 300, null, false);
-	CreateTextureEX("back16", 100, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+
+	if(#下着パッチ==true)
+	{
+		CreateTextureEX("back16", 100, 0, 0, "ex/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+	else
+	{
+		CreateTextureEX("back16", 100, 0, 0, "cg/ev/ev039_02_3_あやせ白下着_a.jpg");
+	}
+
 	Fade("back16", 0, 1000, null, false);
 	FadeDelete("back14", 200, true);
 

@@ -1154,7 +1154,7 @@ function StartWhich02()
 
 
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto = false;
+	$SYSTEM_text_auto=false;
 //	$SYSTEM_backselect_lock = true;
 
 }
@@ -1175,7 +1175,7 @@ function PreWhich02()
 	Zoom("セカイドア", 500, 200, 200, Dxl2, true);
 
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto = false;
+	$SYSTEM_text_auto=false;
 //	$SYSTEM_backselect_lock = true;
 }
 
@@ -2224,7 +2224,7 @@ function SetChoice03($テキストデータ１,$テキストデータ２,$テキストデータ３)
 	SetNextFocus("@選択肢３/MouseUsual/選択肢３板１", "@選択肢１/MouseUsual/選択肢１板１", RIGHT);
 	
 	$SYSTEM_skip=false;
-	$SYSTEM_text_auto = false;
+	$SYSTEM_text_auto=false;
 //	$SYSTEM_backselect_lock = true;
 
 	Fade("@選択肢板*",0,0,null,false);
