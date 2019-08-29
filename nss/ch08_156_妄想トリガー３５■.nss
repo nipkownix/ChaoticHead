@@ -1079,26 +1079,22 @@ Moob-Gen No&. ? = &.&.&.&.&.to be continued!!!  (゜ロ)ギョェ</PRE>
 //おがみ：ニュース画面なし？
 //徒歩：なんちゅうていさんに交渉中
 
-	SoundPlay("SE01", 2000, 300, true);
+	CreateSE("SE02","SE_機械_電化製品_ラジオ_ピンクノイズ");
 
-	CreateSE("SE02","SE_日常_PC_マウスクリック");
-	SoundPlay("SE02", 0, 1000, false);
-
-	CreateSE("SE02","SE_日常_携帯_ノイズ");
-	CreateMovie("砂嵐", 150, 0, 0, true, false, "dx/mvSandstorm.ngs");	
-	Fade("砂嵐", 0, 1000, null, true);
-	SoundPlay("SE02", 0, 1000, false);
-
-	Request("砂嵐", Start);
-	Wait(1000);
-	Delete("砂嵐");
-
-	SoundPlay("SE02", 0, 0, false);
 	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg213_01_6_ニュースDQNパズル_a.jpg");
-	Fade("背景２", 0, 1000, null, true);
-	FadeDelete("砂嵐", 0, 0, null, true);
 
+	CreateMovie("砂嵐", 200, 0, 0, true, false, "dx/mvSandstorm.ngs");	
+	Fade("砂嵐", 0, 1000, null, true);
+	SoundPlay("SE02", 0, 1000, true);
+
+	Wait(500);
+
+	Fade("背景２", 0, 1000, null, true);
+	SetVolume("SE02", 100, 0, NULL);
+	FadeDelete("砂嵐", 100, 0, null, true);
 	Wait(100);
+	Delete("砂嵐");
+	FadeDelete("背景９", 0, true);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
