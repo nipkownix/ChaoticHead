@@ -325,8 +325,10 @@ Even vaster cheers of delight rose from the audience&.
 
 	$Y‘Å‚¿ = 1;
 	CreateSound("Y‚ğ‘Å‚Ä‚P", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-	SoundPlay("Y‚ğ‘Å‚Ä‚P",0,1,false);
-	SetStream("Y‚ğ‘Å‚Ä‚P", 12000);
+	SetStream("Y‚ğ‘Å‚Ä‚P", 11900);
+
+	SoundPlay("Y‚ğ‘Å‚Ä‚P",16,10,false);
+	Wait(100);
 	SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 1000, NULL);
 
 	Wait(1000);
@@ -417,14 +419,14 @@ The lyrics made me go tense&.
 
 	if($Y‘Å < 31000)
 	{
-		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
-	
 		$Y‘Å‚¿ = 2;
 		CreateSound("Y‚ğ‘Å‚Ä‚Q", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-		SetVolume("Y‚ğ‘Å‚Ä‚Q", 0, 0, NULL);
-		SetAlias("Y‚ğ‘Å‚Ä‚Q", "Y‚ğ‘Å‚Ä‚Q");
-		SoundPlay("Y‚ğ‘Å‚Ä‚Q",0,1,false);
-		SetStream("Y‚ğ‘Å‚Ä‚Q", 33000);
+		SetStream("Y‚ğ‘Å‚Ä‚Q", 32900);
+
+		SetVolume("Y‚ğ‘Å‚Ä‚P", 1500, 0, NULL);
+
+		SoundPlay("Y‚ğ‘Å‚Ä‚Q",16,10,false);
+		Wait(100);
 		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 1000, NULL);
 	}
 
@@ -483,14 +485,14 @@ At the end&, she repeated the chorus over and over&.
 
 	if($Y‘Å < 284000)
 	{
-		SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 0, NULL);
-		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1000, 0, NULL);
-
 		CreateSound("Y‚ğ‘Å‚Ä‚R", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
-		SetVolume("Y‚ğ‘Å‚Ä‚R", 0, 0, NULL);
-		SetAlias("Y‚ğ‘Å‚Ä‚R", "Y‚ğ‘Å‚Ä‚R");
-		SoundPlay("Y‚ğ‘Å‚Ä‚R",0,1,false);
-		SetStream("Y‚ğ‘Å‚Ä‚R", 286000);
+		SetStream("Y‚ğ‘Å‚Ä‚R", 285900);
+
+		SetVolume("Y‚ğ‘Å‚Ä‚P", 1500, 0, NULL);
+		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1500, 0, NULL);
+
+		SoundPlay("Y‚ğ‘Å‚Ä‚R",16,10,false);
+		Wait(100);
 		SetVolume("Y‚ğ‘Å‚Ä‚R", 1000, 1000, NULL);
 	}
 
