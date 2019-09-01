@@ -66,8 +66,8 @@ loud&.
 //～～Ｆ・Ｏ
 
 //イメージＢＧ////【カフェＰＣ画面（エンスープレイ中）
-	CreateMovie("ナイトハルト", 100, 0, 0, true, false, "dx/mvNH01.ngs");
-	Request("ナイトハルト", Play);
+	CreateMovie("リーゼロッテ", 100, 0, 0, true, false, "dx/mvNH03.ngs");
+	Request("リーゼロッテ", Play);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -83,7 +83,7 @@ Irritated&, I smacked the keyboard with my palm&.
 {	CreateColor("背景１", 100, 0, 0, 800, 600, "Black");
 	Fade("背景１", 0, 0, null, false);
 	Fade("背景１", 500, 1000, null, true);
-	Delete("ナイトハルト");}
+	Delete("リーゼロッテ");}
 About two hours had passed since I'd started playing&. My stress just
 kept building up today&.
 
