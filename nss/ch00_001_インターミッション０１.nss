@@ -109,8 +109,9 @@ function MovSkip()
 				if($SYSTEM_r_button_down){break;}
 				case	WND/MSG_no{
 				}case	WND/MSG_yes{
-					Delete("@INTER01");
-					Delete("@OP");
+					Request("@INTER01", Stop);
+					Request("@OP", Stop);
+					$Loop=false;
 					Wait(300);
 				}
 				
@@ -1209,9 +1210,14 @@ WaitKey($待ち時間);}
 		WaitPlay("@INTER01");
 		Delete("MovSkip");
 
-		SetVolume("@CH00", 3000, 0, NULL);
-		Wait(3000);
-		WaitAction("@CH00", null);
+		if($Loop){
+			SetVolume("@CH00", 3000, 0, NULL);
+			Wait(3000);
+			WaitAction("@CH00", null);
+		}else{
+			SetVolume("@CH00", 0, 0, NULL);
+			WaitAction("@CH00", null);
+		}
 
 		CreateMovie("ＯＰムービー", 100, Center, Middle, false, false, "dx/mvOP.ngs");
 		SetAlias("ＯＰムービー", "OP");
@@ -1234,9 +1240,14 @@ WaitKey($待ち時間);}
 		WaitPlay("@INTER01");
 		Delete("MovSkip");
 
-		SetVolume("@CH00", 3000, 0, NULL);
-		Wait(3000);
-		WaitAction("@CH00", null);
+		if($Loop){
+			SetVolume("@CH00", 3000, 0, NULL);
+			Wait(3000);
+			WaitAction("@CH00", null);
+		}else{
+			SetVolume("@CH00", 0, 0, NULL);
+			WaitAction("@CH00", null);
+		}
 
 		CreateMovie("ＯＰムービー", 100, Center, Middle, false, false, "dx/mvOP.ngs");
 		SetAlias("ＯＰムービー", "OP");
