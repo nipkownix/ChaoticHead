@@ -4423,7 +4423,7 @@ Who? Me? This girl?
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05603510ta">
-"C&, could you be&.&.&. a t&, &.&.&.?"
+"C&, could you be&.&.&. a t&, transfer student&.&.&.?"
 
 {	Stand("bu—œ[_§•_’Êí","normal", 200, @0);
 	FadeStand("bu—œ[_§•_’Êí_normal", 300, false);
