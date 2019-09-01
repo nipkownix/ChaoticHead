@@ -326,7 +326,7 @@ Even vaster cheers of delight rose from the audience&.
 	$Y‘Å‚¿ = 1;
 	CreateSound("Y‚ğ‘Å‚Ä‚P", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
 	SetStream("Y‚ğ‘Å‚Ä‚P", 11900);
-
+	SetVolume("Y‚ğ‘Å‚Ä‚P", 0, 0, NULL);
 	SoundPlay("Y‚ğ‘Å‚Ä‚P",16,10,false);
 	Wait(100);
 	SetVolume("Y‚ğ‘Å‚Ä‚P", 1000, 1000, NULL);
@@ -422,7 +422,7 @@ The lyrics made me go tense&.
 		$Y‘Å‚¿ = 2;
 		CreateSound("Y‚ğ‘Å‚Ä‚Q", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
 		SetStream("Y‚ğ‘Å‚Ä‚Q", 32900);
-
+		SetVolume("Y‚ğ‘Å‚Ä‚Q", 0, 0, NULL);
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1500, 0, NULL);
 
 		SoundPlay("Y‚ğ‘Å‚Ä‚Q",16,10,false);
@@ -487,7 +487,7 @@ At the end&, she repeated the chorus over and over&.
 	{
 		CreateSound("Y‚ğ‘Å‚Ä‚R", SE, "sound/bgm/CH_INS_FES_ƒ‰ƒCƒ”");
 		SetStream("Y‚ğ‘Å‚Ä‚R", 285900);
-
+		SetVolume("Y‚ğ‘Å‚Ä‚R", 0, 0, NULL);
 		SetVolume("Y‚ğ‘Å‚Ä‚P", 1500, 0, NULL);
 		SetVolume("Y‚ğ‘Å‚Ä‚Q", 1500, 0, NULL);
 
