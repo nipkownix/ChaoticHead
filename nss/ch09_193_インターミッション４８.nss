@@ -62,7 +62,7 @@ gutter formed by her sword&.
 //Ÿ‚³‚³‚â‚­’ö“x‚Ì¬º
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/19300010na">
-"It hurt&.&.&."
+"It hurts&.&.&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19300020ri">
@@ -416,7 +416,7 @@ Without looking at Rimi&, Rimi murmured&,
 //Ÿ€‘Ì‚Ì—œ[‚ÌŒ¾—t‚Å‚·
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19300360ri">
-"Which number am I?"
+"Which number are you?"
 
 //‚R•b‚Ù‚ÇƒEƒGƒCƒg
 //Ÿ€‘Ì‚Ì—œ[‚ğŒ©‚Ä‚¢‚é—œ[‚ÌŒ¾—t‚Å‚·

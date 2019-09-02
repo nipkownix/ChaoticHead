@@ -748,7 +748,7 @@ I thought it'd been rather recently&, but&.&.&.
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 200, false);}
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16100230mi">
-"Haa&, if I were gonna go out with Kishimoto&, I'd have match these
+"Haa&, if I were gonna go out with Kishimoto&, I'd have to match these
 tastes of hers&. Seems like a lot of work&.&.&."
 
 Had he still not given up on dating Kishimoto yet? Even though&, she'd

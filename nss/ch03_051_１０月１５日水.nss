@@ -198,7 +198,7 @@ home&."
 	Wait(500);}
 So! Obnoxious!
 
-What the hell was her problem! You are my mom or something!?
+What the hell was her problem! Are you my mom or something!?
 
 And don't talk about that kind of thing on the wayside&, it's
 humiliating&.
@@ -235,7 +235,7 @@ Haa&, gimme a cuter sister&.
 	CreateSE("SE01","SE_ì˙èÌ_éGì•02");
 	SoundPlay("SE01", 0, 500, true);
 	Wait(1000);}
-Nanami and I&, both somewhat cross&, walked up to school side by
+Nanami and I&, both somewhat crossed&, walked up to school side by
 side&.
 I studied her to see if I had a chance of escaping before we reached
 the school gates&.

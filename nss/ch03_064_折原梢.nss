@@ -450,7 +450,7 @@ I cast a look at the teacher's podium&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-There someone there&, no doubt about it&.
+There was someone there&, no doubt about it&.
 
 She was remarkably small&. Maybe even more of a runt than Nanami&.
 

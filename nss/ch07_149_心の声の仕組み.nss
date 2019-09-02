@@ -81,7 +81,7 @@ reached her&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/14900040ta">
-"I&, is Kozue's inner voice pa&, part of her power as a
+"I&, is Kozu-pii's inner voice pa&, part of her power as a
 Gigalomaniac&, too?"
 
 I didn't expect her to give me an answer&.

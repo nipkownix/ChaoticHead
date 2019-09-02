@@ -149,7 +149,7 @@ Words of praise&.
 //Ÿ«—
 //yÕQ‰ÁÒ‚Qz
 <voice name="ÕQ‰ÁÒ‚Q" class="ÕQ‰ÁÒ‚Q" src="voice/ch09/19900110m2">
-"Kyaa! Nishijou-kuuun&, look over here!"
+"Kyaa! Takumi-kuuun&, look over here!"
 
 //Ÿ«’j
 //yÕQ‰ÁÒ‚Vz

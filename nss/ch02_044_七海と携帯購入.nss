@@ -206,7 +206,7 @@ Nanami said&, showing not a fragment of consideration toward her older
 brother&, before biting a potato chip&.
 
 On a side note&, she'd ordered a fish burger combo even though it
-wasn't dinnertime yet&. Moreover&, I was the one who had to paid for
+wasn't dinnertime yet&. Moreover&, I was the one who had to pay for
 it&. Pretty ridiculous&, given that I felt too ill to have an
 appetite&.
 

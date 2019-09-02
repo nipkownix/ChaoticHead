@@ -489,10 +489,6 @@ words&, the person calling me now wasn't one of my family members&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-When someone called from one of the numbers recorded in the phone's
-address book&, their name was supposed to get displayed&. In other
-words&, the person calling me now wasn't one of my family members&.
-
 Then who&.&.&. was it&.&.&.?
 
 The phone went on ringing stubbornly&.

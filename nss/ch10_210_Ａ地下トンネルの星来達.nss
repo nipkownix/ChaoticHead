@@ -405,7 +405,7 @@ The sword gave off an increasing amount of red light&.
 "Aaaaahh!"
 
 I slashed&.
-At once of my brides&.
+At one of my brides&.
 
 I felt no weight in my sword&.
 Smoothly&.

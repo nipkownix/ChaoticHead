@@ -958,7 +958,7 @@ Then―
 <voice name="拓巳" class="拓巳" src="voice/ch06/11900620ta">
 "Uh&, uh&, um&.&.&."
 
-I screwed up my courage and called to her&.
+I mustered up my courage and called to her&.
 
 {	Stand("buセナ_制服_通常","hard", 200, @-50);
 	FadeStand("buセナ_制服_通常_hard", 500, true);}

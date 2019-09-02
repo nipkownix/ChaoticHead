@@ -623,7 +623,7 @@ this sort of real-life experience&.
 
 Maybe I should be a tiny bit grateful to them&.&.&.
 
-I tried to compell myself&, but\
+I tried to compel myself&, but\
 
 Dr&. Takashina's face revived at the back of my mind&, and my crazy
 mood soon drained away&.

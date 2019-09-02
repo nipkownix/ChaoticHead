@@ -810,7 +810,7 @@ Her expression was terribly tense&.&.&.
 At almost the exact same time that Kozu-pii yelled&,
 Sena jumped down&,
 
-She raised the sword raised over her head&.
+with the sword raised over her head&.
 
 {	Stand("bu—œ[_§•_³–Ê","hard", 250, @0);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 100, false);}

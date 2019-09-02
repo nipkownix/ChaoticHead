@@ -119,7 +119,7 @@ She still had expectations for me?
 //Šğ‚µ‚»‚¤
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02300040yu">
-"Good morning&, Nishijou-jun&."
+"Good morning&, Nishijou-kun&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/02200050ta">

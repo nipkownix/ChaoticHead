@@ -24,7 +24,7 @@ chapter main
 function ch10_215_ＡＡルートグッドエンド()
 {
 
-	$SYSTEM_last_text="エピローグ";
+	$SYSTEM_last_text="Epilogue";
 
 	$構文名 = $SYSTEM_present_process;
 	SystemInit();

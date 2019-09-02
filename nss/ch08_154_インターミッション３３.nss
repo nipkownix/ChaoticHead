@@ -22,7 +22,7 @@ chapter main
 function ch08_154_インターミッション３３()
 {
 
-	$SYSTEM_last_text="第８章";
+	$SYSTEM_last_text="Chapter 8";
 	Save(9999);
 
 

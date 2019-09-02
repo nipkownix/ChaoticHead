@@ -185,7 +185,7 @@ I slowly circled my arms around the body that came leaping toward my
 chest&.
 
 Tighter&,
-Tigher\
+Tighter\
 
 I was about to hold her\
 

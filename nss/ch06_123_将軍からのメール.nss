@@ -197,7 +197,7 @@ I groaned without thinking&.
 What was this&.&.&.
 Was Nanami pulling my leg?
 
-If so&, that'd make her lowest of the low&. I'd gonna beat her to
+If so&, that'd make her lowest of the low&. I'm gonna beat her to
 death&.
 
 &.&.&.No&, wait a sec&.
@@ -487,7 +487,7 @@ and trapped in place during the earthquake&.
 
 {	CreateSE("SE03","SE_“úí_Œg‘Ñ‘€ì");
 	SoundPlay("SE03", 0, 1000, false);}
-I pulled up Nanami's number and pressed the Send button&.
+I pulled up Nanami's number and pressed the Call button&.
 I put the phone to my ear&.
 
 {	Fade("µŠCŒg‘Ñ”Ô†", 200, 1000, null, true);}

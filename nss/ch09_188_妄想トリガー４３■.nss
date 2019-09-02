@@ -605,7 +605,7 @@ Please hurry and crush all the bones in my neck―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-Nanami's corspe vanished in an instant&.
+Nanami's corpse vanished in an instant&.
 
 I should've been standing by the door&, but at some point&, I'd ended
 up sitting on the sofa&. Clutching Seira-tan in my hand&.

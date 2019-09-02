@@ -91,7 +91,7 @@ And so she concealed it from her parents as well&.
 
 Because of her power&, she was incapable of making friends&, and she
 became distant from her family&, and those around her were creeped out
-by how she was "a child was astoundingly good intuition&."
+by how she was "a child with astoundingly good intuition&."
 
 Even after coming to Shibuya&, she feared going to school&. She didn't
 want to meet anyone&. Whatever the case&, she reckoned they would find

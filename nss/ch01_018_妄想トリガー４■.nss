@@ -88,7 +88,7 @@ if($–Ï‘zƒgƒŠƒK[‚S == 2)
 [text001]
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01800010yu">
-"I&.&.&. I'm love with you&."
+"I&.&.&. I'm in love with you&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01800020yu">

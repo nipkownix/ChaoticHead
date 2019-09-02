@@ -1327,7 +1327,7 @@ They&.&.&.?
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch09/19500730jn">
 "The ones manipulating everything from behind the sce<pre>n</pre>es&.
-Those whobrought about this disorder&. Those who use disorder
+Those who brought about this disorder&. Those who use disorder
 as a means to advance their own interests&."
 
 //‚u‚e//S‚Ìº

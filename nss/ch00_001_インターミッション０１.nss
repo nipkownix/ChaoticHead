@@ -134,7 +134,7 @@ function MovSkip()
 
 function ch00_001_インターミッション０１()
 {
-	$SYSTEM_last_text="プロローグ";
+	$SYSTEM_last_text="Prologue";
 
 	$SYSTEM_text_auto_lock=true;
 	Save(9999);

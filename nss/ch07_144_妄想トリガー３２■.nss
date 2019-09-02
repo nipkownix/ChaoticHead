@@ -1359,7 +1359,7 @@ you&.&.&."
 "Though reeeally&, I've decided to let as few people as possible know
 about my power&."
 
-No&, at the time&, I hadn't give a damn about anything&.&.&. umm&,
+No&, at the time&, I hadn't given a damn about anything&.&.&. umm&,
 umm&.&.&. well&.&.&. they were mere delusions to the end&, I
 guess&.&.&. haha&.&.&.
 

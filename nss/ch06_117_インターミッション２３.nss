@@ -125,7 +125,7 @@ votes or fear prosecution for forceful political canvassing&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/11700160nr">
-"The day when we transform Japan?no&, the whole world?is close at
+"The day when we transform Japan\no&, the whole world\is close at
 hand&.&.&."
 
 </PRE>

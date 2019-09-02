@@ -314,7 +314,7 @@ Next&, I tried calling my parents' house&.
 	CreateSE("SE02","SE_“úí_“d˜b_ŒÄ‚Ño‚µ‰¹_Loop");
 	MusicStart("SE02", 0, 800, 0, 1000, null, true);}
 I somehow indicated the number with quivering fingertips&, then
-pressed the send button&.
+pressed the call button&.
 
 Nanami had entered my parents' number&.
 It wasn't a number I'd recorded out of my own convictions&.

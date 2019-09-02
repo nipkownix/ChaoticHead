@@ -107,7 +107,7 @@ He was either the possessor of terrifically unusual delusionary
 abilities&, or else receiving some sort of "artificial support&."
 
 Either way&, the ambiguity of the existence known as Takumi
-Nagged at Sena insistently&.
+nagged at Sena insistently&.
 
 She was searching for a man called Hatano&.
 It was possible that Nishijou Takumi was connected to him in some

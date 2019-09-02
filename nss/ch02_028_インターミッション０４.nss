@@ -22,7 +22,7 @@ chapter main
 function ch02_028_インターミッション０４()
 {
 
-	$SYSTEM_last_text="第２章";
+	$SYSTEM_last_text="Chapter 2";
 	Save(9999);
 
 	$構文名 = $SYSTEM_present_process;
@@ -166,7 +166,7 @@ for Takumi&, one sufficient to induce this level of passion in him&.
 Though everyone else in the class could go&, he alone could not&.
 From Takumi's point of view&, it was all too unreasonable&.
 
-Takumi's world was lonely one&. Their world was full of fun and passion&.
+Takumi's world was a lonely one&. Their world was full of fun and passion&.
 He almost had the sense that he was the only one to have been cu<pre>t</pre>
 off from the rest of the world&.
 
@@ -220,7 +220,7 @@ curse-like words to himself&.
 <PRE box00>
 [text004]
 Next morning&.
-The telephone was ringing off hook since early morning&.
+The telephone was ringing off the hook since early morning&.
 
 Each time his mother answered it&, her responses seemed more and
 more unsettled&. In the end&, Takumi couldn’t get even a bit of sleep&.

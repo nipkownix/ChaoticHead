@@ -1667,7 +1667,7 @@ That wasn't it―
 That wasn't what I'd wanted to say―
 
 //でもなんて説明すればいいのか、頭の中がうまく整理できず、まごまごしているうちに言い出すタイミングを失ってしまった。
-But I didn't know hot to explain it&, and I couldn't get my thoughts
+But I didn't know how to explain it&, and I couldn't get my thoughts
 in order&, and as I remained at a loss&, I lost the
 chance to speak up&.
 

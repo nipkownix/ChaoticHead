@@ -295,7 +295,7 @@ It was called the Mana Experiment&, based on the codename given to the
 second daughter his wife had delivered&.
 
 Entrusting his elder daughter&, fifteen years old at the time&, to a
-Church facility&, "he" spend twenty-four hours a day observing his
+Church facility&, "he" spent twenty-four hours a day observing his
 confined wife and Mana&.
 
 The room his wife had made herself think of as company housing was a

@@ -232,7 +232,7 @@ and who was well-versed when it came to Noah II\
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //y”g‘½–ìz
 <voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch10/20200060ha">
-"The boy&, who gave a birth to 'Whose eyes, are those eyes?'"
+"The boy&, who gave birth to 'Whose eyes, are those eyes?'"
 
 {	Fade("F‚P", 100, 1000, null, true);
 	Delete("”wŒi‚P");

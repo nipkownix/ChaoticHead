@@ -296,7 +296,7 @@ voicemail yesterday&.
 I didn't know whose handiwork it was&, and something about it
 concerned me&, so I had a go at asking if Grim had heard of it&.
 
-If it were purely a crank call&, all I'd have to do from here on out
+If it were purely a prank call&, all I'd have to do from here on out
 was ignore it&.
 
 //ÅyëÒñ§Åz

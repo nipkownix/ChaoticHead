@@ -855,8 +855,7 @@ When Kozu-pii pointed it out&, I helplessly bit into my Crunchy-kun&.
 The gazes of those around us bothered me&.
 
 Sena and Kozu-pii were c<pre>u</pre>te&. The spectacle of two c<pre>u</pre>te
-"flat-chested sisters" together with a creepy otaku―and on top of that&,
-with all of us eating Crunchy-kuns under the cold
+"flat-chested sisters" together with a creepy otaku―and on top of that&, with all of us eating Crunchy-kuns under the cold
 open sky―was so surreal&, we couldn't avoid standing out&.
 
 Was I being overly self-conscious?
@@ -1153,7 +1152,7 @@ the created particles into somebody's dead spots&."
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700830sn">
 "The particles are instantly converted to electrical signals&, and
-through the shared recognition of nearby humans―they becoming
+through the shared recognition of nearby humans―they become
 reality&."
 
 //◆「対消滅」＝「ついしょうめつ」

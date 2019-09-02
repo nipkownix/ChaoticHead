@@ -89,7 +89,7 @@ An earthquake had also happened in Shibuya about three months ago&.
 Eight deaths had emerged at the time&, despite the fact that it was
 only a magnitude 3 earthquake&.
 
-"Perhaps Shibuya is cursed"
+//"Perhaps Shibuya is cursed"
 {	CreateColor("êFÇP", 150, 0, 0, 800, 600, "Black");
 	Delete("îwåiÇR");
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);

@@ -58,7 +58,7 @@ today&, I would definitely get them to tell me I was normal&.
 
 Dr&. Takashina would remember me&.
 I'd reveal that I was "Nishijou&, your patient up until four years
-go&."
+ago&."
 And I'd get to hear all kinds of things from him&.
 
 I wasn't the crazy one&.

@@ -335,7 +335,7 @@ What was she saying?
 
 She spoke as if she knew everything there was to know about me&.
 
-Though all the time I had spend with her wouldn't even fill 24 hours&.
+Though all the time I had spent with her wouldn't even fill 24 hours&.
 
 What about me did she claim to understand?
 
@@ -619,7 +619,7 @@ What was she saying?
 
 She spoke as if she knew everything there was to know about me&.
 
-Though all the time I had spend with her wouldn't even fill 24 hours&.
+Though all the time I had spent with her wouldn't even fill 24 hours&.
 
 What about me did she claim to understand?
 More of those ridiculous delusions she had such a talent for?

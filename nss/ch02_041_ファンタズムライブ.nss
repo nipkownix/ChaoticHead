@@ -460,8 +460,8 @@ those drowning in ecstasy&.
 
 True enough&, FES's voice possessed some quality that attracted people
 to her&. Even as I battled the fear and nausea induced in me by the
-crowd around me&, I was listened carefully to keep from missing part
-of her song&.
+crowd around me&, I was listened carefully to keep from missing any
+parts of her song&.
 
 {	Move("”wŒi‚Q", 0, @100, @0, null, true);
 	Fade("”wŒi‚Q", 1000, 1000, null, false);

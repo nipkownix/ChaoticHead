@@ -789,7 +789,7 @@ a nonprofit group's independent halfway house&, Heavenly Hostel&."
 <voice name="”»" class="”»" src="voice/ch09/18000950bn">
 "As a result&, all the psychiatrists there were laid off
 simultaneously&, but every single one of those doctors ended up
-getting employed by AH General Hospital& in Yoyogi."
+getting employed by AH General Hospital in Yoyogi."
 
 {	Stand("bu—Dˆ¤_§•_’Êí","hard", 200, @-250);
 	FadeStand("bu—Dˆ¤_§•_’Êí_hard", 300, true);}

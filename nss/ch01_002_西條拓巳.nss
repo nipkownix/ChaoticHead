@@ -20,7 +20,7 @@ chapter main
 
 function ch01_002_¼Š‘ñ–¤()
 {
-	$SYSTEM_last_text="‘æ‚PÍ";
+	$SYSTEM_last_text="Chapter 1";
 
 	Save(9999);
 

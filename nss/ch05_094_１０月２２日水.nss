@@ -22,7 +22,7 @@ chapter main
 function ch05_094_‚P‚OŒ‚Q‚Q“ú…()
 {
 
-	$SYSTEM_last_text="‘æ‚TÍ";
+	$SYSTEM_last_text="Chapter 5";
 	Save(9999);
 
 	$\•¶–¼ = $SYSTEM_present_process;

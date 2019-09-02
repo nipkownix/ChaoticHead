@@ -190,7 +190,7 @@ classroom entrance&."
 
 He's sharp&.&.&.
 
-But it'd be better not to saying anything careless here&.
+But it'd be better not to say anything careless here&.
 You mustn't forget&, Takumi&. At this school&, you've gotta stand out
 as little as possible&. You've gotta be like air&.
 

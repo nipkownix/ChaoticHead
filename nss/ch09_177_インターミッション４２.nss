@@ -22,7 +22,7 @@ chapter main
 function ch09_177_インターミッション４２()
 {
 
-	$SYSTEM_last_text="第９章";
+	$SYSTEM_last_text="Chapter 9";
 	Save(9999);
 
 	$構文名 = $SYSTEM_present_process;
