@@ -218,6 +218,5 @@ Surely not―
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	WaitKey();
 	EndTrigger();
 }
