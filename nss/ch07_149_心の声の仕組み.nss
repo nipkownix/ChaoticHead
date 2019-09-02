@@ -57,7 +57,7 @@ If possible&, I didn't want to be left alone with Sena&.
 Except&, she didn't seem to be interested in heading home&.
 Did she plan on wandering around the area again&, as she usually did?
 
-I'd have liked leave at once&, but beforehand&, there was just one
+I'd have liked to leave at once&, but beforehand&, there was just one
 thing I wanted to ask the Gigalomaniacs Ph&.D&. no matter what&.
 
 //y‘ñ–¤z
