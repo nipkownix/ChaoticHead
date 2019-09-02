@@ -323,7 +323,7 @@ Yesterday&, I hadn't come to school&.
 
 And today&, she was here&.
 
-How... Had she wormed her way in-?
+How&.&.&. Had she wormed her way in-?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
