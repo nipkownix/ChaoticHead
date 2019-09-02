@@ -141,7 +141,7 @@ the monitor&."
 
 //ÅyñÏòCê£Åz
 <voice name="ñÏòCê£" class="ñÏòCê£" src="voice/ch05/10300200nr">
-"No&, it's not a trick or anything of the sort&.  It's one of the
+"No&, it's not a trick or anything of the sort&. It's one of the
 abilities people's eyes have always possessed but that they normally
 make no use of&."
 

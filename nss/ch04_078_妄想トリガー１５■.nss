@@ -792,7 +792,7 @@ Which was sad enough in itself&.
 
 But it is a fact that I didn't understand Rimi&.
 
-When you got down to it&, my only real option  was to stay still
+When you got down to it&, my only real option was to stay still
 and keep silent&.
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @+150);

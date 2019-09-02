@@ -78,7 +78,7 @@ A god-like existence like mine has many allies&, but also many enemies&.
 //そういうのはスルーするに限るよ。
 Well&, the enemies were basically a kind of side effect of the
 popularity&. Of course they'd be there&. People who envied
-Neidhardt's strength and  popularity childishly tried to
+Neidhardt's strength and popularity childishly tried to
 provoke me&. <k> It was just a matter of ignoring them&.
 
 //って、そんなことは今はどうでもいいんだ。

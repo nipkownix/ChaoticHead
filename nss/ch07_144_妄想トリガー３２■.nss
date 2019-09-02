@@ -484,7 +484,7 @@ I had nowhere to runÅ\
 
 An invisible attack from outer space&, aimed at me with pinpoint
 precision&. Even if I took cover&, it would pierce straight through
-to me&, no doubt&.  There was nowhere I could hide or run&, anywhere
+to me&, no doubt&. There was nowhere I could hide or run&, anywhere
 in Japan&.
 
 It was the end&.&.&. I'd already reached my end&.&.&.

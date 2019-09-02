@@ -105,10 +105,10 @@ As autumn deepened&, air gradually grew colder and colder&.
 ItÅfs hard to believe that I'd gotten by with short sleeves only a
 little while ago&.
 
-The sky was a little dull&, somehow&.  As though its colors were
+The sky was a little dull&, somehow&. As though its colors were
 fading&.
 But in exchange&, the fall leaves at the park and so forth were
-brilliant&.  Maybe the trees were stealing away the sky's vibrancy&.
+brilliant&. Maybe the trees were stealing away the sky's vibrancy&.
 
 I stuck my toothbrush in my mouth as I gazed up at that subdued sky&.
 

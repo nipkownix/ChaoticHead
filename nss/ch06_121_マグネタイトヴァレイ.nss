@@ -166,7 +166,7 @@ Much more information had been determined with respect to the
 earthquake since the last time I'd checked&.
 
 The number of deaths had risen to 118&, and there were currently over
-300 injured&.  To think that the fatalities would exceed three
+300 injured&. To think that the fatalities would exceed three
 digits&.&.&.
 
 The epicenter was in Shibuya&, and surprisingly&, the casualties were

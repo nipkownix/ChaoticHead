@@ -344,7 +344,7 @@ function ch01_002_西條拓巳()
 	FadeDelete("テキスト１８", 500, true);
 
 
-//wait_1sec_reset & ENTER_reset  I still remember the title of the essay
+//wait_1sec_reset & ENTER_reset I still remember the title of the essay
 //あの作文のタイトルは、今でもよく覚えてる。
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１９", 100, center, middle, Auto, Auto, "I still remember the title of the essay&.");
@@ -457,7 +457,7 @@ The room doesn't have any windows, so it's dark to begin with&.
 
 // ENTER_reset
 //外の様子がまったくうかがい知れないから、今が昼か夜かも分からない。
-There's absolutely no way to tell what it's like outside&.  There's no
+There's absolutely no way to tell what it's like outside&. There's no
 way to tell if it's noon or night&.
 
 </PRE>
@@ -520,7 +520,7 @@ Something that can't be seen is ultimately something unknown&.
 
 // ENTER_reset　
 //あり得ないって理性では分かってても、そこになにかとんでもないものが潜んでいるんじゃないかって、ついつい考えちゃうんだ。
-Even if you know it's impossible&,  you can't help but wonder
+Even if you know it's impossible&, you can't help but wonder
 if maybe something might be lurking out there&.
 
 // ENTER_reset　

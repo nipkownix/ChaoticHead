@@ -41,7 +41,7 @@ It was evening by the time I returned to Shibuya&. The hospital was
 technically part of Shibuya&, but station-wise&, Yoyogi was closer&,
 so taking the train was the fastest way to get there&.
 
-But the Yamanote line was as packed as always&, and though I  had to
+But the Yamanote line was as packed as always&, and though I had to
 ride only past two stations&, this round trip alone wore me out a
 lot&.
 

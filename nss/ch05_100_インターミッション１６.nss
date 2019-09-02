@@ -372,7 +372,7 @@ He only narrowed his lips and stared at her&.
 "You've got nothing to do with this&. Shoo&, off with you&."
 
 //口調はあくまで威圧的だ。男性にしては甲高い声で、セナとは距離を開けたまま手振りで去るように要求する。
-His tone was thoroughly overbearing&.  His voice&, high for a man's&,
+His tone was thoroughly overbearing&. His voice&, high for a man's&,
 demanded that Sena leave even as he stood some distance from her&,
 waving her away&.
 

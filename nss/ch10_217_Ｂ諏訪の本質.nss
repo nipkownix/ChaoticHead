@@ -2275,7 +2275,7 @@ A surreal spectacle&.
 	CenterLog2("I looked back at my hand&.","I hadn't just been holding skewered chicken&.", 2000);
 	ClearLog();
 
-	CenterLog3("I was cradling an arm-sized hunk of bone with meat attached to it&.","Its dripping juices stained the sleeve of my blouse&,", "turning it reddish-black&.  ", 2000);
+	CenterLog3("I was cradling an arm-sized hunk of bone with meat attached to it&.","Its dripping juices stained the sleeve of my blouse&,", "turning it reddish-black&.", 2000);
 	ClearLog();
 
 	CenterLog1("When had I obtained it&, and how long had I been carrying it?", 1500);

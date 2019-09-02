@@ -926,7 +926,7 @@ She clicked her tongue lightly and let out a sigh&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch06/11900610sn">
-"Sorry&.  If you don't have any relationship with them&, that's
+"Sorry&. If you don't have any relationship with them&, that's
 fine&."
 
 {	DeleteStand("buセナ_制服_横向_think", 300, true);}

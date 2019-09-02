@@ -186,7 +186,7 @@ this time&, trembling in terror of my delusionsÅ\
 It wasn't an auditory hallucination or a delusion&, after all!
 There was someone behind me&.&.&.!
 
-Startled&,  I reflexively turned around&.
+Startled&, I reflexively turned around&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1974,7 +1974,7 @@ this time&, trembling in terror of my delusionsÅ\
 It wasn't an auditory hallucination or a delusion&, after all!
 There was someone behind me&.&.&.!
 
-Startled&,  I reflexively turned around&.
+Startled&, I reflexively turned around&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -45,7 +45,7 @@ function ch01_003_チャット■()
 <PRE @box01>
 [text001]
 //グリム：おーい、ナイトハルト？　どうした？　応答ないけど寝オチ{#TIPS_寝オチ = true;}したか？
-Grim: Hey! Neidhardt!  What's up?  You're not replying&, you
+Grim: Hey! Neidhardt! What's up? You're not replying&, you
 fall asleep or something?
 {#TIPS_寝オチ = true;}
 </PRE>

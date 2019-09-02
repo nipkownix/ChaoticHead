@@ -375,7 +375,7 @@ It wasn't enough merely to be strong; I also had to know about
 anything and everything&.
 
 All the more - I was the closest to position of leader of our guild
-had to a leader&. As the person in charge of  everyone's organization&,
+had to a leader&. As the person in charge of everyone's organization&,
 it'd be way too humiliating if I couldn't keep up with their
 conversations&.
 

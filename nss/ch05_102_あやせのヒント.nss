@@ -164,7 +164,7 @@ I wanted to flee&.&.&.
 Ayase might have been on my side&, but I got pretty sick of her when
 she repeated herself like she was the village idiot&.
 
-I wanted to get my hands on it more than anyone&.  But I didn't know
+I wanted to get my hands on it more than anyone&. But I didn't know
 how&.
 
 //y‘ñ–¤z
@@ -534,7 +534,7 @@ Wh&, what a picture-perfect&, real-life klutz&.&.&.&.&.
 	FadeStand("st—œ[_§•_³–Ê_sad", 500, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch05/10200390ri">
-"Think she's okay?  It sounded pretty loud&."
+"Think she's okay? It sounded pretty loud&."
 
 {	DeleteStand("st—œ[_§•_³–Ê_sad", 500, true);}
 After murmuring worriedly&, Rimi went up to the transfer student
