@@ -1032,7 +1032,7 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 	CenterLog3("And I passed out again&.","But I couldn't escape&.","The pain mercilessly forced my consciousness awake&.", 2000);
 	ClearLog();
 
-	CenterLog3("My body convulsed&.","If it meant being released from this suffering&,", "I though I'd be fine with biting my tongue off&.", 2000);
+	CenterLog3("My body convulsed&.","If it meant being released from this suffering&,", "I thought I'd be fine with biting my tongue off&.", 2000);
 	ClearLog();
 
 	CenterLog2("Next&, Hazuki picked up a bloody fetus&.","It made her smile appear conversely revolting&.", 2000);

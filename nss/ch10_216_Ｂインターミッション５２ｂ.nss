@@ -70,8 +70,8 @@ She didn't spot any station workers anywhere&, and the ticket machines
 were out of service&, too&.
 
 When she looked at the tracks&, the rails there were visibly
- warped&. Naturally&, the trains had been at a standstill since
- yesterday&.
+warped&. Naturally&, the trains had been at a standstill since
+yesterday&.
 
 Kozue's breathing began to sound painful from time to time&, but she
 wasn't conscious&.
@@ -458,7 +458,7 @@ It was the result she'd longed for these past six months&. <k>
 It should have been&. <k>
 Despite that&, Sena was assaulted by uncertainty&.
 
-Her father&, now only a head&, had his eyes turned in Sean's direction&.
+Her father&, now only a head&, had his eyes turned in Sena's direction&.
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch10/21600280su">
