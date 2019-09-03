@@ -522,7 +522,7 @@ forever&, making me horribly irritated&.
 	Wait(1000);
 	SoundPlay("SE04", 0, 500, true);
 	SoundPlay("SE02", 200, 0, false);
-	Wait(2000);}
+	Wait(2000);}<K>
 
 //ＳＥ//七海のケータイの着信音（かわいい着メロ）
 //※↑箱の中に入っているので少しだけくぐもったような音で
