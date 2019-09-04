@@ -10,17 +10,17 @@ chapter main
 	バックログ関係システム変数
 	※一行あたりの文字数はシステムの都合上「System.ini」の「バックログ」セクションで設定してください。
 	*/
-	$SYSTEM_backlog_row_max=16;			//バックログ表示の最大行数
+	$SYSTEM_backlog_row_max=17;			//バックログ表示の最大行数
 	$SYSTEM_backlog_voice_icon_x=43;	//バックログ表示の音声リピートアイコンＸ座標
-	$SYSTEM_backlog_position_x=84;		//バックログ表示の文章開始位置Ｘ座標
+	$SYSTEM_backlog_position_x=88;		//バックログ表示の文章開始位置Ｘ座標
 	$SYSTEM_backlog_position_y=46;		//バックログ表示の文章開始位置Ｙ座標
-	$SYSTEM_backlog_row_interval=34;	//バックログ表示の行間サイズ
+	$SYSTEM_backlog_row_interval=29;	//バックログ表示の行間サイズ
 	$SYSTEM_backlog_character_width=9;	//バックログ表示の各文字幅
 			
 	//LoadFont("BKLG_font","DroidMSGothic",20,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
 	//SetFont("DroidMSGothic",20,#FFFFFF,#1111111,500,LEFTDOWN);
-	LoadFont("BKLG_font","DroidMSG-BKLG",21,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
-	SetFont("DroidMSG-BKLG",21,#FFFFFF,#1111111,500,LEFTDOWN);
+	LoadFont("BKLG_font","DroidMSGothic",21,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
+	SetFont("DroidMSGothic",21,#FFFFFF,#1111111,500,LEFTDOWN);
 
 	function bklg_reload()
 	{
@@ -40,7 +40,7 @@ chapter main
 	CreateTexture("EXIT/MouseOver/button",10010,726,554,"cg/sys/backlog/exit-002.png");
 	CreateTexture("EXIT/MouseClick/button",10010,726,554,"cg/sys/backlog/exit-003.png");
 	
-	CreateScrollbar("BAR",10100,733,396,730,46,0,VERTICAL,"cg/sys/backlog/つまみOFF.png");
+	CreateScrollbar("BAR",10100,730,396,730,46,0,VERTICAL,"cg/sys/backlog/つまみOFF.png");
 	SetAlias("BAR","BKLGBAR");
 	
 	
