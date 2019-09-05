@@ -76,7 +76,7 @@ where is kozu-pii?
 she's fixed to a weird piece of art&.
 rimi is at her feet&, all tied up&.
 
-something is strange about kozi-pii&.
+something is strange about kozu-pii&.
 her clothes are torn to pieces&.
 and creepy-crawling&.
 

@@ -176,7 +176,7 @@ Rimi said as she cracked an egg&.
 As you might expect&, it was impossible for us to tolerate the cold and
 eat outside smack-dab in the middle of winter&.
 
-Carrying inside the two-servings' worth of toast and and scrambled eggs
+Carrying inside the two-servings' worth of toast and scrambled eggs
 Rimi had made&, we laid them on a low table&.
 Then we sat side-by-side on the sofa&.
 

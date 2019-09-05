@@ -136,7 +136,7 @@ No matter how much the likes of Ban howled&, it was only natural that
 he hadn't been able to do a thing about it&.
 
 Suwa's occupation as a detective&.
-Hazuki's occupation as nurse&.
+Hazuki's occupation as a nurse&.
 
 The support of the pressure the great Founder put on the police and the
 media&. The Noah System terminals provided by Nozomi Technology&.

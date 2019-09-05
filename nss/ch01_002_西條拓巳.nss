@@ -707,7 +707,7 @@ Nothing but me ever moves in the room&.
 // ENTER
 //いい加減、ひとりで喋ってるのもバカバカしくなってきたから、"僕を見ている誰か"への自己紹介はもうやめることにした。
 Becoming aware of how dumb it was to go on talking to myself&, I decided
-to stop my little my self-introduction for "whoever was watching me"&.
+to stop my little self-introduction for "whoever was watching me"&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

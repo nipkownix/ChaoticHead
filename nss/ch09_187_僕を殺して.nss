@@ -709,7 +709,7 @@ And I was somewhat surprised at myself for experiencing absolutely no
 deep emotion in response&.
 
 Whatever&, it doesn't matter&.&.&. was what I'd begun to think&.
-Nothing would change just became Nanami had come over here now&.
+Nothing would change just because Nanami had come over here now&.
 
 Besides&, there was nothing especially mysterious about her coming
 here&. Hadn't Rimi said something about going off to save her?

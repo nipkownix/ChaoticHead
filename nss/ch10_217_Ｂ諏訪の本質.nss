@@ -1044,7 +1044,7 @@ Shaking myself made the pain in my abdomen grow still more intense&.
 	CreateSE("SE02","SE_‹[‰¹_“÷è‚ğ“Ë‚Á‚Ş");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
-	CenterLog2("She took the remants of the fetus she'd removed from her own body&,","and plunged it into the depths of my stomach&. ", 2000);
+	CenterLog2("She took the remnants of the fetus she'd removed from her own body&,","and plunged it into the depths of my stomach&. ", 2000);
 	ClearLog();
 
 	CreateSE("SE01","SE_l‘Ì_“®ì_“fŒŒ");
@@ -1187,7 +1187,7 @@ Next&, Hazuki picked up a bloody fetus&.
 It made her smile appear conversely revolting&.
 This woman was insane&.
 
-She took the remants of the fetus she'd removed from her own body&,
+She took the remnants of the fetus she'd removed from her own body&,
 and plunged it into the depths of my stomach&.
 
 </PRE>
