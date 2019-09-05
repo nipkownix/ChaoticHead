@@ -491,14 +491,14 @@ But the truth is I really don't go to school that much&."
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200030ta">
 //「ま、それでも勉強はできる方だよ。<k><?>
-"Grades have never been a problem for me&."
+"Grades have never been a problem for me&. <k>
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200031ta">
 //定期テストはちゃんと受けてる。しかもそれなりに上位の点数を取ってるからね。<k><?>
 I always take the midterms and finals&, and I get pretty good marks
 on them&. <k><?>
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200032ta">
 //頭はいいんだ」
-"You could call me pretty smart&."
+You could call me pretty smart&."
 
 // ENTER_reset　
 //呼びかけたって、なにが起こるわけじゃない。

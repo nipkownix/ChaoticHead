@@ -819,11 +819,11 @@ Then she peered up at my face from below&.
 
 //y½z
 <voice name="½" class="½" src="voice/ch10/22000690ko">
-"Um&, you see&,<?>"
+"Um&, you see&, <?>
 {	Stand("st½_§•_’Êí","smile", 200, @-100);
 	FadeStand("st½_§•_’Êí_smile", 300, true);
 	DeleteStand("st½_§•_’Êí_shy", 0, true);}
-"Look!"
+look!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
