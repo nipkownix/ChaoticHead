@@ -629,7 +629,7 @@ Valley in 'ESO&.'"
 // ENTER_reset mpgエンスー（NHの腕あたりにUP低画質）
 {#TIPS_ＭＭＯＲＰＧ = true;}
 //エンスーっていうのは、僕がライフワークにしてる<FONT incolor="#88abda" outcolor="BLACK">ＭＭＯＲＰＧ</FONT>の略称。
-ESO is an abbreviation for the MMORPG I've pretty much made my life&.
+ESO is an abbreviation for the <FONT incolor="#88abda" outcolor="BLACK">MMORPG</FONT> I've pretty much made my life&.
 
 // ENTER
 //正式なタイトルは『エンパイア・スウィーパー・オンライン』。
@@ -678,7 +678,7 @@ Naturally&, I did the same&.
 {#TIPS_ＤＱＮ = true;}
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200080ta">
 //「というわけで、<FONT incolor="#88abda" outcolor="BLACK">ＤＱＮ</FONT>と恋愛資本主義者が集まるこんな街は、即刻滅ぶべきだね」
-"That's why a city like this&, full of delinquents and people who use
+"That's why a city like this&, full of <FONT incolor="#88abda" outcolor="BLACK"><RUBY text="DQNs">delinquents</RUBY></FONT> and people who use
 love for capitalism&, should hurry up and destroy itself&."
 
 // ENTER_reset　
@@ -853,7 +853,7 @@ part of the room&.
 // ENTER_reset
 {#TIPS_星来オルジェル = true;}
 //モニタの横には、今一番お気に入りのアニメ、ブラチュー――『ブラッドチューン　ＴＨＥ　ＡＮＩＭＡＴＩＯＮ』の<FONT incolor="#88abda" outcolor="BLACK"><RUBY text="せいら">星来//</RUBY>たん（１／８スケール・覚醒前ｖｅｒ）</FONT>が、萌えるポーズを取って僕に微笑みかけてくれている。
-Next to the monitor is Seira-tan (1/8 scale&, pre-awakening ver&.)&, a
+Next to the monitor is <FONT incolor="#88abda" outcolor="BLACK">Seira-tan (1/8 scale&, pre-awakening ver&.)</FONT>&, a
 figure from my current favorite anime&, Burachu― "Blood Tune the
 Animation&," striking a moe pose and smiling at me&.
 
@@ -904,7 +904,7 @@ It's the only thing that calms me down&.
 // ENTER_reset
 {#TIPS_パラディン = true;}
 //エンスーでの僕のキャラである『ナイトハルト』は、すでに２回転生済みの<FONT incolor="#88abda" outcolor="BLACK">パラディン</FONT>。
-My character in ESO&, "Neidhardt&," is a paladin that's already gone
+My character in ESO&, "Neidhardt&," is a <FONT incolor="#88abda" outcolor="BLACK">paladin</FONT> that's already gone
 through every level and then reincarnated back to the 1st level twice&.
 
 // ENTER_reset　
@@ -930,7 +930,7 @@ uphill battle&.
 //マネーポイントは使い切れないほどある。
 I could never use all the moneypoints I have&.
 //<FONT incolor="#88abda" outcolor="BLACK">ＲＭＴ</FONT>――リアルマネートレードで小遣い稼ぎもしてるからバイトしなくても半年は生きていける。
-Since I make pocket money through RMT―Real Money Trade―I could live
+Since I make pocket money through <FONT incolor="#88abda" outcolor="BLACK">RMT</FONT>―Real Money Trade―I could live
 like this for half a year without needing to do any part-time work&.
 
 {	Fade("ルーム", 200, 1000, null, false);
@@ -952,7 +952,7 @@ I've even helped other players out at the huge&, anonymous message board
 // ENTER_reset　
 {#TIPS_ＳＮＳ = true;}
 //あ、そうそう、『フレパラ』――<FONT incolor="#88abda" outcolor="BLACK">ＳＮＳ</FONT>のことだね――のマイフレンドリストも、とっくに１００人を超えた。
-Oh yeah&, that's right; in "Furepara"―a social networking service&,
+Oh yeah&, that's right; in "Furepara"―a <FONT incolor="#88abda" outcolor="BLACK">social networking service</FONT>&,
 you know―my friends list passed the 100-person mark ages ago&.
 
 </PRE>

@@ -1206,7 +1206,7 @@ her to make those around her look better in comparison&.
 {#TIPS_ギルド=true;}
 //今日も３時間ほどまったりプレイしてストレスを発散した。その後しばらく、<FONT incolor="#88abda" outcolor="BLACK">ギルド</FONT>の仲間とチャットで下らない話やエロい話で盛り上がった。
 Today&, too&, I released my stress by playing for about three laid-back
-hours&. Afterward&, I chatted with my guild friends for a while&, getting
+hours&. Afterward&, I chatted with my <FONT incolor="#88abda" outcolor="BLACK">guild</FONT> friends for a while&, getting
 worked up over stupid and/or ero topics&.
 
 </PRE>

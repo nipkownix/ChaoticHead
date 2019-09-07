@@ -1376,7 +1376,7 @@ Dude&, I'm Neidhardt der Blitzschnelle&.
 //そもそも<FONT incolor="#88abda" outcolor="BLACK">ＲＯＭ</FONT>オンリーは入室禁止だってルールなのに。<k>
 //まあいいや。気にしないでおこう。
 It's illegal to enter one of these chat rooms in the first place if
-you're just going to lurk&.<k>
+you're just going to <FONT incolor="#88abda" outcolor="BLACK">lurk</FONT>&.<k>
 Whatever&. I don't give a shit&.
 
 // ENTER_reset

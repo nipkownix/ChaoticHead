@@ -631,9 +631,8 @@ deny the possibility that it was one of the students here&.&.&.
 
 {#TIPS_‚o‚s‚r‚c = true;}
 //‚à‚µ‚»‚¤‚¾‚Á‚½‚Æ‚µ‚½‚ç"<FONT incolor="#88abda" outcolor="BLACK">‚o‚s‚r‚c</FONT>‚É‚È‚è‚Ü‚µ‚½"‚Æ‚©Œ¾‚Á‚ÄAoÈ“ú”‚ª‘«‚è‚È‚­‚Ä‚à‘²‹Æ‚Å‚«‚é‚æ‚¤‚ÉHì‚µ‚æ‚¤‚©‚ÈB
-If that were the case&, maybe I should say&, "I have post traumatic
-stress disorder&," to maneuver my way into graduating
-even with insufficient attendance&.
+If that were the case&, maybe I should say&, "I have <FONT incolor="#88abda" outcolor="BLACK">PTSD</FONT>&,"
+to maneuver my way into graduating even with insufficient attendance&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

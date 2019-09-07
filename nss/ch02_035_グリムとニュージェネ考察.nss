@@ -409,6 +409,7 @@ I headed over to the wiki Grim had told me about&.
 The title "New Gen Wiki" was displayed in huge letters on the front
 page&.
 
+{#TIPS_‚v‚‰‚‹‚‰ = true;}
 Compilation sites like this are an example of a type of <FONTincolor="#88abda" outcolor="BLACK">Wiki</FONT>&,
 where an indeterminate number of people post news and
 information about a specified topic&.
@@ -427,8 +428,7 @@ My heart started beating faster&. I was nervous&, even though all I
 was doing was reading a website&. The palms of my hands were soaked in
 sweat&.
 
-{	#TIPS_‚v‚‰‚‹‚‰ = true;
-	Wait(500);
+{	Wait(500);
 	CreateSE("SE02","SE_“úí_PC_ƒ}ƒEƒXƒNƒŠƒbƒN");
 	SoundPlay("SE02", 0, 1000, false);
 	Fade("”wŒi‚P", 0, 1000, null, true);

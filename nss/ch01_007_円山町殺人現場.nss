@@ -156,7 +156,7 @@ mistakenly think it was raining&. The air seemed to paste itself to me&.
 
 {#TIPS_デジャヴ／ジャメヴュ = true;}
 //以前に<FONT incolor="#88abda" outcolor="BLACK"><RUBY text="ジャメヴュ">未視感</RUBY></FONT>を感じたのは、いつだった？
-When had I previously experienced jamais vu?
+When had I previously experienced <FONT incolor="#88abda" outcolor="BLACK">jamais vu</FONT>?
 
 //くそぅ、現実と妄想がごっちゃになってる。
 //これじゃテレビのワイドショーに出てくる、うさんくさそうな専門家のステレオタイプな分析みたいじゃないか。
