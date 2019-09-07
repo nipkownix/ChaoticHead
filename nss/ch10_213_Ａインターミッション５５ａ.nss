@@ -495,7 +495,7 @@ together with the completion of Noah II&.
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21300130nr">
-"It's a <FONT incolor="#88abda" outcolor="BLACK">perpetual motion machine</FONT>&."
+{#TIPS_‰i‹v‹@ŠÖ = true;}"It's a <FONT incolor="#88abda" outcolor="BLACK">perpetual motion machine</FONT>&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch10/21300140nr">

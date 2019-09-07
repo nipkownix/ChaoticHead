@@ -799,7 +799,7 @@ Grim: There's a new Moob Gen! (｀・ω・´)
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text015]
-Neidhardt: What're you saying? //(<--too lazy to {#TIPS_ＡＡ = true;}c&p ASCII art)
+Neidhardt: What're you saying? (＜―too lazy to {#TIPS_ＡＡ = true;}c&p ASCII art)
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,key);
