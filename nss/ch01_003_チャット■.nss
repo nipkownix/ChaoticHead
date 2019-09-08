@@ -71,7 +71,7 @@ was chatting with Grim&.
 {#TIPS_ハンドル名 = true;}
 //グリムっていうのはエンスーでいつもパーティを組んでる仲間の<FONT incolor="#88abda" outcolor="BLACK">ハンドル名</FONT>だ。<k>
 //オフでは会ったことはないけど、オンではしょっちゅう話してる。
-Grim's a friend I always team up with in ESO&.
+Grim's the <FONT incolor="#88abda" outcolor="BLACK">handle name</FONT> of a friend I always team up with in ESO&.<k>
 We've never met IRL&, but we always talk online&.
 
 // ENTER_reset

@@ -54,7 +54,7 @@ I glared at my self-titled "minimum attendance shift chart&."
 {#TIPS_うｐ = true;}
 //結局、昨日はブラチューをリアルタイムで見られなかった。もちろんその後、ミュウツベに<FONT incolor="#88abda" outcolor="BLACK">うｐ</FONT>されたのを見たから問題はなかったけど。
 Yesterday&, I didn't get to watch Burachu in real time&. But
-after that&, I watched it on Mewtube&, so it wasn't a real problem&.
+after that&, I watched the <FONT incolor="#88abda" outcolor="BLACK">up&.</FONT> on Mewtube&, so it wasn't a real problem&.
 
 //でも気分は晴れない。
 Even after watching it something still felt wrong&.

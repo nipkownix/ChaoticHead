@@ -305,7 +305,7 @@ function extTips_itembtn_set()
 		else if($i==5&&#TIPS_デジャヴ／ジャメヴュ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_5,"Deja vu/Jamais vu");}
 		else if($i==6&&#TIPS_アバター){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_6,"Avatar");}
 		else if($i==7&&#TIPS_予知){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_7,"Precognition");}
-		else if($i==8&&#TIPS_キャストオフ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_8,"キャストオフ");}
+		else if($i==8&&#TIPS_キャストオフ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_8,"Cast-off");}
 		else if($i==9&&#TIPS_星来オルジェル){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_9,"Orgel Seira");}
 		else if($i==10&&#TIPS_パラディン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_10,"Paladin");}
 		else if($i==11&&#TIPS_ギルド){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_11,"Guild");}
@@ -313,73 +313,73 @@ function extTips_itembtn_set()
 		else if($i==13&&#TIPS_寝オチ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_13,"Fall asleep (寝オチ)");}
 		else if($i==14&&#TIPS_ＲＯＭ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_14,"Lurker (ROM)");}
 		else if($i==15&&#TIPS_ＤＱＮ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_15,"DQN");}
-		else if($i==16&&#TIPS_厨){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_16,"Childish");}
+		else if($i==16&&#TIPS_厨){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_16,"Childish (厨)");}
 		else if($i==17&&#TIPS_フルボッコ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_17,"フルボッコ");}
 		else if($i==18&&#TIPS_リア充){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_18,"リア充");}
-		else if($i==19&&#TIPS_死亡フラグ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_19,"死亡フラグ");}
-		else if($i==20&&#TIPS_ヤンデレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_20,"ヤンデレ");}
+		else if($i==19&&#TIPS_死亡フラグ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_19,"Death Flag");}
+		else if($i==20&&#TIPS_ヤンデレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_20,"Yandere");}
 		else if($i==21&&#TIPS_空気嫁){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_21,"空気嫁");}
 		else if($i==22&&#TIPS_ｋｔｋｒ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_22,"ｋｔｋｒ");}
 		else if($i==23&&#TIPS_ハンドル名){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_23,"Handle Name");}
-		else if($i==24&&#TIPS_うｐ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_24,"up (うｐ)");}
-		else if($i==25&&#TIPS_パンモロ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_25,"パンモロ");}
+		else if($i==24&&#TIPS_うｐ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_24,"up&. (うｐ)");}
+		else if($i==25&&#TIPS_パンモロ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_25,"Panmoro (パンモロ)");}
 		else if($i==26&&#TIPS_はいてない){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_26,"はいてない");}
 		else if($i==27&&#TIPS_リビドー){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_27,"Libido");}
-		else if($i==28&&#TIPS_孔明の罠){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_28,"孔明の罠");}
-		else if($i==29&&#TIPS_ＧＪ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_29,"ＧＪ");}
+		else if($i==28&&#TIPS_孔明の罠){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_28,"Zhuge Liang's Trap");}
+		else if($i==29&&#TIPS_ＧＪ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_29,"GJ");}
 		else if($i==30&&#TIPS_夢遊病){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_30,"夢遊病");}
 		else if($i==31&&#TIPS_千里眼){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_31,"千里眼");}
-		else if($i==32&&#TIPS_ＤＩＤ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_32,"ＤＩＤ");}
+		else if($i==32&&#TIPS_ＤＩＤ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_32,"DID");}
 		else if($i==33&&#TIPS_電磁波){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_33,"電磁波");}
-		else if($i==34&&#TIPS_コキュートス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_34,"コキュートス");}
+		else if($i==34&&#TIPS_コキュートス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_34,"Cocytus");}
 		else if($i==35&&#TIPS_黒ミサ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_35,"黒ミサ");}
-		else if($i==36&&#TIPS_Ｗｉｋｉ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_36,"Ｗｉｋｉ");}
-		else if($i==37&&#TIPS_エクステ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_37,"エクステ");}
+		else if($i==36&&#TIPS_Ｗｉｋｉ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_36,"Wiki");}
+		else if($i==37&&#TIPS_エクステ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_37,"Hair Extension");}
 		else if($i==38&&#TIPS_目の錯覚){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_38,"目の錯覚");}
 		else if($i==39&&#TIPS_洗脳){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_39,"洗脳");}
 		else if($i==40&&#TIPS_祭り){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_40,"祭り");}
 		else if($i==41&&#TIPS_儲){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_41,"儲");}
 		else if($i==42&&#TIPS_かまいたち現象){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_42,"かまいたち現象");}
-		else if($i==43&&#TIPS_バイオリズム){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_43,"バイオリズム");}
+		else if($i==43&&#TIPS_バイオリズム){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_43,"Biorhythm");}
 		else if($i==44&&#TIPS_劇場型犯罪){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_44,"劇場型犯罪");}
-		else if($i==45&&#TIPS_ツンデレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_45,"ツンデレ");}
+		else if($i==45&&#TIPS_ツンデレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_45,"Tsundere");}
 		else if($i==46&&#TIPS_ｋｗｓｋ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_46,"ｋｗｓｋ");}
 		else if($i==47&&#TIPS_百合属性){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_47,"百合属性");}
 		else if($i==48&&#TIPS_神経パルス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_48,"神経パルス");}
-		else if($i==49&&#TIPS_ダウジング){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_49,"ダウジング");}
+		else if($i==49&&#TIPS_ダウジング){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_49,"Dowsing");}
 		else if($i==50&&#TIPS_超能力捜査官){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_50,"超能力捜査官");}
 		else if($i==51&&#TIPS_万有引力){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_51,"万有引力");}
-		else if($i==52&&#TIPS_パンドラの箱){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_52,"パンドラの箱");}
-		else if($i==53&&#TIPS_マグネタイト){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_53,"マグネタイト");}
-		else if($i==54&&#TIPS_インフォームド・コンセント){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_54,"インフォームド・コンセント");}
+		else if($i==52&&#TIPS_パンドラの箱){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_52,"Pandora's Box");}
+		else if($i==53&&#TIPS_マグネタイト){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_53,"Magnetite");}
+		else if($i==54&&#TIPS_インフォームド・コンセント){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_54,"Informed Consent");}
 		else if($i==55&&#TIPS_メンヘラ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_55,"メンヘラ");}
 		else if($i==56&&#TIPS_転売厨){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_56,"転売厨");}
-		else if($i==57&&#TIPS_脳死){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_57,"脳死");}
+		else if($i==57&&#TIPS_脳死){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_57,"Brain Death");}
 		else if($i==58&&#TIPS_明和党){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_58,"明和党");}
 		else if($i==59&&#TIPS_（ｒｙ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_59,"（ｒｙ");}
 		else if($i==60&&#TIPS_３００人委員会){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_60,"Committee of 300");}
-		else if($i==61&&#TIPS_沈黙の兵器){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_61,"沈黙の兵器");}
-		else if($i==62&&#TIPS_天成神光会){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_62,"天成神光会");}
-		else if($i==63&&#TIPS_ドーパミン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_63,"ドーパミン");}
-		else if($i==64&&#TIPS_マインドコントロール){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_64,"マインドコントロール");}
+		else if($i==61&&#TIPS_沈黙の兵器){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_61,"Silent Weapon");}
+		else if($i==62&&#TIPS_天成神光会){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_62,"Cosmic Church of the Divine Light");}
+		else if($i==63&&#TIPS_ドーパミン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_63,"Dopamine");}
+		else if($i==64&&#TIPS_マインドコントロール){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_64,"Mind Control");}
 		else if($i==65&&#TIPS_パレイドリア){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_65,"パレイドリア");}
-		else if($i==66&&#TIPS_ディラックの海){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_66,"ディラックの海");}
+		else if($i==66&&#TIPS_ディラックの海){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_66,"Dirac Sea");}
 		else if($i==67&&#TIPS_負の物質){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_67,"負の物質");}
 		else if($i==68&&#TIPS_空孔理論){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_68,"空孔理論");}
 		else if($i==69&&#TIPS_素粒子){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_69,"素粒子");}
 		else if($i==70&&#TIPS_対生成){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_70,"対生成");}
-		else if($i==71&&#TIPS_ニューロン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_71,"ニューロン");}
-		else if($i==72&&#TIPS_シナプス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_72,"シナプス");}
+		else if($i==71&&#TIPS_ニューロン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_71,"Neuron");}
+		else if($i==72&&#TIPS_シナプス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_72,"Synapse");}
 		else if($i==73&&#TIPS_心神喪失){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_73,"心神喪失");}
 		else if($i==74&&#TIPS_並行世界){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_74,"並行世界");}
-		else if($i==75&&#TIPS_ミレニアム７){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_75,"ミレニアム７");}
+		else if($i==75&&#TIPS_ミレニアム７){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_75,"Millennium 7");}
 		else if($i==76&&#TIPS_基本相互作用){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_76,"基本相互作用");}
-		else if($i==77&&#TIPS_Ｅ＝ｍｃ＾２){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_77,"Ｅ＝ｍｃ＾２");}
-		else if($i==78&&#TIPS_ゾンビ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_78,"ゾンビ");}
+		else if($i==77&&#TIPS_Ｅ＝ｍｃ＾２){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_77,"E=mc^2");}
+		else if($i==78&&#TIPS_ゾンビ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_78,"Zombie");}
 		else if($i==79&&#TIPS_グラジオール・サーガ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_79,"グラジオール・サーガ");}
 		else if($i==80&&#TIPS_集団ストーカー){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_80,"集団ストーカー");}
-		else if($i==81&&#TIPS_インプリンティング){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_81,"インプリンティング");}
-		else if($i==82&&#TIPS_メシア){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_82,"メシア");}
+		else if($i==81&&#TIPS_インプリンティング){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_81,"Imprinting");}
+		else if($i==82&&#TIPS_メシア){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_82,"Messiah");}
 		else if($i==83&&#TIPS_永久機関){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_83,"永久機関");}
 		else if($i==84&&#TIPS_ｍｊｄ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_84,"ｍｊｄ");}
 		else if($i==85&&#TIPS_ワクテカ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_85,"ワクテカ");}
@@ -615,15 +615,15 @@ function extTips_item_2()
 リアルマネートレーディング（Real-Money Trading）の略。ＭＭＯＲＰＧなどのオンラインゲームにおいて登場する架空のアイテムなどを、現実の通貨と交換する行為。ゲーム内でアイテムの受け渡しなどができるシステムが存在する場合にはじめて成立する。詐欺行為などのトラブルも多く、この行為には賛否両論ある。
 */
 //――――――――――――――――――――――――――――――――――
-■ＲＭＴ
+■RMT
 The abbreviation for
-"Real Money Trading"&.<br>
+"Real Money Trading"&.
 In online games such as the MMORPG&,
 it refers to an act of exchange of
 virtual items for a real currency&.
 If an item transfer is possible in
 a game&, RMT system will appear
-eventually&.<br>
+eventually&.
 Many risks (frauds etc&.) make
 this kind of activity less
 attractive&.
@@ -664,7 +664,7 @@ function extTips_item_4()
 //事故、災害、犯罪等に遭遇し心に強いショックを受けたことが原因となり、様々なストレス障害を引き起こす精神疾患。
 //精神的に不安定になり、不眠や混乱、記憶の錯乱などの現象が１ヶ月以上持続している場合に当てはまる。
 ■PTSD
-Abbreviation for post-traumatic
+Abbreviation for Post-traumatic
 stress disorder&. From DSM-IV
 ("Diagnostic and statistical manual
 of mental disorders"&, an American
@@ -721,7 +721,7 @@ There is also a theory that the
 brain's parahippocampal gyrus (the
 part in charge of processing that
 which is "familiar") having a slight
-spasm is a cause&.
+spasm is a cause&.<BR>
 Jamais vu is different however&, in
 that one should have remembered the
 scene&, but feel like they've seen it
@@ -785,10 +785,17 @@ function extTips_item_8()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-Starting in 2006, certain figures of girls can be undressed.
-■Cast-off
+//Starting in 2006, certain figures of girls can be undressed.
+//■Cast-off
 //■キャストオフ
-２００６年頃から、美少女フィギュアにおいて増えてきた仕様で、服などのパーツをあらかじめ簡易に取り外しできるように作ることで、ヌード（あるいはそれに近い状態）にできること。
+//２００６年頃から、美少女フィギュアにおいて増えてきた仕様で、服などのパーツをあらかじめ簡易に取り外しできるように作ることで、ヌード（あるいはそれに近い状態）にできること。
+■Cast-off
+From 2006 onward&, there has been
+an increasing number of bishoujo
+figures with parts such as clothes
+that are easy to remove in advance&,
+so they can be made (or at least
+as close as possible to) nude&.
 </PRE>
 }
 
@@ -984,8 +991,13 @@ function extTips_item_19()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■死亡フラグ
-死ぬことへの伏線。コンピュータゲーム用語。ポピュラーな例としては「オレ、この戦争が終わったら結婚するんだ」がある。
+//■死亡フラグ
+//死ぬことへの伏線。コンピュータゲーム用語。ポピュラーな例としては「オレ、この戦争が終わったら結婚するんだ」がある。
+■Death Flag
+Someone's death being foreshadowed&.
+Video game term&. A popular example
+being "When this fight is over&,
+I'm going to get married"&.
 </PRE>
 }
 
@@ -1029,8 +1041,11 @@ function extTips_item_23()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■ハンドル名
-ネットワーク上で活動するときに使用する別名。
+//■ハンドル名
+//ネットワーク上で活動するときに使用する別名。
+■Handle Name
+Alias used by a person as they
+perform actions on the internet&.
 </PRE>
 }
 
@@ -1040,8 +1055,11 @@ function extTips_item_24()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■うｐ
-アップロードの略。
+//■うｐ
+//アップロードの略。
+■up&. (うｐ)
+Abbreviation for "Upload" typed on a
+Japanese keyboard&.
 </PRE>
 }
 
@@ -1051,8 +1069,13 @@ function extTips_item_25()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■パンモロ
-パンツがまともに見えている状態。パンチラの発展系。
+//■パンモロ
+//パンツがまともに見えている状態。パンチラの発展系。
+■Panmoro (パンモロ)
+Refers to a situation where panties
+are clearly visible&. An extension
+of pantyshot (パンチラ)&, read as
+"panchira"&.
 </PRE>
 }
 
@@ -1095,8 +1118,11 @@ function extTips_item_29()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■ＧＪ
-『ＧｏｏｄＪｏｂ』を省略したもの。よくやったぞ、と誉めている。
+//■ＧＪ
+//『ＧｏｏｄＪｏｂ』を省略したもの。よくやったぞ、と誉めている。
+■GJ
+Abbreviation of "Good Job"&.
+Well done&. Expression of Admiration&.
 </PRE>
 }
 
