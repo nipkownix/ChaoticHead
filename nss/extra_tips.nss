@@ -344,7 +344,7 @@ function extTips_itembtn_set()
 		else if($i==44&&#TIPS_劇場型犯罪){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_44,"劇場型犯罪");}
 		else if($i==45&&#TIPS_ツンデレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_45,"Tsundere");}
 		else if($i==46&&#TIPS_ｋｗｓｋ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_46,"ｋｗｓｋ");}
-		else if($i==47&&#TIPS_百合属性){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_47,"百合属性");}
+		else if($i==47&&#TIPS_百合属性){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_47,"Yuri Type");}
 		else if($i==48&&#TIPS_神経パルス){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_48,"神経パルス");}
 		else if($i==49&&#TIPS_ダウジング){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_49,"Dowsing");}
 		else if($i==50&&#TIPS_超能力捜査官){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_50,"超能力捜査官");}
@@ -393,7 +393,7 @@ function extTips_itembtn_set()
 		else if($i==93&&#TIPS_燃料投下){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_93,"燃料投下");}
 		else if($i==94&&#TIPS_ＡＡ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_94,"ＡＡ");}
 		else if($i==95&&#TIPS_オサレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_95,"オサレ");}
-		else if($i==96&&#TIPS_サーセン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_96,"サーセン");}		
+		else if($i==96&&#TIPS_サーセン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_96,"sry (サーセン)");}		
 		else if($i==97&&#ClearG&&!$KarteNow){
 		
 			extTips_make_itembtn(1000,$x,$y,0,"─────────────");
@@ -958,8 +958,9 @@ Someone who speaks and acts in a
 childish manner&. In Japanese&, they
 call these people "chuu" (厨)&, but
 there are word puns where the 中
-character is also used&, as it reads
-the same way&.
+character ("middle" from "middle
+schooler") is also used&, as it
+reads the same way&.
 </PRE>
 }
 
@@ -1342,8 +1343,13 @@ function extTips_item_47()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■百合属性
-レズビアン（あるいはレズビアン風）のカップリングが好きな人を言う。
+//■百合属性
+//レズビアン（あるいはレズビアン風）のカップリングが好きな人を言う。
+■Yuri Type
+Phrase used to refer to people who
+like homosexual relationships
+between women (or things of similar
+nature)&.
 </PRE>
 }
 
@@ -1509,7 +1515,7 @@ mystery&, rumored to pull the
 strings of the world from behind
 the scenes&.
 Composed of only 300 members&, they
-are known as the "Unseen Rulers&."
+are known as the "Unseen Rulers&."<BR>
 Their subordinates include royalty
 and intelligence agencies from
 numerous nations&, with a focus as
@@ -1520,13 +1526,13 @@ appear in conspiracy theories&. It is
 said almost the entire world is bent
 to their will&, whether it be
 companies&, police&, research
-institutes&, etc&.
+institutes&, etc&.<BR>
 However&, their true existence will
-remain a mere rumor to the end&.
+remain a mere rumor to the end&.<BR>
 The Committee of 300's ultimate goal
 is theorized as the construction of
 the so-called New World Order under
-the "Human Domestication Project&."
+the "Human Domestication Project&."<BR>
 Outside of the Elite, one billion
 will be left behind as all others
 are slaughtered. Those billion will
@@ -1971,9 +1977,22 @@ function extTips_item_96()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■サーセン
-『すいません』をもじったもの。
-『フヒヒｗｗｗサーセンｗｗｗ』とワンセットで使われることが多い。謝罪の言葉ではあるが意味通りに使われることはなく、相手に対して挑発したりからかったりする際に使われる。
+//■サーセン
+//『すいません』をもじったもの。
+//『フヒヒｗｗｗサーセンｗｗｗ』とワンセットで使われることが多い。謝罪の言葉ではあるが意味通りに使われることはなく、相手に対して挑発したりからかったりする際に使われる。
+■sry (サーセン)
+A twisted version of "Sorry"&.
+It is often used in the expression
+"Hehehe lol sry lol"&. Though the
+word's meaning is one of apology&,
+it is not used as such&, instead
+being used to provoke or make fun of
+the other party&.<BR>
+In Japanese&, the term "saasen"
+is used as a twisted form of
+"すいません" (suimasen)&, which
+itself is an informal form of
+"すみません" (sumimasen)&.
 </PRE>
 }
 

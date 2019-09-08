@@ -651,7 +651,7 @@ I was here of my own accord&, at least&, but&.&.&.
 
 //わざと「おｋ」です。
 {#TIPS_日本語でおｋ = true;}
-<FONT incolor="#88abda" outcolor="BLACK">You speakin' Japanese?</FONT>
+<FONT incolor="#88abda" outcolor="BLACK">In Japanese please</FONT>&.
 
 I wanted to say&, but typically enough&, I lacked the courage&.
 After all&, if I said something klutzy&, she'd stab me&.&.&.

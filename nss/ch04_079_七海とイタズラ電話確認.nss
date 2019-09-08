@@ -312,7 +312,7 @@ On top of that&, I'd treated her the last time we were at McD's&.
 
 {#TIPS_ƒT[ƒZƒ“ = true;}
 Yeah&, but I'm lying!
-Hehehe&, <FONT incolor="#88abda" outcolor="BLACK">soooo sorry</FONT> for being a liar&. lol
+Hehehe&, <FONT incolor="#88abda" outcolor="BLACK">sry</FONT> for being a liar&. lol
 
 {	DeleteStand("stµŠC_§•_’Êí_smile", 500, true);}
 And so I handed my cell phone to Nanami&.

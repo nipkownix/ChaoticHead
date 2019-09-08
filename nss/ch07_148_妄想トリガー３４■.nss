@@ -682,7 +682,7 @@ greater the consequential 'lag' between him and present conditions&."
 "At last those contradictions will lead him toward existential
 self-destruction&."
 
-You sure you're speaking Japanese?
+In&, in Japanese please&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14800630sn">

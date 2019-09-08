@@ -612,7 +612,7 @@ Something about her possessed a destructive type of beauty&.
 //※「サーセン」＝すいません
 Well&, that led to the topic of what the heck a destructive type of
 beauty was supposed to be in the first place&, but I don't have any
-clue&, either&, haha&. My bad&. lol
+clue&, either&, haha&. sry lol
 
 As for the show itself&, I'd quickly gotten sick from being in the
 crowd&, and I'd gone flying out of the club&.
