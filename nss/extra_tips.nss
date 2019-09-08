@@ -1501,9 +1501,9 @@ The Committee of 300's ultimate goal
 is theorized as the construction of
 the so-called New World Order under
 the "Human Domestication Project&."
-Outside of the Elite, one billion
+Outside of the Elite&, one billion
 will be left behind as all others
-are slaughtered. Those billion will
+are slaughtered&. Those billion will
 remain as slaves subject to the
 Rulers' dominion&.
 

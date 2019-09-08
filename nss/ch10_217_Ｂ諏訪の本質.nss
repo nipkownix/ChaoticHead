@@ -1979,7 +1979,7 @@ I felt that sensation distinctly&.
 	CenterLog1("But Hazuki's hand didn't stop moving&.", 1000);
 	ClearLog();
 
-	CenterLog3("On the contrary&, her expression shifted to one of esctasy&,","and her cheeks flushed as she recklessly dug deeper", "into my―into Dr&. Takashina's―brain&.", 2000);
+	CenterLog3("On the contrary&, her expression shifted to one of ecstasy&,","and her cheeks flushed as she recklessly dug deeper", "into my―into Dr&. Takashina's―brain&.", 2000);
 	ClearLog();
 
 	CreateSE("SE01","SE_擬音_脳みそ");
@@ -2128,7 +2128,7 @@ melting point&. I begged her to stop&.
 
 But Hazuki's hand didn't stop moving&.
 
-On the contrary&, her expression shifted to one of esctasy&, and her
+On the contrary&, her expression shifted to one of ecstasy&, and her
 cheeks flushed as she recklessly dug deeper
 into my―into Dr&. Takashina's―brain&.
 

@@ -218,7 +218,7 @@ Therein entered her heated sighs and sweet saliva&.
 "I am a shrine maiden who was born to offer the pure blood of my line
 to a hero&."
 
-Wearing an expression of esctasy&, she delivered "What eroge is that
+Wearing an expression of ecstasy&, she delivered "What eroge is that
 from?"-type lines to me&.
 
 //yƒZƒiz
