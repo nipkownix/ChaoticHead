@@ -998,7 +998,7 @@ function extTips_item_19()
 Someone's death being foreshadowed&.
 Video game term&. A popular example
 being "When this fight is over&,
-I'm going to get married"&.
+I'm going to get married&."
 </PRE>
 }
 
@@ -1420,9 +1420,16 @@ function extTips_item_53()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■マグネタイト
-磁鉄鉱とも言う。鉱物の一種で、磁石の原料となる。
-黒色で金属光沢がある。結晶は正八面体をしている。
+//■マグネタイト
+//磁鉄鉱とも言う。鉱物の一種で、磁石の原料となる。
+//黒色で金属光沢がある。結晶は正八面体をしている。
+■Magnetite
+//Also called Lodestone&.
+A type of mineral used in the
+creation of magnets&.
+Black in color with a metallic
+luster&, the crystals form a
+regular octahedron&.
 </PRE>
 }
 
@@ -1756,10 +1763,17 @@ function extTips_item_77()
 	extTips_item_set($SYSTEM_present_process);
 <PRE @WND_comment>
 [text]
-■Ｅ＝ｍｃ＾２
-アインシュタインが導き出した、特殊相対性理論の関係式。<BR>
-エネルギー（Ｅ）＝質量（ｍ）×光速度（ｃ）の２乗<BR>
-『質量とエネルギーは等価である』ことを示している。
+//■Ｅ＝ｍｃ＾２
+//アインシュタインが導き出した、特殊相対性理論の関係式。<BR>
+//エネルギー（Ｅ）＝質量（ｍ）×光速度（ｃ）の２乗<BR>
+//『質量とエネルギーは等価である』ことを示している。
+■E=mc^2
+A special relativity equation
+derived by Einstein&.
+Energy (E)=Mass (m)×The speed of
+light (c) squared
+It demonstrates that
+"Mass and energy are equivalent&."
 </PRE>
 }
 
