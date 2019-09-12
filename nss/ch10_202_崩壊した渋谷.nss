@@ -321,7 +321,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 	CreateVOICE("‚ ‚â‚¹‚P","ch10/20200100ay");
 	SoundPlay("‚ ‚â‚¹‚P",0,1000,false);
 
-	SetBacklog("Bite the sand   Bite the sand   Bathed in suffering   Like being with child", "voice/ch10/20200100ay", ‚ ‚â‚¹);
+	SetBacklog("Bite the sand   Bite the sand   Bathed in suffering   As if bearing a child", "voice/ch10/20200100ay", ‚ ‚â‚¹);
 
 //Ÿ¦‚ ‚â‚¹‚ª‰Ì‚ğŒû‚¸‚³‚Şº‚ª•·‚±‚¦‚Ä‚­‚éB‚r‚dˆµ‚¢‚Å‚à‚¢‚¢‚©‚à‚Å‚·
 //Ÿ¦‘}“ü‰Ì‚Ì‚Q”Ô‚ğŒû‚¸‚³‚Ş
@@ -331,7 +331,7 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 [text006]
 //y‚ ‚â‚¹z
 //<voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch10/20200100ay">
-"Bite the sand   Bite the sand   Bathed in suffering   Like being with child"
+"Bite the sand   Bite the sand   Bathed in suffering   As if bearing a child"
 
 {	SoundStop2("‚ ‚â‚¹‚P");
 	CreateVOICE("‚ ‚â‚¹‚Q","ch10/20200110ay");
