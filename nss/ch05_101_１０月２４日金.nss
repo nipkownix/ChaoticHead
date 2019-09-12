@@ -102,7 +102,7 @@ if($GameDebugSelect == 1)
 <PRE box00>
 [text001]
 As autumn deepened&, air gradually grew colder and colder&.
-Itfs hard to believe that I'd gotten by with short sleeves only a
+It's hard to believe that I'd gotten by with short sleeves only a
 little while ago&.
 
 The sky was a little dull&, somehow&. As though its colors were
@@ -178,7 +178,7 @@ if($‚TÍ—œ[‚xƒVƒƒƒc == true)
 [text002]
 Come to think of it&, what was the truth about that ero-Rimi?
 
-Shefd seemed much too real for a delusion&.
+She'd seemed much too real for a delusion&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

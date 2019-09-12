@@ -194,7 +194,7 @@ Neidhardt: Shut up&, stupid!
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text003]
-Neidhardt: From now on&, you’ll keep your hands away from
+Neidhardt: From now on&, you'll keep your hands away from
 Taku!!11!!!
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);

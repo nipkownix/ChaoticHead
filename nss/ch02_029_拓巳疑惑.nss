@@ -65,7 +65,7 @@ function ch02_029_‘ñ–¤‹^˜f()
 
 The world is full of fiction&.
 
-Furthermore&, it seemed like everyonefs ill will was directed at me&.
+Furthermore&, it seemed like everyone's ill will was directed at me&.
 
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 {	SoundPlay("SE10", 200, 0, false);

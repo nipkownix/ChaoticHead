@@ -399,7 +399,7 @@ Suwa let out a deep breath and settled back down&.
 "You're awful&, sempai&. Swiping all the good parts&."
 
 Disregarding Suwa's complaints&, Ban once again looked at the
-projector&, so as to burn the male high school studentÅfs figure into
+projector&, so as to burn the male high school student's figure into
 his eyes&.
 
 //Åüè¨ê∫

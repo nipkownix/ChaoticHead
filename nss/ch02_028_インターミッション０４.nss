@@ -223,7 +223,7 @@ Next morning&.
 The telephone was ringing off the hook since early morning&.
 
 Each time his mother answered it&, her responses seemed more and
-more unsettled&. In the end&, Takumi couldnÅft get even a bit of sleep&.
+more unsettled&. In the end&, Takumi couldn't get even a bit of sleep&.
 
 It was a little past 9:00&.
 

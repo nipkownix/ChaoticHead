@@ -859,7 +859,7 @@ I lowered the hand holding my phone at a snail's pace&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-I couldn’t do as much as blink&.
+I couldn't do as much as blink&.
 My throat was achingly dry&.
 Even so&, I sought out the sound's origin&.
 

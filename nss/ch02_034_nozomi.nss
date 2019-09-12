@@ -173,7 +173,7 @@ Right&, he wore a solid black suit&, which was very odd since we were
 in a hospital&.
 
 He was always silent&, like me&, and I'd never so much as heard his
-voice&. At the end I couldnÅft find out anything about him&. His
+voice&. At the end I couldn't find out anything about him&. His
 behavior wasn't like those hospitals&.
 
 The physicians and atmosphere around him were also different&, and he

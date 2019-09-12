@@ -726,7 +726,7 @@ for me&.
 The expectation that if I did so&, maybe Rimi would come&, riding in
 on her white horse to rescue me&.
 
-The expectation&, that if IÅfd opened my eyes with a gasp&, IÅfd
+The expectation&, that if I'd opened my eyes with a gasp&, I'd
 discover that in truth this was all a dream&.
 
 Brimming with those varied hopes&, I shook my head desperately and

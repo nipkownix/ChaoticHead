@@ -1044,7 +1044,7 @@ my own strength&.
 
 But even so&, as long as Nanami were alive&, I wouldn't seek anything
 else&.
-Like IÅfd cared if the rest of the world mocked me with its laughter&.
+Like I'd cared if the rest of the world mocked me with its laughter&.
 
 I was truly glad&.&.&.
 

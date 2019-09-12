@@ -149,7 +149,7 @@ people on @chan had pretty much stopped discussing the first one&.
 
 Everything disappeared from people's memories in the blink of an eye&.
 
-ThatÅfs why I thought about how nice it'd be if&, like those sorts of
+That's why I thought about how nice it'd be if&, like those sorts of
 hot topics&, the stir about me died down within a week&.
 
 {	SetVolume("SE01", 2000, 0, null);}

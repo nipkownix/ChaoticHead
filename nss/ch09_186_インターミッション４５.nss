@@ -163,7 +163,7 @@ scratched his head&, his face perplexed&.
 //Ÿ¬º
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18600040bn">
-"Go back right this instant&. This isnft a game&."
+"Go back right this instant&. This isn't a game&."
 
 //Ÿ¬º
 //y—Dˆ¤z
