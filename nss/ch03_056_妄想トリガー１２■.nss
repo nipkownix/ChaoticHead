@@ -878,7 +878,7 @@ exist&."
 
 	Wait(1000);
 
-	SetBacklog("Rimi"&, "null"&, null);
+	SetBacklog("Rimi", "null", null);
 
 	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "Ri");
@@ -2651,9 +2651,9 @@ exist&."
 
 	Wait(1000);
 
-	SetBacklog("Rimi"&, "null"&, null);
+	SetBacklog("Rimi", "null", null);
 	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
-	CreateText("テキスト１４"&, 100&, center, middle, Auto, Auto, "Ri");
+	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "Ri");
 	Move("テキスト１４", 0, @-30, @0, null, true);
 	Request("テキスト１４", NoLog);
 	Request("テキスト１４", Erase);
