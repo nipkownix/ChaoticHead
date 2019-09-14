@@ -220,7 +220,7 @@ flicked my eyes toward the chat window&.
 	CreateColor("チャット下地色", 1500, 0, 0, 800, 600, "#252525");
 
 	SetMainFont("DroidMSGothic", 32, #FFFFD3, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 1600, 1350, 350, Auto, Auto, "Shogun has entered the room<br>Current members: 2");
+	CreateText("テキスト１", 1600, 1350, 350, Auto, Auto, "Shogun-san has entered the room<br>Current members: 2");
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", PushText);
@@ -244,7 +244,7 @@ flicked my eyes toward the chat window&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text005]
-Shogun has entered the room
+Shogun-san has entered the room
 Current members: 2
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);

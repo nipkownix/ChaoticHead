@@ -1313,7 +1313,7 @@ What do you mean?
 // wait 0.5sec
 //将軍さんが入室しました
 //現在のメンバー：３人
-Shogun has entered the room
+Shogun-san has entered the room
 Current members: 3
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
@@ -2162,7 +2162,7 @@ Grim: See you tomorrow in Baselard
 [text111]
 //グリムさんが退室しました
 //現在のメンバー：２人
-Grim has left the room
+Grim-san has left the room
 Current members: 2
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);

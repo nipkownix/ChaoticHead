@@ -753,7 +753,7 @@ close to ten days since we'd last spoken&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text010]
-Neidhardt has entered the room
+Neidhardt-san has entered the room
 Current members: 2
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFCC);
