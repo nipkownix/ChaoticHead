@@ -1527,7 +1527,7 @@ psychic performance&.
 //Åüç¨óê
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14401230ko">
-"Yeah&. So&, soooo&, you don't not have any value <?>
+"Yeah&. So&, soooo&, you don't not have any value&. <?>
 {	Stand("buèΩ_êßïû_ê≥ñ ","sad", 500, @+150);
 	FadeStand("buèΩ_êßïû_ê≥ñ _sad", 300, true);
 	DeleteStand("buèΩ_êßïû_ê≥ñ _normal", 300, true);}
