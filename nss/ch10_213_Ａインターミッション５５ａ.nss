@@ -670,7 +670,7 @@ And immediately battered it away―
 	SetVolume("@CH*", 0, 0, NULL);
 	CreateMovie("ムービー", 2000, Center, Middle, false, false, "dx/mvExplosion01.ngs");
 	Request("ムービー", Play);
-	CreateSE("SE100","SE_映像_野呂瀬ラスト");
+	CreateSE("SE100","SE_映像_ノアII爆発");
 	MusicStart("SE100", 0, 1000, 0, 1000, null, false);
 	Fade("ムービー", 500, 1000, null, true);
 	Delete("Blur");
@@ -681,7 +681,7 @@ And immediately battered it away―
 	CreateMovie("ムービー１", 2000, Center, Middle, false, false, "dx/mvExplosion02.ngs");
 	Request("ムービー１", Play);
 	Wait(300);
-	CreateSE("SE101","SE_映像_ノアII爆発");
+	CreateSE("SE101","SE_映像_野呂瀬ラスト");
 	MusicStart("SE101", 0, 1000, 0, 1000, null, false);
 	WaitAction("ムービー１", null);
 
