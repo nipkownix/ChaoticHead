@@ -12,8 +12,8 @@ chapter main
 {
 
 	#SYSTEM_product_code="DEMONBANE_THEBEST";
-	#SCRIPT_VERSION="1.20";
-	#SYSTEM_version="1.20";
+	#SCRIPT_VERSION="1.21";
+	#SYSTEM_version="1.21";
 	#SYSTEM_loading_image="cg/sys/save/loading.jpg";
 	#SYSTEM_loading_image_x=298;
 	#SYSTEM_loading_image_y=213;
@@ -1354,7 +1354,7 @@ function TitleSelect()
 
 				CreateTexture("タイトルブラー１", 1000, 0, 0, "SCREEN");
 				Fade("タイトルカラー", 0, 1000, null, true);
-				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mvStart.ngs");
+				CreateMovie("タイトルムービー", 1000, 0, 0, true, false, "dx/mvSandstorm.ngs");
 				Fade("タイトルムービー", 0, 0, null, true);
 				CreateColor("タイトルカラー２", 1000, 0, 0, 800, 600, "BLACK");
 				Fade("タイトルカラー２", 0, 0, null, true);
