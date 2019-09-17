@@ -179,7 +179,7 @@ The sensation that someone looking down on me from heavens&.
 
 //錯覚なんかじゃない。どれだけ歩を速めたって、"視線"はどこまでも僕を追ってくる。
 It wasn't a hallucination&. No matter how I sped up my pace&, the "gaze"
-followed me whereever I went&.
+followed me wherever I went&.
 
 //今、僕は絶対に誰かに見られている。それくらい強烈な気配を持つ"視線"だ。
 Right now&, someone was definitely watching me&. The presence of the

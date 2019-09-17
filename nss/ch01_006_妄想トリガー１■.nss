@@ -179,7 +179,7 @@ But unlike any other day&, today I was attacked by the peculiar
 sensation that I had gotten lost in a different world altogether&.
 
 //風景そのものは変わっていないのに、初めてこの場所に足を踏み入れたような。
-Although the sce<pre>n</pre>ery itself hadn'tchanged&, it was
+Although the sce<pre>n</pre>ery itself hadn't changed&, it was
 as if I were setting foot in this place for the first time&.
 
 //未視感――ジャメヴュって言うらしい。以前、ネットで調べたことがある。
@@ -1265,8 +1265,8 @@ They don't have a single fragment of social intelligence&.
 Guys like that should go die&. Seriously&, they should go off and die&.
 
 //とは思いつつも、結局のところ相手をするだけ無駄なんだよね。僕は無駄なことはしない。だから急いでセンター街を離脱する。
-Is what I kept thinking&, but when you got down to it&, it was pointless to
-respond to them&. So I planned to hastily remove myself from the
+Is what I kept thinking&, but when you got down to it&, it was pointless
+to respond to them&. So I planned to hastily remove myself from the
 shopping district&.
 
 </PRE>

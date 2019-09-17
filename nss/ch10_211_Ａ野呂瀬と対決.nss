@@ -1625,7 +1625,7 @@ But not enough to kill me&.
 The stake continued extending&, hoisting me up about a meter above the
 ground&.
 
-If I stirred&, pain shot through my crotch&.
+If I stirred&, pain would shoot through my crotch&.
 I became incapable of movement&.
 
 //ÅyëÒñ§Åz
@@ -1751,7 +1751,6 @@ Now&, in a shift&, I lapsed into despair&.
 
 When I considered the vast quantity of time left before I died&, every
 emotion other than despair went rushing out of me&.
-
 Just kill me&.&.&.
 
 </PRE>
@@ -1918,6 +1917,7 @@ The nerves in it had surely died long ago&.
 <PRE box00>
 [text035]
 Ahyahyahyahya&.
+
 Abababababah&.
 
 Bubububu&, bupeh&. Bupepepeh&. Boh&.
