@@ -719,7 +719,7 @@ Incapable of resistance&, yet still not falling over&,
 	Request("テキスト１", Enter);
 
 	SetBacklog("I went on taking stakes in every part of my body.", "NULL", NULL);
-	SetBacklog("He went on receiving stakes in every part of his body. ", "NULL", NULL);
+	SetBacklog("He went on receiving stakes in every part of his body.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -787,7 +787,7 @@ his body&.
 	Request("テキスト１", Enter);
 
 	SetBacklog("Thick, sharp stakes kept pounding into me without mercy.", "NULL", NULL);
-	SetBacklog("Suwa kept making thick, sharp stakes pound into him without mercy. ", "NULL", NULL);
+	SetBacklog("Suwa kept making thick, sharp stakes pound into him without mercy.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -862,7 +862,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	CreateVOICE("諏訪","ch10/20700100su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("And you ain't no rhinoceros beetle or butterfly", "voice/ch10/20700100su", 諏訪);
+	SetBacklog("And you ain't no rhinoceros beetle or butterfly.", "voice/ch10/20700100su", 諏訪);
 	SetBacklog("And you ain't no rhinoceros beetle or butterfly.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -946,7 +946,7 @@ for him to stand&.
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Willpower alone was what kept me from collapsing. ", "NULL", NULL);
+	SetBacklog("Willpower alone was what kept me from collapsing.", "NULL", NULL);
 	SetBacklog("Suwa couldn't help but find it strange that he hadn't collapsed yet.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -989,7 +989,7 @@ Suwa couldn't help but find it strange that he hadn't collapsed yet&.
 	Request("テキスト１", Enter);
 
 	SetBacklog("But, I'll hit my limit soon...", "NULL", NULL);
-	SetBacklog("But he would have to hit his limit soon. ", "NULL", NULL);
+	SetBacklog("But he would have to hit his limit soon.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 

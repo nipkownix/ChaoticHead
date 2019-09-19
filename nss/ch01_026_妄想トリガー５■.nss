@@ -1468,7 +1468,7 @@ Was Yua a hacker?
 
 Heart pounding&, I unfolded the print-out&.
 Contrary to my expectations&, though&, rather than my personal
-information&, what wasprinted there looked like the backlog of an
+information&, what was printed there looked like the backlog of an
 online chat&.
 
 //ÅyëÒñ§Åz

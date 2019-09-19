@@ -220,7 +220,7 @@ It would made sense if "Shogun" and I were the same person&.
 
 Come to think of it&, Liselotte was in a similar situation&.
 It was impossible for Neidhardt and Liselotte to ever exist in
-Bazallad at the same time&. Because they had only one player&, me&.
+Baselard at the same time&. Because they had only one player&, me&.
 
 Maybe&, in a similar manner&, Nishijou Takumi and "Shogun" couldn't
 exist in this world at the same time&.
