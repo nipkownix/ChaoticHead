@@ -56,7 +56,7 @@ My consciousness was awakening little by little&.
 
 The ache in my body revived together with it&.
 
-The scent was piercing my noise&. Vivid and nausea-inducing&, it was
+The scent was piercing my nose&. Vivid and nausea-inducing&, it was
 the smell of blood&.
 
 //ÅyëÒñ§Åz

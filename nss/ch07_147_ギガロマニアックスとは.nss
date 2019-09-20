@@ -278,8 +278,7 @@ The same thing went for Kozu-pii&.
 Why had Kozu-pii now&, with this particular timing&, begun speaking to
 me in my mind?
 
-Perhaps she&, like Yua&, had been directed by "Shogun" to approach
-me&.
+Perhaps she&, like Yua&, had been directed by "Shogun" to approach me&.
 
 Going by all the dangerous things she'd said about killing and
 half-killing&, it was also conceivable that she might be an accomplice
@@ -597,8 +596,7 @@ both of them working under "Shogun"?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text906]
-I stood like a cat to prepare myself to run away on a moment's
-notice&.
+I stood like a cat to prepare myself to run away on a moment's notice&.
 
 In concrete terms&, that meant putting my weight on the balls of my
 feet&. By doing this&, you could slip into motion with a cat's
@@ -855,8 +853,9 @@ When Kozu-pii pointed it out&, I helplessly bit into my Crunchy-kun&.
 The gazes of those around us bothered me&.
 
 Sena and Kozu-pii were c<pre>u</pre>te&. The spectacle of two c<pre>u</pre>te
-"flat-chested sisters" together with a creepy otaku―and on top of that&, with all of us eating Crunchy-kuns under the cold
-open sky―was so surreal&, we couldn't avoid standing out&.
+"flat-chested sisters" together with a creepy otaku―and on top of
+that&, with all of us eating Crunchy-kuns under the cold open sky―
+was so surreal&, we couldn't avoid standing out&.
 
 Was I being overly self-conscious?
 
@@ -871,9 +870,9 @@ I should've put on a hat or something&.&.&.
 
 In any case&, I wanted to get out of here ASAP&.
 
-As I desperately kept on eating my Crunchy-kun with that goal in
-mind&, my body went chilly&. This was totally gonna give me
-diarrhea&.&.&. I wondered if the two of them weren't cold&.
+As I desperately kept on eating my Crunchy-kun with that goal in mind&,
+my body went chilly&. This was totally gonna give me diarrhea&.&.&.
+I wondered if the two of them weren't cold&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1033,8 +1032,7 @@ but Sena-shan saw mine!"
 //◆ほひゃー＝驚いたときの擬音
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch07/14700640ko">
-"Back then I thought whoooaaa&, and I asked her why she could see
-it&."
+"Back then I thought whoooaaa&, and I asked her why she could see it&."
 
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch07/14700650ko">
@@ -1052,8 +1050,7 @@ it&."
 <voice name="梢" class="こずえ" src="voice/ch07/14700680ko">
 "People who can see the swords&."
 
-No&, in greater detail&, um&, like the principle of how it
-works&.&.&.
+No&, in greater detail&, um&, like the principle of how it works&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1261,9 +1258,8 @@ made yourself think is really there&.'"
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700960sn">
-"If other people observe that what you are holding is a blue
-popsicle&, it attains the shared recognition of two or more human
-beings&."
+"If other people observe that what you are holding is a blue popsicle&,
+it attains the shared recognition of two or more human beings&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700970sn">
@@ -1337,9 +1333,8 @@ The road would now be a sea of blood&.
 If someone were cu<pre>t</pre> down by that colossal sword&, their torso
 would be divided straight in two&.
 
-Kozu-pii was going to get caught red-handed&. After all&, the police
-box was right beside us&. The police officer would clearly witness
-it&.
+Kozu-pii was going to get caught red-handed&. After all&, the police box
+was right beside us&. The police officer would clearly witness it&.
 
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch07/14701020ko">
@@ -1473,8 +1468,7 @@ Because&, after all&, I'd failed to acquire a Di-Sword&.
 
 It's impossible&.&.&.
 It had been impossible even up on O-Front&.
-I'd seen the sword&, but I hadn't understood how to take hold of
-it&.&.&.
+I'd seen the sword&, but I hadn't understood how to take hold of it&.&.&.
 
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch07/14701110ko">

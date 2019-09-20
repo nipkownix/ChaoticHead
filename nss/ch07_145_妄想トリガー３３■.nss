@@ -113,8 +113,7 @@ created juuuust to protect you&, Takumi-shan&."
 Did she just say&.&.&. android?
 What kinda anime premise is this&.&.&.
 
-Ignoring my stupefication&, Kozu-pii clenched one hand
-into a c<pre>u</pre>te fist&.
+Ignoring my stupefication&, Kozu-pii clenched one hand into a c<pre>u</pre>te fist&.
 
 //y½z
 <voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14500030ko">
@@ -123,8 +122,7 @@ into a c<pre>u</pre>te fist&.
 //Ÿƒ„[ƒc“z
 //y½z
 <voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14500040ko">
-"Kozu-pii is gonna blast away all the baaaaaad guys coming after
-you&."
+"Kozu-pii is gonna blast away all the baaaaaad guys coming after you&."
 
 //Ÿ‚¿[‚È‚İ‚É‚¿‚È‚İ‚É
 //y½z
@@ -155,19 +153,19 @@ But there was a single condition I simply wouldn't back down on&.
 [text002]
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14500070ta">
-"&.&.&.Might&, might you by any chance be equipped to do ecchi
-things?"
+"&.&.&.Might&, might you by any chance be equipped to do ecchi things?"
 
 For some reason I'd slipped into formal language&.&.&.
 
 No&, hold up&, I'd just asked something totally unbelievable&.
 
-As I waffled over whether or not to apologize&,<?>
+As I waffled over whether or not to apologize&, <?>
 {	Stand("bu½_§•_•Ší\‚¦Â","shy", 500, @+100);
 	FadeStand("bu½_§•_•Ší\‚¦Â_shy", 300, true);
 	DeleteStand("bu½_§•_•Ší\‚¦Â_normal", 0, true);}
 
-Kozu-pii blushed and lowered her eyes&.
+Kozu-pii blushed and
+lowered her eyes&.
 
 //y½z
 <voice name="½" class="‚±‚¸‚¦" src="voice/ch07/14500080ko">
@@ -460,11 +458,13 @@ Kozu-pii made no attempt to conceal her sword from those around us&,
 as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
-Shibuya&, carrying her ginormous sword&, without a thought to spare
+Shibuya&, carrying her ginormous Di-Sword&, without a thought to spare
 for how it might inconvenience others&.
 
-They were far too composed about it&.
-Sena and Kozu-pii were both abnormal&, after all&.
+She was far too composed about it&.
+
+Even if Kozu-pii wasn't a subordinate of "Shogun&,"
+She was abnormal after all&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
