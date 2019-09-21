@@ -3075,8 +3075,8 @@ My nausea wouldn't stop&.
 
 //必死でマウスをつかもうとするけど、手が震えてうまくいかない。焦ったせいでつかみそこね、机の上から滑り落ちてコードだけで引っかかる。そのコードをたぐり寄せてマウスパッドに乗せ直し、画像を閉じた。
 I desperately tried to grab the mouse&, but my hand was shaking&,
-and it didn't go well&. I was so frantic that I failed to grasp it&, and it
-slipped off the desk&, dragging only its cord behind it&.
+and it didn't go well&. I was so frantic that I failed to grasp it&,
+and it slipped off the desk&, dragging only its cord behind it&.
 
 I reeled in the cord&, set it back on the
 mousepad&, and closed the window&.

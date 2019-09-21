@@ -144,8 +144,7 @@ to change&.
 And the gaze coming from the depths of her glasses was blatantly
 pointed at me&. She didn't try to look away&.
 
-Her eyes brimmed with a solemn color&, demanding something from
-me&.&.&.
+Her eyes brimmed with a solemn color&, demanding something from me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -101,8 +101,7 @@ I simply watched from beside her&.
 I'd been casing the place for a chance to escape&, but Yua kept
 throwing anxious looks at me&, so I couldn't move an inch&.
 
-Afterward&, at Yua's request&, we looked around the rest of the
-store&.
+Afterward&, at Yua's request&, we looked around the rest of the store&.
 
 An overjoyed Yua told me&, "No matter how much money I brought here&,
 I'd want to buy more&," but I didn't have the energy to smile back at

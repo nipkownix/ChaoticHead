@@ -72,9 +72,8 @@ today&."
 
 {	CreateSE("SE03","SE_“úí_ŠwZ_‹³º_Loop");
 	MusicStart("SE03", 500, 500, 0, 1000, null, true);}
-Once the math teacher\what was his name again? Not like it
-mattered\left the classroom&, today's classes finally reached their
-end&.
+Once the math teacher\what was his name again? Not like it mattered\
+left the classroom&, today's classes finally reached their end&.
 
 Everyone chattered about where they planned to go next&. While the
 students in clubs gathered with their fellow club members and headed
@@ -104,8 +103,7 @@ In the first place&, was Yua really coming?
 I started to think that maybe yesterday had been one big prank&, and
 as I waited here&, she was watching me from the shadows and giggling&.
 
-In a certain sense&, that might be better than if she really
-came&.&.&.
+In a certain sense&, that might be better than if she really came&.&.&.
 
 In fact&, there was no need to wait for her so faithfully&. Wouldn't
 it be fine if I forgot all about her and left?
@@ -146,9 +144,8 @@ to me&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch01/01900050mi">
-"You aren't going home? You always disappear right when the bell
-rings&. I'd secretly named it 'Takumi's supersonic flight home&,'
-man&."
+"You aren't going home? You always disappear right when the bell rings&.
+I'd secretly named it 'Takumi's supersonic flight home&,' man&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900060ta">
@@ -311,8 +308,7 @@ hottie like her?"
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, false);}
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch01/01900240mi">
-"So&, in other words&, you got reverse-picked-up&, huh? Ehhh&, you
-little!"
+"So&, in other words&, you got reverse-picked-up&, huh? Ehhh&, you little!"
 
 He grabbed me by the jaw until I started to wobble&.
 With that&, Misumi-kun finally released me&.
@@ -375,8 +371,7 @@ Uuh&, he was definitely teasing me&.
 [text007]
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch01/01900310mi">
-"Hahaha&. C'mon&, get on over there&. Looks like she's tired of
-waiting&."
+"Hahaha&. C'mon&, get on over there&. Looks like she's tired of waiting&."
 
 As Misumi-kun drove me away&, I stumbled up to Yua&. In the end&, I
 hadn't been able to run away&.&.&.
@@ -431,8 +426,7 @@ school posthaste&.
 [text008]
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01900340yu">
-"I'm sorry to ask this of you&, even though we met only
-yesterday&.&.&."
+"I'm sorry to ask this of you&, even though we met only yesterday&.&.&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01900350ta">
@@ -457,8 +451,7 @@ I'd thought that kind of thing belonged in a world with no relation to me&.
 I'd never have dreamed of being able to experience it&.&.&.
 
 But at the moment&, I was coming under silent pressure from Yua&. How
-could I be so nervous when all we were doing was walking side by
-side?
+could I be so nervous when all we were doing was walking side by side?
 
 And I had no clue as to Yua's true identity or her goal&.
 What could she expect from a creepy otaku like me&.&.&.?

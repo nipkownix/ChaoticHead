@@ -1217,8 +1217,7 @@ and hurtled out of the room&.
 	FadeDelete("ドア開き", 500, true);
 	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	MusicStart("SE01", 1000, 1000, 0, 1000, null, true);}
-Haa&.&.&.&.&. that stormy period of time had finally come to an
-end&.&.&.&.&.
+Haa&.&.&.&.&. that stormy period of time had finally come to an end&.&.&.&.&.
 The room went silent as soon as Nanami left&.
 
 It had to be like this&, after all&. This was my base&. I couldn't let
@@ -1245,8 +1244,7 @@ But it was empty&.
 <voice name="拓巳" class="拓巳" src="voice/ch01/01201010ta">
 "Ah&.&.&. sh&, shit&, Nanami drank from this earlier&.&.&."
 
-Urrgh&, that sucks&.&.&. I had an indirect kiss with my little
-sister&.&.&.
+Urrgh&, that sucks&.&.&. I had an indirect kiss with my little sister&.&.&.
 
 If Nanami were a little cuter&, I might've been able to fap to this
 eroge-esque situation&, but that personality of hers only made me go

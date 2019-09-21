@@ -590,8 +590,7 @@ able to cast-off clothing&, and whether or not poses were sexy&.&.&.
 
 I wanted to see what kind of face Yua was making&, but I didn't have
 the courage to look&.
-She'd definitely be looking down at me as if I were something
-dirty&.&.&.
+She'd definitely be looking down at me as if I were something dirty&.&.&.
 
 So as I desperately forced my face in some other direction&, pulse
 racing&,
@@ -679,8 +678,7 @@ wanting that post-awakening one&."
 	DeleteStand("stóDà§_êßïû_í èÌ_smile", 0, false);}
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/01700610yu">
-"When you say post-awakening&, do you mean that
-sce<pre>n</pre>e in episode 12?"
+"When you say post-awakening&, do you mean that sce<pre>n</pre>e in episode 12?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01700620ta">
@@ -688,8 +686,8 @@ sce<pre>n</pre>e in episode 12?"
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/01700630yu">
-"Yes&. Since I like the show&. The awakening sce<pre>n</pre>e
-in particular; I rewatch my recording of it every day&."
+"Yes&. Since I like the show&. The awakening sce<pre>n</pre>e in particular;
+I rewatch my recording of it every day&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01700640ta">
@@ -723,10 +721,9 @@ the staff members&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01700690ta">
-"You ought to check who produced it and directed it and did the
-script&. Especially when it comes to new series&, since you can
-basically predict whether it'll be good or bad based on those factors
-alone&."
+"You ought to check who produced it and directed it and did the script&.
+Especially when it comes to new series&, since you can basically predict
+whether it'll be good or bad based on those factors alone&."
 
 {	Stand("stóDà§_êßïû_í èÌ","smile", 200, @+100);
 	DeleteStand("stóDà§_êßïû_í èÌç∂éËâ∫_normal", 300, false);

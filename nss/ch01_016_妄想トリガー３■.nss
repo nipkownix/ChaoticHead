@@ -395,15 +395,15 @@ Suddenly pulled up the hem of her skirt&.
 From underneath it&, something glittered and fell to the ground in
 huge numbers&.
 
-They resembled crosses&. An image of the stakes I'd seen
-at the "pinned in place" crime sc<pre>ene</pre>
+They resembled crosses&.
+An image of the stakes I'd seen at the "pinned in place" crime sc<pre>ene</pre>
 appeared in my head like a flash of light&.
 
 {	CreateColor("F‚Q", 1000, 0, 0, 800, 600, "WHITE");
 	Request("F‚Q", AddRender);
 	Fade("F‚Q", 0, 0, null, true);
-	Fade("F‚Q", 200, 1000, null, true);}
-{	Stand("st—Dˆ¤_§•_—â“","mad", 200, @0);
+	Fade("F‚Q", 200, 1000, null, true);
+	Stand("st—Dˆ¤_§•_—â“","mad", 200, @0);
 	Move("st—Dˆ¤_§•_—â“_mad", 0, @10, @50, Dxl1, true);
 	FadeStand("st—Dˆ¤_§•_—â“_mad", 300, true);
 	FadeDelete("back*", 0, false);
@@ -716,7 +716,7 @@ fell down&.
 
 I groaned&, failing to understand what had happened to me&, as pain
 ran through my whole body&. It took me a while to start pushing
-pushing myself up&.
+myself up&.
 
 {	CreateTexture("”wŒi‚Q", 100, 0, 0, "cg/bg/bg033_01_3_ƒXƒN[ƒ^[“|‚ê_a.jpg");
 	DrawTransition("”wŒi‚Q", 1000, 0, 1000, 100, null, "cg/data/down.png", true);
@@ -795,9 +795,8 @@ some 3-D chick!
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01600230ta">
 "D&, don't come after me! Wh&, what do you want from me?"
 
-She looked bewildered&. I desperately derided her&, while scooting
-back on my butt in hopes of opening even a little distance between
-us&.
+She looked bewildered&. I desperately derided her&, while scooting back
+on my butt in hopes of opening even a little distance between us&.
 
 If I didn't do so&, I thought maybe she'd pull a knife out of her
 clothes any second and come attack me&.
@@ -871,8 +870,7 @@ As expected&, her behavior was far too suspicious&.&.&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/01600290ta">
 "&.&.&.&.&."
 
-No one had asked her to&, but she suddenly started introducing
-herself&.
+No one had asked her to&, but she suddenly started introducing herself&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/01600300yu">
@@ -888,7 +886,6 @@ nagged at me&.&.&."
 
 //‚¨‚ª‚İFƒ‹ƒr“ü—Í
 She "just" ended up tailing me&.&.&.?
-
 This woman&, who introduced herself as Yua&, gradually lowered her glance
 while blabbering something obscure&.
 
@@ -1000,8 +997,7 @@ Seira-tan's words than in whatever this girl said&.
 
 Faltering&, I fought to stand up&.
 My body still hurt here and there&. My shoulder in particular had
-trouble moving&, and an intermittent dull pain kept running through
-it&.
+trouble moving&, and an intermittent dull pain kept running through it&.
 
 
 The pain briefly made me dizzy&. I might have hit my head when I fell&.
@@ -1024,8 +1020,8 @@ It was a lot of work to avoid meeting her eyes&. No doubt about it&,
 my face was turning bright red&. She'd make fun of me if she saw it&.
 So I turned my face aside and roughly shook off Yua's hand&.
 
-The inside of my head was pure white&. I almost never touched
-females&, other than my family members&.
+The inside of my head was pure white&. I almost never touched females&,
+other than my family members&.
 I felt the pulse in my chest growing steadily faster and faster&.
 
 //y—Dˆ¤z
@@ -1045,9 +1041,8 @@ That was why I didn't have the courage to look at Yua face-to-face&.
 Besides&, she was a stalker&, and she might be related to that demon
 girl&, and I didn't want to die&.&.&.
 
-Anyway&, I was attempting to think about a lot of things&, but I
-couldn't think about anything&, and I became more and more
-discombobulated&.
+Anyway&, I was attempting to think about a lot of things&, but I couldn't
+think about anything&, and I became more and more discombobulated&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1081,7 +1076,8 @@ At most&, this would turn out to be a delusion&.
 {#TIPS_€–Sƒtƒ‰ƒO=true;}
 Or else&, at the very&, very end&, I'd be thrust down from the pinnacle
 of happiness and fall into despair&. That kind of pattern appears a lot
-in anime&. A <FONT incolor="#88abda" outcolor="BLACK">death flag</FONT> had gone up for me&.
+in anime&.
+A <FONT incolor="#88abda" outcolor="BLACK">death flag</FONT> had gone up for me&.
 
 Shitshitshitshitshitshitshitshit&.
 
@@ -1109,8 +1105,7 @@ When she asked me&, I made the mistake of nodding again&.
 //‚r‚d//ƒZƒ“ƒ^[ŠX3secF/out
 {	DeleteStand("bu—Dˆ¤_§•_’Êí_worry", 300, false);
 	SetVolume("SE01", 2000, 0, null);}
-Yua spoke nervously and began to slowly move forward&, watching my
-feet&.
+Yua spoke nervously and began to slowly move forward&, watching my feet&.
 
 She was doing so much for me that I could no longer refuse her or
 shake her off&. Helpless&, I had no choice but to start walking&,

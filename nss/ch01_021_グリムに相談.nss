@@ -310,7 +310,8 @@ else
 <PRE @box01>
 [text917]
 //顔文字平気でしょうか？
-Neidhardt: What's wrong with fapping to school swimsuits!? (#ﾟДﾟ)
+Neidhardt: What's wrong with fapping to school swimsuits!?
+(#ﾟДﾟ)
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,key);
@@ -395,7 +396,6 @@ Grim: Here it comes━(ﾟ∀ﾟ)━(∀ﾟ )━(ﾟ　 )━(　　)━(　　)
 <PRE box00>
 [text023]
 An email from a 3-D girl&.&.&. I'd never received one before&.&.&.
-
 I took a gulp and opened it&.
 
 </PRE>

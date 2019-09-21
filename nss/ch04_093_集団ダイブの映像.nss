@@ -203,8 +203,7 @@ personalities&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/09300050ta">
-"The doctor didn't diagnose me as having multiple
-personalities&.&.&."
+"The doctor didn't diagnose me as having multiple personalities&.&.&."
 
 Å\But for some reason&, Dr&. Takashi went away&.
 
@@ -337,8 +336,8 @@ Or else&, proof that I wasÅ\
 I didn't know which would turn out to be the case&.
 It was akin to a gamble&.
 
-Sensing the ringing of my internal alarm bells&, I moved my mouse
-cursor up to where the link was located&.
+Sensing the ringing of my internal alarm bells&, I moved my mouse cursor
+up to where the link was located&.
 
 But I couldn't quite work up the courage to click the URL&.
 
@@ -403,8 +402,7 @@ The word "Loading&.&.&." appeared in the video window&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/09300140ta">
-"It'snotmetitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotme
-itsnotmeitsnotmeitsnotme&.&.&."
+"It'snotmetitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotme&.&.&."
 
 In actuality&, it only took about ten seconds to load&, but to me
 those ten seconds felt like eternity&.
@@ -478,8 +476,7 @@ to New-Gen?
 
 Was the New-Gen criminal really the one who had filmed it?
 
-&.&.&.At least&, I had no recollection of taping something like
-this&.
+&.&.&.At least&, I had no recollection of taping something like this&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

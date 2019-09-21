@@ -54,8 +54,7 @@ attendance shift chart&." Then I wouldn't be able to graduate&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01300020ta">
-"Graduate&, graduate&.&.&. What's with the insistence on
-graduating?"
+"Graduate&, graduate&.&.&. What's with the insistence on graduating?"
 
 It was something I'd decided on myself&, but I couldn't help griping
 about it&.
@@ -123,9 +122,8 @@ Could it be the demon from the day before yesterday&.&.&.!?
 I immediately lost my calm; my heart began beating wildly&.
 A supreme tension controlled my movements&, making me walk jerkily&.
 
-The serene morning sce<pre>n</pre>ery metamorphosed&,
-leaving me with the sense that everything around
-me was rejecting me&.
+The serene morning sce<pre>n</pre>ery metamorphosed&, leaving me with the sense
+that everything around me was rejecting me&.
 
 Birds chirped atop telephone wires&, and I could faintly hear the
 relaxed BGM of morning news programs playing in the houses I was

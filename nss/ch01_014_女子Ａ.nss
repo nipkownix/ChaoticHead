@@ -103,9 +103,8 @@ Dammit&, you people suck at this&.
 It pissed me off so much that I PK'd them&, stole their items&, and
 immediately escaped to a different area&.
 
-Liselotte could easily do the kinds of things that Neidhardt
-couldn't&. That was why I came all the way out here to log in at
-@Cafe&. Hehehe&.
+Liselotte could easily do the kinds of things that Neidhardt couldn't&.
+That was why I came all the way out here to log in at @Cafe&. Hehehe&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

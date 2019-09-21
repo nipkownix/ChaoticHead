@@ -115,10 +115,10 @@ Major points to her for acting embarrassed while doing something so
 daring&, but&.&.&.
 
 My thoughts couldn't keep up with such a sudden development&. It was
-all I could to just to swallow the saliva in my mouth&.
+all I could do just to swallow the saliva in my mouth&.
 
-Yua went even further&, putting her hands to the buttons of her
-blouse&. She undid them from the top down&, one by one&.
+Yua went even further&, putting her hands to the buttons of her blouse&.
+She undid them from the top down&, one by one&.
 
 {	Move("óDà§", 3000, @0, @+300, null, false);}
 And then&, slowly&, as though to inflame me&, she dropped her blouse
@@ -134,8 +134,8 @@ suit&.
 {#TIPS_ÇfÇi = true;}
 Hey&, that said&, in spite of her mild-mannered face&, Yua had awfully
 big boobs&.
-Let's just say <FONT incolor="#88abda" outcolor="BLACK">GJ</FONT> to how she'd avoided
-taking off her knee socks&, and leave it at that&.
+Let's just say <FONT incolor="#88abda" outcolor="BLACK">GJ</FONT> to how she'd avoided taking off her knee socks&,
+and leave it at that&.
 
 ButÅ\
 
@@ -281,7 +281,7 @@ Illuminated by the glow of the desk light&, its blade gleamed&.
 
 My only option was to look at it dazedly&.
 My thoughts couldn't keep up with such a sudden development&. It was
-all I could to just to swallow the saliva in my mouth&.
+all I could do just to swallow the saliva in my mouth&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -405,7 +405,6 @@ One of my delusions&.
 [text007]
 {#TIPS_ÉÑÉìÉfÉå=true;}
 Terrifying&. <FONT incolor="#88abda" outcolor="BLACK">Yandere</FONT> girls are fucking terrifying&.
-
 Though I'd imagined it myself&, it was scary enough to give me goose
 bumps&.
 
@@ -451,8 +450,8 @@ If so&, don't fuck around with me!
 Trying to separate me from my wives&, why&, that's the very height of
 atrocity!
 
-No matter what anyone said&, no matter how much money they offered
-me&, I'd never want to part with Seira-tan!
+No matter what anyone said&, no matter how much money they offered me&,
+I'd never want to part with Seira-tan!
 If you want her&, buy her yourself!
 
 {	CreateSE("SE01","SE_êlëÃ_ìÆçÏ_êKñ›");
@@ -520,9 +519,8 @@ me start to feel like I was the one at fault&.
 	FadeStand("stóDà§_êßïû_í èÌç∂éËâ∫_worry", 500, true);}
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/01800320yu">
-"Th&, then&, let me at least guarantee you&.&.&. some space to walk
-safely&. I'm sorry&.&.&. After that&, I'll say what the favor
-is&.&.&."
+"Th&, then&, let me at least guarantee you&.&.&. some space to walk safely&.
+I'm sorry&.&.&. After that&, I'll say what the favor is&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -542,8 +540,8 @@ It was the perfect example of uncalled-for meddling&.&.&.
 At times like this&, someone in my position should probably offer Yua
 my help&.
 
-As we reached for the garbage&, our hands would touch&. "Ah&.&.&."
-we'd say as we gazed at each other&, and the atmosphere would start to
+As we reached for the garbage&, our hands would touch&. "Ah&.&.&." we'd say
+as we gazed at each other&, and the atmosphere would start to
 get kind of intimate&.
 
 What kind of love comedy is this!?
@@ -700,8 +698,7 @@ Think&.&.&. What on earth was Yua's goal&.&.&.
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/01800500yu">
-"I was&, um&, happy that&.&.&. you told me about all kinds of
-things&.&.&."
+"I was&, um&, happy that&.&.&. you told me about all kinds of things&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01800510ta">
@@ -752,8 +749,7 @@ I just got in a dither and made myself increasingly impatient&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01800530ta">
 "I'll&.&.&."
 
-I'll go with you&, I started to say&, but I couldn't go through with
-it&.
+I'll go with you&, I started to say&, but I couldn't go through with it&.
 
 What if&, after I said that&, she told me&, "Like&, don't take it
 seriously&, stupid&. What a creep&."
@@ -834,8 +830,7 @@ real&.
 I was the one who felt like I'd been saved&.&.&.
 Haa&, how had I ended up getting so cornered?
 
-Damn you&, 3-D girl&.&.&. Lack of preparation was my greatest
-enemy&.&.&.
+Damn you&, 3-D girl&.&.&. Lack of preparation was my greatest enemy&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -916,8 +911,7 @@ tomorrow&."
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/01800690yu">
-"Grade 2&, Class B&. Okay&, please wait for me once classes are
-over&."
+"Grade 2&, Class B&. Okay&, please wait for me once classes are over&."
 
 Wanting Yua to leave faster&, I went on bobbing my head&.
 
@@ -1002,9 +996,8 @@ reject her without a moment's worth of mercy or sympathy&."
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01800790ta">
 "Something like&, 'You're not worthy of being my woman&. Come on back
-once you're a finer woman than Seira&. Granted&, that'll never
-happen&, given that Seira's gonna be eternally seventeen&,'
-hehehehehehehehe&."
+once you're a finer woman than Seira&. Granted&, that'll never happen&,
+given that Seira's gonna be eternally seventeen&,' hehehehehehehehe&."
 
 Like any female could ever be finer than Seira&.
 
