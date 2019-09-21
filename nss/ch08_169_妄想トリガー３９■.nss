@@ -264,8 +264,8 @@ with Rimi-san&."
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch08/16900200na">
-"Yeah! It's named 'Operation Let's Make Rimi-San And Bro's Relationship An
-Established Fact&.'"
+"Yeah! It's named 'Operation Let's Make Rimi-San And Bro's Relationship
+An Established Fact&.'"
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch08/16900210na">

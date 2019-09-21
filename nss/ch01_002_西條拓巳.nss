@@ -453,7 +453,7 @@ lamp set on my computer desk&.
 
 // ENTER_reset
 //‚»‚à‚»‚à•”‰®‚É‚Í‘‹‚ª‚Ğ‚Æ‚Â‚à‚È‚¢‚ñ‚¾‚©‚çAˆÃ‚¢‚ÉŒˆ‚Ü‚Á‚Ä‚éB
-The room doesn't have any windows, so it's dark to begin with&.
+The room doesn't have any windows&, so it's dark to begin with&.
 
 // ENTER_reset
 //ŠO‚Ì—lq‚ª‚Ü‚Á‚½‚­‚¤‚©‚ª‚¢’m‚ê‚È‚¢‚©‚çA¡‚ª’‹‚©–é‚©‚à•ª‚©‚ç‚È‚¢B
@@ -574,17 +574,16 @@ cheap price&."
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch01/00200050ta">
 //uŠX‚ÌŠÂ‹«‚ÍÅˆ«B–l‚ªZ‚ñ‚Å‚é
-"The city environment blows&.
-I live in Shinsen-cho&, and there are a lot of hills
-//bg_ò’¬â_’‹Cut / in
+"The city environment blows&. I live in Shinsen-cho&, and there are
+a lot of hills //bg_ò’¬â_’‹Cut / in
 {	Wait(3000);
 	CreateTextureEX("”wŒi‚R", 100, 0, 0, "cg/bg/bg007_01_1__ò’¬â_a.jpg");
 	Fade("”wŒi‚R", 300, 1000, null, true);
 	Delete("”wŒi‚Q");}
 //_ò’¬‚ÍA¬‚³‚Èâ‚ª‘½‚¢‚©‚ç”æ‚ê‚é‚µB
-so going around is tiring&. On top of that&,
 //@‚·‚®‹ß‚­‚É
-//bgƒ‰ƒuƒzŠX_’‹Cut / in
+so going around is tiring&.
+On top of that&, //bgƒ‰ƒuƒzŠX_’‹Cut / in
 {	Wait(3000);
 	CreateTextureEX("”wŒi‚S", 100, 0, 0, "cg/bg/bg008_01_1_ƒ‰ƒuƒzŠX_a.jpg");
 	Fade("”wŒi‚S", 300, 1000, null, true);

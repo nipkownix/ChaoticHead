@@ -1133,7 +1133,7 @@ sea―"
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700800sn">
 {#TIPS_空孔理論 = true;#TIPS_対生成 = true;#TIPS_素粒子 = true;}
-"According to the Dirac equation's <FONT incolor="#88abda"outcolor="BLACK">hole theory</FONT>&, <FONT incolor="#88abda"outcolor="BLACK">pair production</FONT>
+"According to the Dirac equation's <FONT incolor="#88abda" outcolor="BLACK">hole theory</FONT>&, <FONT incolor="#88abda" outcolor="BLACK">pair production</FONT>
 occurs&,leading to the formation of <FONT incolor="#88abda" outcolor="BLACK">particles</FONT> and antiparticles&."
 
 //【セナ】

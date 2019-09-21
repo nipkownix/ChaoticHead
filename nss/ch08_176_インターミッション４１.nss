@@ -55,8 +55,8 @@ function ch08_176_インターミッション４１()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-Bright afternoon light shone into the hospital corridor&. It was fairly dim,
-during this band of time&, immediately before the transition to
+Bright afternoon light shone into the hospital corridor&. It was fairly
+dim&, during this band of time&, immediately before the transition to
 night&, since the indoor lights hadn't been turned on yet&.
 
 The dinnertime bustle had quieted a short while ago&, and an almost
