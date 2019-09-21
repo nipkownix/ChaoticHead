@@ -395,8 +395,8 @@ Suddenly pulled up the hem of her skirt&.
 From underneath it&, something glittered and fell to the ground in
 huge numbers&.
 
-They resembled crosses&. An image of the stakes I'd seen
-at the "pinned in place" crime sc<pre>ene</pre>
+They resembled crosses&.
+An image of the stakes I'd seen at the "staking" crime sc<pre>ene</pre>
 appeared in my head like a flash of light&.
 
 {	CreateColor("F‚Q", 1000, 0, 0, 800, 600, "WHITE");

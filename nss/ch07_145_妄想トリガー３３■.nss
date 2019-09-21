@@ -463,8 +463,10 @@ The same as Sena&. She too had walked around the dead center of
 Shibuya&, carrying her ginormous sword&, without a thought to spare
 for how it might inconvenience others&.
 
-They were far too composed about it&.
-Sena and Kozu-pii were both abnormal&, after all&.
+She was far too composed about it&.
+
+Even if Kozu-pii wasn't a subordinate of "Shogun&,"
+She was abnormal after all&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
