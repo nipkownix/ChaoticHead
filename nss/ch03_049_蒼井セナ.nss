@@ -83,9 +83,8 @@ She was the girl I'd seen at 107―
 She'd been there when Nanami and I went to get a cell phone&.
 
 The shape of the sword&, her Suimei uniform&, her long dark hair―
-Each characteristic matched perfectly&. Back then&, she'd been
-standing atop the stairs to 107&, watching the people below go to and
-fro&.
+Each characteristic matched perfectly&. Back then&, she'd been standing
+atop the stairs to 107&, watching the people below go to and fro&.
 
 In addition―
 
@@ -142,6 +141,7 @@ friends were lying in wait nearby&, plotting to <FONT incolor="#88abda" outcolor
 once she lured me in&.
 
 I wasn't about to take the bait&.&.&.
+
 I swung around to the right―and was dumbfounded&.
 
 </PRE>
@@ -182,7 +182,6 @@ As before&, the sword-bearing Girl B went on glaring at me&.
 When&, how the hell had she circled around me&.&.&.!?
 
 There were limits to being fast&. This was practically teleportation&.
-
 How had she known I was going to turn around&, anyway?
 
 //【セナ】

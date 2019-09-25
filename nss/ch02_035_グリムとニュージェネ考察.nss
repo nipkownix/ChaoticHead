@@ -418,8 +418,7 @@ A New Gen wiki like this was bound to be fairly fast-moving&, with
 all kinds of people posting stuff related to the New Gen cases&.
 
 Unreliable information and flaming were mixed in&, although it was
-convenient because it was much easier to understand the whole
-picture&.
+convenient because it was much easier to understand the whole picture&.
 
 There were a lot of links pasted in&, too&.
 
@@ -714,9 +713,8 @@ I decided to put this into practice without delay&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text038]
-To begin with&, why had two cases without any common features
-whatsoever been collectively labeled "New Gen" and treated like the
-same thing?
+To begin with&, why had two cases without any common features whatsoever
+been collectively labeled "New Gen" and treated like the same thing?
 
 The "group diving" had initially been treated solely as if the victims
 had committed suicide&. After the "pregnant man" incident&, however&,
@@ -761,8 +759,7 @@ hearing "A sound of someone hammering&," starting at around
 8 PM&, the time when the murder was estimated to have been
 committed&, and lasting for over an hour&.
 
-I'd heard it as well&. It had clung to my ears&.
-A nasty sound&.
+I'd heard it as well&. It had clung to my ears&. A nasty sound&.
 
 On a side note&, no connection between it and the "group diving" or
 the "pregnant man" had been uncovered yet&.
@@ -846,8 +843,7 @@ Either way&, net crowds are lusting a fourth incident&.
 <PRE box00>
 [text040]
 If I hadn't been involved&, I would've certainly joined the "festival"
-and maybe I would've been waiting with bated breath for a fourth
-case&.
+and maybe I would've been waiting with bated breath for a fourth case&.
 
 Dammit&, those bastards sure have it easy&.&.&.
 

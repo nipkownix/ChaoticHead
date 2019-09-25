@@ -157,7 +157,6 @@ best interests&," over and over&.
 
 Burrowing into his bed&, Takumi trembled with such frustration that
 as if he were about to rip the mattress to shreds&.
-
 He loathed his parents from the bottom of his heart&.
 
 At the time&, a field trip had been a tremendous&, tremendous an event
@@ -239,8 +238,7 @@ to make breakfast&.
 There was no need to go to school today\
 
 Still sulking&,
-Takumi opened his sketchbook and began drawing to clear away his
-gloom&.
+Takumi opened his sketchbook and began drawing to clear away his gloom&.
 
 But his irritation wouldn't go away&,
 And right when he tore up and flung his sketchbook away in annoyance\
@@ -251,8 +249,8 @@ And right when he tore up and flung his sketchbook away in annoyance\
 "Huh? That bus&.&.&."
 
 Nanami raised her voice in confusion&.
-Takumi thought she was talking about the drawing he'd been working
-on&, but her eyes were glued to the television&.
+Takumi thought she was talking about the drawing he'd been working on&,
+but her eyes were glued to the television&.
 
 //Ÿ‚±‚±‚Å‚ÌµŠC‚Í‚XÎ‚Å‚·
 //yµŠCz

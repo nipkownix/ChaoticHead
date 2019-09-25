@@ -120,8 +120,7 @@ and laughing raucously&.
 
 Two high school girls sat across from each other&, both with bleached
 hair and loose knee socks&, having staring contests with the screens
-of their respective cell phones&. They didn't say a word to each
-other&.
+of their respective cell phones&. They didn't say a word to each other&.
 
 Neighboring them was a middle-aged salaryman&, probably skipping out
 on work&, who lay slumped face-down against his table and snored&.
@@ -207,8 +206,7 @@ brother&, before biting a potato chip&.
 
 On a side note&, she'd ordered a fish burger combo even though it
 wasn't dinnertime yet&. Moreover&, I was the one who had to pay for
-it&. Pretty ridiculous&, given that I felt too ill to have an
-appetite&.
+it&. Pretty ridiculous&, given that I felt too ill to have an appetite&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -305,8 +303,7 @@ regular Gero-froggy&."
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch02/04400210na">
-"Next came Fatso Gero-froggy&, and after that was Spazzy
-Gero-froggy&."
+"Next came Fatso Gero-froggy&, and after that was Spazzy Gero-froggy&."
 
 Nanami effortlessly recited the names of various Gero-froggies&.
 

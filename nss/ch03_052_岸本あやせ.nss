@@ -51,8 +51,7 @@ still-boisterous hallway to my classroom&.
 
 When walking down a hall&, stick to one side or the other&. Go neither
 too quickly nor too slowly&. Lower your eyes and walk without meeting
-anyone's gaze&. Those were the three items I paid careful attention
-to&.
+anyone's gaze&. Those were the three items I paid careful attention to&.
 
 Don't stand out at school; be the same as air&. That was how I got
 around safely&.
@@ -240,8 +239,7 @@ into view&.
 
 Just as Misumi-kun had said&, it was the real FES&.
 I made certain of it myself&, watching secretly from a slight distance&.
-Even now&, I was surprised she had turned out to be the same
-age as us&.
+Even now&, I was surprised she had turned out to be the same age as us&.
 
 FES walked along slowly&, wearing her Suimei uniform and giving off an
 air of ennui&.
@@ -278,8 +276,7 @@ imitate him&.
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/05200190mi">
-"Whoops&, you think we've never met before? But that's not quite
-true&."
+"Whoops&, you think we've never met before? But that's not quite true&."
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/05200200mi">
@@ -294,9 +291,8 @@ It gave me the chills&."
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/05200220mi">
 "I'm not a slave to trends&, you know? Sure&, I was drawn in by your
-lyrics and how cute you are and stuff&, but what I found really
-amazing&, more than anything else&, was how perfect the band seemed as
-a whole&."
+lyrics and how cute you are and stuff&, but what I found really amazing&,
+more than anything else&, was how perfect the band seemed as a whole&."
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/05200230mi">

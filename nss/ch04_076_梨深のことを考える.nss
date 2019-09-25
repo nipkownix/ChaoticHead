@@ -78,8 +78,7 @@ Then slowly lowered myself onto my usual bench&.
 I cast my eyes toward the pond while stuffing my cheeks with the
 chocolate pastry I'd bought at a convenience store earlier&.
 
-There was little wind&, and the surface of the water remained
-idyllic&.
+There was little wind&, and the surface of the water remained idyllic&.
 Once in a while&, I saw koi-like fish slide through the cloudy water&.
 
 Today&, rarely enough&, there were no other people in the park&.

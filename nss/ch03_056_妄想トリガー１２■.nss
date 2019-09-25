@@ -337,8 +337,7 @@ She was cursing me or something&, it must be black magic&.&.&.!
 	Shake("ƒ‹[ƒ€", 300, 5, 5, 0, 0, 300, null, true);}
 In hopes of opening even a little distance between me and her&, I
 decided to flee beneath my computer desk&. But I was so shaken that I
-hit my head on the edge of the deck and curled up in pain on the
-spot&.
+hit my head on the edge of the deck and curled up in pain on the spot&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -437,8 +436,7 @@ But I hadn't given him my address&.&.&.
 The demon girl suddenly snapped into a salute-like pose&.
 
 And bizarrely enough&, she'd muttered something resembling a sound
-effect for it of her own accord&.&.&. Was this&, too&, a devil's
-curse?
+effect for it of her own accord&.&.&. Was this&, too&, a devil's curse?
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","hard", 200, @150);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_hard", 300, false);
@@ -477,8 +475,7 @@ Hadn't she come to kill me?
 Rising from the couch&, the demon extended a hand to me&.
 
 Her expression seemed extraordinarily gentle&.
-Plus&, when I saw her this close up&.&.&. She was pretty
-cute&.&.&.
+Plus&, when I saw her this close up&.&.&. She was pretty cute&.&.&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05600230ta">
@@ -515,8 +512,7 @@ never make the same mistake again&. That was why I didn't take her
 proffered hand&.
 
 Don't be deceived by this demon girl's smile&.
-This was the temptation of a devil&. If I gave into temptation&, I'd
-die&.
+This was the temptation of a devil&. If I gave into temptation&, I'd die&.
 
 Don't believe in anything&. Don't believe anything anyone says&.
 
@@ -545,8 +541,7 @@ Don't believe in anything&. Don't believe anything anyone says&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05600270ri">
-"I'd never have dreamed I'd get called a murderer&.&.&.
-Tahaha&.&.&."
+"I'd never have dreamed I'd get called a murderer&.&.&. Tahaha&.&.&."
 
 What did she intend to do with me&.&.&.?
 
@@ -594,8 +589,7 @@ a group lynching&.&.&.
 	DeleteStand("bu—œ[_§•_’Êí_normal", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05600340ri">
-"Mm\&, okay then&, I'll save you if you don't treat me like a
-murderer&."
+"Mm\&, okay then&, I'll save you if you don't treat me like a murderer&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05600350ta">
@@ -825,8 +819,7 @@ In other words&, we weren't only friends&, we were classmates?
 [text017]
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05600540ri">
-"Guess it can't be helped&, huh&. You don't come to school that
-much&."
+"Guess it can't be helped&, huh&. You don't come to school that much&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05600550ri">
@@ -1205,8 +1198,7 @@ The line remained silent&. He didn't give his name&.
 It sounded like he was downtown&, as the bustle of his surroundings
 came in through the receiver&.
 
-I was befuddled&. I couldn't say anything&. I didn't know what to
-say&.
+I was befuddled&. I couldn't say anything&. I didn't know what to say&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05600830mi">
@@ -1355,8 +1347,7 @@ happened at the scen<pre>e</pre> of the "staking"?
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05600950mi">
-"Can't say I'm all that happy to get a call from a guy&, though&.
-Haha&."
+"Can't say I'm all that happy to get a call from a guy&, though&. Haha&."
 
 His tone of voice was perfectly identical to Misumi-kun's&.
 
@@ -1387,8 +1378,8 @@ I sensed a gaze at my back&. That girl was watching me steadily&.
 
 The tingle at the back of my neck had yet to disappear&.
 With what manner of expression was the demon girl looking at me?
-I wanted to turn around and see for myself&. But I was too scared to
-do it&.&.&.
+I wanted to turn around and see for myself&.
+But I was too scared to do it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1445,8 +1436,7 @@ do it&.&.&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05601100ta">
 "Na&, na&, named&.&.&. Sakihata&.&.&."
 
-Becoming more and more incoherent&, I somehow managed to explain
-myself&.
+Becoming more and more incoherent&, I somehow managed to explain myself&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05601110mi">
@@ -1478,7 +1468,7 @@ The next thing I heard was an enormous sigh&.
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05601130mi">
 {#TIPS_ƒQ[ƒ€”] = true;}
-"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain</FONT> hasn't been affected by all those video games?"
+"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain hasn't been affected by all those video games</FONT>?"
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05601140ta">
@@ -1565,8 +1555,7 @@ didn't we?"
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text030]
-I couldn't comprehend was this "Misumi-kun-esque somebody" was
-saying&.
+I couldn't comprehend was this "Misumi-kun-esque somebody" was saying&.
 
 The demon girl and I had been in the same class since freshman year?
 The three of us had gone to see a movie together a little while ago?
@@ -1720,8 +1709,9 @@ It was the attitude of someone who'd known the answer from the start-
 
 
 I couldn't afford to answer her&.
-What was she? An ordinary classmate of mine&, or a monster&.&.&. I
-couldn't tell&.
+
+What was she? An ordinary classmate of mine&, or a monster&.&.&.
+I couldn't tell&.
 
 Maybe I was the one who'd gone crazy&.
 
@@ -1762,7 +1752,6 @@ me must have an ulterior motive&.
 
 I shook my head to show her my refusal and raised my face with all my
 strength&.
-
 Sweat got in my eyes&, making my vision blur&.
 
 The demon girl's face was closer than I'd expected&.
@@ -2126,8 +2115,7 @@ She was cursing me or something&, it must be black magic&.&.&.!
 	Shake("ƒ‹[ƒ€", 300, 5, 5, 0, 0, 300, null, true);}
 In hopes of opening even a little distance between me and her&, I
 decided to flee beneath my computer desk&. But I was so shaken that I
-hit my head on the edge of the deck and curled up in pain on the
-spot&.
+hit my head on the edge of the deck and curled up in pain on the spot&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2225,8 +2213,7 @@ But I hadn't given him my address&.&.&.
 The demon girl suddenly snapped into a salute-like pose&.
 
 And bizarrely enough&, she'd muttered something resembling a sound
-effect for it of her own accord&.&.&. Was this&, too&, a devil's
-curse?
+effect for it of her own accord&.&.&. Was this&, too&, a devil's curse?
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","hard", 200, @150);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_hard", 300, false);
@@ -2265,8 +2252,7 @@ Hadn't she come to kill me?
 Rising from the couch&, the demon extended a hand to me&.
 
 Her expression seemed extraordinarily gentle&.
-Plus&, when I saw her this close up&.&.&. She was pretty
-cute&.&.&.
+Plus&, when I saw her this close up&.&.&. She was pretty cute&.&.&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05601740ta">
@@ -2303,8 +2289,7 @@ never make the same mistake again&. That was why I didn't take her
 proffered hand&.
 
 Don't be deceived by this demon girl's smile&.
-This was the temptation of a devil&. If I gave into temptation&, I'd
-die&.
+This was the temptation of a devil&. If I gave into temptation&, I'd die&.
 
 Don't believe in anything&. Don't believe anything anyone says&.
 
@@ -2333,8 +2318,7 @@ Don't believe in anything&. Don't believe anything anyone says&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05601780ri">
-"I'd never have dreamed I'd get called a murderer&.&.&.
-Tahaha&.&.&."
+"I'd never have dreamed I'd get called a murderer&.&.&. Tahaha&.&.&."
 
 What did she intend to do with me&.&.&.?
 
@@ -2382,8 +2366,7 @@ a group lynching&.&.&.
 	DeleteStand("bu—œ[_§•_’Êí_normal", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05601850ri">
-"Mm\&, okay then&, I'll save you if you don't treat me like a
-murderer&."
+"Mm\&, okay then&, I'll save you if you don't treat me like a murderer&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05601860ta">
@@ -2579,7 +2562,6 @@ She was a murderer&. A demon girl&.
 awful&."
 
 Classmates&, she says&.&.&.?
-
 In other words&, we weren't only friends&, we were classmates?
 
 </PRE>
@@ -2595,8 +2577,7 @@ In other words&, we weren't only friends&, we were classmates?
 [text054]
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05602050ri">
-"Guess it can't be helped&, huh&. You don't come to school that
-much&."
+"Guess it can't be helped&, huh&. You don't come to school that much&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05602060ri">
@@ -3104,8 +3085,7 @@ happened at the scen<pre>e</pre> of the "staking"?
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05602450mi">
-"Can't say I'm all that happy to get a call from a guy&, though&.
-Haha&."
+"Can't say I'm all that happy to get a call from a guy&, though&. Haha&."
 
 His tone of voice was perfectly identical to Misumi-kun's&.
 
@@ -3136,8 +3116,8 @@ I sensed a gaze at my back&. That girl was watching me steadily&.
 
 The tingle at the back of my neck had yet to disappear&.
 With what manner of expression was the demon girl looking at me?
-I wanted to turn around and see for myself&. But I was too scared to
-do it&.&.&.
+I wanted to turn around and see for myself&.
+But I was too scared to do it&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -3194,8 +3174,7 @@ do it&.&.&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05602600ta">
 "Na&, na&, named&.&.&. Sakihata&.&.&."
 
-Becoming more and more incoherent&, I somehow managed to explain
-myself&.
+Becoming more and more incoherent&, I somehow managed to explain myself&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05602610mi">
@@ -3227,8 +3206,7 @@ The next thing I heard was an enormous sigh&.
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05602630mi">
 {#TIPS_ƒQ[ƒ€”] = true;}
-"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain</FONT> hasn't been affected by
-all those video games?"
+"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain hasn't been affected by all those video games</FONT>?"
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05602640ta">
@@ -3317,8 +3295,7 @@ didn't we?"
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text067]
-I couldn't comprehend what this "Misumi-kun-esque somebody" was
-saying&.
+I couldn't comprehend what this "Misumi-kun-esque somebody" was saying&.
 
 The demon girl and I had been in the same class since freshman year?
 The three of us had gone to see a movie together a little while ago?
@@ -3472,8 +3449,9 @@ It was the attitude of someone who'd known the answer from the start-
 
 
 I couldn't afford to answer her&.
-What was she? An ordinary classmate of mine&, or a monster&.&.&. I
-couldn't tell&.
+
+What was she? An ordinary classmate of mine&, or a monster&.&.&.
+I couldn't tell&.
 
 Maybe I was the one who'd gone crazy&.
 
@@ -3514,7 +3492,6 @@ me must have an ulterior motive&.
 
 I shook my head to show her my refusal and raised my face with all my
 strength&.
-
 Sweat got in my eyes&, making my vision blur&.
 
 The demon girl's face was closer than I'd expected&.
@@ -3653,8 +3630,7 @@ I'd lost in today's not-turning-around game&.
 There was no one else in the room&.
 An auditory&.&.&. hallucination?
 
-I wanted it to be one&.&.&. In my heart&, I hoped that was the
-case&.
+I wanted it to be one&.&.&. In my heart&, I hoped that was the case&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -3712,8 +3688,7 @@ But if so would she bother to knock?
 The knocking sound persisted&.
 
 Frozen in place&, I thought about what I should do&. But I couldn't
-come up with a single good idea&, and all that rose within me was
-panic&.
+come up with a single good idea&, and all that rose within me was panic&.
 
 I&, I know&. I'll just pretend not to be home&.
 
@@ -3731,8 +3706,7 @@ I stared in the direction of the door&.
 But it was dark&, and I couldn't see well&.
 
 {	MoveCube("ƒ‹[ƒ€", 1000, @-20, @0, @100, AxlDxl, true);}
-I got up softly and tip-toed toward the door so as not to make a
-sound&.
+I got up softly and tip-toed toward the door so as not to make a sound&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05603030ta">
@@ -3827,8 +3801,7 @@ trying to open the door without permission&.
 I made as if to get up&, but the pain kept my body from doing as I
 wished of it&.
 
-That's why all I could do was watch the door open with tear-stung
-eyes&.
+That's why all I could do was watch the door open with tear-stung eyes&.
 
 The first thing I saw was a hand&.
 The sleeve it wore was obviously part of the Suimei Academy uniform&.
@@ -4121,8 +4094,7 @@ But I hadn't given him my address&.&.&.
 The demon girl suddenly snapped into a salute-like pose&.
 
 And bizarrely enough&, she'd muttered something resembling a sound
-effect for it of her own accord&.&.&. Was this&, too&, a devil's
-curse?
+effect for it of her own accord&.&.&. Was this&, too&, a devil's curse?
 
 {	Stand("st—œ[_§•_’ÊíƒrƒVƒbI","hard", 200, @150);
 	FadeStand("st—œ[_§•_’ÊíƒrƒVƒbI_hard", 300, false);
@@ -4161,7 +4133,7 @@ Hadn't she come to kill me?
 Rising from the couch&, the demon extended a hand to me&.
 
 Her expression seemed extraordinarily gentle&.
-Plus&, when I saw her close up&.&.&. She was pretty cute&.&.&.
+Plus&, when I saw her this close up&.&.&. She was pretty cute&.&.&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05603260ta">
@@ -4273,8 +4245,7 @@ a group lynching&.&.&.
 	DeleteStand("bu—œ[_§•_’Êí_normal", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05603370ri">
-"Mm\&, okay then&, I'll save you if you don't treat me like a
-murderer&."
+"Mm\&, okay then&, I'll save you if you don't treat me like a murderer&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05603380ta">
@@ -4758,7 +4729,7 @@ to my ear&.
 <PRE box00>
 [text104]
 It had just started ringing&.
-At last that sound got cu<pre>t</pre> off, and in its place
+At last that sound got cu<pre>t</pre> off&, and in its place
 came Misumi-kun's voice&.
 
 {	SoundPlay("SE02", 100, 0, false);}
@@ -4866,8 +4837,7 @@ underling&, pretending to be Misumi-kun in hopes of deceiving me&.
 
 The demon girl&, too&, may have understood from the beginning that I
 didn't know Misumi-kun's number&,
-and therefore "guided" the situation to make it develop in this
-manner&.
+and therefore "guided" the situation to make it develop in this manner&.
 
 Anything and everything started to seem suspicious&.
 I didn't know what had been truth and what - a lie&.
@@ -4909,8 +4879,8 @@ happened at the scen<pre>e</pre> of the "staking"?
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05603920mi">
-"Well&, can't say I'm all that happy to get a call from a guy&,
-though&. Haha&."
+"Well&, can't say I'm all that happy to get a call from a guy&, though&.
+Haha&."
 
 His tone of voice was perfectly identical to Misumi-kun's&.
 
@@ -5009,8 +4979,7 @@ right now&."
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604090ta">
 "Na&, na&, named&.&.&. Sakihata&.&.&."
 
-Becoming more and more incoherent&, I somehow managed to explain
-myself&.
+Becoming more and more incoherent&, I somehow managed to explain myself&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05604100mi">
@@ -5042,8 +5011,7 @@ The next thing I heard was an enormous sigh&.
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05604120mi">
 {#TIPS_ƒQ[ƒ€”] = true;}
-"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain</FONT> hasn't been affected by
-all those video games?"
+"You sure your <FONT incolor="#88abda" outcolor="BLACK">brain hasn't been affected by all those video games</FONT>?"
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604130ta">
@@ -5087,8 +5055,8 @@ Have you really forgotten about her too?"
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05604180mi">
-"Setting me aside&, you've been in the same class with her
-since freshman year&."
+"Setting me aside&, you've been in the same class with her since
+freshman year&."
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05604190mi">
@@ -5163,7 +5131,7 @@ I couldn't acknowledge that such a past existed&.
 
 The "Misumi-kun-esque somebody" was talking about a story&. Not about
 the past&. For the past could succeed in forming only with the support
- of one's memories&.&.&.
+of one's memories&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -5261,8 +5229,9 @@ expression&.
 It was the attitude of someone who'd known the answer from the start\
 
 I couldn't afford to answer her&.
-What was she? An ordinary classmate of mine&, or a
-monster&.&.&. I couldn't tell&.
+
+What was she? An ordinary classmate of mine&, or a monster&.&.&.
+I couldn't tell&.
 
 Maybe I was the one who'd gone crazy&.
 
@@ -5297,12 +5266,12 @@ Was it memory loss? Sonambulism? Something else? Or all this together?
 
 The demon girl spoke to me kindly&.
 
-Be careful of kind words. Anyone who acts nice to a creepy otaku like
-me must have an ulterior motive&.
+Be careful of kind words.
+Anyone who acts nice to a creepy otaku like me
+must have an ulterior motive&.
 
 I shook my head to show her my refusal and raised my face with all my
 strength&.
-
 Sweat got in my eyes&, making my vision blur.
 
 The demon girl's face was closer than I'd expected.
@@ -5332,22 +5301,23 @@ What color did she hold in those eyes of hers?
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604370ri">
-"Why&, you ask&. I came to see you&."
+"Ahh&, sorry&, it was selfish of me to come in&."
 
 {	Stand("bu—œ[_§•_³–Ê","hard", 200, @0);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 300, false);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604380ri">
-"Are you angry that I went in your room without asking?"
+"But&, I was knocking&, you know?"
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @0);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 300, false);
 	DeleteStand("bu—œ[_§•_³–Ê_hard", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604390ri">
-"But that's your fault for not answering&.
-I kept knocking for a pretty long time&."
+"And no matter what&, you wouldn't come out&,
+then I heard this loud noise&,
+so I was on pins and needles&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604400ta">
@@ -5368,7 +5338,9 @@ I kept knocking for a pretty long time&."
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604430ta">
 "Are you here&.&.&.?"
 
-What was her reason for coming to visit me?
+No one asked about how you broke in&.
+
+What was her reason for coming here?
 If she'd come to kill me&, she would have acted on her intentions long
 ago&, yet why wasn't she doing anything?
 
@@ -5494,4 +5466,3 @@ ears that the demon girl had left&.
 //``‚eE‚n
 
 }
-

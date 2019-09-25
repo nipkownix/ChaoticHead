@@ -42,8 +42,7 @@ technically part of Shibuya&, but station-wise&, Yoyogi was closer&,
 so taking the train was the fastest way to get there&.
 
 But the Yamanote line was as packed as always&, and though I had to
-ride only past two stations&, this round trip alone wore me out a
-lot&.
+ride only past two stations&, this round trip alone wore me out a lot&.
 
 It'd be agonizing to take the train any farther&, so I got off at
 Shibuya Station and walked back to my base&.
@@ -103,12 +102,12 @@ Yet for some reason&, the checklist seemed familiar&.
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg082_01_2_èaíJâwìÏå˚ï‡ìπã¥_a.jpg");
 	Wait(1000);
 	Delete("ÉeÉBÉbÉVÉÖ");}
-Jamais vu&.
-All I'd felt lately was Jamais vu&.
+Deja vu&.
+All I'd felt lately was deja vu&.
 
 It made me sick&, the fact that my own mind and body wouldn't act the
 way I wanted them to&. I dug through my memory in hopes of somehow
-being able to pin down the source of this jamais vu&.
+being able to pin down the source of this deja vu&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -134,7 +133,7 @@ I showed no signs of getting better&, they eventually started taking
 me to another room&.
 
 It was what you'd call a counseling room&, with a sofa and lots of
-stuffed animals lying around; a space with one goal - to make patient
+stuffed animals lying around; a space with one goal - to make patients
 relax&.
 
 Without blaming anyone&, Dr&. Takashina persevered in trying to treat
@@ -289,7 +288,7 @@ I got fed up once again at the emergence of these nagging memories&.
 	Fade("êFÇP", 500, 0, null, false);
 	Rotate("ÉãÅ[ÉÄ", 0, @10, @0, @0, AxlDxl, true);
 	Rotate("ÉãÅ[ÉÄ", 500, @-10, @0, @0, AxlDxl, true);}
-Whatever the case&, I'd identified the source of my jamais vu&.
+Whatever the case&, I'd identified the source of my deja vu&.
 I decided&, Next week&, I would consult with Dr&. Takashina about my
 memory issue&.
 After seeing him&, I'd shut myself up again and stop going to school&.
@@ -311,8 +310,7 @@ interesting-looking threads on @channel&.
 The news board consisted almost entirely of "New Gen" related stuff&.
 
 I completely lost my patience when even the ESO board turned out to
-have threads like&, "Let's try re-enacting the New Gen murders in
-ESO&."
+have threads like&, "Let's try re-enacting the New Gen murders in ESO&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

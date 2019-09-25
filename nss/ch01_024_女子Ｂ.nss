@@ -65,15 +65,15 @@ at the sky&. She had a terribly severe look on her face&. Despite what
 she was doing&, she didn't have anything like a fading&, waning
 atmosphere to her&.
 
-Though she was clearly getting in the way of whoever might try to
-pass&, she didn't budge an inch&.
+Though she was clearly getting in the way of whoever might try to pass&,
+she didn't budge an inch&.
 
 She must have heard my footsteps&. I'm in a hurry&, please move out of
 the way&.&.&.
 
 Something about her gave off the smell of one of those delinquent
-types&. I'd better be careful to stay as far away from her as
-possible&, and to avoid meeting her eyes&.
+types&. I'd better be careful to stay as far away from her as possible&,
+and to avoid meeting her eyes&.
 
 {	DeleteStand("stÉZÉi_êßïû_í èÌ_angry", 500, false);}
 With that in mind&, I swiftly tried to skirt around behind "Girl B&."
@@ -264,8 +264,8 @@ As I wavered&, Yua came running up to me&.
 <voice name="óDà§" class="óDà§" src="voice/ch01/02400110yu">
 "But I'm glad I waited&.&.&."
 
-Maybe Yua actually tended to think along much the same lines as I
-did&. Viewing everything pessimistically&, and so on&.
+Maybe Yua actually tended to think along much the same lines as I did&.
+Viewing everything pessimistically&, and so on&.
 
 But one thing about us was radically different&.
 
@@ -337,8 +337,7 @@ teacher because he was wearing a suit instead of a uniform&.
 
 Was there really such a young teacher around here&.&.&.?
 
-Since I rarely came to school&, I had no memory of the teachers'
-faces&.
+Since I rarely came to school&, I had no memory of the teachers' faces&.
 There were even times when I'd forgotten what my homeroom teacher
 looked like&.
 

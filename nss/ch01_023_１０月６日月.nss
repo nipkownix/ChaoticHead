@@ -44,8 +44,7 @@ function ch01_023_ÇPÇOåéÇUì˙åé()
 <PRE box00>
 [text001]
 The following week's "school-going day&."
-As melancholy as usual&, I stared down at my feet on the way to
-school&.
+As melancholy as usual&, I stared down at my feet on the way to school&.
 
 It was about time for the season to start changing to autumn in
 earnest&.
@@ -58,8 +57,7 @@ seasons only perplexed me&.
 I still felt like it was supposed to be summer&.
 
 I'd played ESO all weekend&.
-Grim kept asking me about Yua&, but I ignored him from start to
-finish&.
+Grim kept asking me about Yua&, but I ignored him from start to finish&.
 
 Yua hadn't mailed me once since then&.
 She might have finally given up&, since I didn't send a reply&.
@@ -103,8 +101,8 @@ For some reason&, she was out of breath&.
 //è≠ÇµëßêÿÇÍãCñ°
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/02300020yu">
-"I saw you from way back there&.&.&. I thought it might be
-you&.&.&. And so I ran to catch up&.&.&."
+"I saw you from way back there&.&.&. I thought it might be you&.&.&.
+And so I ran to catch up&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/02200030ta">
@@ -162,8 +160,7 @@ And should we then live out our lovey-dovey lives as a couple?
 I couldn't act so wholesome&.
 I wanted to&, but it would never happen&.
 
-Besides&, I didn't understand how Yua had come to think so well of
-me&.
+Besides&, I didn't understand how Yua had come to think so well of me&.
 I couldn't have faith in her&.
 
 That's what made it impossible&.&.&.
@@ -211,8 +208,8 @@ But she caught up by trotting&.
 [text004]
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch01/02300140yu">
-"I went to your classroom yesterday&, but you weren't there&, were
-you? I thought maybe you weren't at school because you'd caught a cold
+"I went to your classroom yesterday&, but you weren't there&, were you?
+I thought maybe you weren't at school because you'd caught a cold
 or something&, and I got worried&."
 
 //ÅyóDà§Åz
@@ -243,8 +240,8 @@ or something&, and I got worried&."
 <voice name="óDà§" class="óDà§" src="voice/ch01/02300200yu">
 "&.&.&.&.&.&.&."
 
-Surely I'd disillusioned her&. Surely&, knowing what I was really
-like&, she'd have lost all friendly thoughts toward me&.
+Surely I'd disillusioned her&. Surely&, knowing what I was really like&,
+she'd have lost all friendly thoughts toward me&.
 
 I didn't mind&. Because I hadn't expected anything from the start&.
 
@@ -382,8 +379,7 @@ person&.
 <voice name="óDà§" class="óDà§" src="voice/ch01/02300340yu">
 "Ah&, oh no! It's the warning bell&."
 
-Without my noticing it&, our surroundings had become empty of
-students&.
+Without my noticing it&, our surroundings had become empty of students&.
 Everyone was already inside the school building&.
 
 //ÅyóDà§Åz
@@ -474,8 +470,8 @@ I stayed in a daze during all of my classes that day&.
 
 Or rather&, I didn't pay the least attention to what was going on in
 my classes&.
-Propping my chin up with one hand&, I gazed on and on at the autumn
-sky beyond the window&.
+Propping my chin up with one hand&, I gazed on and on at the autumn sky
+beyond the window&.
 
 Neither my classmates nor my teachers took any heed of me&.
 
@@ -550,8 +546,7 @@ about time to graduate from being a hikikomori&, man&."
 
 He shouldn't have said that kind of thing in the first place&.
 
-I didn't understand Misumi-kun&, who lived through his nether
-regions&.
+I didn't understand Misumi-kun&, who lived through his nether regions&.
 
 Misumi-kun looked puzzled&, but I ignored him and hurried out of the
 classroom&.

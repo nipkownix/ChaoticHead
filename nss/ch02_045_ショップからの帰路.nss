@@ -63,9 +63,9 @@ If I could&, I'd want to snap my newly bought cell phone in half and
 toss it into a nearby trash can right away&.
 At any rate&, it wasn't like I'd purchased it with my own money&.
 
-But if I did&, neither my parents nor Nanami would learn their
-lesson&, and it was obvious to me that they'd all say brainless stuff
-like&, "Since it broke&, let's go buy you a new one&."
+But if I did&, neither my parents nor Nanami would learn their lesson&,
+and it was obvious to me that they'd all say brainless stuff like&,
+"Since it broke&, let's go buy you a new one&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -84,8 +84,7 @@ Go home&, and wallow in ESO again&.
 
 Out of these past few days&, there hadn't been a single one where my
 stress stopped building up&.
-I wondered if my uneventful days would ever hurry on back to
-me&.&.&.
+I wondered if my uneventful days would ever hurry on back to me&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

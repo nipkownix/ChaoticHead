@@ -3133,14 +3133,10 @@ Shogun: Whose eyes are those eyes?
 <PRE box00>
 [text167]
 //将軍：その目だれの目？
-Shogun: Whose eyes are those eyes?
-
+Shogun: Whose eyes are those eyes?{	WaitKey();}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
-	//SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#AAFF2D);
-	//SoundChat(0,0,false);
-	//TypeChat("0");
 
 //しばらくウェイトしてＦ・Ｏ～～
 	ClearAll(2000);

@@ -87,8 +87,7 @@ function ch01_027_現実逃避()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-I plugged in my PC while stuffing my face with pieces of fish
-sausage&.
+I plugged in my PC while stuffing my face with pieces of fish sausage&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/02700080ta">
@@ -98,7 +97,7 @@ At last my Seira-tan wallpaper appeared on the monitor&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/02700090ta">
-"This isn't the world"
+"This isn't the world&,"
 
 I instantly started up ESO&, without a second's hesitation&.
 

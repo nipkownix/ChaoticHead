@@ -51,8 +51,7 @@ I took a look at the Seira-tans put out on display to catch customers'
 eyes&, but since the sculptor was Kijima Yoshio&, nothing indeed
 needed to be said about the quality&.
 
-I'd better hurry home and savor every nook and cranny of her&.
-Hehehe&.
+I'd better hurry home and savor every nook and cranny of her&. Hehehe&.
 
 As long as I could gaze at Seira-tan's face every so often while
 playing ESO&, I was happy&.
@@ -303,9 +302,8 @@ aren't doing too well&. Could you say it again?"
 {	SoundPlay("SE01", 2000, 300, true);}
 //【判】
 <voice name="判" class="判" src="voice/ch03/05400220bn">
-"So&, Nishijou-san&. What we'd like to ask you is what you were
-doing&, and where&, from 6 PM to about 10 PM on the 29th of last
-week&."
+"So&, Nishijou-san&. What we'd like to ask you is what you were doing&,
+and where&, from 6 PM to about 10 PM on the 29th of last week&."
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400230ta">
@@ -332,8 +330,7 @@ person or heard some kind of sound&, that sort of thing&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-Somehow&, listening to this detective talk really got me
-irritated&.&.&.
+Somehow&, listening to this detective talk really got me irritated&.&.&.
 Maybe speaking in such a way as to purposefully anger the subject was
 a kind of interrogation technique&.
 
@@ -383,8 +380,8 @@ sweating&, you know? Well&, everyone's got different constitutions&.
 Haha&."
 
 I didn't exactly want to hear that from a guy who walked around with a
-fan in this season&, but admittedly&, it wasn't particularly hot
-today&. The temperature was at just the right level for comfort&.
+fan in this season&, but admittedly&, it wasn't particularly hot today&.
+The temperature was at just the right level for comfort&.
 
 I wiped my sweat off again and again with the sleeves of my uniform&.
 
@@ -466,8 +463,7 @@ feet&, I shouted&,
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400350ta">
 "There were lots of stakes stuck into it&.&.&.
-There&, there must've been o&, over 500 of them&.&.&. It was
-freaky&.&.&."
+There&, there must've been o&, over 500 of them&.&.&. It was freaky&.&.&."
 
 //おがみ：音声結合されているためテキスト修正
 //【拓巳】
@@ -479,8 +475,7 @@ freaky&.&.&."
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400380ta">
-"T&, that girl looked at me and said 'I'm so glad' and s&,
-smiled&.&.&."
+"T&, that girl looked at me and said 'I'm so glad' and s&, smiled&.&.&."
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400390ta">
@@ -601,8 +596,7 @@ question or a rhetorical one&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400560ta">
-"I d&, d&, don't know&.&.&. I&, I don't know that demon's&.&.&.
-na&, name&.&.&."
+"I d&, d&, don't know&.&.&. I&, I don't know that demon's&.&.&. na&, name&.&.&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch03/05400570bn">
@@ -614,8 +608,7 @@ What was up with this geezer&.&.&.?
 Was he mocking me? How could I possibly know even one of those!
 
 I don't have a moronic&, love comedy manga-esque power like being able
-to tell someone's height and weight and three sizes from a single
-look!
+to tell someone's height and weight and three sizes from a single look!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -636,8 +629,7 @@ help to us&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch03/05400590bn">
-"I've gotta consider this carefully once we get back to
-headquarters&."
+"I've gotta consider this carefully once we get back to headquarters&."
 
 {	Stand("st護_スーツ_通常","sigh", 200, @150);
 	FadeStand("st護_スーツ_通常_sigh", 200, false);
@@ -657,16 +649,14 @@ older one gave him some kind of sign with his eyes&.
 	DeleteStand("st護_スーツ_通常_sigh", 200, true);}
 //【判】
 <voice name="判" class="判" src="voice/ch03/05400610bn">
-"Ah&, by the way&, Nishijou-kun&, could you tell us how to contact
-you?"
+"Ah&, by the way&, Nishijou-kun&, could you tell us how to contact you?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05400620ta">
 "Eh&.&.&. Wh&, why&.&.&."
 
 They didn't believe me&, after all&.
-They wanted to label me a deviant and set me up as the
-criminal&.&.&.
+They wanted to label me a deviant and set me up as the criminal&.&.&.
 
 {	Stand("st安二_スーツ_通常","normal", 200, @-150);
 	FadeStand("st安二_スーツ_通常_normal", 200, false);
@@ -788,4 +778,3 @@ machine&.
 
 
 }
-

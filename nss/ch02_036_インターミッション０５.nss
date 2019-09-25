@@ -398,9 +398,8 @@ Suwa let out a deep breath and settled back down&.
 <voice name="êzñK" class="êzñK" src="voice/ch02/03600220su">
 "You're awful&, sempai&. Swiping all the good parts&."
 
-Disregarding Suwa's complaints&, Ban once again looked at the
-projector&, so as to burn the male high school student's figure into
-his eyes&.
+Disregarding Suwa's complaints&, Ban once again looked at the projector&,
+so as to burn the male high school student's figure into his eyes&.
 
 //Åüè¨ê∫
 //ÅyîªÅz

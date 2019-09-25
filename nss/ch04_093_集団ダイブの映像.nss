@@ -501,7 +501,7 @@ began to show up larger and larger&.
 The picture was rather grainy&.
 
 Maybe someone had lowered the bitrate as much as possible when they
-encoded it&, so as to make the file as smaller&.
+encoded it&, so as to make the file smaller&.
 
 Modern video cameras should be night-vision capable&, so I wasn't sure
 why this cameraman hadn't taken advantage of that&.

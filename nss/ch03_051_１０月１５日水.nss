@@ -235,8 +235,7 @@ Haa&, gimme a cuter sister&.
 	CreateSE("SE01","SE_“úí_G“¥02");
 	SoundPlay("SE01", 0, 500, true);
 	Wait(1000);}
-Nanami and I&, both somewhat crossed&, walked up to school side by
-side&.
+Nanami and I&, both somewhat crossed&, walked up to school side by side&.
 I studied her to see if I had a chance of escaping before we reached
 the school gates&.
 

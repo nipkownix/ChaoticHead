@@ -496,7 +496,6 @@ Neidhardt>I get the sense that&.&.&. you're baiting me&.&.&.
 [text035]
 Last time this happened&, he'd gotten me all worked up by acting like
 it was a guro pic&, and then it turned out to be some stupid doodle&.
-
 The opposite was more than possible&.
 
 </PRE>
@@ -582,9 +581,8 @@ Grim>What if I said it had to do with your precious Seira-tan?
 For real!?
 Then I had no choice but to look at it!
 
-Well&, going by the URL&, the link appeared to lead to an online
-auction&, so it couldn't be anything so bad as to make my mental
-browser crash&.
+Well&, going by the URL&, the link appeared to lead to an online auction&,
+so it couldn't be anything so bad as to make my mental browser crash&.
 
 Getting a little excited&, I opened the link&.
 
@@ -621,7 +619,6 @@ Getting a little excited&, I opened the link&.
 "Supplies of Type B blood are currently inadequate"&.&.&.?
 
 It felt kind of like&.&.&. I'd seen this headline somewhere before&.
-
 Deja vu again&, huh?
 
 //※わざと「どこでつか」です
@@ -989,8 +986,15 @@ ordinary everyday life&.&.&.
 //イメージＢＧ//ダイイングメッセージ
 //血で描かれた『その目だれの目？』
 //ＳＥ//ドーン！
+//――――――――――――――――――――――――――――――――――――――
+<PRE box00>
+[text066]
+Whose eyes are those eyes?{	Wait(5000);}
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
 
-	Wait(5000);
+	//Wait(5000);
 
 	MusicStart("SE*", 2000, 0, 0, 1000, null, false);
 

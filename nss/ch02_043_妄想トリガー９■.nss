@@ -125,8 +125,7 @@ Neidhardt>Come to the 2-D world
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text003]
-Neidhardt issued forth words&, even though I hadn't typed anything
-in&.
+Neidhardt issued forth words&, even though I hadn't typed anything in&.
 
 {#TIPS_ñ⁄ÇÃçˆäo = true;}Thinking it must be a <FONT incolor="#88abda"
 outcolor="BLACK">hallucination</FONT>&, I rubbed my eyes&.
@@ -185,8 +184,7 @@ Neidhardt>You're not interested in the third dimension&, are you?
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/04300030ta">
 "No&, that's true&, but&.&.&."
 
-To think that he would start talking to me&, the person behind
-him&.&.&.
+To think that he would start talking to me&, the person behind him&.&.&.
 
 Did Neidhardt have a will of his own&, after all?
 
@@ -854,8 +852,7 @@ Smiling ruefully at my delusions&, I went on regarding Neidhardt&,
 who stood in the world of Baselard&, as stock-still as usual and not
 saying a word&.
 
-&.&.&.Maybe I should make an effort not to push him quite so hard
-today&.
+&.&.&.Maybe I should make an effort not to push him quite so hard today&.
 
 As that thought ran through my head&, I resumed playing&.
 
@@ -988,8 +985,7 @@ how it happened&, either&.&.&.
 	Wait(500);}
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch02/04300280na">
-"C'mon&, more importantly&, I'm asking you what you think of this
-model&."
+"C'mon&, more importantly&, I'm asking you what you think of this model&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/04300290ta">
@@ -1001,8 +997,7 @@ fact that I didn't even need a cell phone in the first place?
 
 When I got to school today&, Nanami came all the way to my classroom
 to ambush me&. After insulting me with&, "It's so rare for you to be
-at school!" she ordered me to come buy a cell phone for sure this
-time&.
+at school!" she ordered me to come buy a cell phone for sure this time&.
 
 Once the school day ended&, I made an attempt to run away before she
 found me&, but I'd forgotten how fast she was&.
@@ -1049,8 +1044,7 @@ Nevermind the fact that I'd said I was okay with it&.
 I no longer had any idea how many times I'd told her "That's fine&."
 
 Despite the fact that she asked my opinion&, she had no intention of
-actually listening to me&. This is why 3-D girls are the absolute
-worst&.
+actually listening to me&. This is why 3-D girls are the absolute worst&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1175,8 +1169,7 @@ Or would it be available online?
 	Shake("îwåiÇP", 500, 0, 10, 0, 0, 500, null, false);
 	Wait(500);}
 Someone's elbow dug into my back without any warning&.
-I came rather close to passing out in agony and collapsing on the
-spot&.
+I came rather close to passing out in agony and collapsing on the spot&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1231,7 +1224,7 @@ For the time being&, I shook my head&.
 	DeleteStand("buéµäC_êßïû_ùXÇÀ_sad", 500, true);}
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch02/04300430na">
-{#TIPS_ìdé•îg = true;}"You dummy! Get overexposed to <FONTincolor="#88abda" outcolor="BLACK">electromagnetic waves</FONT>
+{#TIPS_ìdé•îg = true;}"You dummy! Get overexposed to <FONT incolor="#88abda" outcolor="BLACK">electromagnetic waves</FONT>
 from your cell phone and ruin your kidneys and die!"
 
 //ÅyëÒñ§Åz

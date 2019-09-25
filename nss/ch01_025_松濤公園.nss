@@ -151,8 +151,8 @@ to&.&.&."
 
 Take that to its obvious conclusion&, and you'd end up with her
 initial stalker-esque behavior&.
-Maybe it would be more accurate to say that&, rather than stalking
-me&, she had been worrying about me and watching over me&.
+Maybe it would be more accurate to say that&, rather than stalking me&,
+she had been worrying about me and watching over me&.
 
 {	Stand("st—Dˆ¤_§•_’Êí","normal", 200, @100);
 	DeleteStand("st—Dˆ¤_§•_’Êí¶è‰º_sad", 300, false);
@@ -163,8 +163,7 @@ me&, she had been worrying about me and watching over me&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02500140yu">
-"I&, um&, want to know what kind of sce<pre>n</pre>ery you've been looking
-at&.&.&."
+"I&, um&, want to know what kind of sce<pre>n</pre>ery you've been looking at&.&.&."
 
 I had no particular reason to say no&.
 Facing the pond&, I nodded&.

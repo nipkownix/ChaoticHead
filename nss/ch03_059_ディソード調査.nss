@@ -254,8 +254,7 @@ A sword&, huh&.&.&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05900070ta">
-"A sword&.&.&. If I get my hands on a sword&.&.&. If I
-just&.&.&."
+"A sword&.&.&. If I get my hands on a sword&.&.&. If I just&.&.&."
 
 I muttered to myself as though I'd gone off my rocker&.
 
@@ -530,8 +529,7 @@ down&.
 [text009]
 Geh&, the page's dead&. Shit&, what the hell!
 
-No&, calm down&.&.&. Go back one more time and take a look at the
-cache&.
+No&, calm down&.&.&. Go back one more time and take a look at the cache&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -607,8 +605,7 @@ literature&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05900110ta">
-"But this is pretty plain compared to the one that Sena girl
-had&.&.&."
+"But this is pretty plain compared to the one that Sena girl had&.&.&."
 
 In the first place&, why was it such a minor sword?
 Why not go with Excalibur or Kusanagi&,

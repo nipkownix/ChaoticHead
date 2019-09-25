@@ -107,7 +107,7 @@ around&, but my limits were approaching&.
 I howled at that "something&."
 Its true identity wasn't that demon girl&, was it?
 
-Maybe she was using {#TIPS_千里眼 = true;}X-ray vision or <FONTincolor="#88abda" outcolor="BLACK">clairvoyance</FONT>&, or some similar
+Maybe she was using {#TIPS_千里眼 = true;}X-ray vision or <FONT incolor="#88abda" outcolor="BLACK">clairvoyance</FONT>&, or some similar
 demonic power&, to keep me under surveillance&.&.&.
 
 //【拓巳】
@@ -265,8 +265,7 @@ impressive news leads and information&.
 [text003]
 Suppressing my impatience&, I opened @channel's main page&.
 
-I jumped to the occult board and ran a search for "telling the
-future&."
+I jumped to the occult board and ran a search for "telling the future&."
 
 And&.&.&.
 
@@ -340,6 +339,7 @@ Phantasm【New Gen】43" and started skimming it&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
+
 	SoundPlay("SE03", 500, 0, false);
 	Wait(500);
 
@@ -596,8 +596,7 @@ Or was Phantasm&, too&, among the demon girl's underlings?
 <PRE box00>
 [text907]
 Reading the log in more detail revealed the startling fact that all
-three "New Gen" incidents had been "prophesized" in lyrics
-beforehand&.
+three "New Gen" incidents had been "prophesized" in lyrics beforehand&.
 
 Except the lyrics of the songs predicting the "group dive" and the
 "pregnant man" hadn't been posted on @channel&.
@@ -650,8 +649,7 @@ grow tight&. I'd been breathing harshly this whole time&.
 {	CreateSE("SE02","SE_日常_PC_キー叩く_中");
 	SoundPlay("SE02", 0, 1000, false);}
 In any case&, I wanted to see FES's face for myself&. With trembling
-fingers&, I typed at my keyboard&, heading for Phantasm's official
-site&.
+fingers&, I typed at my keyboard&, heading for Phantasm's official site&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

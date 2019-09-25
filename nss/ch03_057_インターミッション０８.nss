@@ -205,7 +205,7 @@ But all of them formed the same sentence―
 */
 
 	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "634  Name: Shogun [age] ：07/30(M) 04:47:51  ID:5/scZ8Gg<BR>Whose eyes are those eyes?");
+	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "634  Name:<FONT incolor=#0000ff>Shogun[age]</FONT>：07/30(M) 04:47:51  ID:5/scZ8Gg<BR>Whose eyes are those eyes?");
 	Move("テキスト１", 0, @13, @80, null, true);
 	Request("テキスト１", PushText);
 	Request("テキスト１", NoLog);

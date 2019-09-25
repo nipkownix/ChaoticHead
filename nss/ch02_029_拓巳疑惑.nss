@@ -134,8 +134,7 @@ But I hadn't fallen asleep&. So I couldn't be a sleepwalker&.
 Then what did it mean that I don't have any memory of posting as
 "Shogun"?
 
-Alternatively&, someone other than myself could control my
-body&.&.&.
+Alternatively&, someone other than myself could control my body&.&.&.
 
 {	MusicStart("@CH*", 1000, 0, 0, 0, null, true);
 	Fade("”wŒi‚Q", 500, 0, null, true);}

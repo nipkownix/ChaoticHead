@@ -356,8 +356,8 @@ If someone opened it&, they'd definitely catch us in the act&.
 My head spun with the thrill of it&, not to mention the immorality of
 doing something like this in a hospital&.
 
-On top of everything&, my partner in this wanton escapade was
-Seira-tan&, my current number one favorite out of all my wives&.
+On top of everything&, my partner in this wanton escapade was Seira-tan&,
+my current number one favorite out of all my wives&.
 Ahh&, I sure was a lucky guy&.&.&.
 
 I couldn't think about anything else anymore&,
@@ -917,9 +917,8 @@ shoved the "object" away with her elbow&.
 <voice name="葉月" class="葉月" src="voice/ch02/03200520hd">
 "Kyaaaaaa!"
 
-The white doctor's coat worn by the "object" lying face-up on the
-floor was turning scarlet&. Drawn by the noise&, a nurse saw it and
-screamed&.
+The white doctor's coat worn by the "object" lying face-up on the floor
+was turning scarlet&. Drawn by the noise&, a nurse saw it and screamed&.
 
 {	CreateSE("SE04","SE_衝撃_人とぶつかる");
 	SoundPlay("SE04", 0, 500, false);}
@@ -958,14 +957,12 @@ Letting out a howl&, the nurse curled up in place&, holding her face&.
 Vast amounts of blood overflowed from between the fingers she pressed
 to her wound&.
 
-Ignoring this&, "She" continued toward the back of the examination
-room&.
+Ignoring this&, "She" continued toward the back of the examination room&.
 
 That nurse wasn't supposed to be the tenth&.
 It was an occasion worth celebrating&. Her tenth&. Two digits&.
 
-That was why it had to be her original target&, just as she'd
-planned&.
+That was why it had to be her original target&, just as she'd planned&.
 
 The other patients and nurses had already started screaming and
 running away&. It was becoming a racket&.
@@ -984,9 +981,9 @@ There was most likely a bed inside it&.
 
 ―You must be there&.
 
-Her heart palpitated with joy&.
+"Her" heart palpitated with joy&.
 Her lower abdomen went hot at the thought that she would finally be
-able to kill him&.
+able to kill "him&."
 
 {	CreateSE("SE02","SE_人体_動作_手_スケッチブック破る");
 	SoundPlay("SE02", 0, 1000, false);}
@@ -997,7 +994,7 @@ expected&, lying there&.
 
 ―Found you&.
 
-She lost all restraint when she saw him&.
+She lost all restraint when she saw "him&."
 
 "She" opened the curtain and stood next to the bed&.
 
@@ -1098,7 +1095,7 @@ It hadn't been torn apart by her knife&.
 I reached stealthily for the curtain&.
 If I opened it&, and Dr&. Takashina and Hazuki-san were lying there&,
 covered in blood&.&.&. My body broke out in shivers again as I
-envisioned it
+envisioned it&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch02/03200560ta">

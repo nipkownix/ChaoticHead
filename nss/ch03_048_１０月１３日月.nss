@@ -210,8 +210,7 @@ incident&, I had started to regain my composure&.
 
 There remained something like a lump in a corner of my heart&, of
 course&, but by immersing myself in ESO over the weekend&, I was
-able to temporarily forget all that hateful and incomprehensible
-stuff&.
+able to temporarily forget all that hateful and incomprehensible stuff&.
 
 Even today&, when I had to attend school&, I succeeded in getting
 through classes by sleeping or wracking my head over information about
@@ -232,8 +231,7 @@ I've grown up a little&, hehehe&.
 	Wait(500);}
 And so&, on my way back home&, I took myself to @Cafe for the first
 time in a long while&.
-It pleased me that my usual choice&, "Room 37&," was open today as
-well&.
+It pleased me that my usual choice&, "Room 37&," was open today as well&.
 
 The last time I had come was two weeks ago&, and it was the first time
 I'd ever left such a large gap between visits&.
@@ -328,8 +326,8 @@ there nevertheless&.
 	Fade("êFÇP", 0, 0, null, true);
 	Fade("êFÇP", 1000, 1000, null, true);
 	Wait(1000);}
-Getting up&, I surreptitiously peeked over the divider&, but as
-expected&, there was no one using Room 36&.
+Getting up&, I surreptitiously peeked over the divider&, but as expected&,
+there was no one using Room 36&.
 
 Relieved&, I sank my body back into the reclining seat&.
 
@@ -377,9 +375,8 @@ She was an accident waiting to happen&.
 These past two weeks&, I'd risked getting dragged into all kinds of
 hassles&.
 
-Until then&, I'd had a remarkably uneventful daily life&, and
-Misumi-kun was just about the only person who started up conversations
-with me&.
+Until then&, I'd had a remarkably uneventful daily life&, and Misumi-kun
+was just about the only person who started up conversations with me&.
 
 Why had only bizarre and unreasonable things happened lately?
 
@@ -408,9 +405,8 @@ Regardless of whatever anyone said about it&, weren't they commonly
 used words? The likes of me had come up with them&, so there'd be
 nothing strange about it if someone else thought of them as well&.
 
-&.&.&.I wasn't interested in knowing who that message had been aimed
-at&. No&, rather&, I admonished myself that I mustn't become
-interested&.
+&.&.&.I wasn't interested in knowing who that message had been aimed at&.
+No&, rather&, I admonished myself that I mustn't become interested&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -453,8 +449,7 @@ I looked around&. But I couldn't spot a phone anywhere&.
 
 {	CreateSE("SE03","SE_êlëÃ_ìÆçÏ_ÇÃÇºÇ≠");
 	SoundPlay("SE03", 0, 700, false);}
-A thought suddenly occurred to me&, and I fished around inside my
-bag&.
+A thought suddenly occurred to me&, and I fished around inside my bag&.
 
 {	SoundPlay("SE02", 1000, 1000, true);}
 Sure enough&, what had been ringing was the cell phone I'd bought just
@@ -601,4 +596,3 @@ It scared me much more than talking face-to-face&.&.&.
 
 
 }
-

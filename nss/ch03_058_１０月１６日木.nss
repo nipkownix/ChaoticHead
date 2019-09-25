@@ -53,22 +53,19 @@ function ch03_058_１０月１６日木()
 [text001]
 The next day&, I headed to the hospital first thing in the morning&.
 
-I hadn't been able to confirm it the last time I came here&, but
-today&, I would definitely get them to tell me I was normal&.
+I hadn't been able to confirm it the last time I came here&, but today&,
+I would definitely get them to tell me I was normal&.
 
 Dr&. Takashina would remember me&.
-I'd reveal that I was "Nishijou&, your patient up until four years
-ago&."
+I'd reveal that I was "Nishijou&, your patient up until four years ago&."
 And I'd get to hear all kinds of things from him&.
 
 I wasn't the crazy one&.
-The demon girl and Misumi-kun were&. The doctor would surely tell me
-so&.
+The demon girl and Misumi-kun were&. The doctor would surely tell me so&.
 
 This hospital opened at eight in the morning&, somewhat earlier than
 regular hospitals&.
-Which was why I had come exactly in time for opening hours&,
-but&.&.&.
+Which was why I had come exactly in time for opening hours&, but&.&.&.
 
 The sofas in the lobby were already filled with seated old people&.
 
@@ -76,8 +73,7 @@ Why!?
 
 Even though the hospital had barely opened for the day&, why were
 there so many people here!?
-It's unfair to get a head start! Come on time&, like you're supposed
-to!
+It's unfair to get a head start! Come on time&, like you're supposed to!
 
 Inwardly insulting them&, I had no option left but to wait&.
 
@@ -96,7 +92,7 @@ Inwardly insulting them&, I had no option left but to wait&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-After a hour of waiting&, I found myself regretting that I didn't made
+After a hour of waiting&, I found myself regretting that I didn't make
 an appointment&.
 
 But immediately afterward&, they called my name&, and I was relieved
@@ -160,8 +156,7 @@ What a nightmare&.&.&. My one and only ally&.&.&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch03/05800040ta">
-"It&, it's a conspiracy&.&.&. the demon girl's&.&.&.
-conspiracy&.&.&."
+"It&, it's a conspiracy&.&.&. the demon girl's&.&.&. conspiracy&.&.&."
 
 {	Stand("st志乃_白衣_通常","shock", 200, @150);
 	FadeStand("st志乃_白衣_通常_shock", 200, false);

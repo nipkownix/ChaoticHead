@@ -70,8 +70,8 @@ standing&.
 {#TIPS_オタ芸 = true;}
 All of them swayed to the beat&, shaking their upraised fists and
 shouting&, "FES!" "Fehsu!" with perfect timing&. It didn't quite
-measure up to the level of <FONT incolor="#88abda"outcolor="BLACK">audience participation</FONT> you'd find
-at an otaku concert&, though&.
+measure up to the level of <FONT incolor="#88abda"outcolor="BLACK">audience participation you'd find
+at an otaku concert</FONT>&, though&.
 
 It was incredibly overheated&. The stuffiness made me feel like
 throwing up&.
@@ -439,8 +439,7 @@ The lyrics made me go tense&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text905]
-It was the "prophetic song" whose lyrics had been pasted into
-@channel&.
+It was the "prophetic song" whose lyrics had been pasted into @channel&.
 
 A dark song that didn't let you sense the slightest hope of
 salvation&. Partly because of the lyrics&, but also because of the

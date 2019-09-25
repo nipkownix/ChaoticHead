@@ -64,6 +64,7 @@ if($妄想トリガー通過６ == 0)
 }
 
 
+
 if($妄想トリガー６ == 2)
 {
 //分岐１
@@ -768,8 +769,7 @@ He seemed frightfully grave&.&.&.
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch02/03100490ta">
 //「あんな、あ、危ない、女が……僕を、ね、狙ってるのに……」
-"But&.&.&. She's so d&, dangerous&.&.&. And she's t&,
-targeting me&.&.&."
+"But&.&.&. She's so d&, dangerous&.&.&. And she's t&, targeting me&.&.&."
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch02/03100500ta">
@@ -1551,8 +1551,8 @@ At the very least&, Yua herself believed what she was saying&.
 //【高科】
 <voice name="高科" class="高科" src="voice/ch02/03100990tk">
 //「ちなみに、その知り合いとはどういう関係だろう？　恋人？」
-"By the way&, what's your relationship with this acquaintance
-of yours? Is it your girlfriend?"
+"By the way&, what's your relationship with this acquaintance of yours?
+Is it your girlfriend?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch02/03101000ta">
@@ -1668,8 +1668,7 @@ That wasn't what I'd wanted to say―
 
 //でもなんて説明すればいいのか、頭の中がうまく整理できず、まごまごしているうちに言い出すタイミングを失ってしまった。
 But I didn't know how to explain it&, and I couldn't get my thoughts
-in order&, and as I remained at a loss&, I lost the
-chance to speak up&.
+in order&, and as I remained at a loss&, I lost the chance to speak up&.
 
 {	DeleteStand("bu史男_白衣_通常_smile", 500, false);
 	CreateSE("SE05","SE_日常_家具_イス_軋_回転");
@@ -1691,7 +1690,6 @@ the back of the examining room&.
 <voice name="葉月" class="葉月" src="voice/ch02/03101150hd">
 //「はい」
 "Coming&."
-
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1770,8 +1768,8 @@ I hadn't been asleep&. Though I hadn't slept&, I couldn't remember what
 I'd done&.
 
 //ＲＯＯＭ３７で『将軍』がチャットに書き込んだとされる時間、僕はずっとエンスーをやっていたはずなんだ。
-As for the period when "Shogun" posted his parts of the chat from Room 37&,
-I'd thought I was playing ESO the whole time&.
+As for the period when "Shogun" posted his parts of the chat from
+Room 37&, I'd thought I was playing ESO the whole time&.
 
 //それって、夢遊病って言うのかな？
 //教えてもらいたかったけど……先生はどんどん話を進めてしまっていた。
@@ -2043,4 +2041,3 @@ Wait for me&, Seira-tan&. I'll be home soon&, so―
 	EndTrigger();
 
 }
-

@@ -126,8 +126,7 @@ They touched the same air as her&.
 Those things granted her believers the highest possible joy&.
 
 Perhaps she put on this kind of performance every time―or so I
-thought&, but I doubted my eyes when I caught sight of FES's next
-move&.
+thought&, but I doubted my eyes when I caught sight of FES's next move&.
 
 She had casually started undoing the belt at her waist&.
 When she tossed it away&, her fanboys reached out all at once&, each
@@ -368,7 +367,6 @@ As far as 3-D girls went&, FES was pretty hot&.
 
 //※「人大杉」＝人が多過ぎ
 But it had been way too packed with people for me to want to go back&.
-
 In the end&, I'd quickly gotten sick from being in the crowd&, and I'd
 gone flying out of the club&.
 
@@ -772,8 +770,7 @@ girl's underling&.
 [text010]
 And she had looked at me&.
 
-That had been neither an illusion nor some kind of mistake on my
-part&.
+That had been neither an illusion nor some kind of mistake on my part&.
 
 I was positive that FES had been looking at me&.
 What could the emotions residing in her eyes have signified?
@@ -790,8 +787,7 @@ me&.
 <voice name="拓巳" class="拓巳" src="voice/ch02/04200170ta">
 "I'll&.&.&. never go back&.&.&."
 
-Squeezing my voice out in a mutter&, I wiped the sweat off my
-forehead&.
+Squeezing my voice out in a mutter&, I wiped the sweat off my forehead&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -818,8 +814,7 @@ forehead&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-I started up ESO soon after coming back home from the Phantasm
-concert&.
+I started up ESO soon after coming back home from the Phantasm concert&.
 The halfway eaten potato chips I had nearby were already soggy&, but
 it didn't bother me&. They turned out to be surprisingly edible&.
 
@@ -875,8 +870,8 @@ Neidhardt&.
 But Neidhardt wasn't doing too well today&. Of course&, I knew it
 was due to how I used the keyboard and made decisions for him&.
 
-But I had trouble accomplishing things I normally performed with
-ease&, and though playing was supposed to comfort me&, I got more and
+But I had trouble accomplishing things I normally performed with ease&,
+and though playing was supposed to comfort me&, I got more and
 more irritated as I continued&.
 
 </PRE>
@@ -957,9 +952,8 @@ I blearily contemplated the monitor&.
 Without me to operate him&, Neidhardt stood motionless at the
 entrance to Shangrim City and stared off into space&.
 
-I'd always fought enemies while watching Neidhardt's back like
-this&. Naturally&, he had the maximum possible number of experience
-points&.
+I'd always fought enemies while watching Neidhardt's back like this&.
+Naturally&, he had the maximum possible number of experience points&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch02/04200210ta">
@@ -1002,8 +996,8 @@ the keyboard and munching on my potato chips&.
 <voice name="拓巳" class="拓巳" src="voice/ch02/04200220ta">
 "If Neidhardt were self-aware&.&.&."
 
-Surely he would go striding through Shangrim City&, shoulders
-squared&. He was the hero everyone worshipped&.
+Surely he would go striding through Shangrim City&, shoulders squared&.
+He was the hero everyone worshipped&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

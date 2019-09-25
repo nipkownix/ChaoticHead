@@ -94,8 +94,7 @@ She made no effort to move from the spot&, as though she were
 reluctant to part with them&, despite the fact that she herself had
 set them on fire&.
 
-She abruptly knitted her eyebrows in anguish and covered her ears
-hard&.
+She abruptly knitted her eyebrows in anguish and covered her ears hard&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -146,8 +145,8 @@ she had heard someone's voice&.
 [text503]
 Before her lay the house's veranda&.
 Though it was the middle of the day&, it was dim within the
-wood-constructed house&, over fifty-year-old house&, and she couldn't
-see much beyond the veranda&.
+wood-constructed&, over fifty-year-old house&, and she couldn't see much
+beyond the veranda&.
 
 Kozue shakily rose to her feet and walked up to the veranda&. Her
 mother appeared right then&, as though she had calculated the timing&.
@@ -162,8 +161,7 @@ Kozue nodded and sat down lightly on the edge of the veranda&.
 <voice name="èΩÇÃïÍ" class="èΩÇÃïÍ" src="voice/ch01/02200030km">
 "The day after tomorrow&, we'll be saying goodbye to this house&."
 
-Standing next to her&, her mother cast a look at the serene inland
-sea&.
+Standing next to her&, her mother cast a look at the serene inland sea&.
 
 //ÅyèΩÇÃïÍÅz
 <voice name="èΩÇÃïÍ" class="èΩÇÃïÍ" src="voice/ch01/02200040km">

@@ -87,8 +87,7 @@ Girl B looked down at me coldly&.
 Wait&, she was really close&.&.&.
 
 Her feet were right before my eyes&.&.&.
-In terms of the angle&.&.&. I could almost&.&.&. see up her
-skirt&.&.&.
+In terms of the angle&.&.&. I could almost&.&.&. see up her skirt&.&.&.
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch03/05000010sn">
@@ -289,9 +288,8 @@ her panties&, either&.
 All that aside&, Di-Sword&.&.&.?
 What'd she mean?
 
-It was the first time I'd heard that word&. Well&, she'd said
-"Sword&," and the blade-shaped object she carried was certainly a
-sword&.
+It was the first time I'd heard that word&. Well&, she'd said "Sword&,"
+and the blade-shaped object she carried was certainly a sword&.
 
 But why ask me if I could see her sword?
 
@@ -340,8 +338,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚O == 1)
 "Y&, yes&.&.&.?"
 
 Had she just asked if "You can see me"?
-"Me&," in short&, was Girl B herself&, standing directly before my
-eyes?
+"Me&," in short&, was Girl B herself&, standing directly before my eyes?
 
 {	CreateTextureEX("”wŒi‚Q", 100, 0, 0, "cg/bg/bg084_01_3_a’JƒZƒ“ƒ^[ŠX_a.jpg");
 	Fade("”wŒi‚Q", 500, 1000, null, true);
@@ -491,8 +488,6 @@ She wasn't crying&, and her legs weren't see-through&, and her hands
 were regular hands&.
 
 Oh&.&.&. It'd been a delusion&, huh&.&.&.
-In any case&, she wasn't trying to pick a fight by asking if I'd seen
-her panties&, either&.
 
 All that aside&, Di-Sword&.&.&.?
 What'd she mean?
@@ -567,8 +562,7 @@ It felt like I'd shit myself in fear any second now&.
 What the hell was she talking about&.&.&.
 
 Was she gonna kill me if I couldn't see it?
-I couldn't answer without knowing what I was supposed to be
-seeing&.&.&.!
+I couldn't answer without knowing what I was supposed to be seeing&.&.&.!
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch03/05000410sn">
@@ -617,14 +611,12 @@ It must mean the sword she was carrying&, but&.&.&.
 [text010]
 For the time being&, I nodded&.
 
-Jeez&, of course I could see it&.&.&. It'd be weirder not to see
-it&.
+Jeez&, of course I could see it&.&.&. It'd be weirder not to see it&.
 
 Because she was carrying around a sword that big and conspicuous in
 the shopping district&, of all places&.
 
-I'd be able to accept it if this were Akiba&, but in Shibuya? No
-way&.&.&.
+I'd be able to accept it if this were Akiba&, but in Shibuya? No way&.&.&.
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch03/05000450sn">

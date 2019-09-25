@@ -130,8 +130,7 @@ things like the direction of the shadows and if anything in the
 sce<pre>ne</pre>ry felt off&.&.&.
 
 One possibility was that it had been created by combining previously
-taken background photographs with a CG version of the pinned-up
-corpse&.
+taken background photographs with a CG version of the pinned-up corpse&.
 
 And the day after "Shogun" sent it to me&, the murderer had put the
 killing method this photo illustrated into action&.&.&.
@@ -145,8 +144,7 @@ seem as though the staked parts were saying&, come on&, look at me&,
 please&. It felt like the person who "made" the picture had
 intentionally arranged it that way&.
 
-For starters&, it was kind of overdoing it to solely spotlight the
-body&.
+For starters&, it was kind of overdoing it to solely spotlight the body&.
 
 Well&, I hadn't closely studied the actual crime sce<pre>ne</pre>&,
 so I wasn't really in a position to say anything&.
@@ -240,8 +238,7 @@ What's this&.&.&.?
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch02/03700030ta">
-"Haa&.&.&. Haa&.&.&. Eh? Eh? &.&.&.Wha&, eh? What is
-this&.&.&."
+"Haa&.&.&. Haa&.&.&. Eh? Eh? &.&.&.Wha&, eh? What is this&.&.&."
 
 The one photographed there&.&.&.
 
@@ -352,8 +349,7 @@ future!
 Kicking away the one of the empty plastic bottles at my feet&, I
 closed the image editing program&.
 
-I opened the jpg file properties to check the date it had been
-created&.
+I opened the jpg file properties to check the date it had been created&.
 And&.&.&. I've been shocked&.
 
 It had been created on the 28th&.

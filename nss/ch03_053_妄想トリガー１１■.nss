@@ -273,7 +273,7 @@ tiny voice and swiftly went away&.
 Having been completely ignored by her&, Misumi-kun was sulky&.
 
 {#TIPS_•S‡‘®« = true;}Given that she could so cleanly turn down an invitation from a stud
-like him&, perhaps FES was actually the <FONTincolor="#88abda" outcolor="BLACK">yuri type</FONT>&.
+like him&, perhaps FES was actually the <FONT incolor="#88abda" outcolor="BLACK">yuri type</FONT>&.
 
 //ŸƒX[ƒ‹ƒtƒ‰ƒ“ƒXŒê‚Åuo–…vBwƒ}ƒŠƒA—l‚ª‚İ‚Ä‚éx‚æ‚è
 //y‘ñ–¤z
@@ -337,8 +337,7 @@ Had she been referring to something like the mic stand-esque thing
 she'd used during her show?
 
 Now that she mentioned it&, two days ago&,
-A completely different person had interrogated me about a
-"sword"&.&.&.
+A completely different person had interrogated me about a "sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -386,8 +385,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚P == 1)
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05300270ta">
 "Ye&, yes&.&.&."
 
-When she called me&, I inadvertently snapped to attention and
-answered&.
+When she called me&, I inadvertently snapped to attention and answered&.
 
 The ephemeral aura surrounding her entire body made it so I had to
 view her as being someone older&. But when I thought about it a little
@@ -761,8 +759,7 @@ Had she been referring to something like the mic stand-esque thing I
 myself had fantasized about earlier?
 
 Now that she mentioned it&, two days ago&,
-A completely different person had interrogated me about a
-"sword"&.&.&.
+A completely different person had interrogated me about a "sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -840,8 +837,7 @@ Although I&.&.&. was used to that sort of treatment&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05300630mi">
-"It's the first time my pride's been ripped to shreds like
-this&.&.&."
+"It's the first time my pride's been ripped to shreds like this&.&.&."
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch03/05300640mi">
@@ -881,8 +877,7 @@ Had she been referring to something like the mic stand-esque thing
 she'd used during her show?
 
 Now that she mentioned it&, two days ago&,
-A completely different person had interrogated me about a
-"sword"&.&.&.
+A completely different person had interrogated me about a "sword"&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

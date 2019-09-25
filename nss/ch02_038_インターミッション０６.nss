@@ -103,8 +103,7 @@ atop her bed&.
 	Wait(1000);
 	SoundPlay("SE05", 200, 0, false);}
 She tilted her head&, wondering if she had been imagining things&,
-then got up&, walked over to her bed and flopped down on it
-face-first&.
+then got up&, walked over to her bed and flopped down on it face-first&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

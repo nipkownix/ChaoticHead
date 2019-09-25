@@ -64,6 +64,7 @@ if($–Ï‘zƒgƒŠƒK[’Ê‰ß‚T == 0)
 }
 
 
+
 if($–Ï‘zƒgƒŠƒK[‚T == 2)
 {
 //™™™
@@ -351,8 +352,7 @@ She was still smiling&. But her expression soon changed to confusion&.
 What kind of face was I making?
 I didn't know&.
 
-I returned my line of sight to her bag\to those stuffed animal
-straps&.
+I returned my line of sight to her bag\to those stuffed animal straps&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -716,8 +716,7 @@ If you don't say anything&, won't I start thinking you must be feeling
 guilty&.&.&.?
 
 Even though I'd started to believe in you&.&.&.
-Even though I'd started to think that maybe you would be my
-ally&.&.&.
+Even though I'd started to think that maybe you would be my ally&.&.&.
 
 {	CreateColor("F‚P", 300, 0, 0, 800, 600, "WHITE");
 	Request("F‚P", AddRender);
@@ -826,9 +825,9 @@ On top of that\
 [text018]
 Yua's grip on my wrist was abnormally powerful&.
 
-She gripped it so tight that pain shot through me&. Such a violent
-pain that it was enough to made me wonder if she would clench me to
-bits&, all the way down to my bones&.
+She gripped it so tight that pain shot through me&. Such a violent pain
+that it was enough to made me wonder if she would clench me to bits&,
+all the way down to my bones&.
 
 I tried to shake her off&, but she wouldn't let go&.
 On the contrary&, she pulled me closer&, making me pitch backwards&.
@@ -1196,8 +1195,8 @@ When the hell did she investigate my room!?
 On the day we first met!?
 
 When I hurt my foot&, and she helped me up to my room!?
-When she'd seen my figure of Seira-tan&, and her face had been
-shining&, and she'd called it cute!?
+When she'd seen my figure of Seira-tan&, and her face had been shining&,
+and she'd called it cute!?
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch01/02600680yu">
@@ -1245,8 +1244,7 @@ She suspected me of being the "New Gen" perpetrator&.
 She'd convinced herself I was a murderer&.
 
 Did she think she was some kind of detective?
-"The high school girl detective&, Kusunoki Yua&," or something like
-that&.
+"The high school girl detective&, Kusunoki Yua&," or something like that&.
 
 Go die&. I mean it&, you deserve to die&.
 It might have worked in an anime or a game&.

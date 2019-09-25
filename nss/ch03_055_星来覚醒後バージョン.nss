@@ -49,9 +49,9 @@ what's nice about it&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05500020ta">
-{#TIPS_ÇfÇi = true;}"Hehehe&. And a mega-ero face&. I was right&, this
-kind of face&, sort of like she's about to cry or about to cum&, is
-the best part about Kijima Yoshio's stuff&. Seriously&, <FONT
+{#TIPS_ÇfÇi = true;}"Hehehe&. And a mega-ero face&. I was right&, this kind of face&,
+sort of like she's about to cry or about to cum&, is the best part
+about Kijima Yoshio's stuff&. Seriously&, <FONT
 incolor="#88abda" outcolor="BLACK">GJ</FONT>&, Kijima&."
 
 //ÅyëÒñ§Åz
@@ -79,9 +79,8 @@ see&.&.&."
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05500070ta">
 {#TIPS_çÇêô = true;}
 "Hm&, hm&, they did a nice job on her V-zone&. The way they put in
-wrinkles makes it look real&.&.&. Wait&, oh&, ooooh&, is&, is
-this&.&.&. ca&, camel toe&.&.&.? Whoa&, hehehe&, major whoa! Way
-too <FONT incolor="#88abda" outcolor="BLACK">high quality</FONT>!"
+wrinkles makes it look real&.&.&. Wait&, oh&, ooooh&, is&, is this&.&.&.
+ca&, camel toe&.&.&.? Whoa&, hehehe&, major whoa! Way too <FONT incolor="#88abda" outcolor="BLACK">high quality</FONT>!"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/05500080ta">

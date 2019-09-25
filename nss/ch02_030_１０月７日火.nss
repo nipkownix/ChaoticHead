@@ -57,14 +57,12 @@ function ch02_030_‚P‚OŒŽ‚V“ú‰Î()
 The university hospital's waiting room was packed with old people
 waiting their turn to be seen by a doctor&. Nothing about this
 tableau had changed from several years ago&.
-
 It was enough to make me think that time had stopped&.
 
 Worse&, the air was stagnant&, as befitted the stench of disinfectants&,
 and everyone had dark looks on their faces&.
-
 Try to spend five minutes in a place like this&, and you'd get depressed
-enough you want to die&.
+enough you'd want to die&.
 
 I don't like hospitals&.
 
@@ -72,7 +70,6 @@ I don't like hospitals&.
 	Fade("•a‰@•|‚¢", 1000, 1000, null, true);}
 Since I was little&, I had been terrified of how there are hardly ever
 any traces of a human presence in the hallways beyond the lobby&.
-
 Although there tend to be lots of people in the lobby itself&.
 
 It was almost as though the scent of death lurked in those hallways&. I

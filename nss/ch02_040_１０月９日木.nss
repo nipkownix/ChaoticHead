@@ -65,8 +65,7 @@ After worrying about it all day yesterday&, I finally made up my mind
 to come here&, where the concert was being held&.
 
 GIGANTES was a striking-looking red brick building located at the
-entrance to a narrow road that went along Shibuya's overhead
-railway&.
+entrance to a narrow road that went along Shibuya's overhead railway&.
 
 //おがみ：以下のコメントアウト部分、だぶってました。最新上体に合わせて修正してあります。
 //その外壁はライトアップされていて、まるで昭和の時代にでもタイムスリップしちゃったんじゃないかと思うくらい、古くさくて渋い雰囲気を醸し出していた。
@@ -124,8 +123,7 @@ heart disease&.
 No&, I understood why this was happening to me&.
 
 A dense darkness surrounded this place&.
-The demon girl and her crony Yua might be lurking somewhere
-nearby&.
+The demon girl and her crony Yua might be lurking somewhere nearby&.
 
 That was why I had been frenetically looking around&, watching out
 in case someone tried to attack me&.

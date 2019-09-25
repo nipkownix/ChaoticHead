@@ -91,9 +91,8 @@ Well&, not that it made much of a difference to me&.
 
 Cat Street was fairly far away from me&.
 
-By foot&, it could easily take fifteen or twenty minutes to get
-there&. It'd be a quick trip by bike&, but unfortunately&, I didn't
-have one&.
+By foot&, it could easily take fifteen or twenty minutes to get there&.
+It'd be a quick trip by bike&, but unfortunately&, I didn't have one&.
 
 I decided to go by a route that took me past the plaza in front of the
 station&, then past Shoutou by way of cutting through Miyashita Park&.
@@ -210,8 +209,7 @@ say it was doing brisk business even by way of flattery&, and it was
 awfully hard to enter&.&.&.
 
 How was I supposed to go in such a sketchy-seeming store&, when it was
-asking too much of me just to have me go alone to a gyuudon
-shop&.&.&.
+asking too much of me just to have me go alone to a gyuudon shop&.&.&.
 
 I wanna go home&.&.&.
 
@@ -265,9 +263,8 @@ Unlike in my fantasy&, though her clothes were rather gaudy&, the kind
 of thing that made you wonder what kind of nomad camp she'd snagged
 them from&, and her face&, on the other hand&, was amazingly glum&.
 
-Her hair was cu<pre>t</pre> in the bomb-a-head style&, with thin&,
-frizzy ends&, and creepy patterns were drawn on
-the bandanna twisted around it above&.
+Her hair was cu<pre>t</pre> in the bomb-a-head style&, with thin&, frizzy ends&,
+and creepy patterns were drawn on the bandanna twisted around it above&.
 
 She said she was a store worker and had come out after seeing me
 wishy-washily going around outside&. My fantasy hadn't exactly become
@@ -321,8 +318,7 @@ And for beginning&, not one of them had a price tag&.
 
 I didn't realize it until I came in&, but there was a lot of porno
 merch&. Among them were the sorts of devices you often see in
-rape/humiliation eroge&, and I was at a loss for a safe place to
-look&.
+rape/humiliation eroge&, and I was at a loss for a safe place to look&.
 
 Apparently this store was similar to a variety shop aimed at adults&.
 
@@ -396,8 +392,7 @@ was more or less the same as the illustration I'd seen online&.
 
 I tried picking it up&.
 It was unexpectedly light&.
-I wondered what it was made of&, though it seemed like soft
-vinyl&.&.&.
+I wondered what it was made of&, though it seemed like soft vinyl&.&.&.
 
 There was no blade&. The edge was slippery&, and of course it didn't
 hurt me in the slightest even when I stroked it with my fingers&.
@@ -414,17 +409,15 @@ you could have called a Di-Sword&.
 
 Would this even shine in the first place?
 
-The Di-Sword FES had swung about at her show had glass parts
-embedded in its blade&, which let off a blue light
-and looked incredibly badass&.
+The Di-Sword FES had swung about at her show had glass parts embedded
+in its blade&, which let off a blue light and looked incredibly badass&.
 
-But there was no glass to be seen anywhere on the sword I had in
-hand&.
+But there was no glass to be seen anywhere on the sword I had in hand&.
 
 Maybe I ought to give up on buying it&.&.&.
 
-This Di-Sword was so crudely made as to make me reach that
-conclusion&, never mind how long it had taken me to get here&.
+This Di-Sword was so crudely made as to make me reach that conclusion&,
+never mind how long it had taken me to get here&.
 
 ButÅ\
 
@@ -532,8 +525,8 @@ Hmmm&, what to do&.&.&.
 While I debated with myself&, the clerk came up and stood right behind
 me before I knew it&.
 
-Smirking darkly&, she pointed at the Di-Sword and muttered&, "10000
-yen&, and I'll throw in a free bonus&."
+Smirking darkly&, she pointed at the Di-Sword and muttered&, "10000 yen&,
+and I'll throw in a free bonus&."
 
 At first&, its absurd cheapness made me doubt my ears&. I certainly
 hadn't thought it would be less expensive than a figure&.
@@ -632,4 +625,3 @@ massacring innocent people&, creating a festival of blood&.
 
 
 }
-

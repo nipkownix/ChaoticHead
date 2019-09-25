@@ -244,7 +244,7 @@ if(#voice_skip_拓巳 != 1)
 [text601]
 <voice name="拓巳" class="拓巳" src="voice/ch01/00100050ta" mode="off">
 //――僕を、見るな。
-―Don't look at me&.
+――Don't look at me&.
 {$待ち時間 = RemainTime ("タクミ１");
 $待ち時間 += 2000;
 WaitKey($待ち時間);}
@@ -785,7 +785,7 @@ if(#voice_skip_拓巳 != 1)
 [text902]
 <voice name="拓巳" class="拓巳" src="voice/ch01/00100360ta" mode="off">
 //――君は、誰？
-―― Who are you?
+――Who are you?
 {$待ち時間 = RemainTime ("タクミ１");
 $待ち時間 += 2000;
 WaitKey($待ち時間);}
@@ -888,7 +888,7 @@ if(#voice_skip_拓巳 != 1)
 [text903]
 <voice name="拓巳" class="拓巳" src="voice/ch01/00100400ta" mode="off">
 //――僕を、見るな。
-―― Don't look at me&.
+――Don't look at me&.
 {$待ち時間 = RemainTime ("タクミ１");
 $待ち時間 += 0;
 WaitKey($待ち時間);}
@@ -1193,7 +1193,6 @@ WaitKey($待ち時間);}
 	$SYSTEM_skip=false;
 	$SYSTEM_text_auto=false;
 	$SYSTEM_menu_lock = true;
-	hidebox();
 	//WaitKey();
 
 //☆Cut-2――――――――――――――――――――――――――――――
@@ -1203,7 +1202,7 @@ WaitKey($待ち時間);}
 //おがみ：ムービー再生コマンド変更
 //		MoviePlay("dx/mvINTER01.ngs", false);
 //		MoviePlay("dx/mvOP.ngs", false);
-		CreateMovie("インタームービー", 100, Center, Middle, false, false, "dx/mvINTER01.ngs");
+		CreateMovie("インタームービー", 21000, Center, Middle, false, false, "dx/mvINTER01.ngs");
 		SetAlias("インタームービー", "INTER01");
 		CreateProcess("MovSkip", 150, 0, 0, "MovSkip");
 		Request("MovSkip", Start);
@@ -1219,7 +1218,7 @@ WaitKey($待ち時間);}
 			WaitAction("@CH00", null);
 		}
 
-		CreateMovie("ＯＰムービー", 100, Center, Middle, false, false, "dx/mvOP.ngs");
+		CreateMovie("ＯＰムービー", 21000, Center, Middle, false, false, "dx/mvOP.ngs");
 		SetAlias("ＯＰムービー", "OP");
 		Delete("インタームービー");
 		CreateProcess("MovSkip", 150, 0, 0, "MovSkip");
@@ -1228,12 +1227,11 @@ WaitKey($待ち時間);}
 		Delete("MovSkip");
 
 		Delete("ＯＰムービー");
-		showbox();
 		$SYSTEM_menu_lock = false;
 	}else{
 //		MoviePlay("dx/mvINTER01.ngs", true);
 //		MoviePlay("dx/mvOP.ngs", true);
-		CreateMovie("インタームービー", 100, Center, Middle, false, false, "dx/mvINTER01.ngs");
+		CreateMovie("インタームービー", 21000, Center, Middle, false, false, "dx/mvINTER01.ngs");
 		SetAlias("インタームービー", "INTER01");
 		CreateProcess("MovSkip", 150, 0, 0, "MovSkip");
 		Request("MovSkip", Start);
@@ -1249,7 +1247,7 @@ WaitKey($待ち時間);}
 			WaitAction("@CH00", null);
 		}
 
-		CreateMovie("ＯＰムービー", 100, Center, Middle, false, false, "dx/mvOP.ngs");
+		CreateMovie("ＯＰムービー", 21000, Center, Middle, false, false, "dx/mvOP.ngs");
 		SetAlias("ＯＰムービー", "OP");
 		Delete("インタームービー");
 		CreateProcess("MovSkip", 150, 0, 0, "MovSkip");
@@ -1259,7 +1257,6 @@ WaitKey($待ち時間);}
 
 		Delete("ＯＰムービー");
 		#OpMovie=true;
-		showbox();
 		$SYSTEM_menu_lock = false;
 	}
 
