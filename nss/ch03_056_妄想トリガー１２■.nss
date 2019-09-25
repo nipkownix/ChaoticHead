@@ -5332,22 +5332,23 @@ What color did she hold in those eyes of hers?
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604370ri">
-"Why&, you ask&. I came to see you&."
+"Ahh&, sorry&, it was selfish of me to come in&."
 
 {	Stand("bu—œ[_§•_³–Ê","hard", 200, @0);
 	FadeStand("bu—œ[_§•_³–Ê_hard", 300, false);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604380ri">
-"Are you angry that I went in your room without asking?"
+"But&, I was knocking&, you know?"
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @0);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 300, false);
 	DeleteStand("bu—œ[_§•_³–Ê_hard", 300, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch03/05604390ri">
-"But that's your fault for not answering&.
-I kept knocking for a pretty long time&."
+"And no matter what&, you wouldn't come out&,
+then I heard this loud noise&,
+so I was on pins and needles&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604400ta">
@@ -5368,7 +5369,9 @@ I kept knocking for a pretty long time&."
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch03/05604430ta">
 "Are you here&.&.&.?"
 
-What was her reason for coming to visit me?
+No one asked about how you broke in&.
+
+What was her reason for coming here?
 If she'd come to kill me&, she would have acted on her intentions long
 ago&, yet why wasn't she doing anything?
 

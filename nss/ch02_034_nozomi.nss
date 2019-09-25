@@ -103,12 +103,12 @@ Yet for some reason&, the checklist seemed familiar&.
 	CreateTexture("back03", 100, 0, 0, "cg/bg/bg082_01_2_渋谷駅南口歩道橋_a.jpg");
 	Wait(1000);
 	Delete("ティッシュ");}
-Jamais vu&.
-All I'd felt lately was Jamais vu&.
+Deja vu&.
+All I'd felt lately was deja vu&.
 
 It made me sick&, the fact that my own mind and body wouldn't act the
 way I wanted them to&. I dug through my memory in hopes of somehow
-being able to pin down the source of this jamais vu&.
+being able to pin down the source of this deja vu&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -289,7 +289,7 @@ I got fed up once again at the emergence of these nagging memories&.
 	Fade("色１", 500, 0, null, false);
 	Rotate("ルーム", 0, @10, @0, @0, AxlDxl, true);
 	Rotate("ルーム", 500, @-10, @0, @0, AxlDxl, true);}
-Whatever the case&, I'd identified the source of my jamais vu&.
+Whatever the case&, I'd identified the source of my deja vu&.
 I decided&, Next week&, I would consult with Dr&. Takashina about my
 memory issue&.
 After seeing him&, I'd shut myself up again and stop going to school&.
