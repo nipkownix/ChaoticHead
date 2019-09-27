@@ -260,8 +260,8 @@ motionless in the empty store&.
 I very much wanted to believe that the clerk had dozed off&.
 So I tried waiting another five minutes&.
 
-But in that time&, neither a cashier nor any other customers
-appeared&. I didn't even hear any sounds&.
+But in that time&, neither a cashier nor any other customers appeared&.
+I didn't even hear any sounds&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -334,8 +334,7 @@ It resembled&.&.&.
 {	MusicStart("@CH01",0,1000,0,0,null,true);}
 Wasn't it a sniper rifle!?
 
-This meant they were the riot police&.&.&. Or&, alternatively&, a
-SAT team&.
+This meant they were the riot police&.&.&. Or&, alternatively&, a SAT team&.
 
 I hadn't seen any shoppers or cashiers because the police had sealed
 off the area&.&.&.!
@@ -360,8 +359,7 @@ store&.&.&.
 The criminal&, having taken the cashier hostage&, could have holed up
 in the back room&.
 
-And that criminal might be&.&.&. the true New Gen
-perpetrator&.&.&.!
+And that criminal might be&.&.&. the true New Gen perpetrator&.&.&.!
 
 {	CreateColor("êFÇP", 150, 0, 0, 800, 600, "Black");
 	DrawTransition("êFÇP", 500, 0, 1000, 100, null, "cg/data/up.png", true);}
@@ -396,8 +394,8 @@ the automatic doorÅ\
 
 It began with the kind of cliched declaration that you wouldn't even
 hear on TV detective shows anymore&.
-From outside the store&, a policeman began roaring through an
-amplifier&. Startled&, I hid deeper in the shadows of the shelving&.
+From outside the store&, a policeman began roaring through an amplifier&.
+Startled&, I hid deeper in the shadows of the shelving&.
 
 //Åyã@ìÆë‡Åz
 <voice name="ã@ìÆë‡" class="ã@ìÆë‡" src="voice/ch03/07000160kd">
@@ -469,9 +467,8 @@ If you don't&, I'll get tangled up in it!
 I tentatively peeked out from behind the shelf and looked outside once
 more&.
 
-What I saw shocked me&. Several SAT sharpshooters&, their sniper
-rifles at the ready&, were camped out in an area easily visible from
-here&.
+What I saw shocked me&. Several SAT sharpshooters&, their sniper rifles
+at the ready&, were camped out in an area easily visible from here&.
 
 {	DrawTransition("êFÇP", 500, 500, 1000, 100, null, "cg/data/lcenter2.png", true);}
 I hurriedly whipped my head back in&.

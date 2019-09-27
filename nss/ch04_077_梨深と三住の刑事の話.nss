@@ -289,8 +289,7 @@ principal's office&."
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch04/07700100mi">
-"So&, Rimi and I secretly eavesdropped&, and we were totally
-floored&."
+"So&, Rimi and I secretly eavesdropped&, and we were totally floored&."
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch04/07700110mi">
@@ -348,8 +347,8 @@ until last week&.
 	DeleteStand("bu‘å•ã_§•_’Êí_pride", 0, true);}
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch04/07700160mi">
-"It was your fault for going off and opening the door&. You know
-that&, right?"
+"It was your fault for going off and opening the door&. You know that&,
+right?"
 
 {	Stand("bu—œ[_§•_’Êí","hard", 200, @+210);
 	DeleteStand("bu—œ[_§•_³–Ê_normal", 500, false);
@@ -571,8 +570,7 @@ them tell me the same thing&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07700420ri">
-"Haa&, so you're oblivious&. How about you do a little
-soul-searching?"
+"Haa&, so you're oblivious&. How about you do a little soul-searching?"
 
 {	Stand("bu‘å•ã_§•_’Êí","pride", 250, @-240);
 	FadeStand("bu‘å•ã_§•_’Êí_pride", 300, true);
@@ -621,8 +619,7 @@ could&.
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_shock", 500, false);}
 Misumi-kun dashed up to the transfer student&.
-Thanks to his departure&, Rimi was the only person left nearby my
-seat&.
+Thanks to his departure&, Rimi was the only person left nearby my seat&.
 
 Ahh&, please don't leave me&, Misumi-kun&.&.&.
 

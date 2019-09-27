@@ -98,9 +98,8 @@ shallow breaths&.
 I didn't see any stars&. The man-made lights blazing aboveground
 Made it seem as though Shibuya's sky were covered by a thin veil&.
 
-It blocked out the starlight that had traveled for decades or
-centuries to get here&, transforming the night sky into a faceless
-blackness&.
+It blocked out the starlight that had traveled for decades or centuries
+to get here&, transforming the night sky into a faceless blackness&.
 
 What a cheap-looking sky&.
 But it was normal for Shibuya&.
@@ -179,8 +178,7 @@ duty&.
 
 //【警官】
 <voice name="警官" class="警官" src="voice/ch04/08700060po">
-"Some form of ID&.&.&. I know&, could you show me your student
-handbook?"
+"Some form of ID&.&.&. I know&, could you show me your student handbook?"
 
 Dammit&, I didn't have the time to go along with this&. I had to hide
 somewhere less conspicuous as soon as possible&.
@@ -270,16 +268,15 @@ so it appeared&.
 
 Was I imagining&.&.&. things?
 
-But he had definitely looked in the direction of the guy on the
-bench&.
+But he had definitely looked in the direction of the guy on the bench&.
 
 I couldn't determine whether he had actually lowered his head or had
 simply seemed to do so&.
 
 The police officer went on his way out of the park&.
 
-The geezer on the bench went on messing around with his cell
-phone&.&.&. or so it appeared&.
+The geezer on the bench went on messing around with his cell phone&.&.&.
+or so it appeared&.
 
 But his fingers weren't moving&.&.&. or at least&, they appeared not
 to be&.
@@ -410,8 +407,7 @@ I hadn't done a thing!
 [text008]
 Should I assert my innocence!?
 
-But the fact of the matter was that I was fleeing the police right
-now&.
+But the fact of the matter was that I was fleeing the police right now&.
 
 Besides&, the police would probably come up with some random reasons
 to attach a crime to my name&, anyway&.
@@ -453,8 +449,8 @@ Unpleasant speculation swirled around in my head&.
 
 I got up and reassessed my surroundings&.
 
-The old fogey who had been sitting on a bench&, tweaking his cell
-phone&, kept casting little glances my way―or so I thought&.
+The old fogey who had been sitting on a bench&, tweaking his cell phone&,
+kept casting little glances my way―or so I thought&.
 
 The craggy-faced man who had just entered the park leaned back against
 the plain&, pipe-esque fence&, slowly unfolded a newspaper&, and began
@@ -481,8 +477,7 @@ Maybe they'd been tailing me&.&.&.
 If so&.&.&. at the moment&, I was completely surrounded&.
 
 Yua had decided I was the murderer&.
-With that delusion of hers&, she may have ratted me out to the
-police&.
+With that delusion of hers&, she may have ratted me out to the police&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -498,8 +493,7 @@ police&.
 <voice name="拓巳" class="拓巳" src="voice/ch04/08700080ta">
 "D&, don't mess with me&.&.&."
 
-Unable to bear it&, I muttered in a voice too small for anyone to
-hear&.
+Unable to bear it&, I muttered in a voice too small for anyone to hear&.
 
 Was this&, too&, part of the "Shogun" conspiracy!?
 
@@ -605,8 +599,7 @@ to look back at me&.
 The instant our eyes met&, she averted her face&, as though she'd
 gotten a shock&.
 
-Her phone remained pressed to her ear&, but she wasn't chatting
-anymore&.
+Her phone remained pressed to her ear&, but she wasn't chatting anymore&.
 
 Assaulted by a formless fear&, I ran down the stairs&.
 
@@ -743,8 +736,7 @@ was too late&.
 It'd be suicidal to do anything rash&.
 
 Now that I was pretending to read a book&, it'd be even more
-suspicious if I didn't continue doing so for a certain period of
-time&.
+suspicious if I didn't continue doing so for a certain period of time&.
 
 I had to keep it up&, at least until the policeman stopped watching
 me&.&.&.
@@ -770,8 +762,7 @@ When I confirmed it with a sidelong look&, my eyes went wide&.
 Yua&.&.&.!
 And at the worst timing conceivable&.&.&.!
 
-Cold sweat seeped not just from my forehead&, but from my entire
-body&.
+Cold sweat seeped not just from my forehead&, but from my entire body&.
 
 This was bad&. This was unbelievably bad&.
 
@@ -878,8 +869,7 @@ When I looked over my shoulder there&, I saw the policeman sprinting
 after me&.
 
 Mysteriously&, the older man who'd been sitting on a bench and even
-one of the homeless were running as if they were chasing the
-policemen&.
+one of the homeless were running as if they were chasing the policemen&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -999,11 +989,11 @@ I haven't done a thing!
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text022]
-Upon entering a small road with virtually no other pedestrian
-traffic&, I ran even more frantically&.
+Upon entering a small road with virtually no other pedestrian traffic&,
+I ran even more frantically&.
 
-But because I'd been running almost the whole time since leaving
-@Cafe&, I couldn't keep breathing&.
+But because I'd been running almost the whole time since leaving @Cafe&,
+I couldn't keep breathing&.
 
 My lungs sought oxygen&.
 My legs were shaky with exhaustion&.
@@ -1171,8 +1161,8 @@ Even under normal circumstances&, I had little knowledge of the lay of
 the land in Shibuya&.
 At this point&, I had no choice but to go wherever FES took me&.
 
-What if this&, too&, were a trap laid by "Shogun"―I started to
-think&, but I shook my head to rid myself of such thoughts&.
+What if this&, too&, were a trap laid by "Shogun"―I started to think&,
+but I shook my head to rid myself of such thoughts&.
 
 Even if FES were working under "Shogun&," there was nothing I could do
 about it anymore&.&.&.
@@ -1193,8 +1183,7 @@ enough oxygen from reaching my brain&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text027]
-I was on the brink of whining things like&.&.&. I can't run
-anymore&.
+I was on the brink of whining things like&.&.&. I can't run anymore&.
 
 Maybe I had unconsciously blurted it out countless times already&.
 
@@ -1241,8 +1230,7 @@ led to a yawning underground opening&.
 [text029]
 We stopped at last upon reaching the bottom of the stairs&.
 
-Wheezing&, I let go of FES's hand and sank into a crouch on the
-stairs&.
+Wheezing&, I let go of FES's hand and sank into a crouch on the stairs&.
 
 I wondered exactly how much I had run today&.
 

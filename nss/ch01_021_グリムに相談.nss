@@ -124,7 +124,7 @@ Neidhardt: Hey&, you listening? >Grim
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text006]
-Grim: W H A T  I S   T H E   N A M E   O F   T H I S
+Grim: W H A T   I S   T H E   N A M E   O F   T H I S
 E R O G E?
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);

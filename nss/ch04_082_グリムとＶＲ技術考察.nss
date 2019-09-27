@@ -203,8 +203,7 @@ Neidhardt: Don't worry about it （´・ω・`）
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text018]
-Even after I returned home&, the things Sena had told me nagged at
-me&.
+Even after I returned home&, the things Sena had told me nagged at me&.
 
 Naturally&, I didn't think they were true&, but it shouldn't take more
 than a little investigation to determine whether the parts about the
@@ -478,8 +477,8 @@ eyes to keep from seeing anything clearly all at once&.
 <voice name="拓巳" class="拓巳" src="voice/ch04/08200040ta">
 "Wh&, what's this&.&.&.?"
 
-It was a document written in English&, with a strange diagram below
-it&. In the middle of the diagram was drawn something resembling a
+It was a document written in English&, with a strange diagram below it&.
+In the middle of the diagram was drawn something resembling a
 human face&.
 
 The headline was "United States Patent&." 'Patent' must mean the same
@@ -680,8 +679,7 @@ senses&, as well as their free will itself?"
 	FadeDelete("色１", 500, true);
 	SetVolume("@CH24", 500, 1000, NULL);}
 It was a pretty difficult subject to process&, but what Sena had told
-me&, and the online sources that backed her up&, made my spine go
-cold&.
+me&, and the online sources that backed her up&, made my spine go cold&.
 I had the feeling that something fearsome was hiding in there&.
 
 What concerned me more than anything else―

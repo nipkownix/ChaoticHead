@@ -112,8 +112,7 @@ The key person&, Ban himself&, said―
 He neither lost his aloof attitude nor lent an ear to his junior's
 argument&.
 
-At last a narrow street sealed off by yellow vinyl tape came into
-view&.
+At last a narrow street sealed off by yellow vinyl tape came into view&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -156,13 +155,11 @@ tape&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	Request("@CH23", Lock);
 
 	PrintBG(100);
 
 //ＢＧ//渋谷路地裏//夜
 
-	Request("@CH23", UnLock);
 
 	CreateBG(100, 500, 0, 0, "cg/bg/bg020_01_3_渋谷路地裏_a.jpg");
 	Stand("st安二_スーツ_通常","hard", 200, @+150);
@@ -443,8 +440,7 @@ thing&."
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch04/08900390su">
-"Nah&, sure&, I've seen 'em&. Last week was one about Yuri
-Brightman&."
+"Nah&, sure&, I've seen 'em&. Last week was one about Yuri Brightman&."
 
 {//	Stand("st安二_スーツ_通常","shock", 200, @+150);
 //	FadeStand("st安二_スーツ_通常_shock", 500, true);
@@ -588,8 +584,7 @@ himself to voice any further complaints&.
 <voice name="判" class="判" src="voice/ch04/08900570bn">
 "Don't you feel like it's been going in more of an elliptical shape?"
 
-Held up by the thread&, the 500 yen coin slowly went around and
-around&.
+Held up by the thread&, the 500 yen coin slowly went around and around&.
 Suwa tilted his head&.
 
 //【諏訪】
@@ -622,8 +617,8 @@ continued drawing the shape of an ellipse&.
 
 //【判】
 <voice name="判" class="判" src="voice/ch04/08900640bn">
-"Even if you try to make it go in a different shape&, you can't&, can
-you?"
+"Even if you try to make it go in a different shape&, you can't&,
+can you?"
 
 Ban looked proud as he spoke&.
 

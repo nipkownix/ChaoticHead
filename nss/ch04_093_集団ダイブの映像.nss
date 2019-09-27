@@ -402,7 +402,7 @@ The word "Loading&.&.&." appeared in the video window&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch04/09300140ta">
-"It'snotmetitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotme&.&.&."
+"It'snotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotmeitsnotme&.&.&."
 
 In actuality&, it only took about ten seconds to load&, but to me
 those ten seconds felt like eternity&.
@@ -492,8 +492,8 @@ Was the New-Gen criminal really the one who had filmed it?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text011]
-After some time&, the camera―no&, the videographer holding the
-camera―began moving forward&.
+After some time&, the camera―no&, the videographer holding the camera―
+began moving forward&.
 
 His five subjects&, who had been about five meters away&, gradually
 began to show up larger and larger&.
@@ -508,8 +508,7 @@ why this cameraman hadn't taken advantage of that&.
 
 Was it an old camera&, maybe?
 
-The camera panned from side to side&, revealing the surrounding
-scen<pre>e</pre>ry&.
+The camera panned from side to side&, revealing the surrounding scen<pre>e</pre>ry&.
 
 What I'd assumed to be a pitch-black background was in fact the night
 sky&.

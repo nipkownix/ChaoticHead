@@ -192,8 +192,7 @@ Doubts rose at the back of my head&.
 
 Why had it fallen now&, with this timing?
 
-It was too obvious&. Almost as if someone were urging me to pick it
-up&.
+It was too obvious&. Almost as if someone were urging me to pick it up&.
 
 A trap&.&.&.?
 
@@ -342,8 +341,7 @@ The girl from before&, obviously!
 That girl had been affiliated with "Shogun&," after all&. Of course
 she had&.&.&.
 
-I'd only had a glimpse of the student handbook's contents&,
-but&.&.&.
+I'd only had a glimpse of the student handbook's contents&, but&.&.&.
 
 The first page&, which should have contained the owner's name&, birth
 date&, class and other information&, had been utterly blacked out&.
@@ -529,8 +527,7 @@ Soon after&, I heard an enormous noise&.
 
 Silence returned&.
 
-I caught my breath and stared in the direction the sound had come
-from&.
+I caught my breath and stared in the direction the sound had come from&.
 
 What&.&.&. had it been?
 
@@ -800,8 +797,7 @@ At the same time&, the urge to vomit rose in me yet again&.
 
 {	CreateTextureEX("back05", 100, 0, 0, "cg/bg/bg145_01_1_íÜíÎínñ _a.jpg");
 	Fade("back05", 500, 1000, null, true);}
-I didn't throw up this time around&, but I had dry heaves over and
-over&.
+I didn't throw up this time around&, but I had dry heaves over and over&.
 
 It hurt so bad&, more and more tears started overflowing&.
 
@@ -979,8 +975,7 @@ What was she looking at with such distant eyes?
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09600240ri">
-"And then we'll say see you tomorrow&, and wave good-bye to each
-other&."
+"And then we'll say see you tomorrow&, and wave good-bye to each other&."
 
 {	Stand("buóúê[_êßïû_í èÌ","smile", 200, @+150);
 	FadeStand("buóúê[_êßïû_í èÌ_smile", 300, true);
@@ -1120,6 +1115,8 @@ But her face still wore the same endlessly soft smile&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text023]
+As friends&, huh&.&.&.
+
 If it were "as a couple&," I might've felt like my life had finally
 begun for real&.
 
@@ -1155,8 +1152,7 @@ My nausea had finally settled down&, and I felt considerably better&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/09600380ri">
 "Here&. Wanna use it?"
 
-What Rimi held out to me was a vermilion&, floral-scented
-handkerchief&.
+What Rimi held out to me was a vermilion&, floral-scented handkerchief&.
 
 I accepted it meekly&.
 But I hesitated to use it&.
@@ -1209,8 +1205,8 @@ Rimi asked me in a carefree voice&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/09600430ri">
 "Together&."
 
-Apparently "we'll leave school together&," her suggestion from
-before&, was already a done deal&.
+Apparently "we'll leave school together&," her suggestion from before&,
+was already a done deal&.
 
 Though I hadn't given her an answer yet&.
 
@@ -1401,8 +1397,8 @@ Rimi scrunched up her eyebrows&, as if she didn't want to say it&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09600570ri">
-"For starters&, the Shibuya station plaza wasn't empty back
-then&.&.&. or anything like that&, you know?"
+"For starters&, the Shibuya station plaza wasn't empty back then&.&.&.
+or anything like that&, you know?"
 
 //Å¶óúê[ÇÕÉEÉ\ÇÇ¬Ç¢ÇƒÇ¢Ç‹Ç∑
 //Åyóúê[Åz
@@ -1519,8 +1515,8 @@ possibility that Yua and "Shogun" were lurking somewhere&, not because
 I wanted to shop&.
 
 Except&, if I turned her down here&, it might damage Rimi's mood&, and
-she was the one who'd said she would be there for me&. If I screwed
-up&, she could get angry and go back by herself&.
+she was the one who'd said she would be there for me&. If I screwed up&,
+she could get angry and go back by herself&.
 
 That'd be problematic&.&.&.
 I needed to have Rimi with me&.&.&.
@@ -1617,8 +1613,7 @@ marker on the front of his T-shirt&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/09600680ri">
 "I wonder what they're protesting&."
 
-There were a variety of marchers&, young and old&, male and female
-alike&.
+There were a variety of marchers&, young and old&, male and female alike&.
 
 They paraded solemnly along&, but once in a while they'd cry out in
 unison&.
@@ -1682,8 +1677,7 @@ began walking toward the entrance to a CD shop&.
 As soon as we came in the store&, Rimi went straight for the indie
 music corner&.
 
-Unlike the J-pop corner&, there weren't many customers in the
-vicinity&.
+Unlike the J-pop corner&, there weren't many customers in the vicinity&.
 
 Rimi stopped in front of the "F" shelf and began searching for the CD
 she had in mind&.

@@ -899,7 +899,7 @@ function extTips_item_13()
 ■Fall asleep (寝オチ)
 Japanese chat slang&, read as
 "nemuochi" (寝オチ)&. Falling asleep
-at the computer monitor while in a
+at the computer monitor while in an
 online game or chat room&. A state
 in which one has zero response&.
 </PRE>

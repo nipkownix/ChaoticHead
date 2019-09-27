@@ -66,8 +66,8 @@ Don't fuck around with me&, I'd like to say to her&.
 What's with saying "I want to talk with you" after deceiving me?
 There's nothing you could possibly have to tell me&.
 
-Anyway&, she must've come up with a new plan to entrap me or
-something&. I'm not gonna play along with her&.
+Anyway&, she must've come up with a new plan to entrap me or something&.
+I'm not gonna play along with her&.
 
 Yes&, I wasn't used to conversing with girls&.
 As a result&, I'd been totally taken in when Yua made a play for me&.
@@ -127,6 +127,16 @@ I had another four hours to kill before midnight&.
 
 It'd go by quickly if I played ESO&, but&.&.&.
 
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+
+	CreateMovie("リーゼロッテ", 100, 0, 0, true, false, "dx/mvNH03.ngs");
+	Request("リーゼロッテ", Play);
+
+//――――――――――――――――――――――――――――――――――――――
+<PRE box00>
+[text503]
 I shifted my gaze to the PC monitor&.
 
 My secondary character&, Liselotte&, was standing there with nothing
@@ -136,11 +146,10 @@ to do&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-
 	SetVolume("SE01", 500, 0, null);
 	SetVolume("SE02", 500, 0, null);
 
-	CreateColor("back10", 400, 0, 0, 800, 600, "White");
+	CreateColor("back10", 500, 0, 0, 800, 600, "White");
 	Request("back10", AddRender);
 	Fade("back10", 0, 0, null, false);
 	Fade("back10", 100, 1000, null, true);
@@ -152,6 +161,7 @@ to do&.
 	FadeStand("buセナ_制服_通常_hard", 0, true);
 
 	Fade("back10", 300, 0, null, true);
+
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -191,6 +201,8 @@ I absentmindedly contemplated Liselotte inside the screen&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
+	Move("リーゼロッテ", 13000, @0, @-120, Dxl1, false);
+
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
@@ -204,8 +216,8 @@ me&.
 I had pondered something similar before&.
 
 The world that I was currently looking at:
-Liselotte's world&, Baselard&, may have been the real thing
-to Liselotte&, but to me&, it was artificial&.
+Liselotte's world&, Baselard&, may have been the real thing to Liselotte&,
+but to me&, it was artificial&.
 
 This suggested that "the world I'm in&," which the person behind me
 gazed at&, was also something artificial&.
@@ -225,9 +237,21 @@ Would I even be able to rise from this reclining seat if "the person
 behind me" chose not to intervene&.&.&.
 
 {	CreateSE("SE10","SE_人体_動作_尻餅");
-	MusicStart("SE10", 0, 1000, 0, 1000, null, false);}
+	MusicStart("SE10", 0, 1000, 0, 1000, null, false);
+	Move("back04", 300, 0, 50, Dxl1, false);
+	Move("リーゼロッテ", 300, @0, 50, Axl1, false);
+	Fade("リーゼロッテ", 300, 0, null, true);
+	Delete("リーゼロッテ");}
 I tried standing up&.
 I met with immediate success&.
+
+{	CreateMovie("リーゼロッテ", 100, 0, -70, true, false, "dx/mvNH03.ngs");
+	Request("リーゼロッテ", Play);
+	Fade("リーゼロッテ", 0, 0, null, true);
+	Move("back04", 300, 0, 0, Axl1, false);
+	Fade("back04", 300, 0, null, true);
+	Move("リーゼロッテ", 500, 0, -120, Dxl1, false);
+	Fade("リーゼロッテ", 500, 1000, null, true);}
 This time&, I tried sitting down&. No problem&.
 
 This sequence of movements&,
@@ -239,6 +263,10 @@ I had no way to determine which was which&, and
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
+
+	Move("back04", 0, 0, 0, null, true);
+	Fade("back04", 0, 1000, null, true);
+	Delete("リーゼロッテ");
 
 //ＳＥ//ＲＯＯＭ３７の仕切り戸が開けられる
 	CreateSE("SE03","SE_日常_仕切り扉_開く");

@@ -347,8 +347,8 @@ But I couldn't stop myself&.
 [text006]
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08800180ta">
-"I&, I only wit&, witnessed it! I took away a piece&, a piece of
-evidence! But that's it!"
+"I&, I only wit&, witnessed it! I took away a piece&, a piece of evidence!
+But that's it!"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08800190ta">
@@ -379,8 +379,8 @@ FES murmured&, returning to her indifferent tone&.
 "Hah&.&.&.?"
 
 //Å¶ÇÌÇ¥Ç∆ÉXÉyÅ[ÉXäJÇØÇƒÇ‹Ç∑
-Another mental patient!?
-Another Holden Caulfield!?
+A n o t h e r   m e n t a l   p a t i e n t ! ?<k>
+A n o t h e r   H o l d e n   C a u l f i el d! ?
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/08800240ay">
@@ -738,7 +738,7 @@ It took mere seconds&.
 "Ah&.&.&. Ah&.&.&."
 
 Was this&.&.&. sleight of hand?
-Or another one delusion?
+Or another delusion?
 
 It was too distant from reality&.
 I couldn't believe what had just occured right before my eyes&.
@@ -864,8 +864,7 @@ It wasn't present in reality?
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/08800610ay">
 "Oh?"
 
-If it were a delusion&, how come I could see FES's sword right
-now&.&.&.
+If it were a delusion&, how come I could see FES's sword right now&.&.&.
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/08800620ay">
@@ -931,9 +930,7 @@ FES stood there&, wearing only white lingerie&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08800640ta">
 "Ah&.&.&. wah&.&.&. eh&.&.&.?"
 
-{	Move("back10", 500, -1600, 0, null, true);
-	/*CreateTextureEX("back11", 200, -1600, 0, "cg/ev/ev039_01_3_Ç†Ç‚Çπîíâ∫íÖ_a.jpg");
-	Fade("back11", 500, 1000, null, true);*/}
+{	Move("back10", 500, -1600, 0, null, true);}
 There was a FES beside me&.
 And there was another FES in front of the stairs&.
 
@@ -990,8 +987,7 @@ About "FES wearing white lingerie&."
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/08800660ay">
 "This is the delusion&, you wished for&."
 
-Both FES spoke at the same time&, as if they had seen right through
-me&.
+Both FES spoke at the same time&, as if they had seen right through me&.
 
 I flinched&.
 I could tell that my face was quickly turning red&.
@@ -1043,9 +1039,7 @@ FES stood there&, wearing a school swimsuit&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch04/08800670ta">
 "Ah&.&.&. wah&.&.&. eh&.&.&.?"
 
-{	Move("back10", 500, -1600, 0, null, true);
-/*	CreateTextureEX("back11", 200, -1600, 0, "cg/ev/ev039_01_3_Ç†Ç‚Çπîíâ∫íÖ_a.jpg");
-	Fade("back11", 500, 1000, null, true);*/}
+{	Move("back10", 500, -1600, 0, null, true);}
 There was a FES beside me&.
 {	Fade("back11", 500, 0, null, true);}
 And there was another FES in front of the stairs&.
@@ -1101,8 +1095,7 @@ About "FES wearing a school swimsuit&."
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/08800690ay">
 "This is the delusion&, you wished for&."
 
-Both FES spoke at the same time&, as if they had seen right through
-me&.
+Both FES spoke at the same time&, as if they had seen right through me&.
 
 I flinched&.
 I could tell that my face was quickly turning red&.

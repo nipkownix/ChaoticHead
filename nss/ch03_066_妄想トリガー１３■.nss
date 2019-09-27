@@ -313,8 +313,7 @@ no matter what&.&.&."
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch03/06600200yu">
-"It's very c<pre>u</pre>te&, but&.&.&. a little ecchi&.&.&.
-isn't it&. Ahaha&."
+"It's very c<pre>u</pre>te&, but&.&.&. a little ecchi&.&.&. isn't it&. Ahaha&."
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch03/06600210yu">
@@ -749,4 +748,3 @@ carefully observing what lay around me all the while&.
 
 
 }
-

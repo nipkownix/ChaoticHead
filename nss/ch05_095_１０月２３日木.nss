@@ -395,8 +395,8 @@ Rimi was there&, blinking at the suddenness of my movement&.
 I'm the one who was surprised&.&.&. don't scare me like that&.&.&.
 
 //僕は緊張を解き、ため息をつきながらへなへなと机に突っ伏す。
-Released from my tension&, I let out a sigh and flopped
-flat against my desk&.
+Released from my tension&, I let out a sigh and flopped flat
+against my desk&.
 
 {	Stand("bu梨深_制服_正面","sad", 200, @+150);
 	DeleteStand("bu梨深_制服_通常_shock", 500, false);
@@ -446,17 +446,16 @@ considerably&.
 //だけど――
 //その一方で、不審な点については棚上げしたままだ。
 However―
-On the other hand&, I still hadn't resolved the suspicious
-points about her&.
+On the other hand&, I still hadn't resolved the suspicious points
+about her&.
 
 //『張り付け』のときに僕が見た血まみれの彼女はなんだったのか……。
 What had been going on when I saw her covered in blood at the
 "staking"&.&.&.
 
 //僕と梨深とは１年生の頃からクラスメイトで仲がよかったらしいけど、その記憶がすっぽり抜け落ちているのはどうしてなのか……。
-We were supposed to have been friendly classmates since
-freshman year&, but why was she completely missing
-from my memory&.&.&.
+We were supposed to have been friendly classmates since freshman year&,
+but why was she completely missing from my memory&.&.&.
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch05/09500170ri">
@@ -541,12 +540,10 @@ lie&.
 Your subjective point of view can change the speed of time&.
 
 //何時間とか何秒とか単位を付けたのは、むしろその主観による変化をごまかしていて全人類の認識を均一化してやろうっていう陰謀としか思えないね。
-In fact&, I had a hard time thinking of people's attempts
-to affix standalone values to periods of time like
-seconds and hours as anything but a plot to cover up the
-
-differences in subjectively perceived time&, and thus make
-all of humanity recognize it the same way&.
+In fact&, I had a hard time thinking of people's attempts to affix
+standalone values to periods of time like seconds and hours as anything
+but a plot to cover up the differences in subjectively perceived time&,
+and thus make all of humanity recognize it the same way&.
 
 //で、主観によって時間の長さが変わるなら、逆に言えば時間の長さを自由にコントロールだってできるんじゃないだろうか。
 And supposing the length of time changes based on your subjective
@@ -648,5 +645,3 @@ All&, all right&.&.&. time to go home and check it out online&.
 	EndTrigger();
 
 }
-
-

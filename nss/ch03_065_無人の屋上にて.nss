@@ -125,8 +125,7 @@ teachers at school&.
 I couldn't go to the hospital anymore&, and now I couldn't go to
 school&. Yua was at @Cafe&, and "Shogun" appeared online&.
 
-She and her underlings were clearly venturing closer and closer to
-me&.
+She and her underlings were clearly venturing closer and closer to me&.
 And they were constantly launching psychological attacks at me&.
 
 Maybe it would be better to stop leaving my base&.
@@ -199,7 +198,6 @@ pockets&.&.&. probably&.
 [text004]
 Growing uneasy&, I searched through my pockets&.
 Wallet&, key&, cell phone&.&.&. they were all where they should be&.
-
 
 That was when I remembered that someone had called me&. I'd been
 pretty frantic at the time&, though not as much as when Rimi talked to

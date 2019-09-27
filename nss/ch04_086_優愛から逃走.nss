@@ -114,8 +114,8 @@ All right&, then I'll retreat to Miyashita Park&.&.&.!
 
 I'd take a brief break there&, then flee even further away&.
 
-If I made it to Yoyogi Park&, there'd be any number of places to
-hide&, so I could potentially spend the night there&.
+If I made it to Yoyogi Park&, there'd be any number of places to hide&,
+so I could potentially spend the night there&.
 
 I couldn't help worrying about what was behind me&.
 I couldn't spot Yua anywhere&.

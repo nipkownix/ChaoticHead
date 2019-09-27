@@ -56,8 +56,7 @@ function ch04_079_µŠC‚ÆƒCƒ^ƒYƒ‰“d˜bŠm”F()
 <PRE box00>
 [text001]
 The sound of the bell informed us that all of today's classes were
-over&. With that&, I got my things together and left the
-classroom&.
+over&. With that&, I got my things together and left the classroom&.
 
 The subtle&, uncertain sense of distance between me and Rimi made me
 anxious not to stay and I wanted to disappear from the classroom as
@@ -101,7 +100,7 @@ sinking into quicksand&.
 [text002]
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch04/07900010na">
-"B&, bro!"
+"Ah&, bro!"
 
 When I was about to leave the school building&, a most unpleasant
 person called to me&.
@@ -396,7 +395,7 @@ But Nanami yanked her hand away&, dodging me&.
 [text007]
 I don't want to hear it from you&.
 
-I forced down my anger&,held my breath and
+I forced down my anger&, held my breath and
 watched as Nanami dialed the aforementioned number&.
 
 {	CreateSE("SE01","SE_“úí_Œg‘Ñ‘€ì");

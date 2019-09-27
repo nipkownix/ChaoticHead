@@ -50,8 +50,7 @@ function ch04_092_ディソードとは()
 [text001]
 //【あやせ】
 <voice name="あやせ" class="あやせ" src="voice/ch04/09200010ay">
-"The Di-Sword&, also&, is a form of guidance brought about by that
-will&."
+"The Di-Sword&, also&, is a form of guidance brought about by that will&."
 
 When I heard those words&, I couldn't stand it any longer&.
 
@@ -260,11 +259,9 @@ around&.
 {	WaitAction("Black", null);
 	DrawTransition("Black", 1000, 1000, 0, 100, null, "cg/data/Left2.png", true);
 	Delete("Black");}
-Her form had already vanished&, leaving behind not the slightest
-trace&.
+Her form had already vanished&, leaving behind not the slightest trace&.
 
-Had she literally disappeared&, or simply walked out of the
-subway&.&.&.
+Had she literally disappeared&, or simply walked out of the subway&.&.&.
 
 Ayase had called her a "delusion&," but&.&.&.
 
@@ -296,7 +293,7 @@ being spotted by Yua or the police&.
 
 	SetVolume("SE10", 1000, 0, NULL);
 
-	ClearAll(1000);
+	ClearAll(1000); 
 
 	Wait(2000);
 

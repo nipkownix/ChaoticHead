@@ -56,8 +56,7 @@ function ch03_068_グリムとイタズラ電話考察()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-It was a custom of mine to chat with Grim a bit before starting
-ESO&.
+It was a custom of mine to chat with Grim a bit before starting ESO&.
 
 We usually didn't chat about anything important&.
 
@@ -444,8 +443,7 @@ societal hardship first-hand every once in a while&.
 {	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg026_02_3_拓巳部屋_a.jpg");
 	Fade("box01", 500, 0, null, false);
 	Fade("背景２", 500, 1000, null, true);}
-I thanked Grim&, promised to meet with him in ESO a couple hours
-later&,
+I thanked Grim&, promised to meet with him in ESO a couple hours later&,
 And closed the chat&.
 
 Right then&, my stomach gurgled&.
@@ -492,8 +490,7 @@ The sun had already set&.
 If possible&, I'd have preferred to avoid walking around after dark&.
 Because lately&, all it had given me were nasty memories&.
 
-I unthinkingly hastened my pace&, hurrying down the road to the
-store&.
+I unthinkingly hastened my pace&, hurrying down the road to the store&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

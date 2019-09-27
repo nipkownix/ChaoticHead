@@ -198,8 +198,7 @@ Researchers have already determined that fossil beds&, which contain
 particularly high levels of iron and calcium&, are another type of
 stratum wherein magnetism rebounds&.
 
-{#TIPS_マグネタイト = true;}Also&, <FONT incolor="#88abda" outcolor="BLACK">magnetite</FONT> has
-an especially strong effect on gravitation&.
+{#TIPS_マグネタイト = true;}Also&, <FONT incolor="#88abda" outcolor="BLACK">magnetite</FONT> has an especially strong effect on gravitation&.
 
 If naturally produced magnetite&, an ore that crystallizes into
 regular octahedrons&, were to be found beneath the earth in a large
@@ -234,11 +233,10 @@ areas containing the aforementioned strata&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-Around the time when Ban's explanation reached a stopping point&, the
-two of them came out on the street by Dougen Hill&.
+Around the time when Ban's explanation reached a stopping point&,
+the two of them came out on the street by Dougen Hill&.
 
-The sc<pre>e</pre>nery around them became bright and gorgeous
-all at once&.
+The sc<pre>e</pre>nery around them became bright and gorgeous all at once&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -283,6 +281,7 @@ his surprise a bit exaggeratedly&.
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
+
 
 	Stand("st護_スーツ_通常","normal", 200, @-150);
 	FadeStand("st護_スーツ_通常_normal", 300, true);
@@ -377,8 +376,7 @@ moon&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch04/09100380bn">
-"Yeah&, the thing about how they'll only lay eggs if it's a full
-moon&."
+"Yeah&, the thing about how they'll only lay eggs if it's a full moon&."
 
 {	Stand("st安二_スーツ_通常","normal", 200, @+150);
 	FadeStand("st安二_スーツ_通常_normal", 300, true);
@@ -485,8 +483,7 @@ same umbrella&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch04/09100540bn">
-"Everyone who sees that news here has by and large the same
-reaction&."
+"Everyone who sees that news here has by and large the same reaction&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch04/09100550bn">
@@ -538,13 +535,12 @@ how're we gonna use it to find the criminal?"
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch04/09100610su">
 "If incidents are happening now because of the GE rate's influence&,
-it'd be weird if they hadn't been going on for hundreds of
-years&.&.&."
+it'd be weird if they hadn't been going on for hundreds of years&.&.&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch04/09100620bn">
-"So all we've gotta do from here is have someone investigate that&. A
-specialist&."
+"So all we've gotta do from here is have someone investigate that&.
+A specialist&."
 
 {	Stand("st護_スーツ_通常","sigh", 200, @-150);
 	FadeStand("st護_スーツ_通常_sigh", 300, true);
@@ -611,8 +607,7 @@ from now on&."
 
 There was something to this city&.&.&.
 
-Something unidentified&, hidden in the depths behind its gaudy
-exterior&.
+Something unidentified&, hidden in the depths behind its gaudy exterior&.
 
 {#TIPS_パンドラの箱 = true;}Maybe it was a <FONT incolor="#88abda" outcolor="BLACK">Pandora's box</FONT> that humans mustn't touch&.
 

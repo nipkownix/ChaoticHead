@@ -100,8 +100,7 @@ For that&, I went here&, just to buy myself some time&.
 
 I felt like I'd said all kinds of harsh things to her&.
 
-Yet&, Rimi had kept smiling and continued treating me
-kindly&.
+Yet&, Rimi had kept smiling and continued treating me kindly&.
 
 If I went to school now&, she would surely start talking to me
 again&, the same as before&.
@@ -112,8 +111,7 @@ friend&.
 
 Somehow&, that eternally cheerful demeanor of hers depressed me a
 little&, but she also had an atmosphere with her that made me think
-maybe&, if I stayed with her&, I would start feeling brighter as
-well&.
+maybe&, if I stayed with her&, I would start feeling brighter as well&.
 
 With what kind of expression should I go meet her&.&.&.?
 
@@ -125,8 +123,7 @@ Misumi-kun had said that Rimi and I had got along well as classmates
 for the past year and a half&, but&.&.&. I had no memory of anything
 of the sort&.
 
-Perhaps something was going wrong with the person behind me&, after
-all&.
+Perhaps something was going wrong with the person behind me&, after all&.
 
 But was it possible for my memories of Rimi
 To disappear like that&, as if they'd been pinpointed&.&.&.

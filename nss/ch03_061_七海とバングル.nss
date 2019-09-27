@@ -57,9 +57,9 @@ Partway through&, I'd broken into a run and had kept at it ever
 since&, so I was breathing hard by the time I reached my base&.
 The cold looks from the other pedestrians had really stung&.&.&.
 
-I was impressed with Sena for being able to endure this
-embarrassment&. In a certain sense&, it made me respect her&. I stood
-no chance of following in her footsteps&.
+I was impressed with Sena for being able to endure this embarrassment&.
+In a certain sense&, it made me respect her&. I stood no chance of
+following in her footsteps&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -119,8 +119,8 @@ Could I fight with something like this?
 O&, of course I couldn't&.&.&. I couldn't do it even if I had the
 real thing&.&.&.
 
-Plus&, I hadn't understood until I tried holding it the way I was
-now&, but it was pretty heavy&. Maybe I was gripping it wrong&.
+Plus&, I hadn't understood until I tried holding it the way I was now&,
+but it was pretty heavy&. Maybe I was gripping it wrong&.
 
 In any case&, it would prove impossible to swing it around properly&.
 
@@ -268,8 +268,8 @@ you're an otaku and all&."
 	DeleteStand("buéµäC_êßïû_í èÌ_normal", 0, false);}
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch03/06100140na">
-"Before&, you were standing there hunched over&, holding it
-ready&.&.&. Pfft&, I'm gonna crack up just thinking about it&."
+"Before&, you were standing there hunched over&, holding it ready&.&.&.
+Pfft&, I'm gonna crack up just thinking about it&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/06100150ta">
@@ -302,8 +302,7 @@ to do here&.
 
 She was constantly making fun of me&, and every time she came here&,
 all she did was complain&, but if it bothered her that much&, she
-didn't have to come in the first place&. It was a hassle for me as
-well&.
+didn't have to come in the first place&. It was a hassle for me as well&.
 
 {	Stand("buéµäC_êßïû_ùXÇÀ","angry", 200, @-150);
 	FadeStand("buéµäC_êßïû_ùXÇÀ_angry", 500, false);
@@ -403,8 +402,7 @@ followed after her&.
 <voice name="éµäC" class="éµäC" src="voice/ch03/06100260na">
 "Do you have tea? Something warm would be the best&."
 
-As if I would&.&.&. Basically&, I don't drink anything besides
-Coke&.
+As if I would&.&.&. Basically&, I don't drink anything besides Coke&.
 
 {	DeleteStand("buéµäC_êßïû_í èÌ_smile", 500, false);
 	CreateSE("SE01","SE_êlëÃ_ìÆçÏ_ç¿ÇÈéµäC");
@@ -571,8 +569,7 @@ I hadn't gotten it for Nanami's sake&, to begin with&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/06100490ta">
-"I&, I have things&.&.&. to do&.&.&. D&, don't get in my
-way&.&.&."
+"I&, I have things&.&.&. to do&.&.&. D&, don't get in my way&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -126,16 +126,7 @@ selling pretty well at Harajuku's souvenir shops&, providing proof
 positive that human beings have zero interest in anyone besides
 themselves&.
 
-{	CreateColor("”wŒi‚Q", 500, 0, 0, 800, 600, "Black");
-	Fade("”wŒi‚Q", 0, 0, null, false);
-	Fade("”wŒi‚Q", 500, 1000, null, true);
-	DeleteStand("buƒZƒi_§•_H––__normal", 0, false);
-	Delete("back*");
-	CreateColor("”wŒi‚P", 100, 0, 0, 800, 600, "Black");
-	Fade("”wŒi‚P", 0, 1000, null, true);
-	Fade("”wŒi‚Q", 500, 0, null, true);
-	Delete("”wŒi‚Q");
-	CreateBG(100, 500, 0, 0, "cg/bg/bg072_01_1_ƒTƒCƒ“ƒVƒeƒB‚P‚e“ü‚èŒû_a.jpg");
+{	CreateBG(100, 500, 0, 0, "cg/bg/bg072_01_1_ƒTƒCƒ“ƒVƒeƒB‚P‚e“ü‚èŒû_a.jpg");
 	Stand("buƒZƒi_§•_H––_","normal", 200, @+200);
 	FadeStand("buƒZƒi_§•_H––__normal", 500, true);}
 Sena snorted quietly&, as though to show her contempt&, finished the
@@ -172,8 +163,7 @@ inside shops&, the announcement from the escalator explaining how to
 ride it safely&.&.&.
 
 The sounds never died out; Before one ended&, the next would
-manifest and they went on to play a multilayered and discordant
-noise&.
+manifest and they went on to play a multilayered and discordant noise&.
 
 In the midst of that noise&, Sena only paid attention to people's
 voices&.
@@ -308,8 +298,7 @@ criminal!?"
 
 //y—q‚¶‚`z
 <voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300260ja">
-"Course I haven't&. I'd have been murdered ages ago if I did&.
-Gyahaha&."
+"Course I haven't&. I'd have been murdered ages ago if I did&. Gyahaha&."
 
 //y—q‚¶‚`z
 <voice name="—q‚¶‚`" class="—q‚¶‚`" src="voice/ch04/07300270ja">
@@ -1031,8 +1020,7 @@ A "gaze" thrown at her by someone unknown&.
 
 But she couldn't seek out its true form&.
 
-Sena pushed herself away from the pillar against which she was
-leaning&.
+Sena pushed herself away from the pillar against which she was leaning&.
 
 {	Stand("buƒZƒi_§•_H––_","normal", 200, @+200);
 	FadeStand("buƒZƒi_§•_H––__normal", 300, true);

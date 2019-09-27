@@ -292,7 +292,6 @@ front of so many of his seniors&.
 <voice name="êzñK" class="êzñK" src="voice/ch03/07200310su">
 "Next is the third incident&.&.&. 'Maruyamachou staking homicide&.'"
 
-
 After a second&, the displayed slide changed to a photo of the
 "staking" crime scen<pre>e</pre>&.
 
@@ -419,8 +418,7 @@ fifteen minutes before the body's discovery&."
 
 As he listened to Suwa's explanation&, Ban clicked his tongue&.
 
-Å\This suggested that death was becoming something of a
-fashion&.&.&.
+Å\This suggested that death was becoming something of a fashion&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

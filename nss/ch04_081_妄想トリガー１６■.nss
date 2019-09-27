@@ -120,8 +120,7 @@ Hachiko was right in front of us&.
 There were a lot of people all around us&.
 It'd be downright suicidal of Sena to kill me in broad daylight&.
 
-I took a deep breath&, made up my mind and stepped inside the
-streetcar&.
+I took a deep breath&, made up my mind and stepped inside the streetcar&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -223,8 +222,7 @@ When had this door closed?
 Who had closed it?
 
 I didn't think it was the kind to open and shut automatically&.
-Besides&, even automatic doors make some kind of noise when they
-close&.
+Besides&, even automatic doors make some kind of noise when they close&.
 
 Sena&, still settled down in her seat&, didn't budge an inch&.
 
@@ -311,8 +309,7 @@ if($妄想トリガー１６ == 0)
 I unthinkingly stopped in place&.
 
 Her tone made it clear that this was an order&.
-On top of that&, she spoke almost as if this streetcar belonged to
-her&.
+On top of that&, she spoke almost as if this streetcar belonged to her&.
 
 Of course&, I had no intention of going inside&.
 
@@ -339,8 +336,7 @@ She freaked me out&.&.&.
 But if I showed her even the littlest hint of docility&, she'd keep
 pushing the envelope&.
 
-In the past&, I'd gotten in squabbles with delinquents countless
-times&.
+In the past&, I'd gotten in squabbles with delinquents countless times&.
 
 In such situations&, the best thing to do is to run away&.
 
@@ -439,8 +435,7 @@ incomprehensible question&.
 {	Stand("buセナ_制服_食事","sigh", 200, @+200);
 	FadeStand("buセナ_制服_食事_sigh", 300, true);
 	DeleteStand("buセナ_制服_食事_normal", 0, true);}
-When I shook me head&, baffled&, Sena's expression became even
-harsher&.
+When I shook me head&, baffled&, Sena's expression became even harsher&.
 
 {	Stand("buセナ_制服_食事かじる","sigh", 200, @+200);
 	DeleteStand("buセナ_制服_食事_sigh", 500, false);
@@ -589,8 +584,7 @@ were coming in this streetcar?
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100160sn">
-"Because all things&.&.&. people included&, are electronic
-devices&."
+"Because all things&.&.&. people included&, are electronic devices&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -624,8 +618,8 @@ Try thinking about it a little harder&.
 The high and mighty people of the world clearly have the mentalities
 of rebellious and self-centered adolescents&.
 
-Over a hundred years ago&, the Wright brothers had seriously
-believed&, "We can fly in the sky&."
+Over a hundred years ago&, the Wright brothers had seriously believed&,
+"We can fly in the sky&."
 
 Napoleon boasted&, "The word impossible is not in my dictionary&."
 
@@ -664,8 +658,7 @@ through their vision&."
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100190sn">
 "And the images they acquire via their sight become electrical action
-potentials&, travel through their nerves and are sent to their
-brain&."
+potentials&, travel through their nerves and are sent to their brain&."
 
 I thought absentmindedly that it was similar to a telephone&.
 
@@ -721,15 +714,13 @@ of a filming device similar to a video camera&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100260sn">
-"You look as though you're wondering how&. But the mechanism is
-simple&."
+"You look as though you're wondering how&. But the mechanism is simple&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100270sn">
-{#TIPS_神経パルス = true;}"What it boils down to is that the film
-captured by a video camera&, as well as the pulses of <FONT
-incolor="#88abda" outcolor="BLACK">action potential</FONT>
-that flow
+{#TIPS_神経パルス = true;}"What it boils down to is that the film captured by a video camera&,
+as well as the pulses of <FONT
+incolor="#88abda" outcolor="BLACK">action potential</FONT> that flow
 through your brain&, are both composed of electrical signals&."
 
 //【セナ】
@@ -775,8 +766,8 @@ neural pulses―"
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100320sn">
-"Would not it also be possible to control all of people's five
-senses&, as well as&, their free will itself?"
+"Would not it also be possible to control all of people's five senses&,
+as well as&, their free will itself?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch04/08100330ta">
@@ -817,8 +808,7 @@ She dumbfounded me&.
 
 She was far&, far more delusional than the likes of me or Yua&.
 
-What she said sounded kind of logical&, but wasn't it obviously made
-up?
+What she said sounded kind of logical&, but wasn't it obviously made up?
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch04/08100370sn">
@@ -922,8 +912,8 @@ if($電車の扉閉まる == true)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text019]
-The door at the entrance had opened silently&, without me realizing
-it&, the same way as the moment it closed&.
+The door at the entrance had opened silently&, without me realizing it&,
+the same way as the moment it closed&.
 
 I felt as though I had been deceived by some trickster spirit&.
 
@@ -986,8 +976,7 @@ compartment&.
 {	CreateSE("SE01","SE_日常_雑踏01");
 	MusicStart("SE01", 500, 1000, 0, 1000, null, true);}
 And after them followed a trio of obviously delinquent kogals&,
-and then an aging older man&, and even a young&, suit-wearing
-salaryman&.
+and then an aging older man&, and even a young&, suit-wearing salaryman&.
 
 In practically an instant&, the streetcar became cramped&.
 

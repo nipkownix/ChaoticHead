@@ -262,8 +262,8 @@ Hugging herself&, she made a show of shuddering&.
 	DeleteStand("bu—œ[_§•_’Êí_rage", 0, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800230ri">
-"But how do I put it&, it's not like I don't have some pride as a
-girl&, you know?"
+"But how do I put it&, it's not like I don't have some pride as a girl&,
+you know?"
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800240ri">
@@ -338,8 +338,7 @@ I unthinkingly let out a rueful smile&.
 
 Haa&, but somehow&, even though it was a trivial conversation&, it was
 amazingly fun&.
-Before now&, I'd almost never had this kind of conversation with a
-girl&.
+Before now&, I'd almost never had this kind of conversation with a girl&.
 
 I didn't know why&, but I had the feeling that I'd get along well with
 Rimi&.
@@ -383,8 +382,7 @@ each passing moment&.
 	FadeStand("bu—œ[_§•_’Êí_smile", 500, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800360ri">
-"Tahaha&, it's embarrassing&.&.&. being told that right to my
-face&.&.&."
+"Tahaha&, it's embarrassing&.&.&. being told that right to my face&.&.&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800370ri">
@@ -468,11 +466,10 @@ Rimi&, who had kept her mouth shut up until now&, began speaking to me
 at last&, in a somewhat timid tone&.
 
 But it came out of the blue&, leaving me unable to show any reaction&.
-If I were in Rimi's shoes&, I'd probably feel like I was being
-ignored&.
+If I were in Rimi's shoes&, I'd probably feel like I was being ignored&.
 
-In my heart&, I knew things shouldn't go on like this&, but in the
-end&, I couldn't do anything&.
+In my heart&, I knew things shouldn't go on like this&, but in the end&,
+I couldn't do anything&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800420ri">
@@ -702,9 +699,8 @@ disliked her&.
 <voice name="OZ" class="OZ" src="voice/ch04/07800590mi">
 "uh huh&."
 
-That was when Misumi-kun&, who was supposed to have been hanging
-around the transfer student&, came back&. He looked at me with pitying
-eyes&.
+That was when Misumi-kun&, who was supposed to have been hanging around
+the transfer student&, came back&. He looked at me with pitying eyes&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch04/07800600mi">
@@ -805,11 +801,10 @@ Rimi&, who had kept her mouth shut up until now&, began speaking to me
 at last&, in a somewhat timid tone&.
 
 But it came out of the blue&, leaving me unable to show any reaction&.
-If I were in Rimi's shoes&, I'd probably feel as if I was being
-ignored&.
+If I were in Rimi's shoes&, I'd probably feel as if I was being ignored&.
 
 In my heart&, I knew things shouldn't go on like this&, but in the
-end&, I couldn't do anything&.
+I couldn't do anything&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800690ri">
@@ -976,8 +971,7 @@ went pure white&.
 //Ÿ¬º
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch04/07800750ri">
-"I was pretty worried&.&.&. about whether you'd gotten home
-safely&."
+"I was pretty worried&.&.&. about whether you'd gotten home safely&."
 
 I nodded desperately&, over and over&.
 
@@ -1097,8 +1091,8 @@ still didn't attempt to say anything&.
 For some reason&, the transfer student left a Band-Aid on the edge of
 my desk&.
 
-It was a fancy bandage&, one with an absurd-looking
-character&, a "Gero-froggy" depicted on it&.
+It was a fancy bandage&, one with an absurd-looking character&,
+a "Gero-froggy"&, depicted on it&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/07800830ta">

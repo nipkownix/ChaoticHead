@@ -248,8 +248,7 @@ She hung her head&, growing more timid with every passing moment&.
 "Farewell&.&.&. Nishijou-kun&.&.&."
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 500, true);}
-Pulling away from me&, she turned her back to me with sagging
-shoulders&.
+Pulling away from me&, she turned her back to me with sagging shoulders&.
 
 She left the room with faltering footsteps&.
 
@@ -581,8 +580,7 @@ She was quite the actress&.&.&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500340yu">
-"No&, b&, but&, I understand why you would avoid me&.&.&.
-Nishijou-kun&.&.&."
+"No&, b&, but&, I understand why you would avoid me&.&.&. Nishijou-kun&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500350yu">
@@ -736,8 +734,7 @@ Struck by the perfect ambush&, my mind had gone blank&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500450yu">
-"No&, b&, but&, I understand why you would avoid me&.&.&.
-Nishijou-kun&.&.&."
+"No&, b&, but&, I understand why you would avoid me&.&.&. Nishijou-kun&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500460yu">
@@ -809,8 +806,7 @@ Shibuya&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500580yu">
-"The log of the chat between Neidhardt&.&.&. between you and
-'Shogun&.'"
+"The log of the chat between Neidhardt&.&.&. between you and 'Shogun&.'"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -893,8 +889,7 @@ In short&.&.&. what?
 Suddenly&, I noticed&.
 Yua's hands were trembling&.
 
-No&, either that&, or had my own trembling simply passed into her
-hands?
+No&, either that&, or had my own trembling simply passed into her hands?
 
 As I puzzled over this&, outrageous words fell from Yua's lips\
 
@@ -960,8 +955,7 @@ Indifferent to my bafflement&, Yua continued speaking&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500730yu">
-"If I couldn't&, then I thought&.&.&. with my own hands&,
-I'd&.&.&."
+"If I couldn't&, then I thought&.&.&. with my own hands&, I'd&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch04/08500740yu">
@@ -1066,8 +1060,7 @@ Yua and went there with her!
 
 I won't believe her!
 
-wontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveher
-wontbelieveherwontbelieveherwontbelieveher
+wontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveherwontbelieveher
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

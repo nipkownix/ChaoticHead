@@ -39,11 +39,9 @@ function ch03_069_ñ≥êlÇÃäX()
 <PRE box00>
 [text001]
 Today is Saturday&, so I would've expected to cross paths with any
-number of pedestrians&, but so far&, I hadn't encountered a single
-one&.
+number of pedestrians&, but so far&, I hadn't encountered a single one&.
 
-The stores that were always open had been closed&. It was a tad
-strange&.
+The stores that were always open had been closed&. It was a tad strange&.
 
 Maybe I was under the wrong impression&.
 Like thinking it was 7 PM&, when in actuality it was around 2 AM&.
@@ -81,8 +79,7 @@ The sudden absence of something I had taken for granted: that alone
 was enough to give me the sense that I'd fallen into another world&.
 
 Under ordinary circumstances&, I skirted away from meeting with and
-talking to people&, but right now I just wanted to see someone's
-face&.
+talking to people&, but right now I just wanted to see someone's face&.
 
 I ran inside the convenience store&.
 There absolutely had to be a clerk in hereÅ\

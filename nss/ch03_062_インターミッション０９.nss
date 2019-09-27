@@ -57,8 +57,7 @@ function ch03_062_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚O‚X()
 [text001]
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200010nr">
-"The First Melt has ended with results that surpass our
-expectations&."
+"The First Melt has ended with results that surpass our expectations&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200020nr">
@@ -69,8 +68,7 @@ our initial calculations&."
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch03/06200030ih">
 "Are our attempts at {#TIPS_ƒoƒCƒIƒŠƒYƒ€ = true;}<FONT
-incolor="#88abda" outcolor="BLACK">biorhythm</FONT> control also
-proceeding smoothly?"
+incolor="#88abda" outcolor="BLACK">biorhythm</FONT> control also proceeding smoothly?"
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200040nr">
@@ -126,8 +124,7 @@ that remains is extraction&."
 //¦u_Œõ‚Ì‹~‚¢‚ ‚êv“V¬_Œõ‰ï‚Ì‹³‹`‚Ì‚æ‚¤‚È‚à‚ÌBÅI“I‚É•šü‚Æ‚µ‚Äg‚¢‚Ü‚·
 //y‘qz
 <voice name="‘q" class="‘q" src="voice/ch03/06200140kr">
-"May the divine light save you&. Henceforth&, carry on with
-precaution&."
+"May the divine light save you&. Henceforth&, carry on with precaution&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch03/06200150nr">

@@ -128,14 +128,13 @@ it&.&.&.
 [text501]
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000020ay">
-"In Japan&.&.&. No&, even if you searched the whole world&, you
-wouldn't find many other places like this one&."
+"In Japan&.&.&. No&, even if you searched the whole world&,
+you wouldn't find many other places like this one&."
 
 Did this have anything to do with the Di-Swords?
 If it didn't&, I wasn't interested&.
 
-I had to find some way of asking FES how to acquire a real
-Di-Sword&.&.&.
+I had to find some way of asking FES how to acquire a real Di-Sword&.&.&.
 
 {	Fade("back03", 500, 0, null, true);}
 //ÅyÇ†Ç‚ÇπÅz
@@ -173,8 +172,8 @@ both of them imposters&.&.&.
 [text002]
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000060ay">
-"It's a code carved in the minds of all Japanese&. That this is 'the
-city of young people&.'"
+"It's a code carved in the minds of all Japanese&. That this is
+'the city of young people&.'"
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000070ay">
@@ -247,8 +246,7 @@ But when I heard FES's next words&, that ceased to be an option&.
 {	Fade("back03", 500, 0, null, true);}
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000160ay">
-"The Di-Sword&, too&, is a form of guidance brought about by that
-will&."
+"The Di-Sword&, too&, is a form of guidance brought about by that will&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -316,14 +314,13 @@ it&.&.&.
 [text604]
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000180ay">
-"In Japan&.&.&. No&, even if you searched the whole world&, you
-wouldn't find many other places like this one&."
+"In Japan&.&.&. No&, even if you searched the whole world&,
+you wouldn't find many other places like this one&."
 
 Did this have anything to do with the Di-Swords?
 If it didn't&, I wasn't interested&.
 
-I had to find some way of asking FES how to acquire a real
-Di-Sword&.&.&.
+I had to find some way of asking FES how to acquire a real Di-Sword&.&.&.
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000190ay">
@@ -358,8 +355,8 @@ both of them imposters&.&.&.
 [text005]
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000220ay">
-"It's a code carved in the minds of all Japanese&. That this is 'the
-city of young people&.'"
+"It's a code carved in the minds of all Japanese&. That this is
+'the city of young people&.'"
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000230ay">
@@ -431,8 +428,7 @@ But when I heard FES's next words&, that ceased to be an option&.
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000320ay">
-"The Di-Sword&, too&, is a form of guidance brought about by that
-will&."
+"The Di-Sword&, too&, is a form of guidance brought about by that will&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -486,8 +482,7 @@ wouldn't find many other places like this one&."
 Did this have anything to do with the Di-Swords?
 If it didn't&, I wasn't interested&.
 
-I had to find some way of asking FES how to acquire a real
-Di-Sword&.&.&.
+I had to find some way of asking FES how to acquire a real Di-Sword&.&.&.
 
 {	DeleteStand("buÇ†Ç‚Çπ_êßïû_í èÌ_normal", 500, true);
 	Stand("buÇ†Ç‚Çπ_ÉXÉeÅ[ÉWàﬂëï_ïêäÌç\Ç¶ê¬","normal", 200, @+150);
@@ -530,8 +525,8 @@ both of them imposters&.&.&.
 [text008]
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000380ay">
-"It's a code carved in the minds of all Japanese&. That this is 'the
-city of young people&.'"
+"It's a code carved in the minds of all Japanese&. That this is
+'the city of young people&.'"
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000390ay">
@@ -616,8 +611,7 @@ But when I heard FES's next words&, that ceased to be an option&.
 	FadeStand("buÇ†Ç‚Çπ_ÉXÉeÅ[ÉWàﬂëï_ïêäÌç\Ç¶ê¬_normal", 500, true);}
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch04/09000480ay">
-"The Di-Sword&, too&, is a form of guidance brought about by that
-will&."
+"The Di-Sword&, too&, is a form of guidance brought about by that will&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

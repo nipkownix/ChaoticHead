@@ -148,8 +148,7 @@ It hurt no matter how much air I sucked in&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-As I ran down Dougen Hill&, I finally caught sight of the 107
-building&.
+As I ran down Dougen Hill&, I finally caught sight of the 107 building&.
 
 By now&, my legs had gone unsteady&.
 My body felt astoundingly heavy&.
@@ -345,8 +344,7 @@ A short distance away from me―though still
 In the middle of the crossing―he sat quietly in place&.
 
 At the moment&, I couldn't tell quite how old he was&. Going by the
-size of his body&, he could only have been an elementary school
-student&.
+size of his body&, he could only have been an elementary school student&.
 
 Because his hat was pulled down low over his eyes&, I couldn't see
 much of his expression&.
@@ -517,8 +515,7 @@ And his body was as small as a child's&.&.&.
 	Fade("回想フラッシュ", 100, 1000, null, true);
 	Fade("回想フラッシュ", 3000, 0, null, true);}
 For a second&, I forgot to breathe&.
-My head rocked with an impact akin to that of being struck by a
-hammer&.
+My head rocked with an impact akin to that of being struck by a hammer&.
 The ground shook&.
 
 No&, my body was tilting&.
@@ -664,8 +661,7 @@ Whose voice was this?
 	SoundPlay("SE04", 3000, 0, false);
 	SoundPlay("SE06", 3000, 0, false);
 	SetVolume("SE05", 3000, 1000, NULL);}
-The thing that had been a noise gradually transmuted into a real
-voice&.
+The thing that had been a noise gradually transmuted into a real voice&.
 Someone had placed a gentle hand on my shoulder&.
 
 //【通行人Ａ】
@@ -933,8 +929,7 @@ come from here and there&.
 Myriad cars pointed their headlights at us and began blaring their
 horns&.
 
-Rimi took a firm grip on my hand and began running toward the
-sidewalk&.
+Rimi took a firm grip on my hand and began running toward the sidewalk&.
 I followed in her wake as she pulled me&.
 
 </PRE>
@@ -955,8 +950,7 @@ I followed in her wake as she pulled me&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text019]
-As the honking horns scattered across us&, we made it to the
-sidewalk&.
+As the honking horns scattered across us&, we made it to the sidewalk&.
 Rimi let out a relieved breath and pulled up short&.
 
 She was still holding my hand&.
@@ -1027,8 +1021,7 @@ I walked off&, winding my way through the hordes of people&.
 <voice name="梨深" class="梨深" src="voice/ch03/07100580ri">
 "Ah&, then I'll take you back&. You're not feeling well&, are you?"
 
-Her voice followed me from behind&, but I shook my head to refuse
-her&.
+Her voice followed me from behind&, but I shook my head to refuse her&.
 
 {	Stand("bu梨深_制服_正面","sad", 200, @-10);
 	FadeStand("bu梨深_制服_正面_sad", 300, true);

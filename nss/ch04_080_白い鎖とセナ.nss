@@ -41,8 +41,7 @@ function ch04_080_白い鎖とセナ()
 I really liked an artist named "Azuma Matasema&."
 
 Azuma Matasema was a really famous artist&, and long&, snaking lines
-invariably formed at all the events his doujin circle participated
-in&.
+invariably formed at all the events his doujin circle participated in&.
 
 The Burachu doujin he'd released this summer had sold out in the blink
 of an eye&.
@@ -91,8 +90,7 @@ into the store&.
 
 I kept my eyes peeled and searched the doujinshi corner&.
 
-I made countless round trips and looked again and again&, just in
-case&.
+I made countless round trips and looked again and again&, just in case&.
 
 But―
 
@@ -197,8 +195,8 @@ Di-Sword in hand&.
 
 Wasn't she mortified to be carrying such a huge sword?
 
-Rather&, the police must've taken her in for questioning at least
-once&. No doubt about it&.
+Rather&, the police must've taken her in for questioning at least once&.
+No doubt about it&.
 
 {	DeleteStand("stセナ_制服_横向剣持ち青_normal", 500, true);}
 As I continued on that train of thought&, Sena's form went steadily
@@ -278,9 +276,8 @@ Right then&, the lights of the scramble crossing turned green&.
 Huge numbers of people rushed into the crossing in all directions&.
 It became a little chaotic&.
 
-I thought it was kind of amazing that all these people could go
-in whichever direction they wanted&, without bumping into
-each other&.
+I thought it was kind of amazing that all these people could go in
+whichever direction they wanted&, without bumping into each other&.
 
 Seeing this&, I became well aware of how unrealistic my delusion of
 the empty pedestrian scramble had been&, the one from two days ago&.
@@ -445,8 +442,7 @@ up until now&.
 
 There was a single figure within the empty-seeming compartment&.
 
-Aoi Sena sat cross-legged on one of the streetcar's wine-colored
-seats&.
+Aoi Sena sat cross-legged on one of the streetcar's wine-colored seats&.
 
 Her sharp gaze captured me firmly&.
 

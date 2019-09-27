@@ -172,13 +172,13 @@ settings&.
 I know that much!
 Should I hurry up and answer it?
 
-But if I did&, Misumi-kun would know I'd only been pretending to
-sleep&. Besides&, I don't like talking on the phone&.&.&.
+But if I did&, Misumi-kun would know I'd only been pretending to sleep&.
+Besides&, I don't like talking on the phone&.&.&.
 
 Except&, if I didn't pick up&, it would bother the rest of the class&.
 Judging by how my ringtone was reverberating through the classroom
-right now&, things were pretty damn bad&. I wasn't supposed to stand
-out; this was incredibly bad&.&.&.
+right now&, things were pretty damn bad&. I wasn't supposed to stand out;
+this was incredibly bad&.&.&.
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/06400050mi">
@@ -188,8 +188,7 @@ out; this was incredibly bad&.&.&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch03/06400060ta">
 "&.&.&.&.&.&.&."
 
-Shit&, while I wavered over what to do&, I'd completely lost my
-chance&.
+Shit&, while I wavered over what to do&, I'd completely lost my chance&.
 I couldn't move&.&.&.
 
 </PRE>
@@ -256,8 +255,7 @@ From close by Misumi-kun&.
 <voice name="óúê[" class="óúê[" src="voice/ch03/06400100ri">
 "Dunno why&, but he seems tired&."
 
-She was in this classroom as though it were natural for her to be
-here&.
+She was in this classroom as though it were natural for her to be here&.
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch03/06400110mi">
@@ -476,8 +474,7 @@ Get along with her&, okay?"
 
 //ÅyíSîCÅz
 <voice name="íSîC" class="íSîC" src="voice/ch03/06400250tn">
-"Orihara&, your seat's the furthest back&. It's okay to sit down
-now&."
+"Orihara&, your seat's the furthest back&. It's okay to sit down now&."
 
 //ÅyèΩÅz
 <voice name="èΩ" class="èΩ" src="voice/ch03/06400260ko">
@@ -588,8 +585,7 @@ Was I becoming popular with girls&, after all?
 
 Or elseÅ\
 
-Was that transfer student&, too&, one of the demon girl's
-subordinates?
+Was that transfer student&, too&, one of the demon girl's subordinates?
 If so&, the dragnet had tightened around me yet again&.
 I was in the midst of running out of places to flee toÅ\
 
@@ -732,8 +728,7 @@ and propped her chin up on her hands&. She took a peek at my face&.
 
 I desperately averted my eyes&.
 Dammit&, she seemed determined not to let me escape&.
-My anxiety threatened to tear open my heart&. Somebody&, save
-me&.&.&.
+My anxiety threatened to tear open my heart&. Somebody&, save me&.&.&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch03/06400380ri">

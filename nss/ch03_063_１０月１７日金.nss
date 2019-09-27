@@ -117,8 +117,8 @@ the land&.
 [text002]
 For exampleÅ\
 
-It wasn't unthinkable that the person behind me might&, by some
-chance&, happen to lose some of the experience points he'd build up&.
+It wasn't unthinkable that the person behind me might&, by some chance&,
+happen to lose some of the experience points he'd build up&.
 
 Then maybe it would be all too natural for me to forget things I'd
 known&. Maybe the fuzziness in my memories could be traced back to the
