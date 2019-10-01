@@ -177,8 +177,7 @@ Because there had not been anything like a flowerbed down there&.
 Until the instant before Ayase fell&, that place had been the paved
 asphalt of a parking lot&. Several teachers' cars were parked there&.
 
-Despite that&, why&, in a single second&, had a flowerbed
-"manifested"&.&.&.
+Despite that&, why&, in a single second&, had a flowerbed "manifested"&.&.&.
 
 Had I done it&.&.&.?
 
@@ -186,8 +185,7 @@ Even in the midst of being upset over it&, I'd envisioned that maybe
 "there was a flowerbed beneath her"&.&.&.
 
 But&, just because of that&.&.&.
-Could a split-second delusion like that&.&.&. actually become
-reality&.&.&.
+Could a split-second delusion like that&.&.&. actually become reality&.&.&.
 
 I'd wondered if I had some kind of special power&, and I'd undergone
 the similar experience of witnessing Ayase divide in two&, but&.&.&.

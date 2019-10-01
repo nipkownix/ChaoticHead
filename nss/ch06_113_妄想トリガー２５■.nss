@@ -214,8 +214,7 @@ Rimi turned back and gave me a kind smile&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300040ri">
-"Say it that way&, and you'll be surprised by how fast they pull
-back&."
+"Say it that way&, and you'll be surprised by how fast they pull back&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/11300050ta">
@@ -308,8 +307,8 @@ The tone of his last line was all too clearly different&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300110ri">
-"I'm sorry&, you must've been calling me&. I was right on my way
-here&, so I couldn't pick up&."
+"I'm sorry&, you must've been calling me&. I was right on my way here&,
+so I couldn't pick up&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300120ri">
@@ -406,8 +405,8 @@ And embraced her head&.
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300260ri">
 "Uu&, uuh&.&.&. it hurts&.&.&. like it's&.&.&. gonna split&.&.&."
 
-Rimi collapsed in place as if she couldn't hold out any longer&. She
-shook her head unwillingly&.
+Rimi collapsed in place as if she couldn't hold out any longer&.
+She shook her head unwillingly&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300270ri">
@@ -449,8 +448,7 @@ Was "Shogun" attacking!?
 //Ÿ‹ê’É
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch06/11300290ri">
-"It hurts ithurtsithurtsithurts! It's breaking! It's gonna
-break&.&.&.!"
+"It hurts ithurtsithurtsithurts! It's breaking! It's gonna break&.&.&.!"
 
 {	CreateColor("F‚P", 100, 0, 0, 800, 600, "Red");
 	Fade("F‚P", 0, 1000, null, true);
@@ -861,7 +859,7 @@ possibly looked like&.
 
 Goosebumps stood up all over me&, and revulsion heightened my nausea&.
 
-I covered my eyes hard&.
+I covered my ears hard&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/11300480ta">
@@ -1020,8 +1018,8 @@ if($–Ï‘zƒgƒŠƒK[‚Q‚T == 0)
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text022]
-Up until now&, Rimi would emerge with ideal timing if I murmured
-that&. But my call didn't go through&.&.&.
+Up until now&, Rimi would emerge with ideal timing if I murmured that&.
+But my call didn't go through&.&.&.
 
 The fake Di-Sword&, which lay tumbled in a corner of the room&, caught
 my eye&.

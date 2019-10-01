@@ -368,8 +368,7 @@ If so&, I had to escape&.&.&.
 	FadeStand("buセナ_制服_横向_think", 500, true);}
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch06/11900220sn">
-"If you don't have any relationship with them&, that's fine&.
-Sorry&.&.&."
+"If you don't have any relationship with them&, that's fine&. Sorry&.&.&."
 
 {	DeleteStand("buセナ_制服_横向_think", 500, true);}
 Seeing my bewildered face&, Sena clicked her tongue lightly and let
@@ -760,8 +759,7 @@ If so&, I had to escape&.&.&.
 	FadeStand("buセナ_制服_横向_think", 500, true);}
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch06/11900490sn">
-"If you don't have any relationship with them&, that's fine&.
-Sorry&.&.&."
+"If you don't have any relationship with them&, that's fine&. Sorry&.&.&."
 
 {	DeleteStand("buセナ_制服_横向_think", 500, true);}
 Seeing my bewildered face&, Sena clicked her tongue lightly and let
@@ -926,8 +924,7 @@ She clicked her tongue lightly and let out a sigh&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch06/11900610sn">
-"Sorry&. If you don't have any relationship with them&, that's
-fine&."
+"Sorry&. If you don't have any relationship with them&, that's fine&."
 
 {	DeleteStand("buセナ_制服_横向_think", 300, true);}
 Muttering in a disinterested way that really didn't make it sound as
@@ -974,12 +971,10 @@ to me&.
 
 Sena knew something&.
 
-She'd referred to the flowerbed&, saying "You created it&, didn't
-you&."
+She'd referred to the flowerbed&, saying "You created it&, didn't you&."
 
 Everyone on the spot aside from me had acknowledged the flowerbed as
-"something that had been there from the start&." But Sena was
-different&.
+"something that had been there from the start&." But Sena was different&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch06/11900640ta">
@@ -1047,14 +1042,12 @@ numbers&. 0&, 1&, and -1&."
 <voice name="セナ" class="セナ" src="voice/ch06/11900730sn">
 "But you did it without a Di-Sword&.&.&."
 
-Sh&, she'd started saying things that went straight over my head
-again&.
+Sh&, she'd started saying things that went straight over my head again&.
 
 No&, but―
 What Sena told me wasn't merely a flight of fancy&.
 
-At least&, the patent for VR technology had turned out to be
-fact&.&.&.
+At least&, the patent for VR technology had turned out to be fact&.&.&.
 Sena really did know something&.&.&.
 
 </PRE>

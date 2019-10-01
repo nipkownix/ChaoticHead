@@ -73,8 +73,8 @@ function ch06_115_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚Q‚Q()
 Kishimoto Ayase felt the wind&.
 
 A chilly wind had begun to carry with it a faint hint of winter&. As
-she entrusted her body to the wind&, her expression was very
-anguished&, and drops of sweat rolled down her cheeks&.
+she entrusted her body to the wind&, her expression was very anguished&,
+and drops of sweat rolled down her cheeks&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
@@ -137,8 +137,8 @@ the ruckus below had nothing to do with her&. It appeared&, in fact&,
 as if she were deliberately attempting to sever anything tying her
 interest to the world below&.
 
-Raising her chin to look up at the sky&, she closed both eyes&. She
-resembled a shrine maiden praying to heaven&.
+Raising her chin to look up at the sky&, she closed both eyes&.
+She resembled a shrine maiden praying to heaven&.
 
 Perhaps because she had a good sense of balance&, her body didn't
 waver whatsoever in the small wind&.
@@ -165,8 +165,8 @@ approximately as tall as she was&, in her right hand&.
 
 That sword\her Di-Sword\was radiating a pale light&, blinking
 painfully on and off&. As though synchronizing with its blinking&,
-agonized sighs fell from Ayase's lips&.&.&. and a weak&, thin
-whisper came leaking out with them&.
+agonized sighs fell from Ayase's lips&.&.&. and a weak&, thin whisper
+came leaking out with them&.
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
@@ -197,8 +197,7 @@ over Shibuya's clustered buildings&.
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500150ay">
-"Even if I close my eyes&, even if I cover my ears&, it does no
-good&.&.&."
+"Even if I close my eyes&, even if I cover my ears&, it does no good&.&.&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
@@ -270,8 +269,8 @@ wind&.
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch06/11500240ay">
-"Neither door to Heaven&, nor wise man&, nor hand of guidance&, nor
-seven forms of divine punishment&."
+"Neither door to Heaven&, nor wise man&, nor hand of guidance&,
+nor seven forms of divine punishment&."
 
 //Ÿ‹ê‚µ‚°
 //y‚ ‚â‚¹z

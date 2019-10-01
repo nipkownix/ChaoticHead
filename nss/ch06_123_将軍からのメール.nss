@@ -49,8 +49,7 @@ The earthquake concerned me&, but I was even more preoccupied with
 thoughts of "Shogun&."
 
 Though my migraine had mostly gone away&, anxiety continued to
-dominate my head&, and being alone made me grow more and more
-depressed&.
+dominate my head&, and being alone made me grow more and more depressed&.
 
 I had yet to receive any form of contact from Rimi&.
 
@@ -67,8 +66,8 @@ elude my insecurity&.
 
 I'd start by fixing my email configuration from the ground up&.
 
-Since I hadn't touched it since I first tweaked the settings&, I
-didn't remember how I liked to have everything arranged&.
+Since I hadn't touched it since I first tweaked the settings&,
+I didn't remember how I liked to have everything arranged&.
 
 I had to begin by finding the instructions for my email software and
 ISP&.
@@ -197,8 +196,7 @@ I groaned without thinking&.
 What was this&.&.&.
 Was Nanami pulling my leg?
 
-If so&, that'd make her lowest of the low&. I'm gonna beat her to
-death&.
+If so&, that'd make her lowest of the low&. I'm gonna beat her to death&.
 
 &.&.&.No&, wait a sec&.
 
@@ -271,8 +269,7 @@ For the time being&, I decided to read the contents&.
 But&.&.&.
 What if "Shogun" were "recording my thoughts"&.&.&.?
 
-Extracting my email address&.&.&. might be easy as pie for
-him&.&.&.
+Extracting my email address&.&.&. might be easy as pie for him&.&.&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12300100ta">
@@ -355,8 +352,7 @@ made it sound like a game&.&.&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12300110ta">
-"I&, I&, I'm&, I'm not&.&.&. a hero&.&.&. I'm not&.&.&.
-Neidhardt&.&.&."
+"I&, I&, I'm&, I'm not&.&.&. a hero&.&.&. I'm not&.&.&. Neidhardt&.&.&."
 
 I'd get murdered right off the bat&.&.&.
 
@@ -566,8 +562,7 @@ Whose
 Phone
 Was ringing?
 
-In terms of the timing&.&.&. no matter how I thought about
-it&.&.&.
+In terms of the timing&.&.&. no matter how I thought about it&.&.&.
 
 I shook my head&.
 

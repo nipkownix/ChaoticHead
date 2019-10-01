@@ -76,8 +76,7 @@ earthquake in particular had produced a bizarrely large number of
 casualties&.
 
 Its strangeness was especially apparent when one compared it to the
-magnitude 5 earthquake in 2005&, which had resulted in zero
-casualties&.
+magnitude 5 earthquake in 2005&, which had resulted in zero casualties&.
 
 {	CreateTextureEX("”wŒi‚R", 100, 0, 0, "cg/bg/bg085_03_0_ƒXƒNƒ‰ƒ“ƒuƒ‹Œğ·“__a.jpg");
 	Fade("”wŒi‚R", 1000, 1000, null, true);}
@@ -120,8 +119,7 @@ In any case&, all the individual stations began broadcasting special
 programming almost as soon as the earthquake started&.
 
 Information was currently complicated&, and though the full count
-remained unclear&, the female newscaster read off her notes&,
-stating:
+remained unclear&, the female newscaster read off her notes&, stating:
 
 "According to an announcement by the Fire and Disaster
 Management Agency&, thirty-one fatalities have been confirmed at
@@ -133,9 +131,8 @@ that had attacked Shibuya&, and the ensuing shock wave and the
 transformation of the sky from blue to white&.
 
 The cameras affixed at regular points throughout Shibuya's pedestrian
-scramble had caught that light on tape&, and the jumbotron kept
-playing a film where the screen went completely white as the
-earthquake ended&.
+scramble had caught that light on tape&, and the jumbotron kept playing
+a film where the screen went completely white as the earthquake ended&.
 
 The discoloration that had begun together with the earthquake had at
 first been more of a searing light than simply white&.

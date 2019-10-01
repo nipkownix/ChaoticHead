@@ -142,8 +142,7 @@ discovered&, only destruction would await us&."
 
 //ÅyëqéùÅz
 <voice name="ëqéù" class="ëqéù" src="voice/ch06/11700180kr">
-"Your duty is to proceed as planned; nothing more&, and nothing
-less&."
+"Your duty is to proceed as planned; nothing more&, and nothing less&."
 
 //Åyíñï@Åz
 <voice name="íñï@" class="íñï@" src="voice/ch06/11700190ih">

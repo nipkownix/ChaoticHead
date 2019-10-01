@@ -726,8 +726,7 @@ place&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text015]
-When I blindly came out in the courtyard&, a searing nausea attacked
-me&.
+When I blindly came out in the courtyard&, a searing nausea attacked me&.
 
 I tried to hold it back&, but it proved impossible&.
 

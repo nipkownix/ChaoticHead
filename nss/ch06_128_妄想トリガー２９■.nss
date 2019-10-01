@@ -744,8 +744,7 @@ I screamed at the top of my lungsÅ\
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12800670ta">
-"How dare you!
-Howdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyou!!!!!!!"
+"How dare you! Howdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyouhowdareyou!!!!!!!"
 
 {	CreateColor("êFÇP", 150, 0, 0, 800, 600, "RED");
 	DrawTransition("êFÇP", 300, 0, 1000, 100, null, "cg/data/effect.png", true);}

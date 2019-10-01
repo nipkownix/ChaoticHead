@@ -437,8 +437,7 @@ Should I have Rimi come along with me?
 She'd said before that she was the "devoted type&," and if those words
 hadn't been a lie&, surely she would skip classes with me&.
 
-In any case&, I wanted to get out of this classroom as soon as
-possible&.
+In any case&, I wanted to get out of this classroom as soon as possible&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -56,8 +56,8 @@ The second floor of an aging multi-tenant building&.
 The wall on the far side of the floor was one large window; the light
 shining through made the dancing dust resemble powdery snow&.
 
-The words pasted on the glass&, "Freesia Investigations&," cast
-shadows on the desk closest to the window&.
+The words pasted on the glass&, "Freesia Investigations&," cast shadows
+on the desk closest to the window&.
 
 About twenty desks were lined up with nary a gap between them&.
 All of them were piled with precarious mountains of documents and
@@ -123,8 +123,7 @@ sight on her monitor&.
 	DeleteStand("stçééq_ÉXÅ[Éc_í èÌ_hard", 0, true);}
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600040mm">
-"Lordy&. I'm busy&, you know&. I've got heaps of issues to take care
-of&."
+"Lordy&. I'm busy&, you know&. I've got heaps of issues to take care of&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600050mm">
@@ -152,8 +151,8 @@ bit&.
 	DeleteStand("stçééq_ÉXÅ[Éc_í èÌ_angry", 0, true);}
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600060mm">
-"I've said so many times that this isn't a secret police
-organization&, or one of the police's subdivisions&, either&."
+"I've said so many times that this isn't a secret police organization&,
+or one of the police's subdivisions&, either&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600070mm">
@@ -211,8 +210,8 @@ name of a neighborhood Japanese-style sweets shop printed on it&.
 	DeleteStand("stçééq_ÉXÅ[Éc_í èÌ_hard", 0, true);}
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600140mm">
-"What&, if you had it&, you should've shown me from the start&. Thanks
-as always&."
+"What&, if you had it&, you should've shown me from the start&.
+Thanks as always&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600150mm">
@@ -335,8 +334,7 @@ slacking off in a place like this?"
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600290mm">
 "Don't try to act so cool&. It doesn't suit you&."
 
-Ban was sensitive to hot foods&, so he hadn't taken his tea in hand
-yet&.
+Ban was sensitive to hot foods&, so he hadn't taken his tea in hand yet&.
 
 The weather should've been cool enough already&, but he went on
 flapping his fan at his face&.
@@ -393,8 +391,7 @@ I please&."
 
 Momose's voice carried well&.
 
-She had an assertive personality to begin with&, and she spoke
-loudly&.
+She had an assertive personality to begin with&, and she spoke loudly&.
 
 As the Freesia employees were used to her&, they didn't raise an
 eyebrow even when her angry shouting reverberated through the entire
@@ -422,8 +419,7 @@ stuffed her mouth with sweets seem like an utter lie&.
 //Åüâπê∫è¨ê∫
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600370mm">
-"Didn't I tell you it'd be dangerous to pursue it by
-yourself&.&.&.!"
+"Didn't I tell you it'd be dangerous to pursue it by yourself&.&.&.!"
 
 //Åüâπê∫è¨ê∫
 //ÅyïSê£Åz
@@ -460,13 +456,12 @@ countless times&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600430mm">
-"And I'm always the one who has to wipe your ass after the fact&, over
-and over!"
+"And I'm always the one who has to wipe your ass after the fact&,
+over and over!"
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch05/10600440bn">
-"Now&, now&, don't shout like that&. Drink some tea and relax&, will
-ya?"
+"Now&, now&, don't shout like that&. Drink some tea and relax&, will ya?"
 
 Instead of taking her tea&, Momose flung a second chestnut jelly into
 her mouth&, breathing hard through her nose&.
@@ -478,8 +473,8 @@ with Suwa&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch05/10600460bn">
-"At the moment&, the GE rate stuff is too far off the beaten path&. We
-don't have enough to persuade the powers that be&."
+"At the moment&, the GE rate stuff is too far off the beaten path&.
+We don't have enough to persuade the powers that be&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600470mm">
@@ -607,8 +602,8 @@ geological strata&, that sort of thing shouldn't be possible&."
 
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch05/10600690mm">
-"Yes&, such a transformation would require the power of&, say&, a
-volcano erupting at the pedestrian scramble by the station&."
+"Yes&, such a transformation would require the power of&, say&,
+a volcano erupting at the pedestrian scramble by the station&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch05/10600700bn">
@@ -661,7 +656,7 @@ Intrigued&, Ban leaned forward&.
 
 	Fade("back05", 500, 0, null, true);
 	Delete("back05");
-
+ 
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text012]
@@ -688,8 +683,7 @@ with that?"
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch05/10600820bn">
-"I'm okay with anything&, as long as I can arrest the New-Gen
-criminal&."
+"I'm okay with anything&, as long as I can arrest the New-Gen criminal&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch05/10600830bn">

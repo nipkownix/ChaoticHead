@@ -60,8 +60,7 @@ and borderline fainted in agony&.
 {	Move("”wŒi‚P", 3000, @0, @100, AxlDxl, true);}
 After about five minutes' worth of writhing around&, when the pain had
 started to subside minutely&, I grabbed one of the legs of my bed to
-pull myself up&. I used a hand to wipe the greasy sweat off my
-forehead&.
+pull myself up&. I used a hand to wipe the greasy sweat off my forehead&.
 
 The room was in a disastrous state&, as if a storm had passed through
 it&.
@@ -107,8 +106,7 @@ Right&, I'd heard the ground roar at the same time that the buzzer
 sounded&, and immediately afterward&, I'd been consumed by the
 sensation that my entire body was boiling and melting&.&.&.
 
-I had absolutely no memory of whatever came next&. My mind went
-blank&.
+I had absolutely no memory of whatever came next&. My mind went blank&.
 
 It couldn't be&.&.&.
 
@@ -129,8 +127,8 @@ distant&, upper-atmosphere orbit&.&.&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/11000030ta">
 "Whatever the case&, that can't be it&.&.&."
 
-But judging by Sena's tone when she told me all those things&, it
-almost sounded like the system in that patent had already been put
+But judging by Sena's tone when she told me all those things&,
+it almost sounded like the system in that patent had already been put
 into actual use and was being abused by certain people&.
 
 If one of those "certain people" was "Shogun"&.&.&.
@@ -149,8 +147,7 @@ be one of the key people in some kind of governmental project?
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 1500, 0, null, true);
 	Delete("‰ñ‘zƒtƒ‰ƒbƒVƒ…");
 	Wait(500);}
-&.&.&.Scaring myself with my own delusions wouldn't change
-anything&.
+&.&.&.Scaring myself with my own delusions wouldn't change anything&.
 
 It was a fact that something had occurred&, so I figured I would look
 it up online&.
@@ -293,8 +290,7 @@ My gigs of 18+ moe artwork&.&.&.
 
 My eroge save data&.&.&.
 
-My bookmarks to the sites I made the rounds of on a daily
-basis&.&.&.
+My bookmarks to the sites I made the rounds of on a daily basis&.&.&.
 
 My minimum attendance shift chart&.&.&.
 
@@ -323,8 +319,7 @@ and bite my lip&.
 It was over&.&.&.
 My life was over&.&.&.
 
-The deletion of my ESO data meant I no longer had any reason to
-live&.
+The deletion of my ESO data meant I no longer had any reason to live&.
 
 Everything stopped mattering to me&. It had all burned away&.&.&.
 
@@ -364,8 +359,7 @@ By servers&, you mean the company's administrative servers&.&.&.
 
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch06/11000130se">
-"So even if your PC breaks&, Neidhardt-chi's data shouldn't
-disappear&."
+"So even if your PC breaks&, Neidhardt-chi's data shouldn't disappear&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch06/11000140ta">
@@ -378,8 +372,7 @@ disappear&."
 	Delete("‰ñ‘zƒtƒ‰ƒbƒVƒ…");}
 Ah&. Oh&, oh yeah&.
 
-Thanks to my misty consciousness&, I'd forgotten something that
-basic&.
+Thanks to my misty consciousness&, I'd forgotten something that basic&.
 
 I felt like I'd discovered a single ray of hope in the midst of
 despair&.

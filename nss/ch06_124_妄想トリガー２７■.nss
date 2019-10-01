@@ -173,8 +173,8 @@ from close by me&.&.&.
 
 I looked up without giving much thought to it&.
 
-I saw a human figure move atop the bed&. Wriggling in that narrow
-space&, sending my mountains of piled-up eroge boxes tumbling&.
+I saw a human figure move atop the bed&. Wriggling in that narrow space&,
+sending my mountains of piled-up eroge boxes tumbling&.
 
 Surely not&.&.&.
 
@@ -223,8 +223,7 @@ wheelchair&.&.&.!?"
 	Stand("stéµäC_êßïû_í èÌ","normal", 200, @100);
 	FadeStand("stéµäC_êßïû_í èÌ_normal", 300, false);}
 I scrutinized Nanami all over as she descended from the bed&,
-attempting to determine whether there were any abnormalities with
-her&.
+attempting to determine whether there were any abnormalities with her&.
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch06/12400160na">
@@ -245,8 +244,7 @@ Are you re&, really all right!?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400190ta">
-"Y&, you can't mean&.&.&. you met him!? Where!? What'd he do to
-you!?"
+"Y&, you can't mean&.&.&. you met him!? Where!? What'd he do to you!?"
 
 {	DeleteStand("stéµäC_êßïû_ùXÇÀ_sad", 500, true);}
 I grabbed Nanami's shoulders and desperately pressed her for a
@@ -270,8 +268,7 @@ Nanami had been caught up in my mess&.&.&.
 "Sorry&.&.&."
 
 I wept at how pathetic I was&.
-I'd caused trouble not merely for myself&, but also for those around
-me&.
+I'd caused trouble not merely for myself&, but also for those around me&.
 
 A "harmless otaku&," my ass&.
 
@@ -282,8 +279,7 @@ I was garbage as a human being&, not to mention as a brother&.&.&.
 	FadeStand("buéµäC_êßïû_í èÌ_shock", 500, true);}
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch06/12400210na">
-"Bro&.&.&. are you crying? Could it be that you were worried about
-me?"
+"Bro&.&.&. are you crying? Could it be that you were worried about me?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400220ta">
@@ -300,8 +296,8 @@ me?"
 //Åüê\ÇµñÛÇ»Ç≥ÇªÇ§
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch06/12400240na">
-"The&, the truth is&, that email from 'Shogun'&.&.&. was a
-joke&.&.&. from me&.&.&."
+"The&, the truth is&, that email from 'Shogun'&.&.&. was a joke&.&.&.
+from me&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400250ta">
@@ -333,8 +329,8 @@ I became dazed&.
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch06/12400280na">
-"You spend so little time with me&, so I thought I'd tease you a
-bit&.&.&. and I just kind of ended up doing it&."
+"You spend so little time with me&, so I thought I'd tease you a bit&.&.&.
+and I just kind of ended up doing it&."
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch06/12400290na">
@@ -448,8 +444,7 @@ She smiled at me merrily&.
 
 A sce<pre>n</pre>e that was just a wee bit more peaceful than usual&.
 
-How nice it would've been&.&.&. if this were
-the sce<pre>n</pre>e that came next&.
+How nice it would've been&.&.&. if this were the sce<pre>n</pre>e that came next&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -898,8 +893,7 @@ This box&.&.&.
 
 I heard the melody from inside it&.&.&.
 
-It was about the size of two eroge boxes lined up next to one
-another&.
+It was about the size of two eroge boxes lined up next to one another&.
 
 I'd thought it was a box from an online purchase&, but there was no
 flyer or anything to go with it&. Nor was there an invoice mentioning
@@ -973,8 +967,7 @@ Which was natural enough&.
 Because at the time&, I'd been tormented by a stabbing migraine&,
 And my consciousness was hazy&.&.&.
 
-When I returned from school an hour later&, the door had been
-unlocked&.
+When I returned from school an hour later&, the door had been unlocked&.
 Anyone would've been free to enter&.
 
 &.&.&.Had "Shogun" come?
@@ -1013,8 +1006,7 @@ I gingerly picked up that cardboard box&.
 "!"
 
 Heavy&.&.&.
-Far too heavy for me to think a cell phone was the one thing inside
-it&.
+Far too heavy for me to think a cell phone was the one thing inside it&.
 
 Going by what it felt like&, it was about the same as a 500-ml juice
 container&.
@@ -1077,8 +1069,8 @@ peeling off the packing tape stuck to the box&.
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400670ta">
 "No&.&.&. no&.&.&. no&.&.&. no&.&.&. no&.&.&.
-no&.&.&. no&.&.&. no&.&.&.&. no&.&.&.&. no&.&.&.
-no&.&.&. no&.&.&. no&.&.&.&."
+no&.&.&. no&.&.&. no&.&.&. no&.&.&. no&.&.&.
+no&.&.&. no&.&.&. no&.&.&."
 
 Muttering to myself as though praying&, I opened the top flaps&.
 
@@ -1129,11 +1121,9 @@ But the cell phone's carefree melody mercilessly urged me on&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400680ta">
-"Haa&, haa&.&.&. I&, I'm&.&.&. opening it&.&.&. haa&.&.&.
-haa&.&.&."
+"Haa&, haa&.&.&. I&, I'm&.&.&. opening it&.&.&. haa&.&.&. haa&.&.&."
 
-Bracing myself&, I pinched the edges of the aluminum foil in my
-fingers&,
+Bracing myself&, I pinched the edges of the aluminum foil in my fingers&,
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1179,11 +1169,9 @@ I was afraid to open my eyes&.&.&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12400700ta">
-"Uuuhh&.&.&. haa haa&.&.&.&. haa haa&.&.&.&. uuuuh&.&.&.
-kuhaah haa&.&.&. haa&.&.&."
+"Uuuhh&.&.&. haa haa&.&.&.&. haa haa&.&.&.&. uuuuh&.&.&. kuhaah haa&.&.&. haa&.&.&."
 
-I strove to collect my breathing&, but it didn't go well at
-all&.&.&.
+I strove to collect my breathing&, but it didn't go well at all&.&.&.
 
 It would be okay&, it was fine&, there wasn't anything bad there&.
 

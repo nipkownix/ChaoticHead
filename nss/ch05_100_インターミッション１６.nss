@@ -735,7 +735,7 @@ together with its contents&.
 	MusicStart("SE05", 0, 1000, 0, 1000, null, false);
 	CreateBG(100, 0, 0, 0, "cg/bg/bg083_01_3_宮下公園_a.jpg");}
 //衝撃で男も吹っ飛ばされる。
-The impact send him flying as well&.
+The impact sends him flying as well&.
 
 //地面に倒れ込んだ男は、全身を震わせながら、頭を抱えて丸くなってしまう。
 //もはや逃げる気力すら喪失したようだった。

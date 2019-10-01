@@ -91,8 +91,8 @@ contains a ring&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300090nr">
-"Now&, please cover your left eye with your hand&, so you can no
-longer see from it&."
+"Now&, please cover your left eye with your hand&, so you can
+no longer see from it&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300100nr">
@@ -111,8 +111,7 @@ you try to look at the dot alone&."
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch05/10300130nr">
 "In that case&, sir&, move your face closer to the monitor&,
-continuing to look at the dot&. What happens to the ring adjacent to
-it?"
+continuing to look at the dot&. What happens to the ring adjacent to it?"
 
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch05/10300140ih">

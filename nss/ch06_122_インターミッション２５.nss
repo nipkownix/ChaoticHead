@@ -98,8 +98,7 @@ unconsciousness&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Another ambulance arrived on the sce<pre>n</pre>e&, blaring
-its shrill siren&.
+Another ambulance arrived on the sce<pre>n</pre>e&, blaring its shrill siren&.
 
 {	SoundPlay("SE02",500,0,false);
 	Wait(500);

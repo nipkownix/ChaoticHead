@@ -83,8 +83,7 @@ Upon noticing it at last&, she dragged her hand toward her pocket&.
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_shock", 500, true);
 	CreateSE("SE05","SE_l‘Ì_“®ì_ŠŠ‚Á‚Ä“]‚Ô");
 	MusicStart("SE05", 0, 1000, 0, 1000, null, false);}
-She tried to stand up&, but she staggered and slid down past her
-chair&.
+She tried to stand up&, but she staggered and slid down past her chair&.
 
 Crouching&, she leaned back against the wall&.
 
@@ -137,8 +136,8 @@ button to take the call and put her phone to her ear&.
 Yua made a grimace and pressed at her forehead as she answered&.
 
 Both the commotion of her classmates in the hallway&, and her
-teacher's voice as he called "Hey&, hold on!" to his prostrate
-students&, sounded to her like something taking place very far away&.
+teacher's voice as he called "Hey&, hold on!" to his prostrate students&,
+sounded to her like something taking place very far away&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch05/10800060yu">

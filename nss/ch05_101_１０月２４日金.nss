@@ -105,8 +105,7 @@ As autumn deepened&, air gradually grew colder and colder&.
 It's hard to believe that I'd gotten by with short sleeves only a
 little while ago&.
 
-The sky was a little dull&, somehow&. As though its colors were
-fading&.
+The sky was a little dull&, somehow&. As though its colors were fading&.
 But in exchange&, the fall leaves at the park and so forth were
 brilliant&. Maybe the trees were stealing away the sky's vibrancy&.
 
@@ -117,8 +116,8 @@ freely use the open space of the roof&, without needing to worry about
 catching anyone's eye&.
 
 It was inconvenient when it rained&, because the sink was located
-outside the container housing&, but on days with good weather&, I
-would come outside and brush my teeth like this&.
+outside the container housing&, but on days with good weather&,
+I would come outside and brush my teeth like this&.
 
 Rubbing my sleepy eyes as I moved the toothbrush&, I thought back over
 what had happened yesterday&.
@@ -141,8 +140,8 @@ want to throw up&.
 
 Rimi was pure-heartedly trying to help me as a friend&.
 
-But she had already done a great deal to save me simply by telling
-me&, "I'll be there for you&."
+But she had already done a great deal to save me simply by telling me&,
+"I'll be there for you&."
 
 There was a huge difference between having and not having a source of
 moral support&.
@@ -436,8 +435,8 @@ When I saw her smile&, my shaking stopped&.
 
 It was strange&.&.&.
 
-I was supposed to have a hard time with 3-D girls&, but for some
-reason&, I could relax if I were together with Rimi&.
+I was supposed to have a hard time with 3-D girls&, but for some reason&,
+I could relax if I were together with Rimi&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10100030ri">
@@ -575,8 +574,8 @@ absence of romance&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/10100130ri">
 "Fewer people desire blue&."
 
-I had the feeling that I'd heard her say something similar
-before&.&.&. when was it again?
+I had the feeling that I'd heard her say something similar before&.&.&.
+when was it again?
 
 {	Stand("stóúê[_êßïû_í èÌ","happy", 200, @100);
 	DeleteStand("stóúê[_êßïû_ê≥ñ _normal", 500, false);

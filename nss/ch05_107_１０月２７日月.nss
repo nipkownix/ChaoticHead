@@ -579,8 +579,7 @@ The Ark Heart Medical Group was a long-time psychiatric facility that
 accepted only patients with severe mental illnesses&.
 
 From what the site showed of the hospital's appearance&, all the
-windows had bars in them&, making it look almost like an aging
-prison&.
+windows had bars in them&, making it look almost like an aging prison&.
 
 I didn't know if it were still in existence&.
 
@@ -653,8 +652,8 @@ Only―
 
 There was just one problem&.
 
-Up until now&, I'd taken everything Ayase told me at face value&, but
-that might have been a mistake on my part&.
+Up until now&, I'd taken everything Ayase told me at face value&,
+but that might have been a mistake on my part&.
 
 How to obtain a Di-Sword&.
 
@@ -700,8 +699,8 @@ Ahh&, what a pain&.&.&.
 	SetVolume("SE05", 0, 0, NULL);
 	CreateSE("SE06","SE_日常_携帯ボタン押す");
 	MusicStart("SE06", 0, 1000, 0, 1000, null, false);}
-Was what I thought as I pressed the button to put me through&, and
-laid the phone against my ear&, all without checking the caller's
+Was what I thought as I pressed the button to put me through&,
+and laid the phone against my ear&, all without checking the caller's
 number&.
 
 Why hadn't I―
@@ -930,8 +929,8 @@ They boiled&, they bubbled&, they melted in glops―
 
 Pain chewed through my body from the inside&, crawling around me―
 
-My consciousness went liquid and coursed through me until&, in the
-end&, it arrived at my heart and exploded and scattered into mist―
+My consciousness went liquid and coursed through me until&, in the end&,
+it arrived at my heart and exploded and scattered into mist―
 
 Those incoherent sensations controlled me&, leaving me unable to think
 about what was happening&.

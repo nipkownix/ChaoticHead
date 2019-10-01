@@ -173,8 +173,8 @@ Her pale pink bra&.
 
 Your b&, b&, bust is su&, surprisingly big&, Sakihata-san&.
 
-No&, no&, stop! She'll think you're a lech if you ogle her! Don't
-look! You mustn't look!
+No&, no&, stop! She'll think you're a lech if you ogle her! Don't look!
+You mustn't look!
 
 I dropped my gaze&.
 
@@ -224,8 +224,8 @@ I couldn't breathe&.
 My head went empty&.
 What was this?
 
-A sensation like what I felt when I entered ecchi sce<pre>n</pre>es
-in eroge&, an itchy&, ardent&, sorrowful feeling&.
+A sensation like what I felt when I entered ecchi sce<pre>n</pre>es in eroge&,
+an itchy&, ardent&, sorrowful feeling&.
 
 I couldn't keep my cool&.
 
@@ -423,8 +423,8 @@ Eyes wide&, she looked down at me&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09900170ri">
-"You're acting weird&, you know? First you start muttering to
-yourself&, then you begin shouting out of the blue&."
+"You're acting weird&, you know? First you start muttering to yourself&,
+then you begin shouting out of the blue&."
 
 {	Stand("stóúê[_êßïû_í èÌ","normal", 200, @+100);
 	FadeStand("stóúê[_êßïû_í èÌ_normal", 300, true);
@@ -449,11 +449,12 @@ Despite the fact that she'd definitely left&.
 Cou&, could it be that the ero-Rimi I'd seen was&.&.&.
 
 A delusion!?
+
 Ero-Rimi had felt amazingly real&.
 
 Though I hadn't touched her&, merely looking at her had conveyed the
-sense that her skin would be soft and resilient if I touched
-it&.&.&. and what the hell am I saying&.&.&.!
+sense that her skin would be soft and resilient if I touched it&.&.&.
+and what the hell am I saying&.&.&.!
 
 What was wrong with me today&.&.&.
 
@@ -545,8 +546,7 @@ Dazed&, all I could do was see her off&.
 Going to shop at a convenience store in her school uniform&.&.&.
 So ordinary&.&.&.
 
-Ero-Rimi had been a delusion of mine after all&.&.&. it would
-seem&.&.&.
+Ero-Rimi had been a delusion of mine after all&.&.&. it would seem&.&.&.
 
 It left me feeling a little complicated&, both let down and relieved&.
 
@@ -617,8 +617,7 @@ Hu&.&.&.h?
 
 At some point&, Rimi's clothing had switched to something different&.
 
-Though she'd been wearing her uniform up until just a second
-ago&.&.&.
+Though she'd been wearing her uniform up until just a second ago&.&.&.
 
 Had she stealthily changed her clothes in the brief period when I had
 my eyes closed&.&.&. no&, of course not&.&.&.
@@ -652,8 +651,8 @@ Trying not to stare too hard at her&, I checked out her outfit&.
 [text014]
 Were these&.&.&. her casual clothes?
 
-It was enormously refreshing to see her like this&, since up till
-now&, I'd only seen her wear her uniform&.
+It was enormously refreshing to see her like this&, since up till now&,
+I'd only seen her wear her uniform&.
 
 On top&, a denim jacket; on bottom&, a miniskirt&.
 She wasn't wearing the thigh-high socks she'd had on before&.
@@ -662,8 +661,8 @@ In short&.&.&. bare legs&.
 Smooth-looking&, sensual thighs&.
 
 On top of that&, because she was sitting with her knees up even though
-she was in a miniskirt&.&.&. um&.&.&. I can sort of see your
-panties&, Sakihata-san&.&.&.
+she was in a miniskirt&.&.&. um&.&.&. I can sort of see your panties&,
+Sakihata-san&.&.&.
 
 Rather&, depending on the angle&, it could also appear that she was
 going commando&.
@@ -956,8 +955,7 @@ going commando&.
 
 {	Move("back03", 4000, @0, @-100, AxlDxl, false);}
 My eyes kept involuntarily traveling to the place where her legs came
-togetherÅ\to her V-zone&. I made a frantic effort to hold back my
-lust&.
+togetherÅ\to her V-zone&. I made a frantic effort to hold back my lust&.
 
 This manner of sittingÅ\
 
@@ -998,8 +996,7 @@ head tilted&, all but hugging her knees&.
 If she kept acting that c<pre>u</pre>te&.&.&. I'd moe myself to death&.&.&.
 Even though she wasn't 2-D&.&.&.
 
-Belying my libido-driven thoughts&, the words Rimi gave voice to
-wereÅ\
+Belying my libido-driven thoughts&, the words Rimi gave voice to wereÅ\
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1069,8 +1066,8 @@ Or that I should carry out a healthier lifestyle without going on
 impossibly long ESO marathons?
 
 Or was she inviting me&, suggesting that she wouldn't mind if I
-surrendered to my lust&, stopped suppressing it with my reason&, and
-pounced on her?
+surrendered to my lust&, stopped suppressing it with my reason&,
+and pounced on her?
 
 Not the latter&, that's for sure&. Hehehe&.&.&.
 
@@ -1417,8 +1414,8 @@ Grim: The fifth case!
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09900620ta">
 "Again&.&.&."
 
-Of course it gave me the usual sense of gloom&, but on the other
-hand&, I was also confused&.
+Of course it gave me the usual sense of gloom&, but on the other hand&,
+I was also confused&.
 
 I'd thought "Shogun" and Yua would target me for sure this time&.
 Perhaps one could say that they'd postponed it&.
@@ -1898,8 +1895,8 @@ Holding my head&, I lay down in place&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09900720ta">
-"Save me&, Rimi&.&.&. save me&.&.&. don't go anywhere&.&.&. I'm
-begging you&.&.&."
+"Save me&, Rimi&.&.&. save me&.&.&. don't go anywhere&.&.&.
+I'm begging you&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09900730ri">
@@ -1963,8 +1960,7 @@ But Rimi had said she would stay with me&.
 Now her warmth was the one piece of support keeping my spirit from
 breaking&.
 
-I didn't want to let go of this hand until I acquired a
-Di-Sword&.&.&.
+I didn't want to let go of this hand until I acquired a Di-Sword&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

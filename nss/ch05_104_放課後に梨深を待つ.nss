@@ -55,8 +55,7 @@ I'd had no idea what would happen in the morning&, but somehow I
 managed to pass most of today peacefully and safely&.
 
 Misumi-kun&, too&, had been so wrapped up in talking to the transfer
-student that he hadn't pursued the subject of me and Ayase any
-further&.
+student that he hadn't pursued the subject of me and Ayase any further&.
 
 I owed it all to the transfer student&, really&.
 

@@ -65,13 +65,12 @@ been in quite a state since the earthquake&, as injured people who had
 lost consciousness due to seemingly baseless symptoms were carried in
 one after the other&.
 
-But the psychiatric ward had nothing to do with that&, and if
-anything&, the patients visiting for diagnoses finished earlier than
-usual&.
+But the psychiatric ward had nothing to do with that&, and if anything&,
+the patients visiting for diagnoses finished earlier than usual&.
 
-In a few days&, perhaps potential PTSD patients would come pouring
-in&, but for today&, at least&, the psychiatric department had run out
-of scheduled appointments&.
+In a few days&, perhaps potential PTSD patients would come pouring in&,
+but for today&, at least&, the psychiatric department had run outof
+scheduled appointments&.
 
 //おがみ：ルビ入力
 {	Stand("bu志乃_白衣_通常","normal", 200, @150);
@@ -84,9 +83,9 @@ The psychiatric ward had lost one of its doctors the other day―he had
 been ruthlessly killed in a New-Gen incident―and no substitute had
 arrived yet&, so they were constantly understaffed&.
 
-But all that remained for today's work were minor miscellaneous
-tasks&, and if she passed them on to the nurse responsible for the
-next night shift&, she could finally take some time off&.
+But all that remained for today's work were minor miscellaneous tasks&,
+and if she passed them on to the nurse responsible for the next
+night shift&, she could finally take some time off&.
 
 Patting her cheeks with both hands&, as though telling herself to keep
 it up for just a little longer&, she was about to
@@ -215,9 +214,9 @@ Hazuki's hesitation was only natural&.
 Even if the person asking were a police officer&, there couldn't be
 anything good about leaking a patient's information&.
 
-But Suwa had been well aware of this when he began speaking to
-Hazuki&. He put on an earnest gaze as he revised his previously light
-attitude&. And&, lowering his voice&, he plunged on ahead&.
+But Suwa had been well aware of this when he began speaking to Hazuki&.
+He put on an earnest gaze as he revised his previously light attitude&.
+And&, lowering his voice&, he plunged on ahead&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

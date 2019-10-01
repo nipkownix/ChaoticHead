@@ -106,13 +106,11 @@ Things might be different if we were in a game&, but&.&.&."
 
 //ÅyêØóàÅz
 <voice name="êØóà" class="êØóà" src="voice/ch06/12600120se">
-"You know&.&.&. it's got to be Game Over by now&, I'm positive of
-it&."
+"You know&.&.&. it's got to be Game Over by now&, I'm positive of it&."
 
 //ÅyêØóàÅz
 <voice name="êØóà" class="êØóà" src="voice/ch06/12600130se">
-"If you don't give up the game fast&, a lot more people are gonna
-die&."
+"If you don't give up the game fast&, a lot more people are gonna die&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600140ta">
@@ -172,12 +170,11 @@ I had jammed my Seira-tan figure into my uniform's inner pocket&.
 I'd taken Seira-tan with me as a protective charm&.
 
 Under ordinary circumstances&, I'd never ever carry a figure around
-with me&. If nothing else&, there was the danger that it'd get
-damaged&. As an otaku&, breaking one of my darling wives was my number
-one taboo&.
+with me&. If nothing else&, there was the danger that it'd get damaged&.
+As an otaku&, breaking one of my darling wives was my number one taboo&.
 
-But I could no longer afford to maintain that policy of mine&. For
-now&, I wanted moral support&.
+But I could no longer afford to maintain that policy of mine&. For now&,
+I wanted moral support&.
 
 I might not even be alive tomorrow&, but&.&.&.
 
@@ -198,9 +195,8 @@ my seeping tears&.
 [text003]
 Somebody collided with me from behind&, and I staggered&.
 
-When I looked over&, a thuggish man was giving me a disagreeable
-stare&. But he didn't complain to me and soon disappeared into the
-crowd&.
+When I looked over&, a thuggish man was giving me a disagreeable stare&.
+But he didn't complain to me and soon disappeared into the crowd&.
 
 I surveyed the area&.
 
@@ -272,9 +268,8 @@ Since it was possible that the police still wrongly thought of me as
 being the New-Gen perp&, I couldn't report it to them&, either&.
 
 While I thought about doing such things&, the time "Shogun" had set
-kept approaching&, and worry for Nanami started to drive me up the
-wall&, and so I couldn't stop myself from coming here&, Seira-tan in
-hand&.
+kept approaching&, and worry for Nanami started to drive me up the wall&,
+and so I couldn't stop myself from coming here&, Seira-tan in hand&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -303,8 +298,7 @@ well-being&.
 I took the escalator to the upper floors&.
 
 I could look down on the scramble crossing through the Sutaba's
-windows&. There was an astonishing number of people there&, after
-all&.
+windows&. There was an astonishing number of people there&, after all&.
 
 Furthermore&, all of them were waving or bobbing up&, making little
 jumps&, and countless black heads undulated&.
@@ -319,8 +313,8 @@ My heartbeat grew more ferocious&.
 When I took out my cell phone to see the time&, it was a minute past
 the promised time of 9:00&.
 
-If "Shogun" got pissed off by this and killed Nanami&.&.&. the
-thought of it made me go cold&, and I sprinted my way up the
+If "Shogun" got pissed off by this and killed Nanami&.&.&.
+the thought of it made me go cold&, and I sprinted my way up the
 escalator&, pushing aside the customers ahead of me&.
 
 </PRE>
@@ -378,8 +372,7 @@ that it was nearing the end of October&. I soon realized it wasn't a
 natural wind&, but rather air expelled by the outdoors portion of the
 air conditioning system&.
 
-I closed my front buttons to prevent Seira-tan from coming flying
-out&.
+I closed my front buttons to prevent Seira-tan from coming flying out&.
 
 //ÇuÇe//ñœëzÉZÉäÉtÅià»â∫ÅAêØóàÇÃÉZÉäÉtÇÕÇ∑Ç◊ÇƒÅj
 //ÅyêØóàÅz
@@ -390,8 +383,8 @@ out&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600200ta">
 "Y&, you're very welcome&.&.&."
 
-I was a little relieved to hear Seira-tan's voice in my head&. If
-Seira-tan were with me&.&.&.&. I&, I wouldn't be scared&.&.&.
+I was a little relieved to hear Seira-tan's voice in my head&.
+If Seira-tan were with me&.&.&.&. I&, I wouldn't be scared&.&.&.
 
 I desperately attempted to convince myself of it&.
 
@@ -399,8 +392,8 @@ Even so&, it was dark&.
 The only illumination came from the back of the neon "O-Front" sign&.
 
 In contrast&, the neon of the surrounding buildings was too bright&,
-making it hard to see&. Even if someone were hiding in the shadows&, I
-had a feeling that I definitely wouldn't spy them out&.
+making it hard to see&. Even if someone were hiding in the shadows&,
+I had a feeling that I definitely wouldn't spy them out&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -429,8 +422,7 @@ had a feeling that I definitely wouldn't spy them out&.
 When someone called to me out of the blue&, my heartbeat&, which had
 just started to slow down a little&, began banging again&.
 
-I looked around&, but it was too dim to tell where he had spoken
-from&.
+I looked around&, but it was too dim to tell where he had spoken from&.
 
 {	CreateSE("SE02","SE_ì˙èÌ_é‘à÷éq");
 	SoundPlay("SE02", 0, 500, false);}
@@ -604,8 +596,7 @@ I clenched Seira-tan's body through my clothes&.
 It seemed like fear would make my heart leapt from my mouth&.
 Even so&, I frantically forced my voice out&.
 
-&.&.&.I'd thought sce<pre>n</pre>es like this occurred only
-on TV or in games&.
+&.&.&.I'd thought sce<pre>n</pre>es like this occurred only on TV or in games&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600360ta">
@@ -657,8 +648,7 @@ Sad enough that tears could come out&.
 [text015]
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600400ta">
-"Nanami is&, Nanami is my little sister&.&.&. my&.&.&.
-beloved&.&.&."
+"Nanami is&, Nanami is my little sister&.&.&. my&.&.&. beloved&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600410ta">
@@ -670,8 +660,7 @@ beloved&.&.&."
 
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12600430su">
-"The hand I sent to your house might belong to someone else&, you
-know?"
+"The hand I sent to your house might belong to someone else&, you know?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600440ta">
@@ -753,8 +742,8 @@ disappoint me&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600530ta">
-"It doesn't have to be&.&.&. so&, someone like me&.&.&. it
-shouldn't have to be me&.&.&.!"
+"It doesn't have to be&.&.&. so&, someone like me&.&.&. it shouldn't
+have to be me&.&.&.!"
 
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12600540su">
@@ -836,8 +825,8 @@ commit suicide&.&.&.
 	Wait(1000);}
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12600620su">
-"Thanks to that flowerbed&, Kishimoto Ayase made it out with her
-life&. No?"
+"Thanks to that flowerbed&, Kishimoto Ayase made it out with her life&.
+No?"
 
 "Shogun" knew about the power I was supposed to possess&.&.&.
 
@@ -879,8 +868,7 @@ Maybe "Shogun" was trying to kill me&,
 
 Because I possessed that power or whatnot&.
 
-If I claimed I didn't have any power&, he might let me slip
-away&.&.&.
+If I claimed I didn't have any power&, he might let me slip away&.&.&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600650ta">
@@ -936,8 +924,8 @@ Even Rimi had said&, "Isn't that itself a delusion?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600710ta">
-"Ma&, making a flowerbed materialize out of nowhere&, there's no&, no
-way I couldÅ\"
+"Ma&, making a flowerbed materialize out of nowhere&, there's no&,
+no way I couldÅ\"
 
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12600720su">
@@ -1114,8 +1102,7 @@ didn't they&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600980ta">
-"It wasn't some power or&, or anything incomprehensible like
-that&.&.&."
+"It wasn't some power or&, or anything incomprehensible like that&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/12600990ta">
@@ -1160,8 +1147,8 @@ that&.&.&."
 I wanna go home&.&.&.
 I want to go shut myself up in my base and marathon ESO endlessly&.
 
-I want to look at Seira-tan figures until I can't stop grinning&, and
-I want to keep watching Burachu over and over&.
+I want to look at Seira-tan figures until I can't stop grinning&,
+and I want to keep watching Burachu over and over&.
 
 Even though that was all I desired&.&.&.
 
@@ -1197,8 +1184,8 @@ your quest&."
 
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12601140su">
-"First&, I'd like you to go to a place from which you have a clear
-view of the scramble crossing below&."
+"First&, I'd like you to go to a place from which you have a clear view
+of the scramble crossing below&."
 
 //ÅyêØóàÅz
 <voice name="êØóà" class="êØóà" src="voice/ch06/12601150se">
@@ -1210,8 +1197,7 @@ view of the scramble crossing below&."
 
 //ÅyêzñKÅz
 <voice name="êzñK" class="êzñK" src="voice/ch06/12601170su">
-"Move to a position where you can look down at the scramble
-crossing&."
+"Move to a position where you can look down at the scramble crossing&."
 
 His tone was soft&, but his voice had an incredibly chilly quality to
 it&.
@@ -1608,8 +1594,7 @@ Esper boy? What the hell?
 
 Do you all understand what kind of day it's been?
 
-An earthquake occurred&, man&. Magnitude 5&. Over a hundred people
-died&.
+An earthquake occurred&, man&. Magnitude 5&. Over a hundred people died&.
 
 Yet
 Why

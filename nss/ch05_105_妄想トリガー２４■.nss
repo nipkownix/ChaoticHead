@@ -105,15 +105,14 @@ Wh&, what!?
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500020ta">
 "&.&.&.!"
 
-S&, su&, surely this wasn't
+S&, su&, surely this wasn't!
 
 Said to exist solely in the 2-D world&, numbered among the urban
 legends of the 3-D world&, the notorious "Who~ is it?"
 
 To think that a day would come when I'd experience it for real&.
 
-Right now&, as of this second&, I'd become one of life's
-winners&.&.&.!
+Right now&, as of this second&, I'd become one of life's winners&.&.&.!
 
 No&, wait&.
 Cool down&.
@@ -133,9 +132,8 @@ I was beginning to regain a little of my composure&.
 If this were a daydream&, I wanted to wake up right away&.
 Because I'd only feel glum when I did return to reality&.
 
-No&, since I was already here&, I might as well savor this
-manifestation of a mushy&, lovey-dovey urban legend to my heart's
-desire&.&.&.
+No&, since I was already here&, I might as well savor this manifestation
+of a mushy&, lovey-dovey urban legend to my heart's desire&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -254,8 +252,7 @@ Unable to withstand it&, I lowered my face&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500120ri">
 "What's wrong? Your face is red&, you know?"
 
-So Rimi said&, but her cheeks&, too&, appeared to be dyed faintly
-red&.
+So Rimi said&, but her cheeks&, too&, appeared to be dyed faintly red&.
 
 Was it the fault of the setting sun&.&.&. maybe?
 
@@ -319,15 +316,14 @@ Wh&, what!?
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500150ta">
 "&.&.&.!"
 
-S&, su&, surely this wasn't
+S&, su&, surely this wasn't!
 
 Said to exist solely in the 2-D world&, numbered among the urban
 legends of the 3-D world&, the notorious "Who~ is it?"
 
 To think that a day would come when I'd experience it for real&.
 
-Right now&, as of this second&, I'd become one of life's
-winners&.&.&.!
+Right now&, as of this second&, I'd become one of life's winners&.&.&.!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -392,8 +388,7 @@ Now&, how should I go about replyingÅ\
 
 I sensed someone other than Rimi&.
 
-I was especially sensitive to it because my vision had
-been c<pre>u</pre>t off&.
+I was especially sensitive to it because my vision had been c<pre>u</pre>t off&.
 
 One more person besides Rimi and I was here&.
 
@@ -461,7 +456,7 @@ Or was she pretending not to notice-?
 I couldn't tolerate the horror of not knowing what was going on around
 me&.
 
-Rimi'sÅ@lithe hands&, covering my eyes&.
+Rimi's lithe hands&, covering my eyes&.
 {	CreateSE("SE01","SE_êlëÃ_íÕÇﬁ");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}
 I grabbed them with my own hands and peeled them away&.
@@ -540,8 +535,7 @@ He wasn't thereÅ\
 "He's not there&.&.&. it can't be&.&.&."
 
 I didn't spot him anywhere&.
-Neither beyond the wide athletic field nor in the building's
-entrance&.
+Neither beyond the wide athletic field nor in the building's entrance&.
 There was neither hide nor hair of an elderly person in a wheelchair&.
 
 {	Stand("stóúê[_êßïû_ê≥ñ ","sad", 200, @+100);
@@ -694,14 +688,13 @@ I soon looked away&.
 Thanks to the sunset&, she shouldn't be able to notice that I was
 turning red&.
 
-It wasn't so much that I wanted to return with her as that if I
-didn't&, I'd be too frightened to leave school&.
+It wasn't so much that I wanted to return with her as that if I didn't&,
+I'd be too frightened to leave school&.
 
 Even while I waited here by myself&, I'd been internally quaking at
 the thought that maybe Yua was hiding somewhere in the shadows&.
 
-Rimi ought to know that&, but she'd asked me to tease me all the
-same&.
+Rimi ought to know that&, but she'd asked me to tease me all the same&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -841,8 +834,7 @@ Y&, you're not supposed to point at people&.&.&.
 	DeleteStand("stóúê[_êßïû_í èÌ_shock", 0, true);}
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500550ri">
-"C'mon&, before this&, you were with a pretty senior&, one in
-glasses&."
+"C'mon&, before this&, you were with a pretty senior&, one in glasses&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500560ta">
@@ -917,8 +909,7 @@ vanished like mist tomorrow&.
 Or else&, maybe the person behind me had changed&.
 
 The former person behind me had liked playing mutely on his own&, but
-the new one preferred to cooperate with other players&.&.&. or
-something&.
+the new one preferred to cooperate with other players&.&.&. or something&.
 
 In any case&, I didn't have any true sense of whether this past month
 had been real or imaginary&.
@@ -1010,8 +1001,7 @@ I wanted to hear someone else's opinion&.
 Not someone who spoke purely in abstractions like Ayase and Sena;
 someone who would give me a clear answer&, as in&, "It's like this&."
 
-But then again&, she hadn't believed a thing I told her
-yesterday&.&.&.
+But then again&, she hadn't believed a thing I told her yesterday&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1131,8 +1121,7 @@ begin with&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500870ta">
-"You might not see it&.&.&. Only ce&, certain people can see
-it&.&.&.&."
+"You might not see it&.&.&. Only ce&, certain people can see it&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500880ri">
@@ -1168,8 +1157,7 @@ I was simply taking everything Ayase said at face value&.
 [text026]
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500910ri">
-"Does a sword like that really exist? I guess I just can't believe
-it&."
+"Does a sword like that really exist? I guess I just can't believe it&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500920ri">
@@ -1234,16 +1222,15 @@ In that act of hers&, I had tasted a far more unbelievable power&.
 [text027]
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500960ta">
-"I&, I&, I might&.&.&. ha&, have&.&.&. the power to project
-delusions&.&.&. into reality&."
+"I&, I&, I might&.&.&. ha&, have&.&.&. the power to project delusions&.&.&.
+into reality&."
 
 I didn't have a scrap of proof for it myself&, but I tried mentioning
 one of my ideas&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10500970ta">
-"Th&, that's why&.&.&. 'Shogun' is out to get me&.&.&. I
-think&.&.&."
+"Th&, that's why&.&.&. 'Shogun' is out to get me&.&.&. I think&.&.&."
 
 Because there was no other reason for him to target me&.
 
@@ -1252,8 +1239,7 @@ Otaku are fundamentally harmless&.
 Since they shut themselves up in their own world&.
 
 If they've got the free time to cause trouble for 3-D people&, they'd
-rather play around with c<pre>u</pre>te&, moe 2-D characters
-in their heads&.
+rather play around with c<pre>u</pre>te&, moe 2-D characters in their heads&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/10500980ri">
@@ -1271,8 +1257,7 @@ I shook my head&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/10501010ta">
-"I&, I might be able to&.&.&. use the power&.&.&. even without
-equipment&."
+"I&, I might be able to&.&.&. use the power&.&.&. even without equipment&."
 
 {	Stand("stóúê[_êßïû_í èÌ","smile", 200, @+150);
 	FadeStand("stóúê[_êßïû_í èÌ_smile", 500, true);

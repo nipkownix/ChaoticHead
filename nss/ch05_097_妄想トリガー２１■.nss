@@ -234,8 +234,7 @@ Rimi looked down at me bashfully&, as though she'd read my mind&.
 //ÅüÉEÉBÉXÉpÅ[
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700090ri">
-"If we stay low like this&.&.&. no one will be able to see
-us&.&.&."
+"If we stay low like this&.&.&. no one will be able to see us&.&.&."
 
 S&, so what about it&.&.&.
 
@@ -443,8 +442,7 @@ We were simply standing normally&, facing one another&.
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700310ri">
 "Ca&, calm down&."
 
-I leapt away from Rimi&, turned my back on her&, and took deep
-breaths&.
+I leapt away from Rimi&, turned my back on her&, and took deep breaths&.
 
 Haa&.&.&. I&, I'd had an ero delusion&.&.&.
 
@@ -455,16 +453,14 @@ No&, no&, it was also Rimi's fault for talking about repaying me&. Any
 male would start imagining stuff if he heard such a suggestive&, sexy
 line&.&.&.
 
-C&, come to think of it&, how did she intend to repay me&, after
-all&.&.&.
+C&, come to think of it&, how did she intend to repay me&, after all&.&.&.
 
 {	Stand("buóúê[_êßïû_í èÌ","hard", 200, @+150);
 	FadeStand("buóúê[_êßïû_í èÌ_hard", 500, true);
 	DeleteStand("buóúê[_êßïû_í èÌ_smile", 0, true);}
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700320ri">
-"I'm gonna go ahead and guess that you weren't listening to me&,
-right?"
+"I'm gonna go ahead and guess that you weren't listening to me&, right?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09700330ta">
@@ -495,9 +491,8 @@ right?"
 
 We&, well&, there's reality for you&.
 
-Speaking of which&, why had I fantasized about things ending up that
-way with Rimi&, anyway? I wasn't supposed to be interested in 3-D
-girls&.
+Speaking of which&, why had I fantasized about things ending up that way
+with Rimi&, anyway? I wasn't supposed to be interested in 3-D girls&.
 
 {	Stand("buóúê[_êßïû_í èÌ","happy", 200, @+150);
 	DeleteStand("buóúê[_êßïû_ê≥ñ _normal", 500, false);
@@ -587,8 +582,7 @@ Disregarding my confusion&, Rimi went on talking even more seriously&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700450ri">
-"FES's prophecies&.&.&. only hold true for those who buy her
-CDs&.&.&."
+"FES's prophecies&.&.&. only hold true for those who buy her CDs&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700460ri">
@@ -658,8 +652,7 @@ Oh&, just my imagination&.&.&. It sure had surprised me&.&.&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700530ri">
-"I'm gonna go ahead and guess that you weren't listening to me&,
-right?"
+"I'm gonna go ahead and guess that you weren't listening to me&, right?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09700540ta">
@@ -799,8 +792,7 @@ normally&.&.&."
 A wide smile&.
 One that looked amazingly happy&.
 
-She seemed so charged up&, I thought she might throw her arms around
-me&.
+She seemed so charged up&, I thought she might throw her arms around me&.
 
 I almost never did anything to make a girl delighted&, so I couldn't
 help being happy about it as well&.
@@ -944,19 +936,18 @@ What to do&, she'd asked&.&.&. What was I supposed to do?
 Rimi hadn't come here to hang out in the first place&.
 Her original aim had been to borrow my CD&.
 
-If she were going to do me the favor of staying here with me&, how
-should I respond?
+If she were going to do me the favor of staying here with me&,
+how should I respond?
 
 Did I even have to do anything&, to begin with?
 
-If this were an eroge&, we'd jump right into an H-sce<pre>n</pre>e&,
-but&.&.&.
+If this were an eroge&, we'd jump right into an H-sce<pre>n</pre>e&, but&.&.&.
 
 Crappity crap&.
 I'd better not think about that sort of thing right now&.
 
-Even under the best of circumstances&, I would still feel very
-strained being alone in my room with a 3-D girl&.
+Even under the best of circumstances&, I would still feel very strained
+being alone in my room with a 3-D girl&.
 
 If I let my imagination run away with me unnecessarily&, I'd become
 overly conscious of her and might do something weird to give myself
@@ -1101,8 +1092,7 @@ I&, I certainly couldn't ignore her&, could I&.&.&.
 "D&, do you&.&.&. um&, believe delusions ca&, can become reality?"
 
 As I entered search keywords into my browser&, I spoke without looking
-over at Rimi; in fact&, it seemed more like I was addressing
-Seira-tan&.
+over at Rimi; in fact&, it seemed more like I was addressing Seira-tan&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700850ri">
@@ -1114,8 +1104,7 @@ Seira-tan&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09700870ri">
-"If they could do that&, people would already have become
-omnipotent&."
+"If they could do that&, people would already have become omnipotent&."
 
 Omnipotent&.&.&. huh&. That very well might be the case&.
 
@@ -1253,9 +1242,8 @@ Even so&, I persisted in inputting more new keywords&.
 [text019]
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09701040ta">
-"Be&, because the sce<pre>n</pre>ery in a recording device&, and the
-things you imagine in your head&, are b&, both&.&.&.
-electrical signals&, so&.&.&."
+"Be&, because the sce<pre>n</pre>ery in a recording device&, and the things you
+imagine in your head&, are b&, both&.&.&. electrical signals&, so&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09701050ri">
@@ -1267,8 +1255,8 @@ electrical signals&, so&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09701070ta">
-"Think about sending electrical signals out of your brain&, not
-sending electrical signals into your brain&.&.&."
+"Think about sending electrical signals out of your brain&,
+not sending electrical signals into your brain&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09701080ri">
@@ -1359,8 +1347,7 @@ I unthinkingly hovered out of my chair&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09701160ta">
-"Technology for&.&.&. 'secretly recording' people's
-thoughts&.&.&.!"
+"Technology for&.&.&. 'secretly recording' people's thoughts&.&.&.!"
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09701170ri">
@@ -1383,8 +1370,7 @@ planet&.&.&.
 [text021]
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09701180ri">
-"Can they really do that? It's not a sci-fi novel or
-something&.&.&.?"
+"Can they really do that? It's not a sci-fi novel or something&.&.&.?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09701190ta">
@@ -1436,8 +1422,8 @@ neural pulsesÅ\"
 
 //ÅyÉZÉiÅz
 <voice name="ÉZÉi" class="ÉZÉi" src="voice/ch04/08200110sn">
-"Would it not also be possible to control all of people's five
-senses&, as well&, as their free will itself?"
+"Would it not also be possible to control all of people's five senses&,
+as well as their free will itself?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1498,8 +1484,7 @@ reading it as well&.
 The phrasing might get kind of weird&, but I used an automatic
 translator to convert it to Japanese&.
 
-The contents were&, in sum&, something along the lines of the
-following&.
+The contents were&, in sum&, something along the lines of the following&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1579,8 +1564,7 @@ government's involvement&.&.&."
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09701280ri">
-"AhÅ\&, I know about this&. I saw it in a movie a couple of years
-ago!"
+"AhÅ\&, I know about this&. I saw it in a movie a couple of years ago!"
 
 That's fiction&.&.&.
 
@@ -1658,11 +1642,9 @@ At the time&.&.&.
 Ayase had become two people before my very eyes&.
 
 I hadn't witnessed the second when she "became like that&," but when I
-turned around&, another Ayase was there&, and in her lingerie&, to
-boot&.
+turned around&, another Ayase was there&, and in her lingerie&, to boot&.
 
-She had showed me how she pulled her Di-Sword out of thin air as
-well&.
+She had showed me how she pulled her Di-Sword out of thin air as well&.
 
 It hadn't been an illusion or a delusion&.
 
@@ -1703,8 +1685,7 @@ Ayase's underwear might be&.
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch05/09701320ay">
 "That means only one thing&."
 
-Was this what she had been referring to when she mentioned "the
-power"?
+Was this what she had been referring to when she mentioned "the power"?
 
 The power to project delusions into reality&.
 Perhaps I possessed it&.
@@ -1765,8 +1746,7 @@ I hadn't witnessed the second when she "became like that&," but when I
 turned around&, another Ayase was there&, and in a school swimsuit&,
 to boot&.
 
-She had showed me how she pulled her Di-Sword out of thin air as
-well&.
+She had showed me how she pulled her Di-Sword out of thin air as well&.
 
 It hadn't been an illusion or a delusion&.
 
@@ -1807,8 +1787,7 @@ would be if Ayase wore a school swimsuit&.
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch05/09701360ay">
 "That means only one thing&."
 
-Was this what she had been referring to when she mentioned "the
-power"?
+Was this what she had been referring to when she mentioned "the power"?
 
 The power to project delusions into reality&.
 Perhaps I possessed it&.
@@ -1861,8 +1840,7 @@ Ayase had become two people before my very eyes&.
 I hadn't witnessed the second when she "became like that&," but when I
 turned around&, another Ayase was there&.
 
-She had showed me how she pulled her Di-Sword out of thin air as
-well&.
+She had showed me how she pulled her Di-Sword out of thin air as well&.
 
 It hadn't been an illusion or a delusion&.
 
@@ -1900,8 +1878,7 @@ Was it truly the result of what I'd envisioned&.&.&.
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch05/09701400ay">
 "That means only one thing&."
 
-Was this what she had been referring to when she mentioned "the
-power"?
+Was this what she had been referring to when she mentioned "the power"?
 
 The power to project delusions into reality&.
 Perhaps I possessed it&.
@@ -1944,8 +1921,8 @@ Perhaps I possessed it&.
 No&, no&, no&.
 I was getting way ahead of myself here&.
 
-It was too much of a leap to assume such a supernatural power
-existed&, simply because there was a system capable of scientifically
+It was too much of a leap to assume such a supernatural power existed&,
+simply because there was a system capable of scientifically
 replaying delusions on film&.
 
 {	SetTrigger("ÇQÇQ");}

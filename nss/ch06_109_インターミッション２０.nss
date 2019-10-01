@@ -66,9 +66,8 @@ function ch06_109_インターミッション２０()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-Under ordinary circumstances&, being released from a long
-investigatory headquarters meeting would have left Ban Yasuji feeling
-refreshed&.
+Under ordinary circumstances&, being released from a long investigatory
+headquarters meeting would have left Ban Yasuji feeling refreshed&.
 
 But that certainly couldn't be said of today&, when he left the other
 detectives and went up to the windowsill to irritatedly place a call
@@ -79,9 +78,9 @@ to his junior&.
 	Wait(4000);
 	CreateSE("SE03","SE_日常_電話_呼び出し音_Loop");
 	SoundPlay("SE03",0,1000,true);}
-His partner&, Suwa&, hadn't shown up at today's investigation
-meeting&. Ban's personal feeling about it was&, "Sure&, even I wanna
-skip&, but what're you thinking&, abandoning your senior like this?"
+His partner&, Suwa&, hadn't shown up at today's investigation meeting&.
+Ban's personal feeling about it was&, "Sure&, even I wanna skip&,
+but what're you thinking&, abandoning your senior like this?"
 
 At first glance&, Suwa seemed like a frivolous sort of man&, but in
 reality&, he was a serious detective with some real backbone to him&.
@@ -106,8 +105,7 @@ down with&, "We don't have the time to deal with idle gossip&."
 Ban let out a small sigh as he waved his fan at his face&.
 
 {	SoundPlay("SE03",0,0,false);}
-Which was when his call went through&, and he heard his junior's
-voice&.
+Which was when his call went through&, and he heard his junior's voice&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -131,14 +129,13 @@ voice&.
 <voice name="判" class="判" src="voice/ch06/10900020bn">
 "You danged fool! Where the hell had you loafed at!?"
 
-The connection was terribly low-quality&. Ban scratched his short
-hair&, wondering where in the boondocks Suwa had gone off to&.
+The connection was terribly low-quality&. Ban scratched his short hair&,
+wondering where in the boondocks Suwa had gone off to&.
 
 //◆「すんません、今聞き込み中なんスよ。ちょっと自分なりに思うところがあって」
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch06/10900030su">
-"So&.&.&. y&, I'm busy questi&.&.&. pects&. &.&.&.own
-ideas&.&.&. y'know&."
+"So&.&.&. y&, I'm busy questi&.&.&. pects&. &.&.&.own ideas&.&.&. y'know&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch06/10900040bn">
@@ -285,14 +282,12 @@ the other&, sending up violent crashing noises&.
 The two whiteboards lined up at the head of the conference room also
 collapsed&.
 
-―It was almost like being in a plane that had just entered
-turbulence&.
+―It was almost like being in a plane that had just entered turbulence&.
 
 So it seemed to Ban&.
 It felt as if his feet weren't meeting the ground&.
 
-His entire body rocked&, sending him swinging around from side to
-side&.
+His entire body rocked&, sending him swinging around from side to side&.
 
 This could conceivably be a 5 or 6 magnitude earthquake&.
 
@@ -314,8 +309,7 @@ Now&, of all times&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-That was when something slammed into Ban's head&. He cried out at
-once&.
+That was when something slammed into Ban's head&. He cried out at once&.
 
 It wasn't that someone had physically struck him&.
 It was an intense headache&.

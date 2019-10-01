@@ -55,8 +55,7 @@ Because of the commotion over Ayase and the midday earthquake&, school
 must have canceled classes early and sent the other students home&.
 
 If I waited a little longer&, maybe Rimi would come visit me&. Until
-then&.&.&. I probably had no choice but to endure the fear on my
-own&.
+then&.&.&. I probably had no choice but to endure the fear on my own&.
 
 To continue averting my eyes from my anxiety&, I decided to use my
 recovered PC to gather information&.
@@ -70,8 +69,8 @@ recovered PC to gather information&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text801]
-The little light on my cell phone&, which I'd left next to the
-monitor&, was blinking&.
+The little light on my cell phone&, which I'd left next to the monitor&,
+was blinking&.
 
 When I opened it&, I had a new email&.
 I'd thought maybe Rimi had contacted me&, but&.&.&.

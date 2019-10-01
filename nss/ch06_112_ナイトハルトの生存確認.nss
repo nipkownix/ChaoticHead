@@ -51,9 +51,8 @@ Midway through&, the pain had made me lose consciousness a number of
 times&. I'd dozed off at the computer before&, but this was the first
 time I'd actually passed out&.
 
-Even so&, the pain had mostly retreated compared to two hours
-earlier&. I wet my throat by drinking some Coke and mustered my
-energy&.
+Even so&, the pain had mostly retreated compared to two hours earlier&.
+I wet my throat by drinking some Coke and mustered my energy&.
 
 I returned my toppled bed to its original position and cleared some
 space on the floor to walk around in&.
@@ -96,8 +95,7 @@ logging into Baselard&.
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11200010ta">
 "Y&, yes&.&.&. yes&.&.&.! Neidhardt's still there&.&.&.! All
-my equipment and stuff is safe&, too&. Thank God&.&.&. thank
-god&.&.&."
+my equipment and stuff is safe&, too&. Thank God&.&.&. thank god&.&.&."
 
 {	CreateSE("SE01","SE_ì˙èÌ_â∆ãÔ_ÉCÉX_Áa");
 	SoundPlay("SE01",0,1000,false);}
@@ -154,8 +152,7 @@ turned white&, and that a vast mushroom cloud had risen&, but no one
 seemed to be aware of how these were connected to the earthquake&.
 
 They had pounced on it over at @channel as well&, with a lot of people
-posting threads like&, "Shibuya again" and "Shibuya is over&, isn't
-it&."
+posting threads like&, "Shibuya again" and "Shibuya is over&, isn't it&."
 
 Videos had been uploaded&, ones that showed film from the traffic
 cameras at the pedestrian scramble&.
@@ -196,8 +193,8 @@ weren't completely mistaken&.&.&.
 Right then&, I heard a familiar noise from my PC&. It was the sound
 that rang out whenever someone entered a chat room&.
 
-Maybe Grim had entered&. Reckoning I would ask him for the details&, I
-flicked my eyes toward the chat window&.
+Maybe Grim had entered&. Reckoning I would ask him for the details&,
+I flicked my eyes toward the chat window&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -344,9 +341,9 @@ monitor&.
 But the post by "Shogun" galvanized me&, letting my petrified body
 move freely again&, and I soon groped for my cell phone&.
 
-It was a little past three&. Classes might still be going on&. Even
-so&, Rimi&, surely Rimi would do something about it for me&.&.&. I
-had to believe this&.
+It was a little past three&. Classes might still be going on&. Even so&,
+Rimi&, surely Rimi would do something about it for me&.&.&.
+I had to believe this&.
 
 I picked Rimi's cell phone number out of the short list of items
 recorded in my address book&.

@@ -68,7 +68,7 @@ function SetTrigger("$妄想トリガー名")
 		$SYSTEM_skip = false;
 		$SYSTEM_text_auto = false;
 	}
-	
+
 	WaitAction("@エンドトリガー");
 	
 	if($妄想トリガー名 == "１")

@@ -87,8 +87,8 @@ if($ñœëzÉgÉäÉKÅ[ÇQÇQ == 2)
 Leaving Rimi to gaze at the monitor&, her eyebrows furrowed&, I picked
 up the toy Di-Sword propped up in a corner of my room&.
 
-I stood in the center of the room and held it up at eye level&, just
-like an ESO character&.
+I stood in the center of the room and held it up at eye level&,
+just like an ESO character&.
 I closed my eyes&.
 
 </PRE>
@@ -135,15 +135,14 @@ even the tiniest little details&.
 When I had somehow managed to solidify my mental image&, I grit my
 molars and clenched the sword in both hands&.
 
-Become real&.&.&.! Become real&.&.&.! Become real&.&.&.! Become
-real&.&.&.! Become real&.&.&.! Become real&.&.&.! Become
-real&.&.&.! Become real&.&.&.!
+Become real&.&.&.! Become real&.&.&.! Become real&.&.&.! Become real&.&.&.!
+Become real&.&.&.! Become real&.&.&.! Become real&.&.&.! Become real&.&.&.!
 
 I prayed&.
 I thought of solely one thing&.
 
-I was currently gripping a true Di-Sword&. Not a knock-off&. The real
-thing&.
+I was currently gripping a true Di-Sword&. Not a knock-off&.
+The real thing&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09800010ta">
@@ -230,8 +229,8 @@ Hm&.&.&.?
 
 It wasn't merely a presence&. I'd also heard a voice just now&.
 
-To be more accurate&, it was a sound like someone breathing&, rather
-than using words&.
+To be more accurate&, it was a sound like someone breathing&,
+rather than using words&.
 
 N&, no way&.&.&.
 I might have made an unbelievably stupid misunderstanding&.&.&.
@@ -481,8 +480,8 @@ if($ñœëzÉgÉäÉKÅ[ÇQÇQ == 1)
 Leaving Rimi to gaze at the monitor&, her eyebrows furrowed&, I picked
 up the toy Di-Sword propped up in a corner of my room&.
 
-I stood in the center of the room and held it up at eye level&, just
-like an ESO character&.
+I stood in the center of the room and held it up at eye level&,
+just like an ESO character&.
 
 At this point&, I started to feel rather comical&.
 
@@ -787,8 +786,8 @@ if($ñœëzÉgÉäÉKÅ[ÇQÇQ == 0)
 [text018]
 I took up the toy Di-Sword propped up in a corner of my room&.
 
-I stood in the center of the room and held it up at eye level&, just
-like an ESO character&.
+I stood in the center of the room and held it up at eye level&,
+just like an ESO character&.
 
 Okay&, now I had to picture a sword in my headÅ\
 
@@ -839,11 +838,9 @@ I was too ashamed to look her way&.
 Surely the figure of speech about wanting to go bury yourself in a
 hole was meant to be used in exactly this sort of situation&.
 
-Maybe she would be gracious enough to pretend she hadn't seen
-anything&.
+Maybe she would be gracious enough to pretend she hadn't seen anything&.
 
-If she were&, I'd prostrate myself before her&, I'd do
-anything&.&.&.
+If she were&, I'd prostrate myself before her&, I'd do anything&.&.&.
 
 So I thought&, until Rimi delivered the fatal blow&.
 
@@ -900,8 +897,7 @@ Why else&, if not because it embarrasses me?
 She'd seen something I shouldn't have shown her&.
 
 I felt like I was currently quite close to the psychological state of
-a guy whose girlfriend has just discovered his secret porn
-stash&.&.&.
+a guy whose girlfriend has just discovered his secret porn stash&.&.&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09800480ri">
@@ -937,8 +933,7 @@ resolve her misunderstandingÅ\
 //ÅüÇÕÇ…Ç©Çﬁ
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09800510ri">
-"It really plucked at my heartstrings&, what you did just now&.
-Ahaha&."
+"It really plucked at my heartstrings&, what you did just now&. Ahaha&."
 
 Rimi writhed in delight&, hugging the Seira-tan pillow I'd left on my
 desk chair&.
@@ -1087,8 +1082,7 @@ Rimi regarded me dubiously&, tilting her head&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09800670ta">
-"T&, two of them&. Gi&, girls at the&.&.&. same school as
-us&.&.&."
+"T&, two of them&. Gi&, girls at the&.&.&. same school as us&.&.&."
 
 {	Stand("stóúê[_êßïû_í èÌ","hard", 200, @-100);
 	FadeStand("stóúê[_êßïû_í èÌ_hard", 500, true);
@@ -1186,8 +1180,7 @@ I sighed and closed my eyes&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text026]
-Maybe Rimi would offer to help me look for it of her own
-accord&.&.&.
+Maybe Rimi would offer to help me look for it of her own accord&.&.&.
 
 If so&, I'd give her my okay ASAP&.
 
@@ -1201,9 +1194,9 @@ And so&, maybeÅ\
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09800800ri">
-"Anyway&. Even if there's a real one out there&, you shouldn't buy
-it&, okay? It's fine to own a toy like the one you have now&, but a
-real one would break the Swords and Firearms Control Law!"
+"Anyway&. Even if there's a real one out there&, you shouldn't buy it&,
+okay? It's fine to own a toy like the one you have now&, but a real one
+would break the Swords and Firearms Control Law!"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch05/09800810ta">
@@ -1215,8 +1208,8 @@ Uuhh&, I'm disappointed in you&, Rimi&.&.&.
 Well&, no doubt her reaction was quite upstanding from the point of
 view of your average Joe&.
 
-These past few weeks&, I'd run into all kinds of unexplainable
-things&, and I'd been on the brink of believing everything Sena and
+These past few weeks&, I'd run into all kinds of unexplainable things&,
+and I'd been on the brink of believing everything Sena and
 Ayase told me&.
 
 &.&.&.But perhaps my only choice was to search for the Di-Sword on
@@ -1237,8 +1230,7 @@ I sensed Rimi sit down next to me&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09800830ri">
-"The girls who own the real version of that sword&.&.&. who are
-they?"
+"The girls who own the real version of that sword&.&.&. who are they?"
 
 {	SetVolume("@CH15", 1000, 0, NULL);}
 I heard her voice from close by&.
@@ -1247,8 +1239,7 @@ She was right beside me&.&.&.
 The two of us&, all alone in a dim&, closed room&. Moreover&, we were
 sitting next to each other&.&.&.
 
-It's a state of emergency&.&.&.! I've entered a state of
-emergency&.&.&.!
+It's a state of emergency&.&.&.! I've entered a state of emergency&.&.&.!
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch05/09800840ri">
@@ -1268,8 +1259,7 @@ The only conversation that could possibly develop from this topic was
 one about romance&.&.&.!
 
 And she'd say things to me that sounded rather like a confession&, and
-there'd start to be some real nice vibes between us&.&.&.
-and&.&.&.!?
+there'd start to be some real nice vibes between us&.&.&. and&.&.&.!?
 
 N&, no&, I'm totally unprepared for this!
 

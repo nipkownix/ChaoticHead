@@ -95,8 +95,8 @@ there&.
 Screaming and a general roar overflowed from the spectators all at
 once&.
 
-Ayase's body lost its support like a puppet whose strings had been
-cu<pre>t</pre>&, and she flew inverted through the air&.
+Ayase's body lost its support like a puppet whose strings had been cu<pre>t</pre>&,
+and she flew inverted through the air&.
 
 {	SoundPlay("SE01", 5000, 0, false);}
 Everything went into slow motion&.
@@ -245,8 +245,7 @@ Alive?
 Ayase lay fallen&.
 
 I couldn't tell&.&.&. whether or not her bones had shattered&.
-I couldn't tell&.&.&. whether or not her innards had turned to
-pulp&.
+I couldn't tell&.&.&. whether or not her innards had turned to pulp&.
 
 Her spinal fluid&.&.&. hadn't come lashing out&.
 Blackish blood&.&.&. hadn't flown everywhere&.

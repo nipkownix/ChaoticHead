@@ -80,9 +80,9 @@ patient&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500040nr">
-"Now&, then&. There are hundreds of millions of cells in the human
-brain&. They send out the delicate threads of nerve endings&, which
-makes it look as if they are clasping each other's hands&."
+"Now&, then&. There are hundreds of millions of cells in the human brain&.
+They send out the delicate threads of nerve endings&, which makes it
+look as if they are clasping each other's hands&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500050nr">
@@ -91,10 +91,9 @@ hands of the individual nerves&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500060nr">
-{#TIPS_ƒh[ƒpƒ~ƒ“ = true;}"When information in the form of an
-electrical signal is transmitted through a neuron&, microscopic
-particles of <FONT incolor="#88abda" outcolor="BLACK">dopamine</FONT> come flying out of the palm of the neuron's
-hand&."
+{#TIPS_ƒh[ƒpƒ~ƒ“ = true;}"When information in the form of an electrical signal is transmitted
+through a neuron&, microscopic particles of <FONT incolor="#88abda" outcolor="BLACK">dopamine</FONT> come flying
+out of the palm of the neuron's hand&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500070nr">
@@ -135,8 +134,8 @@ our company\"
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500130nr">
 "It's closer to a hallucination&. But the clear difference between
-them is that our artificial images have a definite weight to them&, a
-sense of presence&."
+them is that our artificial images have a definite weight to them&,
+a sense of presence&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500140nr">
@@ -145,8 +144,8 @@ fascinating&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500150nr">
-"With a single eye&, the field of sight extends from about 60
-degrees&, by one's nose&, to about 100 degrees&, by one's ear&.
+"With a single eye&, the field of sight extends from about 60 degrees&,
+by one's nose&, to about 100 degrees&, by one's ear&.
 With both eyes&, the overlapping field of sight reaches 120 degrees&,
 spreading to 180 to 200 if we include peripheral vision&."
 
@@ -163,8 +162,7 @@ information from the optical nerve&."
 
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch06/12500180ih">
-"The Committee of 300 is also paying close attention to these
-facts&."
+"The Committee of 300 is also paying close attention to these facts&."
 
 //y‘qz
 <voice name="‘q" class="‘q" src="voice/ch06/12500190kr">
@@ -226,8 +224,8 @@ results from you&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500300nr">
-"Results sufficient to steal a march on the Committee of 300&, you
-mean&."
+"Results sufficient to steal a march on the Committee of 300&,
+you mean&."
 
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch06/12500310ih">
@@ -260,8 +258,7 @@ true aims&."
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500360nr">
 "The artificial images produced by Noah II are converted to neural
-pulses and irradiate the subject in the form of electromagnetic
-waves&. "
+pulses and irradiate the subject in the form of electromagnetic waves&."
 
 "They pass through the exposed subject's skin and cranium and
 are caught directly by dopamine receptors&, the 'palms of the hand' I
@@ -381,13 +378,13 @@ meaningless if we can't select the target&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500540nr">
-{#TIPS_ƒ}ƒCƒ“ƒhƒRƒ“ƒgƒ[ƒ‹ = true;}"To put it another way&, one could
-perhaps describe them as a <FONT incolor="#88abda"
+{#TIPS_ƒ}ƒCƒ“ƒhƒRƒ“ƒgƒ[ƒ‹ = true;}"To put it another way&, one could perhaps describe them
+as a <FONT incolor="#88abda"
 outcolor="BLACK">mind control</FONT> corps&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch06/12500550nr">
-"Inside the rucksacks they wear are ports designed to act as a
+"Inside the rucksacks they wear are ports designed to act as
 transceivers for the pulses from 'Noah II&.'"
 
 //y–ì˜C£z
@@ -407,8 +404,7 @@ limited fashion&."
 
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch06/12500590ih">
-"I comprehend the present situation&. Continue to proceed as
-planned&."
+"I comprehend the present situation&. Continue to proceed as planned&."
 
 //y‘qz
 <voice name="‘q" class="‘q" src="voice/ch06/12500600kr">

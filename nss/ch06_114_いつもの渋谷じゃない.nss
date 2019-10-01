@@ -59,8 +59,8 @@ in the middle of the road&. I didn't see their drivers anywhere&.
 The traffic was the fault of those abandoned cars&, and the other
 drivers all honked on and on as if they were going insane&.
 
-As I stumbled my way toward school&, a lone dog cu<pre>t</pre> in
-front of me&, howling as it crossed my path&.
+As I stumbled my way toward school&, a lone dog cu<pre>t</pre> in front of me&,
+howling as it crossed my path&.
 
 It was a Chihuahua with bloodshot eyes&, dragging its leash behind its
 short body as it sprinted with all its might&.
