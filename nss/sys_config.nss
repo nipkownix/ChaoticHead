@@ -6,7 +6,6 @@
 chapter main
 {
 	$SYSTEM_backlog_lock=TRUE;
-
 	$cfgtab=1;
 	
 	//SetFont("DroidMSGothic",21,#00000,#FFFFFF,500,NONE);
@@ -87,7 +86,7 @@ chapter main
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseUsual/img",0,643,240,"IMG_check_hit");
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseOver/img",0,643,240,"IMG_check_hit");
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseClick/img",0,643,240,"IMG_check_hit");
-
+	
 	CreateChoice("TAB1_select_Font1");
 	CreateTexture("TAB1_check_Font1",10100,332,331,"IMG_check");
 	CreateTexture("TAB1_select_Font1/MouseUsual/img",0,323,331,"IMG_check_hit");
@@ -444,13 +443,13 @@ chapter main
 					Fade("TAB1_check_Font4",200,0,null,false);
 					Fade("TAB1_check_Font2",200,1000,null,false);
 				}case TAB1_select_Font3{
-					#SYSTEM_font_family=RodinBokutoh;
+					#SYSTEM_font_family=Iosevka;
 					Fade("TAB1_check_Font1",200,0,null,false);
 					Fade("TAB1_check_Font2",200,0,null,false);
 					Fade("TAB1_check_Font4",200,0,null,false);
 					Fade("TAB1_check_Font3",200,1000,null,false);
 				}case TAB1_select_Font4{
-					#SYSTEM_font_family=Tahoma;
+					#SYSTEM_font_family=IBMPlex;
 					Fade("TAB1_check_Font1",200,0,null,false);
 					Fade("TAB1_check_Font2",200,0,null,false);
 					Fade("TAB1_check_Font3",200,0,null,false);
@@ -899,9 +898,9 @@ function cfgHighlight()
 			Fade("TAB1_check_Font1",0,1000,null,false);
 		}else if(#SYSTEM_font_family==Ubuntu){
 			Fade("TAB1_check_Font2",0,1000,null,false);
-		}else if(#SYSTEM_font_family==RodinBokutoh){
+		}else if(#SYSTEM_font_family==Iosevka){
 			Fade("TAB1_check_Font3",0,1000,null,false);
-		}else if(#SYSTEM_font_family==Tahoma){
+		}else if(#SYSTEM_font_family==IBMPlex){
 			Fade("TAB1_check_Font4",0,1000,null,false);
 		}
 		if(!$PLACE_title){

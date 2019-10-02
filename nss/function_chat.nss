@@ -88,9 +88,15 @@ function SetChat("ボックス名","$テキスト名",テキスト色)
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "DroidMSGothic";
 		$cnsize = 16;
-	}else{
-		$cFamName = "DroidUbuntu";
+	}else if(#SYSTEM_font_family==Ubuntu){
+		$cFamName = "DroidUbuntuMono";
+		$cnsize = 12;
+	}else if(#SYSTEM_font_family==Iosevka){
+		$cFamName = "DroidIosevka";
 		$cnsize = 16;
+	}else if(#SYSTEM_font_family==IBMPlex){
+		$cFamName = "DroidIBMPlexMono";
+		$cnsize = 13;
 	}
 	SetFont($cFamName, $cnsize, テキスト色, #000000, 500, LIGHTDOWN);
 	LoadText("$構文名","ボックス名","$テキスト名",380,400,0,16);
@@ -176,6 +182,13 @@ function TypeChat("タイム")
 
 	Wait(タイム);
 }
+
+
+
+
+
+
+
 
 ..NumberChat
 function NumberChat()

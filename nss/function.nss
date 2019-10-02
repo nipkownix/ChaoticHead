@@ -76,14 +76,14 @@ function LoadMainFont("objname", "crapfont", "$size", "color1", "color2", "numbe
 		$FamName = "DroidMSGothic";
 		$nsize = $size+6;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$FamName = "DroidUbuntu";
-		$nsize = $size+8;
-	}else if(#SYSTEM_font_family==RodinBokutoh){
-		$FamName = "DroidRodinBokutohPro-DB";
-		$nsize = $size+4;
-	}else if(#SYSTEM_font_family==Tahoma){
-		$FamName = "DroidTahoma";
+		$FamName = "DroidUbuntuMono";
+		$nsize = $size;
+	}else if(#SYSTEM_font_family==Iosevka){
+		$FamName = "DroidIosevka";
 		$nsize = $size+6;
+	}else if(#SYSTEM_font_family==IBMPlex){
+		$FamName = "DroidIBMPlexMono";
+		$nsize = $size+2;
 	}
 	$abcd = "QWERTYUIOPASDFGHJKLCZXCVBNMqwertyuiopasdfghjklczxcvbnm1234567890?!,.-_"
 	
@@ -96,29 +96,30 @@ function SetMainFont("crapfont", "$size", "color1", "color2", "number", "type")
 		$FamName = "DroidMSGothic";
 		$nsize = $size+6;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$FamName = "DroidUbuntu";
-		$nsize = $size+8;
-	}else if(#SYSTEM_font_family==RodinBokutoh){
-		$FamName = "DroidRodinBokutohPro-DB";
-		$nsize = $size+4;
-	}else if(#SYSTEM_font_family==Tahoma){
-		$FamName = "DroidTahoma";
+		$FamName = "DroidUbuntuMono";
+		$nsize = $size;
+	}else if(#SYSTEM_font_family==Iosevka){
+		$FamName = "DroidIosevka";
 		$nsize = $size+6;
+	}else if(#SYSTEM_font_family==IBMPlex){
+		$FamName = "DroidIBMPlexMono";
+		$nsize = $size+2;
 	}
     SetFont($FamName, $nsize, color1, color2, number, type);
 }
 
 function LoadMainText("synname", "bname", "tname", "$tframe", "num1", "cspace", "lheight")
 {
-	if(#SYSTEM_font_family==MSGothic){
-		$ntframe = $tframe;
-	}else if(#SYSTEM_font_family==Ubuntu){
-		$ntframe = $tframe;
-	}else if(#SYSTEM_font_family==RodinBokutoh){
-		$ntframe = $tframe;
-	}else if(#SYSTEM_font_family==Tahoma){
-		$ntframe = $tframe;
-	}
+//	if(#SYSTEM_font_family==MSGothic){
+//		$ntframe = $tframe;
+//	}else if(#SYSTEM_font_family==Ubuntu){
+//		$ntframe = $tframe;
+//	}else if(#SYSTEM_font_family==RodinBokutoh){
+/		$ntframe = $tframe;
+//	}else if(#SYSTEM_font_family==Tahoma){
+//		$ntframe = $tframe;
+//	}
+	$ntframe = $tframe;
 	LoadText(synname, bname, tname, $ntframe, num1, cspace, lheight);
 }
 
