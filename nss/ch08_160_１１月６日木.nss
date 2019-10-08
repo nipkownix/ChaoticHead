@@ -62,9 +62,9 @@ invited me to go pay Ayase a visit in the hospital&.
 
 He'd caught me by surprise&, as it hadn't so much as occurred to me&.
 
-And before I could reply&, Rimi inexplicitly said&, "I wanna come
-too&," so I was compelled to go along with the flow and come to the
-hospital with them&.
+And before I could reply&, Rimi inexplicitly said&, "I wanna come too&,"
+so I was compelled to go along with the flow and come to the hospital
+with them&.
 
 For the record&, I'm definitely not a cold person&.
 
@@ -137,7 +137,6 @@ could be found where&.
 
 Unable to help remembering Dr&. Takashina&, I uttered a silent groan&.
 
-
 Misumi-kun turned back toward me as he started walking toward the
 hospital building&.
 
@@ -154,8 +153,7 @@ hospital building&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch08/16000080ta">
 "H&, how&.&.&. should I know&.&.&."
 
-This was a general hospital&, so it had a lot of different
-departments&.
+This was a general hospital&, so it had a lot of different departments&.
 If I were to think about itÅ\
 
 //ÅyëÒñ§Åz
@@ -167,7 +165,7 @@ If I were to think about itÅ\
 "B&, but maybe in the psychiatric ward&.&.&."
 
 Ayase hadn't appeared to have taken on many external injuries when she
-fell&. And because planning to do suicide&, by jumping off must have
+fell&. And because planning to commit suicide by jumping off must have
 meant she'd been driven to the brink psychologically&, it would make
 plenty of sense for her to be in the psych ward&.
 

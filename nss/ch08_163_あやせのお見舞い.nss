@@ -64,8 +64,7 @@ standing in front of the window there&, looking outside&.
 	FadeStand("st‘å•ã_§•_’Êí_shock", 200, true);}
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16300020mi">
-"What's up&, Taku? You're soaked in sweat&. And you're white as a
-sheet&."
+"What's up&, Taku? You're soaked in sweat&. And you're white as a sheet&."
 
 {	Stand("st‘å•ã_§•_’Êí","normal", 250, @210);
 	FadeStand("st‘å•ã_§•_’Êí_normal", 200, true);
@@ -83,8 +82,7 @@ Well&, that'll do ya in&. Don't you go overboard&, now&."
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16300050ta">
 "&.&.&.&.&.&.&."
 
-Wiping my sweat with my hand&, I made a frenetic effort to appear
-calm&.
+Wiping my sweat with my hand&, I made a frenetic effort to appear calm&.
 
 {	Stand("st‘å•ã_§•_’Êí","pride", 250, @210);
 	FadeStand("st‘å•ã_§•_’Êí_pride", 200, true);
@@ -113,13 +111,12 @@ Once I'd collected my breath&, I walked up to the window&.
 I could see the neighboring outpatient clinic from there&.
 
 The outpatient clinic and the hospital itself were in different
-buildings&. Although there appeared to be passageways connecting
-them&, they'd been constructed to stand slightly apart from each
-other&.
+buildings&. Although there appeared to be passageways connecting them&,
+they'd been constructed to stand slightly apart from each other&.
 
 The hospital wing had more floors&, and from this stairway landing&,
-we could just barely look down at the roof of the outpatient wing&. It
-was arranged like a garden&, with red flowers blooming in thick
+we could just barely look down at the roof of the outpatient wing&.
+It was arranged like a garden&, with red flowers blooming in thick
 plantings&, and must have been a restful place for patients&.
 
 Rimi and a pajama-clad Ayase stood facing each other in the very
@@ -149,8 +146,7 @@ Even looking from here&, we could pick up on the fact that it was a
 blow into which she'd put all her strength&.
 
 Ayase was leaving Rimi&. Since she was walking toward the passageway
-between the buildings&, maybe she meant to go back to her hospital
-room&.
+between the buildings&, maybe she meant to go back to her hospital room&.
 
 {	Stand("st‘å•ã_§•_’Êí","shock", 250, @200);
 	FadeStand("st‘å•ã_§•_’Êí_shock", 500, true);}
@@ -208,8 +204,8 @@ Misumi-kun&, walking ahead of me&, let out a small sound&.
 When I looked up in reaction to him&, Ayase was in the middle of
 walking straight toward us&.
 
-She'd hunched over a little&, and her line of sight was lowered&. Her
-footsteps were feeble&, and her countenance looked pale&. And yes&,
+She'd hunched over a little&, and her line of sight was lowered&.
+Her footsteps were feeble&, and her countenance looked pale&. And yes&,
 she wore a bleak expression&.
 
 Ayase ended up bumping heads with us right in front of her room&.
@@ -477,9 +473,9 @@ as proof&."
 Gladioul&.&.&.
 I remember now&.
 
-I'd seen it when I first looked up Di-Swords&. It had said the
-Di-Sword was a sword that originally appeared in pseudepigrapha and
-other forms of literature discussing the legend of Gladioul&.&.&.
+I'd seen it when I first looked up Di-Swords&. It had said the Di-Sword
+was a sword that originally appeared in pseudepigrapha and other forms
+of literature discussing the legend of Gladioul&.&.&.
 
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16300410mi">

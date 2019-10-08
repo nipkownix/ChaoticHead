@@ -102,7 +102,7 @@ me and smiled shyly&.
 {	MusicStart("SE01", 500, 0, 0, 0, null, true);}
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500010ko">
-"Kozu-pii is an android
+"Kozu-pii is an android&,
 created juuuust to protect you&, Takumi-shan&."
 
 //ÅyëÒñ§Åz
@@ -131,8 +131,8 @@ Ignoring my stupefication&, Kozu-pii clenched one hand into a c<pre>u</pre>te fi
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500060ko">
-"So&, sooo&, from now on I want to live with you&, Takumi-shan&, and
-take care of you&."
+"So&, sooo&, from now on I want to live with you&, Takumi-shan&,
+and take care of you&."
 
 I&, I see&, how convenient&.&.&.
 
@@ -163,7 +163,6 @@ As I waffled over whether or not to apologize&, <?>
 {	Stand("buèΩ_êßïû_ïêäÌç\Ç¶ê¬","shy", 500, @+100);
 	FadeStand("buèΩ_êßïû_ïêäÌç\Ç¶ê¬_shy", 300, true);
 	DeleteStand("buèΩ_êßïû_ïêäÌç\Ç¶ê¬_normal", 0, true);}
-
 Kozu-pii blushed and
 lowered her eyes&.
 
@@ -232,11 +231,11 @@ Kozu-pii made no attempt to conceal her sword from those around us&,
 as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
-Shibuya&, carrying her ginormous sword&, without a thought to spare
+Shibuya&, carrying her ginormous Di-Sword&, without a thought to spare
 for how it might inconvenience others&.
 
 They were far too composed about it&.
-Sena and Kozu-pii were both abnormal&, after all&.
+Sena and Kozu-pii were both abnormal after all&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -454,7 +453,7 @@ I braced myself to be ready to flee at any moment&.
 &.&.&.As though she hadn't noticed how I felt&, Kozu-pii strode
 lightly around the store&, sword in hand&.
 
-Kozu-pii made no attempt to conceal her sword from those around us&,
+She made no attempt to conceal her sword from those around us&,
 as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
@@ -560,8 +559,7 @@ Something about them nagged at me&.
 What I then recalled was a smell&.
 The smell of blood&.
 
-I recalled the spectacle of those fallen&, blood-drenched
-thugs&.&.&.
+I recalled the spectacle of those fallen&, blood-drenched thugs&.&.&.
 
 {	DeleteStand("stèΩ_êßïû_ïêäÌç\Ç¶ê¬_normal", 500, true);
 	Stand("buèΩ_êßïû_ïêäÌç\Ç¶ê¬","angry", 500, @+150);
@@ -686,7 +684,7 @@ almost two years&.&.&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500340ko">
-"Every since I got to Tokyo&, I've walked around Shibuya every single
+"Ever since I got to Tokyo&, I've walked around Shibuya every single
 day&."
 
 //ÅyèΩÅz
@@ -704,8 +702,8 @@ I decided to take a short breather as well&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500360ko">
-"And so&, and sooo&, when you look at the sce<pre>n</pre>ery or patterns or
-such&, doesn't it seem like something different to you?"
+"And so&, and sooo&, when you look at the sce<pre>n</pre>ery or patterns or such&,
+doesn't it seem like something different to you?"
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500370ko">

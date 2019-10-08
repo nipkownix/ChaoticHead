@@ -51,7 +51,7 @@ So&, after classes ended and everyone had gone home&, I snuck back
 into the empty classroom&.
 
 Rimi would be waiting there alone&, and she'd smile when she saw me&,
-and
+and&,
 
 {	Stand("st梨深_制服_通常ビシッ！","angry", 600, @0);
 	FadeStand("st梨深_制服_通常ビシッ！_angry", 500, true);}

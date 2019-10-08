@@ -54,16 +54,15 @@ The Nozomi Group&.
 A large enterprise&, with numerous subsidiaries&, which carried out
 its business with ministerial authority from the government&.
 
-Its subsidiaries had started up business in a variety of fields&, from
-the sale of clothing and groceries to trading in the capacity of a
-distributor of imports&, and they had accomplished measurable
+Its subsidiaries had started up business in a variety of fields&,
+from the sale of clothing and groceries to trading in the capacity
+of a distributor of imports&, and they had accomplished measurable
 achievements&.
 
-Norose&, who stood at the top of the group and reigned over it&, gazed
-down at the view he could see from his personal castle&.
+Norose&, who stood at the top of the group and reigned over it&,
+gazed down at the view he could see from his personal castle&.
 
-His consciousness&, however&, was not turned toward
-the sce<pre>n</pre>ery&.
+His consciousness&, however&, was not turned toward the sce<pre>n</pre>ery&.
 
 While wearing a mocking smile on his mouth&, he tapped the floor
 irritatedly with his toes countless times&.
@@ -104,8 +103,8 @@ influence of the Committee of 300&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200060nr">
-"&.&.&.Yet someday&, someday soon&.&.&. that system&, too&, will
-collapse&. The structures controlling the world will be recombined&."
+"&.&.&.Yet someday&, someday soon&.&.&. that system&, too&, will collapse&.
+The structures controlling the world will be recombined&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200070nr">
@@ -128,8 +127,8 @@ office-like items&.
 Except&, there was one thing that gave off a different color from the
 others&, and it had tumbled carelessly toward the edge&.
 
-Norose picked up that green&, bizarrely designed mascot character&. He
-gave it a bored glance&, and tossed it in the wastebasket&.
+Norose picked up that green&, bizarrely designed mascot character&.
+He gave it a bored glance&, and tossed it in the wastebasket&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -144,8 +143,8 @@ gave it a bored glance&, and tossed it in the wastebasket&.
 
 His narrowed eyes swung toward the room's dim interior&.
 
-The moonlight from the window didn't reach the depths of the room&. A
-faint human presence could be found there&.
+The moonlight from the window didn't reach the depths of the room&.
+A faint human presence could be found there&.
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200110nr">
@@ -171,8 +170,8 @@ proceed without informed consent&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200160nr">
-"Beside&, the hardware for Noah II has already been completed&. All
-that remains is the software&."
+"Beside&, the hardware for Noah II has already been completed&.
+All that remains is the software&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200170nr">
@@ -192,13 +191,13 @@ samples&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200200nr">
-{#TIPS_ƒVƒiƒvƒX = true;}"In powerful Gigalomaniacs&, it causes the NA <FONT incolor="#88abda" outcolor="BLACK">synapses</FONT>
-to become even more active&, increasing their range in the brain&."
+{#TIPS_ƒVƒiƒvƒX = true;}"In powerful Gigalomaniacs&, it causes the NA <FONT incolor="#88abda" outcolor="BLACK">synapses</FONT> to become
+even more active&, increasing their range in the brain&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200210nr">
-"Generally speaking&, only one-tenth of the human brain gets put to
-use&. But Gigalomaniacs are different&."
+"Generally speaking&, only one-tenth of the human brain gets put to use&.
+But Gigalomaniacs are different&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch07/15200220nr">
@@ -236,8 +235,8 @@ those of the real Gigalomaniacs&, before at last surpassing them&."
 "Very well&."
 
 //Ÿ¦µŠC‚ÍˆÓ¯‚ª‚È‚¢‚Ì‚Å“š‚¦‚ç‚ê‚È‚¢B–ì˜C£‚ªŸè‚É˜b‚ği‚ß‚Ä‚¢‚é
-Norose nodded in satisfaction and&, blowing out smoke&, returned his
-gaze to the sce<pre>n</pre>ery beyond the window&.
+Norose nodded in satisfaction and&, blowing out smoke&, returned his gaze
+to the sce<pre>n</pre>ery beyond the window&.
 
 {	CreateTextureEX("”wŒi‚Q", 200, 0, 0, "cg/ev/ev077_01_3_–ì˜C£Ğ’·º_a.jpg");
 	Zoom("”wŒi‚Q", 0, 1300, 1300, null, true);

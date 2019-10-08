@@ -201,9 +201,10 @@ And she abruptly seized my hand and tottered off into a run&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text004]
-When we arrived at the main street&, the transfer student
-let go of my hand&. Although we didn't run for a long distance&,
-she already lost her breath&.
+When we arrived at the main street&, the transfer student let go of
+my hand&.
+Although we didn't run for a long distance&, she already
+lost her breath&.
 
 {	Stand("bu梢_制服_正面","sad", 450, @+150);
 	FadeStand("bu梢_制服_正面_sad", 500, true);}
@@ -239,8 +240,7 @@ More importantly&, I had trouble understanding the situation&.
 
 Those three thugs had picked a fight with me and battered me&.
 
-It seemed like I'd passed out&, but how long had I been
-unconscious&.&.&.
+It seemed like I'd passed out&, but how long had I been unconscious&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

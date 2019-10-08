@@ -61,8 +61,7 @@ function ch08_154_インターミッション３３()
 <PRE box00>
 [text001]
 When Momose called him out&, Ban showed his face at the Freesia
-Investigations company half an hour after their promised meeting
-time&.
+Investigations company half an hour after their promised meeting time&.
 
 {	CreateSE("SE02","SE_日常_扉_開ける");
 	CreateSE("SE03","SE_日常_扉_閉まる");
@@ -102,14 +101,13 @@ regret it&, thinking he'd made a mistake&.
 	DeleteStand("st克子_スーツ_通常_normal", 200, false);}
 //【百瀬】
 <voice name="百瀬" class="百瀬" src="voice/ch08/15400040mm">
-"You're using a youngster so you can take things easy&, in other
-words&."
+"You're using a youngster so you can take things easy&, in other words&."
 
 //◆徹夜でセナやあやせのことを調べていた
 //【判】
 <voice name="判" class="判" src="voice/ch08/15400050bn">
-"&.&.&.Nah&, nah&, I'm doing my best too&, doncha know? Just
-yesterday&, I pulled an all-nighter looking up all kinds of things&."
+"&.&.&.Nah&, nah&, I'm doing my best too&, doncha know? Just yesterday&,
+I pulled an all-nighter looking up all kinds of things&."
 
 //【判】
 <voice name="判" class="判" src="voice/ch08/15400060bn">
@@ -155,8 +153,7 @@ I guess you managed to contact 'her'?"
 	Move("st克子_スーツ_通常_angry", 100, @0, @10, Axl1, false);
 	DeleteStand("st安二_スーツ_通常_pride", 200, true);}
 Seeing Ban grin and leer&, Momose whapped him on the head&.
-It was a rather searing thwack&, one with some nice wrist action in
-it&.
+It was a rather searing thwack&, one with some nice wrist action in it&.
 
 //【百瀬】
 <voice name="百瀬" class="百瀬" src="voice/ch08/15400120mm">
@@ -175,8 +172,7 @@ was connected to one of the New-Gen cases&, so he'd asked her to
 create a setting in which the two of them could meet&.
 
 He intended to discuss something based on purely personal
-circumstances&, nothing presently related to the New-Gen
-investigation&.
+circumstances&, nothing presently related to the New-Gen investigation&.
 
 Due to his position&, Ban couldn't get a jump on the other detectives
 at headquarters and go to meet her on his own as part of work&.
@@ -197,8 +193,8 @@ at headquarters and go to meet her on his own as part of work&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Nudging Ban onward&, Momose headed for a corner of the office&. A
-narrow space surrounded by file-packed shelves could be found there&.
+Nudging Ban onward&, Momose headed for a corner of the office&.
+A narrow space surrounded by file-packed shelves could be found there&.
 
 It was the space they used as a waiting room&, and two couches with
 room for two people apiece had been crammed in there&.
@@ -284,8 +280,7 @@ nothing more&."
 //◆本題＝判は「セナと剣のこと」を聞くために、偶然同級生でニュージェネ事件の関係者である優愛を呼び出した。インターミッション３５で描きます。
 //【判】
 <voice name="判" class="判" src="voice/ch08/15400210bn">
-"Before we get to the subject at hand&.&.&. can I ask you
-something?"
+"Before we get to the subject at hand&.&.&. can I ask you something?"
 
 {	Stand("st安二_スーツ_通常","hard", 200, @200);
 	FadeStand("st安二_スーツ_通常_hard", 200, true);
@@ -437,8 +432,8 @@ Mia-chan&.&.&."
 
 //【優愛】
 <voice name="優愛" class="優愛" src="voice/ch08/15400450yu">
-"Even if I showed them the clothes and shoes Mia-chan had left
-behind&, they wouldn't take any notice of it&."
+"Even if I showed them the clothes and shoes Mia-chan had left behind&,
+they wouldn't take any notice of it&."
 
 //【優愛】
 <voice name="優愛" class="優愛" src="voice/ch08/15400460yu">
@@ -510,8 +505,8 @@ It was when they were still in elementary school&.
 One day&, their relatives brought them a single big teddy bear as a
 present&.
 
-In opposition to the delighted Yua&, Mia said she hated stuffed
-animals and wouldn't give it a second glance&.
+In opposition to the delighted Yua&, Mia said she hated stuffed animals
+and wouldn't give it a second glance&.
 
 Their relatives and parents were repelled by Mia's not-childish
 behavior&.
@@ -614,8 +609,8 @@ the sort of demeanor meant to make others dislike her&.
 //◆泣き
 //【優愛】
 <voice name="優愛" class="優愛" src="voice/ch08/15400540yu">
-"In the end&.&.&. I let Mia-chan's kindness spoil me&.&.&. until
-now&.&.&. only I was happy&.&.&."
+"In the end&.&.&. I let Mia-chan's kindness spoil me&.&.&. until now&.&.&.
+only I was happy&.&.&."
 
 //◆泣き
 //【優愛】
@@ -777,8 +772,8 @@ It would seem that Suwa was at headquarters&.
 "&.&.&.!"
 
 Eyes wide&, Ban finally bit his lip&, a bitter look on his face&.
-Deducing the gravity of the situation from his bearing&, Momose and
-Yua watched him worriedly&.
+Deducing the gravity of the situation from his bearing&, Momose and Yua
+watched him worriedly&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

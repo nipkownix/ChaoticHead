@@ -138,15 +138,14 @@ I hadn't quite understood who she was that time&.&.&.
 
 The nurse had said Nanami wasn't injured&.
 
-The hand "Shogun" sent to my base had disappeared from my
-refrigerator&.
+The hand "Shogun" sent to my base had disappeared from my refrigerator&.
 
 It was supposed to have been a delusion&.
 
 Yet why had Nanami worn a bandage wrapped around her right wrist
 today&.&.&.
 
-Could it simply be that I was over thinking things&, and the reason
+Could it simply be that I was overthinking things&, and the reason
 behind it was something as minor as a burn or a bug bite&.&.&.
 
 Yes&.&.&. of course&. That was the most likely answer of all&.
@@ -209,10 +208,9 @@ Upon which Rimi's pointer finger bored into my cheek&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch08/15500140ri">
-"Don't act so ambiguousI"
+"Don't act so ambiguous!"
 
-Auu&.&.&. Your nails&, it hurts when your nails dig in&, you
-know&.&.&.
+Auu&.&.&. Your nails&, it hurts when your nails dig in&, you know&.&.&.
 
 {	Stand("bu—œ[_§•_³–Ê","sad", 200, @100);
 	FadeStand("bu—œ[_§•_³–Ê_sad", 200, true);
@@ -221,8 +219,7 @@ know&.&.&.
 <voice name="—œ[" class="—œ[" src="voice/ch08/15500150ri">
 "&.&.&.You okay?"
 
-Rimi murmured her usual phrase upon finally stopping her
-cheek-poking&.
+Rimi murmured her usual phrase upon finally stopping her cheek-poking&.
 Yes&, Rimi always used those words to show her concern for me&.
 
 //y—œ[z
@@ -313,11 +310,9 @@ For all that&, I didn't really get why she was smiling so happily&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch08/15500200ri">
-"It hasn't changed a bit&. The messiness in this room is so you&,
-Taku&."
+"It hasn't changed a bit&. The messiness in this room is so you&, Taku&."
 
-If you're gonna go on about it that much&, you could clean up for
-me&.&.&.
+If you're gonna go on about it that much&, you could clean up for me&.&.&.
 {	CreateSE("SE04","SE_“úí_PC_‹N“®");
 	SoundPlay("SE04",0,500,false);}
 Sighing&, I turned on my PC&.

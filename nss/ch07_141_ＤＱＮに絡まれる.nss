@@ -104,8 +104,8 @@ single day&.
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch07/14100010sn">
-"Ignorance is a sin&. There are people who say&, 'There are some
-things you'll be happier not knowing&,' but that's simply naive&."
+"Ignorance is a sin&. There are people who say&, 'There are some things
+you'll be happier not knowing&,' but that's simply naive&."
 
 {	DeleteStand("stƒZƒi_§•_’Êí_hard", 500, true);
 	Fade("•‚Q", 0, 0, null, true);
@@ -133,8 +133,8 @@ I couldn't do anything on my own&. Nor did I want to&.
 [text003]
 I stood in the center of the street and closed my eyes&.
 
-Knowing only part of the truth&, as I did now&, was the most
-burdensome of all possible situations&.
+Knowing only part of the truth&, as I did now&, was the most burdensome
+of all possible situations&.
 
 "Shogun" and Di-Swords for instance&. I hadn't wanted to know about
 them&, but I'd found out&. That said if someone asked me&, "So what
@@ -153,9 +153,9 @@ Say&, Person Behind Me&, what do you think?
 Your role-playing utterly failed this time around&. You were wrong in
 how you cultivated your character&.
 
-You should've gone with a cooler&, more heroic character&. It had to
-be someone sociable and kind to girls&, one who would challenge the
-strong and aid the weak&, one with a fiery sense of justice&.
+You should've gone with a cooler&, more heroic character&. It had to be
+someone sociable and kind to girls&, one who would challenge the strong
+and aid the weak&, one with a fiery sense of justice&.
 
 You can't defeat the last boss with me&. You can't use me to clear
 your game&.
@@ -237,7 +237,7 @@ Three guys stood there&, surrounding me&.
 They wore baggy clothes and had yellow&, silver and red hair&. Two had
 piercings in their ears or their nose&. One had a piercing in just his
 ear&. One was the type of ganguro man who're so rare nowadays&,
-they're practically an protected species&.
+they're practically a protected species&.
 
 Ahh&.&.&. here's my death flag&, I thought&.
 Was this another "unhappiness trap"?
@@ -355,8 +355,8 @@ straight off the bat&, but I'll give you until tonight&."
 
 //y“¡“cz
 <voice name="“¡“c" class="“¡“c" src="voice/ch07/14100210hu">
-"Well&, I'll cu<pre>t</pre> it down by half if you show us
-your superpowers at work or something&."
+"Well&, I'll cu<pre>t</pre> it down by half if you show us your superpowers at
+work or something&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/14100220ta">
@@ -441,8 +441,8 @@ I wondered what had happened&.
 I thought I'd felt enough pain in my face to make me pass out&, but it
 might've been my imagination&.
 
-I figured I'd open my eyes&, but my eyelids wouldn't move&. The
-darkness wouldn't disappear for me&.
+I figured I'd open my eyes&, but my eyelids wouldn't move&. The darkness
+wouldn't disappear for me&.
 
 //yˆÀ‘òz
 <voice name="ˆÀ‘ò" class="ˆÀ‘ò" src="voice/ch07/14100290yz">
@@ -595,14 +595,12 @@ I'm sorry&.&.&. I'm&, sorry&.&.&.
 
 //y“¡“cz
 <voice name="“¡“c" class="“¡“c" src="voice/ch07/14100420hu">
-"H&, hey&, what're you fucking around for&.&.&. you're kidding
-me&.&.&."
+"H&, hey&, what're you fucking around for&.&.&. you're kidding me&.&.&."
 
 //Ÿ‹¯‚¦
 //y“¡“cz
 <voice name="“¡“c" class="“¡“c" src="voice/ch07/14100430hu">
-"Hii&.&.&. wh&, what's that&.&.&. hey&, sto&.&.&. quit
-it&.&.&."
+"Hii&.&.&. wh&, what's that&.&.&. hey&, sto&.&.&. quit it&.&.&."
 
 //Ÿ‹ƒ‚«‚»‚¤
 //y“¡“cz

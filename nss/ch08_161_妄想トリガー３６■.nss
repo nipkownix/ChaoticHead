@@ -139,10 +139,10 @@ if($妄想トリガー３６ == 2)
 For some reason&, Misumi-kun started searching the room once he'd
 spoken&. Looked like he didn't have a scrap of delicacy in him&.
 
-It wouldn't be overstating things to call this Ayase's bedroom&. She'd
-left lots of personal items and clothing lying around&, and the
-uniquely pleasant scent of a girl's room floated in the air&, mixed
-with the smell of disinfectant&.
+It wouldn't be overstating things to call this Ayase's bedroom&.
+She'd left lots of personal items and clothing lying around&, and the
+uniquely pleasant scent of a girl's room floated in the air&,
+mixed with the smell of disinfectant&.
 
 Going in her room without permission while she was out discomforted
 me&, making me feel like we were peeking in on her private affairs&.
@@ -518,12 +518,11 @@ It had bothered me oddly since I first entered this hospital room&.
 I seemed to be on the verge of having a negative delusion&.
 Like one about Ayase jumping from that window&.
 
-If I looked down&, maybe Ayase would be lying there&, covered in
-blood&, her brain fluids sprayed everywhere&.
+If I looked down&, maybe Ayase would be lying there&, covered in blood&,
+her brain fluids sprayed everywhere&.
 
 I couldn't stop myself from checking&.
-As though possessed&, I went forward step by step&, on trembling
-legs&.
+As though possessed&, I went forward step by step&, on trembling legs&.
 
 I stood by the window&.
 The sunset sky&.
@@ -532,8 +531,8 @@ A refreshing autumn day&.
 Ultimately&, what was down there?
 A hellish tableau?
 
-I caught my breath&, quietly stuck my head out of the window&, and
-peered down&.
+I caught my breath&, quietly stuck my head out of the window&,
+and peered down&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch08/16100180ta">
@@ -542,7 +541,7 @@ peered down&.
 No abnormalities&.
 I didn't see Ayase's dead body anywhere&.
 
-Apparently I'd been over thinking it&.
+Apparently I'd been overthinking it&.
 Relieved&, I was about to pull my head back in&,
 
 When I noticed it&.
@@ -565,8 +564,7 @@ The window one floor below&.
 A single hand towel was rippling in the wind&.
 
 I'd thought it was merely a white towel&,
-But something resembling letters were written all over it in dark
-blue&.
+But something resembling letters were written all over it in dark blue&.
 
 Because it was waving&, I had a hard time reading what it said&.
 
@@ -722,9 +720,9 @@ intently&.
 "I didn't realize this mag was still running&."
 
 "Gnu" was a specialty publication that focused on general information
-about anything occult-related&, like UFOs&, aliens&,
-psychics&, religion&, urban legends&, strange phenomena&, advanced
-ancient cultures like Atlantis&, and O-parts&.
+about anything occult-related&, like UFOs&, aliens&, psychics&,
+religion&, urban legends&, strange phenomena&, advanced
+ancient cultures like Atlantis&, and OOPArts&.
 
 It made a lot of sense that Ayase&, who only ever talked about weird
 stuff&, would read this magazine&.
@@ -763,13 +761,12 @@ rejected him with an instant K&.O&. before&.
 {	Request("背景１", Smoothing);
 	Zoom("背景１", 1500, 2000, 2000, AxlDxl, false);
 	Move("背景１", 1500, @-400, @-70, AxlDxl, true);}
-I abruptly noticed that Ayase's Di-Sword was propped up by the
-window&.
+I abruptly noticed that Ayase's Di-Sword was propped up by the window&.
 Its form resembled a battleship in a sci-fi movie&.
 
 No matter when I looked at it&, it was a badass sword furnished with
-both beauty and cruelty&. It was simply sitting there&, but it gave
-off the same amazing sense of presence as ever&.
+both beauty and cruelty&. It was simply sitting there&, but it gave off
+the same amazing sense of presence as ever&.
 
 Misumi-kun didn't appear to have noticed the sword&.
 Ordinary people couldn't see it&, after all&.&.&.
@@ -805,7 +802,7 @@ nothing more than a delusion of Ayase's&.
 
 An illusion&.
 A dream&.
-An afterimage
+An afterimage&.
 
 {	Zoom("背景１", 1500, 1000, 1000, AxlDxl, false);
 	Move("背景１", 1500, @400, @70, AxlDxl, true);
@@ -823,8 +820,8 @@ Misumi-kun put on a puzzled face when he saw me&.
 	DeleteStand("bu大輔_制服_通常_sigh", 0, true);
 	Wait(1500);}
 Ten minutes passed&, but Ayase still showed no signs of returning&.
-Nor did Rimi&, who was supposed to have gone to the bathroom&, show
-up&. I wondered where she'd gone&.
+Nor did Rimi&, who was supposed to have gone to the bathroom&, show up&.
+I wondered where she'd gone&.
 
 {	Fade("色１", 2000, 0, null, true);
 	Wait(500);
@@ -1027,8 +1024,7 @@ I didn't really want to be here&.
 The atmosphere was weighty&. It wasn't unpleasant&, but I got the
 feeling that I wasn't supposed to be here&.
 
-As I went further&, the hall turned as if it were breaking to the
-right&.
+As I went further&, the hall turned as if it were breaking to the right&.
 
 While I tentatively rounded the corner&, I wondered if hospital rooms
 continued beyond there―
@@ -1240,8 +1236,8 @@ One was still young&, while the other was a plump&, middle-aged lady&.
 I faced down and waited for the two of them to pass me by&. I held my
 breath to keep them from noticing my wild panting&.
 
-I could tell they were looking at me with unconcealed suspicion&, but
-for now&, all I could do was ignore them&.
+I could tell they were looking at me with unconcealed suspicion&,
+but for now&, all I could do was ignore them&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1316,7 +1312,6 @@ in it&.
 //<voice name="葉月" class="葉月" src="voice/ch08/16100450hd">
 //「神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ、神光の救いあれ……」
 
-
 	CreateVOICE("葉月","ch08/16100450hd");
 	SoundPlay("葉月", 0, 300, false);
 
@@ -1333,12 +1328,11 @@ Ah&.&.&.!
 I'd met her number of times before&.
 Nurse Hazuki-san&.
 
-Of course&, this was AH General Hospital's psychiatric department&. It
-was natural for her to be here&. I myself had been under her care
+Of course&, this was AH General Hospital's psychiatric department&.
+It was natural for her to be here&. I myself had been under her care
 twice in only the past month&.
 
-That was convenient; if I addressed her&, she'd soon come attend to
-me―
+That was convenient; if I addressed her&, she'd soon come attend to me―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1358,8 +1352,8 @@ me―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text020]
-Right then&, a sound rang out&, the kind of call that would give
-anyone an abrupt sense of strain&.
+Right then&, a sound rang out&, the kind of call that would give anyone
+an abrupt sense of strain&.
 
 Startled&, Hazuki-san set her clipboard down and manipulated something
 on the switchboard by her hands&.

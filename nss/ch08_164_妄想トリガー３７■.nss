@@ -143,8 +143,8 @@ No&, no&, I was paying her a visit in the hospital&, so all I probably
 needed to do was say something considerate about how she was doing and
 leave it at that&.
 
-But considering how she was being hospitalized in the psych ward&, it
-didn't seem like I could casually ask about her condition or
+But considering how she was being hospitalized in the psych ward&,
+it didn't seem like I could casually ask about her condition or
 anything&.&.&.
 
 Uuu&, what should I do?
@@ -385,8 +385,7 @@ As he brushed by me&, he put a hand on my shoulder&, and
 //Ÿ¬º//ŸÅŒã‚Í‚½‚ß‘§
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16400230mi">
-"I can't keep up with her anymore&. I leave the rest to you&.&.&.
-haa&."
+"I can't keep up with her anymore&. I leave the rest to you&.&.&. haa&."
 
 He sighed&, sounding like he was through with it all&,
 And he made as if to leave the hospital room\
@@ -575,8 +574,7 @@ And quietly set it back down atop Ayase's knees&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400430ta">
-"Th&, the things you're saying&.&.&. they're beyond
-ridiculous&.&.&."
+"Th&, the things you're saying&.&.&. they're beyond ridiculous&.&.&."
 
 {	DeleteStand("st‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 800, true);}
 //ŸƒuƒŒƒX
@@ -759,8 +757,7 @@ As he brushed by me&, he put a hand on my shoulder&, and
 //Ÿ¬º//ŸÅŒã‚Í‚½‚ß‘§
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16400500mi">
-"I can't keep up with her anymore&. I leave the rest to you&.&.&.
-haa&."
+"I can't keep up with her anymore&. I leave the rest to you&.&.&. haa&."
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 500, true);
 	CreateSE("SE02","SE_“úí_”à_ŠJ‚¯‚é");
@@ -768,11 +765,9 @@ haa&."
 	Wait(2000);
 	CreateSE("SE03","SE_“úí_”à_•Â‚Ü‚é");
 	SoundPlay("SE03", 0, 1000, false);}
-Sighing as if he were through with all this&, he left the hospital
-room&.
+Sighing as if he were through with all this&, he left the hospital room&.
 
-It&, it's kind of a problem for me if you leave me behind like
-this&.&.&.
+It&, it's kind of a problem for me if you leave me behind like this&.&.&.
 
 Ayase&, on the other hand&, displayed zero interest in his departure&.
 
@@ -823,8 +818,7 @@ ordinary people saw&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400580ta">
-"You know&, Gigalomaniacs&.&.&. I heard about them&.&.&. from
-Aoi Sena&.&.&."
+"You know&, Gigalomaniacs&.&.&. I heard about them&.&.&. from Aoi Sena&.&.&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/16400590ay">
@@ -859,8 +853,8 @@ Did they mean the same thing?
 [text012]
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/16400630ta">
-"In&, in any case&, I'm&.&.&. not one&.&.&. In the end&.&.&. I
-co&, couldn't even get a Di-Sword&.&.&."
+"In&, in any case&, I'm&.&.&. not one&.&.&. In the end&.&.&.
+I co&, couldn't even get a Di-Sword&.&.&."
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","hard", 250, @-50);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 300, true);
@@ -1089,6 +1083,8 @@ I'd already lost heart countless times&.
 I wanted her to leave me alone&.
 
 I held my head&, driven by the urge to yell my lungs out&.
+
+But Ayase's voice wouldn't allow that&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

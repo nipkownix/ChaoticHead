@@ -105,8 +105,8 @@ Well&, that was pretty much what it came down to&.
 
 Ban had taken independent action&, ignoring instructions from
 headquarters&, and if he got Suwa involved in it&, a young detective
-with a bright future ahead of him would get tied down by his
-superiors&. He'd avoided that&.
+with a bright future ahead of him would get tied down by his superiors&.
+He'd avoided that&.
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200070bn">
@@ -130,8 +130,8 @@ at hand&. He stuck them to the blackboard with magnets&.
 [text002]
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200080bn">
-"Both of these photos were taken from Cornelius Tower's rooftop&, the
-sce<pre>n</pre>e of the 'group diving&.'"
+"Both of these photos were taken from Cornelius Tower's rooftop&,
+the sce<pre>n</pre>e of the 'group diving&.'"
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200090bn">
@@ -199,8 +199,8 @@ isn't reflected there&."
 <voice name="êzñK" class="êzñK" src="voice/ch07/13200210su">
 "Something&, that stands out nicely?"
 
-Eyes narrowed&, stroking the scraps of beard on his jaw with his
-hand&, Ban put on a self-deprecating smile&.
+Eyes narrowed&, stroking the scraps of beard on his jaw with his hand&,
+Ban put on a self-deprecating smile&.
 
 //ÅüÅ¶ÉqÉãÉYÇ∂Ç·Ç»Ç≠ÇƒÉrÉãÉY
 //ÅyîªÅz
@@ -272,12 +272,11 @@ in 2003&."
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200290bn">
 "According to the photo from when the Tower was completed&, Roppongi
-Bills was still being constructed and therefore wasn't very high
-yet&."
+Bills was still being constructed and therefore wasn't very high yet&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200300bn">
-"However&, the 'group dive' took place this year&.&.&. in 2009&."
+"However&, the 'group dive' took place this year&.&.&. in 2008&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200310bn">

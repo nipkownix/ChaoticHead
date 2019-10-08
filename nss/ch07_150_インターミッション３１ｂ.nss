@@ -116,8 +116,7 @@ One day&, Kozue faced a mirror reflecting her&, and murmured&,
 	DeleteStand("bu梢_私服_通常_normal", 0, true);}
 The instant she spoke those three words&, Kozue became afraid of no
 longer knowing who she was&.
-A girl with the same face as her called to her from beyond the
-mirror&.
+A girl with the same face as her called to her from beyond the mirror&.
 
 //【梢】
 <voice name="梢" class="梢" src="voice/ch07/15000020ko">
@@ -160,8 +159,7 @@ Or else one of Kozue's aural hallucinations?
 
 She didn't care which&.
 
-As Kozue's eyes quivered in terror&, a mirror's reflection entered
-them&.
+As Kozue's eyes quivered in terror&, a mirror's reflection entered them&.
 
 {	CreateColor("フラッシュ", 2000, 0, 0, 800, 600, "White");
 	Fade("フラッシュ", 0, 1000, null, true);

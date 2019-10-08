@@ -57,9 +57,9 @@ function ch08_159_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚R‚T()
 <voice name="”»" class="”»" src="voice/ch08/15900010bn">
 "Hmm~mm&."
 
-Ban read a file with ferocious intensity in Freesia's reception
-room\although it was one in name only&, being a narrow space set
-apart by shelving&.
+Ban read a file with ferocious intensity in Freesia's reception room
+\although it was one in name only&, being a narrow space set apart
+by shelving&.
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-220);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
@@ -93,8 +93,8 @@ Yua had concluded that Takumi really was the true New-Gen culprit&.
 
 {	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, false);}
 Yua lowered her face apologetically even in response to Momose's words
-of admiration&. She ended up gazing at the bag she'd left at her
-feet&, and the Gero-froggy straps that hung from it&.
+of admiration&. She ended up gazing at the bag she'd left at her feet&,
+and the Gero-froggy straps that hung from it&.
 
 She was dealing with a detective and the president of an
 investigations company&.
@@ -186,8 +186,8 @@ Not only Yua but also Momose widened her eyes&.
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @220);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, false);}
-Ban grinned ruefully&. Leaning against the back of the sofa&, he
-folded his hands behind his head&.
+Ban grinned ruefully&. Leaning against the back of the sofa&,
+he folded his hands behind his head&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch08/15900150bn">
@@ -292,8 +292,7 @@ but&.&.&."
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_pride", 0, false);}
 //y”»z
 <voice name="”»" class="”»" src="voice/ch08/15900290bn">
-"And the thing about the GE rate also bothered me on a personal
-level&."
+"And the thing about the GE rate also bothered me on a personal level&."
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_sigh", 400, true);
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","sad", 200, @-220);
@@ -388,8 +387,7 @@ After some thought&, Yua shook her head regretfully&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900430yu">
-"I feel like I've heard the name&.&.&. but I've never spoken with
-her&."
+"I feel like I've heard the name&.&.&. but I've never spoken with her&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch08/15900440bn">
@@ -529,8 +527,7 @@ After some hesitation&, Yua nodded firmly&.
 	Fade("‰ñ‘z–¾“x", 0, 300, null, true);
 	CreateTexture("”wŒi‚Q", 250, 0, 0, "cg/bg/bg092_01_3_‹Êì’Ê‚è’n‰º“¹_a.jpg");
 	Fade("‰ñ‘zƒtƒ‰ƒbƒVƒ…", 1000, 0, null, true);}
-Yua summed up the chase sc<pre>e</pre>ne that had taken place
-about two weeks ago&.
+Yua summed up the chase sc<pre>e</pre>ne that had taken place about two weeks ago&.
 
 How she had gone to a manga cafe to see Nishijou Takumi&.
 
@@ -640,13 +637,12 @@ youngsters&."
 	DeleteStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 0, false);}
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900770yu">
-"&.&.&.I don't know whether or not you'll believe me&, and I haven't
-told anyone else about it&, but&.&.&."
+"&.&.&.I don't know whether or not you'll believe me&, and I haven't told
+anyone else about it&, but&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15900780yu">
-"At the time&, Kishimoto-san&.&.&. didn't stop at drawing a
-sword&.&.&."
+"At the time&, Kishimoto-san&.&.&. didn't stop at drawing a sword&.&.&."
 
 Yua c<pre>u</pre>t herself off and slowly licked her lips&.
 
@@ -920,7 +916,7 @@ either&."
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901110yu">
 "A new design goes on sale every Friday&.
-Girls who like them&, err&, call it getting the complete set&, @
+Girls who like them&, err&, call it getting the complete set&,
 And collect all of them&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-50);

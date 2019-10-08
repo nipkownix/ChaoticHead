@@ -58,8 +58,7 @@ completely vanished&.
 
 It must be that they went tumbling down in the earthquake&, followed
 by Momose giving out orders to clean everything up&.
-Thanks to that&, the office left a clean&, refreshed impression on
-him&.
+Thanks to that&, the office left a clean&, refreshed impression on him&.
 
 Regarding it from the corner of his eyes as he sighed&, Ban settled
 down in the wheeled chair he'd pulled over&. He fanned his face busily
@@ -182,8 +181,8 @@ policewoman might like&."
 	DeleteStand("stq_ƒX[ƒc_’Êí_normal", 300, true);}
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch07/13900180mm">
-"Suwa-chan&, you mustn't always take this no-good detective's bait&. I
-recommend attaching yourself to a more competent superior&."
+"Suwa-chan&, you mustn't always take this no-good detective's bait&.
+I recommend attaching yourself to a more competent superior&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch07/13900190mm">
@@ -247,8 +246,7 @@ bean pastries&, Ban sighed yet again&.
 A line graph was displayed on her laptop's monitor&. Raising and
 falling like waves&, it drew gentle curves&.
 
-Suwa&, who had circled behind Ban&, tilted his head as he peered at
-it&.
+Suwa&, who had circled behind Ban&, tilted his head as he peered at it&.
 
 //Ÿ‹à‚Â‚Î‚ğH‚×‚È‚ª‚ç
 //yz–Kz
@@ -333,8 +331,8 @@ rate has a tendency to rise every weekend&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch07/13900440bn">
-"Salaryman with their two days off would be grateful for that&, I
-guess&. Not that it's got much to do with me&."
+"Salaryman with their two days off would be grateful for that&,
+I guess&. Not that it's got much to do with me&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch07/13900450su">
@@ -393,8 +391,7 @@ Japan&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch07/13900550bn">
-"It's too well synchronized with Japanese social activity&.&.&.
-huh&."
+"It's too well synchronized with Japanese social activity&.&.&. huh&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch07/13900560su">
@@ -487,8 +484,7 @@ guy&, so I don't know too much about it&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch07/13900700su">
-"My laptop at home got fried&, too&. I don't have time to repair
-it&.&.&."
+"My laptop at home got fried&, too&. I don't have time to repair it&.&.&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch07/13900710mm">
@@ -656,8 +652,7 @@ disregarding my real work&."
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch07/13900990mm">
 "But I reached my limits&. Either they're concealing everything with
-particular skill&, or as Suwa-chan suggested&, my conjecture is
-wrong&."
+particular skill&, or as Suwa-chan suggested&, my conjecture is wrong&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @+150);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, false);

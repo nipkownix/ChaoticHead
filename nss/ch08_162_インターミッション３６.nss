@@ -97,8 +97,7 @@ Sena had come here with the intention of stealing into Takumi's room&.
 [text002]
 Nishijou Takumi wasn't normal―
 
-Sena had reached that conclusion after speaking with him several
-times&.
+Sena had reached that conclusion after speaking with him several times&.
 
 There was a clear dividing line between him and "ordinary"
 Gigalomaniacs like her and Kozue&.
@@ -110,8 +109,7 @@ Either way&, the ambiguity of the existence known as Takumi
 nagged at Sena insistently&.
 
 She was searching for a man called Hatano&.
-It was possible that Nishijou Takumi was connected to him in some
-way―
+It was possible that Nishijou Takumi was connected to him in some way―
 
 There was no positive proof&.
 
@@ -138,8 +136,7 @@ The padlock smashed to bits instantaneously&.
 
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch08/16200040ko">
-"Takumi-shan's gonna be mad at you when he comes back&, you
-know&.&.&.?"
+"Takumi-shan's gonna be mad at you when he comes back&, you know&.&.&.?"
 
 Sena had confirmed that Takumi had left school and headed toward the
 station with two friends&.
@@ -229,9 +226,8 @@ the PC&.
 
 {	CreateSE("SE01","SE_日常_PC_起動");
 	MusicStart("SE01", 0, 500, 0, 1000, null, true);}
-She turned on the power without a moment's hesitation&, and ran her
-eyes across the items on top of the desk as she waited for it to start
-up&.
+She turned on the power without a moment's hesitation&, and ran her eyes
+across the items on top of the desk as she waited for it to start up&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch08/16200110sn">

@@ -220,8 +220,7 @@ But nothing happened as silence closed in around us&.
 [text003]
 Could it be that this wasn't a delusion?
 
-The instant I realized that&, tension shot through my body all at
-once&.
+The instant I realized that&, tension shot through my body all at once&.
 
 In reality&, Rimi was embracing me&.
 Pressed up to me without a gap between us&.
@@ -356,8 +355,7 @@ Even though I hadn't asked her for a word of advice about Nanami yet&.
 Uwaah&.&.&. I just got hit with the worst question ever&.
 
 I guess there really are girls out there who ask such mean-spirited
-questions&, even though they know very well you can't possibly
-answer&.
+questions&, even though they know very well you can't possibly answer&.
 
 They only think of themselves&. Utterly ignoring how the other person
 feels&.
@@ -375,8 +373,7 @@ When you got down to it&, the third dimension couldn't hold a candle
 against the second&.
 I'd better stop hanging out with her&.
 
-Having lost all interest in Rimi in one fell blow&, I sighed&, fed
-up&.
+Having lost all interest in Rimi in one fell blow&, I sighed&, fed up&.
 
 I didn't feel like keeping her here any longer&, either&.
 On the contrary&, I wanted her to get out posthaste&.
@@ -506,8 +503,8 @@ I heard Rimi's mystified voice from behind me&.
 
 {	CreateTextureEX("îwåiÇQ", 100, 0, 0, "cg/bg/bg026_02_1_ëÒñ§ïîâÆ_a.jpg");
 	Fade("îwåiÇQ", 0, 1000, null, true);}
-When I turned around hastily&, she was still sitting on the sofa&. She
-had a manga volume in hand and was looking at me perplexedly&.
+When I turned around hastily&, she was still sitting on the sofa&.
+She had a manga volume in hand and was looking at me perplexedly&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch08/15600370ri">
@@ -1109,8 +1106,8 @@ the railroad tracks in the Shibuya district of Tokyo&."
 //ÅyÉLÉÉÉXÉ^Å[Ç`Åz
 <voice name="ÉLÉÉÉXÉ^Å[Ç`" class="ÉLÉÉÉXÉ^Å[Ç`" src="voice/ch08/15600670ka">
 "According to the police investigation&, the three victims were all
-Shibuya residents: Fujita Kouhei&, unemployed; Anzawa Saburou&, a
-college stuent&, and Takagi Ryou&, a part-timer&."
+Shibuya residents: Fujita Kouhei&, unemployed; Anzawa Saburou&,
+a college student&, and Takagi Ryou&, a part-timer&."
 
 //ÅyÉLÉÉÉXÉ^Å[Ç`Åz
 <voice name="ÉLÉÉÉXÉ^Å[Ç`" class="ÉLÉÉÉXÉ^Å[Ç`" src="voice/ch08/15600680ka">
@@ -1224,8 +1221,7 @@ At the time&, when I last saw their faces&, they'd certainly been
 pummeled&, and they were blood-soaked&, but their torsos hadn't been
 sliced in half or anything&.
 
-They'd been murdered after Kozu-pii and I left the
-sc<pre>e</pre>ne&.&.&.
+They'd been murdered after Kozu-pii and I left the sc<pre>e</pre>ne&.&.&.
 
 It had to be "Shogun&."
 He wasÅ\that old geezer wasÅ\challenging me&.&.&.!
@@ -1233,8 +1229,8 @@ He wasÅ\that old geezer wasÅ\challenging me&.&.&.!
 Dammit&, how far was he planning to drive me into a psychological
 corner&.&.&.
 
-It felt like I was about to throw up&. My stomach ached sharply&, and
-I pressed a hand against my belly&.
+It felt like I was about to throw up&. My stomach ached sharply&,
+and I pressed a hand against my belly&.
 
 Was I next?
 This time&, would I be the next one to die?

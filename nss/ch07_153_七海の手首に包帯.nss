@@ -61,9 +61,9 @@ retreated to a place where I could find peace&.
 
 At times it was the library&, and at times it was the courtyard&.
 
-But after the previously mentioned disturbance&, everyone in the
-school had come to recognize my face&, and I couldn't calm down no
-matter where I went&.
+But after the previously mentioned disturbance&, everyone in the school
+had come to recognize my face&, and I couldn't calm down no matter
+where I went&.
 
 Gazes stabbing into me without mercy&.
 Sneers and insults thrown my way&.
@@ -92,14 +92,13 @@ Come to think of it&, I hadn't spoken to Nanami once since that
 incident&.
 I'd avoided bumping heads with her all week long&.
 
-Because I hadn't known what kind of expression to make when I saw
-her&.
+Because I hadn't known what kind of expression to make when I saw her&.
 
 I was the worst kind of brother&, one who had prioritized my own life
 over hers&.
 
-It was no more than a miracle that Nanami had been safely released&. I
-hadn't done a thing&.
+It was no more than a miracle that Nanami had been safely released&.
+I hadn't done a thing&.
 
 Maybe "Shogun" had told Nanami it was my fault he'd abducted her&.
 
@@ -144,8 +143,7 @@ She wasn't psychologically wounded&, was she?
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-For a second&, memories of that "hand" revived at the back of my
-mind&.
+For a second&, memories of that "hand" revived at the back of my mind&.
 
 But I shook my head to rid myself of them&.
 
@@ -186,8 +184,7 @@ toy with the ends of her hair&, twirling it&.
 	Delete("七海後ろ２");}
 As I dashed up&, I started to cry out to her&.
 
-My sister's right sleeve slipped down a little as she twisted her
-hair&.
+My sister's right sleeve slipped down a little as she twisted her hair&.
 
 Sensing something wrong&, I gulped down my voice&.
 

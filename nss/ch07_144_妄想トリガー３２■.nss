@@ -377,8 +377,7 @@ Kozu-pii&.
 	DeleteStand("buèΩ_êßïû_í èÌ_shy", 300, true);}
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400260ko">
-"That's whyyy&, that's whyyy I said it from the start&. I'm
-Kozu-pii&."
+"That's whyyy&, that's whyyy I said it from the start&. I'm Kozu-pii&."
 
 Was this really not a delusion&.&.&.?
 
@@ -467,8 +466,7 @@ He was attacking me via satellite!
 	DrawTransition("çïÇP", 200, 0, 1000, 100, null, "cg/data/down2.png", true);
 	Delete("ãÛ");
 	SetVolume("SE01", 0, 500, null);}
-Crumpling under the pressure&, I cradled my head and squatted
-in place&.
+Crumpling under the pressure&, I cradled my head and squatted in place&.
 
 He was gonna kill me!
 He was gonna kill me this time&, for sure!
@@ -531,14 +529,13 @@ I don't wanna die&.&.&.
 "&.&.&.&.&.&.&."
 
 //Å¶à»è„ÇÃÉZÉäÉtÇÃÇ›ÉäÉAÉãÇÃê∫
-Somebody prodded me in the shoulder as I curled up in a ball&,
-cowering&.
+Somebody prodded me in the shoulder as I curled up in a ball&, cowering&.
 
 {	SetVolume("SE01", 1000, 1000, null);
 	Fade("çïÇP", 1000, 0, null, true);
 	Delete("çïÇP");}
-When I fearfully raised my face&, the transfer student was there&, as
-before&.
+When I fearfully raised my face&, the transfer student was there&,
+as before&.
 
 She poked my fingers and attempted to speak&, but nothing came out&,
 and in the end she raised a tentative hand&.
@@ -693,8 +690,8 @@ personality&, not me&.&.&.
 As I stood there&, zoning out&, the transfer student poked me in the
 shoulder&.
 
-While doing so&, she attempted to speak&, but nothing came out&, and
-in the end she raised a tentative hand&.
+While doing so&, she attempted to speak&, but nothing came out&,
+and in the end she raised a tentative hand&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400440ko">
@@ -840,8 +837,8 @@ I could understand how she felt&. Because I was the same&.
 {	Stand("buèΩ_êßïû_ê≥ñ ","normal", 500, @+150);
 	DeleteStand("buèΩ_êßïû_í èÌ_shy", 500, true);
 	FadeStand("buèΩ_êßïû_ê≥ñ _normal", 500, true);}
-She looked around nervously&, like a small animal&, took a glance at
-me&, than began walking toward the station by herself&.
+She looked around nervously&, like a small animal&, took a glance at me&,
+then began walking toward the station by herself&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400610ko">
@@ -877,8 +874,8 @@ Perplexed&, I followed her&.
 [text011]
 I noticed it as I walked&.
 
-There was a stabbing pain in my side&. Since it throbbed every time I
-took a step&, I stopped when I couldn't stand it any longer&.
+There was a stabbing pain in my side&. Since it throbbed every time
+I took a step&, I stopped when I couldn't stand it any longer&.
 
 I held my side and took a breath&.
 
@@ -931,8 +928,8 @@ um&.&.&.
 &.&.&.It was convenient to be able to have mental conversations&,
 but also kind of disagreeable&.
 
-Rather&, I'd ended up accepting it right away&, but how did this
-work&, anyway?
+Rather&, I'd ended up accepting it right away&,
+but how did this work&, anyway?
 
 Could it be a real psychic power&.&.&.?
 
@@ -948,8 +945,7 @@ Could it be a real psychic power&.&.&.?
 "This kinda thing isn't normal&.&.&."
 
 &.&.&.I don't mind things that aren't normal&.
-Lately I've had a lot more opportunities to encounter other
-eccentrics&.
+Lately I've had a lot more opportunities to encounter other eccentrics&.
 
 Besides&, you speak kind of weirdly&, but you aren't scary&, and you
 don't have crazy conspiracy theories&, which makes you preferable to
@@ -1127,13 +1123,11 @@ Thank goodness&.&.&.
 [text015]
 But if so&, why hadn't she contacted me&, not even once?
 
-I must've fallen out of favor with her after what happened at
-O-Front&.
+I must've fallen out of favor with her after what happened at O-Front&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400830ko">
-"On the day of the earthquake&, Sakihata-shan went pale and left
-early&."
+"On the day of the earthquake&, Sakihata-shan went pale and left early&."
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400840ko">
@@ -1151,8 +1145,8 @@ I&.&.&. see&.&.&.
 I felt delivered&. Knowing that Rimi hadn't thrown me aside seriously
 made me seem about to cry&.
 
-If that were the case&, I had a reason to attend school again&. I
-wanted to see Rimi one more time&. Until then&, I'd try my hardest&,
+If that were the case&, I had a reason to attend school again&.
+I wanted to see Rimi one more time&. Until then&, I'd try my hardest&,
 and keep going to schoolÅ\
 
 {	SetVolume("SE10", 1000, 0, NULL);
@@ -1167,8 +1161,8 @@ Eh&.&.&.?
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400870ko">
-"I didn't say it cause I thought you were going out with
-Sakihata-shan&, but&, but&, butÅ\"
+"I didn't say it cause I thought you were going out with Sakihata-shan&,
+but&, but&, butÅ\"
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14400880ko">
@@ -1255,12 +1249,11 @@ Beep-beep to the other person&. Boom-bang back to me&."
 "If you're not used to it&, your thoughts can get all mushy-wooshied
 up with theirs&, and it gets all unyaa&."
 
-W-was she speaking Japanese or what&.&.&.
+In&, in Japanese please&.&.&.
 
 Although I sort of got the nuances of it&.
 
-So there weren't any little subleties&, like in regular
-conversations&.
+So there weren't any little subleties&, like in regular conversations&.
 
 Things like seeing the other person's expression or finding yourself
 unable to say what you wanted wouldn't happen&.
@@ -1359,9 +1352,8 @@ you&.&.&."
 "Though reeeally&, I've decided to let as few people as possible know
 about my power&."
 
-No&, at the time&, I hadn't given a damn about anything&.&.&. umm&,
-umm&.&.&. well&.&.&. they were mere delusions to the end&, I
-guess&.&.&. haha&.&.&.
+No&, at the time&, I hadn't given a damn about anything&.&.&. umm&, umm&.&.&.
+well&.&.&. they were mere delusions to the end&, I guess&.&.&. haha&.&.&.
 
 It'd be normal to despise me for it&.
 Haa&.&.&.
@@ -1534,8 +1526,7 @@ psychic performance&.
 Uu? Don't not?"
 
 But&.&.&. in the end&, it hadn't done any good&.
-I'd prioritized my own life over saving Nanami&.&.&. my little
-sister&.
+I'd prioritized my own life over saving Nanami&.&.&. my little sister&.
 I'd fled at the very brink of things&.&.&.
 
 </PRE>
@@ -1549,8 +1540,7 @@ I'd fled at the very brink of things&.&.&.
 Kozu-pii stopped in front of Roft&.
 She looked at me as she pointed at the store entrance&.
 
-Apparently the place she'd said she would guide me to was inside
-here&.
+Apparently the place she'd said she would guide me to was inside here&.
 
 I didn't think there was anywhere to rest in Roft&.
 
@@ -1558,8 +1548,8 @@ Besides&, there were a lot of customers in a small&, enclosed space
 there&.
 
 &.&.&.Without my realizing it&, my legs had started shaking&.
-The cheers and bellows I'd heard from the pedestrian crossing that
-night echoed in my head&.
+The cheers and bellows I'd heard from the pedestrian crossing
+that night echoed in my head&.
 
 I didn't want to go anywhere that was full of people&.&.&.
 I wouldn't have anywhere to escape to if I entered Roft&.&.&.
@@ -1670,8 +1660,8 @@ He'd said I could grasp it if I reached out&, but I couldn't do it&.
 
 I unthinkingly shouted&.
 
-A couple passing us on the downward escalator gave me cold looks&, and
-I hurriedly covered my mouth with my hand&.
+A couple passing us on the downward escalator gave me cold looks&,
+and I hurriedly covered my mouth with my hand&.
 
 &.&.&.Kozu-pii&, how do you know about Di-Swords?
 

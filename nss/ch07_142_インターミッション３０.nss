@@ -216,8 +216,7 @@ it back with her fingers&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch07/14200210ri">
-"Dreams actually take place in only two or three seconds as you
-sleep&."
+"Dreams actually take place in only two or three seconds as you sleep&."
 
 //Ÿ–A–—‚¤‚½‚©‚½
 //y—œ[z

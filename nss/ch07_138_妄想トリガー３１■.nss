@@ -240,8 +240,7 @@ I buried my nose in her soft hair and sniffed its scent&.
 "&.&.&.&.&.&.!?"
 
 She seemed too frightened to speak&.
-Although I'd never actually seen her talk before&, come to think of
-it&.
+Although I'd never actually seen her talk before&, come to think of it&.
 
 She twisted her body in an attempt to wriggle out of my grasp&. But
 the strength she put into it was nothing to write home about&.
@@ -249,8 +248,8 @@ the strength she put into it was nothing to write home about&.
 Even I&, who normally performed no physical activity and had zero
 muscular bulk&, was able to easily suppress her&.
 
-The juvies around us had frozen in place&, unmoving&, as if taken
-aback by my unconventional behavior&.
+The juvies around us had frozen in place&, unmoving&, as if taken aback
+by my unconventional behavior&.
 
 //◆怯えるブレス
 //【梢】
@@ -313,8 +312,8 @@ her head more frantically than before&.
 
 Her gestures of unwillingness incited me to further sadism&.
 
-Public assault was pretty much the only choice left here&. I'd reenact
-my favorite H-sce<pre>n</pre>e from the eroge
+Public assault was pretty much the only choice left here&.
+I'd reenact my favorite H-sce<pre>n</pre>e from the eroge
 "Rape Academy Year 2: The Honey Class&."
 
 I slowly slid my hands from her breasts to her stomach&.
@@ -363,8 +362,8 @@ and thrust my hand into her skirt―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-I immersed myself in such delusions while sitting at my seat&, face
-lowered&.
+I immersed myself in such delusions while sitting at my seat&,
+face lowered&.
 
 Even now&, the transfer student was writhing indecorously in my head&,
 lovely moans spilling from her mouth&.
@@ -431,15 +430,14 @@ away―with the iron hammer of my wrath&.
 [text008]
 I slowly rose from my seat&.
 
-Unaware that they were about to be smitten by God's judgment&, the
-delinquents went on grinning at me&.
+Unaware that they were about to be smitten by God's judgment&,
+the delinquents went on grinning at me&.
 
 I casually picked up my chair&.
 
 I heaved it up over my head and walked up to the first thug who had
 made fun of me&.
-His face froze&, the grin still plastered on it&, at my sudden
-actions&.
+His face froze&, the grin still plastered on it&, at my sudden actions&.
 
 //ガヤ停止
 {	SetVolume("SE01", 500, 0, null);}
@@ -679,13 +677,12 @@ And another blow―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text017]
-I immersed myself in such delusions while sitting at my seat&, face
-lowered&.
+I immersed myself in such delusions while sitting at my seat&,
+face lowered&.
 
 Hehehe&. How pleasurable&.
 
-There was currently a bit of splatter horror playing back in my
-brain&.
+There was currently a bit of splatter horror playing back in my brain&.
 Ahh&, I seriously wanted to beat them all to death&.
 
 </PRE>
@@ -714,7 +711,7 @@ if($妄想トリガー３１ == 0)
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text018]
-I had a go at brightening my mood by murdered the juvies in my head&.
+I had a go at brightening my mood by murdering the juvies in my head&.
 But it wasn't enough to ease my humiliation&.
 
 On top of that&, the juvies from before were still provoking me in
@@ -823,9 +820,9 @@ hands to crush the life out of them&.
 The more I thought about it&, the more I felt driven by the urge to do
 it&.
 
-Maybe&, the second I acted so recklessly&, the world would reset
-itself&, and my simulation of "the choice that leads to an unhappy
-outcome" would come to an end&.
+Maybe&, the second I acted so recklessly&, the world would reset itself&,
+and my simulation of "the choice that leads to an unhappy outcome"
+would come to an end&.
 
 And I'd return to the previous world&.
 
@@ -992,8 +989,7 @@ No&, it must be imaginary&.&.&.
 <voice name="拓巳" class="拓巳" src="voice/ch07/13800400ta">
 "Who are you!?"
 
-When I shouted&, my classmates scooted away from me as though
-fleeing&.
+When I shouted&, my classmates scooted away from me as though fleeing&.
 
 //【梢】
 <voice name="梢" class="梢" src="voice/ch07/13800410ko">

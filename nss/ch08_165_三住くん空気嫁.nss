@@ -93,8 +93,7 @@ I've got a whole new respect for you&."
 	DeleteStand("bu‘å•ã_§•_’Êí_sigh", 0, false);}
 //yOZz
 <voice name="OZ" class="OZ" src="voice/ch08/16500080mi">
-"I didn't hold out for three minutes&.&.&. Me! Ya know what that
-means!?"
+"I didn't hold out for three minutes&.&.&. Me! Ya know what that means!?"
 
 {	DeleteStand("bu‘å•ã_§•_’Êí_worry", 500, true);}
 N&, no&, I don't&.&.&. (LEƒÖE`)

@@ -88,9 +88,7 @@ clear that it was a kind of message aimed at me&.
 
 A woman who had devoured her own right hand&.&.&.
 
-That secretly signified Nanami's severed right hand&, no doubt about
-it&.
-
+That secretly signified Nanami's severed right hand&, no doubt about it&.
 The thing about Nanami had just been "Shogun" phishing me&, but I went
 cold when I entertained the thought that maybe she'd really been the
 one to die&.
@@ -110,8 +108,8 @@ Other people's gazes scared me&.
 
 I didn't want to meet anyone&.
 
-People who seemed like they were from the media frequently dropped
-by&, but I ignored all of them&.
+People who seemed like they were from the media frequently dropped by&,
+but I ignored all of them&.
 
 I hadn't contacted my parents or spoken to Nanami&.
 
@@ -132,8 +130,7 @@ One weekÅ\
 Was this brief period of time too long or too short for things to cool
 down?
 
-They say that rumors last 75 days&, but that's a proverb from the
-past&.
+They say that rumors last 75 days&, but that's a proverb from the past&.
 
 Lately&, fads have been amazingly fast to change&.
 The catch-words of the moment will have been abandoned in a year&.
@@ -279,8 +276,8 @@ Even though Rimi had promised me so&.
 I hadn't had any contact from her for over ten days&.
 
 When I imagined that maybe she'd seen me disgraced on TV&, and I'd
-fallen out of her good graces&, it made me horribly frightened&, and
-sad&, and lonely&.
+fallen out of her good graces&, it made me horribly frightened&,
+and sad&, and lonely&.
 
 No oneÅ\not even NanamiÅ\came to see me&.
 I was slandered in massive online threads&.
@@ -290,14 +287,12 @@ Though I said I didn't want to meet with anyone&, that solitude was
 agonizing&.
 
 I wanted Rimi to come take a look at me&.
-I wanted her to say "It must've been hard for you" and hold me
-gently&.
+I wanted her to say "It must've been hard for you" and hold me gently&.
 
 When you got down to it&, I was letting her spoil me&.
 
 But it was her fault&.
-Rimi&.&.&. was the one who had taught me about three-dimensional
-warmth&.
+Rimi&.&.&. was the one who had taught me about three-dimensional warmth&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

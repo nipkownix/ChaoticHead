@@ -52,12 +52,11 @@ I had one goal in going to school&, all the same&.
 
 To see Rimi&.
 
-Surely my juvie classmates would taunt me about this and that today as
-well&.
+Surely my juvie classmates would taunt me about this and that today
+as well&.
 
-That was tough enough&, but when you weighed it against the
-possibility of being able to meet Rimi&, I could still put up with
-it&.
+That was tough enough&, but when you weighed it against the possibility
+of being able to meet Rimi&, I could still put up with it&.
 
 I recalled yesterday's events as I passed through the school gate&.
 Sena had emphasized her warning as we parted&.
@@ -157,8 +156,8 @@ Swordless&, how could I escape his evil grip?
 If Rimi were with me?
 
 But it bothered me that Rimi was taking time off from school&.
-What would I do if&, this time around&, Rimi were taken hostage the
-way Nanami had been?
+What would I do if&, this time around&, Rimi were taken hostage
+the way Nanami had been?
 
 Was there anyone around who seemed likely to save me&.&.&.
 
@@ -219,7 +218,7 @@ Next&, Kozu-pii's seat&.
 Seated&, she faced down and shrunk into herself&.
 
 When I remembered the story Sena had told me yesterday&, it made sense
-that Kozue-pii always carried herself this wayÅB
+that Kozue-pii always carried herself this way&.
 
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/15100040ko">
@@ -231,7 +230,7 @@ Our eyes didn't meet&, but we internally exchanged morning greetings&.
 
 The delinquent girls watched me&, grinning&.
 
-It was the day after yesterday&. I wouldn't yet be able to peel of the
+It was the day after yesterday&. I wouldn't yet be able to peel off the
 label of "self-proclaimed psychic boy who's actually an otaku freak
 and made an idiot of himself on TV&."
 
@@ -392,8 +391,7 @@ When I held my silence&, Misumi-kun put on a forced smile&.
 	DeleteStand("buëÂï„_êßïû_í èÌ_sigh", 300);}
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch07/15100140mi">
-"How dark of you&, being all broody so early in the morning&.
-Hahaha&."
+"How dark of you&, being all broody so early in the morning&. Hahaha&."
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch07/15100150mi">
@@ -495,8 +493,7 @@ hospital&."
 
 //ÅyéOèZÅz
 <voice name="éOèZ" class="éOèZ" src="voice/ch07/15100290mi">
-"Speaking of which&, Taku&, you know Kishimoto&. Won't you come with
-me?"
+"Speaking of which&, Taku&, you know Kishimoto&. Won't you come with me?"
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch07/15100300ta">

@@ -37,7 +37,7 @@ function ch01_003_チャット■()
 	CreateSE("SE01","SE_日常_PC_ハードディスク_Loop");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, true);
 
-//☆Cut-4――――――――――――――――――――――――――――――
+//☆Cut-4------------------------------
 //イメージＢＧ//チャット画面
 //チャットログは画面中央に、実際にチャットのように表示？
 // ENTER_reset　チャット画面Pan & overLap
@@ -56,7 +56,7 @@ fall asleep or something?
 
 	FadeDelete("登校シフト", 500, true);
 
-//☆Cut-5――――――――――――――――――――――――――――――
+//☆Cut-5------------------------------
 // ENTER
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -87,7 +87,7 @@ Seated in my chair&, I started typing&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-6――――――――――――――――――――――――――――――
+//☆Cut-6------------------------------
 //ＳＥ//キーボードを叩く//以下略
 // ENTER_reset　SEキー叩く
 //――――――――――――――――――――――――――――――――――――――
@@ -185,7 +185,7 @@ But in real life&.&.&. that's not the case&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-//☆Cut-8――――――――――――――――――――――――――――――
+//☆Cut-8------------------------------
 // ＊演出＊上記セリフ終わりで表示
 //半角文字はまずいですか？
 //――――――――――――――――――――――――――――――――――――――
@@ -310,7 +310,7 @@ my pet theory
 	WaitKey();
 
 //=============================================================================//
-//☆Cut-8――――――――――――――――――――――――――――――
+//☆Cut-8------------------------------
 // ENTER_reset　
 
 //■選択肢開始
@@ -855,8 +855,8 @@ if($キャップ == 1)
 <PRE @box01>
 [text516]
 //ナイトハルト：それとキャップにエロさを感じるのは僕だけでいい
-Neidhardt: And it's fine if I'm the only one who thinks
-that swim caps are sexy
+Neidhardt: And it's fine if I'm the only one who thinks that
+swim caps are sexy
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,WHITE);
 	TypeChat("0");
@@ -935,7 +935,7 @@ she doesn't need anything else&.
 //分岐１
 
 //こちらの分岐になった場合、葉月（第２章以降に登場する看護師。グリムの中の人）が登場する際メガネ装備
-//cu<pre>t</pre>-8が終了後　チャット画面もどり wait0.5sec
+//Cut-8が終了後　チャット画面もどり wait0.5sec
 if($メガネ == 1)
 {
 
@@ -1024,11 +1024,11 @@ Neidhardt: That's the part that spurs on my fantasies
 
 //=============================================================================//
 
-//☆Cut-10――――――――――――――――――――――――――――――
+//☆Cut-10------------------------------
 //分岐２
 //☆☆☆
 //こちらの分岐になった場合、葉月が登場する際メガネを装備していない
-//cu<pre>t</pre>-8が終了後　チャット画面もどり wait0.5sec
+//Cut-8が終了後　チャット画面もどり wait0.5sec
 if($スク水 == 1)
 {
 
@@ -1146,7 +1146,7 @@ moe
 //ここまで
 //=============================================================================//
 
-//☆Cut-11――――――――――――――――――――――――――――――
+//☆Cut-11------------------------------
 // 合流１
 // wait 0.5sec\
 //ＳＥ//ハードデスク
@@ -1242,21 +1242,20 @@ Neidhardt: So&, what were we talking about before I dozed off?
 	SoundChat(1,1,key);
 	TypeChat("0");
 
-//☆Cut-12――――――――――――――――――――――――――――――
+//☆Cut-12------------------------------
 
 // ENTER
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text052]
 //まあ、どうせエンスーに関する情報交換なんだろうけど。
-Well&, whatever the case&, we were probably exchanging ESO-related
-news&.
+Well&, whatever the case&, we were probably exchanging ESO-related news&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-13――――――――――――――――――――――――――――――
+//☆Cut-13------------------------------
 
 // reset wait 0.5sec
 //――――――――――――――――――――――――――――――――――――――
@@ -1281,7 +1280,7 @@ recently
 	SoundChat(0,0,false);
 	TypeChat("2000");
 
-//☆Cut-14――――――――――――――――――――――――――――――
+//☆Cut-14------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1298,7 +1297,7 @@ What do you mean?
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-15――――――――――――――――――――――――――――――
+//☆Cut-15------------------------------
 
 //イメージＢＧ//チャット画面フラッシュ
 //ＳＥ//チャット参加音
@@ -1345,7 +1344,7 @@ Neidhardt: Yo
 	SoundChat(1,1,200);
 	TypeChat("0");
 
-//☆Cut-16――――――――――――――――――――――――――――――
+//☆Cut-16------------------------------
 
 	Wait(3000);
 
@@ -1382,7 +1381,7 @@ Whatever&. I don't give a shit&.
 // ENTER_reset
 //こういうところも、ネットのいいところ。<k>
 //無駄な人間関係に気を煩わしたりする必要がない。
-This is what's nice about the Net&. <k>
+This is what's nice about the Net&.<k>
 There's no need to bother yourself with pointless interpersonal
 relationships&.
 
@@ -1390,7 +1389,7 @@ relationships&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-17――――――――――――――――――――――――――――――
+//☆Cut-17------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1462,7 +1461,7 @@ Grim: But it's still pretty shocking
 	TypeChat("1500");
 
 
-//☆Cut-18――――――――――――――――――――――――――――――
+//☆Cut-18------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1479,7 +1478,7 @@ It has been getting more dangerous around here recently&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-//☆Cut-19――――――――――――――――――――――――――――――
+//☆Cut-19------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1517,7 +1516,7 @@ Neidhardt: It's not like that
 	SoundChat(1,1,500);
 	TypeChat("1000");
 
-//☆Cut-20――――――――――――――――――――――――――――――
+//☆Cut-20------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1542,7 +1541,7 @@ and if I get tricked by one&, I end up looking whether I want to or not&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-21――――――――――――――――――――――――――――――
+//☆Cut-21------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1566,7 +1565,7 @@ Neidhardt: I don't PK
 	SoundChat(1,1,200);
 	TypeChat("1000");
 
-//☆Cut-22――――――――――――――――――――――――――――――
+//☆Cut-22------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1575,7 +1574,7 @@ Neidhardt: I don't PK
 //ＰＫっていうのは、プレイヤーキラーの略だ。
 PK is an abbreviation for Player Kill&.
 
-// ENTER_reset
+// ENTER_reset  
 //ネトゲで、赤の他人であるプレイヤーキャラを攻撃して装備品やマネーポイントを奪うっていう、ＤＱＮ行為をするヤツのこと。
 It refers to the dicks who take part in a certain kind of delinquent
 behavior&, killing unrelated people in Net games and stealing their
@@ -1585,7 +1584,7 @@ equipment and money points&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-23――――――――――――――――――――――――――――――
+//☆Cut-23------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1620,7 +1619,7 @@ Neidhardt: Of not breaking ESO's rules
 	SoundChat(1,1,key);
 	TypeChat("0");
 
-//☆Cut-24――――――――――――――――――――――――――――――
+//☆Cut-24------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1633,7 +1632,7 @@ Neidhardt: Of not breaking ESO's rules
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-25――――――――――――――――――――――――――――――
+//☆Cut-25------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1680,7 +1679,7 @@ Neidhardt: ???
 	SoundChat(1,1,200);
 	TypeChat("100");
 
-//☆Cut-26――――――――――――――――――――――――――――――
+//☆Cut-26------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -1697,7 +1696,7 @@ Although Grim referred to it like it'd be natural for me to know it&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-27――――――――――――――――――――――――――――――
+//☆Cut-27------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -1745,7 +1744,7 @@ Grim: They're all in your neighborhood&, heh
 	SoundChat(0,0,false);
 	TypeChat("0");
 
-//☆Cut-28――――――――――――――――――――――――――――――
+//☆Cut-28------------------------------
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -1765,7 +1764,7 @@ details&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-29　――――――――――――――――――――――――――――――
+//☆Cut-29　------------------------------
 // ENTER_ reset  SEキー叩く
 // bg検索欄UP(ニュージェネ)
 //ＳＥ//キーボードを叩く音
@@ -1811,9 +1810,9 @@ When I tried searching "New Gen&," I got some hits right away&.
 // ENTER_reset
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00300030ta">
-//「この１ヶ月の間に渋谷で発生したふたつの事件のことをニュージェネと呼ぶ……"
-The two incidents that have occurred in Shibuya this past month
-are collectively being called 'New Gen'&.&.&."
+//「この１ヶ月の間に渋谷で発生したふたつの事件のことをニュージェネと呼ぶ……
+"The two incidents that have occurred in Shibuya this past month
+are collectively being called 'New Gen'&.&.&.
 
 // ENTER_reset
 <voice name="拓巳" class="拓巳" src="voice/ch01/00300031ta">
@@ -1893,7 +1892,7 @@ Before I knew it&, I'd turned to look around my room again&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text093]
-// ENTER_reset　bgTaboo! cu<pre>t</pre> / in
+// ENTER_reset　bgTaboo! Cut / in
 //Taboo!にニュージェネについて報じた過去のニュースのリンクが色々あったので、ざっと流し読みしてみた。
 There were plenty of links to older New Gen news on Taboo!&,
 so I went ahead and started skimming them&.
@@ -1901,8 +1900,8 @@ so I went ahead and started skimming them&.
 //Taboo!＝Yahoo!
 // ENTER_rese
 //連日ネット上でも騒がれている事件――それがニュージェネレーションの狂気。
-The New Generation madness: such are the incidents that have
-been causing a stir on the Net for day after day&.
+The New Generation madness: such are the incidents that have been
+causing a stir on the Net for day after day&.
 
 // ENTER_reset
 //事件は過去に２回。
@@ -1911,8 +1910,7 @@ Two instances of this have already occurred&.
 // ENTER_reset
 //ひとつはあまりに残忍な殺害方法のため、犯行の描写を口頭でさえ自粛している放送局もあるほど。
 One featured such a brutal method of killing that there were
-TV channels that forebore to express the criminal's behavior
-in words&.
+TV channels that forebore to express the criminal's behavior in words&.
 
 // ENTER_reset
 //また、最初のダイブ事件の方も殺人ではないかっていう噂があるらしい。
@@ -1932,7 +1930,7 @@ makes it difficult to think that they were attempting suicide&.
 
 	FadeDelete("結果", 500, true);
 
-//☆Cut-30――――――――――――――――――――――――――――――
+//☆Cut-30------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2011,7 +2009,7 @@ Grim: A photo of one of the victims' corpses
 	SoundChat(0,0,false);
 	TypeChat("0");
 
-//☆Cut-31――――――――――――――――――――――――――――――
+//☆Cut-31------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2059,7 +2057,7 @@ What&, so it's just a shitty doodle&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 	FadeDelete("スプー", 0, true);
-//☆Cut-32――――――――――――――――――――――――――――――
+//☆Cut-32------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2170,7 +2168,7 @@ Current members: 2
 	TypeChat("1000");
 
 
-//☆Cut-33――――――――――――――――――――――――――――――
+//☆Cut-33------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2204,7 +2202,7 @@ As I thought that&, I was just about to close the chat window&, when―
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-//☆Cut-34――――――――――――――――――――――――――――――
+//☆Cut-34------------------------------
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
 [text113]
@@ -2215,7 +2213,7 @@ As I thought that&, I was just about to close the chat window&, when―
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-35――――――――――――――――――――――――――――――
+//☆Cut-35------------------------------
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -2237,8 +2235,7 @@ Shogun posted something&.
 //ＲＯＭ厨じゃなかったの？
 //拡張子からして画像リンクみたいだけど……。
 He wasn't a faithful lurker?
-Going by the file extension&, it looked like a link to an image&,
-but&.&.&.
+Going by the file extension&, it looked like a link to an image&, but&.&.&.
 
 //見知らぬ相手、しかもそれまでまったく書き込みのなかった怪しい人物からの突然のリンク。僕は思わずゴクリと息を呑んでいた。
 A sudden link from someone suspicious&, a person I didn't know&, and on
@@ -2251,14 +2248,14 @@ before&, in all my time on the Net&. Of course I didn't want to click it&.
 
 //舌打ちしつつ時計を見ると、星来たんとの約束の時間まで１２分になっていた。さっさと話を切り上げた方がよさそう。
 I clicked my tongue and looked at the clock&. Twelve minutes until my
-promised time with Seira-tan&. It'd be a good idea to
-cu<pre>t</pre> off the conversation right away&.
+promised time with Seira-tan&. It'd be a good idea to cu<pre>t</pre> off
+the conversation right away&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-36――――――――――――――――――――――――――――――
+//☆Cut-36------------------------------
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -2292,7 +2289,7 @@ Neidhardt: Whoa&.&.&. wait&, haha&, what's with the English? lol
 	SoundChat(1,1,key);
 	TypeChat("1000");
 
-//☆Cut-37――――――――――――――――――――――――――――――
+//☆Cut-37------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2311,7 +2308,7 @@ deal with him&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-38――――――――――――――――――――――――――――――
+//☆Cut-38------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2323,7 +2320,7 @@ Shogun: Sorry I surprised you
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-39――――――――――――――――――――――――――――――
+//☆Cut-39------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2337,7 +2334,7 @@ My mind was put to rest a little&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-40――――――――――――――――――――――――――――――
+//☆Cut-40------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2380,7 +2377,7 @@ Neidhardt: Where are you chatting from?
 	SoundChat(1,1,key);
 	TypeChat("4000");
 
-//☆Cut-41――――――――――――――――――――――――――――――
+//☆Cut-41------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2392,7 +2389,7 @@ For some reason&, there was a weird gap&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-42――――――――――――――――――――――――――――――
+//☆Cut-42------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2404,7 +2401,7 @@ Shogun: Shibuya
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-43　――――――――――――――――――――――――――――――
+//☆Cut-43　------------------------------
 //☆☆☆☆071011
 //ＳＥ//衝撃音_フラッシュバック
 	CreateSE("SE04","SE_衝撃_フラッシュバック");
@@ -2460,13 +2457,10 @@ straight on&.
 
 //裂かれた男の腹。その中に強引に詰め込まれた胎児の遺体。<k>
 //高層ビルからダイブした５人は、地面に叩き付けられてきっと原形をとどめていないくらいぐちゃぐちゃになったはず……。
-A man's torn stomach&. The fetus that was forcibly stuffed
-in the hole&.
-
-When the five who dove from that high-rise hit the
-ground&, they must've gotten so badly messed up that
-there would be no way to tell what they really originally
-looked like&.&.&.
+A man's torn stomach&. The fetus that was forcibly stuffed in the hole&.<k>
+When the five who dove from that high-rise hit the ground&, they must've
+gotten so badly messed up that there would be no way to tell what they
+really originally looked like&.&.&.&.
 
 //想像するだけで吐きそうになる。<k>
 //急いで首を振って、そんなグロい妄想をかき消した。
@@ -2474,14 +2468,14 @@ Just imagining it made me feel sick to my stomach&.<k>
 I hastily shook my head to get rid of the gruesome delusions&.
 
 //この将軍っていうヤツが怪しすぎるから、余計なことまで妄想しちゃうんだ。<k>とんだとばっちりだよ。
-This Shogun guy is so suspicious to made me think about all that
-stuff&. <k>I got seriously caught up in it&.
+This Shogun guy is so suspicious to made me think about all that stuff&.<k>
+I got seriously caught up in it&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-44――――――――――――――――――――――――――――――
+//☆Cut-44------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box01>
@@ -2498,8 +2492,8 @@ Neidhardt: （・∀・）人（・∀・） I'm in Shibuya&, too
 <PRE @box01>
 [text129]
 //ナイトハルト：なんか最近変な事件が多発してるらしいね
-Neidhardt: Seems like a lot of strange incidents have
-happened lately
+Neidhardt: Seems like a lot of strange incidents have happened
+lately
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundChat(1,1,key);
@@ -2539,7 +2533,7 @@ Shogun: ｆｕｎ＾１０×ｉｎｔ＾４０＝Ｉｒ２
 	SoundChat(0,0,false);
 	TypeChat("1000");
 
-//☆Cut-45――――――――――――――――――――――――――――――
+//☆Cut-45------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2573,8 +2567,8 @@ At times like this&, it's easiest if you just run a search&.
 
 //もしかしてこいつ、頭のいいフリをしようとして適当な公式を書いただけとか？
 //ワケ分からん。
-Could it be that he simply typed in some random&, made-up formula to
-make himself seem intelligent?
+Could it be that he simply typed in some random&, made-up formula
+to make himself seem intelligent?
 I didn't get it&.
 
 </PRE>
@@ -2588,7 +2582,7 @@ I didn't get it&.
 
 	Wait(500);
 
-//☆Cut-46――――――――――――――――――――――――――――――
+//☆Cut-46------------------------------
 //イメージＢＧ//チャット画面
 
 //――――――――――――――――――――――――――――――――――――――
@@ -2873,7 +2867,7 @@ Shogun: I thought you might be interested
 	TypeChat("100");
 
 
-//☆Cut-47――――――――――――――――――――――――――――――
+//☆Cut-47------------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -2888,8 +2882,8 @@ Countless URLs went up at an incredible speed&.
 
 //さっきからなんなんだコイツ……。僕を脅かして楽しんでるのか？　実はグリムの知り合いかなにかで、ふたりで僕を担いでるのか？
 What's going on with this guy&.&.&. Is he getting his kicks by
-intimidating me? Maybe he's a friend of Grim&,
-working together to pull the wool over my eyes?
+intimidating me? Maybe he's a friend of Grim&, working together
+to pull the wool over my eyes?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2935,19 +2929,16 @@ like I was being watched&, I couldn't get myself to calm down&.
 "Don't look at me&."
 
 //言葉にしてみたら、自分の声が震えているのが分かった。
-When I tried putting it into words&, I realized that my voice was
-shaky&.
+When I tried putting it into words&, I realized that my voice was shaky&.
 
 //いつもの散らかった部屋が別モノのように感じられる。
 My familiar&, messy room felt like something altogether different&.
 
 //恐怖番組やホラー映画を見た後だとか、友人の怖い話を聞いた後は、見慣れたはずの自分の家の何気ない空間でさえも恐ろしく思えて、深夜ひとりでトイレに行けなくなるってよく言うけど――今僕は、それに似た体験をしている。
-It's said that after you watch a fear-mongering TV program&, or go to
-a horror movie&, or hear a scary story from your friend&,
-the careless air of your own house&, which you should be used to&,
-
-becomes so frightening that you can't go to the
-bathroom by yourself late at night&.
+It's said that after you watch a fear-mongering TV program&, or go to a
+horror movie&, or hear a scary story from your friend&, the careless air
+of your own house&, which you should be used to&, becomes so frightening
+that you can't go to the bathroom by yourself late at night&.
 
 ―Right now&, I'm having a similar experience&.
 
@@ -3078,14 +3069,14 @@ I desperately tried to grab the mouse&, but my hand was shaking&,
 and it didn't go well&. I was so frantic that I failed to grasp it&,
 and it slipped off the desk&, dragging only its cord behind it&.
 
-I reeled in the cord&, set it back on the
-mousepad&, and closed the window&.
+I reeled in the cord&, set it back on the mousepad&,
+and closed the window&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-48――――――――――――――――――――――――――――――
+//☆Cut-48------------------------------
 
 //イメージＢＧ//チャットログの『将軍：その目だれの目？』という一文のアップ
 //ＳＥ//ハードデスク停止
@@ -3144,3 +3135,7 @@ Shogun: Whose eyes are those eyes?{	WaitKey();}
 	Wait(3000);
 
 }
+
+
+
+

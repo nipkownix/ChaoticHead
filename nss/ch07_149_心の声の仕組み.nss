@@ -70,8 +70,7 @@ thing I wanted to ask the Gigalomaniacs Ph&.D&. no matter what&.
 <voice name="セナ" class="セナ" src="voice/ch07/14900030sn">
 "&.&.&.&.&.&.&."
 
-Even if I called out to her&, Sena retained her ill-humored
-expression&.
+Even if I called out to her&, Sena retained her ill-humored expression&.
 
 It had been better when Kozu-pii was here&, but she remained
 off-putting&.&.&.

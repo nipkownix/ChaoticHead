@@ -51,9 +51,9 @@ and start bawling&.
 And without any idea of how I felt&, Nanami would yell at me
 straight-faced&, saying&, "Don't make me worry so much&, you moron!"
 
-When I envisioned that sce<pre>n</pre>e&, I almost fainted
-from embarrassment&. As a result&, I decided to beat a strategic
-retreat before I fell into such a situation&.
+When I envisioned that sce<pre>n</pre>e&, I almost fainted from embarrassment&.
+As a result&, I decided to beat a strategic retreat before I fell into
+such a situation&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -72,10 +72,11 @@ retreat before I fell into such a situation&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-After nibbling a little bit of the horrible breakfast they gave me&, I
-furtively left the hospital room&.
+After nibbling a little bit of the horrible breakfast they gave me&,
+I furtively left the hospital room&.
 
 I descended to the first floor and crossed the lobby&.
+
 Since the hospital hadn't opened yet&, the lobby&, which was normally
 bulging at the seams with old people&, was now quiet and still&.
 
@@ -239,8 +240,8 @@ A human hand? Disgusting&. Recalling it nearly made me throw up&.
 Even if it were Nanami's&.
 
 But simply because of that&, I couldn't let it stay in my fridge for
-who knew how long&. At this rate&, I wouldn't be able to chill my
-Coke&, either&.
+who knew how long&. At this rate&, I wouldn't be able to chill my Coke&,
+either&.
 
 For a second I thought of giving it to the police&, but on second
 thought&, they suspected me of being the New-Gen perpetrator&.
@@ -367,8 +368,7 @@ I closed the fridge and looked around the trash-strewn room&.
 The large cardboard box that the hand had been put in&.
 
 What had I done with it yesterday&.&.&.
-I had a sense that I'd tossed it into a corner of the room&,
-but&.&.&.
+I had a sense that I'd tossed it into a corner of the room&, but&.&.&.
 
 At any rate&, my memories of last night weren't very clear&.
 

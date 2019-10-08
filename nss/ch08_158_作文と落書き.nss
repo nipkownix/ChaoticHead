@@ -97,6 +97,7 @@ It almost seemed like she was avoiding the topic of anything related
 to New-Gen&.
 
 Maybe she found it to be obnoxious on my part&.&.&.
+
 Someone she knew had been injured in the earthquake&, and she must
 have her hands full with that&, and maybe she couldn't afford to
 bother with the likes of me&.
@@ -254,7 +255,7 @@ instead&.
 
 //【星来】
 <voice name="星来" class="星来" src="voice/ch08/15800090se">
-"Th&, this&, um&, it isn't what it looks like!　It's not like street
+"Th&, this&, um&, it isn't what it looks like! It's not like street
 vendor soba is my favorite food in the world or anything&."
 
 //【星来】
@@ -368,7 +369,6 @@ out of flattery&.
 
 Here&.&.&. I wondered if some weighty secret were hidden here in
 this essay&.
-
 Something "Shogun" would have good reason to be picky about&.
 
 The meaning of what the old homeless guy had said: "the most special
@@ -383,10 +383,44 @@ not to overlook a single word&.
 
 //おがみ：ここはテキスト？orイメージBG演出？
 
+/*
+//――――――――――――――――――――――――――――――――――――――
+<PRE box00>
+[text006]
+//以下、ＢＧイメージ指定がないため、テキストで括りコメントアウト致します
+//※以下、拓巳の作文
+
+『その目だれの目？』
+
+４年３組　西條拓巳
+
+　ぼくはよく夢を見ます。夢の中では大人になってるぼくがタイムマシンにのって今のぼくのところにワープして来ます。大人のぼくは、ぜんぜんにていませんでした。
+　あと、タイムマシンにはいっぱいボタンがついていて、おすとシャワーが出たりシャンプーも出た。大人のぼくに使いかたを聞いたら、きょうりゅう時代とか、原始時代とかにも行けると言いました。
+　苦手な授業はなにと聞いてきたから算数と言いました。そうしたら算数のべん強ができるようになるスイッチもあると言いました。ぼくがスイッチをおそうとしたら、おこりました。自分でど力をしてがんばらないとだめだそうです。
+　大人のぼくは１回おこっただけで、あとはやさしかったから良かった。あと、ぼくがけっこんする女子とかも教えてくれました。それはひみつです。
+　あと、神さまのことも聞きました。いると言っていました。
+　ぼくもいると思います。神さまはどこでも見ているから、悪いことをすると地ごくに行かされるとお母さんも行っていました。だから悪いことはぜったいにいけないと思う。妹とも仲良くしないとだめです。
+　お母さんは、悪いことをすると神さまじゃなくて、こわい人が見てくると言っていました。
+　こわい人は、その目だれの目というオバケだった。見られると地ごくに行かされます。
+　神さまの目も、その目だれの目も、空にも、家の天じょうにも、かべにも、学校にもいっぱいあって、いつもぼくを見ています。
+　だからべん強も、良いことも、いっぱいやらないといけないと思います。でも、いつも見ているから、おふろとかトイレとかははずかしいです。
+　あと、ぼくは小さい時から、ねてない時も目をつむっただけで、時々ゆめを見る。頭の中がゲームみたいになるし、マンガみたいになります。
+　でもそれをやると、その目だれの目が出てくるのでやりたくない。お母さんに聞いたら、それはやっちゃだめと言いました。
+　でも、今作文を書いている時も、ゆめの中で大人のぼくにタイムマシンのことを聞いたら、知っていると言っていました。でもぼくが子どもだから、おしえてくれませんでした。
+　だからこれからは、良いことをいっぱいして、その目だれの目をたおしたいです。（おわり）
+
+</PRE>
+	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
+	TypeBegin();//――――――――――――――――――――――――――――――
+//※以上、拓巳の作文
+//以上、ＢＧイメージ指定がないためｍテキストで括りコメントアウト致します
+*/
+
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
 "Whose eyes are those eyes?"
+
 Class 4-3 Nishijou Takumi
 
 I dream a lot&. In my dream&, big me visits little me in a time machine&.
@@ -472,7 +506,7 @@ essay&.
 Come to think of it&, I'd love scribbling at the time&, hadn't I&.
 
 For instance&, I'd always draw little mustaches and sunglasses on the
-facial photographs of the great historical figures&, appeared in my
+facial photographs of the great historical figures who appeared in my
 social studies textbooks&, and I'd use the corners of my notebook for
 flip-book drawings&.
 

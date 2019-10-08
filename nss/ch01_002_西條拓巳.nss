@@ -361,7 +361,7 @@ function ch01_002_西條拓巳()
 	FadeDelete("色*", 500, true);
 
 //wait_0.5sec_reset & ENTER_reset
-//B/out
+//B/out 
 //bg作文用紙『その目だれの目？』
 //0.5sec F/in 1.5secWait 2sec F/out
 //イメージＢＧ//作文用紙に小学生の拓巳のつたない文字で書かれたタイトル『その目だれの目？』
@@ -397,7 +397,7 @@ function ch01_002_西條拓巳()
 The backrest of the chair I was leaning against creaked&,
 letting out a sound like a hoarse voice&.
 
-// ENTER
+// ENTER 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200010ta">
 //「僕を、見るな」
@@ -466,7 +466,7 @@ way to tell if it's noon or night&.
 
 //ＳＥ//イス軋
 	CreateSE("SE02","SE_日常_家具_イス_軋");
-	SoundPlay("SE02", 0, 1000, false);	
+	SoundPlay("SE02", 0, 1000, false);
 	Rotate("ルーム", 2000, @50, @-25, @0, Null, false);
 
 //――――――――――――――――――――――――――――――――――――――
@@ -481,8 +481,8 @@ I raised my voice to the dark corners of the room&.
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200020ta">
 //「僕の名前は<RUBY text="にしじょう">西條</RUBY><RUBY text="たくみ">拓巳</RUBY>。１７歳。翠明学園２年。<k>
-"My name is Nishijou Takumi&,
-17 years old&. I am a second year at Suimei Academy&.<k>
+"My name is Nishijou Takumi&, 17 years old&.
+I am a second year at Suimei Academy&.<k>
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200021ta">
 //と言っても学校にはほとんど行ってないけど」
 But the truth is I really don't go to school that much&."
@@ -506,7 +506,7 @@ You could call me pretty smart&."
 It wasn't as if yelling out was going to make anything happen&.
 No one would come running&.
 
-// ENTER　
+// ENTER　 
 //暗闇は暗闇のままそこにあり続けているだけ。
 The darkness just went on being there in the form of darkness&.
 
@@ -530,7 +530,7 @@ paranoia&.&.&.
 
 // ENTER_reset　
 //それを吹っ切るように、僕は独り言を続ける。
-As though to break away from that I continue my speech&.
+As though to break away from that&, I continue my speech&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1027,7 +1027,7 @@ Studying at home is enough&.
 //だけど卒業単位ってヤツはどうやら必要らしいから最低限は登校する。<K>
 But it seems that you've gotta have this thing called sufficient
 credits to graduate&, so I spend the absolute minimum
-amount of time at school that I have to&. <K>
+amount of time at school that I have to&.<K>
 // ENTER
 //これが学生にとっての一番賢い生き方ってもんさ。
 That's the smartest way to survive as a student&.
@@ -1054,8 +1054,8 @@ The parents always complain about it&.
 [text012]
 // ENTER_reset　
 //で、理想的とも言える『最低登校シフト表』を自分で作った。
-Which is why I created an ideal "minimum attendance shift chart" for
-myself&.
+Which is why I created an ideal "minimum attendance shift chart"
+for myself&.
 
 // ENTER_reset　
 //この表によると週に２．５回行けばいい計算になる。

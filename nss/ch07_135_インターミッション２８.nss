@@ -142,8 +142,8 @@ and homicide―"
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-Ever since the city suffered through a magnitude 5 earthquake&, the
-air in Shibuya had turned savage&.
+Ever since the city suffered through a magnitude 5 earthquake&,
+the air in Shibuya had turned savage&.
 
 Shibuya's public order was visibly worsening&, and it didn't end
 merely with brawls between young people; the situation included an

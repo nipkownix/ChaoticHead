@@ -89,10 +89,9 @@ a height&.
 Even so&, she had also hit her head hard&, and she had been
 hospitalized here for over a week so they could study her condition&.
 
-But then&, even if they said they were going to see how she was
-doing&, it only consisted of a simple examination every two days or
-so&, and the rest of the time&, they essentially left her to
-languish&.
+But then&, even if they said they were going to see how she was doing&,
+it only consisted of a simple examination every two days or so&,
+and the rest of the time&, they essentially left her to languish&.
 
 She had an individual room without any other beds in it&.
 
@@ -109,8 +108,8 @@ inconvenience those around her&.
 There was almost no one else likely come to visit Ayase&, who was
 estranged from her family&.
 
-The other band members had shown their faces once&, but when they
-did&, she had been the one to bring up the topic of breaking up&.
+The other band members had shown their faces once&, but when they did&,
+she had been the one to bring up the topic of breaking up&.
 Since then&, they hadn't made any attempts to contact her&.
 
 </PRE>
@@ -144,12 +143,11 @@ Since then&, they hadn't made any attempts to contact her&.
 {	SoundPlay("SE01", 1000, 300, true);
 	CreateSE("SE02","SE_“úí_•aºƒhƒA_•Â‚Ü‚é");
 	SoundPlay("SE02", 0, 1000, false);}
-The door to the hospital room opened&, and a white-garbed nurse came
-in&.
+The door to the hospital room opened&, and a white-garbed nurse came in&.
 
-Ayase languorously turned her face in the nurse's direction&, and
-then&, as if she had only just remembered it&, pulled out the
-thermometer trapped under her arm&.
+Ayase languorously turned her face in the nurse's direction&, and then&,
+as if she had only just remembered it&, pulled out the thermometer
+trapped under her arm&.
 
 The nurse looked at the digital numbers displayed there and wrote them
 down on the clipboard she had with her&.
@@ -257,8 +255,7 @@ entirely in mirrors&.
 Ayase was bound in the dead center of the room&, made to sit in a
 crude&, steel-crafted chair&.
 
-On her head was a type of headgear with numerous cords attached to
-it&,
+On her head was a type of headgear with numerous cords attached to it&,
 
 And her hands were bound behind the chair's backrest&,
 
@@ -364,8 +361,8 @@ And as these assaulted her&, she could no longer stay sane&.
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700100ay">
 "&.&.&.Haa&.&.&. hah&.&.&. ah&.&.&."
 
-Breaking out of her reverie&, Ayase clenched the sheets as she
-panted&, over and over&.
+Breaking out of her reverie&, Ayase clenched the sheets as she panted&,
+over and over&.
 She quaked at the revival of her shadowed memories&.
 
 The nurse from before had long since left the room&.
@@ -393,13 +390,11 @@ self-disparagingly&.
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700120ay">
-"I don't mind&.&.&. what they do to me now&, after all this
-time&.&.&."
+"I don't mind&.&.&. what they do to me now&, after all this time&.&.&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700130ay">
-"Because I endured it to the end&, I endured that divine
-punishment&.&.&."
+"Because I endured it to the end&, I endured that divine punishment&.&.&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700140ay">
@@ -437,8 +432,7 @@ The knock on the door made Ayase press her lips together&.
 
 {	Stand("stŒì_ƒX[ƒc_’Êí","normal", 200, @150);
 	FadeStand("stŒì_ƒX[ƒc_’Êí_normal", 500, true);}
-A lone man appeared&, holding a gift basket full of fruit in his
-hand&.
+A lone man appeared&, holding a gift basket full of fruit in his hand&.
 
 {	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 250, @-150);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 500, true);
@@ -476,8 +470,7 @@ His demeanor was quite carefree&.
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700190su">
-"Maaaan&, that brightens my day&. Having a beauty like you remember
-me&."
+"Maaaan&, that brightens my day&. Having a beauty like you remember me&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700200su">
@@ -575,8 +568,7 @@ consent&.
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700320su">
-"Have your mom c<pre>u</pre>t some up for you later&, when she
-comes to visit&."
+"Have your mom c<pre>u</pre>t some up for you later&, when she comes to visit&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700330ay">
@@ -595,9 +587,9 @@ air of feigned innocence&.
 
 She'd severed ties with her parents when she was young&.
 
-Her parents were the kind of people who cared about appearances&, and
-Ayase&, who at the time had caused nothing but trouble&, was
-inconvenient for them&.
+Her parents were the kind of people who cared about appearances&,
+and Ayase&, who at the time had caused nothing but trouble&,
+was inconvenient for them&.
 
 There technically remained a connection between her and them&. Every
 month&, money for living expenses got added to her bank account&.
@@ -736,8 +728,8 @@ laughed and denied it at once&.
 	DeleteStand("buŒì_ƒX[ƒc_’Êí_hard", 200, false);}
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700520su">
-"My bosses are gonna get pissed if I leak information&. Well&, but
-that's to be expected&."
+"My bosses are gonna get pissed if I leak information&. Well&,
+but that's to be expected&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700530su">
@@ -886,8 +878,8 @@ incolor="#88abda" outcolor="BLACK">Gladioul Saga</FONT>&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700760ay">
-"Seven stakes&, created from the black bloody shed by Gladioul&, are
-needed to block his resurrection&."
+"Seven stakes&, created from the black bloody shed by Gladioul&,
+are needed to block his resurrection&."
 
 //y‚ ‚â‚¹z
 <voice name="‚ ‚â‚¹" class="‚ ‚â‚¹" src="voice/ch08/15700770ay">
@@ -981,8 +973,7 @@ to him&.
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700890su">
-"It really isn't the kind of thing a detective ought to be
-asking&.&.&."
+"It really isn't the kind of thing a detective ought to be asking&.&.&."
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700900su">
@@ -1017,8 +1008,7 @@ asking&.&.&."
 	Stand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí","angry", 250, @-200);
 	FadeStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_angry", 200, true);
 	DeleteStand("bu‚ ‚â‚¹_ƒpƒWƒƒƒ}_’Êí_hard", 100, false);}
-Ayase furrowed her eyebrows a tiny bit at the phrase "the lot of
-you&."
+Ayase furrowed her eyebrows a tiny bit at the phrase "the lot of you&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

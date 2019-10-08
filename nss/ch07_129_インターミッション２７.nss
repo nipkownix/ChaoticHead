@@ -188,8 +188,7 @@ At last the girl flung the man aside&.
 
 Retreating one step away from the man who had fallen on his bottom&,
 she struck an odd pose&. She leaned forward&, lowering her center of
-gravity&, and placed both hands together close to the side of her
-hip&.
+gravity&, and placed both hands together close to the side of her hip&.
 
 She appeared to be carrying something&, but her hands were empty&.
 
@@ -215,8 +214,7 @@ weapon&, but where could she possibly be hiding such a thing&.&.&.
 [text004]
 Without warning&, the screenÅ\the camera shook&. This wasn't a form of
 noise&. The way the hair and clothing of passing commuters fluttered
-made it clear that the camera doing the recording was actually
-shaking&.
+made it clear that the camera doing the recording was actually shaking&.
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/12900010bn">
@@ -244,8 +242,7 @@ The people captured in the monitor saw the sword the girl had
 materialized and burst into a commotion&.
 But she took no heed of others' eyes&.
 
-The rucksack-bearing man&, on the other hand&, was blatantly
-terrified&.
+The rucksack-bearing man&, on the other hand&, was blatantly terrified&.
 He desperately scrambled up and tried to run away&.
 
 But the girl wouldn't permit this&.
@@ -259,16 +256,15 @@ sword with ease&.
 	Wait(200);
 	Fade("åïÇP", 500, 0, null, true);
 	Delete("åïÇP");}
-Like a fierce gale&, the sword sliced apart the rucksack he was
-wearing&.
+Like a fierce gale&, the sword sliced apart the rucksack he was wearing&.
 
 The force of the impact made him topple over&.
 
 However&, it didn't look like he'd been hurt&.
 
-And in reality&, the officer who came running to examine
-the sce<pre>n</pre>e after receiving a report about it had found
-not a single remnant of blood&.
+And in reality&, the officer who came running to examine the sce<pre>n</pre>e
+after receiving a report about it had found not a single remnant of
+blood&.
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/12900030bn">

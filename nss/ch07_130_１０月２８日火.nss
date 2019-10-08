@@ -48,7 +48,6 @@ not I was levitating&. I didn't have any sense of up or down&, right or
 left&.
 
 The silence was noisy in my ears&.
-
 It was like hundreds of crickets were crying out in my head all at
 once&.
 
@@ -72,12 +71,12 @@ Empty
 And peaceful&.
 
 Maybe this was what it felt like inside the mind of a Buddha who had
-achieved enlightenment&. It was vastly different from being in my
-head&.
+achieved enlightenment&.
+It was vastly different from being in my head&.
 
 I wanted to stay here forever&.
 
-The aggravation&,　bitterness&, and hollowness of reality&. I didn't want
+The aggravation&, bitterness&, and hollowness of reality&. I didn't want
 to taste such things―
 
 </PRE>
@@ -209,6 +208,8 @@ My little sister&.
 
 But she seemed awfully small&.
 
+She was Nanami from a long time ago&.
+
 How long ago was this?
 
 At least&, it must have been around when we were in elementary school&.
@@ -217,8 +218,8 @@ At least&, it must have been around when we were in elementary school&.
 <voice name="七海" class="七海" src="voice/ch07/13000150na">
 "Ok&, go Ahhh&."
 
-The young Nanami dipped a plastic spoon into the curry and held
-it out toward me&.
+The young Nanami dipped a plastic spoon into the curry and held it out
+toward me&.
 
 I―
 Hit her spoon-holding hand&,
@@ -239,8 +240,9 @@ Hit her spoon-holding hand&,
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text005]
-And went on to inexplicably fling away the tray the curry rested on&,
-slamming it to the floor with my arm&.
+And went on to inexplicably
+fling away the tray the curry rested on&, slamming it to the floor
+with my arm&.
 
 //◆泣きそう
 //【七海】
@@ -332,7 +334,7 @@ I tried raising my hand over my head&.
 My palm created a shadow&.
 It was what finally released me from the brightness&.
 
-I'd seen a dream&. Dream about Nanami&.
+I'd seen a dream&. A dream about Nanami&.
 Nanami had been the reliable sort even back then&.
 
 When I stopped speaking to anyone after the bus accident during my
@@ -439,8 +441,8 @@ Yeah&, yeah&, Hazuki-san&.
 <voice name="葉月" class="葉月" src="voice/ch07/13000250hd">
 "How are you feeling?"
 
-Hazuki-san held a thermometer out to me; the gesture came naturally to
-her&. I just sort of ended up taking it&.
+Hazuki-san held a thermometer out to me; the gesture came naturally
+to her&. I just sort of ended up taking it&.
 
 //【葉月】
 <voice name="葉月" class="葉月" src="voice/ch07/13000260hd">
@@ -631,7 +633,8 @@ I didn't feel anything&. I didn't want to feel anything&.
 	Fade("背景１", 0, 0, null, true);
 	Fade("背景１", 1000, 1000, null, true);
 	Delete("報道キャスター");}
-At the same time that I shouted&, my consciousness cu<pre>t</pre> off as though it had been short-circuited―
+At the same time that I shouted&, my consciousness cu<pre>t</pre> off as though it
+had been short-circuited―
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -713,7 +716,8 @@ The question of "Why has Hazuki-san come to check on me?" nagged at me&.
 
 After all&, Hazuki-san was a psychiatric nurse&.&.&.
 
-If she had come to look in on me&, didn't it mean this room was part of the psychiatric ward as well?
+If she had come to look in on me&, didn't it mean this room was part of
+the psychiatric ward as well?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

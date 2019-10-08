@@ -189,8 +189,7 @@ Hazuki-san dashed hastily out of the hospital bedroom&.
 
 I muttered dazedly&, looking down at the palm of my hand&.
 
-In other words&, everything from the past month had been&.&.&.
-a dream&.&.&.
+In other words&, everything from the past month had been&.&.&. a dream&.&.&.
 
 I couldn't possibly have anticipated the it-was-all-a-dream twist&.
 
@@ -201,8 +200,7 @@ dream&.
 And when I thought about it harder&, things like Di-Swords and making
 delusions real were simply impossible&.
 
-Everything had been an illusion&. Purely delusions of my own
-creation&.
+Everything had been an illusion&. Purely delusions of my own creation&.
 
 It was too bad that meeting Rimi had been a dream&.
 
@@ -259,8 +257,8 @@ Puzzled&, I found myself unable to move&.
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100160hd">
 "How are you feeling?"
 
-Hazuki-san held a thermometer out to me; the gesture came naturally to
-her&. I just sort of ended up taking it&.
+Hazuki-san held a thermometer out to me; the gesture came naturally
+to her&. I just sort of ended up taking it&.
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100170hd">
@@ -376,8 +374,8 @@ any progress with you&, since nothing you say makes sense&."
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100270hd">
-{#TIPS_S_‘r¸ = true;}"Are you planning to&.&.&. <FONT incolor="#88abda"
-outcolor="BLACK">plead temporary insanity</FONT>?"
+{#TIPS_S_‘r¸ = true;}"Are you planning to&.&.&. plead <FONT incolor="#88abda"
+outcolor="BLACK">temporary insanity</FONT>?"
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100280hd">
@@ -504,8 +502,8 @@ Paralyzed&, I averted my eyes from her&.
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100360hd">
 "How are you feeling?"
 
-Hazuki-san held a thermometer out to me; the gesture came naturally to
-her&. I just sort of ended up taking it&.
+Hazuki-san held a thermometer out to me; the gesture came naturally
+to her&. I just sort of ended up taking it&.
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100370hd">
@@ -854,8 +852,8 @@ What had she said just now?
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100560hd">
-"She called to you over and over as you slept&, saying&, 'Bro&,
-Bro'&.&.&. I suppose it made a strong impression on me&."
+"She called to you over and over as you slept&, saying&, 'Bro&, Bro'&.&.&.
+I suppose it made a strong impression on me&."
 
 A person who calls me that&.&.&.
 
@@ -883,8 +881,7 @@ I unthinkingly sprang out of bed and pressed in on Hazuki-san&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch07/13100590ta">
-"Na&, Na&, Nanami came!? M&, my little sister&, Nanami&, she ca&, came
-here!?"
+"Na&, Na&, Nanami came!? M&, my little sister&, Nanami&, she ca&, came here!?"
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100600hd">
@@ -924,8 +921,8 @@ here!?"
 
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch07/13100690hd">
-"Ye&, yes&.&.&. Ah&, no&, I don't know whether or not she was
-Nanami-san&, but the girl who came here yesterday seemed fine&."
+"Ye&, yes&.&.&. Ah&, no&, I don't know whether or not she was Nanami-san&,
+but the girl who came here yesterday seemed fine&."
 
 &.&.&.Nanami was alive&.
 
@@ -960,8 +957,7 @@ According to Hazuki-san&, Nanami hadn't been injured at all&.
 //‚u‚e//‰ñ‘zƒZƒŠƒt
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch07/13100700su">
-"The hand I sent to your house might belong to someone else&, you
-know?"
+"The hand I sent to your house might belong to someone else&, you know?"
 
 {	Fade("•", 1000, 0, null, true);
 	Delete("•");}

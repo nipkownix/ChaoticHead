@@ -133,14 +133,12 @@ psychic&."
 
 //y—q‚bz
 <voice name="—q‚b" class="—q‚b" src="voice/ch07/13700060wc">
-"He was just cuddling a biiiiig doll and a real little one&.
-Gyahaha&."
+"He was just cuddling a biiiiig doll and a real little one&. Gyahaha&."
 
 //Ÿƒjƒ„ƒjƒ„Î‚¢‚È‚ª‚ç
 //y¶“k‚`z
 <voice name="¶“k‚`" class="¶“k‚`" src="voice/ch07/13700070ea">
-"Give it a rest&. I'm tellin' ya&, Nishijou ain't well&. Leave him
-be&."
+"Give it a rest&. I'm tellin' ya&, Nishijou ain't well&. Leave him be&."
 
 //y¶“k‚bz
 <voice name="¶“k‚b" class="¶“k‚b" src="voice/ch07/13700080ec">
@@ -290,12 +288,12 @@ If he acted friendly with the likes of me&, even Misumi-kun would be
 shunned by the rest of the class&. Yeah&. That's right&. It was only
 natural&.
 
-In any case&, a gross otaku like me and a pretty-boy like him\we
-lived in different worlds&.
+In any case&, a gross otaku like me and a pretty-boy like him\we lived
+in different worlds&.
 It was strange enough that we'd gotten along until now&.
 
-&.&.&.Feeling the threat of crying start to come on&, I made my line
-of sight circle around&.
+&.&.&.Feeling the threat of crying start to come on&, I made my
+line of sight circle around&.
 As though to cling to her&,
 I searched for Rimi's form&.
 
@@ -341,8 +339,7 @@ I frantically tried to shake away such a negative thoughts&. But I
 couldn't do it&. My mood sank lower and lower&. Leaden illusions
 controlled my heart&.
 
-Had a girl called Sakihata Rimi ever really existed in the first
-place?
+Had a girl called Sakihata Rimi ever really existed in the first place?
 
 Maybe&, like Seira-tan&, she was nothing more than a personality I'd
 created in my head&.

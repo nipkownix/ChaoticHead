@@ -120,8 +120,7 @@ flushed just now?
 Well&, I'd changed my view of her a bit now that she'd given me her
 sincere thanks&.
 
-I'd thought she was scary&, but parts of her were
-c<pre>u</pre>te as well&.
+I'd thought she was scary&, but parts of her were c<pre>u</pre>te as well&.
 
 //ÅyèΩÅz
 <<voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14800040ko">
@@ -367,8 +366,7 @@ Maybe this had made her proud of herself&.
 "So I win&."
 
 What were we competing over&, anyway&.&.&.?
-Anyway&.&.&. I didn't need a winning stick created in such poor
-taste&.&.&.
+Anyway&.&.&. I didn't need a winning stick created in such poor taste&.&.&.
 
 I felt like snapping that damn stick in half, but I sucked it up
 and handed the stick back to Sena.
@@ -535,8 +533,7 @@ Red-faced&, Sena looked away&.
 
 I&, I'd seen something truly valuable&.&.&. Totally different from
 how she'd been when she was rattling off stuff about outstandingly
-abstruse theories shortly beforehand&. Dere mode was the absolute
-best&.
+abstruse theories shortly beforehand&. Dere mode was the absolute best&.
 
 I'd had another glimpse of the possibilities available to the third
 dimension&.
@@ -664,8 +661,8 @@ risks&."
 
 //ÅyÉZÉiÅz
 <voice name="ÉZÉi" class="ÉZÉi" src="voice/ch07/14800590sn">
-"The antiparticles that form together with particles in pair
-production become stocked up in your Di-Sword&."
+"The antiparticles that form together with particles in pair production
+become stocked up in your Di-Sword&."
 
 //ÅyÉZÉiÅz
 <voice name="ÉZÉi" class="ÉZÉi" src="voice/ch07/14800600sn">
@@ -916,8 +913,8 @@ Yep&, it turned out like this&.
 <<voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14800920ko">
 "It's Kozu-pii's fiiirst time&, too&. Ba-dum&, ba-dum ÅÙ"
 
-Obeying the on-screen instructions&, Kozu-pii kept pressing the
-buttons without obtaining our consent&.
+Obeying the on-screen instructions&, Kozu-pii kept pressing the buttons
+without obtaining our consent&.
 
 Before Sena and I had time to mentally prepare ourselves&, a voice
 came out of the screen&.

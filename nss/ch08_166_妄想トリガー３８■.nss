@@ -116,7 +116,7 @@ Wh&, what could that mean&.&.&.
 	DeleteStand("bu大輔_制服_通常_normal", 0, false);}
 //【三住】
 <voice name="三住" class="三住" src="voice/ch08/16600030mi">
-"Uooh&, seriously!?　Like a declaration of war?"
+"Uooh&, seriously!? Like a declaration of war?"
 
 {	Stand("bu梨深_制服_通常","smile", 250, @-230);
 	FadeStand("bu梨深_制服_通常_smile", 300, true);
@@ -235,8 +235,8 @@ She cautiously pulled me close&.
 
 Her action startled me&, sending electricity shooting all through me&.
 
-Rimi's affection for me was conveyed through our tight-pressed
-bodies&. I wanted to accept it&. I wanted to make Rimi mine alone&.
+Rimi's affection for me was conveyed through our tight-pressed bodies&.
+I wanted to accept it&. I wanted to make Rimi mine alone&.
 
 Controlled by those feelings&, I was about to wrap my arms around her
 supple form in the same way as she had done for me&.
@@ -786,9 +786,8 @@ Rimi was my support&.
 Rimi reassured me&.
 Rimi stayed with me&.
 
-Parts of her were overly optimistic&, but as long as she was by my
-side&, I could just barely hold up under the terror that assaulted
-me&.
+Parts of her were overly optimistic&, but as long as she was by my side&,
+I could just barely hold up under the terror that assaulted me&.
 
 I was so glad Rimi was there for me&.&.&.
 
@@ -803,8 +802,8 @@ I was so glad Rimi was there for me&.&.&.
 <voice name="三住" class="三住" src="voice/ch08/16600550mi">
 "Hey&, you guys&, come take a look!"
 
-Misumi-kun&, who had gone up in front of the television at some
-point&, beckoned to me and Rimi&.
+Misumi-kun&, who had gone up in front of the television at some point&,
+beckoned to me and Rimi&.
 
 All the other people gathered there―elderly patients and young
 patients&, and even nurses―had their eyes glued to the TV screen&.
@@ -1016,8 +1015,8 @@ use your phone in a hospital&.
 	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg097_01_2_ＡＨ病院外観_a.jpg");
 	DrawTransition("背景１", 1000, 0, 1000, 100, null, "cg/data/left3.png", true);
 	Wait(500);}
-I let go of Rimi's hand&, went outside through the front
-entrance&,{	SoundPlay("SE03"&, 200&, 0&, false);} and took up my cellphone&.
+I let go of Rimi's hand&, went outside through the front entrance&,{	SoundPlay("SE03", 200, 0, false);}
+and took up my cellphone&.
 
 {	Wait(1000);}
 //【拓巳】
@@ -1104,8 +1103,7 @@ call&, when―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text014]
-What I heard through the phone was horribly anguished&, and
-undeniably―
+What I heard through the phone was horribly anguished&, and undeniably―
 
 Nanami's voice&..
 

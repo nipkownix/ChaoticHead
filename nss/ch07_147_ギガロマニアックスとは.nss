@@ -54,8 +54,7 @@ Come to think of it&, I felt as if I'd seen people like that several
 times before&.&.&.
 Had they all been the same person?
 
-What I didn't understand was how the homeless man knew about
-Di-Swords&.
+What I didn't understand was how the homeless man knew about Di-Swords&.
 
 Maybe&, unbeknownst to me&, Di-Swords were in truth renowned
 throughout Japan?
@@ -116,8 +115,7 @@ What the hell&.&.&.
 "Liaaaar&. Your heart tells the truth&. Just now&, you thought that it
 reeeeally had someting to do with you&."
 
-Dammit&, it was hard to deal with how she picked up on
-everything&.&.&.
+Dammit&, it was hard to deal with how she picked up on everything&.&.&.
 
 {	Stand("bu梢_制服_正面","sad", 500, @-150);
 	FadeStand("bu梢_制服_正面_sad", 300, false);
@@ -132,8 +130,7 @@ everything&.&.&.
 
 I bit my lip and stood up&.
 
-I yanked out the tissue stuffed up my nose&. My nosebleed had
-stopped&.
+I yanked out the tissue stuffed up my nose&. My nosebleed had stopped&.
 
 Kozu-pii cocked her head to one side and looked up at me&.
 
@@ -177,9 +174,9 @@ I'm going home&.&.&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text003]
-My side still ached&, but I descended to the first floor via the
-stairs&, rather than using the escalator or an elevator&. Thanks to
-that&, I managed to avoid the crowd on the way outside&.
+My side still ached&, but I descended to the first floor via the stairs&,
+rather than using the escalator or an elevator&. Thanks to that&,
+I managed to avoid the crowd on the way outside&.
 
 Kozu-pii trailed diffidently after me&, teary-eyed&.
 
@@ -193,8 +190,7 @@ Kozu-pii trailed diffidently after me&, teary-eyed&.
 <voice name="梢" class="こずえ" src="voice/ch07/14700140ko">
 "Did Kozu-pii say sooomething to make you angry?"
 
-Ignoring her question&, I frantically made the wheels in my head
-turn&.
+Ignoring her question&, I frantically made the wheels in my head turn&.
 
 The homeless man Kozu-pii had met&. A friend of "Shogun"?
 Why had he brought up "Whose eyes are those eyes?"
@@ -264,8 +260,7 @@ What would become of searching for him?
 On the contrary&, it might result in me plunging into danger of my own
 accord&.
 
-Maybe he was working for "Shogun&," and this was a trap to lure me
-in&.
+Maybe he was working for "Shogun&," and this was a trap to lure me in&.
 
 What did I plan on doing if I strolled over to meet him&, and another
 quest began from it?
@@ -600,8 +595,7 @@ I stood like a cat to prepare myself to run away on a moment's notice&.
 
 In concrete terms&, that meant putting my weight on the balls of my
 feet&. By doing this&, you could slip into motion with a cat's
-swiftness&.&.&. allegedly&. I'd read about it in a manga a long time
-ago&.
+swiftness&.&.&. allegedly&. I'd read about it in a manga a long time ago&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -796,8 +790,8 @@ Beside her&, Sena fired a biting glare at me&.
 "I'll treat you&."
 
 It would seemed&, that Sena too&, was weak against Kozu-pii's weeping
-attacks&. At her urging&, I reluctantly went toward a convenience
-store located close by a police box&.
+attacks&. At her urging&, I reluctantly went toward a convenience store
+located close by a police box&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -824,8 +818,8 @@ store located close by a police box&.
 After she bought one Crunchy-kun for each of us&, the two of them sat
 against the handrail in front of the police box and bit into theirs&.
 
-Kozu-pii really did seem overjoyed&. Sena&, on the other hand&, wore
-an indifferent look&.
+Kozu-pii really did seem overjoyed&. Sena&, on the other hand&,
+wore an indifferent look&.
 
 I was going out of my mind&.
 The police officer on duty was right in front of our eyes&.
@@ -835,8 +829,8 @@ the two girls who were presently breaking the Swords and Firearms
 Control Law&.
 
 He was a policeman&, for pete's sake&.
-He could obviously see us&, yet he didn't pay them any heed&, much
-less arrest them&.
+He could obviously see us&, yet he didn't pay them any heed&,
+much less arrest them&.
 
 {	Stand("bu梢_制服_正面","normal", 200, @+200);
 	DeleteStand("bu梢_制服_武器構え青_smile", 500, false);
@@ -894,8 +888,8 @@ I wondered if the two of them weren't cold&.
 
 //【梢】
 <voice name="梢" class="こずえ" src="voice/ch07/14700470ko">
-"Some bad people were bullying Takumi-shan&, and he fell down&. So
-Kozue-pii helped tend to him&."
+"Some bad people were bullying Takumi-shan&, and he fell down&.
+So Kozu-pii helped tend to him&."
 
 She'd&.&.&. tended to me?
 
@@ -1095,8 +1089,8 @@ in quantum mechanics&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch07/14700730ta">
-"A&, an&, unobservable interface&.&.&. filled with negative
-energy&.&.&. or something&, was it?"
+"A&, an&, unobservable interface&.&.&. filled with negative energy&.&.&.
+or something&, was it?"
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700740sn">
@@ -1109,8 +1103,8 @@ Think of them as the tip of a pipe stuck in the Dirac sea&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700760sn">
-{#TIPS_負の物質 = true;}"Since they're connected to the Dirac sea&, Di-Swords&, too&, are
-composed of <FONT incolor="#88abda" outcolor="BLACK">negative matter</FONT>&. They're an existence
+{#TIPS_負の物質 = true;}"Since they're connected to the Dirac sea&, Di-Swords&, too&,
+are composed of <FONT incolor="#88abda" outcolor="BLACK">negative matter</FONT>&. They're an existence
 that infinitely collapses in on itself&."
 
 //【セナ】
@@ -1125,8 +1119,8 @@ possible form of real-booting&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700790sn">
-"When you enlarge the channel between your Di-Sword and the Dirac
-sea―"
+"When you enlarge the channel between your Di-Sword and the
+Dirac sea―"
 
 //◆「空孔」＝「くうこう」
 //◆「対生成」＝「ついせいせい」
@@ -1134,7 +1128,7 @@ sea―"
 <voice name="セナ" class="セナ" src="voice/ch07/14700800sn">
 {#TIPS_空孔理論 = true;#TIPS_対生成 = true;#TIPS_素粒子 = true;}
 "According to the Dirac equation's <FONT incolor="#88abda" outcolor="BLACK">hole theory</FONT>&, <FONT incolor="#88abda" outcolor="BLACK">pair production</FONT>
-occurs&,leading to the formation of <FONT incolor="#88abda" outcolor="BLACK">particles</FONT> and antiparticles&."
+occurs&, leading to the formation of <FONT incolor="#88abda" outcolor="BLACK">particles</FONT> and antiparticles&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700810sn">
@@ -1148,8 +1142,8 @@ the created particles into somebody's dead spots&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700830sn">
-"The particles are instantly converted to electrical signals&, and
-through the shared recognition of nearby humans―they become
+"The particles are instantly converted to electrical signals&,
+and through the shared recognition of nearby humans―they become
 reality&."
 
 //◆「対消滅」＝「ついしょうめつ」
@@ -1222,8 +1216,8 @@ People's shared recognition makes delusions real?"
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch07/14700890sn">
-"Take the Crunchy-kun you're currently holding&, for example&. How
-does it appear to you?"
+"Take the Crunchy-kun you're currently holding&, for example&.
+How does it appear to you?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch07/14700900ta">
@@ -1270,8 +1264,8 @@ it attains the shared recognition of two or more human beings&."
 "When you're making delusions real&, perceive that in paradoxical
 terms&."
 
-In short&.&.&. if you coercively "showed" your solitary
-delusions―the particles formed by your Di-Sword―to the people in
+In short&.&.&. if you coercively "showed" your solitary delusions
+―the particles formed by your Di-Sword―to the people in
 your surroundings&, they would become real&.
 
 And&.&.&. did I have that ability as well?

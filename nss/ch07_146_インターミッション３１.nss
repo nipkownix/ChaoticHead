@@ -98,12 +98,12 @@ want to meet anyone&. Whatever the case&, she reckoned they would find
 her repellent&.
 
 On the day when she was originally supposed to transfer in&, and the
-day after it&, and even the day after that&, she wandered around
-Shibuya instead of going to school&.
+day after it&, and even the day after that&, she wandered around Shibuya
+instead of going to school&.
 
 The school must have contacted her parents&. Surely they'd realized
-she was skipping without permission&. But neither of them said
-anything about it to her&.
+she was skipping without permission&. But neither of them said anything
+about it to her&.
 
 Unlike in the boondocks where she'd lived before&, no one found fault
 with her even if she walked around the city all morning on a weekday&,
@@ -112,8 +112,8 @@ for a middle school student&.
 
 Several days after she had begun to meander around Shibuya&.
 
-She found a resting place on the stairs inside Roft&, and sitting
-there while zoning out became part of her daily routine&.
+She found a resting place on the stairs inside Roft&, and sitting there
+while zoning out became part of her daily routine&.
 
 On that day&, too&, she left Roft to go home around dusk&, after
 spending close to four hours there&.
