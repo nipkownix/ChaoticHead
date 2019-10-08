@@ -785,7 +785,7 @@ that doesn't make any sense&."
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch08/15700600su">
 "No&, well&, he's a good guy underneath it all&, and he's got amazing
-intuition&, and he's a sharp thinker&, and apparently he helped a
+intuition&, and he's a sharp thinker&, and apparently he helped to
 solve a bunch of tough cases in the past&.&.&."
 
 //y‚ ‚â‚¹z

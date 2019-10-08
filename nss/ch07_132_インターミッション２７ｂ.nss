@@ -277,7 +277,7 @@ yet&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200300bn">
-"However&, the 'group dive' took place this year&.&.&. in 2009&."
+"However&, the 'group dive' took place this year&.&.&. in 2008&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch07/13200310bn">

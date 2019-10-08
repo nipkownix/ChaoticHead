@@ -1090,6 +1090,8 @@ I wanted her to leave me alone&.
 
 I held my head&, driven by the urge to yell my lungs out&.
 
+But Ayase's voice wouldn't allow that&.
+
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――

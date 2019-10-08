@@ -724,7 +724,7 @@ intently&.
 "Gnu" was a specialty publication that focused on general information
 about anything occult-related&, like UFOs&, aliens&,
 psychics&, religion&, urban legends&, strange phenomena&, advanced
-ancient cultures like Atlantis&, and O-parts&.
+ancient cultures like Atlantis&, and OOPArts&.
 
 It made a lot of sense that Ayase&, who only ever talked about weird
 stuff&, would read this magazine&.

@@ -2474,7 +2474,7 @@ Just imagining it made me feel sick to my stomach&.<k>
 I hastily shook my head to get rid of the gruesome delusions&.
 
 //この将軍っていうヤツが怪しすぎるから、余計なことまで妄想しちゃうんだ。<k>とんだとばっちりだよ。
-This Shogun guy is so suspicious to made me think about all that
+This Shogun guy is so suspicious&, it made me think about all that
 stuff&. <k>I got seriously caught up in it&.
 
 </PRE>

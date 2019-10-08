@@ -209,6 +209,8 @@ My little sister&.
 
 But she seemed awfully small&.
 
+She was Nanami from a long time ago&.
+
 How long ago was this?
 
 At least&, it must have been around when we were in elementary school&.

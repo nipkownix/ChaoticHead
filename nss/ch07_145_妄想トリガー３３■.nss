@@ -102,7 +102,7 @@ me and smiled shyly&.
 {	MusicStart("SE01", 500, 0, 0, 0, null, true);}
 //ÅyèΩÅz
 <voice name="èΩ" class="Ç±Ç∏Ç¶" src="voice/ch07/14500010ko">
-"Kozu-pii is an android
+"Kozu-pii is an android&,
 created juuuust to protect you&, Takumi-shan&."
 
 //ÅyëÒñ§Åz
@@ -234,11 +234,11 @@ Kozu-pii made no attempt to conceal her sword from those around us&,
 as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
-Shibuya&, carrying her ginormous sword&, without a thought to spare
+Shibuya&, carrying her ginormous Di-Sword&, without a thought to spare
 for how it might inconvenience others&.
 
 They were far too composed about it&.
-Sena and Kozu-pii were both abnormal&, after all&.
+Sena and Kozu-pii were both abnormal after all&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -456,11 +456,11 @@ I braced myself to be ready to flee at any moment&.
 &.&.&.As though she hadn't noticed how I felt&, Kozu-pii strode
 lightly around the store&, sword in hand&.
 
-Kozu-pii made no attempt to conceal her sword from those around us&,
+She made no attempt to conceal her sword from those around us&,
 as if it were perfectly natural for her not to do so&.
 
 The same as Sena&. She too had walked around the dead center of
-Shibuya&, carrying her ginormous sword&, without a thought to spare
+Shibuya&, carrying her ginormous Di-Sword&, without a thought to spare
 for how it might inconvenience others&.
 
 She was far too composed about it&.
@@ -836,7 +836,7 @@ Her mental voice rang out clearly in my head&.
 I hadn't mistaken her words&.
 Just now&, she'd said it distinctly&.
 
-"To kill&."
+"I wished to kill&."
 She'd spoken bashfully&.
 
 The stairs between Roft's fifth and sixth floors were very quiet&,

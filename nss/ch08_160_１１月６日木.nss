@@ -167,7 +167,7 @@ If I were to think about itÅ\
 "B&, but maybe in the psychiatric ward&.&.&."
 
 Ayase hadn't appeared to have taken on many external injuries when she
-fell&. And because planning to do suicide&, by jumping off must have
+fell&. And because planning to commit suicide by jumping off must have
 meant she'd been driven to the brink psychologically&, it would make
 plenty of sense for her to be in the psych ward&.
 
