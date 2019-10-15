@@ -161,8 +161,8 @@ accident&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000110jn">
-"Long before my illness manifested&.&.&. as long as I can remember&, in
-fact&, I was able to use my abilities as a Gigalomaniac&."
+"Long before my illness manifested&.&.&. as long as I can remember&,
+in fact&, I was able to use my abilities as a Gigalomaniac&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000120jn">
@@ -170,13 +170,13 @@ fact&, I was able to use my abilities as a Gigalomaniac&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000130jn">
-"Consciously or unconsciously&, I've used my power countless
-times before now&."
+"Consciously or unconsciously&, I've used my power countless times
+before now&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000140jn">
-"Which is why the 'contradictions' in my existence have grown too
-large&."
+"Which is why the 'contradictions' in my existence have grown
+too large&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000150jn">
@@ -216,8 +216,8 @@ become stocked up in your Di-Sword&."
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000170sn">
-"Mathematically speaking&, antiparticles are that which 'leads
-toward the past&.'"
+"Mathematically speaking&, antiparticles are that which 'lead toward
+the past&.'"
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000180sn">
@@ -253,8 +253,8 @@ I wondered if he saw anything&.
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000220jn">
 "If I use my power&, the disease progresses&. To put it bluntly&,
-even if I make use of my power&, the balance of plus and
-minus adds up to zero&. Nothing changes&."
+even if I make use of my power&, the balance of plus and minus
+adds up to zero&. Nothing changes&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000230ta">
@@ -262,9 +262,9 @@ minus adds up to zero&. Nothing changes&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000240ta">
-"Why did you make someone like me&, an otaku freak&, a
-good-for-nothing jerkoff? You should've gone with someone
-stronger&, and more proactive&, and cooler&, and better-looking&.&.&."
+"Why did you make someone like me&, an otaku freak&, a good-for-nothing
+jerkoff? You should've gone with someone stronger&, and more proactive&,
+and cooler&, and better-looking&.&.&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000250jn">
@@ -361,8 +361,8 @@ abilities of Gigalomaniacs&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000420jn">
-"They're unique brain waves emitted by Gigalomaniacs in the
-process of using their powers&."
+"They're unique brain waves emitted by Gigalomaniacs in the process
+of using their powers&."
 
 //ŸŠó‚Ì‚¼‚İ
 //y«ŒRz
@@ -408,14 +408,13 @@ I again recalled what Sena had said&.
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000450sn">
 "When your biorhythms rise&, leading to the excessive secretion
-of dopamine in the neurons of your midbrain limbic system&, your
-Di-Sword will appear&."
+of dopamine in the neurons of your midbrain limbic system&,
+your Di-Sword will appear&."
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000460sn">
 "Depending on the person&, it could be when they're in a hazardous
-situation&, when they're agitated&, sad&, filled with
-hate&, or laughing&."
+situation&, when they're agitated&, sad&, filled with hate&, or laughing&."
 
 //yƒZƒiz
 <voice name="ƒZƒi" class="ƒZƒi" src="voice/ch10/20000470sn">
@@ -453,8 +452,8 @@ Those who had been forced to awaken as Gigalomaniacs because of the
 psychological or physical torture involved in Project Noah&, they were:
 
 //Ÿ¦—Dˆ¤‚ÍœŠO‚µ‚Ä‚ ‚è‚Ü‚·
-Ayase&. Sena&. Kozu-pii&. And even Nanami&. They had been
-through horrific trials&.
+Ayase&. Sena&. Kozu-pii&. And even Nanami&. They had been through
+horrific trials&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -512,8 +511,8 @@ Hospital&. It had hidden ties to the Nozomi Group&.
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000620jn">
-"But there isn't much time left to me anyway&. Whether or not I use my
-power now won't make much of a difference&."
+"But there isn't much time left to me anyway&. Whether or not I use
+my power now won't make much of a difference&."
 
 His voice was very calm&.
 He had the philosophical view of things possessed only by those whose
@@ -653,8 +652,8 @@ from a few days to a few weeks&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000830jn">
-"I'd like you to destroy Noah II&. With that goal in mind&, I don't want
-you to hold back on using your power&."
+"I'd like you to destroy Noah II&. With that goal in mind&, I don't
+want you to hold back on using your power&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch10/20000840ta">
@@ -685,8 +684,8 @@ It kind of offended me&, since I hadn't meant to be funny&.
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000880jn">
-"It may be selfish of me&, and troublesome for you&, but I
-leave the rest to you&."
+"It may be selfish of me&, and troublesome for you&,
+but I leave the rest to you&."
 
 {	DeleteStand("bu«ŒR_ÔˆÖq_’Êí_normal", 500, true);
 	Stand("st«ŒR_ÔˆÖq_’Êí","normal", 200, @0);
@@ -695,8 +694,8 @@ The sensation of the wheelchair handlebars I was holding abruptly
 vanished&.
 
 {	DeleteStand("st«ŒR_ÔˆÖq_’Êí_normal", 500, true);}
-At some point&, the wheelchair in which he sat had moved away from me on
-its own&, progressing forward as though gliding atop the water&.
+At some point&, the wheelchair in which he sat had moved away from me
+on its own&, progressing forward as though gliding atop the water&.
 
 Its two wheels c<pre>u</pre>t through the water&, forming ripples&.
 I had no intention of chasing after him&.

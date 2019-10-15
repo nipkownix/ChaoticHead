@@ -62,7 +62,7 @@ making a laughingstock of me&, and I'd inwardly called them names&,
 saying&, don't look at me&.
 
 Now I wanted someone to look at me&, and I didn't care who&.
-I wanted to enter someone's sight&. <k>
+I wanted to enter someone's sight&.<k>
 I wanted someone to recognize me as being here&.
 I sought such convenient things for myself&.
 
@@ -75,8 +75,8 @@ The phone I'd gone to buy together with Nanami&.
 
 A mere four numbers were recorded there&.
 
-Rimi's cell&. <k>
-Nanami's cell&. <k>
+Rimi's cell&.<k>
+Nanami's cell&.<k>
 Misumi-kun's cell&.
 
 And my parents' home number&.
@@ -105,7 +105,7 @@ to prove I wasn't an imposter&.
 	CreateVOICE("梨深","ch09/18100010ri");
 	SoundPlay("梨深",0,1000,false);
 
-	SetBacklog("You are... a delusionary existence", "voice/ch09/18100010ri", 梨深);
+	SetBacklog("You are... a delusionary existence.", "voice/ch09/18100010ri", 梨深);
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -313,8 +313,8 @@ Next&, I tried calling my parents' house&.
 
 	CreateSE("SE02","SE_日常_電話_呼び出し音_Loop");
 	MusicStart("SE02", 0, 800, 0, 1000, null, true);}
-I somehow indicated the number with quivering fingertips&, then
-pressed the call button&.
+I somehow indicated the number with quivering fingertips&,
+then pressed the call button&.
 
 Nanami had entered my parents' number&.
 It wasn't a number I'd recorded out of my own convictions&.
@@ -364,8 +364,13 @@ Holding the phone to my ear&, I braced myself&.
 	CreateVOICE("携帯アナウンス","ch09/18100210ia");
 	SoundPlay("携帯アナウンス",0,1000,false);
 
-	SetBacklog(""The current number of confirmed casualties is 233 people, but it's
-believed the final count will surpass 3,000―"", "voice/ch09/18100210ia", ケータイアナウンス);
+/* THIS WAS A THING IN THE ORIGINAL. HOW? -DVN
+	SetBacklog("“The current number of confirmed casualties is 233 people, but it's
+believed the final count will surpass 3,000―”", "voice/ch09/18100210ia", ケータイアナウンス);
+*/
+
+	SetBacklog("“The phone number you have placed a call to is currently out of use&.
+Please double-check the number before calling agai―”", "voice/ch09/18100210ia", ケータイアナウンス);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -417,8 +422,7 @@ number of cars coming and going across it&.
 Maybe I would be better off dead&.
 There was no value to an impostor's life&.
 
-Even if a monster stayed in this world&, he'd only be
-persec<pre>u</pre>ted&.
+Even if a monster stayed in this world&, he'd only be persec<pre>u</pre>ted&.
 
 I had neither hopes nor dreams&.
 

@@ -145,8 +145,8 @@ They were going to cheer me on&.&.&.?
 "Everyone was waiting for you&, Takkii&."
 
 Before me was a pathway created by people lining up on either side&.
-They went so far as to create an overhead arch with their hands&, and
-they were waiting for me to pass through&.
+They went so far as to create an overhead arch with their hands&,
+and they were waiting for me to pass through&.
 It was practically like an elementary school graduation ceremony&.
 
 {	DeleteStand("buêØóà_äoê¡å„_í èÌ_normal", 500, true);}
@@ -272,8 +272,8 @@ They all stood in a row and smiled at me&.
 	DeleteStand("stóDà§_êßïû_í èÌ_smile", 500, false);
 	DeleteStand("stÇ†Ç‚Çπ_êßïû_í èÌ_smile", 500, true);}
 Kozu-pii and Ayase each took hold of one of my hands&.
-Nor was it only those two&. Sena and Yua were part of it&, too&. The
-five of us had joined hands&.
+Nor was it only those two&. Sena and Yua were part of it&, too&.
+The five of us had joined hands&.
 
 Was this a reenactment of the "group diving"?
 
@@ -335,8 +335,8 @@ A pathway of lined-up people had certainly opened its maw before me&,
 as though to guide me forward&.
 But no one was making an arch with their hands&.
 
-Everyone was watching me&. But their eyes were cold and sharp&. The
-emotion they flung at me bordered on the urge to kill&.
+Everyone was watching me&. But their eyes were cold and sharp&.
+The emotion they flung at me bordered on the urge to kill&.
 
 Everyone was savage&.
 No one had been awaiting me&.
@@ -405,8 +405,8 @@ his twenties&. I'd never seen his face before&.
 
 He looked at his own hands and muttered something with no apparent
 meaning&.
-When I wondered to myself if this were some kind of harassment&, I
-sensed a heat near my waist&.
+When I wondered to myself if this were some kind of harassment&,
+I sensed a heat near my waist&.
 
 And then&, the feeling of a foreign object&.
 Like something was stuck in the area around my lower abdomen&.
@@ -526,8 +526,7 @@ stay standing&.
 
 //Åyç’éQâ¡é“ÇRÅz
 <voice name="ç’éQâ¡é“ÇR" class="ç’éQâ¡é“ÇR" src="voice/ch09/19500260m3">
-"Geeh! There's blood on my hand! This is&, like&, the worst thing
-ever&."
+"Geeh! There's blood on my hand! This is&, like&, the worst thing ever&."
 
 Shoving that ganguro high school girl out of the way&, an aging
 salaryman charged at me&, tightly clutching a cooking knife&.
@@ -570,16 +569,13 @@ There was already one in my back&. Another three in my stomach&.
 Blades thrust out of my body&, looking absurd&.
 
 But it still wasn't over&.
-
 The number of people in the line for "waiting to stab me" increased
 rapidly&. Eyes bloodshot&, everyone waited impatiently for their
 chance to stab me&.
 
 Hitting the limit of my tolerance for pain&, I seemed about to fall
 over&.
-
-However&, the man who'd first attacked me was pinioning me from
-behind&.
+However&, the man who'd first attacked me was pinioning me from behind&.
 
 //Åyç’éQâ¡é“ÇPÅz
 <voice name="ç’éQâ¡é“ÇP" class="ç’éQâ¡é“ÇP" src="voice/ch09/19500300m1">
@@ -751,8 +747,8 @@ My nails&.
 
 At some point I'd started screaming my lungs out&.
 
-Although I'd thought I would hold back on lamely crying and
-blubbering&, since I'd wanted to die&.
+Although I'd thought I would hold back on lamely crying and blubbering&,
+since I'd wanted to die&.
 
 Yet the pain was such that I couldn't tolerate it&.
 
@@ -764,10 +760,10 @@ A number I couldn't readily have counted&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19500330ta">
 "Aaaa&, aaaaaaaaaahh-!"
 
-Despite the fact that they'd stabbed me so much&, the pain prevented
-me from being able to move more than a little&, and neither my
-sensations nor my consciousness would go even a tiny bit numb&. On the
-contrary&, they grew terribly clear&.
+Despite the fact that they'd stabbed me so much&, the pain prevented me
+from being able to move more than a little&, and neither my sensations
+nor my consciousness would go even a tiny bit numb&. On the contrary&,
+they grew terribly clear&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19500340ta">
@@ -776,8 +772,7 @@ contrary&, they grew terribly clear&.
 Just how many times did they have to stab me?
 I wanted to die faster&.&.&.
 
-Though it hurt so much&, why wasn't I coming any closer to
-dying&.&.&.
+Though it hurt so much&, why wasn't I coming any closer to dying&.&.&.
 
 //ÇuÇe//ñœëzÉZÉäÉt
 //ÅyêØóàÅz
@@ -817,8 +812,7 @@ Seira's voice rang out in my head&.
 <PRE box00>
 [text017]
 Sighing&, I opened my eyes&.
-Both the pain and the sensation of foreign objects in me had
-vanished&.
+Both the pain and the sensation of foreign objects in me had vanished&.
 
 In front of me&, rather than a line of several dozen people&, there
 was a pathway made by the crowd dividing itself down the middle&.
@@ -841,13 +835,13 @@ They were stirring&, but it wasn't the hubbub of a festival&.
 Today I couldn't see a speck of the mirth they'd shown before&, when I
 shamed myself at O-Front&.
 
-Everyone was watching me&. Their eyes were cold and sharp&. The
-emotion they flung at me bordered on the urge to kill&.
+Everyone was watching me&. Their eyes were cold and sharp&.
+The emotion they flung at me bordered on the urge to kill&.
 
 My anticipation heightened&, whether I wanted it to or not&.
 
-Kill me&.&.&. <k>
-Kill me&. <k>
+Kill me&.&.&.<k>
+Kill me&.<k>
 KILL ME&.
 
 </PRE>
@@ -904,8 +898,7 @@ But I'd put up with at least that much&, for the sake of dying&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19500380ta">
-"Isn't it&.&.&. the perfect fes&, festival for my death&.
-Hehehe&.&.&."
+"Isn't it&.&.&. the perfect fes&, festival for my death&. Hehehe&.&.&."
 
 I grasped what Seira-tan had meant by using the word revenge&. They'd
 prepared another stage for the likes of me to stand on&, because I
@@ -925,13 +918,13 @@ They were stirring&, but it wasn't the hubbub of a festival&.
 Today I couldn't see a speck of the mirth they'd shown before&, when I
 shamed myself at O-Front&.
 
-Everyone was watching me&. Their eyes were cold and sharp&. The
-emotion they flung at me bordered on the urge to kill&.
+Everyone was watching me&. Their eyes were cold and sharp&.
+The emotion they flung at me bordered on the urge to kill&.
 
 My anticipation heightened&, whether I wanted it to or not&.
 
-Kill me&.&.&. <k>
-Kill me&. <k>
+Kill me&.&.&.<k>
+Kill me&.<k>
 KILL ME&.
 
 </PRE>
@@ -1003,9 +996,9 @@ Anyway&, what was "What do you think?" supposed to mean?
 Was he seeking my opinion?
 
 Well&, stuff like the kind of comments you usually saw coming from
-professors of criminal psychology were always the same standard
-stuff&, no interesting content to speak of&, so sure&, an amateur like
-me could probably fill their shoes&.
+professors of criminal psychology were always the same standard stuff&,
+no interesting content to speak of&, so sure&, an amateur like me
+could probably fill their shoes&.
 
 That said&, I didn't care about such things now&.
 
@@ -1062,8 +1055,8 @@ Hurry up and kill me&.&.&.
 I want to hurry up and be at ease&.
 Don't make me do anything aggravating&.
 
-Though that was what I wished for&, several more mics pressed in on
-me&. There was such force behind them that they were practically being
+Though that was what I wished for&, several more mics pressed in on me&.
+There was such force behind them that they were practically being
 pushed against my mouth&.
 
 As if the floodgates had broken&, the other reporters began hurling
@@ -1158,8 +1151,7 @@ Bellows and screams intersected&.
 
 They shoved me&, crushed me&, jostled me&.
 
-With people pushing at me from every direction&, my body went
-buoyant&.
+With people pushing at me from every direction&, my body went buoyant&.
 The soles of my feet separated from the earth&.
 
 No matter how I struggled&, nothing came of it&.
@@ -1279,8 +1271,8 @@ And bit my back molars together tightly&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19500680ta">
 "&.&.&.'Shogun'&.&.&.!"
 
-I looked for that wheelchair among the tight-packed herd of legs&. I
-looked for the bastard dressed up as Darth Spider&.
+I looked for that wheelchair among the tight-packed herd of legs&.
+I looked for the bastard dressed up as Darth Spider&.
 
 Are you the host of this "festival&," after all?
 Are you going to put on some stupid costume and threaten me again?
@@ -1388,9 +1380,8 @@ Why were these peopleÅ\
 
 Something hard struck me on the head&.
 
-Ac<pre>u</pre>te pain shot through me&. Enough to make me think
-my skull would break&. Unable to withstand it&,
-I cradled my head&.
+Ac<pre>u</pre>te pain shot through me&. Enough to make me think my skull
+would break&. Unable to withstand it&, I cradled my head&.
 
 When I looked over&, teary-eyed&, a stone about the size of a fist had
 fallen nearby&. A little bit of blood clung to it&.
@@ -1437,8 +1428,8 @@ them&.&.&.
 
 Why were things becoming so chaotic&.&.&.
 
-The "scapegoat&," the "living sacrifice" everyone had been waiting
-for&, wasn't it me?
+The "scapegoat&," the "living sacrifice" everyone had been waiting for&,
+wasn't it me?
 
 //ÇuÇe//êSÇÃê∫
 //Åyè´åRÅz
@@ -1481,8 +1472,7 @@ The sound of the wheels on his wheelchair&.
 There were so many people here&.
 Chaotically swelling walls of people&.
 
-Despite that&, "Shogun" continued straight toward me in his
-wheelchair&,
+Despite that&, "Shogun" continued straight toward me in his wheelchair&,
 Without bumping into anyone&, without getting tangled up with anyone&.
 
 {	Stand("stè´åR_é‘à÷éq_í èÌ","normal", 200, @0);
@@ -1593,13 +1583,12 @@ Entrusted&.&.&. entrusted what&.&.&.
 [text028]
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19500990ta">
-"I don't get what you're saying&.&.&. that sort of thing&.&.&. it
-has&.&.&. no&, nothing to do with me&."
+"I don't get what you're saying&.&.&. that sort of thing&.&.&. it has&.&.&.
+no&, nothing to do with me&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19501000ta">
-"Please&.&.&. erase me&. I want you to erase me&.&.&. right
-away&."
+"Please&.&.&. erase me&. I want you to erase me&.&.&. right away&."
 
 Shogun's wrinkles shifted&.
 It seemed like he was making a different expression&, but it only
@@ -1647,8 +1636,7 @@ I might be a copy of you&, but I don't want to do it&.&.&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19501070ta">
-"Having to suffer&, even though I'm just a copy&.&.&. I don't want
-that&."
+"Having to suffer&, even though I'm just a copy&.&.&. I don't want that&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19501080ta">
@@ -1705,8 +1693,7 @@ hinges on you&."
 "Acquaintances"
 
 I phrased it in such a way deliberately&.
-I didn't want to think that maybe they were a couple&, or close
-friends&.
+I didn't want to think that maybe they were a couple&, or close friends&.
 
 And now&, of all times&, I noticed my own feelings&.
 
@@ -1725,8 +1712,7 @@ I want to die&.&.&.
 
 //Åyè´åRÅz
 <voice name="è´åR" class="è´åR" src="voice/ch09/19501190jn">
-"Rimi went to rescue Nanami&.&.&. and conversely&, she became
-captured&."
+"Rimi went to rescue Nanami&.&.&. and conversely&, she became captured&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19501200ta">

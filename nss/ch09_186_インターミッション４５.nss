@@ -142,8 +142,7 @@ surprise&.
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_worry", 500, true);}
 He hastily dashed up to her&.
 
-Yua anxiously ran her eyes&, deep behind her glasses&, around the
-area&.
+Yua anxiously ran her eyes&, deep behind her glasses&, around the area&.
 
 //Ÿ¬º
 //y”»z
@@ -157,8 +156,8 @@ area&.
 
 Ban looked around for Momose&. But she wasn't anywhere&.
 
-Awakening to the fact that this girl had come on her own&, he
-scratched his head&, his face perplexed&.
+Awakening to the fact that this girl had come on her own&,
+he scratched his head&, his face perplexed&.
 
 //Ÿ¬º
 //y”»z
@@ -197,8 +196,8 @@ At that moment&, they heard a creaking sound from the hallway
 extending beyond the lobby&.
 
 A dim&, empty corridor&.
-From the center of it rolled a wheelchair without anyone to sit in
-it&, advancing on Ban and Yua&.
+From the center of it rolled a wheelchair without anyone to sit in it&,
+advancing on Ban and Yua&.
 
 {	CreateSE("SE01","SE_“úí_ŠvŒCŠK’i‰“‚´‚©‚é");
 	MusicStart("SE01", 0, 500, 0, 1000, null, true);
@@ -257,11 +256,10 @@ enthusiasm&.
 [text004]
 Chasing the footsteps led him to the roof of the outpatient building&.
 
-
 Like a garden&, it had been provided with plantings&.
 Doubtless it was a space for helping to soothe patients&, but
-unfortunately&, it didn't seem to come with nighttime lighting&, and
-he couldn't see what kinds of flowers were growing there&.
+unfortunately&, it didn't seem to come with nighttime lighting&,
+and he couldn't see what kinds of flowers were growing there&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18600080bn">
@@ -365,8 +363,7 @@ That was when Ban heard a gunshot&.
 
 Its suddenness made him flinch&.
 Normally&, he was supposed to lower his body and look in the direction
-the sound had come from&, but he couldn't even carry out those
-actions&.
+the sound had come from&, but he couldn't even carry out those actions&.
 
 No&.
 
@@ -537,14 +534,13 @@ As he coughed&, the taste of blood spread through his mouth&.
 //ŸŒY–ƒfƒJ‚Æ“Ç‚ñ‚Å‚­‚¾‚³‚¢
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18600200bn">
-"You're&.&.&. a&, a fool&. St&, still a kid&, and a hopelessly
-foolish detective&.&.&."
+"You're&.&.&. a&, a fool&. St&, still a kid&, and a hopelessly foolish
+detective&.&.&."
 
 //Ÿ‹êÎ
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18600210bn">
-"But&.&.&. I&, I thought&.&.&. pretty damn highly&.&.&. of
-you&.&.&."
+"But&.&.&. I&, I thought&.&.&. pretty damn highly&.&.&. of you&.&.&."
 
 //Ÿš}Î‚¤
 //yz–Kz

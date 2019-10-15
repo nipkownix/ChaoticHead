@@ -118,8 +118,8 @@ Once I mustered my courage&, it was all I could ask her&.
 
 The reason why Rimi spent her time together with the likes of me&.
 
-Was it because&, after all&, she was attempting to entrap me&, the same as
-Yua?
+Was it because&, after all&, she was attempting to entrap me&,
+the same as Yua?
 
 But the answer she gave back to me wasn't anything of the sort&.
 
@@ -222,8 +222,8 @@ Was Rimi my enemy or my ally?
 If I asked&, her response would determine whether or not I could be with
 her&. So I couldn't ask her&.
 
-If I pretended nothing had happened&, I could go on being deceived&, and
-we could go on acting the same way as we always had until now&.
+If I pretended nothing had happened&, I could go on being deceived&,
+and we could go on acting the same way as we always had until now&.
 Maybe things would be easier and happier that way&.
 
 </PRE>
@@ -335,8 +335,8 @@ What was that supposed to&.&.&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch08/17500300ri">
-"And we'll go to school together&, and we'll talk to Daichin about all
-kinds of silly things and on the way back&, we'll stop at a
+"And we'll go to school together&, and we'll talk to Daichin about
+all kinds of silly things and on the way back&, we'll stop at a
 soba stall or a CD shop&."
 
 //Åyóúê[Åz
@@ -549,8 +549,7 @@ I'd remembered the streets alone&.
 But the house wasn't there&.
 
 When I walked along the road from my memory&, the same landscape from my
-memory failed to emerge&, and an unfamiliar sc<pre>e</pre>ne spread out
-before me&.
+memory failed to emerge&, and an unfamiliar sc<pre>e</pre>ne spread out before me&.
 
 Å\I'd never seen it before&.
 

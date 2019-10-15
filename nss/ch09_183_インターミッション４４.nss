@@ -79,12 +79,11 @@ Rimi had an idea of where Nanami was being imprisoned and who had
 imprisoned her&.
 She knew&, for she too had once been in the same environment&.
 
-It was a past she wanted to forget&, but for the sake of saving
-Nanami&, she would readily dare to meet with dark memories for a
-second time&.
+It was a past she wanted to forget&, but for the sake of saving Nanami&,
+she would readily dare to meet with dark memories for a second time&.
 
-The reaction of the person she'd called was just what she had
-expected&. And so she smiled wryly&.
+The reaction of the person she'd called was just what she had expected&.
+And so she smiled wryly&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300040ri">
@@ -101,8 +100,8 @@ making an enjoyable phone call&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300060ri">
-"Anyway&, between my feelings and saving Nana-chan&, it's beyond
-obvious which one ought to take precedence&."
+"Anyway&, between my feelings and saving Nana-chan&, it's beyond obvious
+which one ought to take precedence&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300070ri">
@@ -134,8 +133,7 @@ There&, Rimi's expression clouded over&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300110ri">
-"And after having done that&, I know it's really selfish&,
-but&.&.&."
+"And after having done that&, I know it's really selfish&, but&.&.&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300120ri">
@@ -216,8 +214,8 @@ Rimi briefly paused to stand still there&.
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300230ri">
 "&.&.&.&.&.&.&."
 
-Rimi smiled a tiny bit in response to the person at the other end of
-the line&.
+Rimi smiled a tiny bit in response to the person at the other end
+of the line&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300240ri">
@@ -225,8 +223,8 @@ the line&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300250ri">
-"Ahaha&. Really&, it's all right&. You don't have to worry about a
-thing&. Cause I'll get everything settled for you&."
+"Ahaha&. Really&, it's all right&. You don't have to worry about a thing&.
+Cause I'll get everything settled for you&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/18300260ri">

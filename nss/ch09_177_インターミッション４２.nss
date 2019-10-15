@@ -104,10 +104,11 @@ he was a little bit intimidating&.
 
 She had met people employed as detectives countless times in relation
 to her sister's death&, but they hadn't left a very good impression on
-her&. 
+her&.
 
 That might explain her sense that she would have a hard time dealing
-with Ban&. Such was the result of Yua's self-analysis&.
+with Ban&.
+Such was the result of Yua's self-analysis&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -253,10 +254,8 @@ She bowed her head a little to Ban&.
 
 The mother used a fairly strong tone of voice in her efforts to stop
 her child&,
-
 But it was solely a verbal warning&, through and through&.
-She didn't confiscate the water pistol or make her son lower his
-hands&.
+She didn't confiscate the water pistol or make her son lower his hands&.
 
 //ÅyéqãüÇPÅz
 <voice name="éqãüÇP" class="éqãüÇP" src="voice/ch09/17700120co">
@@ -369,9 +368,8 @@ ruefully&.
 
 //ÅyâwàıÅz
 <voice name="âwàı" class="âwàı" src="voice/ch09/17700250ei">
-"Excuse me&. Due to a fatal accident&, passengers on the Hanzoumon
-Line are currently able to opt in for transfers to alternative
-routes&."
+"Excuse me&. Due to a fatal accident&, passengers on the Hanzoumon Line
+are currently able to opt in for transfers to alternative routes&."
 
 //ÅyâwàıÅz
 <voice name="âwàı" class="âwàı" src="voice/ch09/17700260ei">
@@ -398,8 +396,7 @@ toward the Hachiko exit's turnstiles&.
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch09/17700300bn">
-"Like on the train&. That kind of stuff's been happening to me a
-lot&."
+"Like on the train&. That kind of stuff's been happening to me a lot&."
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch09/17700310bn">
@@ -419,7 +416,7 @@ him&.
 	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_hard", 0, true);}
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch09/17700320bn">
-"Meh&, I'm probably over thinking it&. It's not as if there can be a
+"Meh&, I'm probably overthinking it&. It's not as if there can be a
 whole lot of people out there with any interest with a plain old guy
 like me&."
 

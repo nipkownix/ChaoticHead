@@ -101,8 +101,8 @@ There were few people inside the small store interior&.
 Even now&, there were only about five people including Ban and Yua&,
 and all of them except for Ban were high school girls&.
 
-If a dull-looking man like Ban walked along Takeshita Street with
-Yua&, surely those around them would assume he had something lecherous
+If a dull-looking man like Ban walked along Takeshita Street with Yua&,
+surely those around them would assume he had something lecherous
 in mind&.
 
 And then looking like he was buying a trendy mascot character for
@@ -127,8 +127,7 @@ On top of that\
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch08/16700050bn">
-"Could be 'cause I've gotten too self-conscious in my old age&,
-though&."
+"Could be 'cause I've gotten too self-conscious in my old age&, though&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí","shock", 200, @-210);
 	FadeStand("bu—Dˆ¤_§•_’Êí_shock", 500, true);}
@@ -150,8 +149,7 @@ frightens me&.&.&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch08/16700090bn">
-"I'd be more worried about you&. If a stalker had his sights on
-you&.&.&."
+"I'd be more worried about you&. If a stalker had his sights on you&.&.&."
 
 {	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","sad", 200, @-210);
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_sad", 500, false);
@@ -317,8 +315,8 @@ its outta this world&."
 //yƒVƒ‡ƒbƒv“Xˆõz
 <voice name="ƒVƒ‡ƒbƒv“Xˆõ" class="ƒVƒ‡ƒbƒv“Xˆõ" src="voice/ch08/16700320ss">
 "There's super huge lines on Friday&, Saturday&, and Sunday&, and they
-sell like mad&. It's totally bang-bang wack&. They sell like mad&, for
-real&."
+sell like mad&. It's totally bang-bang wack&. They sell like mad&,
+for real&."
 
 //yƒVƒ‡ƒbƒv“Xˆõz
 <voice name="ƒVƒ‡ƒbƒv“Xˆõ" class="ƒVƒ‡ƒbƒv“Xˆõ" src="voice/ch08/16700330ss">
@@ -366,8 +364,8 @@ Gero-froggy is just Gero-froggy&, ya know? Doesn't it end there?"
 
 //yƒVƒ‡ƒbƒv“Xˆõz
 <voice name="ƒVƒ‡ƒbƒv“Xˆõ" class="ƒVƒ‡ƒbƒv“Xˆõ" src="voice/ch08/16700380ss">
-"I'll tell you for the record&, but nobody makes Gero-froggies&. They
-get bang-bang born&."
+"I'll tell you for the record&, but nobody makes Gero-froggies&.
+They get bang-bang born&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 250, @210);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);

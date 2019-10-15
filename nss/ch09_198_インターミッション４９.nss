@@ -54,10 +54,9 @@ function ch09_198_ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚S‚X()
 	MusicStart("SE01", 500, 500, 0, 1000, null, true);
 	CreateBG(100, 800, 0, 0, "cg/bg/bg191_01_4_èp‘äã_a.jpg");}
 //‚a‚f//‚`‚g“Œ‹‘‡•a‰@Eèpº
-Hazuki Shino stood in the one of the operating rooms in her
-workplace&, AH Tokyo General Hospital&.
-Late at night&. An operating room belonging to the surgical
-department&.
+Hazuki Shino stood in the one of the operating rooms in her workplace&,
+AH Tokyo General Hospital&.
+Late at night&. An operating room belonging to the surgical department&.
 
 Atop the bed was the form of a young man\Konoe Chizuo&.
 Fed sleeping pills&, he was in a state of clouded consciousness&.
@@ -92,7 +91,7 @@ She sat down on the operating table and took up a scalpel&.
 //Ÿœ’›
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch09/19800030hd">
-"Haa&, haa&.&.&.&. salvation&.&.&.&."
+"Haa&, haa&.&.&. salvation&.&.&."
 
 {	CreateSE("SE05","SE_‹[‰¹_Y_“Ë‚«h‚³‚é");
 	MusicStart("SE05", 0, 500, 0, 1000, null, false);}
@@ -123,7 +122,7 @@ her wound&.
 
 Upon completing that step in less than an hour&, she rose from the
 operating table while bearing up under an excess of pain in her
-abdomen--an ordinary person would have passed out ages ago--and&,
+abdomen\an ordinary person would have passed out ages ago\and&,
 holding the fetus&, stood beside the man lying in bed&.
 
 She looked down at the unconscious man's face with bloodshot eyes&.
@@ -150,19 +149,19 @@ Blood sprayed out&, landing on her face&.
 //Ÿœ’›
 //y—tŒz
 <voice name="—tŒ" class="—tŒ" src="voice/ch09/19800040hd">
-"Fufu&.&.&.&. May the Divine Light save you&.&.&.&." 
+"Fufu&.&.&. May the Divine Light save you&.&.&."
 
-She put both hands to her victim's wound&. 
+She put both hands to her victim's wound&.
 
 With a coerciveness it would be safe to call forcible&, she spread the
 wound open on both sides&. The sound of meat ripping echoed through
-the operating room&. 
+the operating room&.
 
 The man's body convulsed as he fell into a cycle of blacking out&,
-then reviving in pain&. 
+then reviving in pain&.
 
-Contemplating the sufficiently opened wound&, Hazuki smiled gently&. 
-And she took her own child&, which she had removed shortly before-- 
+Contemplating the sufficiently opened wound&, Hazuki smiled gently&.
+And she took her own child&, which she had removed shortly before\
 
 And shoved it inside&.
 
@@ -205,10 +204,9 @@ And shoved it inside&.
 	MusicStart("SE01", 500, 500, 0, 1000, null, true);
 	CreateBG(100, 800, 0, 0, "cg/bg/bg191_01_4_èp‘äã_a.jpg");}
 //‚a‚f//‚`‚g“Œ‹‘‡•a‰@Eèpº
-Hazuki Shino stood in the one of the operating rooms in her
-workplace&, AH Tokyo General Hospital&.
-Late at night&. An operating room belonging to the surgical
-department&.
+Hazuki Shino stood in the one of the operating rooms in her workplace&,
+AH Tokyo General Hospital&.
+Late at night&. An operating room belonging to the surgical department&.
 
 Atop the bed was the form of her colleague&, a psychiatrist\Takashina
 Fumio&.
@@ -230,9 +228,7 @@ His cranium had been cleanly c<pre>u</pre>t away from above his eyes&.
 Takashina was conscious&.
 As there was anesthesia at work in him&, he appeared not to feel any
 pain in his head&.
-
-His eyes were wide with fear&, and cold sweat ran down his whole
-body&.
+His eyes were wide with fear&, and cold sweat ran down his whole body&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -264,8 +260,8 @@ A regular utensil&, the sort one might see around a dining table&.
 "Stop it&, stop it&.&.&."
 
 Wearing an expression of ecstasy&,
-Hazuki scraped out part of Takashina's brain as if she were scooping
-up curry&.
+Hazuki scraped out part of Takashina's brain as if she were
+scooping up curry&.
 
 //y‚‰Èz
 <voice name="‚‰È" class="‚‰È" src="voice/ch09/19800110tk">

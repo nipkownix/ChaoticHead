@@ -208,8 +208,7 @@ just cause you're my brother?"
 
 {	DeleteStand("buµŠC_§•_’Êí_shock", 300, false);
 	Rotate("ƒ‹[ƒ€", 2000, 80, -90, 0, Axl1, true);}
-Throwing my body against the sofa backrest&, I looked up at the
-ceiling&.
+Throwing my body against the sofa backrest&, I looked up at the ceiling&.
 Without any particular meaning behind it&, I started counting the
 spots of rust there&.
 
@@ -345,8 +344,7 @@ room&.
 My ears rang&.
 My head ached&.
 
-Even those things were delusions&. So I didn't concern myself with
-them&.
+Even those things were delusions&. So I didn't concern myself with them&.
 
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/18800270na">
@@ -435,8 +433,7 @@ Nanami massaged her own unbandaged hand&.
 
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/18800300na">
-"The bruising is mostly gone now&. It got really swollen up at
-first&."
+"The bruising is mostly gone now&. It got really swollen up at first&."
 
 I didn't know whether or not she spoke the truth&.
 
@@ -454,8 +451,8 @@ I leaned my neck back against the sofa again&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800310ta">
 "Say&, Nanami&.&.&."
 
-I spoke to my sister\to the female who may or may not have been
-her\without turning my gaze on her&.
+I spoke to my sister\to the female who may or may not have been her\
+without turning my gaze on her&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800320ta">
@@ -496,8 +493,8 @@ wet&. Water droplets dripped ceaselessly from the sleeves of her
 uniform&. She had her head lowered&, and her bangs kept me from
 seeing her expression clearly&.
 
-As though her previous overabundance of hollering had been a lie&, she
-didn't attempt to say a word&.
+As though her previous overabundance of hollering had been a lie&,
+she didn't attempt to say a word&.
 
 Nanami ponderously reached toward me&.
 That right wrist of hers&.
@@ -607,8 +604,8 @@ Please hurry and crush all the bones in my neck\
 [text010]
 Nanami's corpse vanished in an instant&.
 
-I should've been standing by the door&, but at some point&, I'd ended
-up sitting on the sofa&. Clutching Seira-tan in my hand&.
+I should've been standing by the door&, but at some point&, I'd ended up
+sitting on the sofa&. Clutching Seira-tan in my hand&.
 
 Nanami stood in the center of the room&, chattering normally&.
 
@@ -657,7 +654,7 @@ face&.
 
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/18800430na">
-"You've have been able to eat my yummy&, yummy half-done omelettes
+"You'd have been able to eat my yummy&, yummy half-done omelettes
 with rice&, too&, if you didn't go off to live on your own or
 whatever&."
 
@@ -679,8 +676,7 @@ Despite how she always peppered me with complaints whenever she came
 here&.
 
 Was this Nanami the real thing?
-Her hyperness was totally different from when she'd called me
-earlier&.
+Her hyperness was totally different from when she'd called me earlier&.
 So different&, it seemed feigned&.
 
 Which was why I found myself thinking this Nanami before my eyes might
@@ -704,8 +700,8 @@ I didn't want to think about anything anymore&.
 {	Stand("buµŠC_§•_’Êí","normal", 200, @+200);
 	FadeStand("buµŠC_§•_’Êí_normal", 300, true);
 	DeleteStand("buµŠC_§•_’Êí_smile", 0, true);}
-I spoke to my sister\to the female who may or may not
-have been her\without turning my gaze on her&.
+I spoke to my sister\to the female who may or may not have been her\
+without turning my gaze on her&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800460ta">
@@ -926,12 +922,11 @@ the quiet room&.
 
 My ears rang&.
 My head ached&.
-Even those things were delusions&. So I didn't concern myself with
-them&.
+Even those things were delusions&. So I didn't concern myself with them&.
 
 Whether Nanami started stripping on the spot&, or taking off that
-bandage&, or leaping into any other kind of random action&, it
-wouldn't surprise me&. It wouldn't interest me&.
+bandage&, or leaping into any other kind of random action&,
+it wouldn't surprise me&. It wouldn't interest me&.
 
 This was a delusion&. I too was a delusion&. It was natural for there
 to be no segue&.
@@ -982,8 +977,8 @@ I didn't want to think about anything&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800670ta">
 "Say&, Nanami&.&.&."
 
-I spoke to my sister\to the female who may or may not have been
-her\without turning my gaze on her&.
+I spoke to my sister\to the female who may or may not have been her\
+without turning my gaze on her&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18800680ta">

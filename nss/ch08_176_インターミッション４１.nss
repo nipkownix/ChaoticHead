@@ -62,23 +62,23 @@ night&, since the indoor lights hadn't been turned on yet&.
 The dinnertime bustle had quieted a short while ago&, and an almost
 eerie silence came floating down&.
 
-"Shogun" progressed slowly down the hallway in his wheelchair&. The
-sound of its creaking wheels echoed through the corridor&.
+"Shogun" progressed slowly down the hallway in his wheelchair&.
+The sound of its creaking wheels echoed through the corridor&.
 
 Not one of the nurses he passed tried to say something to him or meet
 his eyes&.
 
 And "Shogun&," too&, acting as if this were only to be expected&,
-Continued turning the wheels of his wheelchair with his
-emaciated&, skin-and-bone hands&.
+Continued turning the wheels of his wheelchair with his emaciated&,
+skin-and-bone hands&.
 
 //ÅyéRà‰Åz
 <voice name="éRà‰" class="éRà‰" src="voice/ch08/17600001yi">
 "A&, Ami-chan!"
 
 As he passed in front of a certain hospital room&, a male patient
-named Yamai raised his voice&. He pointed at "Shogun" and
-shouted frenetically&.
+named Yamai raised his voice&.
+He pointed at "Shogun" and shouted frenetically&.
 
 //ÅyéRà‰Åz
 <voice name="éRà‰" class="éRà‰" src="voice/ch08/17600020yi">

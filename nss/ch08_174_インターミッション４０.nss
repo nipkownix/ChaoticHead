@@ -129,12 +129,11 @@ inconveniently with respect to transportation&.
 <PRE box00>
 [text003]
 But the company housing&, her new residence&, was in the best district
-in Shibuya&, and many of her husband's coworkers' families lived
-nearby&.
+in Shibuya&, and many of her husband's coworkers' families lived nearby&.
 
 Childcare was provided as well&. Her husband had taken this
-into consideration so she wouldn't experience any trouble&, just in
-case&.
+into consideration so she wouldn't experience any trouble&,
+just in case&.
 
 All the rooms in the company housing were spacious&, and "she" took a
 particular liking to her bedroom&.
@@ -144,12 +143,12 @@ opposite wall&, there was an enormous window&. She could gaze at the
 greenery of Yoyogi Park there&.
 
 She soon befriended the lady living next door&, and due to the
-exceptionally special treatment she received from the company&, a
-housekeeper was assigned to her as well&.
+exceptionally special treatment she received from the company&,
+a housekeeper was assigned to her as well&.
 
 "She" was satisfied with this lifestyle&, in which she wanted for
-nothing&, and she took pride in how it indicated the importance of her
-husband's position in the company&.
+nothing&, and she took pride in how it indicated the importance of
+her husband's position in the company&.
 
 Two years later&.
 Though her growth was somewhat delayed&, Mana began growing up
@@ -180,8 +179,8 @@ On the contrary&, Mana's reliance on her made Mana even more precious
 to her&, but as a result&, "she" continued a lifestyle in which she
 couldn't take so much as a step out of the house&.
 
-The housekeeper and her neighbor helped support this lifestyle of
-hers&. "She" was truly fortunate to have met them&.
+The housekeeper and her neighbor helped support this lifestyle of hers&.
+"She" was truly fortunate to have met them&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -222,8 +221,8 @@ grew more acute&, and a splitting pain shot through her head&.
 
 She tried to call an ambulance&, but the phone wouldn't connect&.
 
-She went outside to seek the help of the lady next door&, but even
-that caused her great difficulty&.
+She went outside to seek the help of the lady next door&, but even that
+caused her great difficulty&.
 
 Her daughter wept violently&, and her voice further stimulated "her"
 pain&.
@@ -232,8 +231,7 @@ When she desperately embraced Mana and endured her suffering&.
 {	SoundPlay("SE02", 500, 0, false);
 	SoundPlay("SE03", 500, 0, false);
 	Wait(1000);}
-All of a sudden&, the ringing in her ears and the weeping voice
-stopped&.
+All of a sudden&, the ringing in her ears and the weeping voice stopped&.
 Her headache retreated as though it had been a lie&.
 
 When she looked down&,
@@ -241,11 +239,10 @@ When she looked down&,
 	MusicStart("@CH06", 0, 1000, 0, 1000, null, true);}
 The child "she" held had become a mummy&.
 
-Though she had been crying so loudly only a moment ago&, {	Wait(1000);}
-At some point&, her body had decayed&, {	Wait(1000);}dried up and began
-to give off a hideous smell&.
+Though she had been crying so loudly only a moment ago&, {	Wait(1000);}at some point&,
+her body had decayed&, {	Wait(1000);}dried up&, and begun to give off a hideous smell&.
 
-"Her" heart broke&, {	Wait(1000);} before she realized it had been an experiment&.
+"Her" heart broke&, {	Wait(1000);}before she realized it had been an experiment&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -314,8 +311,7 @@ abnormalities&.
 
 The experiment met with an accident soon after its commencement&.
 
-But a month after her birth&, Mana died&. The cause of death was
-unknown&.
+But a month after her birth&, Mana died&. The cause of death was unknown&.
 
 An accident no one could have prevented&.
 
@@ -351,8 +347,8 @@ They turned a deaf ear to "his" will&.
 At last "he" began to think that perhaps continuing the experiment
 like this would be to his wife's benefit&.
 
-The wife he saw through a one-way mirror lived out every day in
-bliss&, embracing her child's corpse&.
+The wife he saw through a one-way mirror lived out every day in bliss&,
+embracing her child's corpse&.
 
 She talked gently to the child while gazing at the greenery of Yoyogi
 Park&, which was a fake projected into her sight from the "wallpaper
@@ -379,8 +375,8 @@ to "allow his wife to go on dreaming&."
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-And so&, his employer declared a sudden end to the experiment&, which
-had continued for close to two years&.
+And so&, his employer declared a sudden end to the experiment&,
+which had continued for close to two years&.
 
 //【野呂瀬】
 <voice name="野呂瀬" class="野呂瀬" src="voice/ch08/17400020nr">
@@ -392,11 +388,10 @@ experiment&."
 But it got him branded a traitor&, and he was taken off the project&.
 
 The day of the test site's closure&, as their one kindness to him&,
-they permitted him to be present―albeit tied down―in the
-laboratory&.
+they permitted him to be present―albeit tied down―in the laboratory&.
 
-And his elder daughter&, whom he had not seen in person for two
-years&, was also compelled to attend&.
+And his elder daughter&, whom he had not seen in person for two years&,
+was also compelled to attend&.
 
 His daughter looked confused when she saw him&.
 
@@ -442,7 +437,7 @@ And the equipment stopped&,
 	DrawTransition("色１", 1000, 1000, 0, 100, null, "cg/data/light2.png", true);}
 And the "dream" ended&,
 
-And his wife {	Wait(1000);} Broke&.
+And his wife {	Wait(1000);}broke&.
 
 {	MusicStart("@CH10", 0, 1000, 0, 1000, null, true);}
 
@@ -452,11 +447,10 @@ Who to her appeared―
 {	Wait(1000);}
 To have suddenly transformed into a mummy―
 {	Wait(1000);}
-She tore at her head&,
-{	Wait(1000);}
 <BR>
 
-
+She tore at her head&,
+{	Wait(1000);}
 Ripped out her hair&,
 {	Wait(1000);}
 Dug at the skin of her face with her nails&,
@@ -464,19 +458,19 @@ Dug at the skin of her face with her nails&,
 And{	Wait(700);} in the end&,{
 	CreateSE("SE03","SE_擬音_肉手を突っ込む");
 	SoundPlay("SE03", 0, 1000, false);
-	Wait(2000);}Began devouring her child's dessicated body&.
+	Wait(2000);} began devouring her child's dessicated body&.
 
 Laughing madly&,{
 	CreateSE("SE04","SE_衝撃_顔面蹴られる");
 	SoundPlay("SE04", 0, 1000, true);
-	Wait(1000);} She rammed her head into the wall
+	Wait(1000);} She rammed her head into the wall&,
 
-And finally {	Wait(1000);} stabbing a kitchen knife&, {
+And finally{	Wait(1000);} stabbing a kitchen knife{
 	SoundPlay("SE04", 500, 0, false);
 	Wait(500);
 	CreateSE("SE03","SE_人体_血_噴き出る_包丁で刺され");
 	SoundPlay("SE03", 0, 1000, false);
-	Wait(2000);} into her eyes&, {	Wait(1500);}and died&.
+	Wait(2000);} into her eyes&, {	Wait(1500);}she died&.
 
 //◆泣き叫びながら
 //【セナ】
@@ -514,8 +508,7 @@ family member&.
 <voice name="波多野" class="波多野" src="voice/ch08/17400090ha">
 "I'm sorry&.&.&. I'm sorry&.&.&."
 
-"He" blamed himself&, believing he had brought all of it upon
-himself&.
+"He" blamed himself&, believing he had brought all of it upon himself&.
 
 Since the time two years ago when he made up his mind to continue the
 experiment&, it should have been obvious to him&, whatever his reasons

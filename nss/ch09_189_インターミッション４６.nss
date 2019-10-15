@@ -73,14 +73,13 @@ lobby&, wondering if he would return&.
 [text001]
 After Ban went off to the hospital alone&.
 Shaking off Momose's attempts to stop her&, Yua had chased after him&.
-
 In order to come closer to the real criminal and the truth about her
 sister's death&, if only by a step&.
 
-The person who had sent Ban threatening phone calls saying&, "Back
-out&," and who had abducted his junior―apparently someone called
-Suwa-san&. That person was in all likelihood the one who had killed
-her sister Mia&.
+The person who had sent Ban threatening phone calls saying&, "Back out&,"
+and who had abducted his junior―apparently someone called Suwa-san&.
+That person was in all likelihood the one who had killed her sister
+Mia&.
 
 Yua had a hunch that such was the case&.
 So she hadn't been able to fully hold back the impulse driving her
@@ -95,8 +94,7 @@ school girl&.
 
 Yua anticipated that maybe Ban would return in high style&, having
 collared the culprit&.
-When he did&, she'd have her chance to question the criminal in
-person&.
+When he did&, she'd have her chance to question the criminal in person&.
 
 "Why did you have to kill my sister?"
 
@@ -123,13 +121,12 @@ Near the side of the hospital&, a train decelerated as it ran along&.
 But few cars drove down the wide road in front of the hospital&, and
 there were zero pedestrians&.
 
-Sandwiched between Shibuya&, the city that doesn't sleep&, and
-Shinjuku&, this place was akin to the darkness born from two brilliant
-lights&.
+Sandwiched between Shibuya&, the city that doesn't sleep&, and Shinjuku&,
+this place was akin to the darkness born from two brilliant lights&.
 
 Nowhere could she see someone who might be the source of the gaze&.
-Resting a hand upon her breast to help tamp down her nervousness&, Yua
-let out a small breath&.
+Resting a hand upon her breast to help tamp down her nervousness&,
+Yua let out a small breath&.
 Next&, she cast her eyes unmindfully at the hospital&.
 
 </PRE>
@@ -234,8 +231,8 @@ Like a sce<pre>n</pre>e right out of a ghost story&.&.&.
 	SetVolume("SE02", 5000, 0, NULL);
 	CreateColor("back04", 100, 0, 0, 800, 600, "Black");
 	DrawTransition("back04", 500, 0, 1000, 100, null, "cg/data/right2.png", true);}
-Yua thought to herself as she slowly&, step by step&, climbed the
-stairs with great care&.
+Yua thought to herself as she slowly&, step by step&, climbed the stairs
+with great care&.
 
 {	CreateTexture("back03", 100, 0, 0, "cg/bg/bg099_01_3_AH廊下_a.jpg");
 	DrawTransition("back03", 500, 0, 1000, 100, null, "cg/data/right2.png", true);
@@ -244,8 +241,7 @@ stairs with great care&.
 She came out on the second floor&.
 She looked down the hallway&, but no one was there&, after all&.
 
-When she became dubious&, suspecting it of having been a
-hallucination&,
+When she became dubious&, suspecting it of having been a hallucination&,
 
 //ＶＦ//かなり遠くからの声。廊下で反響しまくり
 //【美愛】
@@ -253,8 +249,8 @@ hallucination&,
 "Fufu&.&.&. ahahaha"
 
 She heard female laughter from the floor above&.
-That voice&, that manner of laughing; Yua had heard them countless
-times in the past&.
+That voice&, that manner of laughing; Yua had heard them countless times
+in the past&.
 
 {	CreateSE("SE02","SE_人体_動作_足_階段歩く");
 	MusicStart("SE02", 0, 500, 0, 1000, null, false);
@@ -266,8 +262,8 @@ times in the past&.
 	CreateBG(100, 0, 0, 0, "cg/bg/bg099_01_3_AH廊下_a.jpg");
 	SetVolume("SE01", 0, 0, NULL);
 	Delete("back04");}
-Upon ascending to the third floor&, Yua glanced at the corridor&, and
-there―
+Upon ascending to the third floor&, Yua glanced at the corridor&,
+and there―
 
 {	Stand("st美愛_私服_通常左手下","normal", 200, @-250);
 	FadeStand("st美愛_私服_通常左手下_normal", 500, true);}
@@ -457,8 +453,8 @@ you continue gloating―"
 "Fabricated memories&, and&.&.&. delusions&."
 
 The matters she herself had researched up until now were what thrust
-at her the reality of how "memories&," or else "recollections&," were
-such ambiguous things&.
+at her the reality of how "memories&," or else "recollections&,"
+were such ambiguous things&.
 
 She ceased to understand herself―
 What was she?
@@ -657,8 +653,8 @@ The boundary between them was becoming unclear―
 [text011]
 Standing upright in the darkness&, the vast boxes of two buildings&.
 
-But compared to the Shinjuku skyscrapers that towered nearby&, they
-were just like children gazing up at adults&.
+But compared to the Shinjuku skyscrapers that towered nearby&,
+they were just like children gazing up at adults&.
 
 The roof of the hospital building&.
 Yua had arrived there&, lured on by Mia&.
@@ -834,8 +830,8 @@ Empty-eyed&, Yua mechanically repeated emotionless words&.
 Spreading out her arms as though to keep her balance&, she held her
 ground against the vigor of the wind blowing up at her&.
 
-Close by her&, spreading her arms out in the same way as Yua&, Mia
-looked in her direction and smiled&.
+Close by her&, spreading her arms out in the same way as Yua&,
+Mia looked in her direction and smiled&.
 
 {	SoundStop2("優愛７");
 	SoundStop2("美愛７");
@@ -1226,9 +1222,8 @@ clear&, as though a fog had lifted away from it&.
 [text022]
 An intense&, invisible impact burst forth&.
 
-A red light resembling flower petals danced there&, sending the
-twins&, one of whom had almost been lying atop the other&, flying
-apart&.
+A red light resembling flower petals danced there&, sending the twins&,
+one of whom had almost been lying atop the other&, flying apart&.
 
 Coughing&, Yua swayed to her feet&, looked at what she was gripping&,
 and widened her eyes&.
@@ -1389,8 +1384,7 @@ had spoken&, Sena&.
 "Uu&.&.&. what just happened&.&.&.?"
 
 Blown away by the mysterious shock wave from before&, almost buried in
-one of the plantings&, Mia came crawling out&, pressing down on her
-head&.
+one of the plantings&, Mia came crawling out&, pressing down on her head&.
 
 //【美愛】
 <voice name="美愛" class="美愛" src="voice/ch09/18900740ma">
@@ -1414,14 +1408,16 @@ truth about your death&."
 	CreateVOICE("美愛９","ch09/18900770ma");
 	SoundPlay("美愛９",0,1000,false);
 
-	SetBacklog("Did you try to kill me? Was I about to be killed again? Again?", "voice/ch09/18900770ma", 美愛);
+	SetBacklog("Did you try to kill me? Was I about to be killed again?
+Again?", "voice/ch09/18900770ma", 美愛);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text900]
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900770ma">
-"Did you try to kill me? Was I about to be killed again? Again?"
+"Did you try to kill me? Was I about to be killed again?
+Again?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1561,8 +1557,8 @@ being exposed as himself&.
 
 //【ポーターＡ】
 <voice name="ポーターＡ" class="ポーターＡ" src="voice/ch09/18900880pa">
-"Don't tell me this kid's a Gigalomaniac&.&.&.!? I didn't hear a
-thing about that&.&.&.!"
+"Don't tell me this kid's a Gigalomaniac&.&.&.!? I didn't hear a thing
+about that&.&.&.!"
 
 //【ポーターＡ】
 <voice name="ポーターＡ" class="ポーターＡ" src="voice/ch09/18900889pa">
@@ -1615,8 +1611,8 @@ And from within that rucksack gushed a pale flash of light&.
 
 {	CreateSE("SE04","SE_衝撃_ドアに激突");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);}
-The man went taut&, as though he'd received an electric shock&, and
-toppled over on his face with the whites of his eyes showing&.
+The man went taut&, as though he'd received an electric shock&,
+and toppled over on his face with the whites of his eyes showing&.
 
 Bubbles frothed from his mouth&, and he convulsed&.
 

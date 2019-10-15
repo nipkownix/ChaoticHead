@@ -674,8 +674,8 @@ In my hand was my sole ally&, Seira-tan&.
 
 {	CreateVOICE("�ȂȂ݂P","ch01/01000090na");
 	SoundPlay("�ȂȂ݂P",0,600,false);}
-Because I'd been gripping her with my sweat-drenched hand for a
-while&, her slender limbs had become completely damp&.
+Because I'd been gripping her with my sweat-drenched hand for a while&,
+her slender limbs had become completely damp&.
 And her arm had gotten all bent out of shape&.
 
 {	SetVolume("�ȂȂ݂P", 300, 0, NULL);}
@@ -737,8 +737,8 @@ I couldn't get in the mood to talk with other people anymore&.
 But she was so goddamn loud&, I heaved myself out of the chair and
 headed for the door&.
 
-The distance between me and that door felt horribly far&. I realized I
-was afraid of seeing Nanami&.
+The distance between me and that door felt horribly far&. I realized
+I was afraid of seeing Nanami&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

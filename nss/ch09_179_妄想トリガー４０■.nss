@@ -73,7 +73,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 2)
 //‰æ–ÊƒGƒtƒFƒNƒg//–Ï‘z‚h‚mƒGƒtƒFƒNƒg
 //‚r‚d//–Ï‘z‚h‚m
 
-	DelusionFakec<pre>u</pre>t();
+	DelusionFakeCut();
 
 //‚a‚f//•
 
@@ -118,7 +118,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 2)
 
 	Delete("ƒeƒLƒXƒg‚P");
 
-	DelusionFakec<pre>u</pre>t2();
+	DelusionFakeCut2();
 
 	CreateBG(100, 0, 0, 0, "cg/bg/bg057_01_2_‰º–k‘ò‘ñ–¤‚Ì‰Æ_a.jpg");
 
@@ -152,7 +152,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 1)
 //‰æ–ÊƒGƒtƒFƒNƒg//–Ï‘z‚h‚mƒGƒtƒFƒNƒg
 //‚r‚d//–Ï‘z‚h‚m
 
-	DelusionFakec<pre>u</pre>t();
+	DelusionFakeCut();
 
 //‚a‚f//•
 
@@ -195,7 +195,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 1)
 
 	Delete("ƒeƒLƒXƒg‚P");
 
-	DelusionFakec<pre>u</pre>t2();
+	DelusionFakeCut2();
 
 	CreateBG(100, 0, 0, 0, "cg/bg/bg057_01_2_‰º–k‘ò‘ñ–¤‚Ì‰Æ_a.jpg");
 
@@ -279,8 +279,7 @@ to perceive her as an unknown entity&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900060ta">
-"You're gonna kill me&, aren't you!? You really are a
-murderer&.&.&.!"
+"You're gonna kill me&, aren't you!? You really are a murderer&.&.&.!"
 
 {	CreateSE("SE10","SE_©‘R_•—‰¹_Loop");
 	MusicStart("SE10", 500, 400, 0, 1000, null, true);}
@@ -342,8 +341,7 @@ Around when I first entered high school&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900150ta">
-"Unless I said goo-goo gaga and stuff&.&.&. it wouldn't make
-sense&.&.&."
+"Unless I said goo-goo gaga and stuff&.&.&. it wouldn't make sense&.&.&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900160ri">
@@ -370,8 +368,8 @@ remember it&.&.&."
 Rimi was off her rocker&.
 Rimi&, too&, had been off her rocker&.
 
-She was way out there&, so far off in the stratosphere&, Sena and
-Ayase couldn't hold a candle to her&.&.&.
+She was way out there&, so far off in the stratosphere&, Sena and Ayase
+couldn't hold a candle to her&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -391,8 +389,8 @@ Ayase couldn't hold a candle to her&.&.&.
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900230ta">
 "Right&, B&, BS~&. I&, I'm a delusion&, aren't I? I had a delusion
-that created myself? It totally contradicts itself&. Okay&, Q&,
-Q&.E&.D&, thus endeth the lesson&."
+that created myself? It totally contradicts itself&. Okay&, Q&, Q&.E&.D&,
+thus endeth the lesson&."
 
 {	Stand("st—œ[_§•_³–Ê","sad", 200, @+150);
 	DeleteStand("st—œ[_§•_’Êí_hard", 500, false);
@@ -467,8 +465,8 @@ the life of\"
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900330ta">
-"If I&, if I'm a delusion! My blo&, blood-related parents&, and
-Nanami&, are they delusions too!? That's absurd\"
+"If I&, if I'm a delusion! My blo&, blood-related parents&, and Nanami&,
+are they delusions too!? That's absurd\"
 
 {	SetVolume("SE10", 1000, 0, NULL);
 	Stand("st—œ[_§•_’Êí","normal", 200, @+150);
@@ -493,8 +491,8 @@ Her phrasing practically made it sound as if she knew Nanami&.
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900370ri">
-"I was too occupied with protecting you&.&.&. it hadn't occurred to
-me that they might go after Nana-chan&."
+"I was too occupied with protecting you&.&.&. it hadn't occurred to me
+that they might go after Nana-chan&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900380ri">
@@ -550,8 +548,7 @@ from you&."
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900440ta">
-"Just because you've apologized&.&.&. I&, I won't believe you&. I
-can't&."
+"Just because you've apologized&.&.&. I&, I won't believe you&. I can't&."
 
 That was what I said upfront&, but I couldn't prove I was me&, the
 real thing&.
@@ -571,8 +568,8 @@ Caught by surprise&, I ended up letting her do as she willed&.
 
 That warmth&.
 
-It had rescued me from danger&. <k>
-It had saved my heart&. <k>
+It had rescued me from danger&.<k>
+It had saved my heart&.<k>
 It had taught me kindness&.
 
 But now&, even when she held me like this&, her warmth seemed terribly
@@ -592,8 +589,8 @@ distant&.
 	DeleteStand("bu—œ[_§•_³–Ê_sad", 0, true);}
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900470ri">
-"To where Nana-chan's kidnapper is&. I have to bring things to an
-end&. Both with Nana-chan and other matters&."
+"To where Nana-chan's kidnapper is&. I have to bring things to an end&.
+Both with Nana-chan and other matters&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900480ri">
@@ -638,7 +635,7 @@ between us&.
 <voice name="—œ[" class="—œ[" src="voice/ch09/17900530ri">
 "It's okay for you to stay there&."
 
-A gentle tone of voice&. <k>
+A gentle tone of voice&.<k>
 After telling me such cruel things&,
 Why did she become kind again?
 
@@ -722,8 +719,8 @@ Once I'd watched her go in a trance&, I crumpled in place&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900640ta">
 "I'm&.&.&. not&.&.&. a fake&.&.&."
 
-The world looked drained of its colors&. <k>
-I couldn't detect any hope&. <k>
+The world looked drained of its colors&.<k>
+I couldn't detect any hope&.<k>
 She'd completely denied my existence itself&.
 
 There wasn't any meaning in my being here&.<k>
@@ -742,8 +739,8 @@ reasons for being with me&.
 "There's no way she'll come back&.&.&."
 
 Rimi had cast me aside&.&.&.
-Because&, apparently&, I was a delusionary existence&. Because I was a
-monster&.
+Because&, apparently&, I was a delusionary existence&. Because I was
+a monster&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/17900660ta">
@@ -759,7 +756,7 @@ Too shocked to weep&.
 {	CreateTextureEX("back10", 500, 0, 0, "cg/bg/bg057_01_3_‰º–k‘ò‘ñ–¤‚Ì‰Æ_a.jpg");
 	Fade("back10", 4000, 1000, null, false);}
 The breeze that came just before twilight stole the heat from the very
-core of my body&. <k>
+core of my body&.<k>
 The faint remnants of Rimi's warmth disappeared as well&.
 
 When I took an aimless look up at the sky&, most of the sunset had
@@ -777,9 +774,9 @@ already been invaded by the darkness of night&.
 
 }
 
-&.&.//—œ[“Áê–Ï‘zƒCƒ“—p
-..DelusionFakec<pre>u</pre>t
-function DelusionFakec<pre>u</pre>t()
+..//—œ[“Áê–Ï‘zƒCƒ“—p
+..DelusionFakeCut
+function DelusionFakeCut()
 {
 	CreateColor("”’‚P", 500, 0, 0, 800, 600, "White");
 	Request("”’‚P", Lock);
@@ -802,15 +799,15 @@ function DelusionFakec<pre>u</pre>t()
 	Delete("–Ï‘zin");
 }
 
-..DelusionFakec<pre>u</pre>t2
-function DelusionFakec<pre>u</pre>t2()
+..DelusionFakeCut2
+function DelusionFakeCut2()
 {
 	Request("”’‚P", UnLock);
 	Fade("”’‚P", 0, 0, null, true);
 	Delete("”’‚P");
 }
 
-..DelusionFakec<pre>u</pre>tOut
+..DelusionFakeCutOut
 function DelusionOut()
 {
 	CreateColor("•‚P", 22000, 0, 0, 800, 600, "Black");
@@ -830,7 +827,7 @@ function DelusionOut()
 	Delete("–Ï‘zout");
 }
 
-..DelusionFakec<pre>u</pre>tOut2
+..DelusionFakeCutOut2
 function DelusionOut2()
 {
 	Wait(2000);

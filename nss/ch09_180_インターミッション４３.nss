@@ -67,7 +67,7 @@ bought for her&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000030bn">
-"That's not the latest one&. It came out last week&,{	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @0);
+"That's not the latest one&. It came out last week&, {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @0);
 	FadeStand("stˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);	
 	DeleteStand("stˆÀ“ñ_ƒX[ƒc_’Êí_normal", 0, true);}the&, ummmm&, what's it called again?"
 
@@ -139,8 +139,8 @@ Momose and asked her to see what she could find out about Shinkou&.
 <voice name="•S£" class="•S£" src="voice/ch09/18000100mm">
 "First&.&.&."
 
-Still wearing an ear-to-ear smile&, Momose flicked a look at Yua&, who
-was tilting back her teacup&.
+Still wearing an ear-to-ear smile&, Momose flicked a look at Yua&,
+who was tilting back her teacup&.
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000110mm">
@@ -155,8 +155,7 @@ was tilting back her teacup&.
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000130mm">
-"It's gotten dark out&, and your parents must be worried about you&,
-no?"
+"It's gotten dark out&, and your parents must be worried about you&, no?"
 
 //ŸƒuƒŒƒX
 //y—Dˆ¤z
@@ -164,8 +163,8 @@ no?"
 "&.&.&.&.&.&.&."
 
 Yua realized that Momose's demeanor concealed an ulterior motive&.
-What they were about to discuss wasn't fit for her&, a regular
-civilian&, to simply listen to offhand&.
+What they were about to discuss wasn't fit for her&, a regular civilian&,
+to simply listen to offhand&.
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18000150yu">
@@ -328,8 +327,8 @@ Thai-made eco-friendly bags&, figure-flattering pants&, and so on&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000360mm">
-"And the company has a unique way of putting their goods on the
-market&. They always release all their new products simultaneously&,
+"And the company has a unique way of putting their goods on the market&.
+They always release all their new products simultaneously&,
 over the weekend&."
 
 "The weekend&."
@@ -356,9 +355,9 @@ Ban showed a keen reaction to that keyword&.
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000380mm">
-"Whether it's the workings of fate or a mere coincidence&, Shinkou's
-products become hits because of fluctuations in the GE rate&. That
-much is certain&."
+"Whether it's the workings of fate or a mere coincidence&,
+Shinkou's products become hits because of fluctuations in the GE rate&.
+That much is certain&."
 
 {	Stand("buq_ƒX[ƒc_’Êí","normal", 200, @-250);
 	FadeStand("buq_ƒX[ƒc_’Êí_normal", 300, true);}
@@ -400,8 +399,8 @@ interesting thing about Shinkou&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000450mm">
-"Once I worked all the way back to documents from when it was
-founded&, a real big VIP showed up&."
+"Once I worked all the way back to documents from when it was founded&,
+a real big VIP showed up&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","shock", 200, @+250);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_shock", 300, true);
@@ -495,8 +494,8 @@ high&."
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000560mm">
 "At first I didn't understand what it meant&, but as I did my
-research&, I came across an event that meets the condition of 'four
-times in five years&.'"
+research&, I came across an event that meets the condition of
+'four times in five years&.'"
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18000570yu">
@@ -519,8 +518,8 @@ His face grim&, Ban rubbed the five o'clock shadow on his chin&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000610bn">
-"The election where the Meiwa Party&, then the opposition party&, won
-in a landslide and became the governing party&.&.&."
+"The election where the Meiwa Party&, then the opposition party&,
+won in a landslide and became the governing party&.&.&."
 
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch09/18000620yu">
@@ -604,8 +603,7 @@ to change the subject&.
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000720mm">
 "Look here&. You aren't to start talking about such foolish things out
-of left field&. Yua-chan is here with us&, so be a tad more
-thoughtful&."
+of left field&. Yua-chan is here with us&, so be a tad more thoughtful&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -622,8 +620,7 @@ thoughtful&."
 <voice name="”»" class="”»" src="voice/ch09/18000730bn">
 "Hey&, don't knock it just yet&."
 
-A grin floated up onto Ban's face&, but there was no smile in his
-eyes&.
+A grin floated up onto Ban's face&, but there was no smile in his eyes&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000740bn">
@@ -643,9 +640,9 @@ maiden name as of late&."
 //Ÿu”g‘½–ìˆê¬v‚Í‚½‚ÌE‚¢‚Á‚¹‚¢
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000760bn">
-"Hatano Sena's father&.&.&.&, Hatano Issei&, is currently
-a missing person&, his whereabouts are said to be unknown&,
-but he's a former employee of Nozomi Technology&."
+"Hatano Sena's father&.&.&.&, Hatano Issei&, is currently a missing person&,
+his whereabouts are said to be unknown&, but he's a former employee
+of Nozomi Technology&."
 
 {	Stand("st—Dˆ¤_§•_’Êí","shock", 180, @+260);
 	FadeStand("st—Dˆ¤_§•_’Êí_shock", 300, true);
@@ -668,7 +665,7 @@ but he's a former employee of Nozomi Technology&."
 The Nozomi Technology Company was an enterprise primarily involved in
 developing software related to medical equipment&.
 
-The Nozomi Grouphad originally started off as the Nozomi Technology
+The Nozomi Group had originally started off as the Nozomi Technology
 Company&, maturing into one of the most prominent conglomerates in
 Japan after going through multiple cycles of mergers and acquisitions&.
 
@@ -699,8 +696,8 @@ running away from the facility to which she'd been entrusted&."
 //Ÿu“V_—¾vu‚Ä‚ñ‚¶‚ñ‚è‚å‚¤v
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000830bn">
-"Heavenly Hostel&, a nonprofit&, independent halfway house&. On the
-surface&, at any rate&."
+"Heavenly Hostel&, a nonprofit&, independent halfway house&.
+On the surface&, at any rate&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18000840mm">
@@ -773,8 +770,8 @@ At this point&, Ban leaned toward Momose&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000930bn">
-"Unlike Heavenly Hostel&, Ark Heart Medical was a mental-care
-facility&. It treated psychiatric patients&."
+"Unlike Heavenly Hostel&, Ark Heart Medical was a mental-care facility&.
+It treated psychiatric patients&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","hard", 200, @+250);
 	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 300, true);	
@@ -787,9 +784,9 @@ a nonprofit group's independent halfway house&, Heavenly Hostel&."
 //Ÿu‚`‚g“Œ‹‘‡•a‰@vuƒG[EƒGƒbƒ`‚Æ‚¤‚«‚å‚¤‚»‚¤‚²‚¤‚Ñ‚å‚¤‚¢‚ñv
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18000950bn">
-"As a result&, all the psychiatrists there were laid off
-simultaneously&, but every single one of those doctors ended up
-getting employed by AH General Hospital in Yoyogi."
+"As a result&, all the psychiatrists there were laid off simultaneously&,
+but every single one of those doctors ended up getting employed
+by AH General Hospital in Yoyogi."
 
 {	Stand("bu—Dˆ¤_§•_’Êí","hard", 200, @-250);
 	FadeStand("bu—Dˆ¤_§•_’Êí_hard", 300, true);}
@@ -820,9 +817,9 @@ Inohana's intimate friends&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001000bn">
-"Yua-chan&, you know how you've been chasing Nishijou Takumi? The
-truth is&, he visited AH General Hospital three times this past
-month&."
+"Yua-chan&, you know how you've been chasing Nishijou Takumi?
+The truth is&, he visited AH General Hospital three times
+this past month&."
 
 {	DeleteStand("buq_ƒX[ƒc_’Êí_hard", 500, true);
 	Stand("bu—Dˆ¤_§•_’Êí¶è‰º","worry", 200, @-250);
@@ -919,9 +916,9 @@ sharp blade&, and they were left in a horrible state&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001150bn">
-"Orihara Kozue was also on the scen<pre>e</pre>&. People suspected her
-of being the attacker&, but she didn't get arrested&, since
-the weapon involved 'didn't exist&.'"
+"Orihara Kozue was also on the scen<pre>e</pre>&. People suspected her of being
+the attacker&, but she didn't get arrested&, since the weapon involved
+'didn't exist&.'"
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001160bn">
@@ -934,18 +931,17 @@ hometown&, and so her family moved&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001180bn">
-"It didn't exist&. No one even knows what was used to
-c<pre>u</pre>t at them&."
+"It didn't exist&. No one even knows what was used to c<pre>u</pre>t at them&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001190bn">
-"The situation was such that no one except Orihara could've carried
-out the attack&. Except&, even assuming Orihara was the criminal&,
+"The situation was such that no one except Orihara could've carried out
+the attack&. Except&, even assuming Orihara was the criminal&,
 it'd have been impossible for her to whip the weapon out of somewhere
 and then hide it again later&."
 
 {	Stand("buˆÀ“ñ_ƒX[ƒc_’Êí","normal", 200, @+250);
-	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);
+	FadeStand("buˆÀ“ñ_ƒX[ƒc_’Êí_normal", 300, true);	
 	DeleteStand("buˆÀ“ñ_ƒX[ƒc_’Êí_hard", 0, true);}
 
 //y”»z
@@ -1013,8 +1009,8 @@ Momose took a sip of her tea and shrugged&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001310bn">
-"If we trace it back to the source&, isn't it your fault for tellin'
-me about the GE rate?"
+"If we trace it back to the source&, isn't it your fault for tellin' me
+about the GE rate?"
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18001320mm">
@@ -1031,6 +1027,7 @@ investigation headquarters&."
 
 Though she spoke exasperatedly&, she wasn't condemning him&, and her
 words were in fact a backhanded compliment for Ban as a detective&.
+//Untranslated line -DVN
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1086,9 +1083,9 @@ from any cell phone towers&.
 "&.&.&.Back out of it&."
 
 It was one of the unidentified&, threatening calls Ban had often
-received as of late&. The mechanical-sounding voice probably
-came from using a voice changer&. Ban smiled bitterly as he
-answered&.
+received as of late&.
+The mechanical-sounding voice probably came from using a voice changer&.
+Ban smiled bitterly as he answered&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001390bn">
@@ -1148,8 +1145,7 @@ Yet today was different&.
 "S&, sorry&.&.&. I messed up&.&.&."
 
 Having heard that much&, Ban finally grasped&, who was the owner of
-the anguished voice coming on the other side of the phone belonged
-to&.
+the anguished voice coming on the other side of the phone belonged to&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001470bn">
@@ -1169,8 +1165,7 @@ to&.
 
 //yz–Kz
 <voice name="z–K" class="z–K" src="voice/ch09/18001510su">
-"I dunno&.&.&. who did it&.&.&. he had a black ski mask&.&.&.
-and&.&.&."
+"I dunno&.&.&. who did it&.&.&. he had a black ski mask&.&.&. and&.&.&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001520bn">
@@ -1234,8 +1229,7 @@ Standing up&, Ban hit himself lightly on the cheeks two times&.
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch09/18001590bn">
-"Suwa got taken hostage&. Seems like he's in AH Tokyo General
-Hospital&."
+"Suwa got taken hostage&. Seems like he's in AH Tokyo General Hospital&."
 
 //y•S£z
 <voice name="•S£" class="•S£" src="voice/ch09/18001600mm">
@@ -1280,4 +1274,3 @@ determination&, one that made him seem a different person&.
 //¡ƒCƒ“ƒ^[ƒ~ƒbƒVƒ‡ƒ“‚S‚RI—¹
 
 }
-

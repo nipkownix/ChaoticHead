@@ -131,8 +131,7 @@ wonder child or something?"
 
 //【芸能レポーターＢ】
 <voice name="芸能レポーターＢ" class="芸能レポーターＢ" src="voice/ch09/19900080gb">
-"Do you have any future plans to cooperate with police
-investigations?"
+"Do you have any future plans to cooperate with police investigations?"
 
 //【芸能レポーターＡ】
 <voice name="芸能レポーターＡ" class="芸能レポーターＡ" src="voice/ch09/19900090ga">

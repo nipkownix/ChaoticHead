@@ -98,8 +98,7 @@ Whose words should I believe&.&.&.
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch08/17300080ta">
-"H&, how can you ge&, get so worked up&.&.&.
-over a&, a mere equation&.&.&."
+"H&, how can you ge&, get so worked up&.&.&. over a&, a mere equation&.&.&."
 
 {	DeleteStand("bu梨深_制服_正面_hard", 300, true);
 	Stand("stセナ_制服_通常","rage", 200, @-150);
@@ -128,8 +127,8 @@ over a&, a mere equation&.&.&."
 //◆※「ｍｃ２」は正確には「ｍｃの２乗」です
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch08/17300110sn">
-"Your creation&, Ir2&, is having a similar&.&.&. no&, an even greater
-effect on the world than E=mc^2&."
+"Your creation&, Ir2&, is having a similar&.&.&. no&, an even greater effect
+on the world than E=mc^2&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch08/17300120sn">

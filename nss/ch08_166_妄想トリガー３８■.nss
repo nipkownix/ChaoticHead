@@ -1105,7 +1105,7 @@ call&, when\
 [text014]
 What I heard through the phone was horribly anguished&, and undeniably\
 
-Nanami's voice&..
+Nanami's voice&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

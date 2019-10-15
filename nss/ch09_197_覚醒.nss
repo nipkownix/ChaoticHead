@@ -35,8 +35,8 @@ function ch09_197_覚醒()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-Rimi's past&. <k>
-Rimi's feelings&. <k>
+Rimi's past&.<k>
+Rimi's feelings&.<k>
 Rimi's resolve&.
 
 As I remembered them&, my chest tightened&.
@@ -91,8 +91,8 @@ past&."
 "Despite that&, for the sake of saving Nanami&, and me&, and you&,
 Rimi marched into his territory all by herself&."
 
-A voice revived at the back of my head&. <k>
-Words of the Rimi I didn't know&. <k>
+A voice revived at the back of my head&.<k>
+Words of the Rimi I didn't know&.<k>
 Words that Rimi had said to "Shogun&."
 
 </PRE>
@@ -152,8 +152,7 @@ Words that Rimi had said to "Shogun&."
 
 //【将軍】
 <voice name="将軍" class="将軍" src="voice/ch09/19700160jn">
-"You don't want to see that man&.&.&. to see Norose anymore&, do
-you?"
+"You don't want to see that man&.&.&. to see Norose anymore&, do you?"
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700170ri">
@@ -170,8 +169,8 @@ obvious which one ought to take precedence&."
 
 //【将軍】
 <voice name="将軍" class="将軍" src="voice/ch09/19700200jn">
-"Both rescuing Nanami and stopping Project Noah are things I should
-do&. You don't have to go so far&."
+"Both rescuing Nanami and stopping Project Noah are things I should do&.
+You don't have to go so far&."
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700210ri">
@@ -199,8 +198,7 @@ do&. You don't have to go so far&."
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700270ri">
-"And after having done that&, I know it's really selfish&,
-but&.&.&."
+"And after having done that&, I know it's really selfish&, but&.&.&."
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700280ri">
@@ -344,8 +342,8 @@ outcolor="BLACK">imprinting</FONT>&, perhaps&."
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700600ri">
-"Ahaha&. Really&, it's all right&. You don't have to worry about a
-thing&. Cause I'll get everything settled for you&."
+"Ahaha&. Really&, it's all right&. You don't have to worry about a thing&.
+Cause I'll get everything settled for you&."
 
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700610ri">
@@ -450,11 +448,11 @@ The emotions hidden behind each word she'd uttered&.
 	DeleteStand("bu梨深_制服_通常_smile", 0, true);
 	FadeDelete("white", 300, null);}
 The past year and a half&.
-If I was to say what I'd done&, it'd be ESO&, and RMT&, and
-eroge&, and little else&.
+If I was to say what I'd done&, it'd be ESO&, and RMT&, and eroge&,
+and little else&.
 
-I'd immersed myself in them and remained shut up in my base&. Rarely
-going to school&, not attempting to speak with anyone&.
+I'd immersed myself in them and remained shut up in my base&.
+Rarely going to school&, not attempting to speak with anyone&.
 
 Born into this world&, I had been throwing my time away&, as if I were
 dead&.
@@ -699,8 +697,7 @@ She could've erased me&, but instead she tried to protect me&.
 //ＶＦ//回想セリフ
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch09/19700710ri">
-"And then we'll say see you tomorrow&, and wave good-bye to each
-other&."
+"And then we'll say see you tomorrow&, and wave good-bye to each other&."
 
 She made memories for me&.
 
@@ -753,7 +750,7 @@ I'm<k>
 In love<k>
 With Rimi&.
 
-How indescribably creepy&. <k>
+How indescribably creepy&.<k>
 I smiled bitterly at my own creepiness&.
 
 A delusionary existence&, falling in love?
@@ -773,8 +770,8 @@ She definitely didn't have any awareness of me as the opposite sex&.
 An otaku freak like me wouldn't suit Rimi well&, to begin with&.
 
 But&.&.&. even if it were unrequited love&, even if it were mere
-self-satisfaction&, even though I was a delusionary existence&, I
-wanted to at least do something for somebody&.&.&. do something for
+self-satisfaction&, even though I was a delusionary existence&,
+I wanted to at least do something for somebody&.&.&. do something for
 Rimi&, and then disappear&.
 
 It was creepy for a creepy otaku to be in love&.
@@ -782,8 +779,8 @@ It was creepy for a delusionary existence to be in love&.
 
 So what?
 
-Even if it were disgusting&, <k>
-Even if it would never be returned&, <k>
+Even if it were disgusting&,<k>
+Even if it would never be returned&,<k>
 I
 
 Didn't want to dispose of this feeling as a hallucination or a
@@ -970,7 +967,7 @@ Standing in place&, I extended my hand&.
 In order to rescue someone precious to me&.
 I needed that sword no matter what&.
 
-No matter what-!
+No matter what―!
 
 I clenched my back teeth together&.
 
@@ -984,7 +981,7 @@ But I wasn't cool-headed&.
 
 There was an emotion simmering&, boiling hard inside me&.
 
-There was something I had to do <k>no matter what-!
+There was something I had to do <k>no matter what―!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1101,8 +1098,8 @@ This is&.&.&. a Di-Sword&.&.&.!
 I clenched it tight with both hands&.
 Now I should be able to real-boot it as well&.
 
-If it attained the shared recognition of those in the area&, this
-sword would bring its shape forth into reality&.
+If it attained the shared recognition of those in the area&, this sword
+would bring its shape forth into reality&.
 
 I didn't know how to do it&.
 I simply prayed&.
@@ -1493,8 +1490,8 @@ I've gotta grab on and make sure not to let go&.&.&."
 
 //【野呂瀬】
 <voice name="野呂瀬" class="野呂瀬" src="voice/ch09/19701090nr">
-"To put it another way&, one could perhaps describe them as a mind
-control corps&."
+"To put it another way&, one could perhaps describe them as a
+mind control corps&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1584,7 +1581,7 @@ And poured into me all at once&.
 //◆声にならない悲鳴
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch09/19701130ta">
-"--!"
+"――!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1603,48 +1600,47 @@ And poured into me all at once&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text025]
-Hostility&. Hatred&. Jealousy&. Carnal desire&. Obsequiousness&.
-Cowardice&. Frivolity&. Contamination&. Cunning&. Obscenity&.
-Disgrace&. Crudity&. Lust&. Insanity&. The will to kill&.
+Hostility&. Hatred&. Jealousy&. Carnal desire&. Obsequiousness&. Cowardice&.
+Frivolity&. Contamination&. Cunning&. Obscenity&. Disgrace&. Crudity&. Lust&.
+Insanity&. The will to kill&.
 
 A manifestation of the ugly emotions people hid from others&, far more
 direct&, and atrocious&, and revolting&, than anything communicated in
 words&.
 
 Every manner of negative emotion people embrace within them became a
-torrent of images&, swallowing up my heart&, breaking me&, violating
-me&.
+torrent of images&, swallowing up my heart&, breaking me&, violating me&.
 
-They bathed me in despising gazes&, <k>
-Abused me with words of contempt&, <k>
+They bathed me in despising gazes&,<k>
+Abused me with words of contempt&,<k>
 Spat at me&,
 
-Peeled my nails off&, <k>
-Pummeled my cheeks with their fists countless times&, <k>
+Peeled my nails off&,<k>
+Pummeled my cheeks with their fists countless times&,<k>
 Kicked me in the buttocks&,
 
-Ripped my hair out&, <k>
-Bit my nose to pieces&, <k>
+Ripped my hair out&,<k>
+Bit my nose to pieces&,<k>
 Gouged out my eyeballs&,
 
-Pulled my tongue out&, <k>
-Sucked up my blood&, <k>
+Pulled my tongue out&,<k>
+Sucked up my blood&,<k>
 Poured scalding water on me and burned me&,
 
-Raped me in the ass&, <k>
-Smashed my genitals&, <k>
+Raped me in the ass&,<k>
+Smashed my genitals&,<k>
 Ripped off all the skin on my body&,
 
-Severed my arms&, <k>
-Broke the bones of every part of my body&, <k>
+Severed my arms&,<k>
+Broke the bones of every part of my body&,<k>
 Struck me with blunt objects&,
 
-Stabbed me with blades&, <k>
-Dug out my intestines&, <k>
+Stabbed me with blades&,<k>
+Dug out my intestines&,<k>
 Strangled me tight around the neck&,
 
-Made vast beasts devour my flesh&, <k>
-Pushed me off from high places&, <k>
+Made vast beasts devour my flesh&,<k>
+Pushed me off from high places&,<k>
 Drowned me in water&,
 
 Burned my whole body in flames―
@@ -1656,8 +1652,7 @@ Burned my whole body in flames―
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text026]
-Once I tuned into it&, my heart would break&. I seemed about to go
-crazy&.
+Once I tuned into it&, my heart would break&. I seemed about to go crazy&.
 
 Gritting my teeth&, I frantically held up my own will&.
 
@@ -1760,8 +1755,7 @@ forward&.
 
 I hacked into the delusions of the people leading up to my target&.
 
-The people standing before my line of sight shifted position
-slightly&.
+The people standing before my line of sight shifted position slightly&.
 A single path opened up there&.
 
 {	CreateColor("Black", 500, 0, 0, 800, 600, "Black");
@@ -1798,8 +1792,8 @@ Dragging along my Di-Sword&.
 <voice name="ポーターＢ" class="ポーターＢ" src="voice/ch09/19701220pb">
 "H&, how―"
 
-Having noticed me&, the porter grew flustered&, turned his back&, and
-attempted to flee&.
+Having noticed me&, the porter grew flustered&, turned his back&,
+and attempted to flee&.
 But I wouldn't let him&.
 
 In the same way as Sena&.
@@ -1992,8 +1986,7 @@ words have been up until now&."
 //ＶＦ//心の声
 //【将軍】
 <voice name="将軍" class="将軍" src="voice/ch09/19701300jn">
-"I foretold the 'staking' incident to you&. It was meant as a
-warning&."
+"I foretold the 'staking' incident to you&. It was meant as a warning&."
 
 //ＶＦ//心の声
 //【将軍】

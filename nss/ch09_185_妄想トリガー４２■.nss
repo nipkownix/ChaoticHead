@@ -123,8 +123,7 @@ cause I've hit the nail on the head?"
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500060se">
 "You began talking to the people around you&, especially girls&,
-c<pre>u</pre>te girls&, like you actually have a
-life or something&."
+c<pre>u</pre>te girls&, like you actually have a life or something&."
 
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500070se">
@@ -170,8 +169,7 @@ either way&."
 	DeleteStand("bu¯—ˆ_ŠoÁŒã_’Êí_happy", 0, true);}
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500140se">
-"You stopped feeling that way because of the girls who approached
-you&."
+"You stopped feeling that way because of the girls who approached you&."
 
 //y¯—ˆz
 <voice name="¯—ˆ" class="¯—ˆ" src="voice/ch09/18500150se">
@@ -257,8 +255,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚Q == 1)
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500200ta">
-"Hehe&, hehehe&.&.&. Yeah&, I'll disappear&.&.&. I'll
-disappear&.&.&."
+"Hehe&, hehehe&.&.&. Yeah&, I'll disappear&.&.&. I'll disappear&.&.&."
 
 {	CreateColor("back14", 500, 0, 0, 800, 600, "White");
 	Request("back14", AddRender);
@@ -281,8 +278,8 @@ around with a knife hidden on me&.
 But I'd stopped when police enforcement of the laws against it became
 stricter&.
 
-As I'd thought&, a folding knife was inside&, mixed in with
-keyholders&, trading cards&, stationery&, and the like&.
+As I'd thought&, a folding knife was inside&, mixed in with keyholders&,
+trading cards&, stationery&, and the like&.
 
 I pulled out the blade&.
 It shone invitingly&, reflecting the light&.
@@ -293,8 +290,7 @@ close to a year&.
 But this much rust shouldn't make any different when it came to
 slitting my wrists&.
 
-My left hand&, which held Seira-tan&. I put the knife against that
-wrist&.
+My left hand&, which held Seira-tan&. I put the knife against that wrist&.
 The blade was chilly&.
 I found myself associating its coldness with death&.
 
@@ -309,8 +305,7 @@ All I had to do was put a little more power into my right hand&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500210ta">
 "Haa&, haa&, haa&.&.&."
 
-My heart was pounding&. My fake heart raced&. Despite my being a
-fake&.
+My heart was pounding&. My fake heart raced&. Despite my being a fake&.
 
 {	CreateColor("back11", 500, 0, 0, 800, 600, "Black");
 	Fade("back11", 0, 0, null, false);
@@ -346,11 +341,11 @@ Then you'll be able to vanish&.
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 	Fade("back11", 200, 800, null, true);
 	FadeDelete("back11", 200, true);}
-I raised my voice&, frenetically trying to muster enough energy to
-die&.
+I raised my voice&, frenetically trying to muster enough energy to die&.
 
-C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t
-it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&. C<pre>u</pre>t it&.
+Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&.
+Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&.
+Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&. Cut it&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -388,9 +383,9 @@ head&.
 How pathetic&.&.&.
 I didn't even have the courage to commit suicide&.
 
-There was no value to my life&, but I couldn't so much as die&. I
-couldn't so much as tack a period on and put an end to this ugly and
-monstrous self of mine&.
+There was no value to my life&, but I couldn't so much as die&.
+I couldn't so much as tack a period on and put an end to this ugly
+and monstrous self of mine&.
 
 I was hopelessly useless&.
 It wasn't that I felt an attachment to being alive&.
@@ -496,8 +491,7 @@ other end to one of the pipes in the frame of my loft bed&.
 
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch09/18500310ta">
-"I'll die&.&.&. I'm gonna die&.&.&. I'm definitely gonna
-die&.&.&."
+"I'll die&.&.&. I'm gonna die&.&.&. I'm definitely gonna die&.&.&."
 
 No one was there to stop me&.
 Naturally enough&, since I was the only person in the room&.
@@ -516,8 +510,7 @@ sufficient for hanging myself&.
 But if I threw my legs out&, height would cease to be a problem&.
 The only thing it required was mental preparedness to die&.
 
-In the end&, I looked at Seira-tan&, smiling at me from atop the
-desk&.
+In the end&, I looked at Seira-tan&, smiling at me from atop the desk&.
 
 The only ones seeing me off were my wives&, Seira-tan foremost among
 them&, but also the others lined up on the shelves in huge numbers&.
@@ -574,8 +567,8 @@ It hurt&.&.&.!
 {	Rotate("ƒ‹[ƒ€", 200, 15, -310, 0, Dxl2, true);}
 Before I realized what was happening&, the fingers of both my hands
 had unconsciously started trying to loosen the cord&.
-I was attempting to return my legs to their original position&, to
-stand&.
+I was attempting to return my legs to their original position&,
+to stand&.
 
 {	Rotate("ƒ‹[ƒ€", 200, 15, -300, 0, AxlDxl, true);}
 But then I wouldn't die&.
@@ -666,8 +659,7 @@ Why did I fuck up at the last possible moment&.&.&.
 
 Yes&, I was undoubtedly an incorrigible human being&, a useless human
 being who'd never succeeded in doing a single thing deserving of
-others' praise&. Not that I was even a human being in the first
-place&.
+others' praise&. Not that I was even a human being in the first place&.
 
 But it was too much&, to mess up even when it came to dying&.&.&.
 Why couldn't I die?
@@ -675,8 +667,8 @@ Why couldn't I die?
 Even though I wanted to die&.
 Even though I wanted to die&.&.&.!
 
-Now that I'd experienced the anguish of hanging in midair once&, the
-daring and willpower needed for giving hanging myself another go
+Now that I'd experienced the anguish of hanging in midair once&,
+the daring and willpower needed for giving hanging myself another go
 wouldn't rise up in me&.
 
 //y‘ñ–¤z

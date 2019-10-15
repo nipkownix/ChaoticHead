@@ -84,9 +84,9 @@ What do you mean&, happenstance!"
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch09/19300050nr">
-"She didn't put me through nearly as much hardship as you did&. As our
-company has long since established a manual of the procedures needed
-for awakening those like you&."
+"She didn't put me through nearly as much hardship as you did&.
+As our company has long since established a manual of the procedures
+needed for awakening those like you&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch09/19300060nr">
@@ -156,8 +156,7 @@ in darkness&."
 
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch09/19300160nr">
-"And 'somebody' who knew nothing would bathe in the spotlight
-instead&."
+"And 'somebody' who knew nothing would bathe in the spotlight instead&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19300170ri">
@@ -313,11 +312,9 @@ accident&.
 
 Rimi murmured&, as if to encourage herself&.
 
-Her voice made the air tremble&, but it soon melted into the
-darkness&.
+Her voice made the air tremble&, but it soon melted into the darkness&.
 
-She noticed she had stopped hearing that growling sound from "Noah
-II&."
+She noticed she had stopped hearing that growling sound from "Noah II&."
 
 \She hated the dark&. Because it made her recollect memories of "that
 time&."
@@ -388,8 +385,8 @@ How long had they been torturing her?
 Rimi didn't know&.
 She had a feeling that it wasn't amnesia&.
 
-She felt as though\the instant she unexpectedly awoke&, the
-consciousness known as herself had been born&.
+She felt as though\the instant she unexpectedly awoke&,
+the consciousness known as herself had been born&.
 
 Maybe the personality that had resided in this body until then had
 wanted to escape the overwhelming hardship&, and had committed suicide

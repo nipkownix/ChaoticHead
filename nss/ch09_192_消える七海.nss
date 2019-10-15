@@ -80,8 +80,7 @@ of counting up the rusty spots&.
 //Ÿ—Üº
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/19200070na">
-"You can't be a delusion! Cause I knew you when you were
-little&.&.&.!"
+"You can't be a delusion! Cause I knew you when you were little&.&.&.!"
 
 //Ÿ—Üº
 //yµŠCz

@@ -90,8 +90,8 @@ She'd already real-booted it&.
 <voice name="—œ[" class="—œ[" src="voice/ch09/19100030ri">
 "So you mustn't be afraid&.&.&."
 
-Desperately telling herself this&, Rimi gulped in a breath&, then
-pushed the soundproof door open with her shoulder&.
+Desperately telling herself this&, Rimi gulped in a breath&,
+then pushed the soundproof door open with her shoulder&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -123,8 +123,7 @@ Rimi's eyes widened at the spectacle spreading out there&.
 All too colossal&, a "device" that brought monsters to mind&.
 It was ensconced in the center of a dome-shaped room&.
 
-An eerie noise resounded faintly through the room's spacious
-interior&.
+An eerie noise resounded faintly through the room's spacious interior&.
 It was low&, a sound like a beast growling&.
 A sound signifying that the "device" was in operation&.
 
@@ -200,19 +199,18 @@ And\
 
 Nishijou Nanami was being held captive there&.
 
-Her torn uniform&, the blood-soaked bandage on her right wrist&, her
-limply hanging head&. Her horribly pallid complexion&.
+Her torn uniform&, the blood-soaked bandage on her right wrist&,
+her limply hanging head&. Her horribly pallid complexion&.
 
 She made such a painful sight&, Rimi lost all words&.
 
 Like the crucified Jesus of Nazareth&.
 
-No&, that which captured Nanami wasn't something one could call a
-cross&.
+No&, that which captured Nanami wasn't something one could call a cross&.
 It was a long way off&, with so much malice filling its shape&.
 
-All the evil in this world\ <k>
-All the chaos in this world\ <k>
+All the evil in this world\<k>
+All the chaos in this world\<k>
 All the corruption in this world\
 
 It wouldn't have been an exaggeration to say that it represented all
@@ -252,8 +250,7 @@ glared at him&.
 	DeleteStand("stŒºˆê_ƒX[ƒc_’Êí_hard", 0, true);}
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch09/19100140nr">
-"Hoh&. Don't tell me you came here for the sake of saving your
-friend?"
+"Hoh&. Don't tell me you came here for the sake of saving your friend?"
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19100150ri">
@@ -269,8 +266,8 @@ friend?"
 
 Norose's suggestion confused Rimi&.
 
-She was bluffing now&, but the instant she saw Norose's face&, her
-heart had awoken to fear&, and her legs had begun quivering&.
+She was bluffing now&, but the instant she saw Norose's face&,
+her heart had awoken to fear&, and her legs had begun quivering&.
 Incapable of moving&, she called out to Nanami&, pinned up there&.
 
 </PRE>
@@ -356,8 +353,7 @@ Nanami's body slipped down from the cross&.
 <voice name="µŠC" class="µŠC" src="voice/ch09/19100250na">
 "Hey&, Rimi&.&.&. san&.&.&."
 
-Lying down&, lifting only her head&, Nanami made her gaze drift
-about&.
+Lying down&, lifting only her head&, Nanami made her gaze drift about&.
 As if she were searching for something\
 
 //yµŠCz
@@ -395,8 +391,7 @@ somewhere before&.&.&.?"
 
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/19100320na">
-"Rimi-san&.&.&. Rimi-san&, right&.&.&.? Rimi-san&, you have my
-bangle&.&.&."
+"Rimi-san&.&.&. Rimi-san&, right&.&.&.? Rimi-san&, you have my bangle&.&.&."
 
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch09/19100330na">
@@ -438,8 +433,8 @@ on his lips&.
 Nanami's gaze was fixed on Rimi&.
 She stood all the way up&, slowly&, shaking like a newborn fawn&,
 
-And extended her right hand\as though to offer her upturned palm\in
-Rimi's direction&.
+And extended her right hand\as though to offer her upturned palm\
+in Rimi's direction&.
 
 A bloodstained bandage&.
 It almost looked as if her hand were connected&.
@@ -465,10 +460,9 @@ A puddle of blood was forming at Nanami's feet&.
 
 She needed treatment quickly\
 
-On the reverse side of her sense of urgency&, Rimi wasn't able to
-draw any closer&. Because approaching Nanami also meant approaching
-that man&. It frustrated her so much&, she found herself on the
-verge of weeping&.
+On the reverse side of her sense of urgency&, Rimi wasn't able to draw
+any closer&. Because approaching Nanami also meant approaching that man&.
+It frustrated her so much&, she found herself on the verge of weeping&.
 
 {	CreateSE("SE10","SE_l‘Ì_èñ_‚½‚ê‚éŒŒ");
 	MusicStart("SE10", 0, 1000, 0, 1000, null, false);}
@@ -586,8 +580,8 @@ previously held Nanami&.
 
 Or else\
 
-Standing perpendicularly&, as though to reject everything before it\a
-sword&.
+Standing perpendicularly&, as though to reject everything before it\
+a sword&.
 
 //Ÿœ±‘R
 //y—œ[z

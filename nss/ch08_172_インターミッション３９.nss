@@ -167,9 +167,8 @@ tremendous skill&."
 
 //y’–•@z
 <voice name="’–•@" class="’–•@" src="voice/ch08/17200230ih">
-"Isn't it said that the number of Gigalomaniacs throughout
-the world is so small as to be easily counted?
-Is it really all right!?"
+"Isn't it said that the number of Gigalomaniacs throughout the world
+is so small as to be easily counted? Is it really all right!?"
 
 //¦—œ[A‚ ‚â‚¹AƒZƒiAµŠCA–ì˜C£
 //y–ì˜C£z
@@ -240,7 +239,7 @@ Kantou Earthquake of 1923&."
 //y–ì˜C£z
 <voice name="–ì˜C£" class="–ì˜C£" src="voice/ch08/17200380nr">
 "Considering the level of current construction standards and building
-base-isolation counter-measures&,it won't deal out as much damage
+base-isolation counter-measures&, it won't deal out as much damage
 to the city as in the past&."
 
 //y‘qz

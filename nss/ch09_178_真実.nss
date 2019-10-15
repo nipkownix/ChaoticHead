@@ -30,7 +30,7 @@ function ch09_178_ê^é¿()
 
 
 //ÇaÇf//çï
-	CreateColor("back03"&, 500&, 0&, 0&, 800&, 600&, "Black");
+	CreateColor("back03", 500, 0, 0, 800, 600, "Black");
 
 
 //"You are&.&.&. a delusionary existence&."
@@ -94,8 +94,7 @@ The house that should have been here wasn't&.
 A house that shouldn't have been here was&.
 
 Illuminated by the sunset&, the "gap" between my memories and the
-actual sce<pre>n</pre>ery steadily began to stand out
-more and more prominently&.
+actual sce<pre>n</pre>ery steadily began to stand out more and more prominently&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/17800020ta">
@@ -103,11 +102,11 @@ more and more prominently&.
 
 I let my voice out&, frantic to deny the despair in my heart&.
 
-That's right&. There weren't any gaps between the two&. <k>
+That's right&. There weren't any gaps between the two&.<k>
 I was just a block off&.
 
-I'd been mistaken&. <k>
-There was nothing wrong with the world&. <k>
+I'd been mistaken&.<k>
+There was nothing wrong with the world&.<k>
 Otherwise&, it'd be too strange&.
 
 {	CreateSE("SE01","SE_êlëÃ_ìÆçÏ_ë´_ëñÇÈ_Loop");
@@ -117,8 +116,8 @@ Otherwise&, it'd be too strange&.
 I turned back the way I came&, almost tripping over myself&, and ran
 into the next narrow street&.
 
-But the sense of displacement between my memories and
-the sce<pre>n</pre>ery wouldn't go away&.
+But the sense of displacement between my memories and the sce<pre>n</pre>ery
+wouldn't go away&.
 
 Before I knew it&, my whole body was sweating&.
 
@@ -193,8 +192,7 @@ The school's name was&, errr&.&.&.
 I couldn't remember&.&.&.
 
 I'd gone to middle school&. I had memories of doing so&.
-But the little details remained vague&, like there was a fog in my
-head&.
+But the little details remained vague&, like there was a fog in my head&.
 
 Such as my middle school's name&.
 Such as which class I'd been in&.
@@ -262,8 +260,8 @@ It felt like I'd go crazy&.
 Don't make that kind of face&.&.&.!
 
 Eyes lowered&, her expression so sorrowful&, Rimi flung out words
-meant to mislead me&. Again&, her words were cryptic&.
-Incomprehensible&. I abandoned all thoughts of them&.
+meant to mislead me&. Again&, her words were cryptic&. Incomprehensible&.
+I abandoned all thoughts of them&.
 
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch09/17800240ri">
@@ -314,17 +312,16 @@ Rimi was my enemy&, too!
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/17800320ta">
 "The 'staking' was y&, your work&, wasn't it&.&.&.!"
 
-It meant what had happened the first time we met&, at
-the sce<pre>n</pre>e of the 'staking&,' hadn't been
-a delusion or anything&.
+It meant what had happened the first time we met&, at the sce<pre>n</pre>e of the
+'staking&,' hadn't been a delusion or anything&.
 
 The true New-Gen criminal wasn't the man I'd seen earlier on the
 hospital television&.
 
 It was Rimi&.
 
-She'd been observing me&, making sure I wasn't going to go tell
-someone the truth about what I'd witnessed&.
+She'd been observing me&, making sure I wasn't going to go tell someone 
+the truth about what I'd witnessed&.
 That had been her goal in staying together with me!
 
 </PRE>
@@ -367,12 +364,11 @@ blend together&."
 <voice name="óúê[" class="óúê[" src="voice/ch09/17800360ri">
 "Their delusions synchronize&."
 
-Softly&. <k>
-As though to persuade me&. <k>
+Softly&.<k>
+As though to persuade me&.<k>
 Rimi spoke&.
 
-Her attitude&, brimming with composure&, rubbed my nerves the wrong
-way&.
+Her attitude&, brimming with composure&, rubbed my nerves the wrong way&.
 
 {	SetVolume("@CH01", 500, 500, NULL);
 	SetTrigger("ÇSÇO");}

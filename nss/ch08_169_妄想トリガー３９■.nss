@@ -137,8 +137,8 @@ Hold up&, what's with the "now"?
 Did I think there was a possibility of us becoming a couple somewhere
 down the line?
 
-Sure&, Rimi was awfully friendly toward me&, but when you get down
-to it&, I'm a dirty otaku&, you know&.&.&.
+Sure&, Rimi was awfully friendly toward me&, but when you get down to it&,
+I'm a dirty otaku&, you know&.&.&.
 
 There was no point in expecting something&.
 Give it a rest&. Don't think so highly of yourself&, me&.
@@ -204,8 +204,8 @@ All of a sudden&, a familiar voice reached my ears&.
 	Wait(500);
 	Stand("stéµäC_êßïû_í èÌ","normal", 200, @-50);
 	FadeStand("stéµäC_êßïû_í èÌ_normal", 500, true);}
-When&, surprised&, I looked in the direction the voice came from&, for
-some reason Nanami was poking her head out of the shadow of the
+When&, surprised&, I looked in the direction the voice came from&,
+for some reason Nanami was poking her head out of the shadow of the
 container housing&, with a smile on her face&.
 
 {	MusicStart("@CH08",0,1000,0,0,null,true);}
@@ -269,8 +269,8 @@ An Established Fact&.'"
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch08/16900210na">
-"You're so shy&, and you weren't noticing Rimi-san's feelings at all&, so
-I helped her out&."
+"You're so shy&, and you weren't noticing Rimi-san's feelings at all&,
+so I helped her out&."
 
 No&, no way&.&.&.
 
@@ -441,8 +441,8 @@ She flatly refused me&.
 
 I'd never dreamed that would be her answer&, and I doubted my ears&.
 
-Up until now&, Rimi had listened to every selfish wish of mine&, no
-matter what it was&.
+Up until now&, Rimi had listened to every selfish wish of mine&,
+no matter what it was&.
 She always helped me&. Supported me&.
 
 So I'd thought she would unconditionally affirm anything I said&.
@@ -896,8 +896,8 @@ Tried to kill meÅ\
 Why?
 
 My head was full of doubts and questions&.
-Before this&, she and Kozu-pii and I had eaten Crunchy-kuns
-together as a trio&.
+Before this&, she and Kozu-pii and I had eaten Crunchy-kuns together
+as a trio&.
 
 We definitely weren't close enough that you could call us friends&,
 and even back then&, she'd kept her intimidating attitude
@@ -943,8 +943,7 @@ crouching start&.
 	Wait(100);
 	Zoom("îwåiÇR", 1000, 1050, 1050, Dxl2, false);
 	Fade("îwåiÇR", 1000, 0, null, true);}
-She swung her sword as though to make its tip c<pre>u</pre>t a line
-in the ground&.
+She swung her sword as though to make its tip c<pre>u</pre>t a line in the ground&.
 Closing the distance between us&, she raised it on high&.
 
 {	Stand("buÉZÉi_êßïû_ïêäÌç\Ç¶","angry", 200, @0);
@@ -998,8 +997,8 @@ A single human form leapt forward&.
 Diving between me and Sena&, standing in the way&.
 
 When I looked&, Rimi's back was before me&.
-She had both her arms spread out as though to block Sena's path as
-she charged at me&.
+She had both her arms spread out as though to block Sena's path
+as she charged at me&.
 
 She would risk harm to protect me&.&.&.?
 

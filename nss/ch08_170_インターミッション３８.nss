@@ -76,8 +76,7 @@ as if she were sightseeing from the sidelines&. She sat on the edge&,
 kicking her hanging legs a little in the air&.
 
 Quite a carefree attitude for having interfered with her surprise
-attack a few seconds ago&, Sena thought&, clicking her tongue
-inwardly&.
+attack a few seconds ago&, Sena thought&, clicking her tongue inwardly&.
 
 But her eyes didn't slide away from Rimi&, right in front of her&.
 Rimi&, in contrast&, had on a brooding expression&.
@@ -86,8 +85,7 @@ Rimi&, in contrast&, had on a brooding expression&.
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch08/17000030ta">
 "Ah&.&.&. ah&.&.&."
 
-Behind Rimi&, the pathetically crumpled Nishijou Takumi let out a
-moan&.
+Behind Rimi&, the pathetically crumpled Nishijou Takumi let out a moan&.
 
 He was Sena's ultimate target&, and she had no intention of fighting
 with Rimi&. Moreover&, this wasn't a manga or anime&, and it was
@@ -496,8 +494,8 @@ And stabbed him deep with her Di-Sword&.
 It was Sena's dearest wish&.
 
 She had wandered Shibuya every day solely for the sake of killing
-this man&. She had always dreamed of the day
-when she would kill him&.
+this man&.
+She had always dreamed of the day when she would kill him&.
 
 {	Fade("F‚P", 3000, 0, null, true);}
 //yƒZƒiz
@@ -557,7 +555,7 @@ Her red-stained hands&.
 //<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000310ha">
 //"This is the delusion, you wished for&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, ""This is the delusion you wished for&."");
+	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "gThis is the delusion&, you wished for&.h");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
 	Request("ƒeƒLƒXƒg‚P", Enter);
@@ -573,7 +571,7 @@ Her red-stained hands&.
 //Ÿ‚³‚³‚â‚«
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch08/17000320ri">
-"This is the delusion, you wished for&."
+"This is the delusion&, you wished for&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -265,7 +265,6 @@ Had she been my enemy all along?
 "It&, it's your fault&.&.&.!"
 
 Sena&, who had been sobbing&, raised her face&.
-
 She didn't attempt to wipe her tears&.
 She was still collapsed on the ground&.
 She stared at me harshly&.
@@ -399,8 +398,8 @@ Ir2&.
 It was the origin of the chaos now besieging Shibuya?
 
 Talk about a false accusation&.
-
 Of course a doodle like that couldn't possess such power&.
+
 I had truly been in a light-hearted frame of mind when I drew this
 doodle&.&.&.
 I must have been&.
@@ -414,8 +413,8 @@ I'd only copied the numbers that appeared in a dream of mine&.
 A dream related to the "Whose Eyes Are Those Eyes?" essay written on
 the front&.
 
-I'd used those words since the distant past&, and at some point&, they
-attained more and more of a shape in my dreams&.
+I'd used those words since the distant past&, and at some point&,
+they attained more and more of a shape in my dreams&.
 
 There in lay the numbers&.
 
@@ -433,13 +432,12 @@ There in lay the numbers&.
 
 Sena had wiped her eyes at last&, leaving them bright red&.
 
-Even so&, she remained crumbled&, head lowered in apparent frustration as
-she wove her words&.
+Even so&, she remained crumbled&, head lowered in apparent frustration
+as she wove her words&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch08/17100340sn">
-"The instant you created this equation&.&.&. the world
-branched apart&.&.&."
+"The instant you created this equation&.&.&. the world branched apart&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

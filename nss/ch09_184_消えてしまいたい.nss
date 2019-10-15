@@ -53,8 +53,7 @@ After failing to die on Yamanote Street&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/18400010ta">
-"I wonder&.&.&. who carried this container up here&, and
-how&.&.&."
+"I wonder&.&.&. who carried this container up here&, and how&.&.&."
 
 A question that hadn't so much as occurred to me before now&. When I
 thought about it anew&, all these things that seemed a tad odd to me

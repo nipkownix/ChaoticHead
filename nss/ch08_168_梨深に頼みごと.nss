@@ -98,8 +98,8 @@ Or had she already gone home&.&.&.
 [text002]
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch08/16800010ri">
-"Taku&, come on&, you have to look ahead of you when you walk&. You're
-gonna trip&."
+"Taku&, come on&, you have to look ahead of you when you walk&.
+You're gonna trip&."
 
 We came out onto the roof&, Rimi supporting me as we went&.
 
@@ -136,7 +136,7 @@ We came out onto the roof&, Rimi supporting me as we went&.
 "I'd like you to co&, come with me&.&.&."
 
 I made my request to her&, so nervous it felt like my heart would
-leapt out of my mouth&. I myself was a tad surprised I'd been able to
+leap out of my mouth&. I myself was a tad surprised I'd been able to
 put it into words and actually say it&.
 
 Before now&, I hadn't been capable of asking favors of people&.

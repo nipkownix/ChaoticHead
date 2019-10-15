@@ -73,8 +73,7 @@ say that kind of thing&, moron!"
 Well&, it wasn't like I cared&.&.&.
 
 It didn't matter&. If she wouldn't kill me&, I no longer had any
-business with this Nanami&. I wouldn't mind if she vanished right
-away&.
+business with this Nanami&. I wouldn't mind if she vanished right away&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -116,9 +115,9 @@ have wanted to be born in the second dimension&.&.&.
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch09/19000060na">
-"Do&, don't tell me I probably didn't take good care of it anyway&, or
-something&. I wouldn't do that kind of thing&. I really treasured
-it&.&.&."
+"Do&, don't tell me I probably didn't take good care of it anyway&,
+or something&. I wouldn't do that kind of thing&. I really
+treasured it&.&.&."
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch09/19000070na">
@@ -319,8 +318,7 @@ complaining&, or times when I want to cry&, you know&.&.&.?"
 //Åüó‹ê∫
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch09/19000390na">
-"I'm so sad&, and it hurts so much&.&.&. I wanna burst out
-crying&.&.&."
+"I'm so sad&, and it hurts so much&.&.&. I wanna burst out crying&.&.&."
 
 //Åüó‹ê∫
 //ÅyéµäCÅz

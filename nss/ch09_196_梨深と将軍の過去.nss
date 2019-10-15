@@ -145,8 +145,7 @@ dark room&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600180ri">
-"Both inside my heart&, and outside it&, there was nothing but
-darkness&."
+"Both inside my heart&, and outside it&, there was nothing but darkness&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600190ri">
@@ -174,8 +173,8 @@ darkness&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600250ri">
-"Would it be okay if I carved this sce<pre>n</pre>e into my
-memory? So the next me can imagine the same thing&."
+"Would it be okay if I carved this sce<pre>n</pre>e into my memory?
+So the next me can imagine the same thing&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch09/19600260jn">
@@ -241,8 +240,7 @@ detects its oscillations as color&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch09/19600410jn">
-"Try applying the color you desire to your own dead spots&. If you
-do\"
+"Try applying the color you desire to your own dead spots&. If you do\"
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch09/19600420jn">
@@ -269,8 +267,8 @@ do\"
 //\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <PRE box00>
 [text004]
-Several days&, or else several months&, after that encounter&. Rimi
-came to my hospital room&.
+Several days&, or else several months&, after that encounter&.
+Rimi came to my hospital room&.
 
 We were fellow patients staying at the same hospital&.
 
@@ -374,8 +372,7 @@ Rimi turned back toward me&.
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch09/19600560jn">
-"No&. I think my remaining lifespan&.&.&. is about another two
-years&."
+"No&. I think my remaining lifespan&.&.&. is about another two years&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600570ri">
@@ -388,8 +385,7 @@ years&."
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600590ri">
 "I'd thought there would never be an end to it&. But I decided to try
-my best to keep going until I could see the sky you had told me
-about&."
+my best to keep going until I could see the sky you had told me about&."
 
 //y—œ[z
 <voice name="—œ[" class="—œ[" src="voice/ch09/19600600ri">

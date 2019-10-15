@@ -65,19 +65,18 @@ She hadn't existed as anything of substance&.
 //Åüó‹ê∫
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19400020ta">
-"Nana&.&.&. Na&, nami&.&.&. where are you&.&.&. co&, come on
-out&.&.&. hehe&.&.&. he&.&.&."
+"Nana&.&.&. Na&, nami&.&.&. where are you&.&.&. co&, come on out&.&.&.
+hehe&.&.&. he&.&.&."
 
 //Åüó‹ê∫
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19400030ta">
-"Y&, you must be there&, pulling m&, my leg again&, huh&.&.&.
-hehehe&.&.&. you&, you're hiding&.&.&. qu&, quit it&.&.&.
-hehe&.&.&. hehehehe&.&.&."
+"Y&, you must be there&, pulling m&, my leg again&, huh&.&.&. hehehe&.&.&.
+you&, you're hiding&.&.&. qu&, quit it&.&.&. hehe&.&.&. hehehehe&.&.&."
 
 Tears made my sight go fuzzy&.
-No matter how I wiped them and wiped them&, they kept welling
-up&.&.&. hot droplets&.
+No matter how I wiped them and wiped them&, they kept welling up&.&.&.
+hot droplets&.
 
 But even this heat&.
 And even the emotions making me weep&.
@@ -93,12 +92,11 @@ My hope had been rapidly shattered&.
 //Åüó‹ê∫
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19400040ta">
-"He&, hey&, when&.&.&. will I wa&, wake up from this
-delusion&.&.&.?
+"He&, hey&, when&.&.&. will I wa&, wake up from this delusion&.&.&.?
 Hurry&, wake up&.&.&."
 
-I myself didn't really know who I was talking to&. But in any case&, I
-wanted someone to listen to me&, and I didn't care who&.
+I myself didn't really know who I was talking to&. But in any case&,
+I wanted someone to listen to me&, and I didn't care who&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19400050ta">
@@ -173,8 +171,7 @@ mountain of garbage and clutched at Seira-tan&.
 	CreateSE("SE02","SE_è’åÇ_ÉhÉTÉb");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);}
 //ÇrÇd//è∞ÇåùÇ≈í@Ç≠
-I punched the floor&, frenetically trying to avert my eyes from
-reality&.
+I punched the floor&, frenetically trying to avert my eyes from reality&.
 But I couldn't do it&.
 Rimi's words repeated themselves mercilessly inside my head&.
 
@@ -203,9 +200,9 @@ Rimi's words repeated themselves mercilessly inside my head&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/19400130ta">
-"I wanna die&.&.&. I can't&.&.&. take this anymore&.&.&. I can't
-stand&.&.&. my own existence&.&.&.&. I don't wanna think about
-anything&.&.&. I don't wanna go on living&.&.&."
+"I wanna die&.&.&. I can't&.&.&. take this anymore&.&.&. I can't stand&.&.&.
+my own existence&.&.&.&. I don't wanna think about anything&.&.&.
+I don't wanna go on living&.&.&."
 
 {	Stand("buêØóà_äoê¡å„_í èÌ","sad", 200, @0);
 	FadeStand("buêØóà_äoê¡å„_í èÌ_sad", 300, true);
@@ -244,8 +241,7 @@ Seira-tan always showed me tireless devotion&.
 	MusicStart("SE11", 0, 1000, 0, 1000, null, false);
 	Delete("room");}
 Standing up&, as she'd told me&, I left my base&, all the while
-catching my feet on pieces of trash and almost tripping multiple
-times&.
+catching my feet on pieces of trash and almost tripping multiple times&.
 
 I harbored no doubts about doing so&.
 Seira-tan was the only one who would never betray me&.
@@ -332,8 +328,8 @@ The sound drew nearer and farther over and over&, almost as if it were
 leading the way for me&.
 
 When I seemed about to catch up&, it would rapidly go far away&.
-When I seemed about to lose track of where it was coming from&, it
-would approach me and wait for me&.
+When I seemed about to lose track of where it was coming from&,
+it would approach me and wait for me&.
 
 Like it had a will of its own&.
 
@@ -342,11 +338,11 @@ A sound with its own willÅ\
 It was evocative of "Shogun&," and his face flickered at the back of
 my brain&, but I soon stopped caring either way&.
 
-Whether or not it was him&, I didn't mind who it turned out to be&, so
-long as they were going to kill me&.
+Whether or not it was him&, I didn't mind who it turned out to be&,
+so long as they were going to kill me&.
 
-I also stopped thinking about what the sound's true form might be&. I
-was going to die in a little while anyway&, and I was a delusionary
+I also stopped thinking about what the sound's true form might be&.
+I was going to die in a little while anyway&, and I was a delusionary
 existence&, so there was no meaning in my pondering it&.
 
 Making the inside of my head a white blank&, I all but unconsciously
@@ -361,8 +357,8 @@ of light&.
 //ÇrÇd//ÉUÉèÉUÉè
 The area around me grew boisterous&.
 I began losing track of the sound&.
-Clicking my tongue&, I was about to look for the source of this
-racket&, whenÅ\
+Clicking my tongue&, I was about to look for the source of this racket&,
+whenÅ\
 
 I had a start&.
 
@@ -424,8 +420,8 @@ Besides&, where's the person who's supposed to kill me?
 A stunningly large crowd&.
 On this chilly autumn night&.
 
-What kind of "party" would be held by a gathering of people so
-massive&, they had no room to breathe&.&.&.?
+What kind of "party" would be held by a gathering of people so massive&,
+they had no room to breathe&.&.&.?
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

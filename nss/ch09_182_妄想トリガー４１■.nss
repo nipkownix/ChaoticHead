@@ -253,11 +253,9 @@ The roadway where I'd just been run over was right in front of me&.
 "&.&.&.&.&.&.&."
 
 I looked at myself&.
-I wasn't wounded anywhere&. Nor was I bleeding&. Nor did I feel any
-pain&.
+I wasn't wounded anywhere&. Nor was I bleeding&. Nor did I feel any pain&.
 
-I had thought I'd become a ghost or something&. I'd wanted to think
-it&.
+I had thought I'd become a ghost or something&. I'd wanted to think it&.
 
 But then my corpse would have to be lying in the street&.
 
@@ -271,7 +269,6 @@ A delusion&.&.&.?
 "Shit&, shit&, shit&.&.&."
 
 I hadn't been inviting pity by calling attention to my desire to die&.
-
 I seriously wanted to die&.&.&.
 
 This time&, seeking salvation for sure&, I dashed into the road&.
@@ -441,10 +438,9 @@ ButÅ\
 My legs quaked&.
 I couldn't move away&.
 
-It had looped three times&, a delusion of the sce<pre>n</pre>e
-of my death&. The pain I imagined there was by itself enough
-to press in on my heart&, bringing along its realistic
-sensations&, and stir up my fear&.
+It had looped three times&, a delusion of the sce<pre>n</pre>e of my death&.
+The pain I imagined there was by itself enough to press in on my heart&,
+bringing along its realistic sensations&, and stir up my fear&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch09/18200090ta">
