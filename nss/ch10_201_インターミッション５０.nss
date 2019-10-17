@@ -55,20 +55,24 @@ through the radio&.
 	CreateVOICE("キャスターＡ","ch10/20100010ka");
 	SoundPlay("キャスターＡ",0,1000,false);
 
-	SetBacklog("233 casualties have been confirmed at present, but the final count is expected to surpass 30,000―", "voice/ch10/20100010ka", キャスターＡ);
+	SetBacklog("233 casualties have been confirmed at present, but the final count
+is expected to surpass 30,000―", "voice/ch10/20100010ka", キャスターＡ);
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text200]
 //ＶＦ//ラジオからの音声
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100010ka">
-"233 casualties have been confirmed at present&, but the final count is
-expected to surpass 30&,000―"
+"233 casualties have been confirmed at present&, but the final count
+is expected to surpass 30&,000―"
 
 {	SoundStop2("キャスターＡ");
 	CreateVOICE("キャスターＡ２","ch10/20100020ka");
 	SoundPlay("キャスターＡ２",0,1000,false);
-	SetBacklog("According to an announcement by the Meteorological Agency, this latest earthquake was a 7 on the Japanese earthquake scale―the highest level possible―and magnitude 7.8, which puts it on par with the Great Kantou Earthquake of 1923.", "voice/ch10/20100020ka", キャスターＡ);}
+	SetBacklog("According to an announcement by the Meteorological Agency, this latest
+earthquake was a 7 on the Japanese earthquake scale―the highest level
+possible―and magnitude 7.8, which puts it on par with the Great
+Kantou Earthquake of 1923.", "voice/ch10/20100020ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100020ka">
 "According to an announcement by the Meteorological Agency&, this latest
@@ -79,7 +83,8 @@ Kantou Earthquake of 1923&."
 {	SoundStop2("キャスターＡ２");
 	CreateVOICE("キャスターＡ３","ch10/20100030ka");
 	SoundPlay("キャスターＡ３",0,1000,false);
-	SetBacklog("Some of the buildings in Shibuya have been destroyed, and there is also an emerging pattern of large-scale cave-ins.", "voice/ch10/20100030ka", キャスターＡ);}
+	SetBacklog("Some of the buildings in Shibuya have been destroyed, and there is
+also an emerging pattern of large-scale cave-ins.", "voice/ch10/20100030ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100030ka">
 "Some of the buildings in Shibuya have been destroyed&, and there is
@@ -88,16 +93,18 @@ also an emerging pattern of large-scale cave-ins&."
 {	SoundStop2("キャスターＡ３");
 	CreateVOICE("キャスターＡ４","ch10/20100040ka");
 	SoundPlay("キャスターＡ４",0,1000,false);
-	SetBacklog("The Shibuya portion of the Shuto Expressway has been completely closed down due to the collapse of overhead structures.", "voice/ch10/20100040ka", キャスターＡ);}
+	SetBacklog("The Shibuya portion of the Shuto Expressway has been completely
+closed down due to the collapse of overhead structures.", "voice/ch10/20100040ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100040ka">
-"The Shibuya portion of the Shuto Expressway has been completely closed
-down due to the collapse of overhead structures&."
+"The Shibuya portion of the Shuto Expressway has been completely
+closed down due to the collapse of overhead structures&."
 
 {	SoundStop2("キャスターＡ４");
 	CreateVOICE("キャスターＡ５","ch10/20100050ka");
 	SoundPlay("キャスターＡ５",0,1000,false);
-	SetBacklog("As for public transportation, all railways, such as the Yamanote Line, have been―", "voice/ch10/20100050ka", キャスターＡ);}
+	SetBacklog("As for public transportation, all railways, such as the Yamanote Line,
+have been―", "voice/ch10/20100050ka", キャスターＡ);}
 //【キャスターＡ】
 //<voice name="キャスターＡ" class="キャスターＡ" src="voice/ch10/20100050ka">
 "As for public transportation&, all railways&, such as the Yamanote Line&,
@@ -153,7 +160,8 @@ tapping it&, and so forth&, Momose let out an enormous sigh&.
 <PRE box00>
 [text100]
 Forcing a rueful smile&, she looked to one side&. There walked
-Kishimoto Ayase and Kusunoki Yua&, both wearing expressions of exhaustion&.
+Kishimoto Ayase and Kusunoki Yua&, both wearing expressions
+of exhaustion&.
 
 //【優愛】
 <voice name="優愛" class="優愛" src="voice/ch10/20100080yu">
@@ -164,8 +172,8 @@ Kishimoto Ayase and Kusunoki Yua&, both wearing expressions of exhaustion&.
 "&.&.&.&.&.&.&."
 
 Both Ayase and Yua's school uniforms were completely soiled with dirt&,
-making it readily apparent how much they had
-struggled to walk this far&.
+making it readily apparent how much they had struggled to walk
+this far&.
 
 {	Fade("back03", 300, 1000, null, true);
 	DeleteStand("bu優愛_制服_武器構え_sad", 1, false);
@@ -184,8 +192,8 @@ to the Freesia office&, they were able to join up with Momose&.
 
 Expecting the missing Ban to come back&,
 The three of them spent the night near the office&,
-in a mixed-use building&, which tilted from the earthquake&, and which
-had looked ready to topple over any minute now&.
+in a mixed-use building&, which tilted from the earthquake&,
+and which had looked ready to topple over any minute now&.
 
 But in the end&, Ban hadn't shown himself&.
 
@@ -257,8 +265,8 @@ Ayase had explained it to them&.
 A sword one could draw&, as if by magic&, out of nothingness&.
 Ban had been telling the truth&.
 
-Yua seemed startled and bewildered by the fact that she'd obtained one
-of those swords&.
+Yua seemed startled and bewildered by the fact that she'd obtained
+one of those swords&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -430,8 +438,8 @@ to collapse at any moment&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text007]
-Her body jiggling as she went&, Momose ran up to that
-girl―to Nishijou Nanami&.
+Her body jiggling as she went&, Momose ran up to that girl
+―to Nishijou Nanami&.
 
 She was concerned about the Di-Sword Nanami bore up&, but for now she
 set aside the prospect of inquiring after it&, and instead supported
@@ -622,9 +630,8 @@ As she had always thought of Takumi himself as being the true
 perpetrator behind the New-Gen incidents&, Yua had
 investigated his affairs in considerable detail&.
 
-Naturally&, she had also looked into Nishijou Nanami
-and Sakihata Rimi&, as they were people who made frequent contact
-with him&.
+Naturally&, she had also looked into Nishijou Nanami and Sakihata Rimi&,
+as they were people who made frequent contact with him&.
 
 {	DeleteStand("bu克子_スーツ_通常_hard", 500, true);
 	Stand("buあやせ_制服_武器構え","angry", 200, @-250);
@@ -787,8 +794,8 @@ life&.
 [text012]
 //【百瀬】
 <voice name="百瀬" class="百瀬" src="voice/ch10/20100620mm">
-"Let's set aside all the talk about black knights and so forth for
-the time being&."
+"Let's set aside all the talk about black knights and so forth
+for the time being&."
 
 //【百瀬】
 <voice name="百瀬" class="百瀬" src="voice/ch10/20100630mm">

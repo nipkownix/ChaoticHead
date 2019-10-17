@@ -32,7 +32,7 @@ function ch01_006_妄想トリガー１■()
 	FadeStand("bu大輔_制服_通常_normal", 0, false);
 
 	Delete("back0*");
-//☆Cut-52――――――――――――――――――――――――――――――
+//☆Cut-52-----------------------------
 //☆☆☆
 //妄想トリガー分岐
 //ポジティブ妄想→分岐３へ
@@ -83,8 +83,8 @@ if($妄想トリガー１ == 2)
 <PRE box00>
 [text001]
 //血なんて見たいわけないじゃないか。そんなの怖すぎる。
-Of course there was no reason for me to want to see blood
-or anything&. That kind of thing is too terrifying&.
+Of course there was no reason for me to want to see blood or anything&.
+That kind of thing is too terrifying&.
 
 //おばけ屋敷とかホラー映画とかじゃない、リアルに人が殺されてて、犯人はまだ捕まってないんだぞ。
 It wasn't a haunted mansion-type attraction or a horror film; people
@@ -179,8 +179,8 @@ But unlike any other day&, today I was attacked by the peculiar
 sensation that I had gotten lost in a different world altogether&.
 
 //風景そのものは変わっていないのに、初めてこの場所に足を踏み入れたような。
-Although the sce<pre>n</pre>ery itself hadn't changed&, it was
-as if I were setting foot in this place for the first time&.
+Although the sce<pre>n</pre>ery itself hadn't changed&, it was as if I were
+setting foot in this place for the first time&.
 
 //未視感――ジャメヴュって言うらしい。以前、ネットで調べたことがある。
 Apparently this is called jamais vu&. I've looked it up online before&.
@@ -492,10 +492,8 @@ was a different type from Seira-tan&.
 
 //いずれにせよ妄想だと二次元でも三次元でもごっちゃにできるからいいよね。そして妄想内で起きるすべての事象は、神である僕の思うがまま。
 Whatever the case&, what's great about it is that I can do whatever
-the hell I want in my head&, whether it's set in the
-second or third dimensions&.
-
-And all that occurs in my delusions goes according to my
+the hell I want in my head&, whether it's set in the second or third
+dimensions&. And all that occurs in my delusions goes according to my
 godly will&.
 
 //【拓巳】
@@ -536,8 +534,8 @@ if($妄想トリガー１ == 1)
 <PRE box00>
 [text011]
 //血なんて見たいわけないじゃないか。そんなの怖すぎる。
-Of course there was no reason for me to want to see blood
-or anything&. That kind of thing is too terrifying&.
+Of course there was no reason for me to want to see blood or anything&.
+That kind of thing is too terrifying&.
 
 //おばけ屋敷とかホラー映画とかじゃない、リアルに人が殺されてて、犯人はまだ捕まってないんだぞ。
 It wasn't a haunted mansion attraction or a horror film; people were
@@ -579,8 +577,8 @@ While frantically turning down Misumi-kun's invitation&, I internally
 pictured myself throwing one straight punch after another&.
 
 //“殺人鬼？　そんなヤツ、出会った途端にボコボコにしてやんよ”
-"A murderer&, you say? I'd smash a guy like that to
-pieces the second I met 'im&."
+"A murderer&, you say? I'd smash a guy like that to pieces
+the second I met 'im&."
 
 //そうやって妄想して楽しむ分には、僕は誰でも殺せるし誰でも助けられる。
 By sinking into delusions like that&, I was capable of killing or saving
@@ -630,9 +628,8 @@ But unlike any other day&, today I was attacked by the peculiar
 sensation that I had gotten lost in a different world altogether&.
 
 //風景そのものは変わっていないのに、初めてこの場所に足を踏み入れたような。
-Although the sce<pre>n</pre>ery itself hadn't changed&,
-it was as if I were setting foot in this
-place for the first time&.
+Although the sce<pre>n</pre>ery itself hadn't changed&, it was as if I were
+setting foot in this place for the first time&.
 
 //それに、生ゴミの腐ったような匂いも漂ってくる。
 Also&, the rotten stench of raw garbage was floating in the air&.
@@ -655,8 +652,8 @@ mistakenly think it was raining&. The air seemed to paste itself to me&.
 <PRE box00>
 [text014]
 //ふと見ると、薄暗い道の先になにかが落ちていた。
-With a brief glance&, I saw that something had fallen at
-the end of the grimy road&.
+With a brief glance&, I saw that something had fallen at the end
+of the grimy road&.
 
 {	Zoom("back*", 3000, 2000, 2000, null, false);
 	Move("back*", 3000, @0, @-200, Axl1, false);}
@@ -688,7 +685,8 @@ I realized it was the corpse of a cat&.
 "Urgh&.&.&."
 
 //血と糞尿を垂れ流して地面に横たわっているそれから、僕は慌てて目をそらす。
-Blood and excreta ran from it as it lay on the ground&, and I hurriedly averted my eyes&.
+Blood and excreta ran from it as it lay on the ground&, and I hurriedly
+averted my eyes&.
 
 {	CreateBG(100, 300, 0, 0, "cg/bg/bg020_02_3_渋谷路地裏_a.jpg");
 	Move("back*", 2000, -800, 0, null, false);}
@@ -907,8 +905,8 @@ I had already sprung up from my chair&.
 //自分の心臓が、一瞬キュッと縮み上がったような錯覚に陥った。
 Pushing Misumi-kun out of the way&, I went up to the blackboard&.
 Seeing the letters written there&, I―
-Fell into the illusion that&, for an instant&, my heart seized up as
-though someone had squeezed it&.
+Fell into the illusion that&, for an instant&, my heart seized up
+as though someone had squeezed it&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -932,8 +930,8 @@ though someone had squeezed it&.
 ―Whose eyes are those eyes?
 
 //それは、僕がよく“神の視線”を感じたときに心の中でつぶやく言葉。
-Those were the words I often murmured in my heart when
-I sensed "God's gaze&."
+Those were the words I often murmured in my heart when I sensed
+"God's gaze&."
 
 //口外したことなんてない。
 I'd never let them out of my mouth&.
@@ -1072,8 +1070,8 @@ I was still uneasy&.
 
 //誰があれを書いたのかは、結局分からずじまいだった。できればクラスの全員に聞いて回りたかったけど、そんな勇気もなかった。
 Ultimately&, things would end without my knowing who'd written it&.
-If I could&, I'd want to go around the class and
-ask everyone&, but I lacked the courage&.
+If I could&, I'd want to go around the class and ask everyone&,
+but I lacked the courage&.
 
 //そうこうしているうちにホームルームが始まっちゃって、あの落書きは“誰だ～、落書きしたヤツは～”という担任の言葉とともにあっさりと消されてしまった。
 Homeroom started while I was still preoccupied with that&, and the
@@ -1107,8 +1105,8 @@ Somehow&, I had an eerie feeling&, but I aimed to comfort myself as
 usual&.
 
 //ヘタに怯えたりしたら、あれが僕と関係があるなんらかのメッセージだって認めちゃうことになるから。
-If I let it scare me&, that would be the same as acknowledging
-the fact that it was some kind of message related to me&.
+If I let it scare me&, that would be the same as acknowledging the fact
+that it was some kind of message related to me&.
 
 //そんなわけはないんだ。あれは単なる偶然だ。
 Which was impossible&. It was a mere coincidence&.
@@ -1132,7 +1130,7 @@ for a net cafe on the way back from school&.
 
 //=============================================================================//
 
-//☆Cut-55――――――――――――――――――――――――――――――
+//☆Cut-55-----------------------------
 >
 >//ＢＧ//＠カフェ・ＲＯＯＭ３７
 	CreateBG(100, 500, 0, 0, "cg/bg/bg034_01_3_ネットカフェ37_a.jpg");
@@ -1171,8 +1169,8 @@ people went into the nearby seats&, it was relatively quiet&.
 
 
 //週に一度か二度、学校帰りにわざわざここに寄る理由は、エンスーに別のＩＤでログインするため。
-I went out of my way to come here once or twice a week on the way back from
-school&, in order to log on to ESO with a different ID&.
+I went out of my way to come here once or twice a week on the way back
+from school&, in order to log on to ESO with a different ID&.
 
 //要するに息抜きかな。ナイトハルトは名前が知られすぎちゃってるんだよね。
 In other words&, it was like taking a break&. Neidhardt was a little

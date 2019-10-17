@@ -386,7 +386,7 @@ Am I nowhere?
 	Move("背景１", 4000, @0, @200, Dxl1, false);
 
 //	SoundPlay("@CH00",0,1000,true);
-//――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――//
+//----------------------------------------------------------------------------//
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box10>
@@ -651,7 +651,7 @@ Or it's as if she were to catch all of the rain&.
 	SoundPlay("サウンドりみ１",0,1000,false);
 
 	WaitPlay("サウンドりみ１", null);
-	
+
 	$待ち時間 = RemainTime ("サウンドりみ１");
 	$待ち時間 += 2000;
 	WaitKey($待ち時間);	
@@ -678,10 +678,10 @@ Or it's as if she were to catch all of the rain&.
 	SoundPlay("サウンドりみ２",0,1000,false);
 
 	WaitPlay("サウンドりみ２", null);
-	
+
 	$待ち時間 = RemainTime ("サウンドりみ２");
 	$待ち時間 += 2000;
-	WaitKey($待ち時間);	
+	WaitKey($待ち時間);
 */
 
 //――――――――――――――――――――――――――――――――――――――
@@ -800,7 +800,7 @@ beyond that thin film of rain&.&.&.&.&.?
 	MusicStart("SE05", 0, 1000, 0, 1000, null, false);
 	Move("梨深ソード", 5000, @+100, @0, Dxl1, false);
 	Fade("色１", 1000, 0, null, true);
-	
+
 //――――――――――――――――――――――――――――――――――――――
 <PRE box10>
 [text038]
@@ -1118,7 +1118,7 @@ And then&, I feel a pressure on my chest&.
 <PRE box10>
 [text055]
 //彼女の持っていた大きな剣が、<?>
-The great sword she carries
+The great sword she carries <?>
 {WaitKey(1000);}
 //僕の胸の皮膚を裂き、
 is tearing through the skin of my chest&,
@@ -1137,8 +1137,7 @@ and steadily sinking its way into my body&.
 <PRE box10>
 [text056]
 //でも、彼女のキスという麻酔にかけられて、もう痛みを感じない。
-Yet&, numbed by the anesthesia of her kiss&,
-I no longer feel any pain&.
+Yet&, numbed by the anesthesia of her kiss&, I no longer feel any pain&.
 {WaitKey(3000);}
 </PRE>
 	SetText2($SYSTEM_present_preprocess,$SYSTEM_present_text);

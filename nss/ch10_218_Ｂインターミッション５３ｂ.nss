@@ -58,7 +58,6 @@ internal prayer of thanks to God for it&.
 
 Suwa would never forgive Nishijou Takumi&.
 He'd dared to drive Hazuki to suicide&.
-
 Hazuki&, Suwa's childhood friend&, whom he had lived with constantly&,
 ever since he was born&.
 

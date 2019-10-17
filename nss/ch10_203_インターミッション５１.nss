@@ -82,8 +82,8 @@ What had been an illusion?
 Unknowing&, she became frightened&,
 And as she tried to make the inside of her head go blank&,
 
-Suddenly&, she heard her own voice&, coming to her like tiny ripples on
-water&.
+Suddenly&, she heard her own voice&, coming to her like tiny ripples
+on water&.
 
 \Nana&, you've gotta keep yourself together&.
 
@@ -302,8 +302,8 @@ periodically&, and once in a while&, on the way home from school&,
 she'd stop by his room\
 
 She'd made herself think it was a perfectly ordinary custom of theirs&,
-a continuation of the past&, and that she did
-it because they were family&.
+a continuation of the past&, and that she did it because they were
+family&.
 
 She hadn't experienced any doubts whatsoever&.
 
@@ -356,8 +356,7 @@ She spilled tears as she clung to her brother's diminuitive&, numb body&.
 //Ÿ‹ƒ‚­
 //yµŠCz
 <voice name="µŠC" class="µŠC" src="voice/ch10/20300250na">
-"I never ever&, not even once&, thought I wanted to
-forget about you&.&.&."
+"I never ever&, not even once&, thought I wanted to forget about you&.&.&."
 
 //Ÿ‹ƒ‚­
 //yµŠCz

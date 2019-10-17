@@ -33,7 +33,7 @@ function ch01_007_円山町殺人現場()
 
 	CreateBG(100, 1500, 0, 0, "cg/bg/bg024_01_3_円山町_a.jpg");
 
-//☆Cut-56――――――――――――――――――――――――――――――
+//☆Cut-56-----------------------------
 
 //ＢＧ//円山町の町並み//夜
 //ＳＥ//とても小さいレベルでピンクノイズをフェードインさせておく
@@ -94,8 +94,7 @@ district&, which overflowed with those delinquents&.
 
 //どうやら夜になって雲が出てきたらしくて、月は隠れてしまっていた。そのせいでいつもよりさらに道は暗かった。
 It seemed that clouds had come out now that it was night&,
-and the moon was hidden from view&, making the
-road darker than usual&.
+and the moon was hidden from view&, making the road darker than usual&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -123,13 +122,12 @@ road darker than usual&.
 Familiar sce<pre>n</pre>ery&. A filthy street&.
 
 //それなのに、まるで異界にでも迷い込んでしまったかのような奇妙な感覚に襲われた。
-Yet I was attacked by the peculiar sensation that I had
-gotten lost in a different world altogether&.
+Yet I was attacked by the peculiar sensation that I had gotten lost
+in a different world altogether&.
 
 //風景そのものは変わっていないのに、初めてこの場所に足を踏み入れたような。
-Although the sce<pre>n</pre>ery itself hadn't changed&,
-it was as if I were setting foot in this place
-for the first time&.
+Although the sce<pre>n</pre>ery itself hadn't changed&, it was as if I were
+setting foot in this place for the first time&.
 
 //それに、生ゴミの腐ったような匂いも漂ってくる。
 Also&, the rotten stench of raw garbage was floating in the air&.
@@ -206,7 +204,6 @@ This was a game I challenged myself with every once in a while&.
 When I heard some small noise&, even if I had the feeling that someone
 was watching me&, I played the "It'll take more than that to make me
 turn around" game&.
-
 If I turned around&, I would lose&.
 
 //視線を感じるとだいたいいつも頭の中で妄想するのは、背後にすごくおっかない顔をした幽霊とかモンスターがいる……みたいな妄想。
@@ -259,8 +256,8 @@ seemed about to start knocking&.
 Unable to bear it any longer&, I turned around&.
 
 //ゲームは負け。でも背後にはやっぱり誰もいない。車も通らない。
-I lost the game&. But there was no one behind me&, after all&. There
-weren't even cars passing&.
+I lost the game&. But there was no one behind me&, after all&.
+There weren't even cars passing&.
 
 //なんだろう、この違和感は……
 What was this sense of displacement&.&.&.
@@ -270,7 +267,7 @@ What was this sense of displacement&.&.&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-//☆Cut-57――――――――――――――――――――――――――――――
+//☆Cut-57-----------------------------
 //ピンクノイズ停止
 //ＳＥ//ノイズ停止
 	Request("SE01", UnLock);
@@ -295,8 +292,8 @@ I noticed the sound only when it stopped&. Up until then&, I had been
 hearing a sound like my ears ringing&.
 
 //それまでは鳴っていることをまったく認識してなかった。
-Up until then&, I had completely failed to recognize the
-fact that they was ringing&.
+Up until then&, I had completely failed to recognize the fact
+that they was ringing&.
 
 //そして、今度は、なにも聞こえなくなった。
 //都会のど真ん中とは思えない、嘘のような突然の静けさ。
@@ -402,8 +399,8 @@ refused to so much as twitch&, spontaneously stepped forward&.
 [text009]
 //散乱する十字架のひとつを拾い上げてみると、それは金属製で、長く伸びる先端は鋭い針のようになっていた。
 Upon picking up one of the scattered crosses&, I found that it was
-made of metal&, and its lengthy point sharpened into
-something like a needle&.
+made of metal&, and its lengthy point sharpened into something
+like a needle&.
 
 //イメージＢＧ//十字架のような形をした杭
 {	CreateBG(100, 500, 0, 0, "cg/ev/ev007_01_3_十字架杭拓巳_a.jpg");}
@@ -525,7 +522,6 @@ That&, and&, "It doesn't look real&."
 //いつもの僕だったら、恐怖のあまり情けない悲鳴を上げて腰を抜かし、その場で失禁していただろう。
 Some of the screws holding together my heart might have gotten
 blasted away; my senses might have gone numb&.
-
 If I were my usual self&, terror would have made me let out a pathetic
 scream&, collapse&, and urinate on the spot&.
 
@@ -533,7 +529,6 @@ scream&, collapse&, and urinate on the spot&.
 //そのオブジェをぼんやり眺めているうちに、杭の剣山から大量の赤い血が流れ出していることに気付いた。
 An objet d'art like a hedgehog or a bunch of flower-arranging needles&.
 A myriad stakes kept it stuck to the wall&.
-
 As I gazed mindlessly at it&, I realized that a huge quantity of red
 blood was flowing from the mountain of stakes&.
 
@@ -838,3 +833,4 @@ after me&.
 
 	DelusionOut2();
 }
+

@@ -25,7 +25,7 @@ chapter main
 ..//■ゲーム開始■
 //============================================================================//
 
-// ―――――――――― 頭から ―――――――――― //
+// ---------- 頭から ---------- //
 //本番用初期化用フラグ
 scene SelectStoryMode
 {
@@ -59,6 +59,7 @@ scene SelectStoryMode
 	{
 		call_chapter nss/boot_debug.nss;
 	}
+	
 	if($PreGameName == "boot_第一章" || $GameName == "")
 	{
 		call_chapter nss/boot_第一章.nss;

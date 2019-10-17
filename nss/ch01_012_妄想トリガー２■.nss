@@ -315,8 +315,7 @@ ended up as one of life's winners&.
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch01/01200200ta">
 "&.&.&.&.&.&.&."
 
-Having finished drinking her Coke&, Nanami looked over at me
-curiously&.
+Having finished drinking her Coke&, Nanami looked over at me curiously&.
 
 Aw&, crud&. Thanks to that daydream&, I was becoming weirdly conscious
 of her&.
@@ -475,8 +474,7 @@ But even then&, I could hear my little sister's dying screams&.
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch01/01200290na">
-"Geh&, gah&, ha&, geh&, uuuah&, aa&.&.&. ouh&.&.&. hah&.&.&.
-aah&.&.&."
+"Geh&, gah&, ha&, geh&, uuuah&, aa&.&.&. ouh&.&.&. hah&.&.&. aah&.&.&."
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch01/01200300na">
@@ -603,8 +601,7 @@ don't have any milk tea&."
 
 Ah&, wait&, she'd dr&, drunk the rest of my Coke&.&.&.!
 
-I take back what I said earlier&. I had no reason to apologize to
-her&.
+I take back what I said earlier&. I had no reason to apologize to her&.
 She ought to cu<pre>t</pre> her stomach open and kill herself&.
 
 </PRE>
@@ -752,7 +749,7 @@ to drink so much of it&, either&."
 Doesn't milk tea have about the same number of calories as Coke&.&.&.
 Plus&, I don't plan on letting you control my diet&, dammit&.
 
-Way to say that after finishing off my Coke all on your own&. Was what
+Way to say that after finishing off my Coke all on your own&. Was that
 the kind of thing you came here to tell me?
 
 </PRE>
@@ -1021,8 +1018,7 @@ popular right now!"
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch01/01200810na">
-"Haa&, of course you wouldn't know what's hot among high school
-girlsÅ\"
+"Haa&, of course you wouldn't know what's hot among high school girlsÅ\"
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch01/01200820na">
@@ -1072,14 +1068,13 @@ members get the same model&."
 "Don't&.&.&. need one&.&.&."
 
 If anything&, it would only get in the way&.
-If I had a cell phone&, Mom would make sure to call me every single
-day&.
+If I had a cell phone&, Mom would make sure to call me every single day&.
 
 If I ignored her&, she'd obviously send Nanami out as her assassin
 again&.
 
-In short&, it'd turn into more of a hassle than it already was
-before&, and I'd have to be even more careful&.
+In short&, it'd turn into more of a hassle than it already was before&,
+and I'd have to be even more careful&.
 I couldn't put up with that&.
 
 </PRE>
@@ -1170,9 +1165,8 @@ attack a babyish kid like Nanami&.&.&.
 Nanami was on the verge of tears&. Looked like my words had seriously
 gotten her down&.
 
-Hehehe&, serves you right&. That's what you get for disturbing my
-peace&. This is my quiet little form of revenge&. How d'you like them
-apples?
+Hehehe&, serves you right&. That's what you get for disturbing my peace&.
+This is my quiet little form of revenge&. How d'you like them apples?
 
 //ãÉÇ≠
 //ÅyéµäCÅz

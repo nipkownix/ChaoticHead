@@ -80,7 +80,6 @@ and caught my breath at the giant device that flew into my sight&.
 
 Noah II rose in state&.
 A chill in the air stole away my body heat&.
-
 And then there was the objet d'art that had been made to stand beside
 Noah II&.
 
@@ -1613,6 +1612,7 @@ Impaled me in the crotch&.
 "Ah&.&.&. guh&.&.&.?"
 
 I couldn't swallow what was happening&.
+
 My legs hovered in the air&.
 
 I couldn't run away&, even if I wanted to&.
@@ -1682,8 +1682,8 @@ increasing the period of time before you die&."
 
 //ÅyñÏòCê£Åz
 <voice name="ñÏòCê£" class="ñÏòCê£" src="voice/ch10/21101010nr">
-"At the very end&, your exec<pre>u</pre>tion concludes once the end of
-the stake breaks through your mouth or shoulder&."
+"At the very end&, your exec<pre>u</pre>tion concludes once the end of the stake
+breaks through your mouth or shoulder&."
 
 //ÅyñÏòCê£Åz
 <voice name="ñÏòCê£" class="ñÏòCê£" src="voice/ch10/21101020nr">
@@ -1749,8 +1749,8 @@ I'd go crazy if this continuedÅ\
 Even though&, a second ago&, I'd thought about enduring it&.
 Now&, in a shift&, I lapsed into despair&.
 
-When I considered the vast quantity of time left before I died&, every
-emotion other than despair went rushing out of me&.
+When I considered the vast quantity of time left before I died&,
+every emotion other than despair went rushing out of me&.
 Just kill me&.&.&.
 
 </PRE>
@@ -2100,8 +2100,8 @@ Not that it mattered&.
 
 I was preoccupied with inhaling&.
 
-For some time now&, I'd been spending all the strength in my body&, and
-every one of my nerves&, on that labor&.
+For some time now&, I'd been spending all the strength in my body&,
+and every one of my nerves&, on that labor&.
 
 //ÅyñÏòCê£Åz
 <voice name="ñÏòCê£" class="ñÏòCê£" src="voice/ch10/21101110nr">

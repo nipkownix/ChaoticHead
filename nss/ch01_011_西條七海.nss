@@ -47,7 +47,7 @@ function ch01_011_西條七海()
 	Delete("背景１");
 
 
-//☆Cut-64――――――――――――――――――――――――――――――
+//☆Cut-64-----------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -92,8 +92,7 @@ benefit&.
 //きたなっ＝汚い
 //【七海】
 <voice name="七海" class="七海" src="voice/ch01/01100050na">
-"Uwah&, your room's as dirty as usual&. Clean it up a little&, will
-ya?"
+"Uwah&, your room's as dirty as usual&. Clean it up a little&, will ya?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/01100060ta">
@@ -170,8 +169,8 @@ this～"
 	DeleteStand("st七海_制服_通常_pride", 0, true);}
 //【七海】
 <voice name="七海" class="七海" src="voice/ch01/01100110na">
-"At this rate&, maybe it would be better if I came and cleaned for
-you&, after all&."
+"At this rate&, maybe it would be better if I came and cleaned for you&,
+after all&."
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/01100120ta">
@@ -191,9 +190,8 @@ you&, after all&."
 //「ひっど」＝「ひどい」
 //【七海】
 <voice name="七海" class="七海" src="voice/ch01/01100150na">
-"How mean&.&.&. Is that the kind of thing you say to the little
-sister who came all the way out here to make sure you were still
-alive?"
+"How mean&.&.&. Is that the kind of thing you say to the little sister
+who came all the way out here to make sure you were still alive?"
 
 You yourself don't show your brother an ounce of respect&. Besides&,
 no one asked you to come check on my survival&.
@@ -230,7 +228,6 @@ nothing but trouble? Sometimes I hate it&."
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/01100180ta">
 "&.&.&.&.&.&.&."
-
 
 {	CreateSE("SE01","SE_人体_動作_手_冷蔵庫を開ける");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}

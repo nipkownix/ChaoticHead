@@ -220,8 +220,8 @@ trembling&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/20400150ta">
-"Even if we're not acting in tandem&, I know everything that
-all of you observe&."
+"Even if we're not acting in tandem&, I know everything that all of you
+observe&."
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/20400160ta">
@@ -304,9 +304,8 @@ And nodded as though to encourage me&.
 	DeleteStand("stçééq_ÉXÅ[Éc_í èÌ_hard", 0, true);}
 //ÅyïSê£Åz
 <voice name="ïSê£" class="ïSê£" src="voice/ch10/20400250mm">
-"Ban-chan&.&.&. ummm&, if you see a stupidly grinning&,
-suspicious-looking&, middle-aged detective&, would
-you tell him to contact me?"
+"Ban-chan&.&.&. ummm&, if you see a stupidly grinning&, suspicious-looking&,
+middle-aged detective&, would you tell him to contact me?"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

@@ -95,9 +95,8 @@ A lone man stood on the tracks&.
 Though he was in a suit&, he also wore a rucksack&, and from within it
 reverberated a nasty mechanical noise&.
 
-Suwa Mamoru&. A detective in the investigative department at police
-headquarters&.
-
+Suwa Mamoru&. A detective in the investigative department at
+police headquarters&.
 I had met this man before&.
 And―I knew what this man had done&.
 
@@ -107,8 +106,8 @@ And―I knew what this man had done&.
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch10/21700030su">
-"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire of
-your own accord for me&."
+"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire
+of your own accord for me&."
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch10/21700040su">
@@ -155,8 +154,8 @@ Suwa shook his head exaggeratedly and let out a sigh&.
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch10/21700090su">
-"I'd like you to be a teensy bit more careful about how you talk&. I'm
-your elder&, ya know?"
+"I'd like you to be a teensy bit more careful about how you talk&.
+I'm your elder&, ya know?"
 
 Without taking my eyes off Suwa&, I cautiously jumped from the platform
 down to the tracks&.
@@ -1337,8 +1336,8 @@ Darth Spider displayed no particular reaction&.
 My heart went into a tumult&.
 An emotion resembling obsession rose at the back of my brain&.
 
-A nasty old asshole had been hitting on my woman&. It pissed me off&. I
-wanted to kill him&.
+A nasty old asshole had been hitting on my woman&. It pissed me off&.
+I wanted to kill him&.
 
 That feeling&, truly coming out of left field&, drove me into motion&.
 
@@ -1720,7 +1719,6 @@ hospital corridor&.
 
 Still without any connection to my will&, my body turned to face behind
 me&.
-
 {	Stand("st志乃_白衣_通常","worry", 200, @+150);
 	FadeStand("st志乃_白衣_通常_worry", 500, false);}
 There was Hazuki Shino&, wearing a somewhat melancholy expression&.
@@ -1958,7 +1956,7 @@ I felt that sensation distinctly&.
 	CenterLog2("A clean pinkish hue&. But its shape was smashed&.","Almost like salmon roe&.", 2000);
 	ClearLog();
 
-	CenterLog3("Once I understood it was part of my own brain&, ","my dread reached the melting point&.","I begged her to stop&.", 2000);
+	CenterLog3("Once I understood it was part of my own brain&,","my dread reached the melting point&.","I begged her to stop&.", 2000);
 	ClearLog();
 
 
@@ -2666,7 +2664,7 @@ At last it showed itself&, a literal monster&, together with footsteps
 that sounded like the ground rumbling&.
 So grotesque&, nothing else like it existed anywhere on Earth&.
 
-//参考資料→http://image&.rakuten&.co&.jp/ustoy/cabinet/sw/843-1&.jpg
+//参考資料→http://image.rakuten.co.jp/ustoy/cabinet/sw/843-1.jpg
 Its brown skin glistened wetly&, and its colossal head sat low upon its
 shoulders&. Its red eyes glinted fiercely&, and its mouth was torn wide
 across its face on either side&, and its wrists were as thick around
@@ -2820,8 +2818,8 @@ Suwa's gaze penetrated me&.
 I awoke to the fact that he was the one setting this alien to work&.
 
 I told myself this was a delusion&, but it didn't do any good&.
-Faced with absolute terror and overwhelming violence&, I just sank
-down and pissed myself&. Afterward&,
+Faced with absolute terror and overwhelming violence&, I just sank down
+and pissed myself&. Afterward&,
 it was all I could do to look dazedly up at that monstrosity―
 
 </PRE>
@@ -2945,7 +2943,7 @@ so kill me―
 
 
 
-//Center文字用マクロ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+//Center文字用マクロ----------------------------------------------------------
 function CenterLog1("$文字列", 所要時間)
 {
 

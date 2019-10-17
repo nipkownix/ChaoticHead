@@ -70,7 +70,8 @@ And once I ran off&, relying on her voice&,
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	SetBacklog("There was Sena, going white as she was forced to witness a delusion I couldn't see, Kozu-pii, and―Hatano-san, blood-drenched and fallen.", "NULL", NULL);
+	SetBacklog("There was Sena, going white as she was forced to witness a delusion
+I couldn't see, Kozu-pii, and―Hatano-san, blood-drenched and fallen.", "NULL", NULL);
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -85,7 +86,7 @@ I couldn't see&, Kozu-pii&, and―Hatano-san&, blood-drenched and fallen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-//繧医≧繧・￥隕九▽縺代◆縺ｮ縺ｫ縲∵焔驕・ｌ縺縺｣縺溘↑繧薙※縲・
+I had finally found him&, but it was too late&.
 
 {	DeleteStand("st梢_制服_通常_normal", 500, true);
 	Stand("st護_スーツ_通常","normal", 200, @+150);
@@ -102,8 +103,9 @@ his gun around and around in his fingers&.
 Though he was in a suit&, he also wore a rucksack&, and from within it
 reverberated a nasty mechanical noise&.
 
-Suwa Mamoru&. A detective in the investigative department at police
-headquarters&. I had met this man before&.
+Suwa Mamoru&. A detective in the investigative department at
+police headquarters&.
+I had met this man before&.
 
 And―I knew what this man had done&.
 
@@ -113,8 +115,8 @@ And―I knew what this man had done&.
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch10/20600040su">
-"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire of your
-own accord for me&."
+"Nishijou-kun&. Thank you so&, so much for jumpin' into the fire
+of your own accord for me&."
 
 //【諏訪】
 <voice name="諏訪" class="諏訪" src="voice/ch10/20600050su">
@@ -264,7 +266,7 @@ He made an unexpected gesture&, as if he were shaking out his free hand&.
 	Delete("back05");}
 An impact&.
 Pain&.
-Abrupt sensation&.
+An abrupt sensation&.
 
 When&, startled&, I looked at my shoulder&,
 A familiar cross was protruding from it&.
@@ -285,7 +287,7 @@ All this distance&, without the slightest inaccuracy&.
 I tentatively touched the stake&.
 It felt cold and smooth&.
 
-Was this a delusion? <k>
+Was this a delusion?<k>
 Or the real thing?
 
 The pain grew steadily stronger and stronger&.

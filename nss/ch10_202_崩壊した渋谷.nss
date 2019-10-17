@@ -53,12 +53,12 @@ But I couldn't see a blue sky anywhere&.
 It seemed dispiriting&.
 An oppressive sky&.
 
-Far away rang the noisy sirens of a number of ambulances and fire
-trucks&.
+Far away rang the noisy sirens of a number of ambulances and
+fire trucks&.
 
 The shapes of helicopters circling high in the air came flying into my
-field of sight&. There were an awful lot of them swooping around&, almost
-like a swarm of flies&.
+field of sight&. There were an awful lot of them swooping around&,
+almost like a swarm of flies&.
 
 My head throbbed&.
 Like road construction was being carried out inside my skull&.
@@ -101,16 +101,18 @@ And was dumbstruck&.
 [text002]
 The sce<pre>n</pre>ery I knew so well was gone&.
 
-It was similar to the imagined spectacles of "Y2K" that had been all
-the rage about a decade ago&. Shibuya had collapsed&.
+It was similar to the imagined spectacles of "Y2K" that had been
+all the rage about a decade ago&.
+Shibuya had collapsed&.
 
 Traffic lights&, roadside trees&, a number of buildings: all lay fallen&.
 The famous jumbotron monitors around the pedestrian scramble were
 cracked and silent&.
 
-The roof over the stairs descending to the subway had caved in&, burying
-the entrance&. The Yamanote Line's overhead railway had come crashing
-down&, and the rails on the tracks had snapped&.
+The roof over the stairs descending to the subway had caved in&,
+burying the entrance&.
+The Yamanote Line's overhead railway had come crashing down&,
+and the rails on the tracks had snapped&.
 
 And many&, many people lay everywhere&.
 Blood and scraps of flesh clung to the wreckage&.
@@ -255,8 +257,8 @@ His whereabouts were currently unknown&.
 I'd never met him&.
 No&, we might've had a near miss&.
 
-According to Kozu-pii&, he appeared here and there in Shibuya&, looking
-like a homeless person&.
+According to Kozu-pii&, he appeared here and there in Shibuya&,
+looking like a homeless person&.
 
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch10/20200080ta">
@@ -292,8 +294,8 @@ Even so&, all I could do for now was look for him&.
 However light "Shogun" may have been&, he was still around twenty
 kilograms&.
 
-I didn't have the stamina to walk around Shibuya carrying
-himÅ\especially not with the roads so jagged and uneven&.
+I didn't have the stamina to walk around Shibuya carrying him
+Å\especially not with the roads so jagged and uneven&.
 
 Anyhow&, there were no prior instances of me having gotten any proper
 exercise&. Since sitting in front of my PC was my daily routine&.
@@ -321,7 +323,8 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 	CreateVOICE("Ç†Ç‚ÇπÇP","ch10/20200100ay");
 	SoundPlay("Ç†Ç‚ÇπÇP",0,1000,false);
 
-	SetBacklog("Bite the sand   Bite the sand   Bathed in suffering   Like being with child", "voice/ch10/20200100ay", Ç†Ç‚Çπ);
+	SetBacklog("Bite the sand   Bite the sand
+Bathed in suffering   Like being with child", "voice/ch10/20200100ay", Ç†Ç‚Çπ);
 
 //ÅüÅ¶Ç†Ç‚ÇπÇ™âÃÇå˚Ç∏Ç≥Çﬁê∫Ç™ï∑Ç±Ç¶ÇƒÇ≠ÇÈÅBÇrÇdàµÇ¢Ç≈Ç‡Ç¢Ç¢Ç©Ç‡Ç≈Ç∑
 //ÅüÅ¶ë}ì¸âÃÇÃÇQî‘Çå˚Ç∏Ç≥Çﬁ
@@ -331,15 +334,18 @@ Wiping the sweat off my forehead&, I paused to collect my breathing&.
 [text006]
 //ÅyÇ†Ç‚ÇπÅz
 //<voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch10/20200100ay">
-"Bite the sand   Bite the sand   Bathed in suffering   Like being with child"
+"Bite the sand   Bite the sand
+Bathed in suffering   Like being with child"
 
 {	SoundStop2("Ç†Ç‚ÇπÇP");
 	CreateVOICE("Ç†Ç‚ÇπÇQ","ch10/20200110ay");
 	SoundPlay("Ç†Ç‚ÇπÇQ",0,1000,false);
-	SetBacklog("The aftermath of the needle   Tracing an arc   Exchanges emptiness for pleasure   And now gazes up at the heavens", "voice/ch10/20200110ay", Ç†Ç‚Çπ);}
+	SetBacklog("The aftermath of the needle   Tracing an arc
+Exchanges emptiness for pleasure   And now gazes up at the heavens", "voice/ch10/20200110ay", Ç†Ç‚Çπ);}
 //ÅyÇ†Ç‚ÇπÅz
 //<voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch10/20200110ay">
-"The aftermath of the needle   Tracing an arc   Exchanges emptiness for pleasure   And now gazes up at the heavens"
+"The aftermath of the needle   Tracing an arc
+Exchanges emptiness for pleasure   And now gazes up at the heavens"
 
 {	SoundStop2("Ç†Ç‚ÇπÇQ");
 	CreateVOICE("Ç†Ç‚ÇπÇR","ch10/20200120ay");
@@ -499,8 +505,8 @@ I thought back over Rimi's words&.
 //âÒëzÉZÉäÉt
 //Åyóúê[Åz
 <voice name="óúê[" class="óúê[" src="voice/ch10/20200210ri">
-"The more you delude yourself&, the more it shaves away
-the life of the real you&."
+"The more you delude yourself&, the more it shaves away the life
+of the real you&."
 
 {	Fade("back10", 100, 1000, null, true);
 	Delete("back03");
@@ -674,8 +680,7 @@ Yua&.
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch10/20200350yu">
-"Um&.&.&. for some reason&, all of a sudden&.&.&.
-this crack appeared&.&.&."
+"Um&.&.&. for some reason&, all of a sudden&.&.&. this crack appeared&.&.&."
 
 //ÅyóDà§Åz
 <voice name="óDà§" class="óDà§" src="voice/ch10/20200360yu">
@@ -700,8 +705,8 @@ Ayase helped as well&.
 	MusicStart("SE01", 0, 300, 0, 1000, null, false);
 	CreateSE("SE02","SE_è’åÇ_ÉhÉìÉKÉâÉKÉbÉVÉÉÅ[Éì");
 	MusicStart("SE02", 0, 200, 0, 1000, null, false);}
-When the two of us pulled at Yua's hand with all our strength&, she
-escaped the wreckage rather speedily&.
+When the two of us pulled at Yua's hand with all our strength&,
+she escaped the wreckage rather speedily&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -762,8 +767,8 @@ hesitated&.
 //Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\Å\
 <PRE box00>
 [text012]
-The form of the Nanami who had turned to particles yesterday&, and
-dissolved before my eyes&, flitted across the back of my brain&.
+The form of the Nanami who had turned to particles yesterday&,
+and dissolved before my eyes&, flitted across the back of my brain&.
 
 Å\No&, this Nanami had to be the real Nanami&.
 
@@ -810,8 +815,8 @@ Nanami's right hand really had been&.&.&.
 "Uu&.&.&. uu&.&.&."
 
 Groans spilled forth from Nanami's mouth&.
-Her dust-coated face&. When I softly brushed her on the cheek&, Nanami's
-eyelids slitted open&.
+Her dust-coated face&. When I softly brushed her on the cheek&,
+Nanami's eyelids slitted open&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

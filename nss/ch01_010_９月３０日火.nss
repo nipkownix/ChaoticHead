@@ -26,7 +26,7 @@ function ch01_010_９月３０日火()
 	SystemSet();
 
 
-//☆Cut-61――――――――――――――――――――――――――――――
+//☆Cut-61-----------------------------
 
 //ＢＧ//黒
 	CreateColor("背景１", 100, 0, 0, 800, 600, "Black");
@@ -128,8 +128,7 @@ Neidhardt>ANGEL HALO HAS ARRIVED!!!11!!1!!1{#TIPS_ｋｔｋｒ = true;}
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/01000020ta">
 //「こ、これはさっそく使わないと……えーっと、装備装備……」
-"I&, I've gotta hurry up and use this&.&.&. Ummm&, equipment&,
-equipment&.&.&."
+"I&, I've gotta hurry up and use this&.&.&. Ummm&, equipment&, equipment&.&.&."
 
 //ＳＥ//扉を乱暴に叩く音30％
 {	CreateSE("SE02","SE_人体_動作_手_扉叩く02_Loop");
@@ -152,7 +151,7 @@ Hey&, look look look&, take a look&, Grim!"
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-//☆Cut-62――――――――――――――――――――――――――――――
+//☆Cut-62-----------------------------
 
 //	CreateMovie("ナイトハルト", 100, 0, 0, true, false, "dx/mvNH01.ngs");	
 //	Request("ナイトハルト", Play);
@@ -177,7 +176,7 @@ SW>Chill out&, Neidhardt
 <PRE @box02>
 [text006]
 //グリム＞ナイトハルト自重しろ
-GRIM>Chill out&, Neidhardt
+Grim>Chill out&, Neidhardt
 </PRE>
 	SetMmo($SYSTEM_present_preprocess,$SYSTEM_present_text,#FFFFFF);
 	SoundMmo(0,0,false);
@@ -196,7 +195,7 @@ Sister Centipede>Chill out&, Neidhardt
 //エンスーＣＨＡＴ終了
 
 //演出：ここセリフ分割してみました。
-//☆Cut-63――――――――――――――――――――――――――――――
+//☆Cut-63-----------------------------
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -220,9 +219,8 @@ Hehehehehe&."
 	SoundPlay("ななみ１",0,300,false);
 }
 //ずっと探し求めていた超レアアイテムのひとつが手に入って、僕は興奮状態だった。憂鬱な気分はすっかり吹き飛んでいた。
-Having gotten my paws on an ultra-rare item I'd searching
-for forever&, I was in hyper mode&. My depression
-had been completely blown away&.
+Having gotten my paws on an ultra-rare item I'd searching for forever&,
+I was in hyper mode&. My depression had been completely blown away&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -266,8 +264,8 @@ had been completely blown away&.
 	SoundPlay("ななみ１",0,400,false);
 }
 //エンジェルハィロゥって言えば、ドロップ率０．０００１％っていう幻のアイテムなんだぞ！
-I'm telling you&, an Angel Halo is a phantasmical
-item with a drop rate of 0&.0001%!
+I'm telling you&, an Angel Halo is a phantasmical item
+with a drop rate of 0&.0001%!
 
 //ＳＥ//扉を乱暴に叩く音5secF/up50％
 //ＳＥ//七海「おにぃー」音5secF/up50％
@@ -277,11 +275,10 @@ item with a drop rate of 0&.0001%!
 	SoundPlay("ななみ１",0,600,false);
 }
 //その効果はキャラの外見が変わるだけっていう、ちっとも役に立たないアイテムなんだけど、逆に言えば一目でエンジェルハィロゥを持ってるって周囲に分かるから、羨望の眼差しを受けること間違いなしだ。
-Its only effect is to change your character's appearance&, and it
-doesn't have any practice use&.
-
-But on the flipside&, since those around you could tell at a glance
-if you had one&, you'd be the object of many envious stares&.
+Its only effect is to change your character's appearance&,
+and it doesn't have any practice use&. But on the flipside&,
+since those around you could tell at a glance if you had one&,
+you'd be the object of many envious stares&.
 
 {	CreateVOICE("ななみ１","ch01/01000100na");
 	SoundPlay("ななみ１",0,800,false);}
@@ -354,8 +351,8 @@ S&, shit&.&.&.
 A stormy period of time was about to start&.
 
 //ホントは開けたくないけど、そんなことをしたら今度は両親が駆けつけてきて"やっぱりひとり暮らしはやめて実家に戻ってきなさい"って言われてしまう……。
-I really didn't want to open it&, but if I didn't&, she'd run back to my
-parents&, and they'd tell me&, "You should give up on living alone&,
+I really didn't want to open it&, but if I didn't&, she'd run back to
+my parents&, and they'd tell me&, "You should give up on living alone&,
 after all&. Come back home&.&.&."&.
 
 //ここのビルのオーナーは実質的には父さんだから、圧力をかけて僕を追い出すことなんて朝飯前だろう。

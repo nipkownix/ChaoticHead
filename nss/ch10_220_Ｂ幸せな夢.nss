@@ -149,7 +149,7 @@ lifestyle and start seriously attending school&.
 	DeleteStand("bu梨深_制服_正面_normal", 0, true);}
 //【梨深】
 <voice name="梨深" class="梨深" src="voice/ch10/22000050ri">
-"It makes me happy&, getting go to school with you again&, Taku&."
+"It makes me happy&, getting to go to school with you again&, Taku&."
 
 Rimi said as she cracked an egg&.
 
@@ -343,8 +343,8 @@ Apparently Nanami had settled on Rimi as her target&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text101]
-Barging into the room&, she dragged over my computer chair and sat in
-front of Rimi&.
+Barging into the room&, she dragged over my computer chair and sat
+in front of Rimi&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -429,8 +429,8 @@ I pulled a ginormous spit-take&.
 //◆笑いながら
 //【七海】
 <voice name="七海" class="七海" src="voice/ch10/22000300na">
-"I was joking&. Geez&, it'll be kind of issuematic for me if you take
-it seriously&."
+"I was joking&. Geez&, it'll be kind of issuematic for me if you
+take it seriously&."
 
 Haa&.&.&. try not to surprise me so much&.&.&.
 

@@ -194,8 +194,7 @@ No one moves&. <?>
 No one lives&.
 {WaitKey(2500);}
 //聞こえるのはただ、降り続ける雨の音だけ。
-The only thing audible is the sound of the rain&,
-continuing to fall&.
+The only thing audible is the sound of the rain&, continuing to fall&.
 {WaitKey(4500);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -288,8 +287,7 @@ Over to him&, lying limp in the rubble&.
 It's my fault he's ended up like this&.
 {WaitKey(2500);}
 //あたしがもっとうまくやっていれば、彼を巻き込まずに済んだんだ。
-If I handled things better&, he wouldn't
-have needed to become involved&.
+If I handled things better&, he wouldn't have needed to become involved&.
 {WaitKey(4000);}
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1107,7 +1105,7 @@ I stretch my hand toward the sky&.
 
 //誰か、<k>
 //教えて、
-Somebody&, <k>
+Somebody&,<k>
 tell me&,
 
 //あたしたちのあの空は、何処へいっちゃったんだろう――

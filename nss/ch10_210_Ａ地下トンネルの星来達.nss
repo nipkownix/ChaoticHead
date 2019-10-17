@@ -90,8 +90,8 @@ parted&. She had said the following&.
 //ÅüêSîzÇªÇ§
 //ÅyèΩÅz
 <voice name="èΩ" class="èΩ" src="voice/ch10/21000010ko">
-"Lots of mushy-squishy&, sloppy-slushy consciousnesses are lying
-in wait out there&."
+"Lots of mushy-squishy&, sloppy-slushy consciousnesses are lying in wait
+out there&."
 
 //ÅüêSîzÇªÇ§
 //ÅyèΩÅz
@@ -499,11 +499,11 @@ Even so&, I couldn't let myself get held up here&.&.&.&.
 "So fun&, so fun!"
 
 The individual Seira-tans began talking on their own&, all as they
-pleased&. Their voices became a deluge and threatened to swallow me&.
+pleased&.
+Their voices became a deluge and threatened to swallow me&.
 
 I had to stop thinking of them as Seira&,
 I told myself&.
-
 In order to continue forward&, I took a swing at the Seiras blocking my
 path&.
 
@@ -1068,7 +1068,6 @@ But I didn't especially mind&.
 I was a delusionary existence&, anyway&.
 
 The kind of existence that would probably disappear on the morrow&.
-
 I didn't care how much I got hurt&.
 
 As long as I could rescue Rimi&.
@@ -1150,8 +1149,8 @@ whatsoever&.
 
 I tripped and fell&.
 As I fell&.
-I used my right hand&, resonant with pain&, to make sure my
-Di-Sword was still there&.
+I used my right hand&, resonant with pain&, to make sure my Di-Sword
+was still there&.
 
 I clenched my crushed left hand in an effort to push myself back up&.
 {	CreateSE("SE02","SE_è’åÇ_ë≈åÇ_â£ÇÈ");
@@ -1350,8 +1349,8 @@ I had the hallucination that my nerves were burning apart&.
 My entire body went hot&.
 
 At this point&, the pain in my bones went rippling through my whole
-body&, instead of being confined to my arm&. As though my entire
-body was breaking&.
+body&, instead of being confined to my arm&. As though my entire body
+was breaking&.
 
 I heard a voice like a beast growling&.
 I wondered whose voice it was&, and it turned out to be emerging from my

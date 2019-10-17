@@ -59,8 +59,8 @@ and nodded in satisfaction&.
 
 //Åyíñï@Åz
 <voice name="íñï@" class="íñï@" src="voice/ch10/20900010ih">
-"I wondered how things would turn out when you declared you would
-kill 5&,000 people&."
+"I wondered how things would turn out when you declared you would kill
+5&,000 people&."
 
 //ÅyëqéùÅz
 <voice name="ëqéù" class="ëqéù" src="voice/ch10/20900020kr">
@@ -76,8 +76,8 @@ Norose bowed his head slightly&.
 
 //Åyíñï@Åz
 <voice name="íñï@" class="íñï@" src="voice/ch10/20900040ih">
-"But now that this has been completed&, it makes 5&,000 people seem like
-a piddling number&."
+"But now that this has been completed&, it makes 5&,000 people seem
+like a piddling number&."
 
 //ÅyëqéùÅz
 <voice name="ëqéù" class="ëqéù" src="voice/ch10/20900050kr">
@@ -110,7 +110,7 @@ Norose watched them without lifting an eyebrow&.
 "Whatever might you be speaking of?"
 
 With a vulgar&, insinuating grin&,
-Inohana jerked his jaw at the "work of art" standing beside Noah II&.
+Inohana jerked his jaw at the "objet d'art" standing beside Noah II&.
 
 //Åyíñï@Åz
 <voice name="íñï@" class="íñï@" src="voice/ch10/20900090ih">
@@ -409,8 +409,8 @@ lumps of flesh&.
 "You Philistines seem not to have understood that&."
 
 The "demonstration" that Norose showed the two of them hadn't ended
-with producing the guns&. He had made them mistake each other for
-him&, and forced them to kill each other&.
+with producing the guns&. He had made them mistake each other for him&,
+and forced them to kill each other&.
 
 Everything up until then had been part of the "demonstration&."
 

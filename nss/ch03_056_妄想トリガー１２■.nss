@@ -337,7 +337,7 @@ She was cursing me or something&, it must be black magic&.&.&.!
 	Shake("ƒ‹[ƒ€", 300, 5, 5, 0, 0, 300, null, true);}
 In hopes of opening even a little distance between me and her&, I
 decided to flee beneath my computer desk&. But I was so shaken that I
-hit my head on the edge of the deck and curled up in pain on the spot&.
+hit my head on the edge of the desk and curled up in pain on the spot&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -2115,7 +2115,7 @@ She was cursing me or something&, it must be black magic&.&.&.!
 	Shake("ƒ‹[ƒ€", 300, 5, 5, 0, 0, 300, null, true);}
 In hopes of opening even a little distance between me and her&, I
 decided to flee beneath my computer desk&. But I was so shaken that I
-hit my head on the edge of the deck and curled up in pain on the spot&.
+hit my head on the edge of the desk and curled up in pain on the spot&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

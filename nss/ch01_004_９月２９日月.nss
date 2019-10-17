@@ -29,7 +29,7 @@ function ch01_004_９月２９日月()
 	Fade("背景１", 0, 1000, null, false);
 
 	Wait(1000);
-//☆Cut-49――――――――――――――――――――――――――――――
+//☆Cut-49-----------------------------
 //イメージＢＧ//ＰＣ画面に最低登校シフト表
 //９月２９日（月）//日付は表示しない
 	CreateTextureEX("登校シフト", 100, 0, 0,"cg/bg/bg010_01_1_最低登校シフト表_a.jpg");
@@ -78,16 +78,15 @@ A god-like existence like mine has many allies&, but also many enemies&.
 //そういうのはスルーするに限るよ。
 Well&, the enemies were basically a kind of side effect of the
 popularity&. Of course they'd be there&. People who envied
-Neidhardt's strength and popularity childishly tried to
-provoke me&. <k> It was just a matter of ignoring them&.
+Neidhardt's strength and popularity childishly tried to provoke me&.<k>
+It was just a matter of ignoring them&.
 
 //って、そんなことは今はどうでもいいんだ。
 But this was different&.
 
 //とにかく、あの将軍ってのが何者なのか、それが気になっちゃって、その後ログインしたエンスーでの狩りもまったく集中できなかった。
-The fact that I had no clue who Shogun was worried me
-to the point where when I logged into ESO&, I couldn't
-concentrate at all on hunting&.
+The fact that I had no clue who Shogun was worried me to the point
+where when I logged into ESO&, I couldn't concentrate at all on hunting&.
 
 //しかも、よりによって今日は……
 On top of it all&, today was&.&.&.
@@ -112,7 +111,7 @@ On top of it all&, today was&.&.&.
 
 	Wait(2000);
 
-//☆Cut-50――――――――――――――――――――――――――――――
+//☆Cut-50-----------------------------
 //ＢＧ//ＫＵＲＥＮＡＩ会館ビル前//朝
 //ＳＥ//何羽かのカラスの鳴き声
 	CreateSE("SE02","SE_自然_動物_カラス_鳴き声_Loop");
@@ -126,8 +125,8 @@ On top of it all&, today was&.&.&.
 <PRE box00>
 [text002]
 //残念ながら、今日は学校に行かなくちゃいけない日なんだ。
-It was a SCHOOL DAY&. According to my
-"minimum attendance shift chart"&, I had to go&.
+It was a SCHOOL DAY&. According to my "minimum attendance shift chart"&,
+I had to go&.
 
 //ホントは行きたくないんだけど、僕の作った『最低登校シフト表』通りにしないと、後で計算が狂って最悪の場合留年っていうことになりかねない。
 I really didn't want to&, but if I didn't go by my "minimum attendance
@@ -175,13 +174,12 @@ same&, head down&, watching the asphalt's white line&.
 I entered Shoutou Park&. The school is right on the other side&.
 
 //公園内にある池のほとりには、朝の散歩をしている初老の夫婦と、ベンチに座ってスポーツ新聞を読んでいるサラリーマンの姿があった。
-Housewives took their morning walks&, and salarymen sat
-on the benches reading sports newspapers around the park's pond&.
+Housewives took their morning walks&, and salarymen sat on the benches
+reading sports newspapers around the park's pond&.
 
 //渋谷っていう大都市の外れにある公園にしてはここは静かで、憩いの場っていう表現がぴったりだった。
-Even though Shibuya was so crowded and noisy&, the
-park on the outskirts was quiet and perfectly fit the expression&,
-"a place for relaxation&."
+Even though Shibuya was so crowded and noisy&, the park on the outskirts
+was quiet and perfectly fit the expression&, "a place for relaxation&."
 
 //僕もベンチのひとつに腰掛ける。
 I sat down on one of the benches too&.
@@ -203,6 +201,7 @@ No one wanted to eat lunch with a creepy otaku like me&, and I had no
 interest in eating lunch by myself while everyone around me merrily ate
 together&.
 
+//☆☆☆
 //クリームパンをコーラでかき込んでから、僕はぼんやりと空を見上げた。
 After finishing my cream-filled bread with some Coke&, I gazed
 listlessly up at the sky&.

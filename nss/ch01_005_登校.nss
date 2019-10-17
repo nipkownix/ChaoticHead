@@ -30,7 +30,7 @@ function ch01_005_登校()
 	CreateColor("背景１", 100, 0, 0, 800, 600, "Black");
 	Fade("背景１", 500, 1000, null, true);
 
-//☆Cut-51――――――――――――――――――――――――――――――
+//☆Cut-51-----------------------------
 //ＢＧ//校門//朝
 	CreateBG(100, 1000, 0, 0, "cg/bg/bg016_01_0_学校校門_a.jpg");
 
@@ -48,8 +48,9 @@ I "attend" Suimei Private Academy&.
 //それほど歴史はなくて、１０年くらい前に設立されたって聞いてる。<k>
 //だから校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われる。
 It doesn't have much of a history; I hear that it was founded about
-ten years ago&.<k> The building is neat and trim-looking&, and
-a lot of TV dramas about teaching are shot there&.
+ten years ago&.<k>
+The building is neat and trim-looking&, and a lot of TV dramas
+about teaching are shot there&.
 
 //それと、制服を有名デザイナーがデザインしたらしくて、女子の中にはこの学校の制服を着たいがために入学してくるバカも多い。
 The uniforms were apparently designed by a famous designer&, so quite a
@@ -62,12 +63,12 @@ on to college is at the upper-middle level&.
 
 //校則は厳しいくせに、新入生向けの売り文句は『自由な校風』だから笑わせる。
 Hilariously enough&, they use the blurb "a free&, creative school
-atmosphere" as a selling point for new students&, regardless
-of the fact that the school regulations are very strict&.
+atmosphere" as a selling point for new students&, regardless of
+the fact that the school regulations are very strict&.
 
 //まあ、校則なんてほとんど有名無実化してるけど。<k>
 //それに確かに自由な校風っていうのもあながち間違ってない。
-Although the rules are in the process of becoming rules only in name&. <k>
+Although the rules are in the process of becoming rules only in name&.<k>
 Besides&, it isn't entirely off the mark to describe it as a free&,
 creative school atmosphere I guess&.
 
@@ -77,9 +78,9 @@ rising to the next grade like anyone else&.
 
 //学校の前まで行くと、さすがに登校してくる生徒たちで騒がしくなる。<k>
 //でも僕は人混みが苦手だから、うつむいたままで校門をくぐった。
-As might have been expected&, when I reached the front of school&, the
-other students on their way there started getting noisy&. <k> But since
-I'm not so good with crowds&, I hunched over as I passed
+As might have been expected&, when I reached the front of school&,
+the other students on their way there started getting noisy&.<k>
+But since I'm not so good with crowds&, I hunched over as I passed
 through the school gates&.
 
 </PRE>
@@ -102,8 +103,8 @@ In my heart&, I went on fervently reciting&,
 "No one talk to me&. No one talk to me&," over and over&.
 
 //この学校には、ひとつ年下の妹も実家から通ってる。<k>
-My little sister&, who's one year younger&, goes to this
-school too&, but she lives with my parents&. 
+My little sister&, who's one year younger&, goes to this school too&,
+but she lives with my parents&.
 
 //あいつと遭遇した日には悲劇だ。
 A day when I run into her is a tragic day indeed&.
@@ -134,8 +135,8 @@ her and in one piece&.
 I quickly took my seat&, so as not to meet anyone's eyes&.
 
 //近くで談笑していた数人の女子が僕に視線を投げかけてきた気がしたけど、それも一瞬で、なにも言わずにまた談笑に戻ったみたいだ。
-I had the feeling that the group of girls chatting nearby tossed me a
-look&, but it was only for a second&, and they went back to their
+I had the feeling that the group of girls chatting nearby tossed me
+a look&, but it was only for a second&, and they went back to their
 conversation without saying anything&.
 
 //どうせこいつら、心の中では僕のことをキモいとか思ってるに違いない。
@@ -218,10 +219,9 @@ My classmate&, Misumi Daisuke-kun&, was giving me a grin&.
 He was pretty good looking and all the girls seemed to like him&.
 
 //しかも本人が自ら女好きを公言していて、常に何人かと同時に付き合っているっていうんだから、僕からしてみれば完全にＤＱＮの領域に足を突っ込んでいる男だ。
-He himself openly declared how much he liked women&, and for
-him to say he was dating several people at once.&. From my
-perspective&, he was a guy who'd jumped fully into delinquent
-territory&.
+He himself openly declared how much he liked women&, and for him to say
+he was dating several people at once&. From my perspective&, he was a guy
+who'd jumped fully into delinquent territory&.
 
 //できれば関わり合いにはなりたくないところなんだけど……。
 If possible&, I'd have preferred to not have any connection
@@ -241,8 +241,7 @@ to him at all&, but&.&.&.
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500040mi">
 //「相変わらず暗い顔してんなー。ゲームのやり過ぎで寝不足か？」
-"You always look down&. Too much gaming and not enough
-sleep?"
+"You always look down&. Too much gaming and not enough sleep?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00500050ta">
@@ -277,8 +276,8 @@ But&, being a guy&, I don't know why he talked to me&.
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500060mi">
 //「引きこもりだからしゃーねーかもしんねえけどよ、もっとこう、ハキハキ答えろって」
-"I guess there's no avoiding it&, you are a hikikomori&,
-but come on&, try answering a little more cheerfully&."
+"I guess there's no avoiding it&, you are a hikikomori&, but come on&,
+try answering a little more cheerfully&."
 
 //そうできたらとっくにしてるよ。
 If I could&, I'd have done so a long time ago&.
@@ -400,7 +399,7 @@ Tanaka&."
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500180mi">
 //「お前、もうすぐ１０月だってのにいまだに同じクラスのヤツの顔覚えてねーのか」
-"It's almost October&, and you still don't know your classmates names?"
+"It's almost October&, and you still don't know your classmates' names?"
 
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500190mi">
@@ -416,8 +415,8 @@ However&, up until the present&, he had never once belittled me for my
 hobby―that is&, the fact that I love 2-D characters&.
 
 //"キモい"って言ったりしない。自分の趣味じゃないことに関しては踏み込んでこないんだ。
-He didn't call me "creepy" or anything&. It wasn't to his tastes&, so he
-didn't overstep himself&.
+He didn't call me "creepy" or anything&. It wasn't to his tastes&,
+so he didn't overstep himself&.
 
 //そういうところを見ると、悪いヤツじゃないって思える。だから、彼が話しかけてくるとついつい相手をしちゃうのかもしれない。
 Looking at that side of him&, he didn't seem like such a bad guy&. This
@@ -458,8 +457,8 @@ If the girls overhead this&, I think they'd be appalled&.
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500220mi">
 //「Ｄ組によー、滅多に学校来ねーけどすごくいい女がいるらしいんだよ」
-"I hear there's a real hottie in Class D&, but she only comes to
-school every once in a while&."
+"I hear there's a real hottie in Class D&, but she only comes to school
+every once in a while&."
 
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500230mi">
@@ -496,7 +495,7 @@ knowing what it means&.
 
 //その単語が彼の口から出てきたことは、正直なところ意外だった。<k>
 //彼は女のことしか考えていない人間だって思っていたから。
-Honestly&, it surprised me to hear those words coming out of his mouth&. <k>
+Honestly&, it surprised me to hear those words coming out of his mouth&.<k>
 I had thought he was a person who didn't think about anything other
 than women&.
 
@@ -550,8 +549,9 @@ killer is female&, and on top of that&, a real beauty&."
 //奮気味に言う三住くんを見て、ようやく合点がいった。<k>
 //どうして三住くんは、普段見向きもしないスポ東を突然読んだのか。
 As I watched Misumi-kun tell me this excitedly&, the dots finally
-connected&. <k>I saw why Misumi-kun had suddenly started reading the sports
-paper&, which he normally wouldn't have given the time of day&.
+connected&.<k>
+I saw why Misumi-kun had suddenly started reading the sports paper&,
+which he normally wouldn't have given the time of day&.
 
 //結局は女がらみっていうことだ。当然と言えば当然のオチ。
 It had to do with a girl&. I guess you could call this a natural
@@ -649,8 +649,8 @@ to maneuver my way into graduating even with insufficient attendance&.
 <voice name="三住" class="三住" src="voice/ch01/00500360mi">
 //「なあ、今日俺と一緒に殺人現場見に行かね？　ここから歩いて行けんだってよ。まだ血とか残ってるらしいぞ」
 "Look&, wanna come check out the crime sce<pre>n</pre>e with me today?
-We can get there by walking from here&. Sounds like there's
-still blood and stuff left over&."
+We can get there by walking from here&. Sounds like there's still
+blood and stuff left over&."
 
 //そんなのまったくこれっぽっちも興味はなかった。
 I had absolutely zero interest in doing so&.
@@ -672,12 +672,12 @@ a god&.
 
 {	SetTrigger("１");}
 //すっかり盛り上がっている三住くんには悪いけど、付き合っていられない。
-I felt bad for turning down Misumi-kun&, who was getting so into it&, but
-I couldn't go along with this&.
+I felt bad for turning down Misumi-kun&, who was getting so into it&,
+but I couldn't go along with this&.
 
 //だからなんとか断りを入れようと声を絞り出したけど、彼は聞いてなかった。
-So I squeezed out my voice with the intention of somehow
-refusing him&, but he wouldn't listen&.
+So I squeezed out my voice with the intention of somehow refusing him&,
+but he wouldn't listen&.
 
 //【三住】
 <voice name="三住" class="三住" src="voice/ch01/00500390mi">
@@ -689,8 +689,8 @@ said that the criminal returns to the sce<pre>n</pre>e of the crime?"
 <voice name="三住" class="三住" src="voice/ch01/00500400mi">
 //「で、次はタクがターゲットにされるんだ。死をもって罪を償え、みたいな。罪状は、そうだなぁ……引きこもってたからってことで」
 "And&, you'll be her next target&. Repay your sins with death&,
-that kind of thing&. As for the nature of your offense&,
-let's see&.&.&. how about because you're a shut-in?"
+that kind of thing&. As for the nature of your offense&, let's see&.&.&.
+how about because you're a shut-in?"
 
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00500410ta">

@@ -825,7 +825,8 @@ completion&."
 	if($バット == 1)
 	{
 		$Ａエンドエピローグ = false;
-	}else{
+	}else
+	{
 		$Ａエンドエピローグ = true;
 	}
 

@@ -53,7 +53,7 @@ if($GameDebugSelect == 1)
 }
 
 
-//☆Cut-58――――――――――――――――――――――――――――――
+//☆Cut-58-----------------------------
 
 
 //ＢＧ//拓巳の部屋
@@ -183,9 +183,9 @@ That's impossible&, that's impossible&, that's impossible&.
 //頭を抱えて、部屋の中をウロウロと歩き回ってみる。とにかくさっき見た凄惨な光景が、現実だったのか妄想だったのか、はっきりさせよう。
 //DO NOT REMOVE pre TAGS ~DeiEx
 //Displaying the word scene here crashes the program
-Hugging my head&, I stumbled aimlessly around my room&. For starters&, I
-had to find out whether the ghastly scen<pre>e</pre> I'd witnessed just
-a little while ago had been reality or the product of my delusions&.
+Hugging my head&, I stumbled aimlessly around my room&. For starters&,
+I had to find out whether the ghastly scen<pre>e</pre> I'd witnessed just a little
+while ago had been reality or the product of my delusions&.
 
 {	MoveCube("ルーム", 1000, @+100, @0, @-100, Dxl2, true);
 	Rotate("ルーム", 500, @-50, @+70, @-50, Dxl2, true);}
@@ -220,8 +220,8 @@ What I grasped was the edge of the shelf where my wives were lined up&.
 Shit&, I thought&, but it was already too late&.
 
 //僕は結局身体を支えきれずに腰から床に倒れ込み、その僕の上に、キレイに並んでいたフィギュアたちが大量に降ってきた。
-Unable to support myself&, I collapsed on the floor&. Above me&, my
-prettily arranged figures came pouring down in huge numbers&.
+Unable to support myself&, I collapsed on the floor&. Above me&,
+my prettily arranged figures came pouring down in huge numbers&.
 
 //うう、くっそ……。
 //最悪だ。なにもかも最悪だ……。
@@ -233,7 +233,6 @@ This was bad as it got&. Everything was at its absolute worst&.&.&.
 	MoveCube("ルーム", 1000, 0, 0, 0, null, true);}
 //うめき声を上げながら立ち上がり、フィギュアが無事かどうかを確かめる。
 I stood up&, groaning&, and checked to see whether my figures were safe&.
-
 
 {	CreateTextureEX("back05", 100, 0, 0, "cg/bg/bg114_01_3_イグニス_a.jpg");
 	Fade("back05", 500, 1000, null, true);}
@@ -312,8 +311,8 @@ swordless Ignis and getting depressed&.
 //怒りとか混乱の嵐が過ぎ去ると、
 //やがて脳裏に浮かぶのは"彼女"の顔や"オブジェ"の光景だけになった。
 When the storm of rage and confusion finished passing through me&,
-"Her" face and the tableau of the "objet d'art" finally
-rose up at the back of my brain&.
+"Her" face and the tableau of the "objet d'art" finally rose up
+at the back of my brain&.
 
 //僕が杭を持っていたっていうことは、あれは妄想じゃなくて現実だったっていうことになる。
 The fact that I still had the stake meant it had been reality&, not my
@@ -339,8 +338,7 @@ Because I'd brought home a deadly weapon&, a precious piece of evidence&.
 It wouldn't odd for people to suspect me of being the perpetrator&.
 
 //しかも……しかも、あの悪魔に、顔を見られた……。
-On top of it all&.&.&. on top of it all&, that demon had
-seen my face&.&.&.
+On top of it all&.&.&. on top of it all&, that demon had seen my face&.&.&.
 
 //この出来事からは逃げられないよ……。
 //次は……僕があの悪魔に……。
@@ -350,8 +348,7 @@ Next time&.&.&. the demon would come after me&.&.&.
 //とにかく、整理をしよう……。
 //自分の為に。自分が生き残る為に、整理をするんだ……。
 For now&, I should put my thoughts in order&.&.&.
-For my own sake&. For the sake of surviving&, I had to get
-organized&.&.&.
+For my own sake&. For the sake of surviving&, I had to get organized&.&.&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -525,8 +522,8 @@ You mustn't heed what anyone says&."
 //【星来】
 <voice name="星来" class="星来" src="voice/ch01/00800160se">
 //「悪魔ってさ、人の心の隙間をついてくるのが好きなんだよね～。油断すんのはＮＯ！」
-"Demons&, you know&, they like using the gaps in people's hearts～ Being
-caught off-guard is a NO!"
+"Demons&, you know&, they like using the gaps in people's hearts～
+Being caught off-guard is a NO!"
 
 //【星来】
 <voice name="星来" class="星来" src="voice/ch01/00800170se">
@@ -585,8 +582,8 @@ Well said&. As expected from a wife of mine&.
 <PRE box00>
 [text009]
 //僕はすっかり前向きになって、星来たんの細い腰をそっとつかんだ。僕が顔を近づけても、星来たんはイヤな顔ひとつせず微笑み続けている。
-Facing forward&, I gently picked Seira-tan up by her slender waist&. No
-matter how close I brought her to my face&, she kept smiling without
+Facing forward&, I gently picked Seira-tan up by her slender waist&.
+No matter how close I brought her to my face&, she kept smiling without
 making a single expression of disgust&.
 
 //【拓巳】
@@ -649,4 +646,3 @@ Do all that&, and things would turn okay&.
 //ＳＥ//ハードデスク停止
 
 }
-

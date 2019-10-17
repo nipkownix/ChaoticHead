@@ -74,8 +74,7 @@ He sliced Takumi across the chest&.
 With his Di-Sword&, which severed all manner of things&.
 
 The target's hardness made no difference&.
-c<pre>u</pre>tting down a mere human being was as simple as
-c<pre>u</pre>tting through jelly&.
+c<pre>u</pre>tting down a mere human being was as simple as c<pre>u</pre>tting through jelly&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -654,8 +653,7 @@ It went to Noah II&.
 
 A massive spear of antiparticles&, capable of annihilating anything&.
 
-It had no will of its own&. Therefore&, nothing about it could
-be warped&.
+It had no will of its own&. Therefore&, nothing about it could be warped&.
 
 A greed-ridden destructive impulse&,
 With Norose as its key&,

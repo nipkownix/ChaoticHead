@@ -52,9 +52,8 @@ Shibuya&. A station it would take hardly one minute to arrive at
 via train&.
 
 The station itself was completely underground&, being located in a
-tunnel&, and the only outside light that reached it was a faint
-amount coming in through the outdoor exit area at the end of the
-platform&.
+tunnel&, and the only outside light that reached it was a faint amount
+coming in through the outdoor exit area at the end of the platform&.
 
 Now&, due to the earthquake&, all the light fixtures had gone off&,
 and it was terribly dim&, much more so than usual&.
@@ -87,16 +86,14 @@ Naturally&, the trains had been at a standstill since yesterday&.
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch10/20500020sn">
-//【セナ】
 "&.&.&.&.&.&.&."
 
 Kozue's left foot was completely bloody&.
 
 Broken glass had sliced into her during the earthquake&.
-
 Sena had wrapped a towel around it in hopes of stopping the blood&,
-but the depth of the wound surpassed her expectations&, and
-first-aid treatment wouldn't be enough by itself&.
+but the depth of the wound surpassed her expectations&, and first-aid
+treatment wouldn't be enough by itself&.
 
 Gigalomaniacs couldn't use their power to heal their own wounds&.
 
@@ -431,11 +428,11 @@ Sena pointed the tip of her Di-Sword at Hatano's head&.
 Sena's shoulders trembled&.
 
 For close to three years&, since Hatano started the Mana scheme&,
-the two of them had rarely met&. Sena was shaken by how&,
-despite this&, he had managed to see through her so easily&.
+the two of them had rarely met&. Sena was shaken by how&, despite this&,
+he had managed to see through her so easily&.
 
-Discomfited&, she attempted to blow away her reason by transforming her
-internal uncertainty to rage&.
+Discomfited&, she attempted to blow away her reason by transforming
+her internal uncertainty to rage&.
 
 //◆以下は本物の波多野セリフ
 //【波多野】
@@ -445,8 +442,8 @@ internal uncertainty to rage&.
 //◆ＶＦ//◆妄想セリフ
 //【波多野】
 <voice name="波多野" class="波多野" src="voice/ch10/20500400ha">
-"If you are an electrical device&, then your emotion of resenting me is made
-up of no more than electrical signals&."
+"If you are an electrical device&, then your emotion of resenting me
+is made up of no more than electrical signals&."
 
 Hatano was pressing at her&.
 So Sena told herself&.
@@ -503,8 +500,8 @@ Sena was about to brandish her Di-Sword&.
 Slightly beforehand&, Hatano abruptly stood up&.
 
 Kozue&, who had been on pins and needles as she watched their exchange&,
-was torn over whether to stop their quarrel&, but the pain
-in her foot made her give up&.
+was torn over whether to stop their quarrel&, but the pain in her foot
+made her give up&.
 
 She wasn't sad&, but something wept&, sobbing&, in the depths of her
 chest&.
@@ -590,8 +587,8 @@ A sword that disregarded both gravity and centrifugal force&.
 <PRE box00>
 [text101]
 Its blade began by gouging out the tiles on the platform&,then slashed
-her father's shoulder&. Cleanly&, like a hot knife slicing
-through butter&.
+her father's shoulder&.
+Cleanly&, like a hot knife slicing through butter&.
 
 {	CreateSE("SE01","SE_衝撃_背中を押される");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);}
@@ -651,13 +648,13 @@ Sena bit her lip&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-Having flown from behind him&, something grazed Sena's cheek and
-vanished&.
+In that moment&, something pierced her father's chest at high speed&.
 
-Blood spurted not only from his shoulder&, but also from his chest&.
+Having flown from behind him&, it grazed Sena's cheek and vanished&.
 
 {	CreateSE("SE05","SE_人体_血_噴き出る");
 	MusicStart("SE05", 0, 1000, 0, 1000, null, false);}
+Blood spurted not only from his shoulder&, but also from his chest&.
 The scarlet liquid overflowing from his wounds caught Sena on the
 cheek&.
 
@@ -719,8 +716,8 @@ Her father mumbled&, his breathing feeble&.
 //◆瀕死
 //【波多野】
 <voice name="波多野" class="波多野" src="voice/ch10/20500520ha">
-"When I see you like that&.&.&. it fills me with sadness&.&.&. and
-adoration&.&.&."
+"When I see you like that&.&.&. it fills me with sadness&.&.&.
+and adoration&.&.&."
 
 The bullet had been aimed at Sena&.
 And Hatano had taken it instead&.
@@ -749,8 +746,8 @@ Sena gripped her Di-Sword harder&.
 the Hatano father-and-daughter combo die for me anyway&, see&."
 
 An odd sound resounded through the platform&.
-Sena instantly came to the revelation that it was coming
-from a Noah II terminal&.
+Sena instantly came to the revelation that it was coming from a
+Noah II terminal&.
 
 ―How long had this sound been ongoing?
 
@@ -831,8 +828,8 @@ Sena―<k>
 Became lost again&.
 She couldn't take her eyes off it&.
 
-She couldn't forgive herself for throwing her little sister away&, for
-finding her disgusting&.
+She couldn't forgive herself for throwing her little sister away&,
+for finding her disgusting&.
 
 {	Fade("light", 100, 1000, null, true);
 	CreateTexture("back10", 300, 0, 0, "cg/ev/ev063_02_1_マジックミラー波多野_a.jpg");
@@ -930,7 +927,6 @@ Wounds she had wanted to forget&. A past she hadn't wanted to remember&.
 
 Decayed tears leaked forth in her heart as well&.
 She began longing to escape&.
-
 Not wanting look at the mirror&, she wished she could turn her face
 away&.
 

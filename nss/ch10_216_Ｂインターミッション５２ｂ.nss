@@ -55,9 +55,8 @@ Shibuya&. A station it would take hardly one minute to arrive at
 via train&.
 
 The station itself was completely underground&, being located in a
-tunnel&, and the only outside light that reached it was a faint
-amount coming in through the outdoor exit area at the end of
-the platform&.
+tunnel&, and the only outside light that reached it was a faint amount
+coming in through the outdoor exit area at the end of the platform&.
 
 Now&, due to the earthquake&, all the light fixtures had gone off&, and it
 was terribly dim&, much more so than usual&.
@@ -69,9 +68,8 @@ There had been no need for her to buy a ticket&.
 She didn't spot any station workers anywhere&, and the ticket machines
 were out of service&, too&.
 
-When she looked at the tracks&, the rails there were visibly
-warped&. Naturally&, the trains had been at a standstill since
-yesterday&.
+When she looked at the tracks&, the rails there were visibly warped&.
+Naturally&, the trains had been at a standstill since yesterday&.
 
 Kozue's breathing began to sound painful from time to time&, but she
 wasn't conscious&.
@@ -85,9 +83,9 @@ Gigalomaniacs couldn't use their power to heal their own wounds&.
 
 Pain compelled them to be reminded of the reality of their injuries&.
 
-They couldn't create local shared recognition to the effect of&, "I'm
-not wounded&." They couldn't make it be as if nothing had
-happened&.
+They couldn't create local shared recognition to the effect of&,
+"I'm not wounded&."
+They couldn't make it be as if nothing had happened&.
 
 Their human instincts wouldn't permit it&.
 
@@ -454,8 +452,8 @@ your daddy?"
 "&.&.&.&.&.&.&."
 
 {	Fade("back05", 500, 1000, null, true);}
-It was the result she'd longed for these past six months&. <k>
-It should have been&. <k>
+It was the result she'd longed for these past six months&.<k>
+It should have been&.<k>
 Despite that&, Sena was assaulted by uncertainty&.
 
 Her father&, now only a head&, had his eyes turned in Sena's direction&.

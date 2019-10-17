@@ -29,7 +29,7 @@ function ch01_002_西條拓巳()
 	SystemSet();
 
 //ギガロマニアックス　シナリオ
-//☆Cut-3――――――――――――――――――――――――――――――
+//☆Cut-3------------------------------
 //■第１章【Eyes in eyes】/
 // OP終了後　BGアイキャッチ第１章（地味に）
 
@@ -491,7 +491,7 @@ But the truth is I really don't go to school that much&."
 //【拓巳】
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200030ta">
 //「ま、それでも勉強はできる方だよ。<k><?>
-"Grades have never been a problem for me&. <k>
+"Grades have never been a problem for me&.<k>
 <voice name="拓巳" class="拓巳" src="voice/ch01/00200031ta">
 //定期テストはちゃんと受けてる。しかもそれなりに上位の点数を取ってるからね。<k><?>
 I always take the midterms and finals&, and I get pretty good marks

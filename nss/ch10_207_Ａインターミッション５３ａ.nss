@@ -258,14 +258,16 @@ He probably isn't listening anyway&, Suwa thought&.
 //Every shard of pain engraved on me like this gave me a genuine feeling of life&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Every shard of pain engraved on me like this gave me a genuine feeling of<BR>life&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Every shard of pain engraved on me like this gave me a genuine feeling<BR>of life&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Every shard of pain engraved on me like this gave me a genuine feeling of life.", "NULL", NULL);
-	SetBacklog("Suwa hurled another stake at Takumi, whose head was hanging,who had no way to resist what was happening.", "NULL", NULL);
+	SetBacklog("Every shard of pain engraved on me like this gave me a genuine feeling
+of life.", "NULL", NULL);
+	SetBacklog("Suwa hurled another stake at Takumi, whose head was hanging, who had
+no way to resist what was happening.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -273,8 +275,8 @@ He probably isn't listening anyway&, Suwa thought&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text006]
-Suwa hurled another stake at Takumi&, whose head was hanging&, who had no
-way to resist what was happening&.
+Suwa hurled another stake at Takumi&, whose head was hanging&, who had
+no way to resist what was happening&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -337,14 +339,16 @@ equivalent to what you guys have&."
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Everything was the work of the Noah II terminal inside the rucksack that<BR>bastard wore on his back&. ");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Everything was the work of the Noah II terminal inside the rucksack<BR>that bastard wore on his back&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("Everything was the work of the Noah II terminal inside the rucksack that bastard wore on his back. ", "NULL", NULL);
-	SetBacklog("Everything was thanks to the Noah II terminal inside the rucksack Suwa wore on his back. ", "NULL", NULL);
+	SetBacklog("Everything was the work of the Noah II terminal inside the rucksack
+that bastard wore on his back.", "NULL", NULL);
+	SetBacklog("Everything was thanks to the Noah II terminal inside the rucksack
+Suwa wore on his back.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -368,8 +372,10 @@ Suwa wore on his back&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("As long as he had that with him, he could enjoy the benefits of Noah II's power even without being near it.", "NULL", NULL);
-	SetBacklog("As long as he had this with him, he could enjoy the benefits of Noah II's power even without being near it.", "NULL", NULL);
+	SetBacklog("As long as he had that with him, he could enjoy the benefits of
+Noah II's power even without being near it.", "NULL", NULL);
+	SetBacklog("As long as he had this with him, he could enjoy the benefits of
+Noah II's power even without being near it.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -393,7 +399,7 @@ Noah II's power even without being nearby it&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
+	SetBacklog("He would become an artificial Gigalomaniac.", "NULL", NULL);
 	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -402,7 +408,7 @@ Noah II's power even without being nearby it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-He would become an artificial Gigalomaniac&.
+He could become an artificial Gigalomaniac&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -458,7 +464,8 @@ Suwa had been completely entranced by power&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("A religious fanatic who would do anything, no matter how filthy, for the sake of the teachings he followed and for their founder.", "NULL", NULL);
+	SetBacklog("A religious fanatic who would do anything, no matter how filthy,
+for the sake of the teachings he followed and for their founder.", "NULL", NULL);
 	SetBacklog("A member of the vanguard who would do anything, no matter how filthy, for the sake of the teachings he followed and for their founder.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -508,7 +515,7 @@ for the sake of the teachings he followed and for their founder&.
 
 //"Because it allow me to fight for the divine light&, for what I believe in&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Because it allows me to fight for the divine light&, for what I believe in&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Because it allows him to fight for the divine light&, for what<BR>he believes in&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -517,8 +524,10 @@ for the sake of the teachings he followed and for their founder&.
 	CreateVOICE("諏訪","ch10/20700070su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("Because it allows me to fight for the divine light, for what I believe in.", "voice/ch10/20700070su", 諏訪);
-	SetBacklog("Because it allows me to fight for the divine light, for what I believe in.", "NULL", NULL);
+	SetBacklog("Because it allows him to fight for the divine light, for what
+he believes in.", "voice/ch10/20700070su", 諏訪);
+	SetBacklog("Because it allows me to fight for the divine light, for what
+I believe in.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -528,8 +537,8 @@ for the sake of the teachings he followed and for their founder&.
 [text014]
 //【諏訪】
 //<voice name="諏訪" class="諏訪" src="voice/ch10/20700070su">
-"Because it allows me to fight for the divine light&, for what I believe
-in&."
+"Because it allows me to fight for the divine light&, for what
+I believe in&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -612,8 +621,10 @@ It penetrated to the back of Takumi's neck&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Pain so intense, it felt like my whole body would tear apart. Maddening pain.", "NULL", NULL);
-	SetBacklog("Brutality seethed in Suwa's heart as he wondered how long he could withstand it.", "NULL", NULL);
+	SetBacklog("Pain so intense, it felt like my whole body would tear apart.
+Maddening pain.", "NULL", NULL);
+	SetBacklog("Brutality seethed in Suwa's heart as he wondered how long he could
+withstand it.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -639,7 +650,8 @@ withstand it&.
 	Request("テキスト１", Enter);
 
 	SetBacklog("It was like torture; bit by bit, I advanced toward death.", "NULL", NULL);
-	SetBacklog("As though torturing him, Suwa would make him advance toward death bit by bit.", "NULL", NULL);
+	SetBacklog("As though torturing him, Suwa would make him advance toward death
+bit by bit.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -688,12 +700,13 @@ bit by bit&.
 
 //Though incapable of resistance&, I tensed my legs to keep from falling over&, and went on taking stakes in every part of my body&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Though incapable of resistance&, I tensed my legs to keep from falling over&,");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Though incapable of resistance&, I tensed my legs to keep from<BR>falling over&,");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("Though incapable of resistance, I tensed my legs to keep from falling over,", "NULL", NULL);
+	SetBacklog("Though incapable of resistance, I tensed my legs to keep from
+falling over,", "NULL", NULL);
 	SetBacklog("Incapable of resistance, yet still not falling over,", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -761,7 +774,8 @@ He went on receiving stakes in every part of his body&.
 	Request("テキスト１", Enter);
 
 	SetBacklog("My chest. Stomach. The tips of my toes. All throughout my body.", "NULL", NULL);
-	SetBacklog("Takumi's chest. His stomach. The tips of his toes. All throughout his body.", "NULL", NULL);
+	SetBacklog("Takumi's chest. His stomach. The tips of his toes. All throughout
+his body.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -914,14 +928,16 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 
 //I had already reached the point at which it was impossible for me to stand&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I had already reached the point at which it was impossible for me to stand&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I had already reached the point at which it was impossible<BR>for me to stand&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("I had already reached the point at which it was impossible for me to stand.", "NULL", NULL);
-	SetBacklog("Takumi had already reached the point at which it would be impossible for him to stand.", "NULL", NULL);
+	SetBacklog("I had already reached the point at which it was impossible
+for me to stand.", "NULL", NULL);
+	SetBacklog("Takumi had already reached the point at which it would be impossible
+for him to stand.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1007,14 +1023,16 @@ But he would have to hit his limit soon&.
 
 //I couldn't see clearly&, as if there were a mosaic filter laid over my vision&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I couldn't see clearly&, as if there were a mosaic filter laid over my<BR>vision&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I couldn't see clearly&, as if there were a mosaic filter laid over<BR>my vision&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("I couldn't see clearly, as if there were a mosaic filter laid over my vision.", "NULL", NULL);
-	SetBacklog("His eyes were empty, and in all likelihood, he wasn't seeing anything anymore.", "NULL", NULL);
+	SetBacklog("I couldn't see clearly, as if there were a mosaic filter laid over
+my vision.", "NULL", NULL);
+	SetBacklog("His eyes were empty, and in all likelihood, he wasn't seeing anything
+anymore.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1033,7 +1051,7 @@ anymore&.
 
 //"If you've got any last words&, go on and say 'em&. But keep it to twenty letters or less&."
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you've got any last words&, go on and say 'em&. But keep it to twenty<BR>letters or less&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you've got any last words&, go on and say 'em&. But keep it to<BR>twenty letters or less&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1042,8 +1060,10 @@ anymore&.
 	CreateVOICE("諏訪","ch10/20700120su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("If you've got any last words, go on and say 'em. But keep it to twenty letters or less.", "voice/ch10/20700120su", 諏訪);
-	SetBacklog("If you've got any last words, go on and say 'em. But keep it to twenty letters or less.", "NULL", NULL);
+	SetBacklog("If you've got any last words, go on and say 'em. But keep it to
+twenty letters or less.", "voice/ch10/20700120su", 諏訪);
+	SetBacklog("If you've got any last words, go on and say 'em. But keep it to
+twenty letters or less.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1053,8 +1073,8 @@ anymore&.
 [text030]
 //【諏訪】
 //<voice name="諏訪" class="諏訪" src="voice/ch10/20700120su">
-"If you've got any last words&, go on and say 'em&. But keep it to twenty
-letters or less&."
+"If you've got any last words&, go on and say 'em&. But keep it to
+twenty letters or less&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1258,7 +1278,7 @@ Takumi glared at Suwa with lightless eyes&.
 
 //"As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!"
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As for the salvation of the divine light&.&.&. I'm sure as hell not<BR>givin' it to you!");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As for the salvation of the divine light&.&.&. I'm sure as hell<BR>not givin' it to you!");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
@@ -1267,8 +1287,10 @@ Takumi glared at Suwa with lightless eyes&.
 	CreateVOICE("諏訪","ch10/20700170su");
 	SoundPlay("諏訪",0,1000,false);
 
-	SetBacklog("As for the salvation of the divine light... I'm sure as hell not givin' it to you!", "voice/ch10/20700170su", 諏訪);
-	SetBacklog("As for the salvation of the divine light... I'm sure as hell not givin' it to you!", "NULL", NULL);
+	SetBacklog("As for the salvation of the divine light... I'm sure as hell
+not givin' it to you!", "voice/ch10/20700170su", 諏訪);
+	SetBacklog("As for the salvation of the divine light... I'm sure as hell
+not givin' it to you!", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1278,8 +1300,8 @@ Takumi glared at Suwa with lightless eyes&.
 [text038]
 //【諏訪】
 //<voice name="諏訪" class="諏訪" src="voice/ch10/20700170su">
-"As for the salvation of the divine light&.&.&. I'm sure as hell not
-givin' it to you!"
+"As for the salvation of the divine light&.&.&. I'm sure as hell
+not givin' it to you!"
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -1365,14 +1387,16 @@ Suwa flung the stake in his grasp&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //It was the stake of certain death&. A cross to bring me the promised Gospel&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was the stake of certain death&. A cross to bring me the promised Gospel&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was the stake of certain death&. A cross to bring me the promised<BR>Gospel&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
-	SetBacklog("It was the stake of certain death. A cross to bring me the promised Gospel.", "NULL", NULL);
-	SetBacklog("It was the stake of certain death. A cross to bring me the promised Gospel.", "NULL", NULL);
+	SetBacklog("It was the stake of certain death. A cross to bring me the promised
+Gospel.", "NULL", NULL);
+	SetBacklog("It was the stake of certain death. A cross to bring him the promised
+Gospel.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1380,7 +1404,7 @@ Suwa flung the stake in his grasp&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text041]
-It was the stake of certain death&. A cross to bring me the promised
+It was the stake of certain death&. A cross to bring him the promised
 Gospel&.
 
 </PRE>
@@ -1536,14 +1560,15 @@ The stake plunged deep into his forehead&.
 
 //Agony erupted throughout Suwa's body―gushing up from within him&.
 	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
-	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Agony erupted throughout Suwa's body―<BR>gushing up from within him&.");
+	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Agony erupted throughout Suwa's body―gushing up from within him&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
 
 	SetBacklog("Agony erupted throughout Suwa's body―gushing up from within him.", "NULL", NULL);
-	SetBacklog("All of the agony devouring my whole body went away, almost like it had been an illusion.", "NULL", NULL);
+	SetBacklog("All of the agony devouring my whole body went away, almost like
+it had been an illusion.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
 
@@ -1551,7 +1576,8 @@ The stake plunged deep into his forehead&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text046]
-All of the agony devouring my whole body went away&, almost like it had been an illusion&.
+All of the agony devouring my whole body went away&, almost like
+it had been an illusion&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
