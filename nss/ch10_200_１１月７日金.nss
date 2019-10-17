@@ -216,8 +216,8 @@ become stocked up in your Di-Sword&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch10/20000170sn">
-"Mathematically speaking&, antiparticles are that which 'leads
-toward the past&.'"
+"Mathematically speaking&, antiparticles are that which 'lead toward
+the past&.'"
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch10/20000180sn">

@@ -442,7 +442,7 @@ And the equipment stopped&,
 	DrawTransition("F‚P", 1000, 1000, 0, 100, null, "cg/data/light2.png", true);}
 And the "dream" ended&,
 
-And his wife {	Wait(1000);} Broke&.
+And his wife {	Wait(1000);}broke&.
 
 {	MusicStart("@CH10", 0, 1000, 0, 1000, null, true);}
 
@@ -452,11 +452,10 @@ Who to her appeared\
 {	Wait(1000);}
 To have suddenly transformed into a mummy\
 {	Wait(1000);}
-She tore at her head&,
-{	Wait(1000);}
 <BR>
 
-
+She tore at her head&,
+{	Wait(1000);}
 Ripped out her hair&,
 {	Wait(1000);}
 Dug at the skin of her face with her nails&,
@@ -464,19 +463,19 @@ Dug at the skin of her face with her nails&,
 And{	Wait(700);} in the end&,{
 	CreateSE("SE03","SE_‹[‰¹_“÷è‚ğ“Ë‚Á‚Ş");
 	SoundPlay("SE03", 0, 1000, false);
-	Wait(2000);}Began devouring her child's dessicated body&.
+	Wait(2000);} began devouring her child's dessicated body&.
 
 Laughing madly&,{
 	CreateSE("SE04","SE_ÕŒ‚_Šç–ÊR‚ç‚ê‚é");
 	SoundPlay("SE04", 0, 1000, true);
-	Wait(1000);} She rammed her head into the wall
+	Wait(1000);} she rammed her head into the wall&,
 
-And finally {	Wait(1000);} stabbing a kitchen knife&, {
+And finally{	Wait(1000);} stabbing a kitchen knife{
 	SoundPlay("SE04", 500, 0, false);
 	Wait(500);
 	CreateSE("SE03","SE_l‘Ì_ŒŒ_•¬‚«o‚é_•ï’š‚Åh‚³‚ê");
 	SoundPlay("SE03", 0, 1000, false);
-	Wait(2000);} into her eyes&, {	Wait(1500);}and died&.
+	Wait(2000);} into her eyes&, {	Wait(1500);}she died&.
 
 //Ÿ‹ƒ‚«‹©‚Ñ‚È‚ª‚ç
 //yƒZƒiz

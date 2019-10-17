@@ -1031,6 +1031,7 @@ investigation headquarters&."
 
 Though she spoke exasperatedly&, she wasn't condemning him&, and her
 words were in fact a backhanded compliment for Ban as a detective&.
+//Untranslated line -DVN
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

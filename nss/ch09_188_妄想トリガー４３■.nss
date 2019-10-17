@@ -657,7 +657,7 @@ face&.
 
 //ÅyéµäCÅz
 <voice name="éµäC" class="éµäC" src="voice/ch09/18800430na">
-"You've have been able to eat my yummy&, yummy half-done omelettes
+"You'd have been able to eat my yummy&, yummy half-done omelettes
 with rice&, too&, if you didn't go off to live on your own or
 whatever&."
 

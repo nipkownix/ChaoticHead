@@ -651,13 +651,13 @@ Sena bit her lip&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text008]
-Having flown from behind him&, something grazed Sena's cheek and
-vanished&.
+In that moment&, something pierced her father's chest at high speed&.
 
-Blood spurted not only from his shoulder&, but also from his chest&.
+Having flown from behind him&, it grazed Sena's cheek and vanished&.
 
 {	CreateSE("SE05","SE_人体_血_噴き出る");
 	MusicStart("SE05", 0, 1000, 0, 1000, null, false);}
+Blood spurted not only from his shoulder&, but also from his chest&.
 The scarlet liquid overflowing from his wounds caught Sena on the
 cheek&.
 

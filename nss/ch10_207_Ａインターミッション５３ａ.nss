@@ -393,7 +393,7 @@ Noah II's power even without being nearby it&.
 	Request("テキスト１", Erase);
 	Request("テキスト１", Enter);
 
-	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
+	SetBacklog("He would become an artificial Gigalomaniac.", "NULL", NULL);
 	SetBacklog("He could become an artificial Gigalomaniac.", "NULL", NULL);
 
 	Request("テキスト１", NoIcon);
@@ -402,7 +402,7 @@ Noah II's power even without being nearby it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text010]
-He would become an artificial Gigalomaniac&.
+He could become an artificial Gigalomaniac&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

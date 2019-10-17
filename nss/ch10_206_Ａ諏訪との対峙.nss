@@ -85,7 +85,7 @@ I couldn't see&, Kozu-pii&, and―Hatano-san&, blood-drenched and fallen&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text002]
-//繧医≧繧・￥隕九▽縺代◆縺ｮ縺ｫ縲∵焔驕・ｌ縺縺｣縺溘↑繧薙※縲・
+I had finally found him&, but it was too late&.
 
 {	DeleteStand("st梢_制服_通常_normal", 500, true);
 	Stand("st護_スーツ_通常","normal", 200, @+150);
