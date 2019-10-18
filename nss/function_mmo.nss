@@ -82,16 +82,16 @@ function SetMmo("ボックス名","$テキスト名",テキスト色)
 	//SetFont("DroidMSGothic", 16, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
 		$mFamName = "DroidMSGothic";
-		$mnsize = 20;
+		$mnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
 		$mFamName = "DroidUbuntuMono";
 		$mnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
 		$mFamName = "DroidIosevka";
 		$mnsize = 20;
-	}else if(#SYSTEM_font_family==IBMPlex){
-		$mFamName = "DroidIBMPlexMono";
-		$mnsize = 18;
+	}else if(#SYSTEM_font_family==Fantasque){
+		$mFamName = "DroidFantasque";
+		$mnsize = 16;
 	}
 	SetFont($mFamName, $mnsize, テキスト色, #000000, 500, LIGHTDOWN);
 	LoadText("$構文名","ボックス名","$テキスト名",540,200,0,25);

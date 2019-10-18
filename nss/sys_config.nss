@@ -8,9 +8,8 @@ chapter main
 	$SYSTEM_backlog_lock=TRUE;
 	$cfgtab=1;
 	
-	//SetFont("DroidMSGothic",21,#00000,#FFFFFF,500,NONE);
-	SetFont("DroidMSGothic",27,#00000,#FFFFFF,500,NONE);
-
+	SetFont("DroidMSGothic",21,#00000,#FFFFFF,500,NONE);
+	
 	if(!$PLACE_title&&!$SYSTEM_menu_enable&&!$SYSTEM_menu_lock){
 		CreateTexture("video",101000,center,middle,"VIDEO");
 	}else{
@@ -368,10 +367,9 @@ chapter main
 	CreateTexture("TAB3_select_LCS_ON/MouseOver/img",0,220,445,"IMG_check_hit");
 	CreateTexture("TAB3_select_LCS_ON/MouseClick/img",0,220,445,"IMG_check_hit");
 	
-	//origsize=14
-	$str="<FONT size=18 incolor=#443322><PRE>SYSTEM VERSION              "+#SYSTEM_version+"</PRE></FONT>";
+	$str="<FONT size=14 incolor=#443322><PRE>SYSTEM VERSION              "+#SYSTEM_version+"</PRE></FONT>";
 	CreateText("TAB3_ver_SYSTEM", 10010,475,335,auto,auto,$str);
-	$str="<FONT size=18 incolor=#443322><PRE>SCRIPT VERSION              "+#SCRIPT_VERSION+"</PRE></FONT>";
+	$str="<FONT size=14 incolor=#443322><PRE>SCRIPT VERSION              "+#SCRIPT_VERSION+"</PRE></FONT>";
 	CreateText("TAB3_ver_SCRIPT", 10010,475,352,auto,auto,$str);
 	Request("TAB3_ver_*",NoLog);
 	Request("TAB3_ver_*",PushText);
@@ -449,7 +447,7 @@ chapter main
 					Fade("TAB1_check_Font4",200,0,null,false);
 					Fade("TAB1_check_Font3",200,1000,null,false);
 				}case TAB1_select_Font4{
-					#SYSTEM_font_family=IBMPlex;
+					#SYSTEM_font_family=Fantasque;
 					Fade("TAB1_check_Font1",200,0,null,false);
 					Fade("TAB1_check_Font2",200,0,null,false);
 					Fade("TAB1_check_Font3",200,0,null,false);
@@ -900,7 +898,7 @@ function cfgHighlight()
 			Fade("TAB1_check_Font2",0,1000,null,false);
 		}else if(#SYSTEM_font_family==Iosevka){
 			Fade("TAB1_check_Font3",0,1000,null,false);
-		}else if(#SYSTEM_font_family==IBMPlex){
+		}else if(#SYSTEM_font_family==Fantasque){
 			Fade("TAB1_check_Font4",0,1000,null,false);
 		}
 		if(!$PLACE_title){

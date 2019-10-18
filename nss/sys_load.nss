@@ -166,19 +166,19 @@ function savemanage()
 				$nut=$name+"/MouseOver/tm";
 				CreateText($nut,10010,592,9,auto,auto,$tm);
 			}else{
-				$no="<FONT size=22>NO\.0"+$no+"</FONT>";
-				$date="<FONT size=22>"+ReadFile($date)+"</FONT>";
+				$no="<FONT size=16>NO\.0"+$no+"</FONT>";
+				$date="<FONT size=16>"+ReadFile($date)+"</FONT>";
 				$cmt=ReadFile($cmt);
-				$tm="<FONT size=22>"+ReadFile($tm)+"</FONT>";
+				$tm="<FONT size=16>"+ReadFile($tm)+"</FONT>";
 				
 				$nut=$name+"/MouseOver/no";
-				CreateText($nut,10010,58,488,auto,auto,$no);
+				CreateText($nut,10010,58,495,auto,auto,$no);
 				$nut=$name+"/MouseOver/date";
-				CreateText($nut,10010,130,488,auto,auto,$date);
+				CreateText($nut,10010,134,495,auto,auto,$date);
 				$nut=$name+"/MouseOver/cmt";
-				CreateText($nut,10010,67,518,354,54,$cmt);
+				CreateText($nut,10010,51,525,354,54,$cmt);
 				$nut=$name+"/MouseOver/tm";
-				CreateText($nut,10010,592,4,auto,auto,$tm);
+				CreateText($nut,10010,600,11,auto,auto,$tm);
 			}
 
 			if($i==#LATEST_SAVE_NUM){

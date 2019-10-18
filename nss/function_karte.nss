@@ -60,8 +60,8 @@ function SetKarte()
 	//SetFont("DroidMSGothic", 14, #555555, #000000, 500, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$mFamName = "DroidMSGothic";
-		$mnsize = 18;
-		$KarteTextY = -6;
+		$mnsize = 14;
+		$KarteTextY = -2;
 	}else if(#SYSTEM_font_family==Ubuntu){
 		$mFamName = "DroidUbuntuMono";
 		$mnsize = 14;
@@ -70,8 +70,8 @@ function SetKarte()
 		$mFamName = "DroidIosevka";
 		$mnsize = 18;
 		$KarteTextY = -6;
-	}else if(#SYSTEM_font_family==IBMPlex){
-		$mFamName = "DroidIBMPlexMono";
+	}else if(#SYSTEM_font_family==Fantasque){
+		$mFamName = "DroidFantasque";
 		$mnsize = 14;
 		$KarteTextY = -2;
 	}

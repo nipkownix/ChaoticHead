@@ -87,7 +87,7 @@ function SetChat("ボックス名","$テキスト名",テキスト色)
 	//SetFont("DroidMSGothic", 12, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "DroidMSGothic";
-		$cnsize = 16;
+		$cnsize = 12;
 	}else if(#SYSTEM_font_family==Ubuntu){
 		$cFamName = "DroidUbuntuMono";
 		$cnsize = 12;
@@ -95,8 +95,8 @@ function SetChat("ボックス名","$テキスト名",テキスト色)
 		$cFamName = "DroidIosevka";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==IBMPlex){
-		$cFamName = "DroidIBMPlexMono";
-		$cnsize = 13;
+		$cFamName = "DroidFantasque";
+		$cnsize = 12;
 	}
 	SetFont($cFamName, $cnsize, テキスト色, #000000, 500, LIGHTDOWN);
 	LoadText("$構文名","ボックス名","$テキスト名",380,400,0,16);

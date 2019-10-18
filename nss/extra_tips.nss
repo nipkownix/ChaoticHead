@@ -26,6 +26,7 @@ chapter main
 	SetScrollbar("tps_TITLE_BAR","tps_TITLE_BAR");
 	
 	extTips_itembtn_set();
+	
 	//SetFont("DroidMSGothic",20,#FFFFFF,#000000,500,LEFTDOWN);
 	if(#SYSTEM_font_family==RodinBokutoh){
 		$txt_size=18;
@@ -205,7 +206,7 @@ function extTips_itembtn_set()
 		else if($i==4&&#TIPS_ＰＴＳＤ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_4,"ＰＴＳＤ");}
 		else if($i==5&&#TIPS_デジャヴ／ジャメヴュ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_5,"デジャヴ／ジャメヴュ");}
 		else if($i==6&&#TIPS_アバター){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_6,"アバター");}
-		else if($i==7&&#TIPS_予知){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_7,"Precognition");}
+		else if($i==7&&#TIPS_予知){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_7,"予知");}
 		else if($i==8&&#TIPS_キャストオフ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_8,"キャストオフ");}
 		else if($i==9&&#TIPS_星来オルジェル){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_9,"星来オルジェル");}
 		else if($i==10&&#TIPS_パラディン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_10,"パラディン");}
@@ -393,7 +394,6 @@ function extTips_itembtn_set()
 		else if($i==95&&#TIPS_オサレ){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_95,"オサレ");}
 		else if($i==96&&#TIPS_サーセン){extTips_make_itembtn($i,$x,$y,#TIPS_CLICKED_96,"サーセン");}		
 		else if($i==97&&#ClearG&&!$KarteNow){
-		
 			extTips_make_itembtn(1000,$x,$y,0,"─────────────");
 			$y+=18;
 			$j=#KartePoint*4;
@@ -416,7 +416,7 @@ function extTips_make_itembtn($num,$x,$y,$click,$str)
 	if(#SYSTEM_font_family==RodinBokutoh){
 		$txt_y=$y-11;
 	}else{
-		$txt_y=$y-13;
+		$txt_y=$y-6;
 	}
 	if($num<1000){
 		$str="■"+$str;
@@ -754,7 +754,7 @@ function extTips_item_7()
 その発現の仕方は人によって違い、フラッシュバック現象としてであったり、
 夢（予知夢）として表れたりする。霊能力者や占い師、古代の巫女にはこの力を有する者がいたと言われているが、一方でこの力を騙って行われる詐欺行為も多い。
 */
-//――――――――――――――――――――――――――――――――――
+//----------------------------------
 ■Precognition
 Knowledge about future event&.
 It's different from prediction

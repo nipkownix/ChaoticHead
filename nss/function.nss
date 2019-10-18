@@ -74,15 +74,15 @@ function LoadMainFont("objname", "crapfont", "$size", "color1", "color2", "numbe
 {
 	if(#SYSTEM_font_family==MSGothic){
 		$FamName = "DroidMSGothic";
-		$nsize = $size+6;
+		$nsize = $size;
 	}else if(#SYSTEM_font_family==Ubuntu){
 		$FamName = "DroidUbuntuMono";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Iosevka){
 		$FamName = "DroidIosevka";
 		$nsize = $size+6;
-	}else if(#SYSTEM_font_family==IBMPlex){
-		$FamName = "DroidIBMPlexMono";
+	}else if(#SYSTEM_font_family==Fantasque){
+		$FamName = "DroidFantasque";
 		$nsize = $size+2;
 	}
 	$abcd = "QWERTYUIOPASDFGHJKLCZXCVBNMqwertyuiopasdfghjklczxcvbnm1234567890?!,.-_"
@@ -94,15 +94,15 @@ function SetMainFont("crapfont", "$size", "color1", "color2", "number", "type")
 {
 	if(#SYSTEM_font_family==MSGothic){
 		$FamName = "DroidMSGothic";
-		$nsize = $size+6;
+		$nsize = $size;
 	}else if(#SYSTEM_font_family==Ubuntu){
 		$FamName = "DroidUbuntuMono";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Iosevka){
 		$FamName = "DroidIosevka";
 		$nsize = $size+6;
-	}else if(#SYSTEM_font_family==IBMPlex){
-		$FamName = "DroidIBMPlexMono";
+	}else if(#SYSTEM_font_family==Fantasque){
+		$FamName = "DroidFantasque";
 		$nsize = $size+2;
 	}
     SetFont($FamName, $nsize, color1, color2, number, type);
@@ -114,9 +114,9 @@ function LoadMainText("synname", "bname", "tname", "$tframe", "num1", "cspace", 
 //		$ntframe = $tframe;
 //	}else if(#SYSTEM_font_family==Ubuntu){
 //		$ntframe = $tframe;
-//	}else if(#SYSTEM_font_family==RodinBokutoh){
+//	}else if(#SYSTEM_font_family==Iosevka){
 /		$ntframe = $tframe;
-//	}else if(#SYSTEM_font_family==Tahoma){
+//	}else if(#SYSTEM_font_family==Fantasque){
 //		$ntframe = $tframe;
 //	}
 	$ntframe = $tframe;
