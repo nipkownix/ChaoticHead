@@ -290,7 +290,7 @@ They repeated my real name over and over&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">【Society】The air wave-stealing ESPer is an Akiba-type
+　　　 <FONT size="20" incolor="#ff0000">【Society】The air wave-stealing ESPer is an Akiba-type
 feral boy!?★２</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);

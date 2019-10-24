@@ -984,7 +984,7 @@ I reluctantly clicked his links and bit down hard on my lip&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　　 <FONT size="26" incolor="#ff0000">【New-Gen】3 corpses divided in half at the torso in Shibuya
+　　　　 <FONT size="20" incolor="#ff0000">【New-Gen】3 corpses divided in half at the torso in Shibuya
 「DQN on their foreheads」★３</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);

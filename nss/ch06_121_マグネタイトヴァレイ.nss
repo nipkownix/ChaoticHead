@@ -202,7 +202,7 @@ That abnormality&, of course&, had become a hot topic on the Net&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">【Earthquake】Magnitude 5 earthquake in Shibuya ・ multiple
+　　　 <FONT size="20" incolor="#ff0000">【Earthquake】Magnitude 5 earthquake in Shibuya ・ multiple
 fatalities</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);

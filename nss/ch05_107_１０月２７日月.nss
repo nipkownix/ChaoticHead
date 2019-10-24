@@ -96,7 +96,7 @@ There was an epic thread in progress&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">FES from Phantasm used to be hospitalized</FONT>
+　　　 <FONT size="20" incolor="#ff0000">FES from Phantasm used to be hospitalized</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TitleBoard("【1:985】");

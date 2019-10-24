@@ -351,7 +351,7 @@ Phantasm【New Gen】43" and started skimming it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE @box03>
 [text900]
-　　　 <FONT size="26" incolor="#ff0000">【Predictions&, Prophecies】All About Phantasm【New Gen】43</FONT>
+　　　 <FONT size="20" incolor="#ff0000">【Predictions&, Prophecies】All About Phantasm【New Gen】43</FONT>
 </PRE>
 	SetBoard($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TitleBoard("【1:538】");

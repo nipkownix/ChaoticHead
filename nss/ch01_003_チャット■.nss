@@ -1051,7 +1051,7 @@ Grim: Hey! rofl
 <PRE @box01>
 [text036]
 //グリム：ナイトハルトはホントに水着好きなんだな
-Grim: You really have a thing for swimsuits, huh
+Grim: You really have a thing for swimsuits&, huh
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,RED);
 	SoundChat(0,0,false);
