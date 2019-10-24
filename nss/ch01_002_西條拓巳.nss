@@ -448,8 +448,8 @@ The room is arranged lengthwise and a little dim&.
 // ENTER_reset VR拓巳部屋正面Pan時計回 Setしたらネーム
 {Rotate("ルーム", 2000, @0, @+180, @0, Null, true);}
 //ＰＣデスクに置いてあるデスクライトが、この部屋の唯一の照明だ。
-The only source of illumination in here is the
-lamp set on my computer desk&.
+The only source of illumination in here is the lamp set on
+my computer desk&.
 
 // ENTER_reset
 //そもそも部屋には窓がひとつもないんだから、暗いに決まってる。
@@ -457,8 +457,8 @@ The room doesn't have any windows&, so it's dark to begin with&.
 
 // ENTER_reset
 //外の様子がまったくうかがい知れないから、今が昼か夜かも分からない。
-There's absolutely no way to tell what it's like outside&. There's no
-way to tell if it's noon or night&.
+There's absolutely no way to tell what it's like outside&. There's
+no way to tell if it's noon or night&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
