@@ -87,20 +87,20 @@ chapter main
 	CreateTexture("TAB1_select_SkipMovieOFF/MouseClick/img",0,643,240,"IMG_check_hit");
 	
 	CreateChoice("TAB1_select_Font1");
-	CreateTexture("TAB1_check_Font1",10100,332,331,"IMG_check");
-	CreateTexture("TAB1_select_Font1/MouseUsual/img",0,323,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font1/MouseOver/img",0,323,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font1/MouseClick/img",0,323,331,"IMG_check_hit");
+	CreateTexture("TAB1_check_Font1",10100,371,331,"IMG_check");
+	CreateTexture("TAB1_select_Font1/MouseUsual/img",0,362,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font1/MouseOver/img",0,362,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font1/MouseClick/img",0,362,331,"IMG_check_hit");
 	CreateChoice("TAB1_select_Font2");
-	CreateTexture("TAB1_check_Font2",10100,418,331,"IMG_check");
-	CreateTexture("TAB1_select_Font2/MouseUsual/img",0,409,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font2/MouseOver/img",0,409,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font2/MouseClick/img",0,409,331,"IMG_check_hit");
+	CreateTexture("TAB1_check_Font2",10100,461,331,"IMG_check");
+	CreateTexture("TAB1_select_Font2/MouseUsual/img",0,452,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font2/MouseOver/img",0,452,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font2/MouseClick/img",0,452,331,"IMG_check_hit");
 	CreateChoice("TAB1_select_Font3");
-	CreateTexture("TAB1_check_Font3",10100,489,331,"IMG_check");
-	CreateTexture("TAB1_select_Font3/MouseUsual/img",0,480,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font3/MouseOver/img",0,480,331,"IMG_check_hit");
-	CreateTexture("TAB1_select_Font3/MouseClick/img",0,480,331,"IMG_check_hit");
+	CreateTexture("TAB1_check_Font3",10100,537,331,"IMG_check");
+	CreateTexture("TAB1_select_Font3/MouseUsual/img",0,528,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font3/MouseOver/img",0,528,331,"IMG_check_hit");
+	CreateTexture("TAB1_select_Font3/MouseClick/img",0,528,331,"IMG_check_hit");
 	CreateChoice("TAB1_select_Font4");
 	CreateTexture("TAB1_check_Font4",10100,612,331,"IMG_check");
 	CreateTexture("TAB1_select_Font4/MouseUsual/img",0,603,331,"IMG_check_hit");
@@ -123,10 +123,10 @@ chapter main
 	CreateTexture("TAB1_select_GameSpeed3/MouseOver/img",0,528,355,"IMG_check_hit");
 	CreateTexture("TAB1_select_GameSpeed3/MouseClick/img",0,528,355,"IMG_check_hit");
 	CreateChoice("TAB1_select_GameSpeed4");
-	CreateTexture("TAB1_check_GameSpeed4",10100,613,355,"IMG_check");
-	CreateTexture("TAB1_select_GameSpeed4/MouseUsual/img",0,604,355,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed4/MouseOver/img",0,604,355,"IMG_check_hit");
-	CreateTexture("TAB1_select_GameSpeed4/MouseClick/img",0,604,355,"IMG_check_hit");
+	CreateTexture("TAB1_check_GameSpeed4",10100,612,355,"IMG_check");
+	CreateTexture("TAB1_select_GameSpeed4/MouseUsual/img",0,603,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed4/MouseOver/img",0,603,355,"IMG_check_hit");
+	CreateTexture("TAB1_select_GameSpeed4/MouseClick/img",0,603,355,"IMG_check_hit");
 	
 	$pos=1000*(1-(#SYSTEM_text_speed/1000));
 	CreateScrollbar("TAB1_select_MessageSpeed",10100,505,380,646,380,$pos,HORIZON,"IMG_csr");
