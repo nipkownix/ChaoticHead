@@ -5,18 +5,10 @@
 //=============================================================================//
 chapter main
 {
-	if(#SYSTEM_font_family==MSGothic){
-		SetMainFont("ＭＳ ゴシック",19,#FFFFFF,#00000,500,null);
-		
-		LoadMainFont("フォント1","ChaosMSGothic",19,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
-		LoadMainFont("フォント2","ChaosMSGothic",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
-	}else{
-		SetMainFont("ＭＳ ゴシック",18,#FFFFFF,#00000,500,null);
-		
-		LoadMainFont("フォント1","ChaosMSGothic",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
-		LoadMainFont("フォント2","ChaosMSGothic",17,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
-	}
-	
+	SetMainFont("ＭＳ ゴシック",19,#FFFFFF,#00000,500,null);
+	LoadMainFont("フォント1", "ＭＳ ゴシック",19,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+	LoadMainFont("フォント2", "ＭＳ ゴシック",18,#FFFFFF,#00000,500,null,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』");
+
 	CreateWindow("WND",10100,0,0,800,600,true);
 	SetAlias("WND","WND");
 	
@@ -152,20 +144,20 @@ function savemanage()
 			Zoom($nut,0,1360,1360,null,false);
 			Request($nut,Smoothing);
 			
-			if(#SYSTEM_font_family==RodinBokutoh){
-				$no="<FONT size=18>NO\.0"+$no+"</FONT>";
-				$date="<FONT size=18>"+ReadFile($date)+"</FONT>";
+			if(#SYSTEM_font_family==Iosevka){
+				$no="<FONT size=21>NO\.0"+$no+"</FONT>";
+				$date="<FONT size=21>"+ReadFile($date)+"</FONT>";
 				$cmt=ReadFile($cmt);
-				$tm="<FONT size=18>"+ReadFile($tm)+"</FONT>";
+				$tm="<FONT size=21>"+ReadFile($tm)+"</FONT>";
 				
 				$nut=$name+"/MouseOver/no";
-				CreateText($nut,10010,58,492,auto,auto,$no);
+				CreateText($nut,10010,58,490,auto,auto,$no);
 				$nut=$name+"/MouseOver/date";
-				CreateText($nut,10010,130,492,auto,auto,$date);
+				CreateText($nut,10010,130,490,auto,auto,$date);
 				$nut=$name+"/MouseOver/cmt";
-				CreateText($nut,10010,67,522,354,54,$cmt);
+				CreateText($nut,10010,51,520,354,64,$cmt);
 				$nut=$name+"/MouseOver/tm";
-				CreateText($nut,10010,592,9,auto,auto,$tm);
+				CreateText($nut,10010,595,6,auto,auto,$tm);
 			}else{
 				$no="<FONT size=16>NO\.0"+$no+"</FONT>";
 				$date="<FONT size=16>"+ReadFile($date)+"</FONT>";
