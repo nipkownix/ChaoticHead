@@ -79,7 +79,7 @@ function MmoPlace("$場所")
 ..SetMmo
 function SetMmo("ボックス名","$テキスト名",テキスト色)
 {
-	//SetFont("ChaosMSGothic", 16, テキスト色, #000000, 500, LIGHTDOWN);
+	//SetFont("ＭＳ ゴシック", 16, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
 		$mFamName = "ChaosMSGothic";
 		$mnsize = 16;

@@ -57,7 +57,7 @@ function SetKarte()
 	$KarteSpace = $KarteBoard * $KarteVertical;
 	$ÉJÉãÉeècïù = $KarteSpace - $KarteWindowVertical;
 
-	//SetFont("ChaosMSGothic", 14, #555555, #000000, 500, NULL);
+	//SetFont("ÇlÇr ÉSÉVÉbÉN", 14, #555555, #000000, 500, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$mFamName = "ChaosMSGothic";
 		$mnsize = 14;

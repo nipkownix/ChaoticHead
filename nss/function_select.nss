@@ -2125,7 +2125,7 @@ function ChoiceB02()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2305,7 +2305,7 @@ function ChoiceB03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2352,7 +2352,7 @@ function ChoiceC03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ＭＳ ゴシック", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ３ = "【" + $テキストデータ３ + "】";
 

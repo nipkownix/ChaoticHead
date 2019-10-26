@@ -17,10 +17,20 @@ chapter main
 	$SYSTEM_backlog_row_interval=29;	//バックログ表示の行間サイズ
 	$SYSTEM_backlog_character_width=9;	//バックログ表示の各文字幅
 			
-	//LoadFont("BKLG_font","ChaosMSGothic",20,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
-	//SetFont("ChaosMSGothic",20,#FFFFFF,#1111111,500,LEFTDOWN);
-	LoadFont("BKLG_font","ChaosMSGothic",16,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
-	SetFont("ChaosMSGothic",16,#FFFFFF,#1111111,500,LEFTDOWN);
+	//LoadFont("BKLG_font","ＭＳ ゴシック",20,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
+	//SetFont("ＭＳ ゴシック",20,#FFFFFF,#1111111,500,LEFTDOWN);
+	
+	if(#SYSTEM_font_family==MSGothic){
+		$mFamName = "ChaosMSGothic";
+	}else if(#SYSTEM_font_family==Ubuntu){
+		$mFamName = "ChaosUbuntuMono";
+	}else if(#SYSTEM_font_family==Iosevka){
+		$mFamName = "ChaosUbuntuMono";  //Iosevka looks bad here.
+	}else if(#SYSTEM_font_family==Fantasque){
+		$mFamName = "ChaosFantasque";
+	}
+	LoadFont("BKLG_font",$mFamName,16,#FFFFFF,#1111111,500,LEFTDOWN,"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？―「」『』黒鷹名無金髪革命闘戦死銃");
+	SetFont($mFamName,16,#FFFFFF,#1111111,500,LEFTDOWN);
 
 	function bklg_reload()
 	{

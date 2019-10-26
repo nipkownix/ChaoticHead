@@ -84,7 +84,7 @@ function ChatPerson("$参加人数")
 ..SetChat
 function SetChat("ボックス名","$テキスト名",テキスト色)
 {
-	//SetFont("ChaosMSGothic", 12, テキスト色, #000000, 500, LIGHTDOWN);
+	//SetFont("ＭＳ ゴシック", 12, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "ChaosMSGothic";
 		$cnsize = 12;

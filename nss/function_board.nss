@@ -123,7 +123,7 @@ function CreateBoard($BoardX,$BoardY)
 
 function TitleBoard($タイトルテキスト)
 {
-	//SetFont("ChaosMSGothic", 16, #660099, #999999, 100, NULL);
+	//SetFont("ＭＳ ゴシック", 16, #660099, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
@@ -144,7 +144,7 @@ function TitleBoard($タイトルテキスト)
 	Request("BoardMain/BoardTitle1", PushText);
 	Request("BoardMain/BoardTitle1", NoLog);
 
-	//SetFont("ChaosMSGothic", 16, #660099, #999999, 100, NULL);
+	//SetFont("ＭＳ ゴシック", 16, #660099, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
@@ -165,7 +165,7 @@ function TitleBoard($タイトルテキスト)
 	Request("BoardMain/BoardTitle3", PushText);
 	Request("BoardMain/BoardTitle3", NoLog);
 
-	//SetFont("ChaosMSGothic", 16, #000000, #999999, 100, NULL);
+	//SetFont("ＭＳ ゴシック", 16, #000000, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
@@ -200,7 +200,7 @@ function EndBoard()
 ..SetBoard
 function SetBoard(ボックス名,$テキスト名)
 {
-	//SetFont("ChaosMSGothic", 16, #000000, #999999, 100, NULL);
+	//SetFont("ＭＳ ゴシック", 16, #000000, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
 		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
