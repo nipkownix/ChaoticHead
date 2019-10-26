@@ -26,7 +26,7 @@ function ch01_027_現実逃避()
 	SystemSet();
 
 
-//☆Cut-99――――――――――――――――――――――――――――――
+//☆Cut-99----------------------------- 
 //ＢＧ//黒
 //以下の拓巳のセリフ、ナレーション（音声）付きでもいいかもしれないです。
 	CreateColor("色１", 300, 0, 0, 800, 600, "Black");
@@ -125,3 +125,4 @@ I instantly started up ESO&, without a second's hesitation&.
 }
 
 
+ 
