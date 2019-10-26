@@ -143,7 +143,7 @@ He repeated the same motion&, flinging it&.
 
 //"Uuh&.&.&. guh&.&.&.!"
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Uuh&.&.&. guh&.&.&.!");
 //	Move("テキスト１",0,@40,@0,null,true);
 	Request("テキスト１", NoLog);
@@ -180,7 +180,7 @@ He repeated the same motion&, flinging it&.
 
 //"Feels like I've become an omnipotent god&."
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Feels like I've become an omnipotent god&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -229,7 +229,7 @@ He repeated the same motion&, flinging it&.
 /*森島おそらくこちらなので変更*/
 //What an amazingly strange feeling&, I thought&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "What an amazingly strange feeling&, I thought&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -257,7 +257,7 @@ He probably isn't listening anyway&, Suwa thought&.
 
 //Every shard of pain engraved on me like this gave me a genuine feeling of life&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Every shard of pain engraved on me like this gave me a genuine feeling<BR>of life&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -303,7 +303,7 @@ no way to resist what was happening&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //"I'm just a regular human being&, but I got my hands on a power equivalent to<BR>what you guys have&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I'm just a regular human being&, but I got my hands on a power<BR>equivalent to what you guys have&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -338,7 +338,7 @@ equivalent to what you guys have&."
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Everything was the work of the Noah II terminal inside the rucksack<BR>that bastard wore on his back&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -366,7 +366,7 @@ Suwa wore on his back&.
 	FadeDelete("テキスト１", 0, true);
 
 //As long as he had that with him&, he could enjoy the benefits of Noah II's power even without being near it&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As long as he had that with him&, he could enjoy the benefits of<BR>Noah II's power even without being near it&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -393,7 +393,7 @@ Noah II's power even without being nearby it&.
 	FadeDelete("テキスト１", 0, true);
 
 //人工のギガロマニアックスになるんだ。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "He would become an artificial Gigalomaniac&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -417,7 +417,7 @@ He could become an artificial Gigalomaniac&.
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa was being completely possessed by power&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa was being completely possessed by power&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -458,7 +458,7 @@ Suwa had been completely entranced by power&.
 
 //A religious fanatic who would do anything&, no matter how filthy&, for the sake of the teachings he followed and for their founder&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "A religious fanatic who would do anything&, no matter how filthy&,<BR>for the sake of the teachings he followed and for their founder&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -484,7 +484,7 @@ for the sake of the teachings he followed and for their founder&.
 	FadeDelete("テキスト１", 0, true);
 
 //"This power is a gift from God&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "This power is a gift from God&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -514,7 +514,7 @@ for the sake of the teachings he followed and for their founder&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Because it allow me to fight for the divine light&, for what I believe in&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Because it allows him to fight for the divine light&, for what<BR>he believes in&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -548,7 +548,7 @@ I believe in&."
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa hurled yet another stake&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa hurled yet another stake&. ");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -590,7 +590,7 @@ Suwa hurled yet another stake&.
 
 //It penetrated all the way to the back of my neck&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It penetrated all the way to the back of my neck&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -615,7 +615,7 @@ It penetrated to the back of Takumi's neck&.
 	FadeDelete("テキスト１", 0, true);
 
 //Pain so intense&, it felt like my whole body would tear apart&. Maddening pain&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Pain so intense&, it felt like my whole body would tear apart&.<BR>Maddening pain&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -643,7 +643,7 @@ withstand it&.
 	FadeDelete("テキスト１", 0, true);
 
 //It was like torture; bit by bit&, I advanced toward death&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was like torture; bit by bit&, I advanced toward death&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -669,7 +669,7 @@ bit by bit&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Haa&.&.&. haa&.&.&. haa&.&.&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Haa&.&.&. haa&.&.&. haa&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -699,7 +699,7 @@ bit by bit&.
 	FadeDelete("テキスト１", 0, true);
 
 //Though incapable of resistance&, I tensed my legs to keep from falling over&, and went on taking stakes in every part of my body&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Though incapable of resistance&, I tensed my legs to keep from<BR>falling over&,");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -725,7 +725,7 @@ Incapable of resistance&, yet still not falling over&,
 	FadeDelete("テキスト１", 0, true);
 
 //I went on taking stakes in every part of my body&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I went on taking stakes in every part of my body&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -767,7 +767,7 @@ He went on receiving stakes in every part of his body&.
 
 //My chest&. Stomach&. The tips of my toes&. All throughout my body&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "My chest&. Stomach&. The tips of my toes&. All throughout my body&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -794,7 +794,7 @@ his body&.
 	FadeDelete("テキスト１", 0, true);
 
 //Thick&, sharp stakes kept pounding into me without mercy&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Thick&, sharp stakes kept pounding into me without mercy&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -836,7 +836,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 
 //「虫ピンで標本にされた昆虫みたいだな」
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Like an insect pinned up as a specimen&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -866,7 +866,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //"And you ain't no rhinoceros beetle or butterfly&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "And you ain't no rhinoceros beetle or butterfly&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -896,7 +896,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //"A brat like you is more like the dung beetle type&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "A brat like you is more like the dung beetle type&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -927,7 +927,7 @@ Suwa kept making thick&, sharp stakes pound into him without mercy&.
 	FadeDelete("テキスト１", 0, true);
 
 //I had already reached the point at which it was impossible for me to stand&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I had already reached the point at which it was impossible<BR>for me to stand&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -955,7 +955,7 @@ for him to stand&.
 	FadeDelete("テキスト１", 0, true);
 
 //Willpower alone was what kept me from collapsing&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Willpower alone was what kept me from collapsing&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -998,7 +998,7 @@ Suwa couldn't help but find it strange that he hadn't collapsed yet&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //But&, I'll hit my limit soon&.&.&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "But&, I'll hit my limit soon&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1022,7 +1022,7 @@ But he would have to hit his limit soon&.
 	FadeDelete("テキスト１", 0, true);
 
 //I couldn't see clearly&, as if there were a mosaic filter laid over my vision&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I couldn't see clearly&, as if there were a mosaic filter laid over<BR>my vision&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1050,7 +1050,7 @@ anymore&.
 	FadeDelete("テキスト１", 0, true);
 
 //"If you've got any last words&, go on and say 'em&. But keep it to twenty letters or less&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you've got any last words&, go on and say 'em&. But keep it to<BR>twenty letters or less&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1083,7 +1083,7 @@ twenty letters or less&."
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa said to me gloatingly&, holding the next stake in his hand&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa said to me gloatingly&, holding the next stake in his hand&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1107,7 +1107,7 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Ha&.&.&. ah&.&.&. ha&, ah&.&.&. ha&.&.&. ah&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1137,7 +1137,7 @@ Suwa said to Takumi gloatingly&, holding the next stake in his hand&.
 	FadeDelete("テキスト１", 0, true);
 
 //With the next one&, he'll kill me&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "With the next one&, he'll kill me&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1161,7 +1161,7 @@ Suwa will kill him with the next one&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Earlier&.&.&. you called me a cherry-boy&.&.&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Earlier&.&.&. you called me a cherry-boy&.&.&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1192,7 +1192,7 @@ Suwa will kill him with the next one&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Did I hurt your feelings?"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Did I hurt your feelings?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1223,7 +1223,7 @@ Suwa will kill him with the next one&.
 	FadeDelete("テキスト１", 0, true);
 
 //I glared at Suwa&, relying on his far-off voice to find him&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I glared at Suwa&, relying on his far-off voice to find him&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1247,7 +1247,7 @@ Takumi glared at Suwa with lightless eyes&.
 	FadeDelete("テキスト１", 0, true);
 
 //"This is the last one&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "This is the last one&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1277,7 +1277,7 @@ Takumi glared at Suwa with lightless eyes&.
 	FadeDelete("テキスト１", 0, true);
 
 //"As for the salvation of the divine light&.&.&. I'm sure as hell not givin' it to you!"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "As for the salvation of the divine light&.&.&. I'm sure as hell<BR>not givin' it to you!");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1320,7 +1320,7 @@ not givin' it to you!"
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //I sensed the stake Suwa had flung as it sliced through the air&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I sensed the stake Suwa had flung as it sliced through the air&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1345,7 +1345,7 @@ Suwa flung the stake in his grasp&.
 	FadeDelete("テキスト１", 0, true);
 
 //"&.&.&.Did you know?"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "&.&.&.Did you know?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1386,7 +1386,7 @@ Suwa flung the stake in his grasp&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //It was the stake of certain death&. A cross to bring me the promised Gospel&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "It was the stake of certain death&. A cross to bring me the promised<BR>Gospel&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1418,7 +1418,7 @@ Gospel&.
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //The one who would die with this single blow was―
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The one who would die with this single blow was―");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1446,7 +1446,7 @@ The one who would die with this single blow was―
 
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
 //"Virgins have incredible imaginations―"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Virgins have incredible imaginations―");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1490,7 +1490,7 @@ The one who would die with this single blow was―
 
 //With a dull sound&.
 	CreateColor("CenterLog", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "With a dull sound&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1535,7 +1535,7 @@ With a dull sound&.
 	Wait(1000);
 
 //The stake plunged deep into his forehead&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The stake plunged deep into his forehead&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1559,7 +1559,7 @@ The stake plunged deep into his forehead&.
 	FadeDelete("テキスト１", 0, true);
 
 //Agony erupted throughout Suwa's body―gushing up from within him&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Agony erupted throughout Suwa's body―gushing up from within him&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1586,7 +1586,7 @@ it had been an illusion&.
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa let out a voiceless scream&, moaning&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa let out a voiceless scream&, moaning&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1609,7 +1609,7 @@ I let out a deep breath and licked my parched lips&.
 	FadeDelete("テキスト１", 0, true);
 
 //Suwa's entire body was impaled with cross-shaped stakes&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Suwa's entire body was impaled with cross-shaped<BR>stakes&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1634,7 +1634,7 @@ In my hand was a single cross-shaped stake&.
 	FadeDelete("テキスト１", 0, true);
 
 //When he looked up&, there was a cross stuck in his forehead&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "When he looked up&, there was a cross stuck in his<BR>forehead&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1658,7 +1658,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //"The miracle of the Resurrection is a story&, and a delusion&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The miracle of the Resurrection is a story&,<BR>and a delusion&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1688,7 +1688,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //"What&.&.&. did you do&.&.&.?"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "What&.&.&. did you do&.&.&.?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1719,7 +1719,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Delusion synchronization&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Delusion synchronization&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1750,7 +1750,7 @@ When I looked up at the sky&, there were leaden clouds&.
 	FadeDelete("テキスト１", 0, true);
 
 //Assimilation with delusions&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Assimilation with delusions&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1774,7 +1774,7 @@ An invasion of the heart&.
 	FadeDelete("テキスト１", 0, true);
 
 //Like two sets of ripples canceling each other out&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Like two sets of ripples canceling each other out&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1798,7 +1798,7 @@ Like two wavelengths resonating&.
 	FadeDelete("テキスト１", 0, true);
 
 //Entwining with one another&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Entwining with one another&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1823,7 +1823,7 @@ Melting together&.
 	FadeDelete("テキスト１", 0, true);
 
 //The fate you created would be warped&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "The fate you created would be warped&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1848,7 +1848,7 @@ Warping the fates created by others&.
 	FadeDelete("テキスト１", 0, true);
 
 //And switched out&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "And switched out&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1872,7 +1872,7 @@ Switching them in&.
 	FadeDelete("テキスト１", 0, true);
 
 //No one could do that&, Suwa thought disbelievingly&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "No one could do that&, Suwa thought disbelievingly&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1897,7 +1897,7 @@ No one could do that&, said Suwa's expression&.
 	Delete("@text058");
 
 //"If you're God's vanguard&, then crumble to dust like the Messiah&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "If you're God's vanguard&, then crumble to dust<BR>like the Messiah&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", NoIcon);
@@ -1931,7 +1931,7 @@ No one could do that&, said Suwa's expression&.
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
 //Takumi tossed the stake away&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Takumi tossed the stake away&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1955,7 +1955,7 @@ I tossed the stake away&.
 	FadeDelete("テキスト１", 0, true);
 
 //Colors were rapidly vanishing from Suwa's vision&.
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Colors were rapidly vanishing from Suwa's vision&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1979,7 +1979,7 @@ Suwa's eyes were rapidly losing their light&.
 	FadeDelete("テキスト１", 0, true);
 
 //"Also"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "Also");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -2009,7 +2009,7 @@ Suwa's eyes were rapidly losing their light&.
 	FadeDelete("テキスト１", 0, true);
 
 //"I don't need salvation&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, @40, Middle, Auto, Auto, "I don't need salvation&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -2071,7 +2071,7 @@ function TypeBegin10()
 
 function SetText2("ボックス名","$テキスト名")
 {
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
 	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);

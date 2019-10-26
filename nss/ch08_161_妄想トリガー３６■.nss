@@ -595,7 +595,7 @@ The words written there were
 
 //―Whose eyes are those eyes?
 	CreateColor("色１", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "――Whose eyes are those eyes？");
 
 	SetBacklog("――Whose eyes are those eyes?", "NULL", NULL);

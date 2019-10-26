@@ -482,7 +482,7 @@ Yua held her head and shook it like a child throwing a tantrum&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900320ma">
 //"Who are you?"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Who are you?");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -537,7 +537,7 @@ loathing&, though she had brought it all upon herself?
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900340ma">
 //"Now&, you too"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Now&, you too");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -587,7 +587,7 @@ way for Yua―or perhaps Mia&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900360ma">
 //"Shall meet the same fate as me&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Shall meet the same fate as me&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -688,7 +688,7 @@ of their clothing flutter fiercely&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900380ma">
 //"Because we were originally one&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Because we were originally one&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -723,7 +723,7 @@ of their clothing flutter fiercely&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900400ma">
 //"We're only going back there&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "We're only going back there&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -757,7 +757,7 @@ of their clothing flutter fiercely&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900420ma">
 //"Take one step forward"
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "Take one step forward");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -790,7 +790,7 @@ of their clothing flutter fiercely&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900440ma">
 //"And you will become me&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 200, center, Middle, Auto, Auto, "And you will become me&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -885,7 +885,7 @@ Mia looked in her direction and smiled&.
 //【美愛】
 //<voice name="美愛" class="美愛" src="voice/ch09/18900530ma">
 //"You will jump&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 500, center, Middle, Auto, Auto, "You will jump&.");
 	Request("テキスト１", NoLog);
 	Request("テキスト１", Erase);
@@ -1265,7 +1265,7 @@ It was a single sword&.
 
 //All too keen&.
 //	CreateColor("色１", 1000, 0, 0, 800, 600, "BLACK");
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("テキスト１", 1000, center, Middle, Auto, Auto, "All too keen&.");
 	Request("テキスト１", NoLog);
 	SetBacklog("All too keen", "null", null);
@@ -1290,7 +1290,7 @@ All too elegant&.
 	Delete("テキスト１");
 
 //All too valiant&.
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("テキスト１", 1000, center, Middle, Auto, Auto, "All too valiant&.");
 	Request("テキスト１", NoLog);
 	SetBacklog("All too valiant", "null", null);
@@ -1310,7 +1310,7 @@ All too immaculate&.
 	Delete("テキスト１");
 
 //All too profound and unfamiliar&.
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("テキスト１", 1000, center, Middle, Auto, Auto, "All too profound and unfamiliar&.");
 	Request("テキスト１", NoLog);
 	SetBacklog("All too profound and unfamiliar", "null", null);
@@ -1330,7 +1330,7 @@ All too delicate and easily damaged&.
 	Delete("テキスト１");
 
 //And beautiful enough to invoke tears&.
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, NULL);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, NULL);
 	CreateText("テキスト１", 1000, center, Middle, Auto, Auto, "And beautiful enough to invoke tears&.");
 	Request("テキスト１", NoLog);
 	SetBacklog("And beautiful enough to invoke tears", "null", null);

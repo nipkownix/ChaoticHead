@@ -196,7 +196,7 @@ curse-like words to himself&.
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 220, center, Middle, Auto, Auto, "―None of you should be able to go&.");
 	Move("テキスト１", 0, @10, @0, null, true);
 	Request("テキスト１", Erase);

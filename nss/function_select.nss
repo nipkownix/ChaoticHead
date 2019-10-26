@@ -2011,7 +2011,7 @@ function SetChoice02($テキストデータ１,$テキストデータ２)
 	$SYSTEM_text_erase_lock = true;
 	$SYSTEM_skip_lock = true;
 
-	SetMainFont("DroidMSGothic", 22, #FFFFFF, #000000, 500, LEFTDOWN);
+	SetMainFont("ＭＳ ゴシック", 22, #FFFFFF, #000000, 500, LEFTDOWN);
 
 	LoadImage("select_img","cg/sys/select/Select001.png");
 
@@ -2125,7 +2125,7 @@ function ChoiceB02()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2170,7 +2170,7 @@ function SetChoice03($テキストデータ１,$テキストデータ２,$テキストデータ３)
 	$SYSTEM_text_erase_lock = true;
 	$SYSTEM_skip_lock = true;
 
-	SetMainFont("DroidMSGothic", 22, #FFFFFF, #000000, 500, LEFTDOWN);
+	SetMainFont("ＭＳ ゴシック", 22, #FFFFFF, #000000, 500, LEFTDOWN);
 
 	LoadImage("select_img","cg/sys/select/Select001.png");
 
@@ -2305,7 +2305,7 @@ function ChoiceB03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ２ = "【" + $テキストデータ２ + "】";
 
@@ -2352,7 +2352,7 @@ function ChoiceC03()
 	WaitAction("@選択肢*/*");
 	WaitAction("@選択肢*/*/*");
 	
-	//SetFont("DroidMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
+	//SetFont("ChaosMSGothic", 22, #FFFFFF, #00000, 500,DOWN);
 
 	$テキストデータバックログ３ = "【" + $テキストデータ３ + "】";
 

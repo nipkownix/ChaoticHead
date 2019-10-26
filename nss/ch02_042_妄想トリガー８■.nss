@@ -749,7 +749,7 @@ girl's underling&.
 
 //――Dyed scarlet below the full moon   The girl turns around
 
-	SetMainFont("DroidMSGothic", 20, #FF0000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FF0000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "――Dyed scarlet below the full moon   The girl turns around");
 	SetBacklog("――Dyed scarlet below the full moon   The girl turns around", "NULL", NULL);
 	Request("テキスト１", NoLog);
@@ -970,7 +970,7 @@ Would Neidhardt become a hikikomori as well?
 
 //――Whose eyes are those eyes?
 {	CreateColor("色１", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "――Whose eyes are those eyes?");
 
 	SetBacklog("――Whose eyes are those eyes?", "NULL", NULL);

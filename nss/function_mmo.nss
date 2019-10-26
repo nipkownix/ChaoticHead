@@ -79,18 +79,18 @@ function MmoPlace("$場所")
 ..SetMmo
 function SetMmo("ボックス名","$テキスト名",テキスト色)
 {
-	//SetFont("DroidMSGothic", 16, テキスト色, #000000, 500, LIGHTDOWN);
+	//SetFont("ChaosMSGothic", 16, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
-		$mFamName = "DroidMSGothic";
+		$mFamName = "ChaosMSGothic";
 		$mnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$mFamName = "DroidUbuntuMono";
+		$mFamName = "ChaosUbuntuMono";
 		$mnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$mFamName = "DroidIosevka";
+		$mFamName = "ChaosIosevka";
 		$mnsize = 20;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$mFamName = "DroidFantasque";
+		$mFamName = "ChaosFantasque";
 		$mnsize = 16;
 	}
 	SetFont($mFamName, $mnsize, テキスト色, #000000, 500, LIGHTDOWN);

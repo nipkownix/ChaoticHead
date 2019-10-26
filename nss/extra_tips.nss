@@ -27,13 +27,13 @@ chapter main
 	
 	extTips_itembtn_set();
 	
-	//SetFont("DroidMSGothic",20,#FFFFFF,#000000,500,LEFTDOWN);
+	//SetFont("ÇlÇr ÉSÉVÉbÉN",20,#FFFFFF,#000000,500,LEFTDOWN);
 	if(#SYSTEM_font_family==RodinBokutoh){
 		$txt_size=18;
 	}else{
 		$txt_size=20;
 	}
-	SetMainFont("DroidMSGothic",$txt_size,#FFFFFF,#000000,500,LEFTDOWN);
+	SetMainFont("ChaosMSGothic",$txt_size,#FFFFFF,#000000,500,LEFTDOWN);
 	
 	Fade("tps_BLK",300,0,null,true);
 	$tpsExit=false;
@@ -422,16 +422,16 @@ function extTips_make_itembtn($num,$x,$y,$click,$str)
 		$str="Å°"+$str;
 	}
 	if(!$click){
-		SetMainFont("DroidMSGothic",14,#FFFFFF,#000000,500,LEFTDOWN);
+		SetMainFont("ChaosMSGothic",14,#FFFFFF,#000000,500,LEFTDOWN);
 	}else{
-		SetMainFont("DroidMSGothic",14,#648C96,#000000,500,LEFTDOWN);
+		SetMainFont("ChaosMSGothic",14,#648C96,#000000,500,LEFTDOWN);
 	}
 	$nut="@WND_title/tps_ITEM_title"+$num;
 	CreateText($nut,1000,$x,$txt_y,auto,auto,$str);
 	Request($nut,NoLog);
 	Request($nut,PushText);
 	$w=ImageHorizon($nut)-32;
-	SetMainFont("DroidMSGothic",14,#648C96,#000000,500,LEFTDOWN);
+	SetMainFont("ChaosMSGothic",14,#648C96,#000000,500,LEFTDOWN);
 	$nut="@WND_title/tps_ITEM_title_clicked"+$num;
 	CreateText($nut,1000,$x,$txt_y,auto,auto,$str);
 	Request($nut,NoLog);

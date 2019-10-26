@@ -746,7 +746,7 @@ Neidhardt: Shibuya ((((;゜Д゜))) *shudder*
 	MusicStart("@CH06",3000,1000,0,0,null,true);
 	CreateColor("チャット下地色", 1500, 0, 0, 800, 600, "#252525");
 
-	SetMainFont("DroidMSGothic", 32, #AAFF2D, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 32, #AAFF2D, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1600, 2450, 350, Auto, Auto, "Shogun： ｆｕｎ＾１０×ｉｎｔ＾４０＝Ｉｒ２");
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);

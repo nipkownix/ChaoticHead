@@ -873,7 +873,7 @@ exist&."
 
 	SetBacklog("Rimi", "null", null);
 
-	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 64, #000000, #666666, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "Ri");
 	Move("テキスト１４", 0, @-30, @0, null, true);
 	Request("テキスト１４", NoLog);
@@ -883,7 +883,7 @@ exist&."
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 64, #000000, #666666, 500, LIGHTDOWN);
 	CreateText("テキスト１５", 100, center, middle, Auto, Auto, "mi");
 	Move("テキスト１５", 0, @30, @0, null, true);
 	Request("テキスト１５", NoLog);
@@ -2633,7 +2633,7 @@ exist&."
 	Wait(1000);
 
 	SetBacklog("Rimi", "null", null);
-	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 64, #000000, #666666, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "Ri");
 	Move("テキスト１４", 0, @-30, @0, null, true);
 	Request("テキスト１４", NoLog);
@@ -2643,7 +2643,7 @@ exist&."
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 64, #000000, #666666, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 64, #000000, #666666, 500, LIGHTDOWN);
 	CreateText("テキスト１５", 100, center, middle, Auto, Auto, "mi");
 	Move("テキスト１５", 0, @30, @0, null, true);
 	Request("テキスト１５", NoLog);

@@ -929,7 +929,7 @@ I don't know a thing&.
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１３", 100, center, middle, Auto, Auto, "・Shogun");
 	Move("テキスト１３", 0, @-10, @-60, null, false);
 	SetBacklog("・Shogun", "NULL", NULL);
@@ -940,7 +940,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "・The demon girl");
 	Move("テキスト１４", 0, @0, @-36, null, false);
 	SetBacklog("・The demon girl", "NULL", NULL);
@@ -951,7 +951,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１５", 100, center, middle, Auto, Auto, "・Yua");
 	Move("テキスト１５", 0, @-10, @-12, null, true);
 	SetBacklog("・Yua", "NULL", NULL);
@@ -962,7 +962,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１６", 100, center, middle, Auto, Auto, "・FES");
 	Move("テキスト１６", 0, @0, @12, null, false);
 	SetBacklog("・FES", "NULL", NULL);
@@ -973,7 +973,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１７", 100, center, middle, Auto, Auto, "・Sena");
 	Move("テキスト１７", 0, @-10, @36, null, false);
 	SetBacklog("・Sena", "NULL", NULL);
@@ -984,7 +984,7 @@ I don't know a thing&.
 
 	Wait(1000);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１８", 100, center, middle, Auto, Auto, "・A sword");
 	Move("テキスト１８", 0, @-20, @60, null, true);
 	SetBacklog("・A sword", "NULL", NULL);

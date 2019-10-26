@@ -196,7 +196,7 @@ If I too were being watched by someone&.
 
 //Whose eyes are those eyes?
 {	CreateColor("êFÇP", 500, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ÉeÉLÉXÉgÇP", 600, center, middle, Auto, Auto, "Whose eyes are those eyes?");
 
 	SetBacklog("Whose eyes are those eyes?", "NULL", NULL);

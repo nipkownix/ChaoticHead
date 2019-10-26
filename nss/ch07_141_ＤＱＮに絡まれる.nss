@@ -529,7 +529,7 @@ wouldn't disappear for me&.
 I'm sorry&.&.&. I'm sorry&.&.&.
 
 //―I wanna kill them&.
-{	SetMainFont("DroidMSGothic", 20, #ffffff, #000000, 500, LIGHTDOWN);
+{	SetMainFont("ＭＳ ゴシック", 20, #ffffff, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "――I wanna kill them&.");
 	Move("テキスト１", 0, @13, @0, null, true);
 	Request("テキスト１", Erase);
@@ -543,7 +543,7 @@ I'm sorry&.&.&. I'm sorry&.&.&.
 I'm sorry&.&.&. I'm&, sorry&.&.&.
 
 //―I wanna kill them&.
-{	SetMainFont("DroidMSGothic", 20, #ffffff, #000000, 500, LIGHTDOWN);
+{	SetMainFont("ＭＳ ゴシック", 20, #ffffff, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト２", 1000, center, middle, Auto, Auto, "――I wanna kill them&.");
 	Move("テキスト２", 0, @13, @0, null, true);
 	Request("テキスト２", Erase);

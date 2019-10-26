@@ -123,18 +123,18 @@ function CreateBoard($BoardX,$BoardY)
 
 function TitleBoard($タイトルテキスト)
 {
-	//SetFont("DroidMSGothic", 16, #660099, #999999, 100, NULL);
+	//SetFont("ChaosMSGothic", 16, #660099, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
-		$cFamName = "DroidMSGothic";
+		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$cFamName = "DroidUbuntuMono";
+		$cFamName = "ChaosUbuntuMono";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$cFamName = "DroidIosevka";
+		$cFamName = "ChaosIosevka";
 		$cnsize = 20;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$cFamName = "DroidFantasque";
+		$cFamName = "ChaosFantasque";
 		$cnsize = 16;
 	}
 	SetFont($cFamName, $cnsize, #660099, #999999, 100, NULL);
@@ -144,18 +144,18 @@ function TitleBoard($タイトルテキスト)
 	Request("BoardMain/BoardTitle1", PushText);
 	Request("BoardMain/BoardTitle1", NoLog);
 
-	//SetFont("DroidMSGothic", 16, #660099, #999999, 100, NULL);
+	//SetFont("ChaosMSGothic", 16, #660099, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
-		$cFamName = "DroidMSGothic";
+		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$cFamName = "DroidUbuntuMono";
+		$cFamName = "ChaosUbuntuMono";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$cFamName = "DroidIosevka";
+		$cFamName = "ChaosIosevka";
 		$cnsize = 20;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$cFamName = "DroidFantasque";
+		$cFamName = "ChaosFantasque";
 		$cnsize = 16;
 	}
 	SetFont($cFamName, $cnsize, #660099, #999999, 100, NULL);
@@ -165,18 +165,18 @@ function TitleBoard($タイトルテキスト)
 	Request("BoardMain/BoardTitle3", PushText);
 	Request("BoardMain/BoardTitle3", NoLog);
 
-	//SetFont("DroidMSGothic", 16, #000000, #999999, 100, NULL);
+	//SetFont("ChaosMSGothic", 16, #000000, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
-		$cFamName = "DroidMSGothic";
+		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$cFamName = "DroidUbuntuMono";
+		$cFamName = "ChaosUbuntuMono";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$cFamName = "DroidIosevka";
+		$cFamName = "ChaosIosevka";
 		$cnsize = 20;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$cFamName = "DroidFantasque";
+		$cFamName = "ChaosFantasque";
 		$cnsize = 16;
 	}
 	SetFont($cFamName, $cnsize, #000000, #999999, 100, NULL);
@@ -200,25 +200,25 @@ function EndBoard()
 ..SetBoard
 function SetBoard(ボックス名,$テキスト名)
 {
-	//SetFont("DroidMSGothic", 16, #000000, #999999, 100, NULL);
+	//SetFont("ChaosMSGothic", 16, #000000, #999999, 100, NULL);
 	if(#SYSTEM_font_family==MSGothic){
-		$cFamName = "DroidMSGothic";
+		$cFamName = "ChaosMSGothic";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$cFamName = "DroidUbuntuMono";
+		$cFamName = "ChaosUbuntuMono";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$cFamName = "DroidIosevka";
+		$cFamName = "ChaosIosevka";
 		$cnsize = 20;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$cFamName = "DroidFantasque";
+		$cFamName = "ChaosFantasque";
 		$cnsize = 16;
 	}
 	SetFont($cFamName, $cnsize, #000000, #999999, 100, NULL);
 	LoadText("$構文名","ボックス名","$テキスト名",720,600,0,16);
 
 //		$テキスト名２ = "$テキスト名" + "a";
-//		SetFont("DroidMSGothic", 16, #FFFFFF00, #FFFFFF00, 100, NULL);
+//		SetFont("ChaosMSGothic", 16, #FFFFFF00, #FFFFFF00, 100, NULL);
 //		LoadText("$構文名","ボックス名","$テキスト名２",720,600,0,16);
 //		Request("$テキスト名２", NoIcon);
 //		Request("$テキスト名２", PushText);

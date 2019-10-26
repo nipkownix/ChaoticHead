@@ -323,7 +323,7 @@ guys and creeps&."
 
 	CreateColor("back05", 2000, 0, 0, 800, 600, "Black");
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, center, 100, Auto, Auto, "I");
 	Move("texta01", 0, @300, @10, null, true);
 	CreateText("texta02", 1900, center, 100, Auto, Auto, "wonder");
@@ -367,7 +367,7 @@ guys and creeps&."
 
 	Wait(200);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1700, 50, 50, Auto, Auto, "That's not what the news said&. The M&.O&. for each of them is too different&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -387,7 +387,7 @@ guys and creeps&."
 	CreateColor("back07", 1600, 0, 0, 800, 600, "Black");
 	CreateColor("back08", 1500, 0, 0, 800, 600, "Black");
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1500, 50, 100, Auto, Auto, " ");
 	Move("textc01", 0, @-300, @10, null, true);
 	CreateText("textc02", 1500, center, 100, Auto, Auto, " But");
@@ -500,7 +500,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1200, 700, 50, Auto, Auto, " Eh&,");
 	Move("texth01", 0, @-40, @0, null, true);
 	CreateText("texth02", 1200, 710, 50, Auto, Auto, "why&,");
@@ -591,7 +591,7 @@ guys and creeps&."
 	Fade("back05", 500, 1000, null, true);
 	FadeDelete("textj*", 0, true);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, 50, 100, Auto, Auto, " Hey&,");
 	Move("texta01", 0, @120, @10, null, true);
 	CreateText("texta02", 1900, 50, 100, Auto, Auto, " take");
@@ -625,7 +625,7 @@ guys and creeps&."
 
 	CreateColor("back06", 1800, 0, 0, 800, 600, "Black");
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1700, 50, 50, Auto, Auto, "Geh&, what's this&, it's totally my kind of thing&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -646,7 +646,7 @@ guys and creeps&."
 
 	CreateColor("back08", 1500, 0, 0, 800, 600, "Black");
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1500, 50, 300, Auto, Auto, "I got it a little while ago&.");
 	Move("textc01", 0, @0, @0, null, true);
 	CreateText("textc02", 1500, 50, 300, Auto, Auto, "One of those 'Whose Eyes Are Those Eyes' T-shirts&.");
@@ -724,7 +724,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1200, 100, 50, Auto, Auto, "But isn't it kind of&, you know?");
 	Move("texth01", 0, @0, @0, null, true);
 	CreateText("texth02", 1200, 100, 50, Auto, Auto, "Like begging the New Gen perp&, come kill me&, please&.");
@@ -771,7 +771,7 @@ guys and creeps&."
 
 
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texta01", 1900, 50, 100, Auto, Auto, "Hasn't");
 	Move("texta01", 0, @0, @10, null, true);
 	CreateText("texta02", 1900, 50, 100, Auto, Auto, " Shibuya");
@@ -807,7 +807,7 @@ guys and creeps&."
 	CreateColor("back06", 1800, 0, 0, 800, 600, "Black");
 	CreateColor("back07", 1700, 0, 0, 800, 600, "Black");
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textb01", 1800, 50, 50, Auto, Auto, "Scary&, scaryÅ`  Can't even walk alone at night&.");
 	Move("textb01", 0, @0, @10, null, true);
 	Request("textb*", NoLog);
@@ -823,7 +823,7 @@ guys and creeps&."
 	FadeDelete("texta*", 3000, false);
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("textc01", 1800, 300, 400, Auto, Auto, "New Gen is such a pain in the ass&.");
 	Move("textc01", 0, @0, @0, null, true);
 
@@ -850,7 +850,7 @@ guys and creeps&."
 	FadeDelete("textc*", 3000, false);
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texte01", 1700, 300, 100, Auto, Auto, "But");
 	Move("texte01", 0, @+20, @10, null, true);
 	CreateText("texte02", 1700, 300, 100, Auto, Auto, "they");
@@ -915,7 +915,7 @@ guys and creeps&."
 	FadeDelete("textf*", 3000, false);
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ÇlÇr ÉSÉVÉbÉN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("texth01", 1700, 100, 50, Auto, Auto, "I just heard about those kinds of rumors&, that's all&.");
 	Move("texth01", 0, @0, @0, null, true);
 

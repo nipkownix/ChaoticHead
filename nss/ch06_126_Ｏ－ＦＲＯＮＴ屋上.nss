@@ -1572,7 +1572,7 @@ Were all watching&.&.&. me&.&.&.
 
 //―Don't look at me&.
 {	CreateColor("色１", 100, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "――Don't look at me&.");
 
 	SetBacklog("――Don't look at me.", "NULL", NULL);

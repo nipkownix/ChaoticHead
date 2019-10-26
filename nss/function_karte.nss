@@ -57,21 +57,21 @@ function SetKarte()
 	$KarteSpace = $KarteBoard * $KarteVertical;
 	$ÉJÉãÉeècïù = $KarteSpace - $KarteWindowVertical;
 
-	//SetFont("DroidMSGothic", 14, #555555, #000000, 500, NULL);
+	//SetFont("ChaosMSGothic", 14, #555555, #000000, 500, NULL);
 	if(#SYSTEM_font_family==MSGothic){
-		$mFamName = "DroidMSGothic";
+		$mFamName = "ChaosMSGothic";
 		$mnsize = 14;
 		$KarteTextY = -2;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$mFamName = "DroidUbuntuMono";
+		$mFamName = "ChaosUbuntuMono";
 		$mnsize = 14;
 		$KarteTextY = -2;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$mFamName = "DroidIosevka";
+		$mFamName = "ChaosIosevka";
 		$mnsize = 18;
 		$KarteTextY = -6;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$mFamName = "DroidFantasque";
+		$mFamName = "ChaosFantasque";
 		$mnsize = 14;
 		$KarteTextY = -2;
 	}

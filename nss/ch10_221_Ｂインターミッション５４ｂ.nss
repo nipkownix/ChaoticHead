@@ -1132,7 +1132,7 @@ Where might that sky of ours have gone――
 
 function SetText2("ボックス名","$テキスト名")
 {
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
 	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);

@@ -34,7 +34,7 @@ function ch09_178_真実()
 
 
 //"You are&.&.&. a delusionary existence&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("テキスト１", 0, @13, @0, null, true);
 	CreateVOICE("梨深","ch09/17800010ri");

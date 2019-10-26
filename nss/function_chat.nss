@@ -84,18 +84,18 @@ function ChatPerson("$参加人数")
 ..SetChat
 function SetChat("ボックス名","$テキスト名",テキスト色)
 {
-	//SetFont("DroidMSGothic", 12, テキスト色, #000000, 500, LIGHTDOWN);
+	//SetFont("ChaosMSGothic", 12, テキスト色, #000000, 500, LIGHTDOWN);
 	if(#SYSTEM_font_family==MSGothic){
-		$cFamName = "DroidMSGothic";
+		$cFamName = "ChaosMSGothic";
 		$cnsize = 12;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$cFamName = "DroidUbuntuMono";
+		$cFamName = "ChaosUbuntuMono";
 		$cnsize = 12;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$cFamName = "DroidIosevka";
+		$cFamName = "ChaosIosevka";
 		$cnsize = 16;
 	}else if(#SYSTEM_font_family==IBMPlex){
-		$cFamName = "DroidFantasque";
+		$cFamName = "ChaosFantasque";
 		$cnsize = 12;
 	}
 	SetFont($cFamName, $cnsize, テキスト色, #000000, 500, LIGHTDOWN);

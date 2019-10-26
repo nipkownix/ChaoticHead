@@ -6,7 +6,7 @@
 
 chapter main
 {
-	SetMainFont("DroidMSGothic",22,#ffffff,#666666,500,NONE);//明朝
+	SetMainFont("ＭＳ ゴシック",22,#ffffff,#666666,500,NONE);//明朝
 
 	CreateColor("デバッグ背景",20001, 0,0, 800,600,0x333333);
 	Fade("デバッグ背景",0,0,null,false);

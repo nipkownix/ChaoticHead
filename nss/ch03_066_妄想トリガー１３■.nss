@@ -566,7 +566,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 //通りゃんせ　通りゃんせ
 //ここはどこの　細道じゃ
 //天神さまの　細道じゃ
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "Let me pass  Let me pass<BR>Where will this  path take me?<BR>It's the path　to the Tenjin shrine");
 
 	SetBacklog("Let me pass  Let me pass", "NULL", NULL);
@@ -584,7 +584,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 //ちょっと通して　くだしゃんせ
 //御用のないもの　通しゃせぬ
 //この子の七つの　お祝いに
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "Will you please　let me pass?<BR>Not if you　have no business here<BR>To celebrate my child　turning seven");
 
 	SetBacklog("Will you please　let me pass?", "NULL", NULL);
@@ -601,7 +601,7 @@ Well&, but it wasn't as though I remembered them perfectly&.
 
 //お札を納めに　参ります
 //行きはよいよい　帰りは――
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 600, center, middle, Auto, Auto, "I've come to　present a tithe<BR>Going there is easy&,　but coming home is―");
 
 	$行きは = PassageTime("SE20");

@@ -91,7 +91,7 @@ only a magnitude 3 earthquake&.
 //"Perhaps Shibuya is cursed"
 {	CreateColor("F‚P", 150, 0, 0, 800, 600, "Black");
 	Delete("”wŒi‚R");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 200, center, Middle, Auto, Auto, "gPerhaps Shibuya is cursedh");
 	Move("ƒeƒLƒXƒg‚P", 0, @10, @0, null, true);
 	SetBacklog("gPerhaps Shibuya is cursedh", "NULL", NULL);

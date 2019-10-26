@@ -2947,7 +2947,7 @@ so kill me\
 function CenterLog1("$•¶š—ñ", Š—vŠÔ)
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ");
 	Move("text01", 0, @0, @0, null, true);
 	SetBacklog("$•¶š—ñ", "NULL", NULL);
@@ -2963,7 +2963,7 @@ function CenterLog1("$•¶š—ñ", Š—vŠÔ)
 function CenterLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q", Š—vŠÔ)
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚P");
 	Move("text01", 0, @0, @-12, null, true);
 	SetBacklog("$•¶š—ñ‚P", "NULL", NULL);
@@ -2974,7 +2974,7 @@ function CenterLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q", Š—vŠÔ)
 
 	WaitKey(Š—vŠÔ);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚Q");
 	Move("text02", 0, @0, @+12, null, true);
 	SetBacklog("$•¶š—ñ‚Q", "NULL", NULL);
@@ -2990,7 +2990,7 @@ function CenterLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q", Š—vŠÔ)
 function CenterLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R", Š—vŠÔ)
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚P");
 	Move("text01", 0, @0, @-24, null, true);
 	SetBacklog("$•¶š—ñ‚P", "NULL", NULL);
@@ -3001,7 +3001,7 @@ function CenterLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R", Š—vŠÔ)
 
 	WaitKey(Š—vŠÔ);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚Q");
 	Move("text02", 0, @0, @+0, null, true);
 	SetBacklog("$•¶š—ñ‚Q", "NULL", NULL);
@@ -3012,7 +3012,7 @@ function CenterLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R", Š—vŠÔ)
 
 	WaitKey(Š—vŠÔ);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text03", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚R");
 	Move("text03", 0, @0, @+24, null, true);
 	SetBacklog("$•¶š—ñ‚R", "NULL", NULL);
@@ -3035,7 +3035,7 @@ function ClearLog()
 function CenterNoLog1("$•¶š—ñ")
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ");
 	Move("text01", 0, @0, @0, null, true);
 	Request("text01", NoLog);
@@ -3049,7 +3049,7 @@ function CenterNoLog1("$•¶š—ñ")
 function CenterNoLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q")
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚P");
 	Move("text01", 0, @0, @-12, null, true);
 	Request("text01", NoLog);
@@ -3057,7 +3057,7 @@ function CenterNoLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q")
 	Request("text01", Enter);
 	WaitAction("text01", null);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚Q");
 	Move("text02", 0, @0, @+12, null, true);
 	Request("text02", NoLog);
@@ -3070,7 +3070,7 @@ function CenterNoLog2("$•¶š—ñ‚P", "$•¶š—ñ‚Q")
 function CenterNoLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R")
 {
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text01", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚P");
 	Move("text01", 0, @0, @-24, null, true);
 	Request("text01", NoLog);
@@ -3078,7 +3078,7 @@ function CenterNoLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R")
 	Request("text01", Enter);
 	WaitAction("text01", null);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text02", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚Q");
 	Move("text02", 0, @0, @+0, null, true);
 	Request("text02", NoLog);
@@ -3086,7 +3086,7 @@ function CenterNoLog3("$•¶š—ñ‚P", "$•¶š—ñ‚Q", "$•¶š—ñ‚R")
 	Request("text02", Enter);
 	WaitAction("text02", null);
 
-	SetMainFont("DroidMSGothic", 20, WHITE, BLACK, 500, RIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, WHITE, BLACK, 500, RIGHTDOWN);
 	CreateText("text03", 200, Center, Middle, Auto, Auto, "$•¶š—ñ‚R");
 	Move("text03", 0, @0, @+24, null, true);
 	Request("text03", NoLog);

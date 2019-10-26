@@ -95,7 +95,7 @@ to prove I wasn't an imposter&.
 //y—œ[z
 //<voice name="—œ[" class="—œ[" src="voice/ch09/18100010ri">
 //"You are&.&.&. a delusionary existence&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You are&.&.&. a delusionary existence&.");
 	Move("ƒeƒLƒXƒg‚P", 0, @13, @0, null, true);
 

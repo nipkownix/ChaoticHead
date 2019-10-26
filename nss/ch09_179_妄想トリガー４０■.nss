@@ -80,7 +80,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 2)
 //y—œ[z
 //<voice name="—œ[" class="—œ[" src="voice/ch09/17900010ri">
 //"You mustn't have any more delusions&."
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You mustn't have any more delusions&.");
 	Move("ƒeƒLƒXƒg‚P", 0, @13, @0, null, true);
 
@@ -160,7 +160,7 @@ if($–Ï‘zƒgƒŠƒK[‚S‚O == 1)
 //y—œ[z
 //<voice name="—œ[" class="—œ[" src="voice/ch09/17900020ri">
 //"You mustn't have any more delusions&."
-	SetMainFont("DroidMSGothic", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, #000000, #FFFFFF, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 1000, center, middle, Auto, Auto, "You mustn't have any more delusions&.");
 	Move("ƒeƒLƒXƒg‚P", 0, @13, @0, null, true);
 

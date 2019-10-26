@@ -340,7 +340,7 @@ Struck dumb by this abrupt development&, I closed my eyes&.
 	Wait(1000);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300070kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Did you think I wouldn't notice?");
 
 	Request("テキスト１", NoLog);
@@ -374,7 +374,7 @@ I heard a voice&.
 //"I always&, always obeyed your orders&."
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300080kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I always&, always obeyed your orders&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300080kh");
@@ -410,7 +410,7 @@ The voice was coming from the direction of the monitor&.
 //I hadn't thought the person behind me was such a moron&.
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300090kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I hadn't thought the person behind me was such a moron&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300090kh");
@@ -449,7 +449,7 @@ I couldn't see a thing&.
 //I've had enough&. I'm leaving you behind&.
 	Wait(300);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300100kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "I've had enough&. I'm leaving you behind&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300100kh");
@@ -474,7 +474,7 @@ I couldn't see a thing&.
 //From now on&, I'll live as I please&.
 	Wait(800);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300110kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "From now on&, I'll live as I please&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300110kh");
@@ -511,7 +511,7 @@ Wh&, what do you mean&, you're leaving me!?
 //Just what it sounds like&. This is why you're an idiot&.
 	Wait(300);
 <voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300120kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Just what it sounds like&. This is why you're an idiot&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300120kh");
@@ -547,7 +547,7 @@ Are you trying to mutiny!?
 //That's right&. I'm sick and tired of you&.
 	Wait(300);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300130kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "That's right&. I'm sick and tired of you&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300130kh");
@@ -572,7 +572,7 @@ Are you trying to mutiny!?
 //'Der Blitzschnelle'? What the hell? There's a limit to being full of yourself&, you know&.
 	Wait(300);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300140kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "'Der Blitzschnelle'? What the hell? <BR> There's a limit to being full of yourself&, you know&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300140kh");
@@ -597,7 +597,7 @@ Are you trying to mutiny!?
 //Do you have any idea what it felt like when people called me that?
 	Wait(500);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300150kh">
-	SetMainFont("DroidMSGothic", 18, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 18, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Do you have any idea what it felt like when people called me that?");
 
 	CreateVOICE("ナイトハルト","ch02/04300150kh");
@@ -623,7 +623,7 @@ Are you trying to mutiny!?
 	Wait(500);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300160kh">
 	MusicStart("@CH01", 1000, 1000, 0, 1000, null, true);
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Maybe you thought it was cool or something&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300160kh");
@@ -648,7 +648,7 @@ Are you trying to mutiny!?
 //But I only found it humiliating&.
 	Wait(500);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300170kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But I only found it humiliating&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300170kh");
@@ -673,7 +673,7 @@ Are you trying to mutiny!?
 //But I couldn't say anything&, so my only choice was to sit tight and put up with it&.
 	Wait(500);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300180kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But I couldn't say anything&,　<BR>　so my only choice was to sit tight and put up with it&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300180kh");
@@ -711,7 +711,7 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //Do as you like&.&.&.
 	Wait(300);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300200kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Do as you like&.&.&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300200kh");
@@ -736,7 +736,7 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //But remember this&.
 	Wait(600);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300210kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "But remember this&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300210kh");
@@ -761,7 +761,7 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //Just as you can delete me with the click of a button―
 	Wait(800);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300220kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "Just as you can delete me with the click of a button―");
 
 	CreateVOICE("ナイトハルト","ch02/04300220kh");
@@ -786,7 +786,7 @@ If you keep saying stuff like that&, I'll&, I'll delete you!"
 //You yourself are nothing more than an existence that can be deleted with the click of a button by the person behind you&.
 	Wait(800);
 //<voice name="ナイトハルト" class="ナイトハルト" src="voice/ch02/04300230kh">
-	SetMainFont("DroidMSGothic", 20, #000000, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "You yourself are nothing more than <BR> an existence that can be deleted with the click of a button <BR> by the person behind you&.");
 
 	CreateVOICE("ナイトハルト","ch02/04300230kh");

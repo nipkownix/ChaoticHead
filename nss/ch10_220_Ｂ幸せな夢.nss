@@ -30,7 +30,7 @@ function ch10_220_Ｂ幸せな夢()
 	CreateColor("back10", 100, 0, 0, 800, 600, "Black");
 
 //２ヶ月後――
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, Middle, Auto, Auto, "Two months later―");
 	Move("テキスト１", 0, @10, @0, null, true);
 	SetBacklog("Two months later―", "NULL", NULL);

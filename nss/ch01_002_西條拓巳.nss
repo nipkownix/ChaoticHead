@@ -55,7 +55,7 @@ function ch01_002_西條拓巳()
 
 //ENTER_reset
 //”視線”は見えない。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, Middle, Auto, Auto, "I can't see the ''gaze''&.");
 	Move("テキスト１", 0, @10, @0, null, true);
 	SetBacklog("I can't see the “gaze”.", "NULL", NULL);
@@ -71,7 +71,7 @@ function ch01_002_西條拓巳()
 //wait_1sec_reset & ENTER_reset
 //edited
 //見ているのに見えないなんて、変な話だ
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト2", 100, center, middle, Auto, Auto, "Not being able to see it even though it's watching me;");
 	Move("テキスト2", 0, @20, @-12, null, false);
 	SetBacklog("Not being able to see it even though it's watching me;", "NULL", NULL);
@@ -82,7 +82,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト3", 100, center, middle, Auto, Auto, "what a weird concept&.");
 	Move("テキスト3", 0, @20, @+12, null, true);
 	SetBacklog("what a weird concept.", "NULL", NULL);
@@ -102,7 +102,7 @@ function ch01_002_西條拓巳()
 //物心ついた頃から、僕はどこからかの“視線”を感じることが何度かあった。
 
 	FadeDelete("テキスト4a", 500, true);
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト4a", 100, center, middle, Auto, Auto, "For as long as I can remember&, there have been countless instances");
 	Move("テキスト4a", 0, @30, @-12, null, false);
 	SetBacklog("For as long as I can remember, there have been countless instances", "NULL", NULL);
@@ -113,7 +113,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト4b", 100, center, middle, Auto, Auto, "of me sensing a ''gaze'' from who knows where&.");
 	Move("テキスト4b", 0, @30, @+12, null, true);
 	SetBacklog("of me sensing a “gaze” from who knows where.", "NULL", NULL);
@@ -129,7 +129,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset
 //振り返っても、誰もいない。でも見られていたっていう確信があった。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト５", 100, center, middle, Auto, Auto, "Even if I turn around&, there's no one there&.");
 	Move("テキスト５", 0, @20, @-12, null, false);
 	SetBacklog("Even if I turn around, there's no one there.", "NULL", NULL);
@@ -140,7 +140,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト６", 100, center, middle, Auto, Auto, "But I'm always convinced that someone had in fact been watching me&.");
 	Move("テキスト６", 0, @20, @+12, null, true);
 	SetBacklog("But I'm always convinced that someone had in fact been watching me.", "NULL", NULL);
@@ -156,7 +156,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset
 //首筋あたりが、ゾワゾワとするような感覚。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト７", 100, center, middle, Auto, Auto, "A chilly sensation at the back of your neck&.");
 	Move("テキスト７", 0, @20, @0, null, true);
 	SetBacklog("A chilly sensation at the back of your neck.", "NULL", NULL);
@@ -172,7 +172,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset
 //それって、ただの自意識過剰？
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト８", 100, center, middle, Auto, Auto, "Is that just what's called being too self-conscious?");
 	Move("テキスト８", 0, @20, @0, null, true);
 	SetBacklog("Is that just what's called being too self-conscious?", "NULL", NULL);
@@ -187,7 +187,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset
 //それとも、視線恐怖症？
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト９", 100, center, middle, Auto, Auto, "Or else&, a phobia of being watched?");
 	Move("テキスト９", 0, @20, @0, null, true);
 	SetBacklog("Or else, a phobia of being watched?", "NULL", NULL);
@@ -204,7 +204,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset
 //小学生くらいまで"きっと神様が僕の事を見つめてくれているんだろう"なんて本気で思ってた。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１０", 100, center, middle, Auto, Auto, "Until I reached middle school");
 	Move("テキスト１０", 0, @13, @-24, null, false);
 	SetBacklog("Until I reached middle school", "NULL", NULL);
@@ -215,7 +215,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１１", 100, center, middle, Auto, Auto, "“Surely God is watching over me&.”");
 	Move("テキスト１１", 0, @20, @0, null, false);
 	SetBacklog("“Surely God is watching over me.”", "NULL", NULL);
@@ -226,7 +226,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１２", 100, center, middle, Auto, Auto, "That's seriously what I thought&.");
 	Move("テキスト１２", 0, @20, @24, null, true);
 	SetBacklog("That's seriously what I thought.", "NULL", NULL);
@@ -245,7 +245,7 @@ function ch01_002_西條拓巳()
 //その頃書いた作文でも、そんなようなことをテーマにしてた。
 //もちろん今思えばそんなの、どう考えても中２病だ。
 //イタいったらないよ。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１３", 100, center, middle, Auto, Auto, "An essay I wrote around the same time centered around that kind of theme&.");
 	Move("テキスト１３", 0, @20, @0, null, false);
 	SetBacklog("An essay I wrote around the same time centered around that kind of theme.", "NULL", NULL);
@@ -260,7 +260,7 @@ function ch01_002_西條拓巳()
 
 //edited
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１４", 100, center, middle, Auto, Auto, "Of course&, thinking back on it now&,");
 	#TIPS_中２病 = true;
 	Move("テキスト１４", 0, @20, @-24, null, false);
@@ -272,7 +272,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１４b", 100, center, middle, Auto, Auto, "I was a kid and overly full of myself no matter how you look at it&.");
 	Move("テキスト１４b", 0, @20, @0, null, false);
 	SetBacklog("I was a kid and overly full of myself no matter how you look at it.", "NULL", NULL);
@@ -283,7 +283,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１５", 100, center, middle, Auto, Auto, "That really stings&.");
 	Move("テキスト１５", 0, @15, @24, null, true);
 	SetBacklog("That really stings.", "NULL", NULL);
@@ -302,7 +302,7 @@ function ch01_002_西條拓巳()
 //wait_1sec_reset & ENTER_reset
 //今誰かに読まれるなんてことになったら、僕は一生引きこもるね。
 //edited
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト16", 100, center, middle, Auto, Auto, "If somebody else happened to read it now&,");
 	Move("テキスト16", 0, @20, @-12, null, false);
 	SetBacklog("If somebody else happened to read it now,", "NULL", NULL);
@@ -313,7 +313,7 @@ function ch01_002_西條拓巳()
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト16b", 100, center, middle, Auto, Auto, "I'd shut myself up for the rest of my life&.");
 	Move("テキスト16b", 0, @20, @+12, null, true);
 	SetBacklog("I'd shut myself up for the rest of my life.", "NULL", NULL);
@@ -330,7 +330,7 @@ function ch01_002_西條拓巳()
 //wait_1sec_reset & ENTER_reset
 //ふひひ。
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１８", 100, center, middle, Auto, Auto, "Hehehe&.");
 	Move("テキスト１８", 0, @23, @0, null, false);
 	SetBacklog("Hehehe.", "NULL", NULL);
@@ -346,7 +346,7 @@ function ch01_002_西條拓巳()
 
 //wait_1sec_reset & ENTER_reset I still remember the title of the essay
 //あの作文のタイトルは、今でもよく覚えてる。
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１９", 100, center, middle, Auto, Auto, "I still remember the title of the essay&.");
 	Move("テキスト１９", 0, @13, @0, null, false);
 	SetBacklog("I still remember the title of the essay.", "NULL", NULL);
@@ -965,7 +965,7 @@ you know―my friends list passed the 100-person mark ages ago&.
 //信頼も、
 //全部ここにある。
 	CreateColor("色１", 100, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１０", 100, 300, middle, Auto, Auto, "Respect&,");
 	Move("テキスト１０", 0, @, @-12, null, false);
 	Request("テキスト１０", NoLog);
@@ -977,7 +977,7 @@ you know―my friends list passed the 100-person mark ages ago&.
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１１", 100, 300, middle, Auto, Auto, "Trust&,");
 	Move("テキスト１１", 0, @, @12, null, false);
 	Request("テキスト１１", NoLog);
@@ -989,7 +989,7 @@ you know―my friends list passed the 100-person mark ages ago&.
 
 	Wait(500);
 
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１２", 100, 300, middle, Auto, Auto, "It's all right here&.");
 	Move("テキスト１２", 0, @, @36, null, true);
 	Request("テキスト１２", NoLog);

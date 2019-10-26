@@ -216,7 +216,7 @@ I flicked my eyes toward the chat window&.
 
 	CreateColor("チャット下地色", 1500, 0, 0, 800, 600, "#252525");
 
-	SetMainFont("DroidMSGothic", 32, #FFFFD3, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 32, #FFFFD3, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 1600, 1350, 350, Auto, Auto, "Shogun has entered the room<br>Current members: 2");
 //	Request("テキスト１", Smoothing);
 	Request("テキスト１", NoLog);

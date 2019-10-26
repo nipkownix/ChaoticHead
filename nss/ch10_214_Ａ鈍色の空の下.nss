@@ -1203,7 +1203,7 @@ at the dark gray sky that continues to pour rain on us&.
 
 function SetText2("ボックス名","$テキスト名")
 {
-	SetMainFont("DroidMSGothic", 20, #000000, #CCCCCC, HEAVY, LEFTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #000000, #CCCCCC, HEAVY, LEFTDOWN);
 	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);

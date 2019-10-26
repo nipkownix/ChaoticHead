@@ -8,7 +8,7 @@ chapter main
 	$SYSTEM_backlog_lock=TRUE;
 	$cfgtab=1;
 	
-	SetFont("DroidMSGothic",21,#00000,#FFFFFF,500,NONE);
+	SetFont("ChaosMSGothic",21,#00000,#FFFFFF,500,NONE);
 	
 	if(!$PLACE_title&&!$SYSTEM_menu_enable&&!$SYSTEM_menu_lock){
 		CreateTexture("video",101000,center,middle,"VIDEO");

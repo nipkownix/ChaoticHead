@@ -152,7 +152,7 @@ It was the "gaze&," with its usual intense presence&.
 
 //―Whose eyes are those eyes?
 {	CreateColor("色１", 100, 0, 0, 800, 600, "Black");
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("テキスト１", 100, center, middle, Auto, Auto, "―Whose eyes are those eyes?");
 
 	Request("テキスト１", Erase);

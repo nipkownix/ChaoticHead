@@ -66,23 +66,23 @@ function LoadBox()
 	Request("box11", Lock);
 	Request("box12", Lock);
 
-	LoadMainFont("フォント１Ａ", "DroidMSGothic", 20, #FFFFFF, #000000, 500, LEFTDOWN, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？");
+	LoadMainFont("フォント１Ａ", "ChaosMSGothic", 20, #FFFFFF, #000000, 500, LEFTDOWN, "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョ、。ー…！？");
 	Request("フォント１Ａ", Lock);
 }
 
 function LoadMainFont("objname", "crapfont", "$size", "color1", "color2", "number", "pos", "abcd")
 {
 	if(#SYSTEM_font_family==MSGothic){
-		$FamName = "DroidMSGothic";
+		$FamName = "ChaosMSGothic";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$FamName = "DroidUbuntuMono";
+		$FamName = "ChaosUbuntuMono";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$FamName = "DroidIosevka";
+		$FamName = "ChaosIosevka";
 		$nsize = $size+6;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$FamName = "DroidFantasque";
+		$FamName = "ChaosFantasque";
 		$nsize = $size+2;
 	}
 	$abcd = "QWERTYUIOPASDFGHJKLCZXCVBNMqwertyuiopasdfghjklczxcvbnm1234567890?!,.-_"
@@ -93,16 +93,16 @@ function LoadMainFont("objname", "crapfont", "$size", "color1", "color2", "numbe
 function SetMainFont("crapfont", "$size", "color1", "color2", "number", "type")
 {
 	if(#SYSTEM_font_family==MSGothic){
-		$FamName = "DroidMSGothic";
+		$FamName = "ChaosMSGothic";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Ubuntu){
-		$FamName = "DroidUbuntuMono";
+		$FamName = "ChaosUbuntuMono";
 		$nsize = $size;
 	}else if(#SYSTEM_font_family==Iosevka){
-		$FamName = "DroidIosevka";
+		$FamName = "ChaosIosevka";
 		$nsize = $size+6;
 	}else if(#SYSTEM_font_family==Fantasque){
-		$FamName = "DroidFantasque";
+		$FamName = "ChaosFantasque";
 		$nsize = $size+2;
 	}
     SetFont($FamName, $nsize, color1, color2, number, type);
@@ -131,7 +131,7 @@ function LoadMainText("synname", "bname", "tname", "$tframe", "num1", "cspace", 
 ..SetText
 function SetText("ボックス名","$テキスト名")
 {
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LEFTDOWN);
+	SetMainFont("ＭＳ ゴシック", 20, #FFFFFF, #000000, 500, LEFTDOWN);
 	LoadMainText("$構文名","ボックス名","$テキスト名",720,130,0,29);
 
 	Request("$テキスト名", Hideable);

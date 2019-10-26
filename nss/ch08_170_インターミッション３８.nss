@@ -554,7 +554,7 @@ Her red-stained hands&.
 //y”g‘½–ìz
 //<voice name="”g‘½–ì" class="”g‘½–ì" src="voice/ch08/17000310ha">
 //"This is the delusion, you wished for&."
-	SetMainFont("DroidMSGothic", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
+	SetMainFont("‚l‚r ƒSƒVƒbƒN", 20, #FFFFFF, #000000, 500, LIGHTDOWN);
 	CreateText("ƒeƒLƒXƒg‚P", 600, center, middle, Auto, Auto, "gThis is the delusion&, you wished for&.h");
 	Request("ƒeƒLƒXƒg‚P", NoLog);
 	Request("ƒeƒLƒXƒg‚P", Erase);
