@@ -287,7 +287,7 @@ It shone invitingly&, reflecting the light&.
 It was a little rusted&. Must be from how I'd let it sit there for
 close to a year&.
 
-But this much rust shouldn't make any different when it came to
+But this much rust shouldn't make any difference when it came to
 slitting my wrists&.
 
 My left hand&, which held Seira-tan&. I put the knife against that wrist&.

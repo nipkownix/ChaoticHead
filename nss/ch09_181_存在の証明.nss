@@ -432,7 +432,7 @@ I wanted to be put at ease&.
 
 I'd be at ease if I died&.
 
-Cause I wouldn't have think about anything&.
+Cause I wouldn't have to think about anything&.
 Because I wouldn't suffer from anything&.
 
 Because no one would laugh at me anymore&.

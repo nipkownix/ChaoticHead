@@ -1144,8 +1144,8 @@ Yet today was different&.
 <voice name="êzñK" class="êzñK" src="voice/ch09/18001460su">
 "S&, sorry&.&.&. I messed up&.&.&."
 
-Having heard that much&, Ban finally grasped&, who was the owner of
-the anguished voice coming on the other side of the phone belonged to&.
+Having heard that much&, Ban finally grasped&, who the anguished voice
+coming on the other side of the phone belonged to&.
 
 //ÅyîªÅz
 <voice name="îª" class="îª" src="voice/ch09/18001470bn">
