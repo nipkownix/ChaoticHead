@@ -89,15 +89,18 @@ chapter main
 		//★：定義
 		SystemInit();
 
-		//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-		//デバッグ用
-		//$Logo = 1;
-		//#ClearG = 1;
+		//★：下着用初期化フラグ
 		//#下着パッチ=false;
-		//$debug_skip = true;
-		//DebugSound();
-		//DebugGallery();
-		//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+
+//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+		//デバッグ用
+//		$Logo = 1;
+//		#ClearG = 1;
+//		#下着パッチ=false;
+//		$debug_skip = true;
+//		DebugSound();
+//		DebugGallery();
+//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
 		if($GameContiune)
 		{
@@ -1520,10 +1523,10 @@ function TitleSelect()
 
 function DebugSound()
 {
-	$テストナット="@CH_INS_FES_ライヴ";
+	$テストナット="@CH08";
 
 	SoundPlay("$テストナット",0,1000,true);
-	SetStream("$テストナット", 330);
+	SetStream("$テストナット", 215000);
 
 	CreateProcess("プロセス１", 150, 0, 0, "DebugSound2");
 	WaitKey();

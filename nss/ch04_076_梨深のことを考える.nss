@@ -102,8 +102,8 @@ I felt like I'd said all kinds of harsh things to her&.
 
 Yet&, Rimi had kept smiling and continued treating me kindly&.
 
-If I went to school now&, she would surely start talking to me
-again&, the same as before&.
+If I went to school now&, she would surely start talking to me again&,
+the same as before&.
 
 Smiling&, acting as though what had happened in front of the 107
 building didn't bother her in the slightest&, calling out to me as my

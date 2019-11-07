@@ -516,7 +516,7 @@ She shouted&, brandished her sword&, and lunged toward us&.
 
 //ÅyÇ†Ç‚ÇπÅz
 <voice name="Ç†Ç‚Çπ" class="Ç†Ç‚Çπ" src="voice/ch08/16600370ay">
-"Glory be to Glajioouuuul!"
+"Glory be to Gladioouuuul!"
 
 Ayase was clearly off her rocker&.
 
