@@ -310,8 +310,8 @@ face&.
 <voice name="êzñK" class="êzñK" src="voice/ch04/08900260su">
 "Haa&.&.&."
 
-Perplexed&, Suwa picked a 500 yen coin out of his wallet and held it
-out to Ban&.
+Perplexed&, Suwa picked a 5 yen coin out of his wallet and held it out
+to Ban&.
 
 {	DeleteStand("stà¿ìÒ_ÉXÅ[Éc_í èÌ_hard", 500, true);}
 But instead of taking it&, Ban tore off the lowest button sewn onto
