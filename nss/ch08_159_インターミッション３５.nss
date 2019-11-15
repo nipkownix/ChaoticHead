@@ -877,7 +877,7 @@ either&."
 	FadeStand("bu—Dˆ¤_§•_’Êí¶è‰º_shy", 400, true);}
 //y—Dˆ¤z
 <voice name="—Dˆ¤" class="—Dˆ¤" src="voice/ch08/15901070yu">
-"Umm&, there are Gero-froggy specialty shops there and there&.&.&."
+"Umm&, there are Gero-froggy specialty shops here and there&.&.&."
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
