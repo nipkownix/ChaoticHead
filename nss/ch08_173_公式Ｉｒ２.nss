@@ -311,7 +311,7 @@ and he had a board with silly stuff written on it&."
 
 //【セナ】
 <voice name="セナ" class="セナ" src="voice/ch08/17300340sn">
-"Wh&, why didn't you tell me tell me sooner?"
+"Wh&, why didn't you tell me sooner?"
 
 {	Stand("st梢_制服_通常","sad", 200, @150);
 	FadeStand("st梢_制服_通常_sad", 200, false);
