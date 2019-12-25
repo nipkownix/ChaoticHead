@@ -752,6 +752,7 @@ And that I myself would be able to experience it!
 
 3-D girls&, my sister included&, usually smiled at me as if they were
 making fun of me&.
+//There has to be an ulterior motive&. No doubt about it&.
 
 I shouldn't forget Seira-tan's words to me&.
 "You mustn't trust in anyone&. You mustn't listen to anyone&."

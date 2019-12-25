@@ -719,7 +719,7 @@ There is also a theory that the
 brain's parahippocampal gyrus (the
 part in charge of processing that
 which is "familiar") having a slight
-spasm is a cause&.
+spasm is a cause&.<BR>
 Jamais vu is different however&, in
 that one should have remembered the
 scene&, but feel like they've seen it
@@ -1481,7 +1481,7 @@ mystery&, rumored to pull the
 strings of the world from behind
 the scenes&.
 Composed of only 300 members&, they
-are known as the "Unseen Rulers&."
+are known as the "Unseen Rulers&."<BR>
 Their subordinates include royalty
 and intelligence agencies from
 numerous nations&, with a focus as
@@ -1492,13 +1492,13 @@ appear in conspiracy theories&. It is
 said almost the entire world is bent
 to their will&, whether it be
 companies&, police&, research
-institutes&, etc&.
+institutes&, etc&.<BR>
 However&, their true existence will
-remain a mere rumor to the end&.
+remain a mere rumor to the end&.<BR>
 The Committee of 300's ultimate goal
 is theorized as the construction of
 the so-called New World Order under
-the "Human Domestication Project&."
+the "Human Domestication Project&."<BR>
 Outside of the Elite&, one billion
 will be left behind as all others
 are slaughtered&. Those billion will
