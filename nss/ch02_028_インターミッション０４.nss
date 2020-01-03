@@ -165,9 +165,10 @@ for Takumi&, one sufficient to induce this level of passion in him&.
 Though everyone else in the class could go&, he alone could not&.
 From Takumi's point of view&, it was all too unreasonable&.
 
-Takumi's world was a lonely one&. Their world was full of fun and passion&.
-He almost had the sense that he was the only one to have been cu<pre>t</pre>
-off from the rest of the world&.
+Takumi's world was a lonely one&.
+Their world was full of fun and passion&.
+He almost had the sense that he was the only one to have been cu<pre>t</pre> off
+from the rest of the world&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);

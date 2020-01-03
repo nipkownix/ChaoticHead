@@ -1016,12 +1016,10 @@ If I could do that&, it wouldn't be such a struggle&.
 And there was something I'd learned from talking to Yua yesterday and
 the day before yesterday&.
 
-It was enjoyable&, and it made me happy&, but more so than that&, it
-wore me out&, and it was a huge bother&.
-
+It was enjoyable&, and it made me happy&, but more so than that&,
+it wore me out&, and it was a huge bother&.
 Rather than continuing to be forced to go through all that&, I might
-as well stick to the 2-D world&, where I could live
-however I wanted&.&.&.
+as well stick to the 2-D world&, where I could live however I wanted&.&.&.
 
 Which was why I didn't send a reply to Yua's mail&.
 
