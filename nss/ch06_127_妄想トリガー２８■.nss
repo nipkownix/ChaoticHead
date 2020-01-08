@@ -370,8 +370,7 @@ My dead body would be exposed to the entire country&, smashed against
 the concrete&, my limbs bent in bizarre directions&, blood and brain
 fluid spewing from my cracked-open head&.
 
-Because the viewers wouldn't be satisfied unless things went that
-far&.
+Because the viewers wouldn't be satisfied unless things went that far&.
 
 That's what entertainment is&.
 
@@ -428,7 +427,7 @@ What&, the answer had been this easy all along?
 	Fade("êFÇP", 800, 1000, null, true);}
 I felt amazingly relaxed&.
 
-At ease&, I nonchalantly {	SoundPlay("îÚÇ—ç~ÇË"&, 0&, 1000&,
+At ease&, I nonchalantly {	SoundPlay("îÚÇ—ç~ÇË", 0, 1000,
 false);}flung my body out into thin air&.
 
 </PRE>
