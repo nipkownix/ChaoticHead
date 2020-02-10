@@ -152,7 +152,7 @@ him and harvest his CODE sample&.
 
 Alternatively&, by cornering the Nishijou Takumi who had been created
 from delusions&, they would lure out the real Nishijou Takumi&, capture
-him&, and harvest his CODE simple&.
+him&, and harvest his CODE sample&.
 
 Real or a copy&, it didn't matter&, as long as he was Nishijou Takumi&.
 
