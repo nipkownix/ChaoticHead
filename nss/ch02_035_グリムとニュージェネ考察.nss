@@ -921,7 +921,7 @@ What Yua had told me was just the product of her own delusions&.
 It was too incoherent to hold together logically&.
 
 I hadn't gotten to ask about it at the hospital today&, but it didn't
-made any sense for me to be acting differently&, unbeknownst to
+make any sense for me to be acting differently&, unbeknownst to
 myself&, during the gaps in my memories&.
 
 It had never happened before&, not even once&.

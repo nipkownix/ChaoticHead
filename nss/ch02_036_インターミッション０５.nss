@@ -366,7 +366,7 @@ Generation Madness&," could very well have become reality&.
 <voice name="”»" class="”»" src="voice/ch02/03600200bn">
 "Sure seems so&."
 
-Ban rupped his unshaven chin&.
+Ban rubbed his unshaven chin&.
 It was a habit of his&. Whenever he sensed that he'd driven a wrongdoer
 another step into a corner&, it pleased him to make sure of that
 ever-prickly sensation&.
