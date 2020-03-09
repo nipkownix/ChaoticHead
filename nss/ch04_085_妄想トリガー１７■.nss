@@ -1049,7 +1049,7 @@ She tried to break my heart&.
 
 And "Shogun" had influence over the hospital&.
 
-Dr&. Takashi&, the one person I could rely on&, had gone away all too
+Dr&. Takashina&, the one person I could rely on&, had gone away all too
 suddenly and unnaturally&.
 
 {	CreateColor("back03", 1000, 0, 0, 800, 600, "Black");

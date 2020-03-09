@@ -1016,7 +1016,7 @@ I had&, but&.&.&.
 //ÅyëÒñ§Åz
 <voice name="ëÒñ§" class="ëÒñ§" src="voice/ch06/11900700ta">
 "If it only a&, appears in your sight&.&.&. then it's&.&.&.
-only&.&.&.&. an illusion&.&.&."
+only&.&.&. an illusion&.&.&."
 
 Illusions were no more than illusions&, and they were false&.
 
