@@ -253,7 +253,7 @@ He was the only person in the entire class who talked to me&.
 
 //三住くんと僕とじゃ趣味だって性格だってまったく合わないのに、どうして彼はいつもいつもこんな僕に話しかけてくるんだろう。
 I wonder why he always started talking to me? Our hobbies and
-personalities aren't the aren't even slightly similar&.
+personalities aren't even slightly similar&.
 
 //今年クラスメイトになってからずっと疑問だった。
 It had been on my mind since we became classmates this year&.

@@ -718,7 +718,7 @@ you're a really important figure to us policemen&."
 
 //y”»z
 <voice name="”»" class="”»" src="voice/ch03/05400690bn">
-"Your eyewitness testimony could become be a key part of how we solve
+"Your eyewitness testimony could become a key part of how we solve
 the case&."
 
 {	Stand("stˆÀ“ñ_ƒX[ƒc_’Êí","pride", 200, @-150);
