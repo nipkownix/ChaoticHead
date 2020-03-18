@@ -74,7 +74,7 @@ today&."
 
 //【キャスターＡ】
 <voice name="キャスターＡ" class="キャスターＡ" src="voice/ch07/13500020ka">
-"The victim is twenty-seven year old Tokachi Asami of the Edogawa
+"The victim is twenty-seven year old Tokachi Ayami of the Edogawa
 district&, and the cause of death appears to be suffocation via
 blockage of the throat&."
 
