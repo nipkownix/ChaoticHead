@@ -449,7 +449,7 @@ to the class next door&."
 //……ホントに悪いヤツじゃないんだろうか。
 //これは女子に聞かれたら相当ひんしゅくものだと思うけど。
 &.&.&.&.&.Maybe he isn't that good of a guy after all&.
-If the girls overhead this&, I think they'd be appalled&.
+If the girls overheard this&, I think they'd be appalled&.
 
 {	Stand("bu大輔_制服_通常","pride", 200, @+100);
 	FadeStand("bu大輔_制服_通常_pride", 300, true);

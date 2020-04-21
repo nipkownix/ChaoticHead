@@ -1833,7 +1833,7 @@ from a high-rise building&.&.&.
 // ENTER_reset
 <voice name="拓巳" class="拓巳" src="voice/ch01/00300033ta">
 //ふたつめの事件では男性の体内から胎児が出てきた……」
-In the second case&, a fetus was stuffed into in a man's body&.&.&."
+In the second case&, a fetus was stuffed into a man's body&.&.&."
 
 // ENTER_reset
 //【拓巳】
