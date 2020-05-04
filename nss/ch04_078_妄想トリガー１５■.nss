@@ -801,9 +801,9 @@ Rimi&, who had kept her mouth shut up until now&, began speaking to me
 at last&, in a somewhat timid tone&.
 
 But it came out of the blue&, leaving me unable to show any reaction&.
-If I were in Rimi's shoes&, I'd probably feel as if I was being ignored&.
+If I were in Rimi's shoes&, I'd probably feel like I was being ignored&.
 
-In my heart&, I knew things shouldn't go on like this&, but in the
+In my heart&, I knew things shouldn't go on like this&, but in the end&,
 I couldn't do anything&.
 
 //Åyóúê[Åz

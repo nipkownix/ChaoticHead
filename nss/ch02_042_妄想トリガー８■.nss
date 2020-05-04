@@ -652,7 +652,7 @@ if($妄想トリガー８ == 0)
 	CreateSE("SE04","SE_衝撃_衝撃音03");
 	SoundPlay("SE04", 0, 1000, false);
 
-	wait(200);
+	Wait(200);
 
 	CreateSE("SE05","SE_日常_扉_開ける");
 	SoundPlay("SE05", 0, 1000, false);

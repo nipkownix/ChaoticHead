@@ -12,8 +12,8 @@ chapter main
 {
 
 	#SYSTEM_product_code="DEMONBANE_THEBEST";
-	#SCRIPT_VERSION="1.22";
-	#SYSTEM_version="1.22";
+	#SCRIPT_VERSION="1.23";
+	#SYSTEM_version="1.23";
 	#SYSTEM_loading_image="cg/sys/save/loading.jpg";
 	#SYSTEM_loading_image_x=298;
 	#SYSTEM_loading_image_y=213;

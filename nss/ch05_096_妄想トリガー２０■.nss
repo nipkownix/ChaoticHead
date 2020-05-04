@@ -1678,7 +1678,7 @@ music corner&.
 
 Unlike the J-pop corner&, there weren't many customers in the vicinity&.
 
-Rimi stopped in front of the "F" shelf and began searching for the CD
+Rimi stopped in front of the "P" shelf and began searching for the CD
 she had in mind&.
 
 But her shoulders soon sagged&.
@@ -1689,7 +1689,7 @@ But her shoulders soon sagged&.
 <voice name="—œ[" class="—œ[" src="voice/ch05/09600720ri">
 "Mm&, it's not here after all&.&.&."
 
-An indie group whose name began with F&. Could it be&.&.&.
+An indie group whose name began with P&. Could it be&.&.&.
 
 {	Stand("st—œ[_§•_’Êí","normal", 200, @+100);
 	FadeStand("st—œ[_§•_’Êí_normal", 500, false);

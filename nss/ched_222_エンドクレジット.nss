@@ -136,7 +136,7 @@ function SetRoll($処理単位名,$ナット名,$待機)
 
 	Request("エンドロールプロセス", "Start");
 
-	wait 5000;
+	Wait(5000);
 
 	if($待機 == true)
 	{
@@ -150,7 +150,7 @@ function SetRoll($処理単位名,$ナット名,$待機)
 	Request("@CH*", EntrustSuspend);
 	SetVolume("@CH*", 6000, 0, NULL);
 
-	wait 2000;
+	Wait(2000);
 	Fade("@色", 2000, 1000, null, true);
 
 	Request("エンドロールプロセス", "Stop");
