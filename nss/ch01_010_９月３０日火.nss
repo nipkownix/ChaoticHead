@@ -219,8 +219,9 @@ Hehehehehe&."
 	SoundPlay("ななみ１",0,300,false);
 }
 //ずっと探し求めていた超レアアイテムのひとつが手に入って、僕は興奮状態だった。憂鬱な気分はすっかり吹き飛んでいた。
-Having gotten my paws on an ultra-rare item I'd searching for forever&,
-I was in hyper mode&. My depression had been completely blown away&.
+Having gotten my paws on an ultra-rare item I'd been searching for
+forever&, I was in hyper mode&. My depression had been completely
+blown away&.
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -276,7 +277,7 @@ with a drop rate of 0&.0001%!
 }
 //その効果はキャラの外見が変わるだけっていう、ちっとも役に立たないアイテムなんだけど、逆に言えば一目でエンジェルハィロゥを持ってるって周囲に分かるから、羨望の眼差しを受けること間違いなしだ。
 Its only effect is to change your character's appearance&,
-and it doesn't have any practice use&. But on the flipside&,
+and it doesn't have any practical use&. But on the flipside&,
 since those around you could tell at a glance if you had one&,
 you'd be the object of many envious stares&.
 

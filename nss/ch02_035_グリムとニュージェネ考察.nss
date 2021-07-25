@@ -139,7 +139,7 @@ I flinched as the dim eyes of the girl I'd spotted at the sce<pre>n</pre>e
 of the staking murder grazed my brain&.
 
 I didn't want to keep remembering it like this&, but the second I let
-my guard down&, the ominous memories started to flooding back&.
+my guard down&, the ominous memories started flooding back&.
 
 Yeah&, I'd seen the criminal's face&. I knew who she was&.
 Should I have reported her to the police? But I didn't want to get
@@ -374,10 +374,9 @@ In ESO&, I was on the same level as a god&.
 It wasn't enough merely to be strong; I also had to know about
 anything and everything&.
 
-All the more - I was the closest to position of leader of our guild
-had to a leader&. As the person in charge of everyone's organization&,
-it'd be way too humiliating if I couldn't keep up with their
-conversations&.
+All the more - I was the closest thing our guild had to a leader&.
+As the person in charge of everyone's organization&, it'd be
+way too humiliating if I couldn't keep up with their conversations&.
 
 I had to avoid that&.&.&.
 
@@ -730,7 +729,7 @@ committed suicide&.
 
 At that point&, the mass media seized on the fact that both cases had
 occurred in "Shibuya&," and began using "New Generation Madness" in
-their sensationalistic headlines&.&.&. Which was said to be how all
+their sensationalistic headlines&.&.&. Which was said to be how it all
 got started&.
 
 {	CreateTextureEX("’£‚è•t‚¯Œ»ê", 100, 0, 0, "cg/bg/bg020_01_3_a’J˜H’n— _a.jpg");
@@ -779,7 +778,7 @@ explanation&.
 	Fade("’£‚è•t‚¯Œ»ê", 500, 0, null, false);
 	Fade("a’JŠX", 500, 500, null, true);
 	Delete("’£‚è•t‚¯Œ»ê");}
-It seemed like lot of places online also gave it occult explanations&,
+It seemed like lots of places online also gave it occult explanations&,
 and some believed that everything stemmed back to the earthquake two
 months earlier&.
 

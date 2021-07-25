@@ -120,7 +120,7 @@ All of his hair had fallen out&.
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000030jn">
-"It's a hereditary disease&."
+"It's an inborn disease&."
 
 //y«ŒRz
 <voice name="«ŒR" class="«ŒR" src="voice/ch10/20000040jn">

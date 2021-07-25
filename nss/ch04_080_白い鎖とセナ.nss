@@ -215,7 +215,7 @@ protective charm&.
 At the time&, trembling in fear&, I had sought a means of support for
 my heart&.
 
-I was a much more stable now&, after the stuff with Rimi&, but
+I was much more stable now&, after the stuff with Rimi&, but
 despite that&, the situation surrounding me hadn't undergone much
 improvement&.
 

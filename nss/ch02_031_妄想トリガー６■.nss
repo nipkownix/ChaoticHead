@@ -1392,7 +1392,7 @@ I&.&.&. couldn't say anything&.
 "Nice to meet you&."
 
 //先生は確かに今、そう言った。
-Was that he had said to me just now&. No mistaking it&.
+Was what he had said to me just now&. No mistaking it&.
 
 //僕のこと……忘れてるんだ。
 //それもそうだよな、もう４年だもんね……。

@@ -461,7 +461,7 @@ if($スジ有無 == 1)
 <PRE box00>
 [text025]
 //やっぱりスジだよ、スジ！
-When you get down to it&, it's all about the seams!
+When you get down to it&, it's all about the camel toe!
 
 </PRE>
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
@@ -780,7 +780,7 @@ if($スジ == 1)
 <PRE @box01>
 [text510]
 //ナイトハルト：それとスージーさんも必須！　これ最強
-Neidhardt: Seams are a must! That's the absolute best
+Neidhardt: Camel toe is a must! That's the absolute best
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,WHITE);
 	TypeChat("0");
@@ -793,8 +793,8 @@ if($ＮＯスジ == 1)
 <PRE @box01>
 [text511]
 //ナイトハルト：ま、スジはあってもいいけどそこがメインじゃないから
-Neidhardt: Well&, it's nice if it has seams&, but that's not
-the most important
+Neidhardt: Well&, it's nice if it has a camel toe&, but that's
+not the most important
 </PRE>
 	SetChat($SYSTEM_present_preprocess,$SYSTEM_present_text,WHITE);
 	TypeChat("0");

@@ -293,7 +293,7 @@ hearing a sound like my ears ringing&.
 
 //それまでは鳴っていることをまったく認識してなかった。
 Up until then&, I had completely failed to recognize the fact
-that they was ringing&.
+that they were ringing&.
 
 //そして、今度は、なにも聞こえなくなった。
 //都会のど真ん中とは思えない、嘘のような突然の静けさ。

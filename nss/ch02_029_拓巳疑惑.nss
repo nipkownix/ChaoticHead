@@ -215,7 +215,7 @@ That person would have to be "the player controlling me&."
 If so&, I'd like him to play my role better&.
 But an avatar can't voice complaints&.
 
-It would made sense if "Shogun" and I were the same person&.
+It would make sense if "Shogun" and I were the same person&.
 
 Come to think of it&, Liselotte was in a similar situation&.
 It was impossible for Neidhardt and Liselotte to ever exist in

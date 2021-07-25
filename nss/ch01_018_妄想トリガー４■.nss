@@ -163,7 +163,7 @@ ButÅ\
 
 All I could do was become speechless&.
 
-Under ordinary circumstances&, there was be no such thing as a 3-D
+Under ordinary circumstances&, there would be no such thing as a 3-D
 girl who would say things like this toward a male she'd just met&. It
 was all but impossible&. It was hot&, but it didn't get me moe'd up&.
 

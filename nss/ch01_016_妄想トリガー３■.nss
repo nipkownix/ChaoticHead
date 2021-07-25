@@ -1069,7 +1069,7 @@ think about anything&, and I became more and more discombobulated&.
 
 Oh&, crap&, I thought as soon as I nodded&.
 
-Why did I have to and tell her&.&.&.
+Why did I have to go and tell her&.&.&.
 What was I expecting from her&.&.&.
 At most&, this would turn out to be a delusion&.
 

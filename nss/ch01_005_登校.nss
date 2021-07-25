@@ -140,7 +140,7 @@ a look&, but it was only for a second&, and they went back to their
 conversation without saying anything&.
 
 //どうせこいつら、心の中では僕のことをキモいとか思ってるに違いない。
-They deep down they viewed me as a creep&, no doubt about it&.
+After all&, deep down they viewed me as a creep&, no doubt about it&.
 
 //ふん、僕からしてみればお前たち三次元女の方がよっぽどキモいよ。
 Hmph&, from my point of view&, 3-D girls are far more creepy&.

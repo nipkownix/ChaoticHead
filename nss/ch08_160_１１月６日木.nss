@@ -57,7 +57,7 @@ function ch08_160_１１月６日木()
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text001]
-When I showed my face at school on Friday&, Misumi-kun suddenly
+When I showed my face at school on Thursday&, Misumi-kun suddenly
 invited me to go pay Ayase a visit in the hospital&.
 
 He'd caught me by surprise&, as it hadn't so much as occurred to me&.

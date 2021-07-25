@@ -825,8 +825,8 @@ everyone called her&.
 
 In any case&, "She" had killed eight people over the past month&.
 
-The public was an uproar&, calling it madness and what have you&, but
-from her point of view&, it wasn't an especially remarkable number&.
+The public was in an uproar&, calling it madness and what have you&,
+but from her point of view&, it wasn't an especially remarkable number&.
 
 After all&, she was a demon&.
 
