@@ -352,7 +352,7 @@ Because after all&, it was right on top&.
 //イメージＢＧ//作文用紙に小学生の拓巳のつたない文字で書かれたタイトル『その目だれの目？』
 //※１章で使ったものの使い回し
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg004_01_1_作文用紙その目_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg004_01_1_作文用紙その目_a.jpg");
 
 	MusicStart("@CH01",3000,800,0,1000,null,true);
 	Fade("背景２", 3000, 1000, null, true);
@@ -516,7 +516,7 @@ To the point that eventually someone bought me a sketchbook&.
 Meh&, not that anyone had ever praised me as being good at art&.
 
 {	Wait(500);
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg004_01_1_作文用紙その目_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg004_01_1_作文用紙その目_a.jpg");
 	Fade("背景２", 200, 1000, null, true);
 	Wait(500);}
 As I soaked in nostalgia&, I flipped the paper over to see what was
@@ -588,7 +588,7 @@ But―
 	Fade("回想フラッシュ", 100, 1000, null, true);
 	CreateColor("回想明度", 150, 0, 0, 800, 600, "WHITE");
 	Fade("回想明度", 0, 300, null, true);
-	CreateTexture("あいあーる", 200, 0, 0, "cg/bg/bg184_02_3_PC画面公式アップ_a.jpg");
+	CreateTexture("あいあーる", 200, 0, 0, "chaotic/bg/bg184_02_3_PC画面公式アップ_a.jpg");
 	Fade("回想フラッシュ", 300, 0, null, true);
 	Wait(1000);
 

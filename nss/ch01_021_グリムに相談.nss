@@ -408,7 +408,7 @@ I took a gulp and opened it&.
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
 [text024]
-{	CreateTextureEX("back05", 1005, 0, 0, "cg/bg/bg047_01_6_PCメール画面優愛_a.jpg");
+{	CreateTextureEX("back05", 1005, 0, 0, "chaotic/bg/bg047_01_6_PCメール画面優愛_a.jpg");
 	Fade("back05", 0, 1000, null, true);}
 //※以下、優愛からのメール
 //こんばんは。楠です。

@@ -61,7 +61,7 @@ if($GameDebugSelect == 1)
 
 	ClearAll(0);
 
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg118_02_3_Œf¦”Â‘¬•ñ_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg118_02_3_Œf¦”Â‘¬•ñ_a.jpg");
 	Fade("”wŒi‚P", 2000, 1000, null, true);
 
 	CreateSE("SE02","SE_“úí_PC_ƒn[ƒhƒfƒBƒXƒN_Loop");

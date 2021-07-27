@@ -93,7 +93,7 @@ function CreateBoard($BoardX,$BoardY)
 
 	LoadImage("BoardImageAdd", "cg/sys/board/ŒfŽ¦”Â’†Œp‚¬‰æ‘œ.png");
 
-	CreateTexture("BoardMain", 1001, $BoardX, $BoardY, "cg/sys/board/ŒfŽ¦”Âtop.png");
+	CreateTexture("BoardMain", 1001, $BoardX, $BoardY, "chaotic/sys/board/ŒfŽ¦”Âtop.png");
 	SetAlias("BoardMain", "box03");
 
 	CreateTexture("BoardBack01", 1000, 0, 0, "BoardImageAdd");

@@ -32,7 +32,7 @@ chapter main
 	if(!$InDialog){
 		CreateTexture("WND/MSG_bak",1010000,0,0,"cg/sys/dialog/keepout.png");
 	}
-	CreateTexture("WND/MSG_msg",1010000,298,213,"cg/sys/dialog/ゲームを終了しますか？.png");
+	CreateTexture("WND/MSG_msg",1010000,298,213,"chaotic/sys/dialog/ゲームを終了しますか？.png");
 	CreateChoice("WND/MSG_yes");
 	CreateTexture("WND/MSG_yes/MouseUsual/img",1012000,329,294,"WND/IMG_yes_off");
 	CreateTexture("WND/MSG_yes/MouseOver/img",1011000,329,294,"WND/IMG_yes_on");

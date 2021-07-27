@@ -88,7 +88,7 @@ I read it nonchalantly as I walked&.
 //チラシの文章はわざと「ちょっと違和感がある」ような内容にしています。２章後半への伏線
 //ＢＧ//渋谷駅南口歩道橋//夕方
 {	Wait(500);
-	CreateTexture("ティッシュ", 100, 0, 0, "cg/bg/bg116_01_1_ポケットティッシュ_a.jpg");
+	CreateTexture("ティッシュ", 100, 0, 0, "chaotic/bg/bg116_01_1_ポケットティッシュ_a.jpg");
 	Wait(1000);}
 It was a blood donation flyer&. Reading it&, I recalled the checklist
 I'd filled out at the hospital earlier&.
@@ -243,7 +243,7 @@ manga&."
 	CreateSE("SE02","SE_日常_PC_マウスクリック02");
 	SoundPlay("SE02", 0, 1000, true);
 
-	CreateTextureEX("検索", 100, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("検索", 100, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("検索", 0, 1000, null, true);
 
 	Delete("back03");
@@ -304,7 +304,7 @@ interesting-looking threads on @channel&.
 {	CreateSE("SE02","SE_日常_PC_マウスクリック");
 	SoundPlay("SE02", 0, 1000, false);
 	Wait(500);
-	CreateTextureEX("背景１", 100, 0, 0,"cg/bg/bg118_01_3_掲示板速報_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0,"chaotic/bg/bg118_01_3_掲示板速報_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
 	Wait(500);}
 The news board consisted almost entirely of "New Gen" related stuff&.

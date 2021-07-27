@@ -22,85 +22,85 @@ chapter main
 	CreateChoice("mnuEXIT");
 	CreateChoice("mnuTIPS");
 
-	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/キャンセル001.png");
-	CreateTexture("mnuCANCEL/MouseUsual/img",10,440,90,"cg/sys/menu/キャンセル001.png");
-	CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"cg/sys/menu/キャンセル002.png");
-	CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"cg/sys/menu/キャンセル003.png");
-	CreateTexture("mnu_img_AUTOMSG",10,440,142,"cg/sys/menu/自動メッセージ送り001.png");
-	CreateTexture("mnuAUTOMSG/MouseUsual/img",10,440,142,"cg/sys/menu/自動メッセージ送り001.png");
-	CreateTexture("mnuAUTOMSG/MouseOver/img",10,440,142,"cg/sys/menu/自動メッセージ送り002.png");
-	CreateTexture("mnuAUTOMSG/MouseClick/img",10,440,142,"cg/sys/menu/自動メッセージ送り003.png");
+	CreateTexture("mnu_img_CANCEL",10,440,90,"chaotic/sys/menu/キャンセル001.png");
+	CreateTexture("mnuCANCEL/MouseUsual/img",10,440,90,"chaotic/sys/menu/キャンセル001.png");
+	CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"chaotic/sys/menu/キャンセル002.png");
+	CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"chaotic/sys/menu/キャンセル003.png");
+	CreateTexture("mnu_img_AUTOMSG",10,440,142,"chaotic/sys/menu/自動メッセージ送り001.png");
+	CreateTexture("mnuAUTOMSG/MouseUsual/img",10,440,142,"chaotic/sys/menu/自動メッセージ送り001.png");
+	CreateTexture("mnuAUTOMSG/MouseOver/img",10,440,142,"chaotic/sys/menu/自動メッセージ送り002.png");
+	CreateTexture("mnuAUTOMSG/MouseClick/img",10,440,142,"chaotic/sys/menu/自動メッセージ送り003.png");
 	
 	//if(!#下着パッチ) {
-	//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
+	//	CreateTexture("mnu_img_CANCEL",10,440,90,"chaotic/sys/menu/LCS1.png");
 	//}else {
-	//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
+	//	CreateTexture("mnu_img_CANCEL",10,440,90,"chaotic/sys/menu/LCS4.png");
 	//}
 	//CreateTexture("mnuCANCEL/MouseUsual/img",10,440,90,"mnu_img_CANCEL");
-	//CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"cg/sys/menu/LCS2.png");
-	//CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"cg/sys/menu/LCS3.png");
+	//CreateTexture("mnuCANCEL/MouseOver/img",10,440,90,"chaotic/sys/menu/LCS2.png");
+	//CreateTexture("mnuCANCEL/MouseClick/img",10,440,90,"chaotic/sys/menu/LCS3.png");
 	
-	CreateTexture("mnu_img_MESSAGE",10,440,116,"cg/sys/menu/メッセージを消す001.png");
-	CreateTexture("mnuMESSAGE/MouseUsual/img",10,440,116,"cg/sys/menu/メッセージを消す001.png");
-	CreateTexture("mnuMESSAGE/MouseOver/img",10,440,116,"cg/sys/menu/メッセージを消す002.png");
-	CreateTexture("mnuMESSAGE/MouseClick/img",10,440,116,"cg/sys/menu/メッセージを消す003.png");
+	CreateTexture("mnu_img_MESSAGE",10,440,116,"chaotic/sys/menu/メッセージを消す001.png");
+	CreateTexture("mnuMESSAGE/MouseUsual/img",10,440,116,"chaotic/sys/menu/メッセージを消す001.png");
+	CreateTexture("mnuMESSAGE/MouseOver/img",10,440,116,"chaotic/sys/menu/メッセージを消す002.png");
+	CreateTexture("mnuMESSAGE/MouseClick/img",10,440,116,"chaotic/sys/menu/メッセージを消す003.png");
 	if(!$SYSTEM_text_auto) {
-		CreateTexture("mnu_img_AUTOMSG",10,440,142,"cg/sys/menu/自動メッセージ送り001.png");
+		CreateTexture("mnu_img_AUTOMSG",10,440,142,"chaotic/sys/menu/自動メッセージ送り001.png");
 	}else {
-		CreateTexture("mnu_img_AUTOMSG",10,440,142,"cg/sys/menu/自動メッセージ送り004-.png");
+		CreateTexture("mnu_img_AUTOMSG",10,440,142,"chaotic/sys/menu/自動メッセージ送り004-.png");
 	}
 	CreateTexture("mnuAUTOMSG/MouseUsual/img",10,440,142,"mnu_img_AUTOMSG");
-	CreateTexture("mnuAUTOMSG/MouseOver/img",10,440,142,"cg/sys/menu/自動メッセージ送り002.png");
-	CreateTexture("mnuAUTOMSG/MouseClick/img",10,440,142,"cg/sys/menu/自動メッセージ送り003.png");
-	CreateTexture("mnu_img_SKIP",10,440,168,"cg/sys/menu/スキップする001.png");
-	CreateTexture("mnuSKIP/MouseUsual/img",10,440,168,"cg/sys/menu/スキップする001.png");
-	CreateTexture("mnuSKIP/MouseOver/img",10,440,168,"cg/sys/menu/スキップする002.png");
-	CreateTexture("mnuSKIP/MouseClick/img",10,440,168,"cg/sys/menu/スキップする003.png");
+	CreateTexture("mnuAUTOMSG/MouseOver/img",10,440,142,"chaotic/sys/menu/自動メッセージ送り002.png");
+	CreateTexture("mnuAUTOMSG/MouseClick/img",10,440,142,"chaotic/sys/menu/自動メッセージ送り003.png");
+	CreateTexture("mnu_img_SKIP",10,440,168,"chaotic/sys/menu/スキップする001.png");
+	CreateTexture("mnuSKIP/MouseUsual/img",10,440,168,"chaotic/sys/menu/スキップする001.png");
+	CreateTexture("mnuSKIP/MouseOver/img",10,440,168,"chaotic/sys/menu/スキップする002.png");
+	CreateTexture("mnuSKIP/MouseClick/img",10,440,168,"chaotic/sys/menu/スキップする003.png");
 	if(ExistSave(9999)){
-		LoadImage("IMG_menu_RETURN","cg/sys/menu/章の先頭に戻る001.png");
+		LoadImage("IMG_menu_RETURN","chaotic/sys/menu/章の先頭に戻る001.png");
 		CreateTexture("mnu_img_RETURN",10,440,194,"IMG_menu_RETURN");
 		CreateTexture("mnuRETURN/MouseUsual/img",10,440,194,"IMG_menu_RETURN");
-		CreateTexture("mnuRETURN/MouseOver/img",10,440,194,"cg/sys/menu/章の先頭に戻る002.png");
-		CreateTexture("mnuRETURN/MouseClick/img",10,440,194,"cg/sys/menu/章の先頭に戻る003.png");
+		CreateTexture("mnuRETURN/MouseOver/img",10,440,194,"chaotic/sys/menu/章の先頭に戻る002.png");
+		CreateTexture("mnuRETURN/MouseClick/img",10,440,194,"chaotic/sys/menu/章の先頭に戻る003.png");
 	}else{
-		LoadImage("IMG_menu_RETURN","cg/sys/menu/章の先頭に戻る004.png");
+		LoadImage("IMG_menu_RETURN","chaotic/sys/menu/章の先頭に戻る004.png");
 		CreateTexture("mnu_img_RETURN",10,440,194,"IMG_menu_RETURN");
 		CreateTexture("mnuRETURN/MouseUsual/img",10,440,194,"IMG_menu_RETURN");
 //		CreateTexture("mnuRETURN/MouseOver/img",10,440,194,"IMG_menu_RETURN");
 //		CreateTexture("mnuRETURN/MouseClick/img",10,440,194,"IMG_menu_RETURN");
 	}
-	CreateTexture("mnu_img_BKLG",10,440,220,"cg/sys/menu/ログを表示する001.png");
-	CreateTexture("mnuBKLG/MouseUsual/img",10,440,220,"cg/sys/menu/ログを表示する001.png");
-	CreateTexture("mnuBKLG/MouseOver/img",10,440,220,"cg/sys/menu/ログを表示する002.png");
-	CreateTexture("mnuBKLG/MouseClick/img",10,440,220,"cg/sys/menu/ログを表示する003.png");
-	CreateTexture("mnu_img_SAVE",10,440,246,"cg/sys/menu/セーブ画面を開く001.png");
-	CreateTexture("mnuSAVE/MouseUsual/img",10,440,246,"cg/sys/menu/セーブ画面を開く001.png");
-	CreateTexture("mnuSAVE/MouseOver/img",10,440,246,"cg/sys/menu/セーブ画面を開く002.png");
-	CreateTexture("mnuSAVE/MouseClick/img",10,440,246,"cg/sys/menu/セーブ画面を開く003.png");
-	CreateTexture("mnu_img_LOAD",10,440,272,"cg/sys/menu/ロード画面を開く001.png");
-	CreateTexture("mnuLOAD/MouseUsual/img",10,440,272,"cg/sys/menu/ロード画面を開く001.png");
-	CreateTexture("mnuLOAD/MouseOver/img",10,440,272,"cg/sys/menu/ロード画面を開く002.png");
-	CreateTexture("mnuLOAD/MouseClick/img",10,440,272,"cg/sys/menu/ロード画面を開く003.png");
-	CreateTexture("mnu_img_FULL",10,440,298,"cg/sys/menu/フルスクリーン切り替え001.png");
-	CreateTexture("mnuFULL/MouseUsual/img",10,440,298,"cg/sys/menu/フルスクリーン切り替え001.png");
-	CreateTexture("mnuFULL/MouseOver/img",10,440,298,"cg/sys/menu/フルスクリーン切り替え002.png");
-	CreateTexture("mnuFULL/MouseClick/img",10,440,298,"cg/sys/menu/フルスクリーン切り替え003.png");
-	CreateTexture("mnu_img_CONFIG",10,440,324,"cg/sys/menu/設定画面を開く001.png");
-	CreateTexture("mnuCONFIG/MouseUsual/img",10,440,324,"cg/sys/menu/設定画面を開く001.png");
-	CreateTexture("mnuCONFIG/MouseOver/img",10,440,324,"cg/sys/menu/設定画面を開く002.png");
-	CreateTexture("mnuCONFIG/MouseClick/img",10,440,324,"cg/sys/menu/設定画面を開く003.png");
-	CreateTexture("mnu_img_RESET",10,440,350,"cg/sys/menu/タイトルに戻る001.png");
-	CreateTexture("mnuRESET/MouseUsual/img",10,440,350,"cg/sys/menu/タイトルに戻る001.png");
-	CreateTexture("mnuRESET/MouseOver/img",10,440,350,"cg/sys/menu/タイトルに戻る002.png");
-	CreateTexture("mnuRESET/MouseClick/img",10,440,350,"cg/sys/menu/タイトルに戻る003.png");
-	CreateTexture("mnu_img_EXIT",10,440,376,"cg/sys/menu/ゲームを終了する001.png");
-	CreateTexture("mnuEXIT/MouseUsual/img",10,440,376,"cg/sys/menu/ゲームを終了する001.png");
-	CreateTexture("mnuEXIT/MouseOver/img",10,440,376,"cg/sys/menu/ゲームを終了する002.png");
-	CreateTexture("mnuEXIT/MouseClick/img",10,440,376,"cg/sys/menu/ゲームを終了する003.png");
-	CreateTexture("mnu_img_TIPS",10,440,402,"cg/sys/menu/プルダウンTIP.png");
-	CreateTexture("mnuTIPS/MouseUsual/img",10,440,402,"cg/sys/menu/プルダウンTIP.png");
-	CreateTexture("mnuTIPS/MouseOver/img",10,440,402,"cg/sys/menu/プルダウンTIP.png");
-	CreateTexture("mnuTIPS/MouseClick/img",10,440,402,"cg/sys/menu/プルダウンTIP.png");
+	CreateTexture("mnu_img_BKLG",10,440,220,"chaotic/sys/menu/ログを表示する001.png");
+	CreateTexture("mnuBKLG/MouseUsual/img",10,440,220,"chaotic/sys/menu/ログを表示する001.png");
+	CreateTexture("mnuBKLG/MouseOver/img",10,440,220,"chaotic/sys/menu/ログを表示する002.png");
+	CreateTexture("mnuBKLG/MouseClick/img",10,440,220,"chaotic/sys/menu/ログを表示する003.png");
+	CreateTexture("mnu_img_SAVE",10,440,246,"chaotic/sys/menu/セーブ画面を開く001.png");
+	CreateTexture("mnuSAVE/MouseUsual/img",10,440,246,"chaotic/sys/menu/セーブ画面を開く001.png");
+	CreateTexture("mnuSAVE/MouseOver/img",10,440,246,"chaotic/sys/menu/セーブ画面を開く002.png");
+	CreateTexture("mnuSAVE/MouseClick/img",10,440,246,"chaotic/sys/menu/セーブ画面を開く003.png");
+	CreateTexture("mnu_img_LOAD",10,440,272,"chaotic/sys/menu/ロード画面を開く001.png");
+	CreateTexture("mnuLOAD/MouseUsual/img",10,440,272,"chaotic/sys/menu/ロード画面を開く001.png");
+	CreateTexture("mnuLOAD/MouseOver/img",10,440,272,"chaotic/sys/menu/ロード画面を開く002.png");
+	CreateTexture("mnuLOAD/MouseClick/img",10,440,272,"chaotic/sys/menu/ロード画面を開く003.png");
+	CreateTexture("mnu_img_FULL",10,440,298,"chaotic/sys/menu/フルスクリーン切り替え001.png");
+	CreateTexture("mnuFULL/MouseUsual/img",10,440,298,"chaotic/sys/menu/フルスクリーン切り替え001.png");
+	CreateTexture("mnuFULL/MouseOver/img",10,440,298,"chaotic/sys/menu/フルスクリーン切り替え002.png");
+	CreateTexture("mnuFULL/MouseClick/img",10,440,298,"chaotic/sys/menu/フルスクリーン切り替え003.png");
+	CreateTexture("mnu_img_CONFIG",10,440,324,"chaotic/sys/menu/設定画面を開く001.png");
+	CreateTexture("mnuCONFIG/MouseUsual/img",10,440,324,"chaotic/sys/menu/設定画面を開く001.png");
+	CreateTexture("mnuCONFIG/MouseOver/img",10,440,324,"chaotic/sys/menu/設定画面を開く002.png");
+	CreateTexture("mnuCONFIG/MouseClick/img",10,440,324,"chaotic/sys/menu/設定画面を開く003.png");
+	CreateTexture("mnu_img_RESET",10,440,350,"chaotic/sys/menu/タイトルに戻る001.png");
+	CreateTexture("mnuRESET/MouseUsual/img",10,440,350,"chaotic/sys/menu/タイトルに戻る001.png");
+	CreateTexture("mnuRESET/MouseOver/img",10,440,350,"chaotic/sys/menu/タイトルに戻る002.png");
+	CreateTexture("mnuRESET/MouseClick/img",10,440,350,"chaotic/sys/menu/タイトルに戻る003.png");
+	CreateTexture("mnu_img_EXIT",10,440,376,"chaotic/sys/menu/ゲームを終了する001.png");
+	CreateTexture("mnuEXIT/MouseUsual/img",10,440,376,"chaotic/sys/menu/ゲームを終了する001.png");
+	CreateTexture("mnuEXIT/MouseOver/img",10,440,376,"chaotic/sys/menu/ゲームを終了する002.png");
+	CreateTexture("mnuEXIT/MouseClick/img",10,440,376,"chaotic/sys/menu/ゲームを終了する003.png");
+	CreateTexture("mnu_img_TIPS",10,440,402,"chaotic/sys/menu/プルダウンTip.png");
+	CreateTexture("mnuTIPS/MouseUsual/img",10,440,402,"chaotic/sys/menu/プルダウンTip.png");
+	CreateTexture("mnuTIPS/MouseOver/img",10,440,402,"chaotic/sys/menu/プルダウンTip.png");
+	CreateTexture("mnuTIPS/MouseClick/img",10,440,402,"chaotic/sys/menu/プルダウンTip.png");
 	
 	Fade("mnu_img_*",0,0,null,false);
 	Fade("mnu*/*/*",0,0,null,false);
@@ -183,9 +183,9 @@ chapter main
 				//LCS should be toggled through the config menu
 				//#下着パッチ=!#下着パッチ;
 				//if(!#下着パッチ) {
-				//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS1.png");
+				//	CreateTexture("mnu_img_CANCEL",10,440,90,"chaotic/sys/menu/LCS1.png");
 				//}else {
-				//	CreateTexture("mnu_img_CANCEL",10,440,90,"cg/sys/menu/LCS4.png");
+				//	CreateTexture("mnu_img_CANCEL",10,440,90,"chaotic/sys/menu/LCS4.png");
 				//}
 				$SYSTEM_menu_enable=false;
 			}case	mnuMESSAGE{
@@ -196,9 +196,9 @@ chapter main
 			}case	mnuAUTOMSG{
 				$SYSTEM_text_auto=!$SYSTEM_text_auto;
 				if(!$SYSTEM_text_auto) {
-					CreateTexture("mnu_img_AUTOMSG",10,440,142,"cg/sys/menu/自動メッセージ送り001.png");
+					CreateTexture("mnu_img_AUTOMSG",10,440,142,"chaotic/sys/menu/自動メッセージ送り001.png");
 				}else {
-					CreateTexture("mnu_img_AUTOMSG",10,440,142,"cg/sys/menu/自動メッセージ送り004-.png");
+					CreateTexture("mnu_img_AUTOMSG",10,440,142,"chaotic/sys/menu/自動メッセージ送り004-.png");
 				}
 				$SYSTEM_menu_enable=false;
 			}case	mnuSKIP{

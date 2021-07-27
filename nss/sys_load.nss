@@ -338,7 +338,7 @@ function do_load($num)
 		LoadImage("MSGWND/IMG_no_on","cg/sys/dialog/no-明るい.png");
 		LoadImage("MSGWND/IMG_no_off","cg/sys/dialog/no-暗い.png");
 		CreateTexture("MSGWND/MSG_bak",10100,0,0,"cg/sys/dialog/keepout.png");
-		CreateTexture("MSGWND/MSG_msg",10100,298,213,"cg/sys/dialog/ロードしますか？.png");
+		CreateTexture("MSGWND/MSG_msg",10100,298,213,"chaotic/sys/dialog/ロードしますか？.png");
 		CreateChoice("MSGWND/MSG_yes");
 		CreateTexture("MSGWND/MSG_yes/MouseUsual/img",1012000,329,294,"MSGWND/IMG_yes_off");
 		CreateTexture("MSGWND/MSG_yes/MouseOver/img",1011000,329,294,"MSGWND/IMG_yes_on");

@@ -186,7 +186,7 @@ I had been researching precognition&.
 	SoundPlay("SE10", 0, 1000, false);
 	Wait(500);
 
-	CreateTextureEX("背景３", 100, 0, 50, "cg/bg/bg123_01_3_PC画面予知_a.jpg");
+	CreateTextureEX("背景３", 100, 0, 50, "chaotic/bg/bg123_01_3_PC画面予知_a.jpg");
 	Fade("背景３", 0, 1000, null, true);
 	Delete("ルーム");
 
@@ -194,7 +194,7 @@ I had been researching precognition&.
 
 	Move("背景３", 5000, @0, @-90, null, false);
 
-	CreateTextureEX("検索画面", 100, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("検索画面", 100, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	CreateSE("SE03","SE_日常_PC_キー叩く_長");
 
 //――――――――――――――――――――――――――――――――――――――
@@ -258,7 +258,7 @@ impressive news leads and information&.
 	Delete("検索画面");
 	Delete("背景３");
 
-	CreateTextureEX("背景１", 100, 0, 0,"cg/bg/bg124_01_3_PC画面掲示板一覧_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0,"chaotic/bg/bg124_01_3_PC画面掲示板一覧_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -319,7 +319,7 @@ there were a lot of disquieting phrases like "prophetic lyrics" and
 "murderer"&.
 
 {	SoundPlay("SE02", 0, 1000, false);
-	CreateTextureEX("検索", 100, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("検索", 100, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("検索", 0, 1000, null, true);
 	Wait(500);
 	SoundPlay("SE03", 0, 1000, false);
@@ -627,7 +627,7 @@ Then there wouldn't be anything odd about her ability to predict the
 incidents several months in advance&. After all&, she herself was the
 perpetrator&.
 
-{	CreateTextureEX("検索", 100, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+{	CreateTextureEX("検索", 100, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("検索", 0, 1000, null, true);
 	Wait(500);}
 I tried running an image search&, but I couldn't find any photos of

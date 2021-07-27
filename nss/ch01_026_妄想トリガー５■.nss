@@ -1482,7 +1482,7 @@ The participants in the chat were "Neidhardt" and―
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 //イメージＢＧ//チャットの過去ログが印刷されたプリント
-	CreateTextureEX("ログ", 1000, 200, -500, "cg/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("ログ", 1000, 200, -500, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
 	Rotate("ログ", 1000, @0, @0, @45, null, true);
 
 	Move("ログ", 5000, @-300, @300, null, false);
@@ -1596,8 +1596,8 @@ it? lol(09/28 Sun 03:18:27)</pre>
 //ＢＧ//松濤公園//夕方
 
 	CreateWindow("ウィンドウ１", 500, Center, InBottom, 800, 272, false);
-	CreateTextureEX("ウィンドウ１/ログ１", 500, @0, -265, "cg/bg/bg042_01_2_ログプリント_a.jpg");
-	CreateTextureEX("ログ２", 300, 0, -565, "cg/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("ウィンドウ１/ログ１", 500, @0, -265, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("ログ２", 300, 0, -565, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

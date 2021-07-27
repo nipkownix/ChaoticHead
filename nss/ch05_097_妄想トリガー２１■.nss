@@ -1081,7 +1081,7 @@ I&, I certainly couldn't ignore her&, could I&.&.&.
 	CreateSE("SE04","SE_日常_PC_マウスクリック");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);
 
-	CreateBG(100, 300, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateBG(100, 300, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 
 
 //――――――――――――――――――――――――――――――――――――――
@@ -1226,7 +1226,7 @@ tahaha&.&.&."
 
 {	CreateSE("SE04","SE_日常_PC_キー叩く_短");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);
-	CreateBG(100, 300, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");}
+	CreateBG(100, 300, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");}
 While explaining it to Rimi&, I played around with likely-sounding
 search keywords&, using trial and error&, but I couldn't find the sort
 of page I'd been looking for&.
@@ -1492,7 +1492,7 @@ The contents were&, in sum&, something along the lines of the following&.
 
 	CreateSE("SE04","SE_日常_PC_マウスクリック");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);
-//	CreateBG(100, 0, 0, 0, "cg/bg/bg044_03_1_ワープロ文章_a.jpg");
+//	CreateBG(100, 0, 0, 0, "chaotic/bg/bg044_03_1_ワープロ文章_a.jpg");
 
 	CreateColor("back03", 100, 0, 0, 800, 600, "Black");
 	Fade("back03", 0, 0, null, false);

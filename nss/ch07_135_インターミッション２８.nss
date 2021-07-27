@@ -60,7 +60,7 @@ function ch07_135_インターミッション２８()
 //イメージＢＧ//テレビのニュース
 //テロップ部分「ニュージェネ第６の事件か」
 //キャスターではなくテロップを強調
-	CreateTextureEX("ニュース", 200, 0, -100, "cg/bg/bg176_01_3_ニュース旨い手_a.jpg");
+	CreateTextureEX("ニュース", 200, 0, -100, "chaotic/bg/bg176_01_3_ニュース旨い手_a.jpg");
 	Fade("ニュース", 500, 1000, null, true);
 	FadeDelete("街頭掲示板", 0, 0, false);
 
@@ -130,7 +130,7 @@ and homicide―"
 //あやべ：さしかえ
 
 
-	CreateTextureEX("掲示板", 300, 0, 0, "cg/bg/bg118_04_3_掲示板速報_a.jpg");
+	CreateTextureEX("掲示板", 300, 0, 0, "chaotic/bg/bg118_04_3_掲示板速報_a.jpg");
 	Fade("掲示板", 500, 1000, null, true);
 	FadeDelete("背景１", 0, 0, false);
 

@@ -41,7 +41,7 @@ function ch02_038_インターミッション０６()
 	ClearAll(0);
 
 	CreateTexture("背景１", 100, 0, 0, "cg/ev/ev037_01_3_INT13優愛自室でメール書く_a.jpg");
-	CreateTextureEX("プリント", 100, 0, 0, "cg/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("プリント", 100, 0, 0, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
 	CreateColor("背景２", 150, 0, 0, 800, 600, "Black");
 	Fade("背景２", 0, 0, null, true);
 	CreateTextureEX("背景３", 100, 0, 0, "cg/bg/bg096_01_1_優愛自宅ＰＣ前_a.jpg");
@@ -157,7 +157,7 @@ outcolor="BLACK">DID</FONT>'&.&.&."
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 	SoundPlay("SE02", 1000, 500, true);
-	CreateTextureEX("背景３", 100, 0, 0, "cg/bg/bg122_01_3_PC画面同一性障害_a.jpg");
+	CreateTextureEX("背景３", 100, 0, 0, "chaotic/bg/bg122_01_3_PC画面同一性障害_a.jpg");
 	Move("背景３", 2000, @0, @-100, null, false);
 	Fade("背景３", 500, 1000, null, true);
 	Wait(1000);

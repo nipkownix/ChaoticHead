@@ -26,13 +26,15 @@ chapter main
 	cfgLoadImage("IMG_push_over","push-02.png");
 	cfgLoadImage("IMG_push_on","push-03.png");
 	cfgLoadImage("IMG_exit","exit-01.png");
-	cfgLoadImage("IMG_url","url.bmp");
+	//cfgLoadImage("IMG_url","url.bmp");
+	LoadImage(IMG_url,"chaotic/sys/config/url.bmp");
 	cfgLoadImage("IMG_qr","qr.bmp");
-	cfgLoadImage("IMG_entry","ÉÜÅ[ÉUÅ[ìoò^-01.png");
+	//cfgLoadImage("IMG_entry","ÉÜÅ[ÉUÅ[ìoò^-01.png");
+	LoadImage(IMG_entry,"chaotic/sys/config/ÉÜÅ[ÉUÅ[ìoò^-01.png");
 
-	CreateTexture("TAB1_BAK",10001,center,middle,"cg/sys/config/config-page01.png");
-	CreateTexture("TAB2_BAK",10001,center,middle,"cg/sys/config/config-page02.png");
-	CreateTexture("TAB3_BAK",10001,center,middle,"cg/sys/config/config-page03.png");
+	CreateTexture("TAB1_BAK",10001,center,middle,"chaotic/sys/config/config-page01.png");
+	CreateTexture("TAB2_BAK",10001,center,middle,"chaotic/sys/config/config-page02.png");
+	CreateTexture("TAB3_BAK",10001,center,middle,"chaotic/sys/config/config-page03.png");
 	
 	CreateChoice("TAB1_select_tab");
 	CreateTexture("TAB1_select_tab/MouseUsual/img",0,80,28,"IMG_tab1_hit");
@@ -351,11 +353,11 @@ chapter main
 		CreateChoice("TAB3_select_UserEntry");
 		CreateTexture("TAB3_hit_UserEntry",10100,160,382,"IMG_entry");
 		CreateTexture("TAB3_select_UserEntry/MouseUsual/img",0,160,382,"IMG_entry");
-		CreateTexture("TAB3_select_UserEntry/MouseOver/img",10100,160,382,"cg/sys/config/ÉÜÅ[ÉUÅ[ìoò^-02.png");
-		CreateTexture("TAB3_select_UserEntry/MouseClick/img",10100,160,382,"cg/sys/config/ÉÜÅ[ÉUÅ[ìoò^-03.png");
+		CreateTexture("TAB3_select_UserEntry/MouseOver/img",10100,160,382,"chaotic/sys/config/ÉÜÅ[ÉUÅ[ìoò^-02.png");
+		CreateTexture("TAB3_select_UserEntry/MouseClick/img",10100,160,382,"chaotic/sys/config/ÉÜÅ[ÉUÅ[ìoò^-03.png");
 	}
 	
-	CreateTexture("TAB3_LCS",10100,100,415,"ex/sys/config/config-LCS.png");
+	CreateTexture("TAB3_LCS",10100,100,415,"chaotic/sys/config/config-LCS.png");
 	CreateChoice("TAB3_select_LCS_OFF");
 	CreateTexture("TAB3_check_LCS_OFF",10100,113,445,"IMG_check");
 	CreateTexture("TAB3_select_LCS_OFF/MouseUsual/img",0,103,445,"IMG_check_hit");

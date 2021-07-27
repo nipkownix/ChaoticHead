@@ -137,9 +137,9 @@ My instincts urged me onward&.
 //ＢＧ//宮下公園//夜
 //※ホームレスモブあり。『恐怖の大王がこの街を選んだ』と書いたプラカードを抱えてしゃがみ込んでいる
 
-	CreateTexture("back03", 100, 0, 0, "cg/bg/bg083_02_3_宮下公園_a.jpg");
+	CreateTexture("back03", 100, 0, 0, "chaotic/bg/bg083_02_3_宮下公園_a.jpg");
 	DrawTransition("back03", 300, 0, 1000, 100, null, "cg/data/right2.png", true);
-	CreateTexture("back06", 100, 0, 0, "cg/bg/bg083_02_3_宮下公園_a.jpg");
+	CreateTexture("back06", 100, 0, 0, "chaotic/bg/bg083_02_3_宮下公園_a.jpg");
 
 	Delete("back03");
 

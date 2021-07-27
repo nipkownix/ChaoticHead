@@ -567,7 +567,7 @@ I went to the URL >>12 had pasted in&.
 
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
-	CreateBG(100, 0, 0, 0, "cg/bg/bg152_01_1_AH会HP_a.jpg");
+	CreateBG(100, 0, 0, 0, "chaotic/bg/bg152_01_1_AH会HP_a.jpg");
 
 	FadeDelete("背景１", 0, true);
 	FadeDelete("背景９", 0, true);
@@ -622,7 +622,7 @@ picture of the young Kishimoto Ayase and a poem she had written&.
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
 
-	CreateBG(100, 0, 0, 0, "cg/bg/bg153_01_1_あやせの詩_a.jpg");
+	CreateBG(100, 0, 0, 0, "chaotic/bg/bg153_01_1_あやせの詩_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -747,7 +747,7 @@ I hastily confirmed the number displayed on the LCD screen&.
 //イメージＢＧ//拓巳のケータイのディスプレイ。謎の電話番号表示
 //03-X733-X991　と表示されている
 
-	CreateBG(100, 300, 0, 0, "cg/bg/bg129_03_1_謎の電話番号_a.jpg");
+	CreateBG(100, 300, 0, 0, "chaotic/bg/bg129_03_1_謎の電話番号_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

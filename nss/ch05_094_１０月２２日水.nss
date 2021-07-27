@@ -40,7 +40,7 @@ function ch05_094_１０月２２日水()
 //↑第２章で使ったものを流用
 //１０月２２日（水）//日付は表示しない
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch05.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch05.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);
@@ -51,7 +51,7 @@ function ch05_094_１０月２２日水()
 	CreateMovie("インターミッションムービー２", 25002, 0, 0, false, true, "dx/mvEyecatch02.ngs");
 	Request("インターミッションムービー２", Lock);
 
-	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
+	CreateTextureEX("back04", 100, 0, 0, "chaotic/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
 	Fade("back04", 1900, 1000, null, true);
 
 	WaitPlay("インターミッションムービー２", null);
@@ -396,7 +396,7 @@ regrettable&. The criminal must be apprehended as soon as possible&."
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
 
 	FadeDelete("背景２", 500, true);
 	Fade("背景１", 500, 1000, null, true);

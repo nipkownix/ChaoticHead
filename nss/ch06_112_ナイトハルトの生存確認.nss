@@ -132,7 +132,7 @@ I had no recourse but to open the Taboo! home page&.
 	CreateSE("SE01","SE_“úí_PC_ƒ}ƒEƒXƒNƒŠƒbƒN");
 	SoundPlay("SE01",0,1000,false);
 
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg156_01_1_PC‰æ–ÊTaboo’nkî•ñ_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg156_01_1_PC‰æ–ÊTaboo’nkî•ñ_a.jpg");
 	Fade("”wŒi‚P", 0, 1000, null, true);
 	Fade("ƒiƒCƒgƒnƒ‹ƒg", 0, 0, null, true);
 

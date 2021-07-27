@@ -39,7 +39,7 @@ function ch02_028_インターミッション０４()
 
 	Wait(2000);
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch02.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch02.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);

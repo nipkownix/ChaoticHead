@@ -817,7 +817,7 @@ Shibuya&.&.&."
 
 	CreateSE("SE01","SE_衝撃_フラッシュバック");
 	MusicStart("SE01", 0, 500, 0, 1000, null, false);
-	CreateTextureEX("back05", 500, 0, 0, "cg/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("back05", 500, 0, 0, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
 	Fade("back05", 100, 1000, null, true);
 	FadeDelete("back05", 500, false);
 

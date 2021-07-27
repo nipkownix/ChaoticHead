@@ -230,7 +230,7 @@ up going unsettled&.
 //03-X733-X991　と表示されている
 //※電話番号は適当。後日再調整する必要ありかも
 
-	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg129_02_1_謎の電話番号_a.jpg");
+	CreateTexture("背景１", 100, 0, 0, "chaotic/bg/bg129_02_1_謎の電話番号_a.jpg");
 	DrawTransition("背景１", 500, 0, 1000, 100, null, "cg/data/円形中外.png", true);
 
 

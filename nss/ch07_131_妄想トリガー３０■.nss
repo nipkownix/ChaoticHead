@@ -409,7 +409,7 @@ She deliberately held her clipboard out to me&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 //イメージＢＧ//クリップボードに挟まれたカルテに書かれた「その目だれの目？」
-	CreateTextureEX("その目クリップ", 600, 0, 0, "cg/bg/bg171_01_3_カルテその目_a.jpg");
+	CreateTextureEX("その目クリップ", 600, 0, 0, "chaotic/bg/bg171_01_3_カルテその目_a.jpg");
 	Fade("その目クリップ", 1000, 1000, null, true);
 	
 	DeleteStand("st志乃_白衣_通常_cool", 500, true);

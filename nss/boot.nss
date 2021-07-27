@@ -12,9 +12,9 @@ chapter main
 {
 
 	#SYSTEM_product_code="DEMONBANE_THEBEST";
-	#SCRIPT_VERSION="1.23";
-	#SYSTEM_version="1.23";
-	#SYSTEM_loading_image="cg/sys/save/loading.jpg";
+	#SCRIPT_VERSION="1.30";
+	#SYSTEM_version="1.30";
+	#SYSTEM_loading_image="chaotic/sys/save/loading.jpg";
 	#SYSTEM_loading_image_x=298;
 	#SYSTEM_loading_image_y=213;
 
@@ -64,9 +64,9 @@ chapter main
 	//SetShortcut("D", "nss/sys_skip.nss");
 
 	//icons
-	$SYSTEM_text_icon_line="cg/sys/icon/line/line-icon_%02d.png#14";
-	$SYSTEM_text_icon_page="cg/sys/icon/page/page-icon_%02d.png#10";
-	$SYSTEM_text_icon_auto="cg/sys/icon/auto/auto-icon_%02d.png#10";
+	$SYSTEM_text_icon_line="chaotic/sys/icon/line/line-icon_%02d.png#14";
+	$SYSTEM_text_icon_page="chaotic/sys/icon/page/page-icon_%02d.png#10";
+	$SYSTEM_text_icon_auto="chaotic/sys/icon/auto/auto-icon_%02d.png#10";
 
 	if(!#GAME_first_boot){
 		//●設定リセット
@@ -92,15 +92,15 @@ chapter main
 		//★：下着用初期化フラグ
 		//#下着パッチ=false;
 
-//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+		//▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
 		//デバッグ用
-//		$Logo = 1;
-//		#ClearG = 1;
-//		#下着パッチ=false;
-//		$debug_skip = true;
-//		DebugSound();
-//		DebugGallery();
-//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+		//$Logo = 1;
+		//#ClearG = 1;
+		//#下着パッチ=false;
+		//$debug_skip = true;
+		//DebugSound();
+		//DebugGallery();
+		//▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
 		if($GameContiune)
 		{
@@ -343,9 +343,9 @@ function TitleLogo()
 //		CreateTexture("タイトルメディア１", 100, 0, 0, "cg/sys/title/media_a.jpg");
 //		CreateTexture("タイトルメディア２", 100, 0, 0, "cg/sys/title/media_b.jpg");
 
-		CreateTexture("タイトルニトロプラス", 100, 0, 0, "cg/sys/title/boot_nitroplus.jpg");
-		CreateTexture("タイトル5GK", 100, 0, 0, "cg/sys/title/boot_5gk.jpg");
-		CreateTexture("タイトル注意事項", 100, 0, 0, "cg/sys/title/注意事項.jpg");
+		CreateTexture("タイトルニトロプラス", 100, 0, 0, "chaotic/sys/title/boot_nitroplus.jpg");
+		CreateTexture("タイトル5GK", 100, 0, 0, "chaotic/sys/title/boot_5gk.jpg");
+		CreateTexture("タイトル注意事項", 100, 0, 0, "chaotic/sys/title/注意事項.jpg");
 		Fade("タイトル*", 0, 0, null, true);
 
 //		Fade("タイトルメディア１", 500, 1000, null, true);

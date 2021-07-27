@@ -48,7 +48,7 @@ function ch07_134_エスパー少年祭り()
 	
 //あやべ：ワープロ箇条書き差し替え
 //イメージＢＧ//ＰＣ画面//ワープロ文章
-	CreateTextureEX("ワープロ文章", 100, 0, 0, "cg/bg/bg044_05_3_ワープロ文章_a.jpg");
+	CreateTextureEX("ワープロ文章", 100, 0, 0, "chaotic/bg/bg044_05_3_ワープロ文章_a.jpg");
 	Fade("ワープロ文章", 1000, 1000, null, true);
 	
 //――――――――――――――――――――――――――――――――――――――
@@ -100,7 +100,7 @@ browser&.
 	MusicStart("SE02",0,1000,0,1000,null,false);
 
 //320*240
-	CreateTextureEX("ブラウザ", 100, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("ブラウザ", 100, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("ブラウザ", 300, 1000, null, true);
 	FadeDelete("ワープロ文章", 0, 0, false);
 //――――――――――――――――――――――――――――――――――――――
@@ -113,7 +113,7 @@ sites I usually frequented&.
 {	CreateSE("SE02","SE_日常_PC_マウスクリック");
 	MusicStart("SE02",0,1000,0,1000,null,false);
 //狼少年ネットの記事の見出し
-	CreateTextureEX("ネット記事１", 100, 0, 0,"cg/bg/bg175_01_3_PC画面ZACO狼少年_a.jpg");
+	CreateTextureEX("ネット記事１", 100, 0, 0,"chaotic/bg/bg175_01_3_PC画面ZACO狼少年_a.jpg");
 	Fade("ネット記事１", 0, 1000, null, true);
 	FadeDelete("ブラウザ", 0, 0, false);}
 As expected&, there were a bunch of articles lined up about
@@ -199,7 +199,7 @@ Posted at 7:31  ZACOZACO
 
 	CreateSE("SE02","SE_日常_PC_マウスクリック");
 	SoundPlay("SE02", 0, 1000, false);
-	CreateTexture("ネット記事２", 300, Center, 50,"cg/bg/bg175_02_3_PC画面ZACO狼少年_a.jpg");
+	CreateTexture("ネット記事２", 300, Center, 50,"chaotic/bg/bg175_02_3_PC画面ZACO狼少年_a.jpg");
 	FadeDelete("ネット記事１", 0, 0, false);
 	WaitKey();
 
@@ -243,7 +243,7 @@ He'd even let Nanami go with her life&.
 	Fade("ネット記事２", 1000, 0, null, true);
 	Delete("ネット記事*");
 
-	CreateTextureEX("背景１", 100, 0, 0,"cg/bg/bg175_01_3_PC画面ZACO狼少年_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0,"chaotic/bg/bg175_01_3_PC画面ZACO狼少年_a.jpg");
 	Fade("背景１", 1000, 1000, null, true);
 
 //――――――――――――――――――――――――――――――――――――――

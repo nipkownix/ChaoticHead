@@ -92,7 +92,7 @@ I'd thought maybe Rimi had contacted me&, but&.&.&.
 
 	Wait(500);
 
-	CreateTextureEX("七海メール内容", 100, 0, 0, "cg/bg/bg157_02_1_七海メール_a.jpg");
+	CreateTextureEX("七海メール内容", 100, 0, 0, "chaotic/bg/bg157_02_1_七海メール_a.jpg");
 	Fade("七海メール内容", 0, 1000, null, true);
 	Wait(3000);
 
@@ -137,7 +137,7 @@ I didn't send a reply&, of course&.
 
 //イメージＢＧ//ＰＣ画面（ネットブラウザ）
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("背景１", 500, 1000, null, true);
 	Delete("背景２");
 	Delete("七海メール内容");
@@ -290,7 +290,7 @@ my room&.
 
 	Wait(1000);
 
-	CreateTextureEX("背景２", 100, 0, -80, "cg/bg/bg158_01_1_ニュース地震_a.jpg");
+	CreateTextureEX("背景２", 100, 0, -80, "chaotic/bg/bg158_01_1_ニュース地震_a.jpg");
 	EndBoard();
 	Fade("背景２", 0, 1000, null, true);
 
@@ -319,7 +319,7 @@ Shibuya station plaza&."
 
 
 //画面エフェクト//砂嵐（チャンネル変えてることを意味してます）
-//	CreateTexture("砂嵐", 100, 0, 0, "cg/bg/bg158_01_1_ニュース地震_a.jpg");
+//	CreateTexture("砂嵐", 100, 0, 0, "chaotic/bg/bg158_01_1_ニュース地震_a.jpg");
 
 	Delete("@text006");
 
@@ -395,7 +395,7 @@ its magnitude&. Various factors must be taken into account―"
 //イメージＢＧ//ＰＣ画面（ニュース番組）
 	SoundPlay("SE02", 0, 0, false);
 	FadeDelete("砂嵐", 0, 0, null, true);
-	CreateTextureEX("背景２", 100, 0, -120, "cg/bg/bg158_03_1_ニュース地震_a.jpg");
+	CreateTextureEX("背景２", 100, 0, -120, "chaotic/bg/bg158_03_1_ニュース地震_a.jpg");
 	Fade("背景２", 0, 1000, null, true);
 
 //――――――――――――――――――――――――――――――――――――――

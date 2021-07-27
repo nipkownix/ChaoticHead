@@ -298,7 +298,7 @@ it'd be best to research this&.
 	Wait(3000);
 	SoundPlay("SE03", 1000, 0, false);
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -440,7 +440,7 @@ I quickly stuck it in the input field and ran a search&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -463,7 +463,7 @@ I quickly stuck it in the input field and ran a search&.
 
 	Wait(600);
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg141_01_3_PC画面del検索結果_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg141_01_3_PC画面del検索結果_a.jpg");
 	Wait(200);
 	Fade("背景１", 0, 1000, null, true);
 
@@ -516,7 +516,7 @@ down&.
 //※↑マウスの矢印が画面上を動いて実際にディソードのリンクをクリックする？
 //イメージＢＧ//ＰＣ画面（『ページが見つかりません』の画面に）
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg130_01_3_PC画面NotFound_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg130_01_3_PC画面NotFound_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -536,7 +536,7 @@ No&, calm down&.&.&. Go back one more time and take a look at the cache&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg141_01_3_PC画面del検索結果_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg141_01_3_PC画面del検索結果_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -544,7 +544,7 @@ No&, calm down&.&.&. Go back one more time and take a look at the cache&.
 
 	Wait(1000);
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg131_01_3_PC画面ファンタジーwiki_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg131_01_3_PC画面ファンタジーwiki_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(1000);
@@ -619,7 +619,7 @@ I decided to explore a little more&.
 
 {	Move("背景２", 0, @0, @0, null, true);
 	Wait(200);
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg141_01_3_PC画面del検索結果_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg141_01_3_PC画面del検索結果_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -635,7 +635,7 @@ Was a Di-Sword something you could purchase?
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTextureEX("背景３", 100, 0, 0, "cg/bg/bg132_01_3_PC画面ブログ_a.jpg");
+	CreateTextureEX("背景３", 100, 0, 0, "chaotic/bg/bg132_01_3_PC画面ブログ_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	SoundPlay("SE01", 0, 1000, false);
 	Wait(200);
@@ -679,7 +679,7 @@ Comments(2) Trackback(0)　2005-5-13
 
 	Wait(1500);
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

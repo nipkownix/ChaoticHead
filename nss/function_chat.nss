@@ -52,7 +52,7 @@ function ChatMain($Ｘ座標,$Ｙ座標,"$参加人数")
 	$Chat_num020 = 0;
 
 
-	$人数画像 = "cg/sys/chat/in-" + "$参加人数" + ".png";
+	$人数画像 = "chaotic/sys/chat/in-" + "$参加人数" + ".png";
 	$Ｘ座標マイナ = -($Ｘ座標);
 	$Ｙ座標マイナ = -($Ｙ座標);
 
@@ -72,7 +72,7 @@ function ChatMain($Ｘ座標,$Ｙ座標,"$参加人数")
 
 function ChatPerson("$参加人数")
 {
-	$人数画像 = "cg/sys/chat/in-" + "$参加人数" + ".png";
+	$人数画像 = "chaotic/sys/chat/in-" + "$参加人数" + ".png";
 	CreateTexture("box01/ChatPerson", 1000, 13, 81, "$人数画像");
 }
 

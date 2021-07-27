@@ -384,7 +384,7 @@ I had to avoid that&.&.&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTexture("結果", 100, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTexture("結果", 100, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 
 	Wait(500);
 
@@ -397,7 +397,7 @@ I had to avoid that&.&.&.
 
 	CreateColor("フラッシュ", 100, 0, 0, 800, 600, "Black");
 	Fade("フラッシュ", 0, 0, null, true);
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
 	Fade("背景１", 0, 0, null, true);
 
 //――――――――――――――――――――――――――――――――――――――
@@ -698,7 +698,7 @@ I decided to put this into practice without delay&.
 
 //イメージＢＧ//ニュージェネについて
 //おがみ：イメージBGダミー
-	CreateTextureEX("背景１", 100, 0, 0,"cg/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0,"chaotic/bg/bg117_01_3_PC画面ニュージェネ_a.jpg");
 	Wait(500);
 
 	CreateSE("SE02","SE_日常_PC_マウスクリック");
@@ -819,7 +819,7 @@ Either way&, net crowds are lusting a fourth incident&.
 
 	Wait(800);
 
-	CreateTextureEX("結果", 100, 0, 0,"cg/bg/bg118_01_3_掲示板速報_a.jpg");
+	CreateTextureEX("結果", 100, 0, 0,"chaotic/bg/bg118_01_3_掲示板速報_a.jpg");
 	Fade("結果", 500, 1000, null, true);
 	Fade("背景１", 0, 0, null, true);
 	Delete("渋谷街");

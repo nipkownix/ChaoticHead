@@ -87,7 +87,7 @@ something like an ambulance siren by the end&.&.&.
 	CreateColor("回想フラッシュ", 300, 0, 0, 800, 600, "WHITE");
 	Request("回想フラッシュ", AddRender);
 	Fade("回想フラッシュ", 100, 1000, null, true);
-	CreateTexture("背景３", 100, 0, 0, "cg/bg/bg129_03_1_謎の電話番号_a.jpg");
+	CreateTexture("背景３", 100, 0, 0, "chaotic/bg/bg129_03_1_謎の電話番号_a.jpg");
 	CreateColor("回想明度", 150, 0, 0, 800, 600, "Black");
 	Fade("回想明度", 0, 500, null, true);
 	Fade("回想フラッシュ", 500, 0, null, true);

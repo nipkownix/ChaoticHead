@@ -63,7 +63,7 @@ if($GameDebugSelect == 1)
 
 
 
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg118_03_1_Œf¦”Â‘¬•ñ_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg118_03_1_Œf¦”Â‘¬•ñ_a.jpg");
 	Fade("”wŒi‚P", 1000, 1000, null, true);
 
 	Wait(3000);

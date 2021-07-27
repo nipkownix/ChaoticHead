@@ -291,7 +291,7 @@ connected to her laptop&.
 
 Ban and Yua peeked at the monitor from behind Momose&.
 
-{	CreateTextureEX("back05", 500, 0, 0, "cg/bg/bg202_01_1_希グループｗｅｂサイト_a.jpg");
+{	CreateTextureEX("back05", 500, 0, 0, "chaotic/bg/bg202_01_1_希グループｗｅｂサイト_a.jpg");
 	Fade("back05", 500, 1000, null, true);
 	DeleteStand("bu克子_スーツ_通常_hard", 0, false);
 	DeleteStand("bu安二_スーツ_通常_hard", 0, true);}
@@ -309,7 +309,7 @@ Ban and Yua peeked at the monitor from behind Momose&.
 <voice name="判" class="判" src="voice/ch09/18000330bn">
 "The Nozomi Group&, huh&. That's a surprise&."
 
-{	CreateTextureEX("back06", 500, 0, 0, "cg/bg/bg203_01_1_ゲロカエルん偽通販サイト_a.jpg");
+{	CreateTextureEX("back06", 500, 0, 0, "chaotic/bg/bg203_01_1_ゲロカエルん偽通販サイト_a.jpg");
 	CreateSE("SE01","SE_日常_PC_マウスクリック");
 	MusicStart("SE01", 0, 1000, 0, 1000, null, false);
 	Fade("back06", 500, 1000, null, true);

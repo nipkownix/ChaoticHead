@@ -34,7 +34,7 @@ function ch04_073_インターミッション１２()
 //――――――――――――――――
 //■第４章【Di-Sword】
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch04.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch04.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);

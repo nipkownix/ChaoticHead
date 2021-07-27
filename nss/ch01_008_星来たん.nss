@@ -378,12 +378,12 @@ For my own sake&. For the sake of surviving&, I had to get organized&.&.&.
 
 	if($１章エンドフラグ① == true)
 	{
-		CreateTextureEX("記事１", 200, 0, 0,"cg/bg/bg044_03_1_ワープロ文章_a.jpg");
+		CreateTextureEX("記事１", 200, 0, 0,"chaotic/bg/bg044_03_1_ワープロ文章_a.jpg");
 		Fade("記事１", 500, 1000, null, true);
 	}
 	else
 	{
-		CreateTextureEX("記事１", 200, 0, 0,"cg/bg/bg044_01_1_ワープロ文章_a.jpg");
+		CreateTextureEX("記事１", 200, 0, 0,"chaotic/bg/bg044_01_1_ワープロ文章_a.jpg");
 		Fade("記事１", 500, 1000, null, true);
 	}
 
@@ -394,7 +394,7 @@ For my own sake&. For the sake of surviving&, I had to get organized&.&.&.
 //将軍＝謎の少女
 //謎の少女＝殺人鬼、悪魔
 //※↑の文章をアップで画面に表示
-	CreateTextureEX("記事２", 200, 0, 0,"cg/bg/bg044_02_1_ワープロ文章_a.jpg");
+	CreateTextureEX("記事２", 200, 0, 0,"chaotic/bg/bg044_02_1_ワープロ文章_a.jpg");
 	Fade("記事２", 500, 1000, null, true);
 
 	SetVolume("サウンド１", 0, 0, NULL);

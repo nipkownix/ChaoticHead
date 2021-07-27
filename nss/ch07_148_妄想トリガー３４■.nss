@@ -338,7 +338,7 @@ And sucked in my breath&.
 	CreateSE("SE02","SE_衝撃_衝撃音01");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
-	CreateTextureEX("棒アイス", 500, 0, 0, "cg/bg/bg180_01_1_アイスその目_a.jpg");
+	CreateTextureEX("棒アイス", 500, 0, 0, "chaotic/bg/bg180_01_1_アイスその目_a.jpg");
 	Fade("棒アイス", 300, 1000, null, true);
 
 //――――――――――――――――――――――――――――――――――――――

@@ -836,7 +836,7 @@ I was stunned&.
 //※画面左上に『ニュージェネ事件犯人逮捕！』のテロップ
 //※連行される容疑者の静止映像（容疑者は頭から上着を被っており顔は見えない）
 	CreateSE("SE03","SE_衝撃_衝撃音01");
-	CreateTextureEX("背景１", 100, 0, -100, "cg/ev/ev061_01_2_ニュージェネ犯人逮捕TV_a.jpg");
+	CreateTextureEX("背景１", 100, 0, -100, "chaotic/ev/ev061_01_2_ニュージェネ犯人逮捕TV_a.jpg");
 
 	Fade("背景１", 0, 1000, null, true);
 
@@ -1050,7 +1050,7 @@ I quickly checked the caller's name&.
 //イメージＢＧ//拓巳のケータイのディスプレイ
 //「番号非通知」と表示されている
 //おがみ：非通知画像なし？
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg188_03_2_携帯電話七海表示_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg188_03_2_携帯電話七海表示_a.jpg");
 	Fade("背景２", 0, 1000, null, true);
 
 //ＳＥ//心臓の鼓動

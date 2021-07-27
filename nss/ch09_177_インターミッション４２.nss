@@ -41,7 +41,7 @@ function ch09_177_インターミッション４２()
 //ＢＧ//山手線内//夕方
 
 /*森島Movieダミー*/
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch09.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch09.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);

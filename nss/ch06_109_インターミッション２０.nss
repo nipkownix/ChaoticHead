@@ -34,7 +34,7 @@ function ch06_109_インターミッション２０()
 //――――――――――――――――
 //■第６章【Noah】
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch06.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch06.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);

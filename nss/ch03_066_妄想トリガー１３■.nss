@@ -26,7 +26,7 @@ function ch03_066_–Ï‘zƒgƒŠƒK[‚P‚R¡()
 	SystemInit();
 	SystemSet();
 	
-	CreateTexture("”wŒi‚P", 100, 0, 0, "cg/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
+	CreateTexture("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
 
 //™™™
 //–Ï‘zƒgƒŠƒK[•ªŠò
@@ -79,7 +79,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚R == 2)
 
 	DelusionIn();
 
-	CreateTexture("”wŒi‚P", 100, 0, 0, "cg/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
+	CreateTexture("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
 
 	DelusionIn2();
 
@@ -257,7 +257,7 @@ if($–Ï‘zƒgƒŠƒK[‚P‚R == 1)
 
 	DelusionIn();
 
-	CreateTexture("”wŒi‚P", 100, 0, 0, "cg/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
+	CreateTexture("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg129_02_1_“ä‚Ì“d˜b”Ô†_a.jpg");
 
 	DelusionIn2();
 

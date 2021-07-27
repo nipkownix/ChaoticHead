@@ -604,7 +604,7 @@ Getting a little excited&, I opened the link&.
 //※ネットオークションのページが表示される。オークションの見出しとして大きめのフォントで「Ｂ型の血液が不足しています！」と表示
 //おがみ：後でBG差し替え
 
-	CreateTextureEX("背景２", 2000, 0, 0, "cg/bg/bg128_01_3_ネットオークション_a.jpg");
+	CreateTextureEX("背景２", 2000, 0, 0, "chaotic/bg/bg128_01_3_ネットオークション_a.jpg");
 	Fade("背景２", 0, 1000, null, true);
 
 	Wait(1000);
@@ -630,7 +630,7 @@ Rolling the wheel of my mouse&, I made the page scroll down&.
 //ＣＧ//ヴァンパイ屋事件
 //一瞬表示
 //おがみ：ヴァンパイア事件BG差し替え
-{	CreateTextureEX("背景１", 2000, 0, 0, "cg/bg/bg128_01_3_ネットオークション_a.jpg");
+{	CreateTextureEX("背景１", 2000, 0, 0, "chaotic/bg/bg128_01_3_ネットオークション_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
 	Move("背景１", 800, @0, @-600, null, true);
 	CreateSE("SE02","SE_衝撃_衝撃音02");

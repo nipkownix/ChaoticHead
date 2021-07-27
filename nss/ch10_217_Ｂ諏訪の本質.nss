@@ -340,7 +340,7 @@ In other words&, this was―
 	MusicStart("SE10", 0, 500, 0, 1000, null, false);
 
 	Fade("色１", 100, 1000, null, true);
-	CreateTexture("背景１", 200, 0, 0, "cg/bg/bg012_02_1_ニュースサイト_a.jpg");
+	CreateTexture("背景１", 200, 0, 0, "chaotic/bg/bg012_02_1_ニュースサイト_a.jpg");
 	Fade("色１", 300, 0, null, true);
 
 	Fade("色１", 100, 1000, null, true);

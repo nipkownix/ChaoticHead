@@ -819,7 +819,7 @@ if($妄想トリガー１ == 0)
 	MusicStart("SE01", 0, 800, 0, 1000, null, true);
 
 
-	CreateBG(100, 0, 0, 0, "cg/bg/bg018_02_0_教室席視線_a.jpg");
+	CreateBG(100, 0, 0, 0, "chaotic/bg/bg018_02_0_教室席視線_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -918,7 +918,7 @@ as though someone had squeezed it&.
 
 //イメージＢＧ//黒板に描かれた『その目だれの目？(;゜Д゜)』
 //※それほど大きな文字ではないです。一文字が７×７センチぐらい
-	CreateTextureEX("back02", 100, 0, 0, "cg/bg/bg022_01_0_黒板その目_a.jpg");
+	CreateTextureEX("back02", 100, 0, 0, "chaotic/bg/bg022_01_0_黒板その目_a.jpg");
 	Zoom("back02", 0, 1200, 1200, null, false);
 	Fade("back02", 500, 1000, null, false);
 	Zoom("back02", 500, 1000, 1000, null, true);
@@ -996,7 +996,7 @@ what's written on the blackboard&.
 	TypeBegin();//――――――――――――――――――――――――――――――
 
 //イメージＢＧ//黒板に描かれた『その目だれの目？(;゜Д゜)』
-	CreateBG(100, 300, 0, 0, "cg/bg/bg022_01_0_黒板その目_a.jpg");
+	CreateBG(100, 300, 0, 0, "chaotic/bg/bg022_01_0_黒板その目_a.jpg");
 
 	SetVolume("SE01", 3000, 700, NULL);
 

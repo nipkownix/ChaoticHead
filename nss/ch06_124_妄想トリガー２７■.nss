@@ -760,7 +760,7 @@ fuzzy head&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTextureEX("七海携帯番号", 100, 0, 0, "cg/bg/bg188_02_3_携帯電話七海表示_a.jpg");
+	CreateTextureEX("七海携帯番号", 100, 0, 0, "chaotic/bg/bg188_02_3_携帯電話七海表示_a.jpg");
 
 	CreateSE("SE03","SE_日常_携帯操作");
 	SoundPlay("SE03", 0, 1000, false);
@@ -825,7 +825,7 @@ Or―
 //☆☆☆
 //合流３
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg159_04_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg159_04_1_PC画面メールソフト_a.jpg");
 	Move("背景２", 0, @0, @-500, null, true);
 	Fade("背景２", 0, 1000, null, true);
 	Wait(1500);

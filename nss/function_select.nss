@@ -1139,7 +1139,7 @@ function StartWhich02()
 	$SYSTEM_skip_lock = true;
 
 
-	CreateTexture("セカイ背景", 10000, 0, 0, "cg/sys/select2/back.png");
+	CreateTexture("セカイ背景", 10000, 0, 0, "chaotic/sys/select2/back.png");
 	Request("セカイ背景", Smoothing);
 	Fade("セカイ背景", 0, 0, null, true);
 
@@ -1162,7 +1162,7 @@ function StartWhich02()
 
 function PreWhich02()
 {
-	CreateTexture("セカイ背景", 9500, 0, 0, "cg/sys/select2/back.png");
+	CreateTexture("セカイ背景", 9500, 0, 0, "chaotic/sys/select2/back.png");
 	Request("セカイ背景", Smoothing);
 	CreateTexture("セカイドア", 10000, 0, 0, "cg/sys/select2/yesno.png");
 	Zoom("セカイドア", 0, 1, 1, null, true);

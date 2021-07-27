@@ -26,7 +26,7 @@ function SetKarte()
 //■色々なパーツをクリエイト
 	$KarteKeeper = -8;
 	CreateTexture("カルテ背景", 10000, 0, 0, "cg/sys/karte/背景.png");
-	CreateTexture("カルテ上", 10000, 80, 70, "cg/sys/karte/Report01.png");
+	CreateTexture("カルテ上", 10000, 80, 70, "chaotic/sys/karte/Report01.png");
 	CreateWindow("カルテキーパー", 10000, 80, 160, 640, 24, true);
 	CreateTexture("カルテキーパー/カルテ中", 10000, 0, $KarteKeeper, "カルテイメージLine");
 	CreateTexture("カルテ下", 10000, 80, 344, "cg/sys/karte/Report02.png");

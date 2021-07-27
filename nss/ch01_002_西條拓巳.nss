@@ -33,7 +33,7 @@ function ch01_002_西條拓巳()
 //■第１章【Eyes in eyes】/
 // OP終了後　BGアイキャッチ第１章（地味に）
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch01.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch01.png");
 	Fade("アイキャッチ１", 1000, 1000, null, true);
 
 	Wait(3200);
@@ -370,7 +370,7 @@ function ch01_002_西條拓巳()
 	CreateSE("SE02","SE_衝撃_衝撃音01");
 	MusicStart("SE02", 0, 1000, 0, 1000, null, false);
 
-	CreateTextureEX("back03", 100, 0, -50, "cg/bg/bg004_01_1_作文用紙その目_a.jpg");
+	CreateTextureEX("back03", 100, 0, -50, "chaotic/bg/bg004_01_1_作文用紙その目_a.jpg");
 	Move("back03", 1200, 0, 0, Dxl3, false);
 	Fade("back03", 1000, 1000, null, true);
 
@@ -1044,7 +1044,7 @@ The parents always complain about it&.
 
 	//bg最低登校シフト表cu<pre>t</pre> / in
 	//イメージＢＧ//最低登校シフト表
-	CreateTexture("登校シフト", 2000, 0, 0,"cg/bg/bg010_01_1_最低登校シフト表_a.jpg");
+	CreateTexture("登校シフト", 2000, 0, 0,"chaotic/bg/bg010_01_1_最低登校シフト表_a.jpg");
 	Fade("登校シフト", 0, 0, null, false);
 
 	Fade("登校シフト", 500, 1000, null, false);

@@ -1704,7 +1704,7 @@ opened a piece with information on "Brainless&."
 
 	SetVolume("@CH01", 1500, 0, NULL);
 
-	CreateTextureEX("back03", 100, 0, 0, "cg/bg/bg148_01_2_PC画面ノータリン_a.jpg");
+	CreateTextureEX("back03", 100, 0, 0, "chaotic/bg/bg148_01_2_PC画面ノータリン_a.jpg");
 	Fade("back03", 0, 1000, null, true);
 
 
@@ -1793,7 +1793,7 @@ The name of the victim was―
 	CreateSE("SE04","SE_日常_PC_マウスクリック");
 	MusicStart("SE04", 0, 1000, 0, 1000, null, false);
 
-	CreateTextureEX("back04", 100, 0, 0, "cg/bg/bg148_02_2_PC画面ノータリン_a.jpg");
+	CreateTextureEX("back04", 100, 0, 0, "chaotic/bg/bg148_02_2_PC画面ノータリン_a.jpg");
 	Fade("back04", 0, 1000, null, true);
 
 	Delete("back03");

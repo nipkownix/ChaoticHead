@@ -40,7 +40,7 @@ function ch03_047_インターミッション０７()
 //１０月１３日（月）//日付は表示しない
 //■インターミッション０７開始
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch03.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch03.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);

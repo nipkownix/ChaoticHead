@@ -142,7 +142,7 @@ His figure was that of a prototypical sleepwalker&.
 
 //ƒCƒ[ƒW‚a‚f//‚o‚b‰æ–Êi—‚¿‚á‚ñ‚Ë‚éj
 //¦ƒjƒ…[ƒWƒFƒl–Œ‚ğˆµ‚Á‚½ƒjƒ…[ƒX”Â
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg118_01_3_Œf¦”Â‘¬•ñ_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg118_01_3_Œf¦”Â‘¬•ñ_a.jpg");
 	Fade("”wŒi‚P", 200, 1000, null, true);
 
 

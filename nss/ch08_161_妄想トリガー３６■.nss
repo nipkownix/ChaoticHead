@@ -586,7 +586,7 @@ The words written there were
 	SoundPlay("SE01", 1000, 0, false);
 
 //ƒCƒ[ƒW‚a‚f//ŠK‰º‚Ì‘‹‚©‚ç‚È‚Ñ‚¢‚Ä‚¢‚éƒ^ƒIƒ‹iƒ^ƒIƒ‹‚É•`‚©‚ê‚½•¶šu‚»‚Ì–Ú‚¾‚ê‚Ì–ÚHvj
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg186_02_1_‚½‚È‚Ñ‚­ƒ^ƒIƒ‹_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg186_02_1_‚½‚È‚Ñ‚­ƒ^ƒIƒ‹_a.jpg");
 	CreateSE("SE02","SE_ÕŒ‚_ÕŒ‚‰¹02");
 
 	Fade("”wŒi‚P", 0, 1000, null, true);
@@ -1584,7 +1584,7 @@ And on the seventh page was\
 
 	Wait(1000);
 
-	CreateTextureEX("”wŒi‚V", 100, 0, 0, "cg/bg/bg171_01_3_ƒJƒ‹ƒe‚»‚Ì–Ú_a.jpg");
+	CreateTextureEX("”wŒi‚V", 100, 0, 0, "chaotic/bg/bg171_01_3_ƒJƒ‹ƒe‚»‚Ì–Ú_a.jpg");
 	CreateSE("SE04","SE_ÕŒ‚_ÕŒ‚‰¹01");
 
 	Fade("”wŒi‚V", 0, 1000, null, true);

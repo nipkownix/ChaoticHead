@@ -16,7 +16,7 @@ chapter main
 	$extFade=DurationTime("extSND_A");
 	SetVolume("extSND_B",$extFade,1000,null);
 	SetLoop("extSND_B",true);
-	CreateTexture("ext_BAK",1000,0,0,"cg/extra/menu-back.png");
+	CreateTexture("ext_BAK",1000,0,0,"chaotic/extra/menu-back.png");
 	LoadImage("btn_OFF","cg/extra/enter-001.png");
 	LoadImage("btn_OVER","cg/extra/enter-002.png");
 	LoadImage("btn_ON","cg/extra/enter-003.png");

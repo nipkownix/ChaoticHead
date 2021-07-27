@@ -9,7 +9,7 @@ chapter main
 	Fade("BLK",0,0,null,false);
 	Fade("BLK",300,1000,null,true);
 	
-	CreateTexture("BG",1000,0,0,"cg/extra/sl/SOUND-back.png");
+	CreateTexture("BG",1000,0,0,"chaotic/extra/sl/SOUND-back.png");
 	
 	CreateChoice("EXIT");
 	CreateTexture("EXIT_img",1000,20,554,"cg/extra/sl/sound-exit-001.png");
@@ -50,7 +50,7 @@ chapter main
 	SetAlias("KNOB","KNOB");
 	
 	CreateWindow("TXTWND",1000,164,94,172,80,false);
-	CreateTexture("TXTWND/TXT",1000,336,94,"cg/extra/sl/—¬‚ê•¶Žš.png");
+	CreateTexture("TXTWND/TXT",1000,336,94,"chaotic/extra/sl/—¬‚ê•¶Žš.png");
 	SetAlias("TXTWND/TXT","TXT");
 	CreateProcess("PROCSCROLL",0,0,0,"procTxtScroll");
 	Request("PROCSCROLL",Start);

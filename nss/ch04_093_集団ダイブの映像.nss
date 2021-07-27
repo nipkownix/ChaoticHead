@@ -180,7 +180,7 @@ There's no proof for it anywhere!
 //１章で優愛が拓巳に見せたチャットログです
 	CreateSE("SE01","SE_衝撃_フラッシュバック");
 	MusicStart("SE01", 0, 500, 0, 1000, null, false);
-	CreateTextureEX("back03", 100, 0, 0, "cg/bg/bg042_01_2_ログプリント_a.jpg");
+	CreateTextureEX("back03", 100, 0, 0, "chaotic/bg/bg042_01_2_ログプリント_a.jpg");
 	Fade("back03", 100, 1000, null, true);
 	Wait(300);
 	FadeDelete("back03", 400, true);
@@ -287,7 +287,7 @@ being&, I stuck to just reading the text of his mail&.
 	CreateSE("SE03","SE_日常_PC_マウスクリック");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);
 
-	CreateBG(100, 0, 0, 0, "cg/bg/bg140_01_3_PCメール_グリム_a.jpg");
+	CreateBG(100, 0, 0, 0, "chaotic/bg/bg140_01_3_PCメール_グリム_a.jpg");
 
 /*以下、メール文章のため一時的にコメントアウト致します
 //※以下、グリムのメールの内容
@@ -391,7 +391,7 @@ Furious&, I clicked the URL&.
 
 //イメージＢＧ//ＰＣ画面（ＹＯＵＴＵＢＥぽい）
 
-	CreateBG(100, 0, 0, 0, "cg/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
+	CreateBG(100, 0, 0, 0, "chaotic/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>
@@ -424,7 +424,7 @@ At last it finished loading&, and the video began playing back―
 	CreateSE("SE03","SE_日常_PC_マウスクリック");
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);
 
-	CreateTextureEX("集団ダイブ", 100, 0, 0, "cg/bg/bg142_01_3_ミュウツベ集団ダイブ_a.jpg");
+	CreateTextureEX("集団ダイブ", 100, 0, 0, "chaotic/bg/bg142_01_3_ミュウツベ集団ダイブ_a.jpg");
 	Request("集団ダイブ", Smoothing);
 
 	Fade("集団ダイブ", 0, 1000, null, true);
@@ -751,7 +751,7 @@ I bit my lip and covered my eyes&.
 
 	Delete("集団ダイブ");
 
-	CreateTextureEX("back10", 100, 0, 0, "cg/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
+	CreateTextureEX("back10", 100, 0, 0, "chaotic/bg/bg901_01_1_汎用ミュウツベ_a.jpg");
 	Fade("back10", 2000, 1000, null, true);
 
 	FadeDelete("back03", 500, true);

@@ -1772,7 +1772,7 @@ details&.
 	MusicStart("SE03", 0, 1000, 0, 1000, null, false);
 
 	//320*240
-	CreateTextureEX("検索", 1300, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("検索", 1300, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 
 	Fade("検索", 300, 1000, null, true);
 
@@ -1794,7 +1794,7 @@ When I tried searching "New Gen&," I got some hits right away&.
 	CreateSE("SE03","SE_日常_PC_マウスクリック");
 	MusicStart("SE03",0,1000,0,1000,null,false);
 
-	CreateTextureEX("結果１", 1300, 0, 0,"cg/bg/bg012_01_1_ニュースサイト_a.jpg");
+	CreateTextureEX("結果１", 1300, 0, 0,"chaotic/bg/bg012_01_1_ニュースサイト_a.jpg");
 	Fade("結果１", 0, 1000, null, true);
 	FadeDelete("検索", 0, 0, false);
 
@@ -1821,7 +1821,7 @@ Including a fetus&, there have been seven victims&.
 
 {	CreateSE("SE03","SE_日常_PC_マウスクリック");
 	MusicStart("SE03",0,1000,0,1000,null,false);
-	CreateTextureEX("結果２", 2000, 0, 0,"cg/bg/bg012_02_1_ニュースサイト_a.jpg");
+	CreateTextureEX("結果２", 2000, 0, 0,"chaotic/bg/bg012_02_1_ニュースサイト_a.jpg");
 	Fade("結果２", 0, 1000, null, true);
 	FadeDelete("結果１", 0, 0, false);}
 // ENTER_reset
@@ -2419,13 +2419,13 @@ Shogun: Shibuya
 //・渋谷ニュージェネレーションの狂気！
 
 	CreateColor("色１", 2000, 0, 0, 800, 600, "WHITE");
-	CreateTextureEX("結果１", 2000, 0, 0,"cg/bg/bg012_01_1_ニュースサイト_a.jpg");
+	CreateTextureEX("結果１", 2000, 0, 0,"chaotic/bg/bg012_01_1_ニュースサイト_a.jpg");
 	Fade("結果１", 200, 1000, null, true);
 
 	FadeDelete("色１", 200, false);
 
 	CreateColor("色２", 2000, 0, 0, 800, 600, "WHITE");
-	CreateTextureEX("結果２", 2000, 0, 0,"cg/bg/bg012_02_1_ニュースサイト_a.jpg");
+	CreateTextureEX("結果２", 2000, 0, 0,"chaotic/bg/bg012_02_1_ニュースサイト_a.jpg");
 	Fade("結果２", 200, 1000, null, true);
 
 	FadeDelete("色２", 200, false);
@@ -2553,7 +2553,7 @@ the blue&.
 //イメージＢＧ//ネットブラウザ画面
 {	Fade("box01", 0, 0, null, false);
 	Wait(200);
-	CreateTextureEX("検索", 1500, 0, 0,"cg/bg/bg011_01_1_検索欄UP_a.jpg");
+	CreateTextureEX("検索", 1500, 0, 0,"chaotic/bg/bg011_01_1_検索欄UP_a.jpg");
 	Fade("検索", 200, 1000, null, true);}
 //しにググってみた。
 //こういうとき、ネットは検索すればいいから楽だよね。

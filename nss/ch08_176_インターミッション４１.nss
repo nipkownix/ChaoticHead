@@ -178,7 +178,7 @@ The name written on the nameplate for the hospitalized patient was―
 	SoundPlay("SE01", 500, 0, false);
 	Wait(1000);
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg189_01_1_ネームプレート_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg189_01_1_ネームプレート_a.jpg");
 	CreateSE("SE02","SE_衝撃_衝撃音01");
 
 	SoundPlay("SE02", 0, 1000, false);

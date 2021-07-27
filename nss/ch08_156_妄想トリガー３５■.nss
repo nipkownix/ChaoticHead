@@ -935,12 +935,12 @@ I reluctantly clicked his links and bit down hard on my lip&.
 	#bg183_01_3_PC画面ZACO‐DQN_a=true;
 	CreateSE("SE02","SE_日常_PC_マウスクリック");
 	SoundPlay("SE02", 0, 1000, false);
-	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg183_01_3_PC画面ZACO-DQN_a.jpg");
+	CreateTexture("背景１", 100, 0, 0, "chaotic/bg/bg183_01_3_PC画面ZACO-DQN_a.jpg");
 	WaitKey();
 
 	CreateSE("SE02","SE_日常_PC_マウスクリック");
 	SoundPlay("SE02", 0, 1000, false);
-	CreateTexture("背景１", 100, 0, 50, "cg/bg/bg183_02_3_PC画面ZACO-DQN_a.jpg");
+	CreateTexture("背景１", 100, 0, 50, "chaotic/bg/bg183_02_3_PC画面ZACO-DQN_a.jpg");
 	WaitKey();
 
 	CreateSE("SE02","SE_日常_PC_マウスクリック");
@@ -1078,7 +1078,7 @@ Moob-Gen No&. ? = &.&.&.&.&.to be continued!!!  (゜ロ)ギョェ</PRE>
 
 	CreateSE("SE02","SE_機械_電化製品_ラジオ_ピンクノイズ");
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg213_01_6_ニュースDQNパズル_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg213_01_6_ニュースDQNパズル_a.jpg");
 
 	CreateMovie("砂嵐", 200, 0, 0, true, false, "dx/mvSandstorm.ngs");	
 	Fade("砂嵐", 0, 1000, null, true);

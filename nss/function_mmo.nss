@@ -59,7 +59,7 @@ function MmoMain($Ｘ座標,$Ｙ座標,"$場所")
 	SetVertex("MmoWindow/back", 0, 0);
 	Request("MmoWindow/back", Smoothing);
 	Zoom("MmoWindow/back", 0, 500, 500, null, true);
-	CreateTexture("MmoWindow/エンスーギミック", 1500, 0, 0, "cg/sys/mmo/エンスーギミック.png");
+	CreateTexture("MmoWindow/エンスーギミック", 1500, 0, 0, "chaotic/sys/mmo/エンスーギミック.png");
 	CreateTexture("MmoWindow/エンスーウィンドウ", 1500, 40, 440, "cg/sys/mmo/エンスーウィンドウ.png");
 	CreateMovie("MmoWindow/ムービー１", 1100, 300, 200, true, true, "dx/mvNH02.ngs");
 	CreateWindow("MmoWindow/box02", 2000, 50, 443, 800, 130, true);

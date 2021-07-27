@@ -82,7 +82,7 @@ function ch02_033_葉月志乃■()
 //おがみ：チェックシートダミー
 //○○○○が担当します
 
-//	CreateTextureEX("背景３", 100, 0, 0, "cg/bg/bg010_01_1_最低登校シフト表_a.jpg");
+//	CreateTextureEX("背景３", 100, 0, 0, "chaotic/bg/bg010_01_1_最低登校シフト表_a.jpg");
 //	Fade("背景３", 0, 1000, null, true);
 
 //イメージＢＧ//チェックシート

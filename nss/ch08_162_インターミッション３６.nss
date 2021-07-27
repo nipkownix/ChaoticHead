@@ -242,7 +242,7 @@ Furrowing her eyebrows&, she picked up an essay he had left there&.
 	SoundPlay("SE01", 2000, 200, true);
 
 	CreateSE("SE03","SE_ÕŒ‚_¶“kè’ —‚¿‚é");
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg004_01_1_ì•¶—p†‚»‚Ì–Ú_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg004_01_1_ì•¶—p†‚»‚Ì–Ú_a.jpg");
 
 	SoundPlay("SE03", 0, 1000, false);
 	Fade("”wŒi‚P", 100, 1000, null, true);

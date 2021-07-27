@@ -167,7 +167,7 @@ function SetRoll($処理単位名,$ナット名,$待機)
 function ProcessRoll01()
 {
 
-	CreateTexture("エンドロール背景", 1000, 0, 600, "cg/sys/ed/StaffRoll.png");
+	CreateTexture("エンドロール背景", 1000, 0, 600, "chaotic/sys/ed/StaffRoll.png");
 	SetAlias("エンドロール背景", "エンドロール背景");
 
 begin:
@@ -204,7 +204,7 @@ begin:
 function ProcessRoll02()
 {
 
-	CreateTexture("エンドロール背景", 1001, 0, 600, "cg/sys/ed/StaffRoll.png");
+	CreateTexture("エンドロール背景", 1001, 0, 600, "chaotic/sys/ed/StaffRoll.png");
 	SetAlias("エンドロール背景", "エンドロール背景");
 
 	CreateTexture("エンドロール０１", 1000, 0, 0, "cg/ev/ev102_01_1_Ａエンド1_a.jpg");
@@ -274,7 +274,7 @@ begin:
 function ProcessRoll03()
 {
 
-	CreateTexture("エンドロール背景", 1000, 0, 600, "cg/sys/ed/StaffRoll.png");
+	CreateTexture("エンドロール背景", 1000, 0, 600, "chaotic/sys/ed/StaffRoll.png");
 	SetAlias("エンドロール背景", "エンドロール背景");
 
 begin:

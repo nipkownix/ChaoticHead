@@ -26,7 +26,7 @@ function ch04_087_–Ï‘zƒgƒŠƒK[‚P‚W¡()
 	SystemInit();
 	SystemSet();
 
-	CreateBG( 100, 0, 0, 0, "cg/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
+	CreateBG( 100, 0, 0, 0, "chaotic/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
 
 //™™™
 //–Ï‘zƒgƒŠƒK[•ªŠò
@@ -105,7 +105,7 @@ What a cheap-looking sky&.
 But it was normal for Shibuya&.
 To me&, someone living in Shibuya&, this was my sky&.
 
-{	CreateTextureEX("back03", 100, 0, 100, "cg/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
+{	CreateTextureEX("back03", 100, 0, 100, "chaotic/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
 	Request("back03", Smoothing);
 	Move("back03", 1000, 0, 0, DxlAuto, false);
 	Fade("back03", 500, 1000, null, true);
@@ -156,7 +156,7 @@ He was clearly referring to me&.
 My heartbeat&, which I'd been working on reining in the whole while&,
 went wild again&, this time because of my tension&.
 
-{	CreateBG(100, 500, 0, 0, "cg/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
+{	CreateBG(100, 500, 0, 0, "chaotic/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
 	Wait(500);}
 //y‘ñ–¤z
 <voice name="‘ñ–¤" class="‘ñ–¤" src="voice/ch04/08700040ta">
@@ -349,7 +349,7 @@ I stopped right in front of them and looked back at the park&.
 
 	SetVolume("SE02", 500, 0, NULL);
 
-	CreateTexture("back04", 100, 0, 0, "cg/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
+	CreateTexture("back04", 100, 0, 0, "chaotic/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
 	DrawTransition("back04", 300, 0, 1000, 100, null, "cg/data/right2.png", true);
 	Delete("back05");
 
@@ -862,7 +862,7 @@ I crossed the overhead bridge&, heading toward the stairs leading down
 to Meiji Avenue&.
 
 {	SetVolume("SE02", 500, 0, NULL);
-	CreateTexture("back04", 100, 0, 0, "cg/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
+	CreateTexture("back04", 100, 0, 0, "chaotic/bg/bg083_02_3_‹{‰ºŒö‰€_a.jpg");
 	DrawTransition("back04", 300, 0, 1000, 100, null, "cg/data/right2.png", true);
 	Delete("back05");}
 When I looked over my shoulder there&, I saw the policeman sprinting

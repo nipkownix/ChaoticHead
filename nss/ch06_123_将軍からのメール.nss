@@ -92,7 +92,7 @@ I immediately checked my mail&.
 
 	Wait(500);
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg159_01_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg159_01_1_PC画面メールソフト_a.jpg");
 	Fade("背景２", 0, 1000, null, true);
 
 //――――――――――――――――――――――――――――――――――――――
@@ -123,7 +123,7 @@ worthwhile&.&.&.
 //『変態な私とセフレになって／まりあ』
 
 
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg159_02_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg159_02_1_PC画面メールソフト_a.jpg");
 	Fade("背景１", 500, 1000, null, true);
 
 
@@ -137,7 +137,7 @@ Pretty much all of them were spam&.
 	SetText($SYSTEM_present_preprocess,$SYSTEM_present_text);
 	TypeBegin();//――――――――――――――――――――――――――――――
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg159_01_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg159_01_1_PC画面メールソフト_a.jpg");
 	Fade("背景２", 500, 1000, null, true);
 
 	Wait(500);
@@ -168,7 +168,7 @@ That caught my attention&.
 
 //イメージＢＧ//メールのタイトルと送信者名『その目だれの目？』『ななみ』を大きく表示（走査線やドットが見えるくらいに）
 //ＳＥ//心臓の鼓動
-	CreateTextureEX("背景１", 100, 0, 0, "cg/bg/bg159_03_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景１", 100, 0, 0, "chaotic/bg/bg159_03_1_PC画面メールソフト_a.jpg");
 	Fade("背景１", 0, 1000, null, true);
 
 	CreateSE("SE02","SE_人体_心臓_鼓動");
@@ -327,7 +327,7 @@ Extracting my email address&.&.&. might be easy as pie for him&.&.&.
 //ＢＧ//拓巳の部屋
 
 
-	CreateTextureEX("背景２", 100, 0, 0, "cg/bg/bg159_04_1_PC画面メールソフト_a.jpg");
+	CreateTextureEX("背景２", 100, 0, 0, "chaotic/bg/bg159_04_1_PC画面メールソフト_a.jpg");
 	Fade("背景２", 500, 1000, null, false);
 
 	Wait(3000);
@@ -398,7 +398,7 @@ shortly before&.&.&.
 	Fade("回想フラッシュ", 100, 1000, null, true);
 	CreateColor("回想明度", 150, 0, 0, 800, 600, "WHITE");
 	Fade("回想明度", 0, 300, null, true);
-	CreateTexture("背景１", 100, 0, 0, "cg/bg/bg157_02_1_七海メール_a.jpg");
+	CreateTexture("背景１", 100, 0, 0, "chaotic/bg/bg157_02_1_七海メール_a.jpg");
 	Fade("回想フラッシュ", 500, 0, null, true);
 
 	Wait(2000);
@@ -443,12 +443,12 @@ Na&, Nanami&.&.&. was she&.&.&. okay&.&.&.?
 	Fade("回想フラッシュ", 100, 1000, null, true);
 	Delete("背景１");
 	Delete("回想明度");
-	CreateTexture("背景２", 100, 0, -200, "cg/bg/bg159_04_1_PC画面メールソフト_a.jpg");
+	CreateTexture("背景２", 100, 0, -200, "chaotic/bg/bg159_04_1_PC画面メールソフト_a.jpg");
 	Fade("回想フラッシュ", 1500, 0, null, true);
 	Delete("回想フラッシュ");
 	Wait(500);
 
-	CreateTextureEX("七海携帯番号", 100, 0, 0, "cg/bg/bg188_01_3_携帯電話七海表示_a.jpg");
+	CreateTextureEX("七海携帯番号", 100, 0, 0, "chaotic/bg/bg188_01_3_携帯電話七海表示_a.jpg");
 
 //――――――――――――――――――――――――――――――――――――――
 <PRE box00>

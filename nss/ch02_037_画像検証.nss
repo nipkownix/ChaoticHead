@@ -326,9 +326,9 @@ future!
 	Shake("ƒ‹[ƒ€", 200, 0, 5, 0, 0, 500, null, false);
 	Wait(500);
 
-	CreateTextureEX("”wŒi‚S", 150, 0, -150, "cg/bg/bg120_01_3_PC‰æ–Ê‚»‚Ì–Ú_a.jpg");
+	CreateTextureEX("”wŒi‚S", 150, 0, -150, "chaotic/bg/bg120_01_3_PC‰æ–Ê‚»‚Ì–Ú_a.jpg");
 	Zoom("”wŒi‚S", 0, 2000, 2000, null, true);
-	CreateTextureEX("”wŒi‚R", 100, 0, 0, "cg/bg/bg120_01_3_PC‰æ–Ê‚»‚Ì–Ú_a.jpg");
+	CreateTextureEX("”wŒi‚R", 100, 0, 0, "chaotic/bg/bg120_01_3_PC‰æ–Ê‚»‚Ì–Ú_a.jpg");
 	CreateSE("ÕŒ‚","SE_ÕŒ‚_ÕŒ‚‰¹02");
 	CreateSE("SE05","SE_“úí_•¨‰¹");
 	CreateSE("SE06","SE_ÕŒ‚_ÕŒ‚‰¹03");
@@ -489,7 +489,7 @@ began typing in my thoughts&.
 //—Dˆ¤«ŒR‚Ìè‰º
 //‚¨‚ª‚İF‰æ‘œƒ_ƒ~[‚Å‚·Bã‹L“à—e‚Æ‚ÍH‚¢ˆá‚Á‚Ä‚¢‚Ü‚·B
 
-	CreateTextureEX("”wŒi‚P", 100, 0, 0, "cg/bg/bg044_04_1_ƒ[ƒvƒ•¶Í_a.jpg");
+	CreateTextureEX("”wŒi‚P", 100, 0, 0, "chaotic/bg/bg044_04_1_ƒ[ƒvƒ•¶Í_a.jpg");
 	Fade("”wŒi‚P", 0, 0, null, true);
 	Fade("”wŒi‚P", 0, 1000, null, true);
 

@@ -38,7 +38,7 @@ function ch07_129_インターミッション２７()
 //イメージＢＧ//地下鉄半蔵門線渋谷駅改札前
 //アイキャッチ
 
-	CreateTextureEX("アイキャッチ１", 100, 0, 0, "cg/sys/title/cards/title_ch07.png");
+	CreateTextureEX("アイキャッチ１", 100, 0, 0, "chaotic/sys/title/cards/title_ch07.png");
 	Fade("アイキャッチ１", 10, 1000, null, true);
 
 	WaitKey(3200);
