@@ -2,7 +2,7 @@
 
 #define VERSION "1.30"
 
-#define FILES_DIR "C:\Users\nipkow\Desktop\New folder"
+#define FILES_DIR "C:\Users\nipkow\Desktop\tmp_chaotic"
 
 [Setup]
 AppName=Chaotic;Head
@@ -33,16 +33,21 @@ Compression=lzma2/ultra
 [Files]
 Source: "{#FILES_DIR}\fonts\*"; DestDir: "{app}\fonts";
 Source: "{#FILES_DIR}\dx\*"; DestDir: "{app}\dx";
-Source: "{#FILES_DIR}\chaotic.dll"; DestDir: "{app}";
+Source: "{#FILES_DIR}\chaotic.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#FILES_DIR}\chaotic.npa"; DestDir: "{app}";
-Source: "{#FILES_DIR}\ChaoticHead.exe"; DestDir: "{app}";
+Source: "{#FILES_DIR}\ChaoticHead.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#FILES_DIR}\ex.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\nss.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\system.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\voice.npa"; DestDir: "{app}";
 
+[Tasks]
+Name: "desktopicon"; Description: "Create a &desktop shortcut"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
+Name: "startmenuicon"; Description: "Create a &start menu shortcut"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
+
 [Icons]
-Name: "{group}\Chaotic;Head"; Filename: "{app}\ChaoticHead.exe"
+Name: "{userdesktop}\Chaotic;Head"; Filename: "{app}\ChaoticHead.exe"; Tasks: desktopicon
+Name: "{group}\Chaotic;Head"; Filename: "{app}\ChaoticHead.exe"; Tasks: startmenuicon
 
 [Messages]
 WelcomeLabel1=[name] Installation Wizard
@@ -55,7 +60,6 @@ ExitSetupMessage=Are you sure you want to close the wizard?
 procedure create_RTFlabel;
 var
   WelcomeLabel2_RTF: TRichEditViewer;
-  FinishedLabel_RTF: TRichEditViewer;
 begin
   WelcomeLabel2_RTF := TRichEditViewer.Create(WizardForm);
   with WelcomeLabel2_RTF do
@@ -108,8 +112,6 @@ begin
 end;
 
 function NextButtonClick(CurPage: Integer): Boolean;
-var
-  i: Integer;
 begin
   Result := True;
 
@@ -119,11 +121,12 @@ begin
     if not FileExists(AddBackslash(WizardDirValue) + 'ChaosHead.exe') then 
     begin
       if FileExists(AddBackslash(WizardDirValue) + 'ChaoticHead.exe') then 
+        Result := True
+      else 
       begin
-        Result := True;
-      end else
-      if MsgBox('Could not find Chaos;Head files in folder!' #13#13 'The selected folder may not be where Chaos;Head is located.' #13#13 'Proceed anyway?', mbConfirmation, MB_YESNO) = IDNO then
+        MsgBox('ERROR: Could not find Chaos;Head files!' #13#13 'The selected folder may not be where Chaos;Head is located.' #13#13 'Please try again.', mbInformation, MB_OK);
         Result := False;
+      end;
     end;
   end;
 end;
@@ -179,7 +182,6 @@ begin
 end;
 
 procedure preInstall();
-var i : Integer;
 begin
   // Make a backup if one doesn't already exist
   if not DirExists(WizardDirValue + '\backup') then
