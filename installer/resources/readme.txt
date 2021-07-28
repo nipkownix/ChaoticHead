@@ -29,7 +29,10 @@ Changelog:
 
 Changed the game's encryption key from Demonbane's to Chaos;Head's, making the engine capable of loading original .npa archives from Chaos;Head. This allows us to avoid having to repack every single .npa for redistribution, and also allows us to not have to rely on specific game versions for diff patching. The result is the creation of a new installer that should work with any version of the game.
 Translation/script fixes:
-~~~~insert dave's magic here~~~~
+Changed "seams" to "camel toe" in 01_003.
+Fixed the day of the week in 08_160.
+Changed "hereditary" to "inborn" in 10_200.
+Fixed a few typos and grammar mistakes.
 
 ________________________
 
