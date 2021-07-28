@@ -1,0 +1,9 @@
+[submodule "chaotic-head_dll/external/ModUtils"]
+	path = chaotic-head_dll/external/ModUtils
+	url = https://github.com/CookiePLMonster/ModUtils/
+[submodule "chaotic-head_dll/external/inireader"]
+	path = chaotic-head_dll/external/inireader
+	url = https://github.com/ThirteenAG/IniReader.git
+[submodule "chaotic-head_dll/external/injector"]
+	path = chaotic-head_dll/external/injector
+	url = https://github.com/thelink2012/injector.git
