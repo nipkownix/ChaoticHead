@@ -40,6 +40,7 @@ Source: "{#FILES_DIR}\ex.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\nss.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\system.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\voice.npa"; DestDir: "{app}";
+Source: "{#FILES_DIR}\techinfo.txt"; DestDir: "{app}";
 
 [Tasks]
 Name: "desktopicon"; Description: "Create a &desktop shortcut"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
