@@ -2,7 +2,7 @@
 
 #define VERSION "1.30"
 
-#define FILES_DIR "C:\Users\nipkow\Desktop\tmp_chaotic"
+#define FILES_DIR "D:\Porgrams\Games\ChaosHead\tmp_chaotic"; "Porgrams" isn't a typoo
 
 [Setup]
 AppName=Chaotic;Head
@@ -33,22 +33,13 @@ Compression=lzma2/ultra
 [Files]
 Source: "{#FILES_DIR}\fonts\*"; DestDir: "{app}\fonts";
 Source: "{#FILES_DIR}\dx\*"; DestDir: "{app}\dx";
+Source: "{#FILES_DIR}\ChaosHead.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#FILES_DIR}\chaotic.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#FILES_DIR}\chaotic.npa"; DestDir: "{app}";
-Source: "{#FILES_DIR}\ChaoticHead.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#FILES_DIR}\ex.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\nss.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\system.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\voice.npa"; DestDir: "{app}";
 Source: "{#FILES_DIR}\techinfo.txt"; DestDir: "{app}";
-
-[Tasks]
-Name: "desktopicon"; Description: "Create a &desktop shortcut"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
-Name: "startmenuicon"; Description: "Create a &start menu shortcut"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
-
-[Icons]
-Name: "{userdesktop}\Chaotic;Head"; Filename: "{app}\ChaoticHead.exe"; Tasks: desktopicon
-Name: "{group}\Chaotic;Head"; Filename: "{app}\ChaoticHead.exe"; Tasks: startmenuicon
 
 [Messages]
 WelcomeLabel1=[name] Installation Wizard
@@ -121,13 +112,13 @@ begin
   begin
     if not FileExists(AddBackslash(WizardDirValue) + 'ChaosHead.exe') then 
     begin
-      if FileExists(AddBackslash(WizardDirValue) + 'ChaoticHead.exe') then 
-        Result := True
-      else 
-      begin
-        MsgBox('ERROR: Could not find Chaos;Head files!' #13#13 'The selected folder may not be where Chaos;Head is located.' #13#13 'Please try again.', mbInformation, MB_OK);
+      MsgBox('ERROR: Could not find Chaos;Head files!' #13#13 'The selected folder may not be where Chaos;Head is located.' #13#13 'Please try again.', mbInformation, MB_OK);
         Result := False;
-      end;
+    end;
+    if not FileExists(AddBackslash(WizardDirValue) + 'ex.npa') then 
+    begin 
+      if MsgBox('Could not find "ex.npa" in the game''s files!' #13#13 'Without this file, you won''t be able to enable LCS(underwear mode).' #13#13 'Proceed anyway?', mbConfirmation, MB_YESNO) = IDNO then
+        Result := False;
     end;
   end;
 end;
