@@ -8,7 +8,7 @@
 AppName=Chaotic;Head
 AppVersion={#VERSION}
 WizardStyle=modern
-DefaultDirName={autopf}\Nitroplus\CHAOS;HEAD
+DefaultDirName={code:GetDefaultDirName}  
 DefaultGroupName=Chaotic Head
 OutputDir=build
 OutputBaseFilename=Chaotic_{#VERSION}
@@ -47,7 +47,6 @@ InfoBeforeLabel=Information and changelog
 SelectDirLabel3=[name] must be installed in the same folder as Chaos;Head. Please specify the directory where Chaos;Head is located.
 ExitSetupMessage=Are you sure you want to close the wizard?
 
-
 [Code]
 procedure create_RTFlabel;
 var
@@ -79,6 +78,26 @@ var
   ErrorCode: Integer;
 begin
   ShellExec('open', 'https://nipkownix.github.io/ChaoticHead/', '', '', SW_SHOWNORMAL, ewNoWait, ErrorCode);
+end;
+
+// Return a DefaultDirName based on conditions
+function GetDefaultDirName(Param: string): string;
+var 
+  InstallationPath : String;
+  RetailInstallDir : String;
+  DMMInstallDir    : String;
+begin
+  if InstallationPath = '' then
+  begin
+    if RegQueryStringValue(HKCU32, 'Software\Nitroplus\CHAOS;HEAD', 'execute', RetailInstallDir) and FileExists(RetailInstallDir) then 
+      InstallationPath := ExtractFilePath(RetailInstallDir)
+    else
+    if RegQueryStringValue(HKCU32, 'Software\Nitroplus\CHAOS;HEAD The Best', 'execute', DMMInstallDir) and FileExists(DMMInstallDir) then 
+      InstallationPath := ExtractFilePath(DMMInstallDir)
+    else
+      InstallationPath := ExpandConstant('{autopf}\') + '\Nitroplus\CHAOS;HEAD';  
+  end;
+  Result := InstallationPath;
 end;
 
 procedure InitializeWizard();
